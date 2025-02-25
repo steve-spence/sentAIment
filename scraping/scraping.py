@@ -3,9 +3,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import re
 
-def get_article_percent():
-    driver = webdriver.Chrome()
+def get_article_percent(print_output=False):
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    driver = webdriver.Chrome(options=chrome_options)
     driver.get("https://finance.yahoo.com/news/")
     driver.implicitly_wait(2)
 
@@ -15,28 +19,41 @@ def get_article_percent():
 
     story_item = driver.find_elements(By.CLASS_NAME, "story-item")
     for item in story_item:
-        titleElement = item.find_element(By.TAG_NAME, "h3")
-        print(titleElement.text)
         try:
-            # Wait for the footer element to be present and visible
+            titleElement = item.find_element(By.TAG_NAME, "h3")
+
+            # Wait for the footer psuedo-selectors to be present and visible
             footer = WebDriverWait(item, 10).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "footer"))
             )
-            # once this footer is loaded get the percent change
-            percent_change = footer.find_element(By.CLASS_NAME, "percentChange")
-            print("Change:", percent_change.text)
-            articleInfo[titleElement.text] = percent_change.text
 
+            pattern = r"([A-Z]+)\s*(-?\d+\.\d+%)"
+            match = re.search(pattern, footer.text)
 
+            if match:
+                stock_symbol = match.group(1)
+                percent_change = match.group(2)
+                if print_output:
+                    print(f"Title: {titleElement.text}, Stock: {stock_symbol}, Change: {percent_change}")
+
+                # Add to articleInfo dictionary
+                articleInfo[titleElement.text] = {"stock_symbol": stock_symbol, "percent_change": percent_change}
+            else:
+                #print(f"Couldn't find percent change for: {titleElement.text}")
+                pass
+       
         except Exception:
-            print("No percent change found.")
+            if print_output:
+                print("No title found for this story item.")
 
     if not story_item:
+
         print("No story items found on Yahoo Finance.")
     
     driver.quit()
-
     return articleInfo
+
+get_article_percent()
 
 """
 This code scrapes Yahoo Finance using browser-use
