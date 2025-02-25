@@ -4,10 +4,12 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-def get_article_percents():
+def get_article_percent():
     driver = webdriver.Chrome()
     driver.get("https://finance.yahoo.com/news/")
     driver.implicitly_wait(2)
+
+    articleInfo = {}
 
     ActionChains(driver).scroll_by_amount(0, 800).perform()
 
@@ -23,14 +25,18 @@ def get_article_percents():
             # once this footer is loaded get the percent change
             percent_change = footer.find_element(By.CLASS_NAME, "percentChange")
             print("Change:", percent_change.text)
+            articleInfo[titleElement.text] = percent_change.text
+
 
         except Exception:
             print("No percent change found.")
 
     if not story_item:
-        print("No story items found.")
+        print("No story items found on Yahoo Finance.")
     
     driver.quit()
+
+    return articleInfo
 
 """
 This code scrapes Yahoo Finance using browser-use
