@@ -29,6 +29,8 @@ def get_article_percents():
 
     if not story_item:
         print("No story items found.")
+    
+    driver.quit()
 
 """
 This code scrapes Yahoo Finance using browser-use
