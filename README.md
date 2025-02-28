@@ -1,56 +1,25 @@
-[Investment-AI]
-Description
-[This project aims to decide stock sentiment based on news rather than statistical analysis. We are testing to see if news data alone is powerful enough to trade on. One of the biggest shortcomings that most stock screeners or stock analysis applications have is a lack of transparency. They do not tell you why a stock has a 78% chance of increasing in value. Our application will help the end-user understand how and why we came to the analysis we did and what influenced our decision.]
+# Investment-AI
 
-Features
-[News-based analysis]
-[Statistical analysis]
-[Combination of above]
+## Description
 
-Technologies Used
-Frontend: [React, Next.js, TypeScript, Tailwind CSS]
-Backend: [Drizzle, PostgreSQL]
-Deployment: [Vercel]
-Installation
-To run this project locally, follow these steps:
+This project aims to decide stock sentiment based on news rather than statistical analysis. We are testing to see if news data alone is powerful enough to trade on. One of the biggest shortcomings that most stock screeners or stock analysis applications have is a lack of transparency. They do not tell you why a stock has a 78% chance of increasing in value. Our application will help the end-user understand how and why we came to the analysis we did and what influenced our decision.
 
-Clone the repository:
+## Features
 
-bash
-Copy
-git clone https://github.com/your-username/your-project-name.git
-Navigate to the project directory:
+- News-based analysis
+- Statistical analysis
+- Combination of the above
 
-bash
-Copy
-cd your-project-name
-Install dependencies:
+## Technologies Used
 
-bash
-Copy
-npm install
-Start the development server:
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Drizzle, PostgreSQL
+- **Deployment**: Vercel
 
-bash
-Copy
-npm run dev
-Your app will be running at http://localhost:3000.
+## API Endpoints
 
-Database Setup
-Set up a PostgreSQL database.
+ - **List any API endpoints, their methods (GET, POST, etc.), and a brief description.**
 
-Configure your database credentials in .env.
+## License
 
-API Endpoints
-[List any API endpoints, their methods (GET, POST, etc.), and a brief description.]
-
-Contributing
-We welcome contributions! If you'd like to contribute to the project, please follow these steps:
-
-Fork the repository.
-Create a new branch for your changes.
-Commit your changes.
-Push your changes to your forked repository.
-Open a pull request.
-License
-This project is licensed under the MIT License.
+ - This project is licesed under the MIT License
