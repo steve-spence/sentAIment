@@ -9,27 +9,6 @@ from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
 from transformers import AutoModel
 
-
-
-def extract_ticker_from_title(title: str) -> str:
-    """
-    Extracts the ticker from the title of a news article.
-    "Vital Farms CEO predicts egg shortages will ease later this year"
-    """
-    df = pd.read_csv("stock_tickers.csv")
-    stock_tickers = df["Symbol"].tolist()
-
-def normalize_company_name(name: str) -> str:
-    """
-    Normalizes a company name by lowercasing and removing common suffixes.
-    """
-    name = name.lower().strip()
-    # Remove common suffixes to improve matching (adjust as needed)
-    for suffix in [" inc", " corporation", " corp", " llc", " ltd"]:
-        if name.endswith(suffix):
-            name = name.replace(suffix, "")
-    return name.strip()
-
 # Function to combine tokens belonging to the same entity
 def combine_entity_tokens(ner_results):
     combined_entities = []
@@ -57,7 +36,7 @@ def setup(title: str):
     IF YOU DONT HAVE THE ENV SET UP JUST COPY THIS
     export FINNHUB_API_KEY=""
     """
-    key = os.environ["FINNHUB_API_KEY"] 
+    key = os.environ["FINNHUB_API_KEY"]
     finnhub_client = finnhub.Client(api_key=key) 
 
     # .peers could be useful here
@@ -69,12 +48,16 @@ def setup(title: str):
         url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
         sp500_table = pd.read_html(url)[0]
         sp500_table['Symbol']=sp500_table['Symbol'].str.replace('.', '-', regex=False)
-        sp500_table['Security']=(sp500_table['Security'].str \
-            .strip()\
-            .replace('"', '', regex=False)\
-            .replace("',", "", regex=False)\
-            .replace(", Inc.", "", regex=False)\
-            .replace(", Inc", "", regex=False)
+        sp500_table['Security']=(sp500_table['Security'] \
+            # clean up the data, will need updating 
+            .str.strip()\
+            .str.replace('"', '', regex=False)\
+            .str.replace("',", "", regex=False)\
+            .str.replace(", Inc.", "", regex=False)\
+            .str.replace(", Inc", "", regex=False)\
+            .str.replace("(the)", "", regex=False)\
+            .str.lower()
+            
         )
         sp500_table.to_csv(csv_filename, index=False)
         print(f"CSV file created and saved as '{csv_filename}'.")
@@ -89,9 +72,6 @@ def setup(title: str):
     for _, row in df.iterrows():
         normalized_name = row['Security'].lower().strip() # this still includes inc and stuff
         company_to_ticker[normalized_name] = row['Symbol'] # all already uppercase
-    # symbols = set(df['Symbol'].unique())     # Get list of ticker symbols
-    # security = set(df['Security'].unique().lower().strip())  # Get list of company names
-    # symbol_security_set = symbols | security
 
     # import the pre-trained BERT-model for testing 
     # we will train our own later
@@ -112,10 +92,13 @@ def setup(title: str):
     for entity in entities:
         # If the entity is all uppercase, assume it's a ticker symbol already
         if entity.isupper():
+            if re.search(r"\bS\s*&\s*P\b", entity, re.IGNORECASE): # Case S & P is detected in NER
+                entity = "SPY"
             ticker = entity
             print(f"Assuming '{entity}' is a ticker symbol.")
             securities_in_title[entity] = finnhub_client.quote(ticker)
         else:
+            # make the string lower to match the csv
             normalized_entity = entity.lower().strip()
             if normalized_entity in company_to_ticker:
                 ticker = company_to_ticker[normalized_entity]
@@ -123,15 +106,17 @@ def setup(title: str):
                 securities_in_title[entity] = finnhub_client.quote(ticker)
             else:
                 print(f"Entity '{entity}' not found in mapping.")
-        # if entity in symbol_security_set:
-        #     print(f"Entity '{entity}' found in the list!")
-        #     securities_in_title[entity] = finnhub_client.quote(entity)
-        # else:
-        #     print(f"Entity '{entity}' not found in the list.")
 
+    for security in securities_in_title:
+        # get the peers of the security
+        
     print(securities_in_title)
     return securities_in_title
 
 if __name__ == "__main__":
-    setup(title="Tesla just wrapped up its second-worst month ever")
+    #setup(title="Stock market today: Dow, S&P 500, Nasdaq sink as Nvidia plummets 7%, Trump tariffs stalk markets")
+    key = os.environ["FINNHUB_API_KEY"]
+    finnhub_client = finnhub.Client(api_key=key)
+
+    print(finnhub_client.company_peers("TSLA"))
     
