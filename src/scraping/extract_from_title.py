@@ -8,6 +8,7 @@ import re
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
 from transformers import AutoModel
+from dotenv import load_dotenv
 
 # Function to combine tokens belonging to the same entity
 def combine_entity_tokens(ner_results):
@@ -36,8 +37,9 @@ def setup(title: str):
     IF YOU DONT HAVE THE ENV SET UP JUST COPY THIS
     export FINNHUB_API_KEY=""
     """
-    key = os.environ["FINNHUB_API_KEY"]
-    finnhub_client = finnhub.Client(api_key=key) 
+    load_dotenv()
+    finnhub_key = os.getenv("FINNHUB_API_KEY")
+    finnhub_client = finnhub.Client(api_key=finnhub_key) 
 
     # .peers could be useful here
     # Get company peers. Return a list of peers operating in the same country and sector/industry.
@@ -107,9 +109,6 @@ def setup(title: str):
             else:
                 print(f"Entity '{entity}' not found in mapping.")
 
-    for security in securities_in_title:
-        # get the peers of the security
-        
     print(securities_in_title)
     return securities_in_title
 
