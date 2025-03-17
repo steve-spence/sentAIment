@@ -16,9 +16,9 @@ export default function LoginPage() {
               <path d="M235.756 136.875C158.225 136.875 133.219 111.869 133.219 34.375C133.219 33.2036 133.147 32.0504 133.072 30.9062C91.7151 37.3263 60.0625 75.6951 60.0625 121.844C60.0625 174.186 102.72 216.844 155.062 216.844C201.211 216.844 239.58 185.191 246 143.834C244.856 143.759 243.703 143.688 242.531 143.688C211.867 143.688 186.551 148.979 166.438 156.531C160.27 158.796 156.188 162.087 151.031 165.969C145.875 169.851 139.422 175.008 135.938 175.008C132.453 175.008 130.812 173.035 130.812 169.562C130.812 166.088 133.219 161.9 140.512 157.312C161.602 143.366 196.824 136.875 235.756 136.875Z" fill="white"/>
             </svg>
           </div>
-          <h1 className="text-4xl font-bold mb-6">Welcome to FoxStocks</h1>
+          <h1 className="text-4xl font-bold mb-6">Welcome to Investment AI</h1>
           <p className="text-xl max-w-md text-center">
-            Your premium dashboard for tracking investments and analyzing market trends.
+            Your dashboard for tracking investments and analyzing market trends.
           </p>
         </div>
       </div>

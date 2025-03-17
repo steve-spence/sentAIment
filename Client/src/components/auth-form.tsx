@@ -12,6 +12,8 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import * as z from "zod";
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
 import { ControllerRenderProps } from "react-hook-form";
+import { Alert, AlertDescription } from "@/components/ui/alert";
+import { AlertCircle } from "lucide-react";
 
 // Login schema
 const loginSchema = z.object({
@@ -56,33 +58,35 @@ export function AuthForm() {
     }
   });
 
-  // Handle form submission
-  const onSubmit = async (data: LoginFormValues | SignupFormValues) => {
+  // Handle login form submission
+  const onLoginSubmit = async (data: LoginFormValues) => {
     try {
-      if (formMode === "login") {
-        await login(data.email, data.password);
-      } else {
-        await signup(data.email, data.password);
-      }
-      
-      // Navigate to dashboard on success
+      await login(data.email, data.password);
       router.push("/");
     } catch (err) {
-      console.error("Auth error:", err);
+      console.error("Login error:", err);
     }
   };
 
-  // Reset form when switching modes
+  // Handle signup form submission
+  const onSignupSubmit = async (data: SignupFormValues) => {
+    try {
+      await signup(data.email, data.password);
+      router.push("/");
+    } catch (err) {
+      console.error("Signup error:", err);
+    }
+  };
+
+  // Handle form mode change
   const handleFormModeChange = (mode: "login" | "signup") => {
     setFormMode(mode);
-    loginForm.reset();
-    signupForm.reset();
   };
 
   return (
     <Card className="w-screen max-w-[600px] mx-auto shadow-lg">
       <CardHeader className="space-y-4 p-6">
-        <CardTitle className="text-3xl font-bold text-center">FoxStocks</CardTitle>
+        <CardTitle className="text-3xl font-bold text-center">Investment AI</CardTitle>
         <CardDescription className="text-center text-lg">
           {formMode === "login" ? "Log in to your account" : "Create a new account"}
         </CardDescription>
@@ -93,13 +97,20 @@ export function AuthForm() {
           <TabsTrigger value="signup" className="text-lg py-3">Sign Up</TabsTrigger>
         </TabsList>
         <CardContent className="px-10 pb-8 pt-2">
-          {formMode === "login" ? (
+          {authError && (
+            <Alert variant="destructive" className="mb-6">
+              <AlertCircle className="h-4 w-4" />
+              <AlertDescription>{authError}</AlertDescription>
+            </Alert>
+          )}
+          
+          <TabsContent value="login" className="mt-0 p-0">
             <Form {...loginForm}>
-              <form onSubmit={loginForm.handleSubmit(onSubmit)} className="space-y-6">
+              <form onSubmit={loginForm.handleSubmit(onLoginSubmit)} className="space-y-6">
                 <FormField
                   control={loginForm.control}
                   name="email"
-                  render={({ field }: { field: ControllerRenderProps<LoginFormValues, "email"> }) => (
+                  render={({ field }) => (
                     <FormItem>
                       <FormLabel className="text-base">Email</FormLabel>
                       <FormControl>
@@ -117,7 +128,7 @@ export function AuthForm() {
                 <FormField
                   control={loginForm.control}
                   name="password"
-                  render={({ field }: { field: ControllerRenderProps<LoginFormValues, "password"> }) => (
+                  render={({ field }) => (
                     <FormItem>
                       <FormLabel className="text-base">Password</FormLabel>
                       <FormControl>
@@ -132,22 +143,20 @@ export function AuthForm() {
                   )}
                 />
                 
-                {authError && (
-                  <div className="text-sm text-red-500 mt-2">{authError}</div>
-                )}
-                
                 <Button className="w-full h-12 text-base mt-6" type="submit" disabled={loading}>
                   {loading ? "Processing..." : "Sign In"}
                 </Button>
               </form>
             </Form>
-          ) : (
+          </TabsContent>
+          
+          <TabsContent value="signup" className="mt-0 p-0">
             <Form {...signupForm}>
-              <form onSubmit={signupForm.handleSubmit(onSubmit)} className="space-y-6">
+              <form onSubmit={signupForm.handleSubmit(onSignupSubmit)} className="space-y-6">
                 <FormField
                   control={signupForm.control}
                   name="email"
-                  render={({ field }: { field: ControllerRenderProps<SignupFormValues, "email"> }) => (
+                  render={({ field }) => (
                     <FormItem>
                       <FormLabel className="text-base">Email</FormLabel>
                       <FormControl>
@@ -165,7 +174,7 @@ export function AuthForm() {
                 <FormField
                   control={signupForm.control}
                   name="password"
-                  render={({ field }: { field: ControllerRenderProps<SignupFormValues, "password"> }) => (
+                  render={({ field }) => (
                     <FormItem>
                       <FormLabel className="text-base">Password</FormLabel>
                       <FormControl>
@@ -182,7 +191,7 @@ export function AuthForm() {
                 <FormField
                   control={signupForm.control}
                   name="confirmPassword"
-                  render={({ field }: { field: ControllerRenderProps<SignupFormValues, "confirmPassword"> }) => (
+                  render={({ field }) => (
                     <FormItem>
                       <FormLabel className="text-base">Confirm Password</FormLabel>
                       <FormControl>
@@ -197,16 +206,12 @@ export function AuthForm() {
                   )}
                 />
                 
-                {authError && (
-                  <div className="text-sm text-red-500 mt-2">{authError}</div>
-                )}
-                
                 <Button className="w-full h-12 text-base mt-6" type="submit" disabled={loading}>
                   {loading ? "Processing..." : "Sign Up"}
                 </Button>
               </form>
             </Form>
-          )}
+          </TabsContent>
         </CardContent>
       </Tabs>
       <CardFooter className="flex justify-center pb-8">

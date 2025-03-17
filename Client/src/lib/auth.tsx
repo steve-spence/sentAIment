@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, createContext, useContext, ReactNode } from 'react';
 import { supabase } from './supabase';
-import { User as SupabaseUser, AuthError } from '@supabase/supabase-js';
+import { AuthError } from '@supabase/supabase-js';
 
 // User types
 export interface User {
@@ -144,21 +144,6 @@ export function AuthProvider({ children }: { children: ReactNode }): React.React
       
       if (signUpError) {
         throw signUpError;
-      }
-      
-      if (data.user) {
-        // Create a user profile in the database
-        const { error: profileError } = await supabase
-          .from('users')
-          .insert({
-            id: data.user.id,
-            email: data.user.email,
-            watchlist: []
-          });
-          
-        if (profileError) {
-          console.error('Error creating user profile:', profileError);
-        }
       }
       
       // User is set by the onAuthStateChange listener
