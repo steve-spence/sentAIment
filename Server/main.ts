@@ -1,6 +1,7 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
 import { json } from "body-parser";
+import { router } from "./Controller/routes";
 
 const app = express();
 const port = 3001;
@@ -8,9 +9,7 @@ const port = 3001;
 app.use(cors());
 app.use(json());
 
-app.get('/api', (req: Request, res: Response) => {
-    res.json({ message: 'Hello World' });
-});
+app.use('/api', router);
 
 // Simple test route
 app.get('/api/health', (req: Request, res: Response) => {
