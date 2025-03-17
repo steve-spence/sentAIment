@@ -5,7 +5,9 @@ import { relations } from "drizzle-orm";
 export const users = pgTable("users", {
     id: serial("id").primaryKey(),
     name: varchar("name").notNull(),
-    email: varchar("email").unique().notNull()
+    email: varchar("email").unique().notNull(),
+    password: varchar("password").notNull(),
+    watchlist: json("watchlist").notNull()
 },
 );
 
@@ -23,8 +25,8 @@ export const news = pgTable("news", {
     symbol: varchar("symbol").notNull().references(() => stocks.symbol, { onDelete: 'cascade' }),
     datetime: timestamp("datetime").notNull(),
     val_at_posting: numeric('val_at_posting', { precision: 10, scale: 2 }).notNull(),
-    val_at_close: numeric('val_at_close', { precision: 10, scale: 2 }).notNull(), // This might change based on how we wait to find the next value (30 minutes after posting, 1 hour after posting)
-    change_percentage: numeric('change_percentage', { precision: 5, scale: 2 }).notNull(),
+    //val_at_close: numeric('val_at_close', { precision: 10, scale: 2 }).notNull(), // This might change based on how we wait to find the next value (30 minutes after posting, 1 hour after posting)
+    //change_percentage: numeric('change_percentage', { precision: 5, scale: 2 }).notNull(),
 },
 );
 
@@ -44,3 +46,18 @@ export const schema = {
     stock: stocks,
     userStock: userStocks,
 } as const;
+
+/*
+
+3:00 api call the 
+finnhub_client.stock_news("AAPL", {from: "2021-01-01", to: "2021-12-31"}, (error, data, response) => {
+
+from the date of the 
+
+store watchlist of stocks on the 
+every stock makes an api call to get the 
+
+generate a request to get the news for the stock that the user has in the watchlist
+store the news in the database
+
+*/

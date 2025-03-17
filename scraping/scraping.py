@@ -53,7 +53,6 @@ def get_article_percent(print_output=False) -> dict:
                 print("No title found for this story item.")
 
     if not story_item:
-
         print("No story items found on Yahoo Finance.")
     
     driver.quit()

@@ -5,10 +5,8 @@ import postgres from 'postgres';
 dotenv.config({ path: ".env" });
 if (!process.env.DATABASE_URL) throw new Error('DATABASE_URL is required');
 
-const client = postgres(process.env.DATABASE_URL);
-
-// logger
-const db = drizzle(client, { logger: true });
-//const db = drizzle(client);
-
-export { db };
+export default function db() {
+    const client = postgres(process.env.DATABASE_URL!);
+    const db = drizzle(client);
+    return db;
+}
