@@ -42,25 +42,8 @@ export function AuthProvider({ children }: { children: ReactNode }): React.React
           throw sessionError;
         }
         
-        if (session?.user) {
-          // Get the user profile from the database
-          const { data: profile, error: profileError } = await supabase
-            .from('users')
-            .select('*')
-            .eq('id', session.user.id)
-            .single();
-            
-          if (profileError) {
-            console.error('Error fetching user profile:', profileError);
-          }
-          
-          // Create the user object
-          setUser({
-            id: session.user.id,
-            email: session.user.email || '',
-            watchlist: profile?.watchlist || []
-          });
-        }
+        
+
       } catch (err) {
         console.error('Session error:', err);
       } finally {
