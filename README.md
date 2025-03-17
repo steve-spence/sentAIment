@@ -6,6 +6,12 @@ This project aims to decide stock sentiment based on news rather than statistica
 
 ## Installation & Getting Started
 
+### Prerequisites
+1. Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+2. Create a free [Docker Hub account](https://hub.docker.com/signup)
+3. Sign in to Docker Desktop with your Docker Hub account
+
+### Setup
 1. Clone the repository and navigate to the project directory:
    ```bash
    cd investment-ai
@@ -20,7 +26,7 @@ This project aims to decide stock sentiment based on news rather than statistica
    ```bash
    yarn start
    ```
-
+Note: Initial setup will take a while to download the dependencies and start the server with supabase.
 The application will be available at `http://localhost:3000`
 
 ## Features
