@@ -18,12 +18,12 @@ export function LoginButton() {
   const router = useRouter();
 
   const handleLogin = () => {
-    router.push("/auth");
+    router.push("/login");
   };
 
   const handleLogout = () => {
     logout();
-    router.push("/auth");
+    router.push("/login");
   };
 
   const handleProfile = () => {

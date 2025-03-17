@@ -29,57 +29,54 @@ export function AuthProvider({ children }: { children: ReactNode }): React.React
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Check if we have a user in Supabase session on initial load
+  // Check if we have a user in Supabase session on initial load and subscribe to auth state changes
   useEffect(() => {
-    const getSession = async () => {
+    // Set initial loading state
+    setLoading(true);
+    
+    // Function to set user data from Supabase user
+    const setUserFromSession = async (session: any) => {
+      if (!session?.user) {
+        setUser(null);
+        return;
+      }
+      
+      // Create user object from session
+      setUser({
+        id: session.user.id,
+        email: session.user.email || '',
+        watchlist: []
+      });
+    };
+    
+    // Get initial session
+    const checkInitialSession = async () => {
       try {
-        setLoading(true);
+        const { data: { session } } = await supabase.auth.getSession();
         
-        // Get the current session
-        const { data: { session }, error: sessionError } = await supabase.auth.getSession();
-        
-        if (sessionError) {
-          throw sessionError;
-        }
-        
-        
-
+        // Set user if we have a session
+        await setUserFromSession(session);
       } catch (err) {
-        console.error('Session error:', err);
+        console.error('Error checking initial session:', err);
       } finally {
         setLoading(false);
       }
     };
     
-    // Get initial session
-    getSession();
+    // Check initial session
+    checkInitialSession();
     
     // Subscribe to auth changes
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (event, session) => {
-      setLoading(true);
+      console.log('Auth state changed:', event, session?.user?.email);
       
-      if (event === 'SIGNED_IN' && session?.user) {
-        // Get the user profile when signed in
-        const { data: profile, error: profileError } = await supabase
-          .from('users')
-          .select('*')
-          .eq('id', session.user.id)
-          .single();
-          
-        if (profileError) {
-          console.error('Error fetching user profile:', profileError);
-        }
-        
-        setUser({
-          id: session.user.id,
-          email: session.user.email || '',
-          watchlist: profile?.watchlist || []
-        });
+      if (event === 'SIGNED_IN' || event === 'TOKEN_REFRESHED') {
+        setLoading(true);
+        await setUserFromSession(session);
+        setLoading(false);
       } else if (event === 'SIGNED_OUT') {
         setUser(null);
       }
-      
-      setLoading(false);
     });
     
     // Cleanup subscription
@@ -103,7 +100,16 @@ export function AuthProvider({ children }: { children: ReactNode }): React.React
         throw signInError;
       }
       
-      // User is set by the onAuthStateChange listener
+      console.log('Login successful:', data);
+      
+      if (data.user) {
+        // Set user immediately for faster UI updates
+        setUser({
+          id: data.user.id,
+          email: data.user.email || '',
+          watchlist: []
+        });
+      }
     } catch (err) {
       const authError = err as AuthError;
       setError(authError.message || 'An error occurred during login');
@@ -129,7 +135,16 @@ export function AuthProvider({ children }: { children: ReactNode }): React.React
         throw signUpError;
       }
       
-      // User is set by the onAuthStateChange listener
+      console.log('Signup successful:', data);
+      
+      if (data.user) {
+        // Set user immediately for faster UI updates
+        setUser({
+          id: data.user.id,
+          email: data.user.email || '',
+          watchlist: []
+        });
+      }
     } catch (err) {
       const authError = err as AuthError;
       setError(authError.message || 'An error occurred during signup');
@@ -150,7 +165,8 @@ export function AuthProvider({ children }: { children: ReactNode }): React.React
         throw error;
       }
       
-      // User is cleared by the onAuthStateChange listener
+      // Clear user state immediately
+      setUser(null);
     } catch (err) {
       console.error('Logout error:', err);
     } finally {

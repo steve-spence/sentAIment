@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useAuth } from "@/lib/auth";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -13,7 +13,7 @@ import * as z from "zod";
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
 import { ControllerRenderProps } from "react-hook-form";
 import { Alert, AlertDescription } from "@/components/ui/alert";
-import { AlertCircle } from "lucide-react";
+import { AlertCircle, CheckCircle } from "lucide-react";
 
 // Login schema
 const loginSchema = z.object({
@@ -35,9 +35,22 @@ type LoginFormValues = z.infer<typeof loginSchema>;
 type SignupFormValues = z.infer<typeof signupSchema>;
 
 export function AuthForm() {
-  const { login, signup, error: authError, loading } = useAuth();
+  const { login, signup, error: authError, loading, user } = useAuth();
   const [formMode, setFormMode] = useState<"login" | "signup">("login");
+  const [success, setSuccess] = useState<string | null>(null);
   const router = useRouter();
+
+  // Check if user is authenticated and redirect if needed
+  useEffect(() => {
+    if (user && success) {
+      // Add a short delay before redirecting
+      const redirectTimer = setTimeout(() => {
+        router.push("/");
+      }, 1000);
+      
+      return () => clearTimeout(redirectTimer);
+    }
+  }, [user, success, router]);
 
   // Login form
   const loginForm = useForm<LoginFormValues>({
@@ -60,9 +73,10 @@ export function AuthForm() {
 
   // Handle login form submission
   const onLoginSubmit = async (data: LoginFormValues) => {
+    setSuccess(null);
     try {
       await login(data.email, data.password);
-      router.push("/");
+      setSuccess("Login successful! Redirecting to dashboard...");
     } catch (err) {
       console.error("Login error:", err);
     }
@@ -70,9 +84,10 @@ export function AuthForm() {
 
   // Handle signup form submission
   const onSignupSubmit = async (data: SignupFormValues) => {
+    setSuccess(null);
     try {
       await signup(data.email, data.password);
-      router.push("/");
+      setSuccess("Account created successfully! Redirecting to dashboard...");
     } catch (err) {
       console.error("Signup error:", err);
     }
@@ -81,6 +96,7 @@ export function AuthForm() {
   // Handle form mode change
   const handleFormModeChange = (mode: "login" | "signup") => {
     setFormMode(mode);
+    setSuccess(null);
   };
 
   return (
@@ -101,6 +117,13 @@ export function AuthForm() {
             <Alert variant="destructive" className="mb-6">
               <AlertCircle className="h-4 w-4" />
               <AlertDescription>{authError}</AlertDescription>
+            </Alert>
+          )}
+          
+          {success && (
+            <Alert variant="default" className="mb-6 bg-green-50 border-green-200 text-green-800">
+              <CheckCircle className="h-4 w-4 text-green-500" />
+              <AlertDescription>{success}</AlertDescription>
             </Alert>
           )}
           
@@ -143,8 +166,8 @@ export function AuthForm() {
                   )}
                 />
                 
-                <Button className="w-full h-12 text-base mt-6" type="submit" disabled={loading}>
-                  {loading ? "Processing..." : "Sign In"}
+                <Button className="w-full h-12 text-base mt-6" type="submit" disabled={loading || !!success}>
+                  {loading ? "Processing..." : success ? "Redirecting..." : "Sign In"}
                 </Button>
               </form>
             </Form>
@@ -206,8 +229,8 @@ export function AuthForm() {
                   )}
                 />
                 
-                <Button className="w-full h-12 text-base mt-6" type="submit" disabled={loading}>
-                  {loading ? "Processing..." : "Sign Up"}
+                <Button className="w-full h-12 text-base mt-6" type="submit" disabled={loading || !!success}>
+                  {loading ? "Processing..." : success ? "Redirecting..." : "Sign Up"}
                 </Button>
               </form>
             </Form>
