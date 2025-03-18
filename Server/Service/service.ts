@@ -12,7 +12,7 @@ export async function getStocks(userId: string) {
     return user?.watchlist;
 }
 
-export async function updateWatchlist(userId:string, symbol:string[]) {
+export async function updateStocks(userId:string, symbol:string[]) {
     const stock = await database.update(users)
     .set({
         watchlist: symbol
