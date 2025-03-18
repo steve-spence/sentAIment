@@ -22,29 +22,66 @@ This project aims to decide stock sentiment based on news rather than statistica
    yarn install
    ```
 
-3. Start the development server:
+3. Start both the client and server in development mode:
    ```bash
-   yarn start
+   yarn dev
    ```
+
+   Or start them separately:
+   ```bash
+   # Start just the client
+   yarn dev:client
+
+   # Start just the server
+   yarn dev:server
+   ```
+
+### For Production
+```bash
+# Build the client
+yarn build
+
+# Start both client and server in production mode
+yarn start
+
+# Or start them separately
+yarn start:client
+yarn start:server
+```
+
 Note: Initial setup will take a while to download the dependencies and start the server with supabase.
 The application will be available at `http://localhost:3000`
+
+## Project Structure
+
+The project is organized into two main directories:
+- `/Client`: Next.js frontend application 
+- `/Server`: Node.js/Express backend server
+
+Both share a single package.json at the root level for easier dependency management.
 
 ## Features
 
 - News-based analysis
 - Statistical analysis
 - Combination of the above
+- Supabase authentication
+- Real-time portfolio updates
+- Watchlist management
 
 ## Technologies Used
 
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Drizzle, PostgreSQL
-- **Deployment**: Vercel
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend**: Express, Drizzle ORM, PostgreSQL
+- **Authentication**: Supabase
+- **Database**: PostgreSQL (Supabase)
 
 ## API Endpoints
 
- - **List any API endpoints, their methods (GET, POST, etc.), and a brief description.**
+- `GET /api/stocks/:userId` - Get user's watchlist
+- `POST /api/stocks/:userId` - Add stock to watchlist  
+- `DELETE /api/stocks/:userId` - Remove stock from watchlist
 
 ## License
 
- - This project is licesed under the MIT License
+This project is licensed under the MIT License

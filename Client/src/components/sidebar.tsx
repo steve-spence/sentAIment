@@ -12,7 +12,7 @@ import {
   LogOut 
 } from "lucide-react";
 import { cn } from "@/lib/utils";
-
+import { useRouter } from "next/navigation";
 interface SidebarProps {
   className?: string;
 }
@@ -50,7 +50,7 @@ export function Sidebar({ className }: SidebarProps) {
 }          </p>
         </div>
         
-        <SidebarItem href="/logout" icon={LogOut} label="Logout" />
+        <SidebarItem href="/login" icon={LogOut} label="Logout" />
       </div>
     </div>
   );

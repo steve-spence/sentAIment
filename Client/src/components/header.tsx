@@ -21,7 +21,7 @@ export function Header({ username }: HeaderProps) {
     <header className="border-b">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          FoxStocks
+          Investment AI
         </Link>
         
         <div className="flex-1 mx-10 max-w-md">

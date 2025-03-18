@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "./ui/button";
-import { useAuth } from "@/lib/auth";
+import { useAuth } from "../lib/auth.js";
 import { useRouter } from "next/navigation";
 import {
   DropdownMenu,

@@ -1,6 +1,6 @@
 "use client";
 
-import { AuthProvider } from "@/lib/auth";
+import { AuthProvider } from "../lib/auth.js";
 
 export default function ClientAuthProvider({ 
   children 

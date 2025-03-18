@@ -1,7 +1,7 @@
 "use client";
 
 import { AuthForm } from "@/components/auth-form";
-import Image from "next/image";
+
 
 export default function LoginPage() {
   return (
