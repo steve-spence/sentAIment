@@ -3,15 +3,22 @@ import * as service from '../Service/service'
 
 export const router = express.Router();
 
-router.get('/stocks', async (req: Request, res: Response) => {
+router.get('/stocks/:userId', async (req: Request, res: Response) => {
     const userId = req.params.userId;
     const watchlist = await service.getStocks(userId);
     res.json({"list of stocks": watchlist});
 });
 
-router.post('/stocks', async (req: Request, res: Response) => {
+router.post('/stocks/:userId', async (req: Request, res: Response) => {
     const userId = req.params.userId;
     const symbol = req.body
     const watchlist = await service.updateStocks(userId, symbol);
+    res.json(watchlist);
+});
+
+router.delete('/stocks/:userId', async (req: Request, res: Response) => {
+    const userId = req.params.userId;
+    const symbol = req.body;
+    const watchlist = await service.deleteStocks(userId, symbol);
     res.json(watchlist);
 });

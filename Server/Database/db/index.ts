@@ -2,9 +2,10 @@ import { drizzle } from 'drizzle-orm/postgres-js';
 import postgres from 'postgres';
 import * as schema from './schema';
 import dotenv from 'dotenv';
+import path from 'path';
 
-// Load environment variables
-dotenv.config();
+// Load environment variables from root project directory
+dotenv.config({ path: path.resolve(__dirname, '../../../.env') });
 
 // Check if DATABASE_URL is defined
 if (!process.env.DATABASE_URL) {
@@ -21,3 +22,4 @@ export default function db() {
 }
 
 export { schema };
+
