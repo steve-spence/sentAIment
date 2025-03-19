@@ -5,11 +5,11 @@ import { router } from "./Controller/routes";
 import dotenv from "dotenv";
 
 // Load environment variables
-dotenv.config();
+dotenv.config({ path: __dirname + "/../.env" });
 
 const app = express();
 // Use environment variable PORT if available, otherwise use 3003 (avoiding 3000-3002)
-const port = process.env.PORT || 3001;
+const port = process.env.PORT 
 
 app.use(cors());
 app.use(json());
