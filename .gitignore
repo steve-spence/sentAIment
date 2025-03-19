@@ -1,6 +1,8 @@
-
 yarn.lock
 node_modules
 .env
-    
 
+# Intermediate files (mac to PC) that I dont want to add
+install-state.gz    
+.pnp.cjs
+.pnp.loader.mjs

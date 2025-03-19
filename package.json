@@ -2,6 +2,10 @@
   "name": "investment-ai",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "Client",
+    "Server"
+  ],
   "scripts": {
     "dev:server": "cd Server && nodemon --exec ts-node main.ts",
     "dev:client": "cd Client && next dev --turbo",
@@ -10,7 +14,7 @@
     "client": "cd Client && next dev",
     "build": "cd Client && next build",
     "start:client": "cd Client && next start",
-    "start:server": "cd Server && PORT=3003 ts-node main.ts", 
+    "start:server": "cd Server && PORT=3003 ts-node main.ts",
     "start": "concurrently \"yarn start:server\" \"yarn start:client\"",
     "lint": "cd Client && next lint",
     "db:generate": "cd Server && drizzle-kit generate:pg",
@@ -37,7 +41,7 @@
     "drizzle-orm": "^0.40.0",
     "express": "^4.21.2",
     "lucide-react": "^0.482.0",
-    "next": "15.2.2",
+    "next": "^15.2.3",
     "next-themes": "^0.4.6",
     "pg": "^8.14.0",
     "postgres": "^3.4.5",
@@ -68,5 +72,6 @@
     "tailwindcss": "^4",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
-  }
+  },
+  "packageManager": "yarn@4.7.0+sha512.5a0afa1d4c1d844b3447ee3319633797bcd6385d9a44be07993ae52ff4facabccafb4af5dcd1c2f9a94ac113e5e9ff56f6130431905884414229e284e37bb7c9"
 }
