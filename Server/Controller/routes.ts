@@ -8,8 +8,12 @@ export const router = express.Router();
 router.get('/users/:userId', async (req: Request, res: Response) => {
     const userId = req.params.userId;
     const user = await service.getUser(userId);
-
-    res.json({user});
+    if (!user) {
+        res.status(404).json({ error: `User not found ${user}` });
+    } else {
+        console.log(user);
+        res.status(200).json({"data": user});
+    }
 });
 
 router.post('/users/:userId', async (req: Request, res: Response) => {

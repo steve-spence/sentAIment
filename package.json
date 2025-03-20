@@ -10,7 +10,7 @@
     "client": "cd Client && next dev",
     "build": "cd Client && next build",
     "start:client": "cd Client && next start",
-    "start:server": "cd Server && PORT=3003 ts-node main.ts", 
+    "start:server": "cd Server && ts-node main.ts", 
     "start": "concurrently \"yarn start:server\" \"yarn start:client\"",
     "lint": "cd Client && next lint",
     "db:generate": "cd Server && drizzle-kit generate:pg",
