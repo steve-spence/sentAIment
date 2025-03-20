@@ -37,6 +37,7 @@ export default function Dashboard() {
         if (user) {
           const response = await fetch(`http://localhost:3003/api/users/${user.id}`);
           const data = await response.json();
+          console.log(data);
           setUserData(data);
         } else {
           console.error('Failed to fetch user data');
@@ -82,7 +83,7 @@ export default function Dashboard() {
       <div className="space-y-8">
         {/* User welcome message */}
         <div className="mb-8">
-          <h1 className="text-2xl font-bold">Welcome, {userData.username}!</h1>
+          <h1 className="text-2xl font-bold">Hello, {userData.username}!</h1>
         </div>
 
         {/* Rest of your dashboard content */}

@@ -119,15 +119,12 @@ export function Header() {
                 </span>
               </button>
               <span className="text-sm font-medium">{user.username}</span>
-              <Button variant="ghost" size="sm" onClick={handleLogout}>
-                Sign Out
-              </Button>
             </div>
           ) : (
             <Button 
               variant="outline" 
               size="sm" 
-              onClick={() => router.push('/login')}
+      
             >
               Sign In
             </Button>
