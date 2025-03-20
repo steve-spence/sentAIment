@@ -5,40 +5,64 @@ import { StockCard } from "@/components/stock-card";
 import { PortfolioBalance } from "@/components/portfolio-balance";
 import { PortfolioChart } from "@/components/portfolio-chart";
 import { MarketSnapshot } from "@/components/market-snapshot";
-import { stocks,  portfolioData, marketSnapshot } from "@/lib/data";
+import { Watchlist } from "@/components/watchlist";
+import { stocks, portfolioData, marketSnapshot } from "@/lib/data";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { supabase } from "@/lib/supabase";
-import { useAuth } from '@/components/auth-Provider'
+import { useAuth } from '@/components/auth-Provider';
 
-
-
-
-const getUser = async () => {
-  const { data, error } = await supabase.auth.getUser();
-  console.log(data?.user.id)
-  return data?.user.id
+interface User {
+  id: string;
+  username: string;
+  email: string;
+  watchlist: string[];
 }
 
-
-
 export default function Dashboard() {
-  const { user, loading } = useAuth();
-
-
-  const router = useRouter(); 
+  const { user: authUser, loading: authLoading } = useAuth();
+  const [userData, setUserData] = useState<User | null>(null);
+  const [loading, setLoading] = useState(true);
+  const router = useRouter();
 
   useEffect(() => {
-    // Only redirect if we're not loading and there's no user
-    if (!loading && !user) {
+    async function loadUserData() {
+      if (!authUser) {
+        setLoading(false);
+        return;
+      }
+
+      try {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (user) {
+          const response = await fetch(`http://localhost:3003/api/users/${user.id}`);
+          const data = await response.json();
+          setUserData(data);
+        } else {
+          console.error('Failed to fetch user data');
+        }
+      } catch (error) {
+        console.error('Error loading user data:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    if (!authLoading) {
+      loadUserData();
+    }
+  }, [authUser, authLoading]);
+
+  // Redirect to login if not authenticated
+  useEffect(() => {
+    if (!authLoading && !authUser) {
       console.log('No authenticated user found, redirecting to login');
       router.push('/login');
     }
-  }, [user, loading, router]);
+  }, [authUser, authLoading, router]);
 
-
-  // Show loading state while checking authentication
-  if (loading) {
+  // Show loading state
+  if (loading || authLoading) {
     return (
       <DashboardLayout>
         <div className="flex items-center justify-center min-h-screen">
@@ -48,17 +72,17 @@ export default function Dashboard() {
     );
   }
 
-  // If not loading and no user, return null (redirect will happen)
-  if (!user) {
+  // If not authenticated or no user data, return null (redirect will happen)
+  if (!authUser || !userData) {
     return null;
   }
-  
+
   return (
     <DashboardLayout>
       <div className="space-y-8">
         {/* User welcome message */}
         <div className="mb-8">
-          <h1 className="text-2xl font-bold">Welcome, {}!</h1>
+          <h1 className="text-2xl font-bold">Welcome, {userData.username}!</h1>
         </div>
 
         {/* Rest of your dashboard content */}
@@ -111,7 +135,7 @@ export default function Dashboard() {
             />
           </div>
           <div className="lg:col-span-2">
-            {/* <Watchlist items={watchlistItems} /> */}
+            <Watchlist userId={userData.id} watchlist={userData.watchlist} />
           </div>
         </div>
       </div>

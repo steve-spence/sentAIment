@@ -1,13 +1,18 @@
-import { pgTable, unique, uuid, varchar, json } from "drizzle-orm/pg-core"
+import { pgTable, foreignKey, uuid, text, json, timestamp } from "drizzle-orm/pg-core"
 import { sql } from "drizzle-orm"
 
 
 
 export const users = pgTable("users", {
-	id: uuid().defaultRandom().primaryKey().notNull(),
-	email: varchar({ length: 255 }).notNull(),
+	id: uuid().primaryKey().notNull(),
+	email: text().notNull(),
 	watchlist: json().default([]).notNull(),
-	username: varchar({ length: 255 }).notNull(),
+	username: text().notNull(),
+	createdAt: timestamp("created_at", { mode: 'string' }).defaultNow().notNull(),
 }, (table) => [
-	unique("users_email_unique").on(table.email),
+	foreignKey({
+			columns: [table.id],
+			foreignColumns: [table.id],
+			name: "users_id_users_id_fk"
+		}).onDelete("cascade"),
 ]);

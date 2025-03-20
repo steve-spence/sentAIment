@@ -35,6 +35,12 @@ export const signup = async (username: string, email: string, password: string) 
         }
       }
     });
+    const { data: userData, error: userError } = await supabase.from('users').insert({
+      id: data.user?.id,
+      username,
+      email,
+      watchlist: []
+    });
 
     if (authError) throw authError;
     

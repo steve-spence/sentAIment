@@ -1,39 +1,45 @@
 import { relations } from "drizzle-orm";
-import { pgTable, uuid, varchar, json } from "drizzle-orm/pg-core";
+import {
+  pgSchema,
+  pgTable,
+  text,
+  timestamp,
+  uuid,
+  boolean,
+  json
+} from "drizzle-orm/pg-core";
 
+// Reference to Supabase auth schema (this is the built-in auth schema)
+const authSchema = pgSchema("auth");
+export const authUsers = authSchema.table("users", {
+  id: uuid("id").primaryKey(),
+  email: text("email"),
+  // Other Supabase auth fields
+});
 
-// User table with uuid, email, password, and watchlist
+// Your public schema users table
 export const users = pgTable("users", {
-    id: uuid("id").defaultRandom().primaryKey(),
-    username: varchar("username", { length: 255 }).notNull(),
-    email: varchar("email", { length: 255 }).unique().notNull(),
-    watchlist: json("watchlist").$type<string[]>().default([]).notNull()
+  id: uuid("id")
+    .primaryKey()
+    .references(() => authUsers.id, { onDelete: "cascade" })
+    .notNull(),
+  username: text("username").notNull(),
+  email: text("email").notNull(),
+  watchlist: json("watchlist").$type<string[]>().default([]).notNull(),
+  createdAt: timestamp("created_at").notNull().defaultNow(),
 });
 
-// Define relations for users
+// Define relations
 export const usersRelations = relations(users, ({ one }) => ({
-    auth: one(auth, {
-        fields: [users.id],
-        references: [auth.id],
-    }),
-}));
-
-// Auth table linked to users
-export const auth = pgTable("auth", {
-    id: uuid("id").defaultRandom().primaryKey(),
-    email: varchar("email", { length: 255 }).unique().notNull(),
-    password: varchar("password", { length: 255 }).notNull(),
-});
-
-// Define relations for auth
-export const authRelations = relations(auth, ({ one }) => ({
-    user: one(users, {
-        fields: [auth.id],
-        references: [users.id],
-    }),
+  auth: one(authUsers, {
+    fields: [users.id],
+    references: [authUsers.id],
+  })
 }));
 
 export const schema = {
-    users,
-    auth
+  users,
+  authUsers,
 } as const;
+
+

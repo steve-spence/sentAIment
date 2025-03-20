@@ -5,17 +5,50 @@ import { Button } from "./ui/button";
 import { useRouter } from "next/navigation";
 import { Input } from "@/components/ui/input";
 import { Bell } from "lucide-react";
+import { supabase } from "@/lib/supabase";
+import { useEffect, useState } from "react";
 
-interface HeaderProps {
-  username?: string;
+interface User {
+  id: string;
+  username: string;
+  email: string;
+  watchlist: string[];
 }
 
-export function Header({ username }: HeaderProps) {
-  const router = useRouter();
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3003/api';
 
-  const handleLoginClick = () => {
-    router.push("/login");
-  };
+const handleLoginClick = async () => {
+  await supabase.auth.signOut();
+};
+
+export function Header() {
+  const router = useRouter();
+  const [user, setUser] = useState<User | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchUserData = async () => {
+      try {
+        const { data: { user: authUser } } = await supabase.auth.getUser();
+        
+        if (authUser?.id) {
+          const response = await fetch(`${API_URL}/users/${authUser.id}`);
+          if (response.ok) {
+            const { user: userData } = await response.json();
+            setUser(userData);
+          } else {
+            console.error('Failed to fetch user data');
+          }
+        }
+      } catch (error) {
+        console.error('Error fetching user data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchUserData();
+  }, []);
 
   return (
     <header className="border-b">
@@ -43,7 +76,7 @@ export function Header({ username }: HeaderProps) {
             Watchlist
           </Link>
           
-          {username ? (
+          {user ? (
             <div className="flex items-center space-x-4">
               <button className="relative">
                 <Bell className="h-5 w-5 text-muted-foreground" />
@@ -52,10 +85,10 @@ export function Header({ username }: HeaderProps) {
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
                 </span>
               </button>
-              <span className="text-sm font-medium">{username}</span>
+              <span className="text-sm font-medium">{user.username}</span>
             </div>
           ) : (
-            <Button onClick={handleLoginClick} variant="outline" size="sm">
+            <Button onClick={() => { handleLoginClick(); router.push("/login"); }} variant="outline" size="sm">
               Login
             </Button>
           )}

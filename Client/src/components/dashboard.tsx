@@ -1,42 +1,69 @@
 "use client";
 
-import { ReactNode, useEffect } from "react";
+import { ReactNode, useEffect, useState } from "react";
 import { Sidebar } from "@/components/sidebar";
 import { Header } from "@/components/header";
 import { useAuth } from "@/components/auth-Provider";
 import { useRouter } from "next/navigation";
-
+import { supabase } from "@/lib/supabase";
 
 interface DashboardLayoutProps {
   children: ReactNode;
 }
 
+interface User {
+  id: string;
+  username: string;
+  email: string;
+  watchlist: string[];
+}
+
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3003/api';
+
 export function DashboardLayoutContent({ children }: DashboardLayoutProps) {
-  const { user, loading } = useAuth();
+  const { user: authUser, loading: authLoading } = useAuth();
   const router = useRouter();
-  
+  const [userData, setUserData] = useState<User | null>(null);
+  const [loading, setLoading] = useState(true);
+
   useEffect(() => {
-    // Only check after auth is done loading
-    if (!loading) {
-      // Add a short delay to allow auth state to fully resolve
-      const redirectTimer = setTimeout(() => {
-        if (!user) {
-          console.log("User not authenticated, redirecting to login");
-          router.push("/login");
+    const fetchUserData = async () => {
+      try {
+        const { data: { user } } = await supabase.auth.getUser();
+        
+        if (user?.id) {
+          const response = await fetch(`${API_URL}/users/${user.id}`);
+          if (response.ok) {
+            const { user: fetchedUser } = await response.json();
+            setUserData(fetchedUser);
+          } else {
+            console.error('Failed to fetch user data');
+          }
         }
-      }, 300); // Short delay to avoid race conditions
-      
-      return () => clearTimeout(redirectTimer);
+      } catch (error) {
+        console.error('Error fetching user data:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    if (!authLoading) {
+      if (!authUser) {
+        console.log("User not authenticated, redirecting to login");
+        router.push("/login");
+      } else {
+        fetchUserData();
+      }
     }
-  }, [user, loading, router]);
+  }, [authUser, authLoading, router]);
   
   // Show loading state while checking authentication
-  if (loading) {
+  if (loading || authLoading) {
     return <div className="flex justify-center items-center min-h-screen">Loading...</div>;
   }
   
   // Don't render content if not authenticated
-  if (!user) {
+  if (!authUser) {
     return <div className="flex justify-center items-center min-h-screen">Redirecting to login...</div>;
   }
   
@@ -45,7 +72,7 @@ export function DashboardLayoutContent({ children }: DashboardLayoutProps) {
       <Sidebar className="hidden md:flex" />
       
       <div className="flex-1 flex flex-col overflow-hidden">
-        <Header username={user.email} />
+        <Header />
         
         <main className="flex-1 overflow-y-auto p-6">
           {children}

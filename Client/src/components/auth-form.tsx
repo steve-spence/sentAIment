@@ -117,7 +117,6 @@ export function AuthForm() {
     console.log("Signup form submitted with data:", data);
     console.log("Username:", data.username);
     console.log("Email:", data.email);
-    console.log("Password:", data.password ? "[REDACTED]" : "missing");
     
     setSuccess(null);
     try {
