@@ -6,179 +6,248 @@ import { Button } from "@/components/ui/button";
 import { PlusCircle, Loader2, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { toast } from "sonner";
+import { supabase } from "@/lib/supabase";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3003/api';
 
-interface WatchlistProps {
-  userId: string;
+interface User {
+  id: string;
+  username: string;
+  email: string;
   watchlist: string[];
 }
 
-export function Watchlist({ userId, watchlist: initialWatchlist }: WatchlistProps) {
-  const [watchlist, setWatchlist] = useState<string[]>(initialWatchlist || []);
+export function Watchlist() {
+  const [watchlist, setWatchlist] = useState<string[]>([]);
   const [newSymbol, setNewSymbol] = useState("");
-  const [isLoading, setIsLoading] = useState(false);
+  const [user, setUser] = useState<User | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
   const [isAdding, setIsAdding] = useState(false);
 
-  useEffect(() => {
-    setWatchlist(initialWatchlist || []);
-  }, [initialWatchlist]);
-
-  const fetchWatchlist = async () => {
-    if (!userId) return;
-    
-    setIsLoading(true);
+  // Function to fetch the current watchlist
+  const fetchWatchlist = async (userId: string) => {
     try {
-      console.log("Fetching watchlist for user:", userId);
-      
-      const response = await fetch(`${API_URL}/stocks/${userId}`, {
-        method: 'GET',
-        headers: {
-          'Content-Type': 'application/json',
-          'Cache-Control': 'no-cache, no-store, must-revalidate',
-          'Pragma': 'no-cache',
-          'Expires': '0'
-        }
-      });
+      const response = await fetch(`${API_URL}/stocks/${userId}`);
+      console.log('Watchlist API response status:', response.status);
 
-      if (response.ok) {
-        const data = await response.json();
-        console.log("Received watchlist data:", data);
-        setWatchlist(data.watchlist || []);
-      } else {
-        console.error('Failed to fetch watchlist:', await response.text());
-        toast.error('Failed to load watchlist');
+      if (!response.ok) {
+        console.error('Failed to fetch watchlist:', response.status);
+        return [];
       }
+
+      const data = await response.json();
+      console.log('Watchlist data from API:', data);
+      
+      // Extract the symbols array from the nested structure
+      const stockList = data["list of stocks"]?.symbol;
+      console.log('Extracted stock list:', stockList);
+      
+      return Array.isArray(stockList) ? stockList : [];
     } catch (error) {
       console.error('Error fetching watchlist:', error);
-      toast.error('Error loading watchlist');
-    } finally {
-      setIsLoading(false);
+      return [];
     }
   };
 
+  // Load user data and watchlist
+  useEffect(() => {
+    async function loadUserData() {
+      try {
+        // Step 1: Get Supabase user
+        const { data: { user: supabaseUser }, error: supabaseError } = await supabase.auth.getUser();
+        
+        if (supabaseError || !supabaseUser) {
+          console.error('Supabase auth error:', supabaseError);
+          setWatchlist([]); // Ensure empty array if no user
+          return;
+        }
+
+        console.log('Supabase user:', supabaseUser);
+
+        // Step 2: Get user data from our API
+        const response = await fetch(`${API_URL}/users/${supabaseUser.id}`);
+        console.log('User API response status:', response.status);
+
+        if (!response.ok) {
+          console.error('API error:', response.status);
+          setWatchlist([]); // Ensure empty array on error
+          return;
+        }
+
+        const data = await response.json();
+        console.log('User data from API:', data);
+
+        // Handle both possible response formats
+        const userData = data.data || data;
+        
+        if (userData && userData.id) {
+          console.log('Setting user data:', userData);
+          setUser(userData);
+          
+          // Step 3: Fetch current watchlist
+          const currentWatchlist = await fetchWatchlist(userData.id);
+          console.log('Setting watchlist:', currentWatchlist);
+          setWatchlist(currentWatchlist);
+        } else {
+          console.error('Invalid user data:', userData);
+          toast.error('Failed to load user data');
+          setWatchlist([]); // Ensure empty array on invalid data
+        }
+      } catch (error) {
+        console.error('Error loading user data:', error);
+        toast.error('Failed to load user data');
+        setWatchlist([]); // Ensure empty array on error
+      } finally {
+        setIsLoading(false);
+      }
+    }
+
+    loadUserData();
+  }, []); // No dependencies needed as this only runs once on mount
+
   const addToWatchlist = async () => {
-    if (!newSymbol.trim() || !userId) return;
+    if (!newSymbol.trim() || !user?.id) {
+      console.error('Cannot add to watchlist:', { newSymbol, userId: user?.id });
+      return;
+    }
     
     setIsAdding(true);
     try {
-      console.log("Adding symbol to watchlist:", newSymbol.toUpperCase(), "for user:", userId);
+      const symbol = newSymbol.toUpperCase();
+      console.log('Adding symbol:', symbol, 'for user:', user.id);
+
+      // Create new watchlist with added symbol
+      const updatedWatchlist = [...watchlist, symbol];
       
-      const response = await fetch(`${API_URL}/stocks/${userId}`, {
+      const response = await fetch(`${API_URL}/stocks/${user.id}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Cache-Control': 'no-cache, no-store, must-revalidate',
-          'Pragma': 'no-cache',
-          'Expires': '0'
         },
-        body: JSON.stringify({ symbol: newSymbol.toUpperCase() })
+        body: JSON.stringify({ symbol: updatedWatchlist })
       });
 
       if (response.ok) {
-        const data = await response.json();
-        setWatchlist(data.watchlist || []);
+        // After successful update, fetch the current watchlist
+        const currentWatchlist = await fetchWatchlist(user.id);
+        if (currentWatchlist !== null) {
+          setWatchlist(currentWatchlist);
+        } else {
+          setWatchlist(updatedWatchlist);
+        }
         setNewSymbol('');
-        toast.success(`Added ${newSymbol.toUpperCase()} to watchlist`);
-        
-        // Refresh the watchlist after a short delay
-        setTimeout(fetchWatchlist, 500);
+        toast.success(`Added ${symbol} to watchlist`);
       } else {
-        console.error('Failed to update watchlist:', await response.text());
+        const errorText = await response.text();
+        console.error('Failed to update watchlist:', errorText);
         toast.error('Failed to update watchlist');
       }
     } catch (error) {
-      console.error('Error updating watchlist:', error);
-      toast.error('An error occurred while updating the watchlist');
+      console.error('Error adding to watchlist:', error);
+      toast.error('Failed to add to watchlist');
     } finally {
       setIsAdding(false);
     }
   };
 
-  const removeFromWatchlist = async (symbol: string) => {
-    if (!userId) return;
+  const removeFromWatchlist = async (symbolToRemove: string) => {
+    if (!user?.id) {
+      console.error('Cannot remove from watchlist: no user ID');
+      return;
+    }
     
     try {
-      console.log("Removing symbol from watchlist:", symbol, "for user:", userId);
+      // Create new watchlist without the removed symbol
+      const updatedWatchlist = watchlist.filter(s => s !== symbolToRemove);
       
-      const response = await fetch(`${API_URL}/stocks/${userId}`, {
-        method: 'DELETE',
+      const response = await fetch(`${API_URL}/stocks/${user.id}`, {
+        method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Cache-Control': 'no-cache, no-store, must-revalidate',
-          'Pragma': 'no-cache',
-          'Expires': '0'
         },
-        body: JSON.stringify({ symbol })
+        body: JSON.stringify({ symbol: updatedWatchlist })
       });
 
       if (response.ok) {
-        const data = await response.json();
-        setWatchlist(data.watchlist || []);
-        toast.success(`Removed ${symbol} from watchlist`);
-        
-        // Refresh the watchlist after a short delay
-        setTimeout(fetchWatchlist, 500);
+        // After successful update, fetch the current watchlist
+        const currentWatchlist = await fetchWatchlist(user.id);
+        if (currentWatchlist !== null) {
+          setWatchlist(currentWatchlist);
+        } else {
+          setWatchlist(updatedWatchlist);
+        }
+        toast.success(`Removed ${symbolToRemove} from watchlist`);
       } else {
-        console.error('Failed to update watchlist:', await response.text());
+        const errorText = await response.text();
+        console.error('Failed to update watchlist:', errorText);
         toast.error('Failed to remove from watchlist');
       }
     } catch (error) {
-      console.error('Error updating watchlist:', error);
-      toast.error('An error occurred while updating the watchlist');
+      console.error('Error removing from watchlist:', error);
+      toast.error('Failed to remove from watchlist');
     }
   };
 
   return (
     <Card className="h-full">
-      <CardHeader className="flex flex-row items-center justify-between">
+      <CardHeader>
         <CardTitle>Watchlist</CardTitle>
       </CardHeader>
       <CardContent>
-        <div className="space-y-6">
-          <div className="flex space-x-2">
-            <Input
-              placeholder="Add stock symbol (e.g. AAPL)"
-              value={newSymbol}
-              onChange={(e) => setNewSymbol(e.target.value)}
-              className="flex-1"
-              onKeyDown={(e) => {
-                if (e.key === 'Enter') addToWatchlist();
-              }}
-            />
-            <Button 
-              onClick={addToWatchlist} 
-              size="sm"
-              disabled={isAdding || !newSymbol.trim()}
-            >
-              {isAdding ? <Loader2 className="h-4 w-4 animate-spin" /> : <PlusCircle className="h-4 w-4" />}
-            </Button>
-          </div>
+        <div className="flex gap-2 mb-4">
+          <Input
+            placeholder="Add stock symbol..."
+            value={newSymbol}
+            onChange={(e) => setNewSymbol(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && !isAdding) {
+                addToWatchlist();
+              }
+            }}
+            disabled={isLoading || isAdding || !user}
+          />
+          <Button 
+            onClick={addToWatchlist}
+            disabled={isLoading || isAdding || !newSymbol.trim() || !user}
+          >
+            {isAdding ? (
+              <Loader2 className="h-4 w-4 animate-spin" />
+            ) : (
+              <PlusCircle className="h-4 w-4" />
+            )}
+          </Button>
+        </div>
 
+        <div className="space-y-2">
           {isLoading ? (
-            <div className="flex justify-center py-8">
-              <Loader2 className="h-8 w-8 animate-spin text-muted-foreground" />
+            <div className="flex justify-center py-4">
+              <Loader2 className="h-6 w-6 animate-spin" />
+            </div>
+          ) : !user ? (
+            <div className="text-center text-muted-foreground p-4">
+              Error loading user data
             </div>
           ) : watchlist.length === 0 ? (
-            <div className="text-center py-8 text-muted-foreground">
-              <p>No stocks in your watchlist yet.</p>
-              <p className="text-sm mt-1">Add symbols to track them here.</p>
+            <div className="text-center text-muted-foreground p-4">
+              No stocks in watchlist
             </div>
           ) : (
-            <div className="space-y-4">
-              {watchlist.map((symbol) => (
-                <div key={symbol} className="flex items-center justify-between py-2 border-b">
-                  <div className="font-medium">{symbol}</div>
-                  <Button 
-                    variant="ghost" 
-                    size="sm" 
-                    onClick={() => removeFromWatchlist(symbol)}
-                  >
-                    <X className="h-4 w-4" />
-                  </Button>
-                </div>
-              ))}
-            </div>
+            watchlist.map((symbol) => (
+              <div 
+                key={symbol}
+                className="flex items-center justify-between p-2 bg-secondary rounded-md"
+              >
+                <span>{symbol}</span>
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  onClick={() => removeFromWatchlist(symbol)}
+                  disabled={isAdding}
+                >
+                  <X className="h-4 w-4" />
+                </Button>
+              </div>
+            ))
           )}
         </div>
       </CardContent>

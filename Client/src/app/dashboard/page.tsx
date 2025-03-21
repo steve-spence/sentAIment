@@ -136,7 +136,7 @@ export default function Dashboard() {
             />
           </div>
           <div className="lg:col-span-2">
-            <Watchlist userId={userData.id} watchlist={userData.watchlist} />
+            <Watchlist />
           </div>
         </div>
       </div>
