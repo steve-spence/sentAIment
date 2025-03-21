@@ -5,23 +5,89 @@ import { Button } from "./ui/button";
 import { useRouter } from "next/navigation";
 import { Input } from "@/components/ui/input";
 import { Bell } from "lucide-react";
+import { supabase } from "@/lib/supabase";
+import { useEffect, useState } from "react";
+import { useAuth } from "@/components/auth-Provider";
 
-interface HeaderProps {
-  username?: string;
+interface User {
+  id: string;
+  username: string;
+  email: string;
+  watchlist: string[];
 }
 
-export function Header({ username }: HeaderProps) {
-  const router = useRouter();
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3003/api';
 
-  const handleLoginClick = () => {
-    router.push("/login");
-  };
+const handleLogout = async () => {
+  await supabase.auth.signOut();
+};
+
+export function Header() {
+  const router = useRouter();
+  const { user: authUser, loading: authLoading } = useAuth();
+  const [user, setUser] = useState<User | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchUserData = async () => {
+      if (!authUser?.id) {
+        setLoading(false);
+        return;
+      }
+
+      try {
+        const url = `${API_URL}/users/${authUser.id}`;
+        console.log('Attempting to fetch from:', url);
+        
+        const response = await fetch(url, {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+          },
+          credentials: 'include',
+        });
+        
+        if (!response.ok) {
+          const errorText = await response.text();
+          console.error('Failed to fetch user data:', {
+            status: response.status,
+            statusText: response.statusText,
+            error: errorText
+          });
+          return;
+        }
+
+        const data = await response.json();
+        console.log('Raw API response:', data);
+
+        if (data.data) {  // Changed from data.user to data.data based on your server response
+          console.log('Setting user data:', data.data);
+          setUser(data.data);
+        } else {
+          console.error('User data not found in response. Full response:', data);
+        }
+      } catch (error) {
+        console.error('Error fetching user data:', {
+          error,
+          message: error.message,
+          stack: error.stack
+        });
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    if (!authLoading) {
+      fetchUserData();
+    }
+  }, [authUser?.id, authLoading]);
 
   return (
     <header className="border-b">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          FoxStocks
+          Investment AI
         </Link>
         
         <div className="flex-1 mx-10 max-w-md">
@@ -43,7 +109,7 @@ export function Header({ username }: HeaderProps) {
             Watchlist
           </Link>
           
-          {username ? (
+          {user ? (
             <div className="flex items-center space-x-4">
               <button className="relative">
                 <Bell className="h-5 w-5 text-muted-foreground" />
@@ -52,11 +118,15 @@ export function Header({ username }: HeaderProps) {
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
                 </span>
               </button>
-              <span className="text-sm font-medium">{username}</span>
+              <span className="text-sm font-medium">{user.username}</span>
             </div>
           ) : (
-            <Button onClick={handleLoginClick} variant="outline" size="sm">
-              Login
+            <Button 
+              variant="outline" 
+              size="sm" 
+      
+            >
+              Sign In
             </Button>
           )}
         </nav>

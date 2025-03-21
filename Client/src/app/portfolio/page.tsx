@@ -1,4 +1,4 @@
-import { DashboardLayout } from "../dashboard-layout";
+import { DashboardLayout } from "../../components/dashboard";
 import { PortfolioChart } from "@/components/portfolio-chart";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { portfolioData, stocks } from "@/lib/data";

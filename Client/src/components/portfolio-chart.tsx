@@ -14,7 +14,7 @@ interface ChartProps {
 }
 
 export function PortfolioChart({ data, currentValue, currency = "$" }: ChartProps) {
-  const [activeTab, setActiveTab] = useState("1D");
+  const [, setActiveTab] = useState("1D");
   
   // Sample data for different time periods
   const generateDummyData = (days: number) => {
@@ -40,7 +40,7 @@ export function PortfolioChart({ data, currentValue, currency = "$" }: ChartProp
       </div>
       
       <Card>
-        <Tabs defaultValue="1D" onValueChange={setActiveTab}>
+        <Tabs defaultValue="1D" onValueChange={(value) => setActiveTab(value)}>
           <div className="px-4 pt-4">
             <TabsList className="grid grid-cols-6 w-fit">
               <TabsTrigger value="1D">1D</TabsTrigger>
