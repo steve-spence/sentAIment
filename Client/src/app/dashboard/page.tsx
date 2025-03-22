@@ -11,16 +11,34 @@ import { Watchlist } from "@/components/watchlist";
 import { stocks, portfolioData, marketSnapshot } from "@/lib/data";
 
 interface User {
-  id: string;
-  username: string;
-  email: string;
-  watchlist: string[];
+  data: {
+    id: string;
+    username: string;
+    email: string;
+    watchlist:  string[];
+  };
+}
+
+interface Quote {
+  c: number;  // Current price
+  d: number;  // Change
+  dp: number; // Percent change
+  h: number;  // High price of the day
+  l: number;  // Low price of the day
+  o: number;  // Open price of the day
+  pc: number; // Previous close price
+}
+
+interface StockQuotes {
+  [symbol: string]: Quote;
 }
 
 export default function Dashboard() {
   const { user: authUser } = useAuth();
   const [userData, setUserData] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
+  const [stockQuotes, setStockQuotes] = useState<StockQuotes>({});
+  const [quotesLoading, setQuotesLoading] = useState(false);
 
   useEffect(() => {
     async function fetchUserData() {
@@ -48,6 +66,35 @@ export default function Dashboard() {
     fetchUserData();
   }, [authUser?.id]);
 
+  // Fetch stock quotes for watchlist
+  useEffect(() => {
+    async function fetchStockQuotes() {
+      if (!userData?.data?.watchlist || userData.data.watchlist.length === 0) {
+        return;
+      }
+
+      setQuotesLoading(true);
+      const quotes: StockQuotes = {};
+
+      try {
+        for (const symbol of userData.data.watchlist) {
+          const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/quote/${symbol}`);
+          if (response.ok) {
+            const quote = await response.json();
+            quotes[symbol] = quote;
+          }
+        }
+        setStockQuotes(quotes);
+      } catch (error) {
+        console.error('Error fetching stock quotes:', error);
+      } finally {
+        setQuotesLoading(false);
+      }
+    }
+
+    fetchStockQuotes();
+  }, [userData?.data?.watchlist]);
+
   // Log whenever userData changes
   useEffect(() => {
     console.log('Dashboard userData state:', userData);
@@ -71,23 +118,30 @@ export default function Dashboard() {
     <DashboardLayout>
       <div className="space-y-8">
         <div className="mb-8">
-          <h1 className="text-2xl font-bold">Hello, {userData.username}!</h1>
+          <h1 className="text-2xl font-bold">Hello, {userData.data.username}!</h1>
         </div>
 
         <div>
           <h2 className="text-lg font-medium mb-4">My Stocks</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
-            {stocks.map((stock) => (
-              <StockCard
-                key={stock.id}
-                name={stock.name}
-                symbol={stock.symbol}
-                currentValue={stock.currentValue}
-                percentChange={stock.percentChange}
-                chartData={stock.chartData}
-                logo={stock.logo}
-              />
-            ))}
+            {quotesLoading || !userData.data.watchlist ? (
+              <div className="col-span-full flex justify-center py-8">
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
+              </div>
+            ) : userData.data.watchlist.map((stock) => {
+              const quote = stockQuotes[stock];
+              console.log('quote', quote);
+              return quote ? (
+                <StockCard
+                  key={stock}
+                  symbol={stock}
+                  name={stock}
+                  currentValue={quote.c}
+                  percentChange={quote.dp}
+                  
+                />
+              ) : null;
+            })}
           </div>
         </div>
         

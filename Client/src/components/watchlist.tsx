@@ -20,9 +20,9 @@ export function Watchlist({ userData }) {
   // Update watchlist when userData changes
   useEffect(() => {
 
-    if (userData?.data?.watchlist?.symbol) {
-      console.log('Setting watchlist to:', userData.data.watchlist.symbol);
-      setWatchlist(userData.data.watchlist.symbol);
+    if (userData?.data?.watchlist) {
+      console.log('Setting watchlist to:', userData.data.watchlist);
+      setWatchlist(userData.data.watchlist);
     } else {
       console.log('Setting empty watchlist');
       setWatchlist([]);
@@ -39,7 +39,10 @@ export function Watchlist({ userData }) {
       console.error('Cannot add to watchlist:', { newSymbol, userId: userData?.data?.id });
       return;
     }
-    
+    if (watchlist.length >= 5) {
+      toast.error('Watchlist is full');
+      return;
+    }
     setIsAdding(true);
     try {
       const symbol = newSymbol.toUpperCase();
@@ -58,7 +61,6 @@ export function Watchlist({ userData }) {
 
       if (response.ok) {
         setWatchlist(updatedWatchlist);
-        setNewSymbol('');
         toast.success(`Added ${symbol} to watchlist`);
       } else {
         const errorText = await response.text();
@@ -88,7 +90,7 @@ export function Watchlist({ userData }) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ symbol: updatedWatchlist })
+        body: JSON.stringify( updatedWatchlist )
       });
 
       if (response.ok) {
