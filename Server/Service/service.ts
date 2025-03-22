@@ -8,6 +8,7 @@ import { users } from "../Database/db/schema";
 const database = db();
 
 
+
 export async function createUser(userId:string, username:string, email:string) {
     const user = await database.insert(users).values({
         id: userId,

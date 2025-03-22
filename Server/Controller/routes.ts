@@ -1,6 +1,9 @@
 import express, { Request, Response } from "express";
 import * as service from '../Service/service'
+import dotenv from 'dotenv';
+import { resolve } from 'path';
 
+dotenv.config({ path:  '../../.env' });
 
 export const router = express.Router();
 
@@ -14,6 +17,13 @@ router.get('/users/:userId', async (req: Request, res: Response) => {
         console.log(user);
         res.status(200).json({"data": user});
     }
+});
+router.get('/quote/:symbol', async (req: Request, res: Response) => {
+    const symbol = req.params.symbol;
+    const quote = await fetch(`https://finnhub.io/api/v1/quote?symbol=${symbol}&token=${process.env.FINNHUB_API_KEY}`);
+    const data = await quote.json();
+    res.json(data);
+
 });
 
 router.post('/users/:userId', async (req: Request, res: Response) => {

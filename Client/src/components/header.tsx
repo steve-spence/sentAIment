@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { Button } from "./ui/button";
-import { useRouter } from "next/navigation";
 import { Input } from "@/components/ui/input";
 import { Bell } from "lucide-react";
 import { supabase } from "@/lib/supabase";
@@ -16,14 +15,12 @@ interface User {
   watchlist: string[];
 }
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3003/api';
 
 const handleLogout = async () => {
   await supabase.auth.signOut();
 };
 
 export function Header() {
-  const router = useRouter();
   const { user: authUser, loading: authLoading } = useAuth();
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
@@ -36,17 +33,7 @@ export function Header() {
       }
 
       try {
-        const url = `${API_URL}/users/${authUser.id}`;
-        console.log('Attempting to fetch from:', url);
-        
-        const response = await fetch(url, {
-          method: 'GET',
-          headers: {
-            'Content-Type': 'application/json',
-            'Accept': 'application/json',
-          },
-          credentials: 'include',
-        });
+        const response = await fetch(`http://localhost:8080/api/users/${authUser.id}`);
         
         if (!response.ok) {
           const errorText = await response.text();

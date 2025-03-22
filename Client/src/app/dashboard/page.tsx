@@ -35,7 +35,7 @@ export default function Dashboard() {
       try {
         const { data: { user } } = await supabase.auth.getUser();
         if (user) {
-          const response = await fetch(`http://localhost:3003/api/users/${user.id}`);
+          const response = await fetch(`http://localhost:8080/api/users/${user.id}`);
           const data = await response.json();
           console.log(data);
           setUserData(data);
@@ -60,6 +60,7 @@ export default function Dashboard() {
       console.log('No authenticated user found, redirecting to login');
       router.push('/login');
     }
+    
   }, [authUser, authLoading, router]);
 
   // Show loading state
