@@ -1,19 +1,15 @@
 import pandas as pd
-import numpy as np
 import re
-import yfinance as yf
 import finnhub
 import os
 import re
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
-from transformers import AutoModel
 from dotenv import load_dotenv
 """
 Set Finnhub API key in .env file
 FINNHUB_API_KEY=your_api_key_here
 """
-
 
 # Function to combine tokens belonging to the same entity
 def combine_entity_tokens(ner_results):
@@ -117,7 +113,4 @@ if __name__ == "__main__":
     #setup(title="Stock market today: Dow, S&P 500, Nasdaq sink as Nvidia plummets 7%, Trump tariffs stalk markets")
     key = os.environ["FINNHUB_API_KEY"]
     finnhub_client = finnhub.Client(api_key=key)
-
-    
-    
-    
+    print(finnhub_client.company_news('AAPL', _from="2021-06-01", to="2021-06-10"))
