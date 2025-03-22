@@ -17,7 +17,11 @@
   },
   {
     "title": "American Electric upgraded to Buy from Neutral at Guggenheim",
-    "published": 1737727887
+    "published": 1737727887,
+    "posting_price": 0.00,
+    "close_price": 0.00,
+    "percent_change": 0.00,
+    "sentiment": 0.00
   },
   {
     "title": "American Electric Power Company (NASDAQ:AEP) shareholders have earned a 30% return over the last year",
