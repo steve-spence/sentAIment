@@ -1,16 +1,14 @@
 "use client";
 
-import { DashboardLayout } from "../../components/dashboard";
+import { useEffect, useState } from "react";
+import { useAuth } from '@/components/auth-Provider';
+import { DashboardLayout } from "@/components/dashboard";
 import { StockCard } from "@/components/stock-card";
 import { PortfolioBalance } from "@/components/portfolio-balance";
 import { PortfolioChart } from "@/components/portfolio-chart";
 import { MarketSnapshot } from "@/components/market-snapshot";
 import { Watchlist } from "@/components/watchlist";
 import { stocks, portfolioData, marketSnapshot } from "@/lib/data";
-import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
-import { supabase } from "@/lib/supabase";
-import { useAuth } from '@/components/auth-Provider';
 
 interface User {
   id: string;
@@ -20,51 +18,42 @@ interface User {
 }
 
 export default function Dashboard() {
-  const { user: authUser, loading: authLoading } = useAuth();
+  const { user: authUser } = useAuth();
   const [userData, setUserData] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
-  const router = useRouter();
 
   useEffect(() => {
-    async function loadUserData() {
-      if (!authUser) {
+    async function fetchUserData() {
+      if (!authUser?.id) {
+        console.log('No authUser.id available');
         setLoading(false);
         return;
       }
 
+      console.log('Fetching user data for ID:', authUser.id);
       try {
-        const { data: { user } } = await supabase.auth.getUser();
-        if (user) {
-          const response = await fetch(`http://localhost:8080/api/users/${user.id}`);
-          const data = await response.json();
-          console.log(data);
-          setUserData(data);
-        } else {
-          console.error('Failed to fetch user data');
-        }
+        const response = await fetch(`http://localhost:8080/api/users/${authUser.id}`);
+        if (!response.ok) throw new Error('Failed to fetch user data');
+        
+        const data = await response.json();
+        console.log('Received user data:', data);
+        setUserData(data);
       } catch (error) {
-        console.error('Error loading user data:', error);
+        console.error('Error fetching user data:', error);
       } finally {
         setLoading(false);
       }
     }
 
-    if (!authLoading) {
-      loadUserData();
-    }
-  }, [authUser, authLoading]);
+    fetchUserData();
+  }, [authUser?.id]);
 
-  // Redirect to login if not authenticated
+  // Log whenever userData changes
   useEffect(() => {
-    if (!authLoading && !authUser) {
-      console.log('No authenticated user found, redirecting to login');
-      router.push('/login');
-    }
-    
-  }, [authUser, authLoading, router]);
+    console.log('Dashboard userData state:', userData);
+  }, [userData]);
 
-  // Show loading state
-  if (loading || authLoading) {
+  if (loading) {
     return (
       <DashboardLayout>
         <div className="flex items-center justify-center min-h-screen">
@@ -74,20 +63,17 @@ export default function Dashboard() {
     );
   }
 
-  // If not authenticated or no user data, return null (redirect will happen)
-  if (!authUser || !userData) {
+  if (!userData) {
     return null;
   }
 
   return (
     <DashboardLayout>
       <div className="space-y-8">
-        {/* User welcome message */}
         <div className="mb-8">
           <h1 className="text-2xl font-bold">Hello, {userData.username}!</h1>
         </div>
 
-        {/* Rest of your dashboard content */}
         <div>
           <h2 className="text-lg font-medium mb-4">My Stocks</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
@@ -105,7 +91,6 @@ export default function Dashboard() {
           </div>
         </div>
         
-        {/* Balance and Analytics */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-1">
             <PortfolioBalance 
@@ -122,7 +107,6 @@ export default function Dashboard() {
           </div>
         </div>
         
-        {/* Market Data and Watchlist */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-1">
             <MarketSnapshot 
@@ -137,7 +121,7 @@ export default function Dashboard() {
             />
           </div>
           <div className="lg:col-span-2">
-            <Watchlist />
+            <Watchlist userData={userData} />
           </div>
         </div>
       </div>

@@ -6,135 +6,58 @@ import { Button } from "@/components/ui/button";
 import { PlusCircle, Loader2, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { toast } from "sonner";
-import { supabase } from "@/lib/supabase";
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3003/api';
 
-interface User {
-  id: string;
-  username: string;
-  email: string;
-  watchlist: string[];
-}
+const API_URL = process.env.NEXT_PUBLIC_API_URL
 
-export function Watchlist() {
+
+
+export function Watchlist({ userData }) {
   const [watchlist, setWatchlist] = useState<string[]>([]);
   const [newSymbol, setNewSymbol] = useState("");
-  const [user, setUser] = useState<User | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
   const [isAdding, setIsAdding] = useState(false);
 
-  // Function to fetch the current watchlist
-  const fetchWatchlist = async (userId: string) => {
-    try {
-      const response = await fetch(`${API_URL}/stocks/${userId}`);
-      console.log('Watchlist API response status:', response.status);
-
-      if (!response.ok) {
-        console.error('Failed to fetch watchlist:', response.status);
-        return [];
-      }
-
-      const data = await response.json();
-      console.log('Watchlist data from API:', data);
-      
-      // Extract the symbols array from the nested structure
-      const stockList = data["list of stocks"]?.symbol;
-      console.log('Extracted stock list:', stockList);
-      
-      return Array.isArray(stockList) ? stockList : [];
-    } catch (error) {
-      console.error('Error fetching watchlist:', error);
-      return [];
-    }
-  };
-
-  // Load user data and watchlist
+  // Update watchlist when userData changes
   useEffect(() => {
-    async function loadUserData() {
-      try {
-        // Step 1: Get Supabase user
-        const { data: { user: supabaseUser }, error: supabaseError } = await supabase.auth.getUser();
-        
-        if (supabaseError || !supabaseUser) {
-          console.error('Supabase auth error:', supabaseError);
-          setWatchlist([]); // Ensure empty array if no user
-          return;
-        }
 
-        console.log('Supabase user:', supabaseUser);
-
-        // Step 2: Get user data from our API
-        const response = await fetch(`${API_URL}/users/${supabaseUser.id}`);
-        console.log('User API response status:', response.status);
-
-        if (!response.ok) {
-          console.error('API error:', response.status);
-          setWatchlist([]); // Ensure empty array on error
-          return;
-        }
-
-        const data = await response.json();
-        console.log('User data from API:', data);
-
-        // Handle both possible response formats
-        const userData = data.data || data;
-        
-        if (userData && userData.id) {
-          console.log('Setting user data:', userData);
-          setUser(userData);
-          
-          // Step 3: Fetch current watchlist
-          const currentWatchlist = await fetchWatchlist(userData.id);
-          console.log('Setting watchlist:', currentWatchlist);
-          setWatchlist(currentWatchlist);
-        } else {
-          console.error('Invalid user data:', userData);
-          toast.error('Failed to load user data');
-          setWatchlist([]); // Ensure empty array on invalid data
-        }
-      } catch (error) {
-        console.error('Error loading user data:', error);
-        toast.error('Failed to load user data');
-        setWatchlist([]); // Ensure empty array on error
-      } finally {
-        setIsLoading(false);
-      }
+    if (userData?.data?.watchlist?.symbol) {
+      console.log('Setting watchlist to:', userData.data.watchlist.symbol);
+      setWatchlist(userData.data.watchlist.symbol);
+    } else {
+      console.log('Setting empty watchlist');
+      setWatchlist([]);
     }
+  }, [userData]);
 
-    loadUserData();
-  }, []); // No dependencies needed as this only runs once on mount
+  // Log whenever watchlist state changes
+  useEffect(() => {
+    console.log('Current watchlist state:', watchlist);
+  }, [watchlist]);
 
   const addToWatchlist = async () => {
-    if (!newSymbol.trim() || !user?.id) {
-      console.error('Cannot add to watchlist:', { newSymbol, userId: user?.id });
+    if (!newSymbol.trim() || !userData?.data?.id) {
+      console.error('Cannot add to watchlist:', { newSymbol, userId: userData?.data?.id });
       return;
     }
     
     setIsAdding(true);
     try {
       const symbol = newSymbol.toUpperCase();
-      console.log('Adding symbol:', symbol, 'for user:', user.id);
+      console.log('Adding symbol:', symbol, 'for user:', userData.data.id);
 
       // Create new watchlist with added symbol
       const updatedWatchlist = [...watchlist, symbol];
       
-      const response = await fetch(`${API_URL}/stocks/${user.id}`, {
+      const response = await fetch(`${API_URL}/stocks/${userData.data.id}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ symbol: updatedWatchlist })
+        body: JSON.stringify( updatedWatchlist )
       });
 
       if (response.ok) {
-        // After successful update, fetch the current watchlist
-        const currentWatchlist = await fetchWatchlist(user.id);
-        if (currentWatchlist !== null) {
-          setWatchlist(currentWatchlist);
-        } else {
-          setWatchlist(updatedWatchlist);
-        }
+        setWatchlist(updatedWatchlist);
         setNewSymbol('');
         toast.success(`Added ${symbol} to watchlist`);
       } else {
@@ -151,7 +74,7 @@ export function Watchlist() {
   };
 
   const removeFromWatchlist = async (symbolToRemove: string) => {
-    if (!user?.id) {
+    if (!userData?.data?.id) {
       console.error('Cannot remove from watchlist: no user ID');
       return;
     }
@@ -160,7 +83,7 @@ export function Watchlist() {
       // Create new watchlist without the removed symbol
       const updatedWatchlist = watchlist.filter(s => s !== symbolToRemove);
       
-      const response = await fetch(`${API_URL}/stocks/${user.id}`, {
+      const response = await fetch(`${API_URL}/stocks/${userData.data.id}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -169,13 +92,7 @@ export function Watchlist() {
       });
 
       if (response.ok) {
-        // After successful update, fetch the current watchlist
-        const currentWatchlist = await fetchWatchlist(user.id);
-        if (currentWatchlist !== null) {
-          setWatchlist(currentWatchlist);
-        } else {
-          setWatchlist(updatedWatchlist);
-        }
+        setWatchlist(updatedWatchlist);
         toast.success(`Removed ${symbolToRemove} from watchlist`);
       } else {
         const errorText = await response.text();
@@ -204,11 +121,11 @@ export function Watchlist() {
                 addToWatchlist();
               }
             }}
-            disabled={isLoading || isAdding || !user}
+            disabled={isAdding || !userData?.data}
           />
           <Button 
             onClick={addToWatchlist}
-            disabled={isLoading || isAdding || !newSymbol.trim() || !user}
+            disabled={isAdding || !newSymbol.trim() || !userData?.data}
           >
             {isAdding ? (
               <Loader2 className="h-4 w-4 animate-spin" />
@@ -219,11 +136,7 @@ export function Watchlist() {
         </div>
 
         <div className="space-y-2">
-          {isLoading ? (
-            <div className="flex justify-center py-4">
-              <Loader2 className="h-6 w-6 animate-spin" />
-            </div>
-          ) : !user ? (
+          {!userData?.data ? (
             <div className="text-center text-muted-foreground p-4">
               Error loading user data
             </div>
