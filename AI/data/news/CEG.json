@@ -1,19 +1,31 @@
 [
   {
     "title": "3 of Goldman Sachs' best investing tips for currently volatile markets",
-    "published": 1742563852
+    "published": 1742563852,
+    "posting_price": 215.7749939,
+    "close_price": 222.47999573,
+    "percent_change": 3.10740448
   },
   {
     "title": "Uranium Bulls Get Spooked by Unknowns From Canada to Russia",
-    "published": 1742376600
+    "published": 1742376600,
+    "posting_price": 211.11999512,
+    "close_price": 218.05000305,
+    "percent_change": 3.2824972
   },
   {
     "title": "Nuclear Energy Stock Talen Soars Amid Bullish Initiation",
-    "published": 1741810737
+    "published": 1741810737,
+    "posting_price": 219.41999817,
+    "close_price": 215.3500061,
+    "percent_change": -1.85488657
   },
   {
     "title": "Stock market sell-off: Why these stocks are in the green amid the pain",
-    "published": 1741630632
+    "published": 1741630632,
+    "posting_price": 203.61000061,
+    "close_price": 202.21000671,
+    "percent_change": -0.68758602
   },
   {
     "title": "Oracle earnings, February CPI, CERAWeek: What to Watch",
@@ -21,11 +33,17 @@
   },
   {
     "title": "Nvidia Pep Talk Fails To Fire Up S&P 500 Power Plays, Despite Vistra Earnings Beat",
-    "published": 1740676555
+    "published": 1740676555,
+    "posting_price": 275.87365871,
+    "close_price": 249.2734375,
+    "percent_change": -9.64217509
   },
   {
     "title": "Stock Market Leaders Come Under Heavy Selling Pressure, But Will It Spark A Market Correction?",
-    "published": 1740491153
+    "published": 1740491153,
+    "posting_price": 264.28534633,
+    "close_price": 263.81622314,
+    "percent_change": -0.17750632
   },
   {
     "title": "Why the Future of AI Trading May Be Nuclear Power",
@@ -33,14 +51,233 @@
   },
   {
     "title": "The Score: UnitedHealth, Intel, Walmart and More Stocks That Defined the Week",
-    "published": 1740177060
+    "published": 1740177060,
+    "posting_price": 309.42084517,
+    "close_price": 283.90859985,
+    "percent_change": -8.2451605
   },
   {
     "title": "Trending tickers: Alibaba, Tesla, Rivian, Novo Nordisk and Standard Chartered",
-    "published": 1740135012
+    "published": 1740135012,
+    "posting_price": 309.42084517,
+    "close_price": 283.90859985,
+    "percent_change": -8.2451605
   },
   {
     "title": "Constellation Ahead of Schedule for Launch of Crane Clean Energy Center",
-    "published": 1739970840
+    "published": 1739970840,
+    "posting_price": 323.20506875,
+    "close_price": 321.06408691,
+    "percent_change": -0.66242211
+  },
+  {
+    "title": "Seaport Global Keeps Their Hold Rating on Constellation Energy Corporation (CEG)",
+    "published": 1713166560,
+    "posting_price": 192.76968187,
+    "close_price": 184.13879395,
+    "percent_change": -4.47730568
+  },
+  {
+    "title": "QQQ ETF Update, 4/15/2024\ufffd\ufffd\ufffd",
+    "published": 1713159000,
+    "posting_price": 192.76968187,
+    "close_price": 184.13879395,
+    "percent_change": -4.47730568
+  },
+  {
+    "title": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+    "published": 1712917980,
+    "posting_price": 190.65418564,
+    "close_price": 190.3661499,
+    "percent_change": -0.15107759
+  },
+  {
+    "title": "Energy-Guzzling AI Is Also the Future of Energy Savings",
+    "published": 1712914200,
+    "posting_price": 190.65418564,
+    "close_price": 190.3661499,
+    "percent_change": -0.15107759
+  },
+  {
+    "title": "SPY ETF Update, 4/12/2024",
+    "published": 1712896500,
+    "posting_price": 190.65418564,
+    "close_price": 190.3661499,
+    "percent_change": -0.15107759
+  },
+  {
+    "title": "Do markets even need rate cuts with strong fundamentals?",
+    "published": 1712871352,
+    "posting_price": 190.26684587,
+    "close_price": 191.56793213,
+    "percent_change": 0.68382185
+  },
+  {
+    "title": "Magnificent Misfits: 3 Non-Tech Stocks to Outshine the FAANG Gang in 2024",
+    "published": 1712839620,
+    "posting_price": 190.26684587,
+    "close_price": 191.56793213,
+    "percent_change": 0.68382185
+  },
+  {
+    "title": "Cheat Sheet: Those Other AI Beneficiaries",
+    "published": 1712836980,
+    "posting_price": 190.26684587,
+    "close_price": 191.56793213,
+    "percent_change": 0.68382185
+  },
+  {
+    "title": "Electrical Utilities: AI Power Play",
+    "published": 1712833620,
+    "posting_price": 190.26684587,
+    "close_price": 191.56793213,
+    "percent_change": 0.68382185
+  },
+  {
+    "title": "QQQ ETF Update, 4/11/2024",
+    "published": 1712816580,
+    "posting_price": 190.26684587,
+    "close_price": 191.56793213,
+    "percent_change": 0.68382185
+  },
+  {
+    "title": "Constellation Energy's (NASDAQ:CEG) Returns Have Hit A Wall",
+    "published": 1712754024,
+    "posting_price": 182.25172829,
+    "close_price": 189.78016663,
+    "percent_change": 4.13079119
+  },
+  {
+    "title": "ClearBridge Value Equity Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712753400,
+    "posting_price": 182.25172829,
+    "close_price": 189.78016663,
+    "percent_change": 4.13079119
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 10th",
+    "published": 1712739360,
+    "posting_price": 182.25172829,
+    "close_price": 189.78016663,
+    "percent_change": 4.13079119
+  },
+  {
+    "title": "YieldBoost Constellation Energy Corp To 6.3% Using Options",
+    "published": 1712658900,
+    "posting_price": 191.28982281,
+    "close_price": 186.82043457,
+    "percent_change": -2.33644852
+  },
+  {
+    "title": "QQQ ETF Update, 4/9/2024",
+    "published": 1712639520,
+    "posting_price": 191.28982281,
+    "close_price": 186.82043457,
+    "percent_change": -2.33644852
+  },
+  {
+    "title": "3 Energy Stocks Stand Among S&P 500's Top 10 Performers In 2024 As Oil Prices Reach $90",
+    "published": 1712632860,
+    "posting_price": 191.28982281,
+    "close_price": 186.82043457,
+    "percent_change": -2.33644852
+  },
+  {
+    "title": "Nuclear Reactors to the Rescue: 3 Atomic Stocks to Power the AI Boom",
+    "published": 1712628360,
+    "posting_price": 191.28982281,
+    "close_price": 186.82043457,
+    "percent_change": -2.33644852
+  },
+  {
+    "title": "SPY ETF Update, 4/8/2024",
+    "published": 1712554200,
+    "posting_price": 193.5394106,
+    "close_price": 190.67402649,
+    "percent_change": -1.48051712
+  },
+  {
+    "title": "QQQ ETF Update, 4/5/2024",
+    "published": 1712321220,
+    "posting_price": 181.07974281,
+    "close_price": 191.76654053,
+    "percent_change": 5.90170803
+  },
+  {
+    "title": "Decoding Constellation Energy's Options Activity: What's the Big Picture?",
+    "published": 1712284380,
+    "posting_price": 181.07974281,
+    "close_price": 191.76654053,
+    "percent_change": 5.90170803
+  },
+  {
+    "title": "VST, PAM, CEG, and KEN are among utility movers",
+    "published": 1712279400,
+    "posting_price": 181.07974281,
+    "close_price": 191.76654053,
+    "percent_change": 5.90170803
+  },
+  {
+    "title": "Goldman Sachs spotlights Q1 winners and losers, naming: Bitcoin, NVDA, BA, TSLA, and more",
+    "published": 1712221380,
+    "posting_price": 192.12409491,
+    "close_price": 181.86436462,
+    "percent_change": -5.34015803
+  },
+  {
+    "title": "Moody\u2019s Upgrades Constellation\u2019s Credit Rating as Policy Support and Growing Demand for Clean Energy Fuel Strong Financial Performance",
+    "published": 1712157000,
+    "posting_price": 187.19785375,
+    "close_price": 188.96574402,
+    "percent_change": 0.94439666
+  },
+  {
+    "title": "The Top 3 S&P 500 Stocks Of Q1 2024",
+    "published": 1712134506,
+    "posting_price": 187.19785375,
+    "close_price": 188.96574402,
+    "percent_change": 0.94439666
+  },
+  {
+    "title": "QQQ ETF Update, 4/3/2024",
+    "published": 1712123160,
+    "posting_price": 187.19785375,
+    "close_price": 188.96574402,
+    "percent_change": 0.94439666
+  },
+  {
+    "title": "NextEra: Bigger Dividend, Healthy Momentum, Bode Well (A.I. Too)",
+    "published": 1712062223,
+    "posting_price": 183.42866261,
+    "close_price": 186.85023499,
+    "percent_change": 1.86534227
+  },
+  {
+    "title": "These are the most crowded stocks within each sector - BofA",
+    "published": 1711974960,
+    "posting_price": 184.76450665,
+    "close_price": 184.71484375,
+    "percent_change": -0.02687903
+  },
+  {
+    "title": "AI\u2019s Growth Fuels Nuclear Power\u2019s Revival",
+    "published": 1711968600,
+    "posting_price": 184.76450665,
+    "close_price": 184.71484375,
+    "percent_change": -0.02687903
+  },
+  {
+    "title": "QQQ ETF Update, 4/1/2024",
+    "published": 1711953660,
+    "posting_price": 184.76450665,
+    "close_price": 184.71484375,
+    "percent_change": -0.02687903
+  },
+  {
+    "title": "Smart Money Is Betting Big In CEG Options",
+    "published": 1711941660,
+    "posting_price": 184.76450665,
+    "close_price": 184.71484375,
+    "percent_change": -0.02687903
   }
 ]

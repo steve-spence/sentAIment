@@ -1,18 +1,162 @@
 [
   {
     "title": "2 Under-the-Radar REITs With Market-Beating Potential",
-    "published": 1742303580
+    "published": 1742303580,
+    "posting_price": 99.33000183,
+    "close_price": 98.38999939,
+    "percent_change": -0.94634292
   },
   {
     "title": "Vornado (VNO) Down 14.7% Since Last Earnings Report: Can It Rebound?",
-    "published": 1741793414
+    "published": 1741793414,
+    "posting_price": 99.26000214,
+    "close_price": 98.51999664,
+    "percent_change": -0.74552235
   },
   {
     "title": "Boston Properties (BXP) Up 1.7% Since Last Earnings Report: Can It Continue?",
-    "published": 1740673821
+    "published": 1740673821,
+    "posting_price": 99.15000153,
+    "close_price": 100.94000244,
+    "percent_change": 1.80534633
   },
   {
     "title": "Alexandria Q4 AFFO Meets Estimates, Revenues Increase Y/Y",
-    "published": 1738075200
+    "published": 1738075200,
+    "posting_price": 101.56999969,
+    "close_price": 97.25,
+    "percent_change": -4.25322409
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 119.18787658,
+    "close_price": 115.00939941,
+    "percent_change": -3.50579043
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Aecon consortium selected as preferred proponent for the stations contract on the Surrey Langley SkyTrain Project",
+    "published": 1712947020,
+    "posting_price": 119.27472156,
+    "close_price": 117.5763092,
+    "percent_change": -1.42394997
+  },
+  {
+    "title": "Here's Why Alexandria (ARE) Is an Apt Portfolio Pick for Now",
+    "published": 1712937600,
+    "posting_price": 119.27472156,
+    "close_price": 117.5763092,
+    "percent_change": -1.42394997
+  },
+  {
+    "title": "Aecon to Enhance Vancouver\u2019s SkyTrain Network",
+    "published": 1712902080,
+    "posting_price": 119.27472156,
+    "close_price": 117.5763092,
+    "percent_change": -1.42394997
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 119.4966665,
+    "close_price": 119.56421661,
+    "percent_change": 0.05652887
+  },
+  {
+    "title": "ClearBridge Mid Cap Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712750400,
+    "posting_price": 120.21077717,
+    "close_price": 118.46411896,
+    "percent_change": -1.45299635
+  },
+  {
+    "title": "10 Top REITs To Buy In 2024",
+    "published": 1712734200,
+    "posting_price": 120.21077717,
+    "close_price": 118.46411896,
+    "percent_change": -1.45299635
+  },
+  {
+    "title": "Stock market today: Asian shares are mixed, taking hot US inflation data in stride",
+    "published": 1712718300,
+    "posting_price": 120.21077717,
+    "close_price": 118.46411896,
+    "percent_change": -1.45299635
+  },
+  {
+    "title": "Stock market today: Wall Street falls after hot inflation report burns hopes for a June rate cut",
+    "published": 1712718300,
+    "posting_price": 120.21077717,
+    "close_price": 118.46411896,
+    "percent_change": -1.45299635
+  },
+  {
+    "title": "Alexandria Real Estate Equities (ARE) Could Be a Great Choice",
+    "published": 1712591107,
+    "posting_price": 121.10823038,
+    "close_price": 122.27588654,
+    "percent_change": 0.9641427
+  },
+  {
+    "title": "A Crude Problem",
+    "published": 1712480400
+  },
+  {
+    "title": "March Madness: Elite 8 REITs",
+    "published": 1712473200
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "Alexandria Real Estate management to meet virtually with Mizuho",
+    "published": 1712289300,
+    "posting_price": 117.03589884,
+    "close_price": 120.22042084,
+    "percent_change": 2.7209788
+  },
+  {
+    "title": "Buy Alert: 2 REITs For April 2024",
+    "published": 1712215800,
+    "posting_price": 120.79943375,
+    "close_price": 118.22286987,
+    "percent_change": -2.13292712
+  },
+  {
+    "title": "Better Buy For Retiring With Dividends In April 2024: BDCs Or REITs",
+    "published": 1712128500,
+    "posting_price": 119.48702423,
+    "close_price": 119.17822266,
+    "percent_change": -0.25843942
+  },
+  {
+    "title": "Alexandria (ARE) Sees Demand, Seals Early Renewal With insitro",
+    "published": 1712071620,
+    "posting_price": 119.59317379,
+    "close_price": 119.6317749,
+    "percent_change": 0.03227702
+  },
+  {
+    "title": "Alexandria Real Estate Equities, Inc. Named One of the Most Trustworthy Companies in America by Newsweek for Second Consecutive Year",
+    "published": 1712061000,
+    "posting_price": 119.59317379,
+    "close_price": 119.6317749,
+    "percent_change": 0.03227702
+  },
+  {
+    "title": "Alexandria Real Estate Equities, Inc. Announces Significant Early Renewal With insitro for a 6-Year Lease Extension at the Alexandria Center for Advanced Technologies Mega Campus in South San Francisco",
+    "published": 1711974600,
+    "posting_price": 124.81385727,
+    "close_price": 121.10823822,
+    "percent_change": -2.96891638
   }
 ]

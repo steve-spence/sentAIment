@@ -1,27 +1,57 @@
 [
   {
+    "title": "How Prevalent Are Dyes in Foods? We Crunched the Numbers.",
+    "published": 1742722200
+  },
+  {
+    "title": "Are Pop-Tarts on the Chopping Block With GOP Cuts?",
+    "published": 1742722200
+  },
+  {
+    "title": "Food inflation: How tariffs could impact your grocery bill",
+    "published": 1742644853
+  },
+  {
     "title": "3 Consumer Stocks Walking a Fine Line",
-    "published": 1741266138
+    "published": 1741266138,
+    "posting_price": 82.5,
+    "close_price": 82.43000031,
+    "percent_change": -0.08484811
   },
   {
     "title": "Mars, Incorporated Announces Pricing of $26 Billion of Senior Notes",
-    "published": 1741216620
+    "published": 1741216620,
+    "posting_price": 82.37000275,
+    "close_price": 82.37000275,
+    "percent_change": 0.0
   },
   {
     "title": "They Broke Up. Then Came the Brand Deals.",
-    "published": 1740618180
+    "published": 1740618180,
+    "posting_price": 82.05192452,
+    "close_price": 81.93274689,
+    "percent_change": -0.1452466
   },
   {
     "title": "Middleby Plans to Spin Off Food-Processing Business",
-    "published": 1740486960
+    "published": 1740486960,
+    "posting_price": 82.18102973,
+    "close_price": 82.1214447,
+    "percent_change": -0.0725046
   },
   {
     "title": "White House and Ukraine Close In on Deal for Mineral Rights",
-    "published": 1740180960
+    "published": 1740180960,
+    "posting_price": 81.8334375,
+    "close_price": 82.09165192,
+    "percent_change": 0.31553657
   },
   {
     "title": "U.S., Russia Forge New Path on Ukraine After First High-Level Talks",
-    "published": 1739923260
+    "published": 1739923260,
+    "posting_price": 81.72419852,
+    "close_price": 81.84337616,
+    "percent_change": 0.14582907
   },
   {
     "title": "Squeezed Between Putin and Trump, Europe Sees a Moment of Truth",
@@ -29,26 +59,212 @@
   },
   {
     "title": "Trump Says He and Putin Agreed to Begin Talks on Ending Ukraine War",
-    "published": 1739401020
+    "published": 1739401020,
+    "posting_price": 81.63481124,
+    "close_price": 81.61495209,
+    "percent_change": -0.02432682
   },
   {
     "title": "WK Kellogg Q4 Earnings Beat Estimates, Volume Declines Y/Y",
-    "published": 1739374740
+    "published": 1739374740,
+    "posting_price": 81.63481124,
+    "close_price": 81.61495209,
+    "percent_change": -0.02432682
   },
   {
     "title": "WK Kellogg Co (KLG) Q4 2024 Earnings Call Highlights: Strategic Progress Amid Sales Challenges",
-    "published": 1739344160
+    "published": 1739344160,
+    "posting_price": 81.63481124,
+    "close_price": 81.61495209,
+    "percent_change": -0.02432682
   },
   {
-    "title": "WK Kellogg Q4: EPS Beat, Sales Miss Amid Challenging Market Conditions",
-    "published": 1739289831
+    "title": "RICE KRISPIES TREATS\u00ae FANS REJOICE! OUR #1 MOST REQUESTED FLAVOR HAS ARRIVED: CHOCOLATEY PEANUT BUTTER",
+    "published": 1713182400,
+    "posting_price": 53.99575076,
+    "close_price": 53.74352646,
+    "percent_change": -0.46711879
   },
   {
-    "title": "WK Kellogg forecasts upbeat 2025 profit on cost cut efforts",
-    "published": 1739282156
+    "title": "Short interest for tobacco and personal care industries surge in March",
+    "published": 1713174120,
+    "posting_price": 53.99575076,
+    "close_price": 53.74352646,
+    "percent_change": -0.46711879
   },
   {
-    "title": "Trailblazers and Innovators: Kellanova Women in STEM",
-    "published": 1739280060
+    "title": "Yacktman Fund Adjusts Portfolio, Major Reduction in Pioneer Natural Resources Co",
+    "published": 1713171720,
+    "posting_price": 53.99575076,
+    "close_price": 53.74352646,
+    "percent_change": -0.46711879
+  },
+  {
+    "title": "Yacktman Focused Fund Adjusts Portfolio, Cuts Stake in Associated British Foods PLC",
+    "published": 1713171720,
+    "posting_price": 53.99575076,
+    "close_price": 53.74352646,
+    "percent_change": -0.46711879
+  },
+  {
+    "title": "Notable Two Hundred Day Moving Average Cross - K",
+    "published": 1712916540,
+    "posting_price": 54.51960062,
+    "close_price": 53.76292038,
+    "percent_change": -1.38790496
+  },
+  {
+    "title": "Kellanova (K) Shares Cross 4% Yield Mark",
+    "published": 1712887920,
+    "posting_price": 54.51960062,
+    "close_price": 53.76292038,
+    "percent_change": -1.38790496
+  },
+  {
+    "title": "3 Severely Undervalued Packaged-Food Stocks Due to Pop Soon",
+    "published": 1712861172,
+    "posting_price": 55.57701579,
+    "close_price": 54.4905014,
+    "percent_change": -1.95497073
+  },
+  {
+    "title": "PRINGLES\u00ae AND CROCS\u2122 COMBINE FASHION AND FLAVOR WITH A ONE-OF-A-KIND CRUSH BOOT, FIRST-EVER CROCS-INSPIRED CRISPS AND MORE DELICIOUS DESIGNS IN GLOBAL COLLECTION",
+    "published": 1712847600,
+    "posting_price": 55.57701579,
+    "close_price": 54.4905014,
+    "percent_change": -1.95497073
+  },
+  {
+    "title": "Kellanova price target raised by $3 at Citi, here's why",
+    "published": 1712812200,
+    "posting_price": 55.57701579,
+    "close_price": 54.4905014,
+    "percent_change": -1.95497073
+  },
+  {
+    "title": "Maintaining Hold on Kellanova Amid Modest Growth and Market Uncertainties",
+    "published": 1712810820,
+    "posting_price": 55.57701579,
+    "close_price": 54.4905014,
+    "percent_change": -1.95497073
+  },
+  {
+    "title": "Kellanova (K) Receives a Hold from Wells Fargo",
+    "published": 1712810160,
+    "posting_price": 55.57701579,
+    "close_price": 54.4905014,
+    "percent_change": -1.95497073
+  },
+  {
+    "title": "Kellanova 2024 Annual Shareowners Meeting to be Webcast Live",
+    "published": 1712772000,
+    "posting_price": 55.19867392,
+    "close_price": 55.30538177,
+    "percent_change": 0.19331597
+  },
+  {
+    "title": "Kellanova (K) is a Top-Ranked Value Stock: Should You Buy?",
+    "published": 1712756410,
+    "posting_price": 55.19867392,
+    "close_price": 55.30538177,
+    "percent_change": 0.19331597
+  },
+  {
+    "title": "Kellanova (K) Receives a Hold from RBC Capital",
+    "published": 1712738880,
+    "posting_price": 55.19867392,
+    "close_price": 55.30538177,
+    "percent_change": 0.19331597
+  },
+  {
+    "title": "Kinross to announce Q1 results on May 7, 2024",
+    "published": 1712682000,
+    "posting_price": 55.84864357,
+    "close_price": 55.41209793,
+    "percent_change": -0.78165845
+  },
+  {
+    "title": "Celsius, Starbucks, McDonald's and e.l.f. Beauty stand out in a survey of teenagers",
+    "published": 1712653680,
+    "posting_price": 55.84864357,
+    "close_price": 55.41209793,
+    "percent_change": -0.78165845
+  },
+  {
+    "title": "Celsius, Starbucks, McDonald's and e.l.f Beauty stand out in survey of teenagers",
+    "published": 1712653320,
+    "posting_price": 55.84864357,
+    "close_price": 55.41209793,
+    "percent_change": -0.78165845
+  },
+  {
+    "title": "Kinross Gold Schedules Q1 Results and Shareholders Meeting",
+    "published": 1712638140,
+    "posting_price": 55.84864357,
+    "close_price": 55.41209793,
+    "percent_change": -0.78165845
+  },
+  {
+    "title": "Food Giants Pivot To Discounts And New Sizes Amid Decreased Spending by Low-Income Americans",
+    "published": 1712565720,
+    "posting_price": 55.81953315,
+    "close_price": 55.76132584,
+    "percent_change": -0.10427767
+  },
+  {
+    "title": "Eggo\u00ae and Jewel-Osco give time, waffles to fight food insecurity in Northern Illinois",
+    "published": 1712322000,
+    "posting_price": 55.86804069,
+    "close_price": 55.73222733,
+    "percent_change": -0.24309669
+  },
+  {
+    "title": "Nutri-Grain\u00ae and King Soopers Join No Kid Hungry to Help End Summer Hunger for Colorado Kids and Families",
+    "published": 1712253480,
+    "posting_price": 55.31508784,
+    "close_price": 55.85834503,
+    "percent_change": 0.98211394
+  },
+  {
+    "title": "POP-TARTS\u00ae ADDS A SWEET TWIST TO SNACK TIME WITH POP-TARTS\u00ae CRUNCHY POPPERS AS ITS FIRST-EVER CRUNCHY SNACK",
+    "published": 1712149200,
+    "posting_price": 55.78073216,
+    "close_price": 54.89794159,
+    "percent_change": -1.58260843
+  },
+  {
+    "title": "Kellanova: Solid Entry Point For Yield And Returns",
+    "published": 1712147153,
+    "posting_price": 55.78073216,
+    "close_price": 54.89794159,
+    "percent_change": -1.58260843
+  },
+  {
+    "title": "These are the most crowded longs within consumer staples - UBS",
+    "published": 1712115480,
+    "posting_price": 55.78073216,
+    "close_price": 54.89794159,
+    "percent_change": -1.58260843
+  },
+  {
+    "title": "Kinross Gold Corp Schedules Virtual 2024 AGM",
+    "published": 1712046600,
+    "posting_price": 55.37329292,
+    "close_price": 55.94564819,
+    "percent_change": 1.03363055
+  },
+  {
+    "title": "Kellanova Sets Date for 2024 First Quarter Results Webcast",
+    "published": 1711973100,
+    "posting_price": 55.48970283,
+    "close_price": 55.35388947,
+    "percent_change": -0.24475417
+  },
+  {
+    "title": "The backlash against lab-grown meat is growing in the U.S.",
+    "published": 1711952220,
+    "posting_price": 55.48970283,
+    "close_price": 55.35388947,
+    "percent_change": -0.24475417
   }
 ]

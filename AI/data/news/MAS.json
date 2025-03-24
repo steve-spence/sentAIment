@@ -1,34 +1,184 @@
 [
   {
     "title": "Behr Paint Company Reveals its 2025 Exterior Stain Colour of the Year, \u201cCedar,\u201d Alongside Annual Curb Appeal Collection",
-    "published": 1742385600
+    "published": 1742385600,
+    "posting_price": 70.65000153,
+    "close_price": 71.61000061,
+    "percent_change": 1.35880971
   },
   {
     "title": "Behr Paint Company Reveals its 2025 Exterior Stain Color of the Year, \"Cedar,\" Alongside Annual Curb Appeal Collection",
-    "published": 1742385600
+    "published": 1742385600,
+    "posting_price": 70.65000153,
+    "close_price": 71.61000061,
+    "percent_change": 1.35880971
   },
   {
     "title": "Strategic Business Plans Aid Armstrong World Amid High Costs",
-    "published": 1741957740
+    "published": 1741957740,
+    "posting_price": 70.15000153,
+    "close_price": 70.30999756,
+    "percent_change": 0.22807702
   },
   {
     "title": "Armstrong World Stock Up as Q4 Earnings & Net Sales Beat Estimates",
-    "published": 1740583380
+    "published": 1740583380,
+    "posting_price": 76.19999695,
+    "close_price": 76.02999878,
+    "percent_change": -0.22309472
   },
   {
     "title": "Owens Corning's Q4 Earnings & Sales Beat Estimates, Stock Down",
-    "published": 1740493980
+    "published": 1740493980,
+    "posting_price": 74.62000275,
+    "close_price": 76.08999634,
+    "percent_change": 1.96997258
   },
   {
     "title": "3 Industrials Stocks to Axe From Your List",
-    "published": 1739883879
+    "published": 1739883879,
+    "posting_price": 78.38015941,
+    "close_price": 76.9858551,
+    "percent_change": -1.77889956
   },
   {
     "title": "Here's Why Masco (MAS) is a Strong Value Stock",
-    "published": 1739371212
+    "published": 1739371212,
+    "posting_price": 75.32263657,
+    "close_price": 76.40821075,
+    "percent_change": 1.44123232
   },
   {
     "title": "Masco Q4 Earnings Beat, Sales Miss, Adjusted Operating Margin Up Y/Y",
-    "published": 1739294280
+    "published": 1739294280,
+    "posting_price": 77.72284647,
+    "close_price": 78.33036804,
+    "percent_change": 0.78165121
+  },
+  {
+    "title": "Maintaining Hold on Melco Resorts Amid Financial Restructuring and Market Share Uncertainty",
+    "published": 1713159360,
+    "posting_price": 73.28027345,
+    "close_price": 71.92176819,
+    "percent_change": -1.85384851
+  },
+  {
+    "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
+    "published": 1712929211,
+    "posting_price": 71.68550633,
+    "close_price": 72.40413666,
+    "percent_change": 1.00247647
+  },
+  {
+    "title": "Melco Resorts Announces Shareholder Meeting Date",
+    "published": 1712901540,
+    "posting_price": 71.68550633,
+    "close_price": 72.40413666,
+    "percent_change": 1.00247647
+  },
+  {
+    "title": "Masco Corp. stock outperforms competitors on strong trading day",
+    "published": 1712895660,
+    "posting_price": 71.68550633,
+    "close_price": 72.40413666,
+    "percent_change": 1.00247647
+  },
+  {
+    "title": "Has Knife River Corporation (KNF) Outpaced Other Construction Stocks This Year?",
+    "published": 1712670011,
+    "posting_price": 76.12525019,
+    "close_price": 75.5345993,
+    "percent_change": -0.77589353
+  },
+  {
+    "title": "Melco Resorts Finance Debuts $750M Senior Notes",
+    "published": 1712667480,
+    "posting_price": 76.12525019,
+    "close_price": 75.5345993,
+    "percent_change": -0.77589353
+  },
+  {
+    "title": "Melco Resorts Finance Proposes Senior Notes Offering",
+    "published": 1712573880,
+    "posting_price": 76.02680493,
+    "close_price": 75.91851807,
+    "percent_change": -0.14243248
+  },
+  {
+    "title": "Melco Resorts Releases Comprehensive 2023 Financial Report",
+    "published": 1712566680,
+    "posting_price": 76.02680493,
+    "close_price": 75.91851807,
+    "percent_change": -0.14243248
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Masco (MAS) and Trane Technologies (TT)",
+    "published": 1712553660,
+    "posting_price": 76.02680493,
+    "close_price": 75.91851807,
+    "percent_change": -0.14243248
+  },
+  {
+    "title": "Masco Corp. stock underperforms Monday when compared to competitors despite daily gains",
+    "published": 1712549940,
+    "posting_price": 76.02680493,
+    "close_price": 75.91851807,
+    "percent_change": -0.14243248
+  },
+  {
+    "title": "Melco Resorts Grants Shares to Incentivize Team",
+    "published": 1712307480,
+    "posting_price": 75.64287973,
+    "close_price": 75.70195007,
+    "percent_change": 0.07809108
+  },
+  {
+    "title": "Masco price target raised by $5 at Citi, here's why",
+    "published": 1712292420,
+    "posting_price": 75.64287973,
+    "close_price": 75.70195007,
+    "percent_change": 0.07809108
+  },
+  {
+    "title": "Analyst Favorites With Strong Buyback Activity: Masco Ranks As a Top Pick",
+    "published": 1712280540,
+    "posting_price": 75.64287973,
+    "close_price": 75.70195007,
+    "percent_change": 0.07809108
+  },
+  {
+    "title": "Masco (MAS) Surges 48% in Six Months: More Room to Run?",
+    "published": 1712155320,
+    "posting_price": 75.87913866,
+    "close_price": 76.68636322,
+    "percent_change": 1.06382937
+  },
+  {
+    "title": "Why Masco (MAS) is a Top Growth Stock for the Long-Term",
+    "published": 1712151910,
+    "posting_price": 75.87913866,
+    "close_price": 76.68636322,
+    "percent_change": 1.06382937
+  },
+  {
+    "title": "Watsco (WSO) Rewards Investors With a 10% Dividend Increase",
+    "published": 1712068020,
+    "posting_price": 75.70194826,
+    "close_price": 75.97758484,
+    "percent_change": 0.36410764
+  },
+  {
+    "title": "AECOM (ACM) Secures NASA Environmental Restoration Contract",
+    "published": 1712067900,
+    "posting_price": 75.70194826,
+    "close_price": 75.97758484,
+    "percent_change": 0.36410764
+  },
+  {
+    "title": "4 Factor Dividend Growth Portfolio - A Strong Finish To Quarter 1",
+    "published": 1712024751,
+    "posting_price": 75.70194826,
+    "close_price": 75.97758484,
+    "percent_change": 0.36410764
   }
 ]

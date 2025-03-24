@@ -1,38 +1,282 @@
 [
   {
+    "title": "Spec Homes Sitting on the Market Pose Potential Economic Drag",
+    "published": 1742814035,
+    "posting_price": 103.34999847,
+    "close_price": 104.76499939,
+    "percent_change": 1.36913492
+  },
+  {
     "title": "Musk Ally, DOGE Member Stanley Tapped For Fannie Mae Board Amid Shakeup",
-    "published": 1742307192
+    "published": 1742307192,
+    "posting_price": 103.66000366,
+    "close_price": 103.48999786,
+    "percent_change": -0.16400327
   },
   {
     "title": "FHFA Director To Head Fannie Mae, Freddie Mac Boards Amid Shake-Ups",
-    "published": 1742251680
+    "published": 1742251680,
+    "posting_price": 103.16107603,
+    "close_price": 103.66999817,
+    "percent_change": 0.49332768
   },
   {
     "title": "Fannie Mae and Freddie Mac Stocks Fall After Big Climb. Expect More Volatility.",
-    "published": 1742248800
+    "published": 1742248800,
+    "posting_price": 103.16107603,
+    "close_price": 103.66999817,
+    "percent_change": 0.49332768
   },
   {
     "title": "Pulte promises to make Fannie and Freddie 'great again' following confirmation",
-    "published": 1741960558
+    "published": 1741960558,
+    "posting_price": 102.10332556,
+    "close_price": 102.72201538,
+    "percent_change": 0.60594483
   },
   {
     "title": "Privatizing Fannie and Freddie not a top priority, says Trump\u2019s new FHFA director",
-    "published": 1741913985
+    "published": 1741913985,
+    "posting_price": 102.10332556,
+    "close_price": 102.72201538,
+    "percent_change": 0.60594483
   },
   {
     "title": "Pulte Confirmed to Lead FHFA Amid Questions Over Fannie\u2019s Future",
-    "published": 1741897155
+    "published": 1741897155,
+    "posting_price": 103.1111851,
+    "close_price": 100.87592316,
+    "percent_change": -2.16781714
   },
   {
     "title": "Robinhood initiated, MongoDB downgraded: Wall Street\u2019s top analyst calls",
-    "published": 1741358484
+    "published": 1741358484,
+    "posting_price": 108.46980839,
+    "close_price": 107.68148804,
+    "percent_change": -0.72676477
   },
   {
     "title": "How to Use the Zacks Rank to Find Long-Term Value Stocks",
-    "published": 1741126200
+    "published": 1741126200,
+    "posting_price": 101.09546145,
+    "close_price": 102.68209839,
+    "percent_change": 1.56944428
   },
   {
     "title": "How Del Webb Explore Expands PulteGroup's Market Opportunity",
-    "published": 1741108380
+    "published": 1741108380,
+    "posting_price": 101.09546145,
+    "close_price": 102.68209839,
+    "percent_change": 1.56944428
+  },
+  {
+    "title": "Why PulteGroup (PHM) Dipped More Than Broader Market Today",
+    "published": 1713217520,
+    "posting_price": 110.11653169,
+    "close_price": 108.01169586,
+    "percent_change": -1.91146216
+  },
+  {
+    "title": "Del Webb Announces Newest Indianapolis-Area Community",
+    "published": 1713185040,
+    "posting_price": 110.11653169,
+    "close_price": 108.01169586,
+    "percent_change": -1.91146216
+  },
+  {
+    "title": "PULTEGROUP NAMES BRIAN FOGARTY COLORADO DIVISION PRESIDENT",
+    "published": 1713169042,
+    "posting_price": 110.11653169,
+    "close_price": 108.01169586,
+    "percent_change": -1.91146216
+  },
+  {
+    "title": "Wells Fargo Remains a Buy on PulteGroup (PHM)",
+    "published": 1713158820,
+    "posting_price": 110.11653169,
+    "close_price": 108.01169586,
+    "percent_change": -1.91146216
+  },
+  {
+    "title": "Del Webb Announces Newest North Dallas Community",
+    "published": 1712848500,
+    "posting_price": 108.63718984,
+    "close_price": 109.78889465,
+    "percent_change": 1.06013862
+  },
+  {
+    "title": "Long-term mortgage rates near 7% mark",
+    "published": 1712834460,
+    "posting_price": 108.63718984,
+    "close_price": 109.78889465,
+    "percent_change": 1.06013862
+  },
+  {
+    "title": "May 31st Options Now Available For PulteGroup (PHM)",
+    "published": 1712829360,
+    "posting_price": 108.63718984,
+    "close_price": 109.78889465,
+    "percent_change": 1.06013862
+  },
+  {
+    "title": "Zacks.com featured highlights include Iron Mountain, MPLX, PulteGroup, Meta Platforms and W. R. Berkley",
+    "published": 1712750460,
+    "posting_price": 110.19595365,
+    "close_price": 108.61733246,
+    "percent_change": -1.43255822
+  },
+  {
+    "title": "Property stocks drop as hot inflation data weigh on rate-cut bets",
+    "published": 1712745420,
+    "posting_price": 110.19595365,
+    "close_price": 108.61733246,
+    "percent_change": -1.43255822
+  },
+  {
+    "title": "3 Stocks to Avoid Like the Plague if Interest Rates Keep Rising",
+    "published": 1712743620,
+    "posting_price": 110.19595365,
+    "close_price": 108.61733246,
+    "percent_change": -1.43255822
+  },
+  {
+    "title": "Stock market today: Asian shares are mixed, taking hot US inflation data in stride",
+    "published": 1712718300,
+    "posting_price": 110.19595365,
+    "close_price": 108.61733246,
+    "percent_change": -1.43255822
+  },
+  {
+    "title": "Stock market today: Wall Street falls after hot inflation report burns hopes for a June rate cut",
+    "published": 1712718300,
+    "posting_price": 110.19595365,
+    "close_price": 108.61733246,
+    "percent_change": -1.43255822
+  },
+  {
+    "title": "Pulte Homes Announces New Boston-Area Community",
+    "published": 1712691060,
+    "posting_price": 115.05096833,
+    "close_price": 114.56447601,
+    "percent_change": -0.42284939
+  },
+  {
+    "title": "5 High ROE Stocks to Buy as Solid Bond Yields Hit Markets",
+    "published": 1712663580,
+    "posting_price": 115.05096833,
+    "close_price": 114.56447601,
+    "percent_change": -0.42284939
+  },
+  {
+    "title": "3 Ways to Lock In Lower Mortgage Rates",
+    "published": 1712634780,
+    "posting_price": 115.05096833,
+    "close_price": 114.56447601,
+    "percent_change": -0.42284939
+  },
+  {
+    "title": "PulteGroup (PHM) Declines More Than Market: Some Information for Investors",
+    "published": 1712612720,
+    "posting_price": 115.73602802,
+    "close_price": 114.22690582,
+    "percent_change": -1.30393467
+  },
+  {
+    "title": "Brokers Suggest Investing in PulteGroup (PHM): Read This Before Placing a Bet",
+    "published": 1712583010,
+    "posting_price": 115.73602802,
+    "close_price": 114.22690582,
+    "percent_change": -1.30393467
+  },
+  {
+    "title": "PulteGroup, Inc. (PHM) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1712322016,
+    "posting_price": 113.28369809,
+    "close_price": 115.51760101,
+    "percent_change": 1.97195445
+  },
+  {
+    "title": "PULTEGROUP AGAIN NAMED TO THE FORTUNE 100 BEST COMPANIES TO WORK FOR LIST",
+    "published": 1712310277,
+    "posting_price": 113.28369809,
+    "close_price": 115.51760101,
+    "percent_change": 1.97195445
+  },
+  {
+    "title": "Top Funds Gorge On Nvidia, Meta And This Non-AI Sector",
+    "published": 1712293205,
+    "posting_price": 113.28369809,
+    "close_price": 115.51760101,
+    "percent_change": 1.97195445
+  },
+  {
+    "title": "PulteGroup price target raised by $11 at Citi, here's why",
+    "published": 1712292480,
+    "posting_price": 113.28369809,
+    "close_price": 115.51760101,
+    "percent_change": 1.97195445
+  },
+  {
+    "title": "3 Top Ways to Play 2024\u2019s Wild Real Estate Market",
+    "published": 1712289480,
+    "posting_price": 113.28369809,
+    "close_price": 115.51760101,
+    "percent_change": 1.97195445
+  },
+  {
+    "title": "PulteGroup Again Named to the Fortune 100 Best Companies to Work For\u00ae List",
+    "published": 1712241060,
+    "posting_price": 116.25230721,
+    "close_price": 113.02555847,
+    "percent_change": -2.77564275
+  },
+  {
+    "title": "Mortgage rates show little movement, rates not expected to decrease meaningfully",
+    "published": 1712229600,
+    "posting_price": 116.25230721,
+    "close_price": 113.02555847,
+    "percent_change": -2.77564275
+  },
+  {
+    "title": "PulteGroup price target raised by $10 at Barclays, here's why",
+    "published": 1712206140,
+    "posting_price": 116.25230721,
+    "close_price": 113.02555847,
+    "percent_change": -2.77564275
+  },
+  {
+    "title": "What Makes PulteGroup (PHM) a Strong Momentum Stock: Buy Now?",
+    "published": 1712160007,
+    "posting_price": 112.88656177,
+    "close_price": 114.79283142,
+    "percent_change": 1.6886595
+  },
+  {
+    "title": "Are Investors Undervaluing PulteGroup (PHM) Right Now?",
+    "published": 1712151614,
+    "posting_price": 112.88656177,
+    "close_price": 114.79283142,
+    "percent_change": 1.6886595
+  },
+  {
+    "title": "Lennar, DHI, LGIH, MTH, CCS downgraded as Wedbush gets bearish on homebuilders",
+    "published": 1712050860,
+    "posting_price": 115.00132375,
+    "close_price": 113.38298035,
+    "percent_change": -1.40723893
+  },
+  {
+    "title": "Bank of America Securities Sticks to Its Buy Rating for PulteGroup (PHM)",
+    "published": 1712047620,
+    "posting_price": 115.00132375,
+    "close_price": 113.38298035,
+    "percent_change": -1.40723893
+  },
+  {
+    "title": "PulteGroup (PHM) Suffers a Larger Drop Than the General Market: Key Insights",
+    "published": 1712007921,
+    "posting_price": 119.6279854,
+    "close_price": 117.58272552,
+    "percent_change": -1.70968346
   }
 ]

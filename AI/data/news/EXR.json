@@ -1,30 +1,255 @@
 [
   {
     "title": "Here\u2019s Why Extra Space Storage (EXR) Fell in Q4",
-    "published": 1742215260
+    "published": 1742215260,
+    "posting_price": 144.69000244,
+    "close_price": 146.63000488,
+    "percent_change": 1.34079923
   },
   {
     "title": "Extra Space Storage's Store Count Surpasses 4,000 Nationwide",
-    "published": 1741291200
+    "published": 1741291200,
+    "posting_price": 154.79490515,
+    "close_price": 153.3117218,
+    "percent_change": -0.95816031
   },
   {
     "title": "Extra Space Storage Q4 FFO Beats Estimates, Occupancy Grows Y/Y",
-    "published": 1740585180
+    "published": 1740585180,
+    "posting_price": 159.05658939,
+    "close_price": 152.18450928,
+    "percent_change": -4.32052525
   },
   {
     "title": "Extra Space Storage: Q4 Earnings Snapshot",
-    "published": 1740519207
+    "published": 1740519207,
+    "posting_price": 158.45342666,
+    "close_price": 159.47187805,
+    "percent_change": 0.64274494
   },
   {
     "title": "Public Storage (PSA) Q4 FFO Miss Estimates",
-    "published": 1740435306
+    "published": 1740435306,
+    "posting_price": 153.99398211,
+    "close_price": 157.25697327,
+    "percent_change": 2.11890823
   },
   {
     "title": "Extra Space Storage to Post Q4 Earnings: What's in the Cards?",
-    "published": 1740072240
+    "published": 1740072240,
+    "posting_price": 151.78897709,
+    "close_price": 154.19174194,
+    "percent_change": 1.58296399
   },
   {
     "title": "Is Simon Property Group, Inc. (SPG) the Best REIT Stock to Buy Now?",
-    "published": 1738076008
+    "published": 1738076008,
+    "posting_price": 153.16339043,
+    "close_price": 153.36116028,
+    "percent_change": 0.12912345
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 134.85778654,
+    "close_price": 132.19902039,
+    "percent_change": -1.97153329
+  },
+  {
+    "title": "Extra Space Storage files for automatic mixed securities shelf",
+    "published": 1713152820,
+    "posting_price": 134.85778654,
+    "close_price": 132.19902039,
+    "percent_change": -1.97153329
+  },
+  {
+    "title": "Extra Space Storage files automatic mixed securities shelf",
+    "published": 1713152160,
+    "posting_price": 134.85778654,
+    "close_price": 132.19902039,
+    "percent_change": -1.97153329
+  },
+  {
+    "title": "GET READY: Ashmore, Mitie and PageGroup at 0700 BST",
+    "published": 1713144660,
+    "posting_price": 134.85778654,
+    "close_price": 132.19902039,
+    "percent_change": -1.97153329
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Here It Is! My 20-Stock 6-Figure Market-Beating Dividend Portfolio",
+    "published": 1712905200,
+    "posting_price": 136.57588397,
+    "close_price": 135.04014587,
+    "percent_change": -1.12445774
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 137.68930127,
+    "close_price": 137.44934082,
+    "percent_change": -0.17427676
+  },
+  {
+    "title": "UK earnings, trading statements calendar - next 21 days",
+    "published": 1712829960,
+    "posting_price": 137.68930127,
+    "close_price": 137.44934082,
+    "percent_change": -0.17427676
+  },
+  {
+    "title": "UK earnings, trading statements calendar - next 7 days",
+    "published": 1712829840,
+    "posting_price": 137.68930127,
+    "close_price": 137.44934082,
+    "percent_change": -0.17427676
+  },
+  {
+    "title": "Stocks Sink On Worrisome Inflation Data, Yields Spike On Rate Cut Delays, Dollar Rallies: What's Driving Markets Wednesday?",
+    "published": 1712751480,
+    "posting_price": 142.15258612,
+    "close_price": 136.77746582,
+    "percent_change": -3.78123286
+  },
+  {
+    "title": "If You Can Only Buy One REIT Stock in April, It Better Be One of These 3 Names",
+    "published": 1712668620,
+    "posting_price": 143.97627283,
+    "close_price": 146.27029419,
+    "percent_change": 1.59333293
+  },
+  {
+    "title": "Extra Space Storage Inc (EXR)'s Winning Formula: Financial Metrics and Competitive Strengths",
+    "published": 1712656920,
+    "posting_price": 143.97627283,
+    "close_price": 146.27029419,
+    "percent_change": 1.59333293
+  },
+  {
+    "title": "Extra Space Storage Inc. stock outperforms competitors on strong trading day",
+    "published": 1712635440,
+    "posting_price": 143.97627283,
+    "close_price": 146.27029419,
+    "percent_change": 1.59333293
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Extra Space Storage : UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL STATEMENTS - Form 8-K",
+    "published": 1712334263,
+    "posting_price": 138.72593623,
+    "close_price": 140.44406128,
+    "percent_change": 1.23850312
+  },
+  {
+    "title": "Wells Fargo Keeps Their Buy Rating on Extra Space Storage (EXR)",
+    "published": 1712293620,
+    "posting_price": 138.72593623,
+    "close_price": 140.44406128,
+    "percent_change": 1.23850312
+  },
+  {
+    "title": "Extra Space Storage price target raised by $10 at Wells Fargo, here's why",
+    "published": 1712293080,
+    "posting_price": 138.72593623,
+    "close_price": 140.44406128,
+    "percent_change": 1.23850312
+  },
+  {
+    "title": "Extra Space Storage files to sell 189,076 shares for holders",
+    "published": 1712291340,
+    "posting_price": 138.72593623,
+    "close_price": 140.44406128,
+    "percent_change": 1.23850312
+  },
+  {
+    "title": "Extra Space Storage files to sell 189,076 shares of common stock for holders",
+    "published": 1712289780,
+    "posting_price": 138.72593623,
+    "close_price": 140.44406128,
+    "percent_change": 1.23850312
+  },
+  {
+    "title": "16 Biggest Self Storage Companies in the US",
+    "published": 1712234863,
+    "posting_price": 140.13691627,
+    "close_price": 138.71635437,
+    "percent_change": -1.0136957
+  },
+  {
+    "title": "What Makes Extra Space Storage (EXR) a Good Long-Term Investment?",
+    "published": 1712222254,
+    "posting_price": 140.13691627,
+    "close_price": 138.71635437,
+    "percent_change": -1.0136957
+  },
+  {
+    "title": "Buy Alert: 2 REITs For April 2024",
+    "published": 1712215800,
+    "posting_price": 140.13691627,
+    "close_price": 138.71635437,
+    "percent_change": -1.0136957
+  },
+  {
+    "title": "Elixir Energy Reports Promising Gas Flow Rates",
+    "published": 1712212680,
+    "posting_price": 140.13691627,
+    "close_price": 138.71635437,
+    "percent_change": -1.0136957
+  },
+  {
+    "title": "Elixir Energy Awaits Key Development Update",
+    "published": 1712198340,
+    "posting_price": 140.13691627,
+    "close_price": 138.71635437,
+    "percent_change": -1.0136957
+  },
+  {
+    "title": "Real estate leads S&P 500 as 10 of 11 sectors advance",
+    "published": 1712189870,
+    "posting_price": 140.13691627,
+    "close_price": 138.71635437,
+    "percent_change": -1.0136957
+  },
+  {
+    "title": "These 3 REITs Have Delivered Better Returns Than the S&P 500 Over the Last Decade",
+    "published": 1712147400,
+    "posting_price": 139.580178,
+    "close_price": 139.2346344,
+    "percent_change": -0.24755922
+  },
+  {
+    "title": "Extra Space Storage: Oversupply And Reduced Demand Are Taking A Toll",
+    "published": 1712067436,
+    "posting_price": 139.40743943,
+    "close_price": 139.6473999,
+    "percent_change": 0.17212888
+  },
+  {
+    "title": "Here\u2019s Why Extra Space Storage (EXR) Rose in Q4",
+    "published": 1712051030,
+    "posting_price": 139.40743943,
+    "close_price": 139.6473999,
+    "percent_change": 0.17212888
+  },
+  {
+    "title": "Buying All-Time Highs The Right Way",
+    "published": 1712041200,
+    "posting_price": 139.40743943,
+    "close_price": 139.6473999,
+    "percent_change": 0.17212888
+  },
+  {
+    "title": "10 Dividend Growth Stocks: March 2024",
+    "published": 1711943087,
+    "posting_price": 141.10634524,
+    "close_price": 140.84719849,
+    "percent_change": -0.18365351
   }
 ]

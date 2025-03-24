@@ -1,30 +1,251 @@
 [
   {
     "title": "Trump EPA Moves Warm Coal Stocks, Tap Brakes For These S&P 500 Firms",
-    "published": 1742317675
+    "published": 1742317675,
+    "posting_price": 100.69000244,
+    "close_price": 100.20999908,
+    "percent_change": -0.47671402
   },
   {
     "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 to Brush Off",
-    "published": 1741957279
+    "published": 1741957279,
+    "posting_price": 99.38999939,
+    "close_price": 99.20999908,
+    "percent_change": -0.18110505
   },
   {
     "title": "PACCAR Trading at a Discounted P/S: Should You Buy the Stock Now?",
-    "published": 1739452380
+    "published": 1739452380,
+    "posting_price": 102.87000275,
+    "close_price": 105.26000214,
+    "percent_change": 2.32332004
   },
   {
     "title": "Shift in EV policy won\u2019t halt Paccar battery plant venture: CEO",
-    "published": 1739445660
+    "published": 1739445660,
+    "posting_price": 102.87000275,
+    "close_price": 105.26000214,
+    "percent_change": 2.32332004
   },
   {
     "title": "Asbury Q4 Earnings & Sales Outperform Expectations, Rise Y/Y",
-    "published": 1738315560
+    "published": 1738315560,
+    "posting_price": 111.82108347,
+    "close_price": 110.53509521,
+    "percent_change": -1.15004096
   },
   {
     "title": "Company News for Jan 29, 2025",
-    "published": 1738161180
+    "published": 1738161180,
+    "posting_price": 109.64786484,
+    "close_price": 110.54506683,
+    "percent_change": 0.8182576
   },
   {
     "title": "PACCAR Q4 Earnings Top, Parts Unit Posts Better-Than-Expected Profits",
-    "published": 1738083000
+    "published": 1738083000,
+    "posting_price": 105.82978366,
+    "close_price": 106.91638947,
+    "percent_change": 1.02674859
+  },
+  {
+    "title": "Paccar (PCAR) Stock Moves -0.12%: What You Should Know",
+    "published": 1713217819,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "PCAR or TSLA: Which Is the Better Value Stock Right Now?",
+    "published": 1713195612,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "Jim Cramer is Recommending These 10 Stocks in April",
+    "published": 1713192174,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "Beyond The Numbers: 10 Analysts Discuss PACCAR Stock",
+    "published": 1713164580,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "Caterpillar: Market Leading Compounder With Limited Valuation Upside",
+    "published": 1713163008,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "Paccar price target raised by $5 at JPMorgan, here's why",
+    "published": 1713158400,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "Paccar price target raised by $22 at Morgan Stanley, here's why",
+    "published": 1713145500,
+    "posting_price": 115.77427642,
+    "close_price": 113.3915329,
+    "percent_change": -2.05809407
+  },
+  {
+    "title": "Are Auto-Tires-Trucks Stocks Lagging  General Motors (GM) This Year?",
+    "published": 1712929210,
+    "posting_price": 113.37231806,
+    "close_price": 113.52604675,
+    "percent_change": 0.13559632
+  },
+  {
+    "title": "PACCAR Inc. (PCAR) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712926811,
+    "posting_price": 113.37231806,
+    "close_price": 113.52604675,
+    "percent_change": 0.13559632
+  },
+  {
+    "title": "If You Invested $1000 In This Stock 5 Years Ago, You Would Have $2,500 Today",
+    "published": 1712921640,
+    "posting_price": 113.37231806,
+    "close_price": 113.52604675,
+    "percent_change": 0.13559632
+  },
+  {
+    "title": "Stocks with the highest swings in option premium price over 3 months - JPM",
+    "published": 1712915280,
+    "posting_price": 113.37231806,
+    "close_price": 113.52604675,
+    "percent_change": 0.13559632
+  },
+  {
+    "title": "QQQ ETF Update, 4/11/2024",
+    "published": 1712816580,
+    "posting_price": 113.53565695,
+    "close_price": 114.21781158,
+    "percent_change": 0.60082854
+  },
+  {
+    "title": "Paccar price target raised by $25 at Wolfe Research, here's why",
+    "published": 1712813400,
+    "posting_price": 113.53565695,
+    "close_price": 114.21781158,
+    "percent_change": 0.60082854
+  },
+  {
+    "title": "Morningstar DBRS Confirms PACCAR at AA (low); Trend Remains Stable",
+    "published": 1712810839,
+    "posting_price": 113.53565695,
+    "close_price": 114.21781158,
+    "percent_change": 0.60082854
+  },
+  {
+    "title": "Platform Science secures $125M to grow OEM partnerships",
+    "published": 1712667600,
+    "posting_price": 117.83034858,
+    "close_price": 114.50604248,
+    "percent_change": -2.82126476
+  },
+  {
+    "title": "QQQ ETF Update, 4/9/2024",
+    "published": 1712639520,
+    "posting_price": 117.83034858,
+    "close_price": 114.50604248,
+    "percent_change": -2.82126476
+  },
+  {
+    "title": "Paccar (PCAR) Gains As Market Dips: What You Should Know",
+    "published": 1712613018,
+    "posting_price": 117.31152007,
+    "close_price": 117.70544434,
+    "percent_change": 0.33579334
+  },
+  {
+    "title": "3 Soaring, Highly-Ranked Value Stocks To Buy In April",
+    "published": 1712374680
+  },
+  {
+    "title": "QQQ ETF Update, 4/5/2024",
+    "published": 1712321220,
+    "posting_price": 116.26427752,
+    "close_price": 117.41721344,
+    "percent_change": 0.99165104
+  },
+  {
+    "title": "10 Industrials Stocks With Whale Alerts In Today's Session",
+    "published": 1712320680,
+    "posting_price": 116.26427752,
+    "close_price": 117.41721344,
+    "percent_change": 0.99165104
+  },
+  {
+    "title": "(PCAR) - Analyzing PACCAR's Short Interest",
+    "published": 1712312520,
+    "posting_price": 116.26427752,
+    "close_price": 117.41721344,
+    "percent_change": 0.99165104
+  },
+  {
+    "title": "Paccar Inc. stock rises Thursday, outperforms market",
+    "published": 1712202960,
+    "posting_price": 116.91761168,
+    "close_price": 115.80310059,
+    "percent_change": -0.95324483
+  },
+  {
+    "title": "Paccar: Notable Insider Selling After A Big Rally",
+    "published": 1712144271,
+    "posting_price": 114.81349257,
+    "close_price": 115.69741058,
+    "percent_change": 0.76987294
+  },
+  {
+    "title": "Class 8 truck orders tumble in March",
+    "published": 1712125680,
+    "posting_price": 114.81349257,
+    "close_price": 115.69741058,
+    "percent_change": 0.76987294
+  },
+  {
+    "title": "QQQ ETF Update, 4/3/2024",
+    "published": 1712123160,
+    "posting_price": 114.81349257,
+    "close_price": 115.69741058,
+    "percent_change": 0.76987294
+  },
+  {
+    "title": "March preliminary North America Class 8 truck orders down 8.7% YoY, ACT says",
+    "published": 1712108640,
+    "posting_price": 114.81349257,
+    "close_price": 115.69741058,
+    "percent_change": 0.76987294
+  },
+  {
+    "title": "Here's Why Paccar (PCAR) Fell More Than Broader Market",
+    "published": 1712009720,
+    "posting_price": 119.20427611,
+    "close_price": 118.27231598,
+    "percent_change": -0.7818177
+  },
+  {
+    "title": "Should Value Investors Buy PACCAR (PCAR) Stock?",
+    "published": 1711978816,
+    "posting_price": 119.20427611,
+    "close_price": 118.27231598,
+    "percent_change": -0.7818177
+  },
+  {
+    "title": "QQQ ETF Update, 4/1/2024",
+    "published": 1711953660,
+    "posting_price": 119.20427611,
+    "close_price": 118.27231598,
+    "percent_change": -0.7818177
   }
 ]

@@ -1,50 +1,153 @@
 [
   {
     "title": "EONGY or PNW: Which Is the Better Value Stock Right Now?",
-    "published": 1741707607
+    "published": 1741707607,
+    "posting_price": 91.80000305,
+    "close_price": 90.97000122,
+    "percent_change": -0.9041414
   },
   {
     "title": "Returns On Capital At Pinnacle West Capital (NYSE:PNW) Have Stalled",
-    "published": 1740567024
+    "published": 1740567024,
+    "posting_price": 92.44000244,
+    "close_price": 91.63999939,
+    "percent_change": -0.8654295
   },
   {
     "title": "Pinnacle West Q4 Loss Narrower Than Expected, Revenues Beat",
-    "published": 1740508920
+    "published": 1740508920,
+    "posting_price": 93.25,
+    "close_price": 93.16000366,
+    "percent_change": -0.09651082
   },
   {
     "title": "Consumer Sentiment Hits 15-Month Low: 5 Low-Beta Defensive Picks",
-    "published": 1740500700
+    "published": 1740500700,
+    "posting_price": 93.25,
+    "close_price": 93.16000366,
+    "percent_change": -0.09651082
   },
   {
     "title": "Pinnacle West: Q4 Earnings Snapshot",
-    "published": 1740490915
+    "published": 1740490915,
+    "posting_price": 93.25,
+    "close_price": 93.16000366,
+    "percent_change": -0.09651082
   },
   {
     "title": "Pinnacle West Capital to Post Q4 Earnings: Here's What to Expect",
-    "published": 1740061320
+    "published": 1740061320,
+    "posting_price": 90.06999969,
+    "close_price": 90.76999664,
+    "percent_change": 0.77716993
   },
   {
     "title": "Brookfield Renewable Partners Q4 Earnings Top Estimates, Stock Up 3.5%",
-    "published": 1738937460
+    "published": 1738937460,
+    "posting_price": 87.73999786,
+    "close_price": 86.97000122,
+    "percent_change": -0.87758908
   },
   {
     "title": "WEC Energy Q4 Earnings Miss Estimates, Revenues Rise Y/Y",
-    "published": 1738845000
+    "published": 1738845000,
+    "posting_price": 88.48000336,
+    "close_price": 87.75,
+    "percent_change": -0.82504897
   },
   {
     "title": "Investors in Pinnacle West Capital (NYSE:PNW) have seen respectable returns of 32% over the past year",
-    "published": 1738611542
+    "published": 1738611542,
+    "posting_price": 85.5,
+    "close_price": 86.81999969,
+    "percent_change": 1.54385929
   },
   {
     "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1738075210
+    "published": 1738075210,
+    "posting_price": 86.29263066,
+    "close_price": 85.59983063,
+    "percent_change": -0.80284959
   },
   {
     "title": "Here's Why Pinnacle West (PNW) is a Strong Momentum Stock",
-    "published": 1737989412
+    "published": 1737989412,
+    "posting_price": 85.54045456,
+    "close_price": 86.57965088,
+    "percent_change": 1.21485948
   },
   {
     "title": "PNW vs. CTRI: Which Stock Is the Better Value Option?",
-    "published": 1736786412
+    "published": 1736786412,
+    "posting_price": 81.29460605,
+    "close_price": 81.69049072,
+    "percent_change": 0.48697532
+  },
+  {
+    "title": "With 89% ownership, Pinnacle West Capital Corporation (NYSE:PNW) boasts of strong institutional backing",
+    "published": 1713204860,
+    "posting_price": 69.49790039,
+    "close_price": 69.07640839,
+    "percent_change": -0.60648163
+  },
+  {
+    "title": "Pinnacle West price target raised by $1 at Barclays, here's why",
+    "published": 1713157020,
+    "posting_price": 69.49790039,
+    "close_price": 69.07640839,
+    "percent_change": -0.60648163
+  },
+  {
+    "title": "Barclays Keeps Their Buy Rating on Pinnacle West Capital (PNW)",
+    "published": 1713082560
+  },
+  {
+    "title": "Wells Fargo Sticks to Their Hold Rating for Pinnacle West Capital (PNW)",
+    "published": 1712894820,
+    "posting_price": 69.4021,
+    "close_price": 69.20093536,
+    "percent_change": -0.28985382
+  },
+  {
+    "title": "Friday Sector Leaders: Utilities, Financial",
+    "published": 1712887320,
+    "posting_price": 69.4021,
+    "close_price": 69.20093536,
+    "percent_change": -0.28985382
+  },
+  {
+    "title": "PNW vs. NEE: Which Stock Is the Better Value Option?",
+    "published": 1712850010,
+    "posting_price": 69.61284281,
+    "close_price": 69.17219543,
+    "percent_change": -0.63299725
+  },
+  {
+    "title": "Cheat Sheet: Those Other AI Beneficiaries",
+    "published": 1712836980,
+    "posting_price": 69.61284281,
+    "close_price": 69.17219543,
+    "percent_change": -0.63299725
+  },
+  {
+    "title": "Electrical Utilities: AI Power Play",
+    "published": 1712833620,
+    "posting_price": 69.61284281,
+    "close_price": 69.17219543,
+    "percent_change": -0.63299725
+  },
+  {
+    "title": "Pinnacle West Capital Corp\u2019s April 2024 Investor Engagement Series",
+    "published": 1712546700,
+    "posting_price": 69.80443584,
+    "close_price": 70.96353149,
+    "percent_change": 1.66048996
+  },
+  {
+    "title": "Pinnacle West Sets Date for 2024 First-Quarter Financial Results, Webcast/Conference Call",
+    "published": 1712089800,
+    "posting_price": 70.9539458,
+    "close_price": 70.92520905,
+    "percent_change": -0.04050057
   }
 ]

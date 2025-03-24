@@ -1,34 +1,281 @@
 [
   {
+    "title": "What the Fed's forecasts could mean for REITs",
+    "published": 1742652012
+  },
+  {
     "title": "Here's Why You Should Retain Camden Property in Your Portfolio Now",
-    "published": 1741710660
+    "published": 1741710660,
+    "posting_price": 122.20999908,
+    "close_price": 120.48000336,
+    "percent_change": -1.41559261
   },
   {
     "title": "Jefferies lifts rating on Sunbelt REITs stocks on stronger growth",
-    "published": 1741623912
+    "published": 1741623912,
+    "posting_price": 122.79000092,
+    "close_price": 122.02999878,
+    "percent_change": -0.61894465
   },
   {
     "title": "Camden looks to become more aggressive in 2025",
-    "published": 1740667920
+    "published": 1740667920,
+    "posting_price": 120.80999756,
+    "close_price": 123.23000336,
+    "percent_change": 2.00315028
   },
   {
     "title": "Camden Property Trust (CPT) Q4 2024 Earnings Call Transcript",
-    "published": 1738969216
+    "published": 1738969216,
+    "posting_price": 117.69999695,
+    "close_price": 119.16000366,
+    "percent_change": 1.24044753
   },
   {
     "title": "Camden's Q4 FFO Beats Estimates, Same-Property NOI Rises",
-    "published": 1738935480
+    "published": 1738935480,
+    "posting_price": 117.69999695,
+    "close_price": 119.16000366,
+    "percent_change": 1.24044753
   },
   {
     "title": "What's in the Cards for Camden Property Stock This Earnings Season?",
-    "published": 1738681800
+    "published": 1738681800,
+    "posting_price": 112.76000214,
+    "close_price": 114.26000214,
+    "percent_change": 1.33025893
   },
   {
     "title": "Meta in Talks to Reincorporate in Texas or Another State, Exit Delaware",
-    "published": 1738361880
+    "published": 1738361880,
+    "posting_price": 113.18000031,
+    "close_price": 113.70999908,
+    "percent_change": 0.46827953
   },
   {
     "title": "Should You Retain Camden Property Stock in Your Portfolio Now?",
-    "published": 1738336140
+    "published": 1738336140,
+    "posting_price": 113.18000031,
+    "close_price": 113.70999908,
+    "percent_change": 0.46827953
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 95.94213684,
+    "close_price": 94.09185791,
+    "percent_change": -1.92853629
+  },
+  {
+    "title": "2 A-Rated Sun Belt REITs So You Can Sleep Well At Night",
+    "published": 1713164400,
+    "posting_price": 95.94213684,
+    "close_price": 94.09185791,
+    "percent_change": -1.92853629
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 14",
+    "published": 1712998575
+  },
+  {
+    "title": "My Biggest Losses And Lessons",
+    "published": 1712993400
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 99.00971827,
+    "close_price": 97.32498932,
+    "percent_change": -1.70157938
+  },
+  {
+    "title": "Analyst Drops Price Targets On 8 Residential REITs In One Day",
+    "published": 1712831820,
+    "posting_price": 99.00971827,
+    "close_price": 97.32498932,
+    "percent_change": -1.70157938
+  },
+  {
+    "title": "3 Strong Buys For The Millionaire Next Door",
+    "published": 1712818800,
+    "posting_price": 99.00971827,
+    "close_price": 97.32498932,
+    "percent_change": -1.70157938
+  },
+  {
+    "title": "RBC Capital Keeps Their Buy Rating on Camden Property (CPT)",
+    "published": 1712739000,
+    "posting_price": 98.78573646,
+    "close_price": 98.16248322,
+    "percent_change": -0.6309142
+  },
+  {
+    "title": "10 Top REITs To Buy In 2024",
+    "published": 1712734200,
+    "posting_price": 98.78573646,
+    "close_price": 98.16248322,
+    "percent_change": -0.6309142
+  },
+  {
+    "title": "Blackstone's Big Move Sparks REIT Rally: Mid-America Or Camden Properties, Who Wins?",
+    "published": 1712732400,
+    "posting_price": 98.78573646,
+    "close_price": 98.16248322,
+    "percent_change": -0.6309142
+  },
+  {
+    "title": "CPT Dividend Yield Pushes Past 4%",
+    "published": 1712716080,
+    "posting_price": 98.78573646,
+    "close_price": 98.16248322,
+    "percent_change": -0.6309142
+  },
+  {
+    "title": "Camden Property, Mid-America best readthroughs from AIR Communities deal - analyst",
+    "published": 1712665800,
+    "posting_price": 100.09066548,
+    "close_price": 100.86973572,
+    "percent_change": 0.77836453
+  },
+  {
+    "title": "Heard on the Street: Blackstone Bets on Wealthy Renters",
+    "published": 1712660130,
+    "posting_price": 100.09066548,
+    "close_price": 100.86973572,
+    "percent_change": 0.77836453
+  },
+  {
+    "title": "Camden Property price target raised by $1 at Truist, here's why",
+    "published": 1712644320,
+    "posting_price": 100.09066548,
+    "close_price": 100.86973572,
+    "percent_change": 0.77836453
+  },
+  {
+    "title": "Critical Insights From Camden Prop Trust Analyst Ratings: What You Need To Know",
+    "published": 1712628360,
+    "posting_price": 100.09066548,
+    "close_price": 100.86973572,
+    "percent_change": 0.77836453
+  },
+  {
+    "title": "Tesla, Two Huge Spinoffs Among Big S&P 500 Stock Movers Monday",
+    "published": 1712607552,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "AIR Communities REIT Climbs on Blackstone Deal News; Other REITs Rise",
+    "published": 1712584800,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "AIR Communities REIT on Blackstone Deal News; Other REITs Rise",
+    "published": 1712584800,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "Camden Property Trust, Sachem Capital among real estate movers",
+    "published": 1712574300,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "Bullish Two Hundred Day Moving Average Cross - CPT",
+    "published": 1712572860,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "Apartment Income downgraded to Market Perform from Outperform at BMO Capital",
+    "published": 1712571240,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "Monday Sector Leaders: Financial, Utilities",
+    "published": 1712544180,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "Apartment Income Stock Is Soaring on the Blackstone Buyout",
+    "published": 1712537940,
+    "posting_price": 95.54286971,
+    "close_price": 99.45767975,
+    "percent_change": 4.0974382
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Showcasing Seeking Alpha's March 2024 New Analysts",
+    "published": 1712316600,
+    "posting_price": 92.94273332,
+    "close_price": 94.09185791,
+    "percent_change": 1.23637916
+  },
+  {
+    "title": "Buy Rating Affirmed for Collplant Holdings on Strong Financials and Promising Product Pipeline Advancements",
+    "published": 1712294760,
+    "posting_price": 92.94273332,
+    "close_price": 94.09185791,
+    "percent_change": 1.23637916
+  },
+  {
+    "title": "Camden Property Trust Named One of Fortune\u2019s 100 Best Companies to Work For\u00ae",
+    "published": 1712262600,
+    "posting_price": 94.39374251,
+    "close_price": 93.36148071,
+    "percent_change": -1.09357016
+  },
+  {
+    "title": "Camden Property Trust Announces First Quarter 2024 Earnings Release and Conference Call Dates",
+    "published": 1712261700,
+    "posting_price": 94.39374251,
+    "close_price": 93.36148071,
+    "percent_change": -1.09357016
+  },
+  {
+    "title": "CollPlant Biotechnologies\u2019 Strong Financial and R&D Progress",
+    "published": 1712213880,
+    "posting_price": 94.39374251,
+    "close_price": 93.36148071,
+    "percent_change": -1.09357016
+  },
+  {
+    "title": "Better Buy For Retiring With Dividends In April 2024: BDCs Or REITs",
+    "published": 1712128500,
+    "posting_price": 92.82587107,
+    "close_price": 93.37121582,
+    "percent_change": 0.5874922
+  },
+  {
+    "title": "Unlocking Wealth: Millennials' New Path to Prosperity with Real Estate",
+    "published": 1712071524,
+    "posting_price": 93.2933163,
+    "close_price": 93.14723969,
+    "percent_change": -0.15657779
+  },
+  {
+    "title": "4 Top Dividend Stocks Yielding 4% to Buy in April",
+    "published": 1711970100,
+    "posting_price": 95.83502241,
+    "close_price": 93.8970871,
+    "percent_change": -2.02215773
   }
 ]

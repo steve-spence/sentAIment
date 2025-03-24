@@ -1,34 +1,1545 @@
 [
   {
+    "title": "Intel has a shot at being 'viable' with new CEO at the wheel: Analyst",
+    "published": 1742826919,
+    "posting_price": 109.74500275,
+    "close_price": 114.23500061,
+    "percent_change": 4.09130051
+  },
+  {
+    "title": "Nvidia, AMD, Meta lead tech stock rally as tariff news, AI breakthroughs boost sector",
+    "published": 1742823987,
+    "posting_price": 109.74500275,
+    "close_price": 114.23500061,
+    "percent_change": 4.09130051
+  },
+  {
+    "title": "Meta's $800 Million Play for AI Chipmaker FuriosaAI Falls Through",
+    "published": 1742821471,
+    "posting_price": 109.74500275,
+    "close_price": 114.23500061,
+    "percent_change": 4.09130051
+  },
+  {
+    "title": "Why Nvidia stock is still a must own",
+    "published": 1742817600,
+    "posting_price": 109.74500275,
+    "close_price": 114.23500061,
+    "percent_change": 4.09130051
+  },
+  {
+    "title": "AI Chips Update - Revolutionizing Next-Gen Infrastructure With Medusa Array Innovation",
+    "published": 1742814440,
+    "posting_price": 109.74500275,
+    "close_price": 114.23500061,
+    "percent_change": 4.09130051
+  },
+  {
+    "title": "Winners And Losers Of Q4: Western Digital (NASDAQ:WDC) Vs The Rest Of The Semiconductors Stocks",
+    "published": 1742807088,
+    "posting_price": 109.74500275,
+    "close_price": 114.23500061,
+    "percent_change": 4.09130051
+  },
+  {
+    "title": "Prediction: These 2 AI Stocks Will Be Worth More Than Palantir Technologies by Early 2026",
+    "published": 1742630100
+  },
+  {
     "title": "This Week In AI Chips - NVIDIA Collaboration Redefines Distributed AI Computing Landscape",
-    "published": 1742555247
+    "published": 1742555247,
+    "posting_price": 105.33000183,
+    "close_price": 106.44000244,
+    "percent_change": 1.05383138
   },
   {
     "title": "New CEO Plans Intel\u2019s (INTC) Comeback Trail",
-    "published": 1742483708
+    "published": 1742483708,
+    "posting_price": 105.12000275,
+    "close_price": 107.13999939,
+    "percent_change": 1.92161015
   },
   {
     "title": "Here\u2019s Why Advanced Micro Devices (AMD) Fell in Q4",
-    "published": 1742480689
+    "published": 1742480689,
+    "posting_price": 105.12000275,
+    "close_price": 107.13999939,
+    "percent_change": 1.92161015
   },
   {
-    "title": "4 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run",
-    "published": 1742468400
+    "title": "Advanced Micro Devices (AMD) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "published": 1713217519,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
   },
   {
-    "title": "Citi lists key takeaways for chip sector from Nvidia's AI day",
-    "published": 1742467437
+    "title": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+    "published": 1713184680,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
   },
   {
-    "title": "Latest News In AI Chips - Revolutionizing AI Factory Power with Digital Twin Technology",
-    "published": 1742382462
+    "title": "China's Purported Chip Agenda: Trouble Brewing for INTC & AMD?",
+    "published": 1713183240,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
   },
   {
-    "title": "Spotting Winners: Lattice Semiconductor (NASDAQ:LSCC) And Processors and Graphics Chips Stocks In Q4",
-    "published": 1742375208
+    "title": "Like Nvidia Stock but Prefer ETFs? This Is the Best Semiconductor ETF to Invest In Artificial Intelligence (AI) and Other Megatrends.",
+    "published": 1713182400,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
   },
   {
-    "title": "Has AMD's \"Nvidia Moment\" Finally Arrived?",
-    "published": 1742292300
+    "title": "Arrow Minerals Schedules AGM, Eyes Growth",
+    "published": 1713181680,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "4D Molecular Therapeutics new overweight at Barclays on genetic medicine platform",
+    "published": 1713180420,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "AMD: Making A CUDA Killer",
+    "published": 1713175753,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Advanced Micro Devices's Options Frenzy: What You Need to Know",
+    "published": 1713171060,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "3 Top Artificial Intelligence (AI) ETFs That Are Hiding in Plain Sight",
+    "published": 1713170580,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "AI Tiers And Taking Profits In Tech With Joe Albano, Tech Cache",
+    "published": 1713169800,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Insider Scoop: Why AMD Stock\u2019s Explosive Growth Is Just Getting Started",
+    "published": 1713168660,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Notable open interest changes for April 15th",
+    "published": 1713167760,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Semiconductors likely to offer up 'muted' earnings season: Citi (update)",
+    "published": 1713163260,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Semiconductors likely to offer up 'muted' earnings season: Citi",
+    "published": 1713162540,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Advanced Micro Devices (AMD) and Paysafe (PSFE)",
+    "published": 1713159660,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Escalating Conflict In The Middle East Is Forcing Investors To Shift Funds To Safe Assets",
+    "published": 1713159000,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "3 Hot Stocks That Will Thrive Through 2025 (and Beyond?)",
+    "published": 1713158880,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "HSBC gets more bullish on AMD, upgrades shares",
+    "published": 1713155340,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "AMD initiated with bullish view at Evercore ISI, here's why",
+    "published": 1713151920,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Portfolio Review: The Cat, The Tortoise And Me",
+    "published": 1713149664,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "7 Strong Chip Stocks to Buy Not Named Nvidia",
+    "published": 1713143280,
+    "posting_price": 164.42999268,
+    "close_price": 160.32000732,
+    "percent_change": -2.49953509
+  },
+  {
+    "title": "Why Nvidia's stock sell-off matters and what people are saying about it",
+    "published": 1713097844
+  },
+  {
+    "title": "Market Briefing For Monday, April 15, 2024",
+    "published": 1713085800
+  },
+  {
+    "title": "Arrow Minerals Secures Full Ownership and Funds for Iron Project",
+    "published": 1713079140
+  },
+  {
+    "title": "3 Millionaire-Maker Artificial Intelligence Stocks",
+    "published": 1713046500
+  },
+  {
+    "title": "2 Top Artificial Intelligence (AI) Growth Stocks to Buy Now",
+    "published": 1713019500
+  },
+  {
+    "title": "Advanced Micro Devices' (NASDAQ:AMD) five-year total shareholder returns outpace the underlying earnings growth",
+    "published": 1713013218
+  },
+  {
+    "title": "1 Unstoppable Stock That Could Join Nvidia, Microsoft, Apple, Amazon, Alphabet, and Meta in the $1 Trillion Club",
+    "published": 1713004140
+  },
+  {
+    "title": "7 Must-Own Tech Stocks to Capitalize on the AI Frenzy",
+    "published": 1712998920
+  },
+  {
+    "title": "Chip Boom Champions: 3 Semiconductor Stocks to Quadruple Your Money",
+    "published": 1712986680
+  },
+  {
+    "title": "AI Surge Has Ended: All 7 AI Stock Categories Declined This Week",
+    "published": 1712985960
+  },
+  {
+    "title": "7 Semiconductor Stocks to Turn $100,000 Into $1 Million: April 2024",
+    "published": 1712984580
+  },
+  {
+    "title": "Key AMD Support",
+    "published": 1712983740
+  },
+  {
+    "title": "Why C3.ai, Intel, Advanced Micro Devices, and Other Artificial Intelligence (AI) Stocks Slumped on Friday",
+    "published": 1712956879,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Why AMD (AMD) Stock Is Nosediving",
+    "published": 1712945124,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "PRESS: China eyes clamping down on foreign chip use in telecoms - WSJ",
+    "published": 1712939400,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "JPMorgan Chase, Advanced Micro Devices fall; Progressive, State Street rise, 4/12/2024",
+    "published": 1712938760,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Shares fall as banking and chip stocks slump",
+    "published": 1712938620,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "China aims to phase out foreign chips from telecom systems: WSJ",
+    "published": 1712930611,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "AMD Stock Has Pulled Back: Time to Buy the Dip?",
+    "published": 1712929559,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Big Bank earnings, stock futures, Chinese chips: 3 Things",
+    "published": 1712927557,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "JPMorgan, Wells Fargo, and Citigroup report: Yahoo Finance",
+    "published": 1712921407,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Intel, AMD Stocks Are Sliding. China Wants to Cut Their Chips Out of Telecoms Systems.",
+    "published": 1712919960,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712919660,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "INTC Stock Alert: Intel Faces a China-Sized Blow",
+    "published": 1712916900,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "JP Morgan Kicks Off Earnings Season, Intel And AMD China Problem, Potential Iranian Attack",
+    "published": 1712916480,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Video: Nasdaq 100 Movers: AMD, FANG",
+    "published": 1712914620,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "AI Hardware Stocks At A Peak: 2024 Growth May Not Translate To Returns",
+    "published": 1712914200,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Better AI Stock: Nvidia vs. AMD",
+    "published": 1712912700,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "China tells telecom firms to phase out foreign chips in blow to Intel, AMD - WSJ",
+    "published": 1712912605,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "China instructs telecom carriers to phase out foreign chips in setback for Intel, AMD : WSJ",
+    "published": 1712911860,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD",
+    "published": 1712911860,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Despite US-China Tensions, Beijing Remains Crucial Market For Nvidia, Intel And Other American Chipmakers: Report",
+    "published": 1712908800,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "China Intends to Boot Out U.S. Chipmakers from Telecom Systems",
+    "published": 1712908680,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Fly Intel: Pre-market Movers",
+    "published": 1712908560,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Wall Street Wobbles: Stock Futures Point To Slide As JPMorgan Tumbles 3% While Gold Surges Past $2,400 \u2014 Analyst Sees This As 'Worst-Case' Scenario For S&P 500 Pullback",
+    "published": 1712903580,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "China tells telecom carriers to phase out foreign chips by 2027, WSJ reports",
+    "published": 1712901780,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Market Today: Semiconductor Stocks Tumble Amid China's Chip Replacement Directive",
+    "published": 1712896860,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "What You Missed On Wall Street On Friday",
+    "published": 1712892060,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Intel, AMD lead chips lower on China worries; investors await earnings",
+    "published": 1712888340,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "Girl Power Portfolio: 3 High-Potential Stocks With Women CEOs to Buy Now",
+    "published": 1712884140,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "VIX Rockets 25% On Most Volatile Session In 2 Years; Oil Rises As Israel Braces For Iranian Attack: What's Driving Markets Friday?",
+    "published": 1712883840,
+    "posting_price": 164.52999878,
+    "close_price": 163.27999878,
+    "percent_change": -0.75973987
+  },
+  {
+    "title": "SoFI Technologies, Microsoft, Amazon, AMD, and Other Tech Stocks in Focus Today",
+    "published": 1712829240,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "10 Information Technology Stocks Whale Activity In Today's Session",
+    "published": 1712839320,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Google Built Its Own Server CPU in Blow to Intel and AMD",
+    "published": 1712839200,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "3 Tech Stocks With More Potential Than Any Cryptocurrency",
+    "published": 1712833200,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "AMD May 31st Options Begin Trading",
+    "published": 1712832900,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "BUZZ Investing: Echoes Of 'Mission Accomplished' Amid Inflation Battle",
+    "published": 1712830500,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "3 Breakout Growth Stocks You Can Buy and Hold for the Next Decade",
+    "published": 1712829600,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Wall Street Favorites: 3 Semiconductor Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712827440,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Don\u2019t Be Fooled! The Nvidia Stock Pullback Is a Gift.",
+    "published": 1712824560,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "AMD vs. NVDA: Which Chip Stock Is the Better Buy?",
+    "published": 1712817300,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "AMD vs. NVDA: Which Chip Stock Is Better?",
+    "published": 1712817240,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "AMD, Intel slip as Citi says March notebook shipments 'well above' expectations",
+    "published": 1712817060,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Is the AMD Stock Selloff a Rare Chance to Load Up?",
+    "published": 1712813640,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "AMD Extends Leadership Adaptive SoC Portfolio with New Versal Series Gen 2 Devices Delivering End-to-End Acceleration for AI-Driven Embedded Systems",
+    "published": 1712811924,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Market Today: Tech and AI Innovations Propel Stocks Amid Mixed Financials",
+    "published": 1712810460,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Nvidia Stock Trading At 13% Discount To Long-Term Average, Other AI Stocks At 52% Premium",
+    "published": 1712805600,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Wall Street Favorites: 3 ETFs With Strong Buy Ratings for April 2024",
+    "published": 1712803260,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Super Micro Computer (NASDAQ:SMCI): Rare Value Stock in a Crowded Market",
+    "published": 1712800920,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "If You Can Only Buy One Semiconductor Stock in April, It Better Be One of These 3 Names",
+    "published": 1712800140,
+    "posting_price": 167.55000305,
+    "close_price": 170.5,
+    "percent_change": 1.7606666
+  },
+  {
+    "title": "Nvidia Eyes Continued Leadership in $90B Accelerator Market, Despite Recent Dip: BofA Analyst",
+    "published": 1712751900,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "BlackBerry (BB) Teams Up With AMD on Robotics Platform, Up 7%",
+    "published": 1712748660,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "I invested half of my son\u2019s inheritance with a 13.5% return. A major broker underperformed the S&P 500 with the rest. Should I take over all his assets?",
+    "published": 1712745180,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "UBS spotlights its high-conviction AI bets",
+    "published": 1712744400,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "3 Overlooked Chip Stocks to Scoop Up at a Discount",
+    "published": 1712737200,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "'Don't sweat': Nvidia's recent slide is a 'refreshing noise,' BofA says",
+    "published": 1712731500,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "BlackBerry Eyes On Vehicle Software Development - Partners With Germany-based ETAS To Advance Next-Generation Solutions",
+    "published": 1712729700,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "Nvidia doesn\u2019t have a monopoly in AI \u2014 though it sure seems that way",
+    "published": 1712726160,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "If You Can Only Buy One Meme Stock in April, It Better Be One of These 3 Names",
+    "published": 1712724600,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "Taiwan Semiconductor's Q1 revenue surges amid AI chip boom",
+    "published": 1712722500,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "Nvidia\u2019s stock has had a killer run. Why it\u2019s still Morgan Stanley\u2019s top AI-chip pick.",
+    "published": 1712720100,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "Nasdaq Nightmares: 3 Stocks to Sell Before Reality Sets In",
+    "published": 1712718240,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "Down Day In The Markets? No Problem For Nvidia: 'PreMarket Prep' Co-Host's Pick Rockets Higher",
+    "published": 1712717580,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "20 Most Used Artificial Intelligence (AI) Platforms of 2024",
+    "published": 1712710615,
+    "posting_price": 166.71000671,
+    "close_price": 167.13999939,
+    "percent_change": 0.25792854
+  },
+  {
+    "title": "Veteran analyst delivers blunt warning about Nvidia's stock",
+    "published": 1712704620,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry and AMD announce collab on robotics platform",
+    "published": 1712695137,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "What's Going On With AMD Stock On Tuesday?",
+    "published": 1712683814,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Still Time Left To Buy Amazon On Its Path To $360 By 2026",
+    "published": 1712683538,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "AMD Expands Portfolio With the Launch of Versal Series Gen 2",
+    "published": 1712678220,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry gains on partnership with AMD for robotics systems",
+    "published": 1712674297,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry: Finally Some Hope",
+    "published": 1712672580,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "How's AT&T Handling Things?",
+    "published": 1712670666,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Advanced Micro Devices Has 17% Upside, According to 1 Wall Street Analyst",
+    "published": 1712667460,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry, Alkermes rise; Neogen, Tilray Brands fall, Tuesday, 4/9/2024",
+    "published": 1712666280,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "What Is The Most Undervalued MANGO (Semiconductor) Stock Right Now?",
+    "published": 1712665980,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "AMD, Super Micro, Taiwan Semi, and Other Tech Stocks in Focus Today",
+    "published": 1712665380,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Why Tilray Brands Shares Are Trading Lower By Around 22%? Here Are Other Stocks Moving In Tuesday's Mid-Day Session",
+    "published": 1712664900,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Is It Too Late To Consider Buying Advanced Micro Devices, Inc. (NASDAQ:AMD)?",
+    "published": 1712664096,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Can AMD Stock Reach $275? Here\u2019s What This Top Investor Expects",
+    "published": 1712662260,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BB Stock Alert: 5 Things to Know About the New AMD-BlackBerry Partnership",
+    "published": 1712661300,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "3 Stocks That Can Help You Get Richer in 2024",
+    "published": 1712661300,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Announcement On Tesla Robo Taxis Ahead \u2013 Opportunities For Investors",
+    "published": 1712660640,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "7 Mega-Cap Stocks Poised to Double Your Money in 3 Years",
+    "published": 1712659440,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Biggest stock movers today: MRNA, TLRY, BB, MAXN, NTES, and more",
+    "published": 1712659140,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "AMD: RISC-V Is A Bogeyman",
+    "published": 1712657404,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Missed Out on Nvidia? Could Advanced Micro Devices Be the Next-Best Option?",
+    "published": 1712656800,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry, Nurix Therapeutics, Tesla And Other Big Stocks Moving Higher On Tuesday",
+    "published": 1712656200,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "AMD: Momentum Reversal Is Most Intense Since January 2022 Sell Signal",
+    "published": 1712654100,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "AMD: collaboration with BlackBerry in robotics",
+    "published": 1712652403,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "AMD focus on MI300X upside, Wells Fargo says; Intel focus on 18A, Gaudi ramp",
+    "published": 1712650860,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "1 Artificial Intelligence (AI) Stock That Could Make You a Millionaire",
+    "published": 1712649900,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Notable open interest changes for April 9th",
+    "published": 1712649360,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Biggest stock movers today: TLRY, BB, MAXN, NTES, and more",
+    "published": 1712647680,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Google unveils in-house Axion chips to cut AI costs, reliance on Nvidia, others: report",
+    "published": 1712647020,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry Stock Surges Following Robotics Collaboration with AMD",
+    "published": 1712646420,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Biggest stock movers today: BB, MAXN, NTES, and more",
+    "published": 1712641740,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Warning! Don\u2019t Get Weighed Down by AMD Stock\u2019s Heavy Valuation.",
+    "published": 1712639640,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry, AMD collaborating in robotics hardware platform",
+    "published": 1712639400,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Intel (INTC), Gitlab (GTLB) and Advanced Micro Devices (AMD)",
+    "published": 1712638260,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Microsoft Set to Unveil Qualcomm-Powered AI PCs, Aiming to Surpass Apple's MacBook Air",
+    "published": 1712638080,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry, AMD team up to revolutionize next-era robotic technology",
+    "published": 1712637000,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry, AMD teams up to revolutionize next-era robotic technology",
+    "published": 1712636280,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "South Korea mulls $7B investment in AI chip manufacturing - report",
+    "published": 1712634300,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Expert Trader Expresses Caution Ahead Of Wednesday's Inflation Report: 'Ascending Channels Are Great Until They Break'",
+    "published": 1712634180,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "BlackBerry Stock (NYSE:BB): Compelling after Surprise Profit and AMD Collaboration",
+    "published": 1712633700,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "What You Missed On Wall Street On Tuesday",
+    "published": 1712632980,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Nvidia competition heats up as Intel, Google unveil new AI offerings",
+    "published": 1712626620,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Intel announces enterprise AI with Gaudi 3, AI open systems strategy",
+    "published": 1712625000,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Better Artificial Intelligence (AI) Stock: Qualcomm vs. Intel",
+    "published": 1712622600,
+    "posting_price": 170.21000671,
+    "close_price": 170.77999878,
+    "percent_change": 0.33487577
+  },
+  {
+    "title": "Advanced Micro Devices (AMD) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "published": 1712612719,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "AMD Advances Open Source Initiative with MES Firmware Release for Radeon GPUs",
+    "published": 1712595417,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Nvidia Stock Dips Despite Analyst Seeing Much Higher Demand for Chips",
+    "published": 1712587920,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Nvidia's Technical Road To $1,165",
+    "published": 1712587803,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Wall Street Analysts Think Advanced Micro (AMD) Is a Good Investment: Is It?",
+    "published": 1712583010,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Company News for Apr 8, 2024",
+    "published": 1712582820,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Caution! 3 Scorching AI Stocks Getting Too Hot to Handle",
+    "published": 1712580420,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Buy Rating on AMD: Anticipated AI Revenue Growth and Strong Market Execution Offset Risks",
+    "published": 1712579160,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Microchip Technology expands TSMC partnership to strengthen supply chain",
+    "published": 1712575800,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
+    "published": 1712574900,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "3 Game-Changing Stocks That Will Reshape Their Industries by 2027",
+    "published": 1712574840,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Should You Buy AMD Stock Instead of Palantir Stock?",
+    "published": 1712570460,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Nvidia, Micron, Qualcomm in focus as KeyBanc boosts estimates on China, AI hopes",
+    "published": 1712562960,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Ahead Of Chip Earnings, Analyst Turns More Bullish On Nvidia And These Semiconductor Stocks On Robust AI Demand",
+    "published": 1712561460,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "US Embargo On Nvidia Stings Hard, China's AI Development Lags Peers: Alibaba's Joe Tsai Reveals",
+    "published": 1712559600,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Baird uncovers recent MI300X order cut at AMD from hyperscaler",
+    "published": 1712559060,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "AMD Stock Could Be the Best Way to Play the AI Sector Right Now",
+    "published": 1712555340,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "7 Standout Semiconductor Stocks to Buy in April",
+    "published": 1712555340,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "SMCI Spotlight: Why Super Micro Stock Still Has Plenty Left in the Tank",
+    "published": 1712553840,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "If You Can Only Buy One Machine Learning Stock in April, It Better Be One of These 3 Names",
+    "published": 1712539740,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "The Stock Performance Of U.S. Chipmakers So Far In 2024",
+    "published": 1712539140,
+    "posting_price": 168.19999695,
+    "close_price": 169.8999939,
+    "percent_change": 1.01069975
+  },
+  {
+    "title": "Watch Out Below? A Steep Market Correction Could Ruin SOXL Returns",
+    "published": 1712506447
+  },
+  {
+    "title": "2 Tech Stocks to Buy Like There's No Tomorrow",
+    "published": 1712484000
+  },
+  {
+    "title": "AI Surge Ending: Only One Category Was Up This Week",
+    "published": 1712383200
+  },
+  {
+    "title": "This Top Analyst Is Beating the Drum on AMD Stock",
+    "published": 1712383020
+  },
+  {
+    "title": "The NVDA Alternatives: 3 Stocks Offering Superior Growth Prospects to Nvidia",
+    "published": 1712376300
+  },
+  {
+    "title": "This Top Analyst Is Placing a Bet on AMD\u2019s AI Chips to Drive Growth",
+    "published": 1712374680
+  },
+  {
+    "title": "Top Analyst Harsh Kumar Pounds the Table on AMD Stock",
+    "published": 1712366700
+  },
+  {
+    "title": "Stocks Soar After Robust Jobs Data; AMD, Amazon.com Lead Tech Rally, But Tesla Sinks On This News",
+    "published": 1712337041,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Should Investors Buy the Correction in AMD Stock?",
+    "published": 1712337000,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "AMD's $275 Technical Trajectory In 2024",
+    "published": 1712327432,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Nvidia, Intel stocks slip on China market pressure",
+    "published": 1712326260,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Why AMD Stock Is Down Over 20% From Its Peak",
+    "published": 1712324023,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1712322014,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Where Will AMD Stock Be in 5 Years?",
+    "published": 1712321920,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Processors and Graphics Chips Stocks Q4 Recap: Benchmarking Broadcom (NASDAQ:AVGO)",
+    "published": 1712319765,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Dow Jones Futures Rise With Jobs Report Due After Ugly Market Reversal; J&J To Buy Shockwave",
+    "published": 1712318675,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Trending tickers: AMD, Shell, AstraZeneca, HubSpot",
+    "published": 1712310583,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "What AMD, Intel, and Nvidia Stock Investors Should Know About Recent Semiconductor Updates",
+    "published": 1712309820,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Behind the Scenes of Advanced Micro Devices's Latest Options Trends",
+    "published": 1712309640,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Why this AMD bull is keeping the faith in the face of the stock\u2019s weakness",
+    "published": 1712307180,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Notable open interest changes for April 5th",
+    "published": 1712303760,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "The 3 Best Semiconductors Stocks to Buy in April 2024",
+    "published": 1712300220,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "U.S. Stock Futures Rebound Ahead of Crucial Employment Data",
+    "published": 1712297880,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Futures recover from Wall St selloff ahead of payrolls test",
+    "published": 1712297771,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Braze (BRZE), Advanced Micro Devices (AMD) and Palo Alto Networks (PANW)",
+    "published": 1712296260,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "AMD Stock: Key Insights for Investors",
+    "published": 1712285340,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "AMD's MI300 Chip Gains Momentum, Analyst Predicts Strong Growth and Server Market Success",
+    "published": 1712280600,
+    "posting_price": 168.1000061,
+    "close_price": 170.41999817,
+    "percent_change": 1.38012611
+  },
+  {
+    "title": "The 3 Best Tech Stocks to Buy in April 2024",
+    "published": 1712233920,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "Advanced Micro Devices, Inc.'s (NASDAQ:AMD) Stock Is Going Strong: Have Financials A Role To Play?",
+    "published": 1712232023,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "May 24th Options Now Available For Advanced Micro Devices (AMD)",
+    "published": 1712225040,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "Is Nvidia Stock a Buy Right Now?",
+    "published": 1712222100,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "Here's How Much $1000 Invested In Advanced Micro Devices 5 Years Ago Would Be Worth Today",
+    "published": 1712221380,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "3 Growth Stocks with Even Greater Potential Than the Magnificent 7",
+    "published": 1712219820,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "US-China Talks Highlight Trade and Market Access Issues",
+    "published": 1712218680,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "IYW: A Reliable Long-Term Investment",
+    "published": 1712215094,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "3 Tech Stock Titans Grappling With Fresh China Challenges",
+    "published": 1712208900,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "5 Best AI Stocks to Buy in April 2024, According to Analysts",
+    "published": 1712208360,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "AMD\u2019s Overlooked AI Potential: 3 Reasons to Buy the Dip Before the Market Catches On",
+    "published": 1712207940,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "Clean Energy, Semiconductors Among Interest-Rate-Sensitive Sectors Hammered Thursday Afternoon On Rate Cut Concerns",
+    "published": 1712200500,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "3 AI Stocks That Will Leave Nvidia in the Dust",
+    "published": 1712196360,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "Intel's Strategic Moves Under Scrutiny, Analysts Weigh In on New Financial Structure and Market Share",
+    "published": 1712194080,
+    "posting_price": 182.91999817,
+    "close_price": 165.83000183,
+    "percent_change": -9.34288023
+  },
+  {
+    "title": "Intel Reveals Groundbreaking Financial Roadmap Through 2030",
+    "published": 1712166032,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Nvidia Stock and AMD Stock: You Won't Believe My Shocking Conclusion",
+    "published": 1712146950,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Time to Buy Intel Stock? \u2018Nvidia and AMD Are Better Options,\u2019 Says Top Analyst Ruben Roy",
+    "published": 1712144700,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Do You Believe in the Growth Prospects of Advanced Micro Devices (AMD)?",
+    "published": 1712142203,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "How To Beat The Herd: Finding Stock Opportunities Where Others Aren't Looking",
+    "published": 1712140980,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "1 Stock-Split ETF That Could Turn $500 Per Month Into $1 Million, With Nvidia's Help",
+    "published": 1712139420,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "You Would Have Over $670,000 If You Invested $15k In This Tech Stock 10 Years Ago",
+    "published": 1712138760,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Why Nvidia Could Become The Largest Company, But Not For Long",
+    "published": 1712136629,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Steve Cohen - Markets are not in an AI fueled bubble",
+    "published": 1712134080,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Taiwan Earthquake Alarms Gene Munster: 'The Only Thing That Can Slow AI In The Near-Term' Is Impact On TSMC Chip Production",
+    "published": 1712132940,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "7 Nasdaq Stocks to Sell in April Before They Crash & Burn",
+    "published": 1712132460,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "\u2018Stay Away for Now,\u2019 Says Investor About AMD Stock",
+    "published": 1712129340,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Intel Targets $15B In Foundry Revenue By 2030, But Analyst Says TSMC Will Be '10X Larger'",
+    "published": 1712128800,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Wall Street Set To Stumble At Open As Traders Eye Key Data, Fed Chair Powell's Speech: Analyst Finds 2 Reasons To Stay Optimistic In April",
+    "published": 1712127000,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "NVDA Is Unstoppable in the AI Race. Buy Nvidia Stock NOW.",
+    "published": 1712121120,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "The 3 Most Undervalued Semiconductor Stocks to Buy in April 2024",
+    "published": 1712112420,
+    "posting_price": 177.53999329,
+    "close_price": 180.77000427,
+    "percent_change": 1.81931458
+  },
+  {
+    "title": "Nvidia Stock Drops. What the Problem Isn\u2019t.",
+    "published": 1712093340,
+    "posting_price": 179.47000122,
+    "close_price": 178.69999695,
+    "percent_change": -0.42904344
   }
 ]

@@ -1,39 +1,59 @@
 [
   {
     "title": "Statement Regarding the FERC Complaint and Press Release Issued by the Kentucky Attorney General and Public Service Commission",
-    "published": 1741869900
+    "published": 1741869900,
+    "posting_price": 102.80999756,
+    "close_price": 104.23999786,
+    "percent_change": 1.39091561
   },
   {
     "title": "American Electric Power Stock: Rising Demand Pushes This Power Player Higher",
-    "published": 1740593480
+    "published": 1740593480,
+    "posting_price": 107.23000336,
+    "close_price": 106.88999939,
+    "percent_change": -0.31707914
   },
   {
     "title": "DeepSeek Is Upending Wall Street\u2019s Big AI Power Trade",
-    "published": 1738101120
+    "published": 1738101120,
+    "posting_price": 101.52035248,
+    "close_price": 99.07324219,
+    "percent_change": -2.41046276
   },
   {
     "title": "Here's Why We Think American Electric Power Company (NASDAQ:AEP) Is Well Worth Watching",
-    "published": 1738065627
+    "published": 1738065627,
+    "posting_price": 101.52035248,
+    "close_price": 99.07324219,
+    "percent_change": -2.41046276
   },
   {
     "title": "American Electric upgraded to Buy from Neutral at Guggenheim",
     "published": 1737727887,
-    "posting_price": 0.00,
-    "close_price": 0.00,
-    "percent_change": 0.00,
-    "sentiment": 0.00
+    "posting_price": 96.18030691,
+    "close_price": 97.27011108,
+    "percent_change": 1.13308452
   },
   {
     "title": "American Electric Power Company (NASDAQ:AEP) shareholders have earned a 30% return over the last year",
-    "published": 1737457265
+    "published": 1737457265,
+    "posting_price": 97.09177551,
+    "close_price": 96.90353394,
+    "percent_change": -0.19388004
   },
   {
     "title": "Returns On Capital At American Electric Power Company (NASDAQ:AEP) Have Hit The Brakes",
-    "published": 1737111628
+    "published": 1737111628,
+    "posting_price": 96.73511705,
+    "close_price": 96.34873199,
+    "percent_change": -0.39942585
   },
   {
     "title": "American Electric Power Stock Sees RS Rating Improve To 72",
-    "published": 1736886120
+    "published": 1736886120,
+    "posting_price": 92.80190445,
+    "close_price": 93.62421417,
+    "percent_change": 0.88609143
   },
   {
     "title": "How Did American Electric Power Company, Inc.'s (NASDAQ:AEP) 9.9% ROE Fare Against The Industry?",
@@ -42,5 +62,83 @@
   {
     "title": "American Electric asset sale eases balance sheet overhang, says Morgan Stanley",
     "published": 1736610616
+  },
+  {
+    "title": "Honolulu Tries to Mug Energy Companies",
+    "published": 1713158880,
+    "posting_price": 79.33449448,
+    "close_price": 77.90938568,
+    "percent_change": -1.79632934
+  },
+  {
+    "title": "American Electric price target raised by $1 at Barclays, here's why",
+    "published": 1713156900,
+    "posting_price": 79.33449448,
+    "close_price": 77.90938568,
+    "percent_change": -1.79632934
+  },
+  {
+    "title": "Barclays Sticks to Its Hold Rating for American Electric Power (AEP)",
+    "published": 1713082560
+  },
+  {
+    "title": "Stocks I'm Buying The Third Week Of April",
+    "published": 1712997000
+  },
+  {
+    "title": "Avanti Helium Raises Funds for Helium Plant",
+    "published": 1712723880,
+    "posting_price": 80.4610944,
+    "close_price": 80.20111084,
+    "percent_change": -0.32311711
+  },
+  {
+    "title": "AEP NAMED LEADER ON NEW JUST JOBS SCORECARD",
+    "published": 1712312281,
+    "posting_price": 80.35517475,
+    "close_price": 80.83663177,
+    "percent_change": 0.59916119
+  },
+  {
+    "title": "(AEP) - Analyzing American Electric Power's Short Interest",
+    "published": 1712217960,
+    "posting_price": 81.9439892,
+    "close_price": 80.8462677,
+    "percent_change": -1.33959978
+  },
+  {
+    "title": "Duke Energy to sell 50% stake in Pioneer JV to boost clean energy transition",
+    "published": 1712203440,
+    "posting_price": 81.9439892,
+    "close_price": 80.8462677,
+    "percent_change": -1.33959978
+  },
+  {
+    "title": "American Electric Power Co. Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1712202960,
+    "posting_price": 81.9439892,
+    "close_price": 80.8462677,
+    "percent_change": -1.33959978
+  },
+  {
+    "title": "Avanti Helium Expands Private Placement Offering",
+    "published": 1712201880,
+    "posting_price": 81.9439892,
+    "close_price": 80.8462677,
+    "percent_change": -1.33959978
+  },
+  {
+    "title": "Atlas Engineered Reduces Debt and Secures New Order",
+    "published": 1712131680,
+    "posting_price": 82.13657299,
+    "close_price": 81.20254517,
+    "percent_change": -1.13716434
+  },
+  {
+    "title": "NextEra: Bigger Dividend, Healthy Momentum, Bode Well (A.I. Too)",
+    "published": 1712062223,
+    "posting_price": 81.07736618,
+    "close_price": 82.0499115,
+    "percent_change": 1.19952752
   }
 ]

@@ -1,10 +1,154 @@
 [
   {
     "title": "Camden's Q4 FFO Beats Estimates, Same-Property NOI Rises",
-    "published": 1738935480
+    "published": 1738935480,
+    "posting_price": 42.97000122,
+    "close_price": 42.90000153,
+    "percent_change": -0.16290363
   },
   {
     "title": "UDR: Q4 Earnings Snapshot",
-    "published": 1738792623
+    "published": 1738792623,
+    "posting_price": 41.95999908,
+    "close_price": 42.22000122,
+    "percent_change": 0.61964286
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 35.77186202,
+    "close_price": 34.77280807,
+    "percent_change": -2.79284861
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "UDR Inc. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 35.95614627,
+    "close_price": 35.53906631,
+    "percent_change": -1.15996847
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 36.41202774,
+    "close_price": 36.05314255,
+    "percent_change": -0.98562264
+  },
+  {
+    "title": "UDR Announces Dates for First Quarter 2024 Earnings Release and Conference Call",
+    "published": 1712780160,
+    "posting_price": 35.86885232,
+    "close_price": 36.10164261,
+    "percent_change": 0.64900401
+  },
+  {
+    "title": "Piper Sandler Upgrades UDR (UDR)",
+    "published": 1712744877,
+    "posting_price": 35.86885232,
+    "close_price": 36.10164261,
+    "percent_change": 0.64900401
+  },
+  {
+    "title": "UDR (UDR) Gets a Hold from RBC Capital",
+    "published": 1712739000,
+    "posting_price": 35.86885232,
+    "close_price": 36.10164261,
+    "percent_change": 0.64900401
+  },
+  {
+    "title": "UDR upgraded to Neutral at Piper on strength of Northeast presence",
+    "published": 1712733660,
+    "posting_price": 35.86885232,
+    "close_price": 36.10164261,
+    "percent_change": 0.64900401
+  },
+  {
+    "title": "UDR just upgraded at Piper Sandler, here's why",
+    "published": 1712720760,
+    "posting_price": 35.86885232,
+    "close_price": 36.10164261,
+    "percent_change": 0.64900401
+  },
+  {
+    "title": "UDR price target lowered by $3 at Truist, here's why",
+    "published": 1712644440,
+    "posting_price": 36.2277332,
+    "close_price": 36.73210907,
+    "percent_change": 1.3922369
+  },
+  {
+    "title": "Cracking The Code: Understanding Analyst Reviews For UDR",
+    "published": 1712635500,
+    "posting_price": 36.2277332,
+    "close_price": 36.73210907,
+    "percent_change": 1.3922369
+  },
+  {
+    "title": "These REITs Yield Up to 7.1% and Have Long Track Records of Dividend Growth",
+    "published": 1712596384,
+    "posting_price": 35.492512,
+    "close_price": 36.08709335,
+    "percent_change": 1.6752304
+  },
+  {
+    "title": "Bullish Two Hundred Day Moving Average Cross - UDR",
+    "published": 1712573040,
+    "posting_price": 35.492512,
+    "close_price": 36.08709335,
+    "percent_change": 1.6752304
+  },
+  {
+    "title": "UDR Inc's Dividend Analysis",
+    "published": 1712552700,
+    "posting_price": 35.492512,
+    "close_price": 36.08709335,
+    "percent_change": 1.6752304
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "6 Upcoming Dividend Increases",
+    "published": 1712201836,
+    "posting_price": 35.25276217,
+    "close_price": 34.89793396,
+    "percent_change": -1.00652598
+  },
+  {
+    "title": "UDR Inc. stock outperforms competitors on strong trading day",
+    "published": 1712118120,
+    "posting_price": 34.60064463,
+    "close_price": 34.96506119,
+    "percent_change": 1.05320743
+  },
+  {
+    "title": "Warning: UDR is at high risk of performing badly",
+    "published": 1712031180,
+    "posting_price": 34.83080377,
+    "close_price": 34.69654465,
+    "percent_change": -0.38546087
+  },
+  {
+    "title": "Buy vs. Sell ideas paired within each sector - Oppenheimer",
+    "published": 1712025420,
+    "posting_price": 34.83080377,
+    "close_price": 34.69654465,
+    "percent_change": -0.38546087
+  },
+  {
+    "title": "10 Dividend Growth Stocks: March 2024",
+    "published": 1711943087,
+    "posting_price": 35.79939479,
+    "close_price": 35.13768387,
+    "percent_change": -1.84838577
   }
 ]

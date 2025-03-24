@@ -1,62 +1,781 @@
 [
   {
     "title": "Shelf-Stable Food Stocks Q4 In Review: Post (NYSE:POST) Vs Peers",
-    "published": 1742548200
+    "published": 1742548200,
+    "posting_price": 52.34000015,
+    "close_price": 53.08000183,
+    "percent_change": 1.41383584
   },
   {
     "title": "Spotting Winners: TreeHouse Foods (NYSE:THS) And Shelf-Stable Food Stocks In Q4",
-    "published": 1742461963
+    "published": 1742461963,
+    "posting_price": 53.00999832,
+    "close_price": 52.75,
+    "percent_change": -0.49047034
   },
   {
     "title": "General Mills (GIS) Beats Q3 Earnings Estimates",
-    "published": 1742386502
+    "published": 1742386502,
+    "posting_price": 52.33000183,
+    "close_price": 52.68000031,
+    "percent_change": 0.66882948
   },
   {
     "title": "Q4 Rundown: Simply Good Foods (NASDAQ:SMPL) Vs Other Shelf-Stable Food Stocks",
-    "published": 1742288753
+    "published": 1742288753,
+    "posting_price": 53.52999878,
+    "close_price": 52.88000107,
+    "percent_change": -1.21426812
   },
   {
     "title": "A Look Back at Shelf-Stable Food Stocks\u2019 Q4 Earnings: Hormel Foods (NYSE:HRL) Vs The Rest Of The Pack",
-    "published": 1742202252
+    "published": 1742202252,
+    "posting_price": 51.40000153,
+    "close_price": 53.59999847,
+    "percent_change": 4.28014956
   },
   {
     "title": "WEX, Lamb Weston, and More Stocks See Action From Activist Investors",
-    "published": 1741990620
+    "published": 1741990620,
+    "posting_price": 48.84000015,
+    "close_price": 50.95000076,
+    "percent_change": 4.32023056
   },
   {
     "title": "Reflecting On Shelf-Stable Food Stocks\u2019 Q4 Earnings: McCormick (NYSE:MKC)",
-    "published": 1741943301
+    "published": 1741943301,
+    "posting_price": 48.84000015,
+    "close_price": 50.95000076,
+    "percent_change": 4.32023056
   },
   {
     "title": "Shelf-Stable Food Stocks Q4 Results: Benchmarking J. M. Smucker (NYSE:SJM)",
-    "published": 1741943258
+    "published": 1741943258,
+    "posting_price": 48.84000015,
+    "close_price": 50.95000076,
+    "percent_change": 4.32023056
   },
   {
     "title": "Q4 Earnings Outperformers: BellRing Brands (NYSE:BRBR) And The Rest Of The Shelf-Stable Food Stocks",
-    "published": 1741856786
+    "published": 1741856786,
+    "posting_price": 51.38999939,
+    "close_price": 48.65000153,
+    "percent_change": -5.33177251
   },
   {
     "title": "Shelf-Stable Food Stocks Q4 Recap: Benchmarking SunOpta (NASDAQ:STKL)",
-    "published": 1741770434
+    "published": 1741770434,
+    "posting_price": 51.31000137,
+    "close_price": 51.31000137,
+    "percent_change": 0.0
   },
   {
     "title": "Boasting A 22% Return On Equity, Is Lamb Weston Holdings, Inc. (NYSE:LW) A Top Quality Stock?",
-    "published": 1741613974
+    "published": 1741613974,
+    "posting_price": 52.83000183,
+    "close_price": 52.47000122,
+    "percent_change": -0.68143214
   },
   {
     "title": "Winners And Losers Of Q4: Kellanova (NYSE:K) Vs The Rest Of The Shelf-Stable Food Stocks",
-    "published": 1741597664
+    "published": 1741597664,
+    "posting_price": 52.83000183,
+    "close_price": 52.47000122,
+    "percent_change": -0.68143214
   },
   {
     "title": "Q4 Rundown: Campbell's (NASDAQ:CPB) Vs Other Shelf-Stable Food Stocks",
-    "published": 1741597415
+    "published": 1741597415,
+    "posting_price": 52.83000183,
+    "close_price": 52.47000122,
+    "percent_change": -0.68143214
   },
   {
     "title": "Here's Why Lamb Weston Stock is Down More Than 30% in 3 Months",
-    "published": 1741001940
+    "published": 1741001940,
+    "posting_price": 52.02999878,
+    "close_price": 50.02000046,
+    "percent_change": -3.86315273
   },
   {
     "title": "Jana Partners' Strategic Moves: Lamb Weston Holdings Inc. Takes Center Stage with 11. ...",
-    "published": 1739576118
+    "published": 1739576118,
+    "posting_price": 57.95999908,
+    "close_price": 58.45999908,
+    "percent_change": 0.86266392
+  },
+  {
+    "title": "Lamb Weston (LW) Down More Than 25% in 3 Months: Here's Why",
+    "published": 1713192540,
+    "posting_price": 78.44383869,
+    "close_price": 78.27738953,
+    "percent_change": -0.21218895
+  },
+  {
+    "title": "10 Most Undervalued Value Stocks To Buy Now",
+    "published": 1713024733
+  },
+  {
+    "title": "11 Oversold Value Stocks To Buy Now",
+    "published": 1712934095,
+    "posting_price": 79.0900304,
+    "close_price": 78.10115814,
+    "percent_change": -1.25031215
+  },
+  {
+    "title": "Pomerantz Law Firm Investigates Claims on Behalf of Investors of Lamb Weston Holdings, Inc. - LW",
+    "published": 1712930468,
+    "posting_price": 79.0900304,
+    "close_price": 78.10115814,
+    "percent_change": -1.25031215
+  },
+  {
+    "title": "Lamb Weston Holdings: A Resilient Buy Rating with a Focus on Recovery and Growth Prospects",
+    "published": 1712898420,
+    "posting_price": 79.0900304,
+    "close_price": 78.10115814,
+    "percent_change": -1.25031215
+  },
+  {
+    "title": "Lamb Weston call volume above normal and directionally bullish",
+    "published": 1712885160,
+    "posting_price": 79.0900304,
+    "close_price": 78.10115814,
+    "percent_change": -1.25031215
+  },
+  {
+    "title": "Top quant-rated consumer staples during Q1",
+    "published": 1712834460,
+    "posting_price": 78.6494474,
+    "close_price": 79.65789795,
+    "percent_change": 1.28220933
+  },
+  {
+    "title": "Lamb Weston Stock (NYSE:LW): Analysts Remain Bullish Despite Weak Results, Lower Outlook",
+    "published": 1712824860,
+    "posting_price": 78.6494474,
+    "close_price": 79.65789795,
+    "percent_change": 1.28220933
+  },
+  {
+    "title": "Lamb Weston Holdings (LW) Receives a Buy from Wells Fargo",
+    "published": 1712810220,
+    "posting_price": 78.6494474,
+    "close_price": 79.65789795,
+    "percent_change": 1.28220933
+  },
+  {
+    "title": "Warning: LW is at high risk of performing badly",
+    "published": 1712808000,
+    "posting_price": 78.6494474,
+    "close_price": 79.65789795,
+    "percent_change": 1.28220933
+  },
+  {
+    "title": "12 Best Depressed Stocks To Buy in 2024",
+    "published": 1712786947,
+    "posting_price": 78.13053528,
+    "close_price": 78.18927765,
+    "percent_change": 0.07518491
+  },
+  {
+    "title": "Food prices run cooler than overall inflation in March",
+    "published": 1712735040,
+    "posting_price": 78.13053528,
+    "close_price": 78.18927765,
+    "percent_change": 0.07518491
+  },
+  {
+    "title": "Brokers Suggest Investing in Lamb Weston (LW): Read This Before Placing a Bet",
+    "published": 1712583010,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "Lamb Weston Holdings, Inc. (NYSE:LW) Q3 2024 Earnings Call Transcript",
+    "published": 1712582979,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "Lamb Weston price target lowered by $26 at Citi, here's why",
+    "published": 1712557320,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "Lamb Weston price target lowered by $27 at TD Cowen, here's why",
+    "published": 1712557320,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "3 Best Stocks to Buy Now, 4/8/2024, According to Top Analysts",
+    "published": 1712556000,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "Lamb Weston Holdings, Inc: What happened?",
+    "published": 1712554608,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "Lamb Weston price target lowered by $20 at Barclays, here's why",
+    "published": 1712552280,
+    "posting_price": 77.67036879,
+    "close_price": 76.17237854,
+    "percent_change": -1.92865088
+  },
+  {
+    "title": "Lamb Weston Holdings, Inc. Just Missed EPS By 27%: Here's What Analysts Think Will Happen Next",
+    "published": 1712492888
+  },
+  {
+    "title": "Over 20% Crash, 60% Upside? A Deep Dive Into Lamb Weston's Dividend Potential",
+    "published": 1712389596
+  },
+  {
+    "title": "Wall Street Breakfast: What Moved Markets",
+    "published": 1712387270
+  },
+  {
+    "title": "Lamb Weston Holdings Inc (LW) Q3 2024 Earnings Call Transcript Highlights: Navigating ERP ...",
+    "published": 1712353614,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston Holdings Third Quarter 2024 Earnings: Misses Expectations",
+    "published": 1712343073,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "An Economic Danger Signal at the Drive-Thru?",
+    "published": 1712328542,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston price target lowered by $25 at BofA, here's why",
+    "published": 1712321940,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Company News for Apr 5, 2024",
+    "published": 1712303520,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Unveiling Lamb Weston Holdings (LW)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1712301180,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston price target lowered by $15 at Stifel, here's why",
+    "published": 1712297220,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Buy Rating Affirmed for Lamb Weston Holdings Amidst Resilient Performance and Positive Long-Term Outlook",
+    "published": 1712295360,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston price target lowered by $30 at Wells Fargo, here's why",
+    "published": 1712294760,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 5 AM ET",
+    "published": 1712294150,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Decoding Lamb Weston Holdings Inc (LW): A Strategic SWOT Insight",
+    "published": 1712293511,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Fear & Greed Index Moves To 'Neutral' Zone Ahead Of Jobs Report; Dow Records Worst Session Since March 2023",
+    "published": 1712292180,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston: I'm Buying The 20% Post-Earnings Plunge",
+    "published": 1712290842,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston price target lowered to $116 from $138 at BofA",
+    "published": 1712290680,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Q3 2024 Lamb Weston Holdings Inc Earnings Call",
+    "published": 1712290530,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Lamb Weston Holdings: A Buy Rating Amidst Recovery and Growth Prospects",
+    "published": 1712289360,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 3 AM ET",
+    "published": 1712286938,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "Two S&P 500 names reported EPS beat this week; Conagra benefits from higher Grocery & Snacks sales - Earnings Scorecard",
+    "published": 1712281860,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 1 AM ET",
+    "published": 1712279785,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "LW Earnings: Lamb Weston Stock Drops on Q3 Miss, Lowers Outlook",
+    "published": 1712279280,
+    "posting_price": 80.29430466,
+    "close_price": 78.11095428,
+    "percent_change": -2.71918462
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 11 PM ET",
+    "published": 1712272521,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Why Lamb Weston Holdings Stock Plunged Today",
+    "published": 1712268960,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 9 PM ET",
+    "published": 1712265397,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Stocks to Watch Thursday: Block, Paramount, Levi Strauss",
+    "published": 1712238232,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 5 PM ET",
+    "published": 1712250998,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 7 PM ET",
+    "published": 1712250900,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Holdings, Inc. (LW) Q3 2024 Earnings Call Transcript",
+    "published": 1712246291,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston (LW) Q3 Earnings Lag Estimates, Guidance Lowered",
+    "published": 1712244720,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Stock Is Tumbling. Why the Potato Company\u2019s Earnings Got Fried.",
+    "published": 1712243100,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Why Lamb Weston (LW) Shares Are Falling Today",
+    "published": 1712243085,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Stock Drops After Food Company Cuts Outlook",
+    "published": 1712240160,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Holdings Inc (LW) Aligns with EPS Projections but Faces ERP System Challenges",
+    "published": 1712238698,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston (LW) Q3 Earnings and Revenues Lag Estimates",
+    "published": 1712238002,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Levi Strauss, Conagra Brands And 3 Stocks To Watch Heading Into Thursday",
+    "published": 1712235360,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Levi Strauss, Conagra Brands rise; Lamb Weston, RPM International fall, Thursday, 4/4/2024",
+    "published": 1712235060,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "S&P 500, Nasdaq 100 Eye Record Close As Magnificent 7 Rally, Bitcoin Rebounds: What's Driving Markets Thursday?",
+    "published": 1712235060,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston (NYSE:LW) Misses Q1 Revenue Estimates, Stock Drops 11.9%",
+    "published": 1712234390,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Reports Fiscal Third Quarter 2024 Results; Updates Fiscal Year 2024 Outlook",
+    "published": 1712233800,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston slides after operations were negatively impacted by the ERP transition",
+    "published": 1712233380,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Why STAAR Surgical Shares Are Trading Higher By Around 13%? Here Are Other Stocks Moving In Thursday's Mid-Day Session",
+    "published": 1712233320,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "BRNS, UPC and KWE among mid-day movers",
+    "published": 1712232720,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "LW Stock Earnings: Lamb Weston Hldgs Misses EPS, Misses Revenue for Q3 2024",
+    "published": 1712231760,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712228760,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Dow, Nasdaq Up Triple Digits As Bond Yields Cool",
+    "published": 1712228700,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston falls -20.1%",
+    "published": 1712228460,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Relative Strength Alert For Lamb Weston Holdings",
+    "published": 1712226720,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Reports Weak Earnings, Joins Paragon 28, Resources Connection And Other Big Stocks Moving Lower On Thursday",
+    "published": 1712224080,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Video: S&P 500 Movers: LW, CAG",
+    "published": 1712222460,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston\u2019s stock drops sharply on earnings miss, reduced outlook on system change",
+    "published": 1712221920,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston falls -14.4%",
+    "published": 1712221260,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston falls -11.8%",
+    "published": 1712220420,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston: Fiscal Q3 Earnings Snapshot",
+    "published": 1712219887,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Fly Intel: Pre-Market Movers",
+    "published": 1712218860,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "4 stocks to watch on Thursday: LW, F and more",
+    "published": 1712218680,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Holdings: A Strong Buy for the Long-Term Investor Despite Current Challenges",
+    "published": 1712218560,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Holdings: A Buy Rating Despite Short-Term Setbacks",
+    "published": 1712218560,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Non-GAAP EPS of $1.20 misses by $0.25, revenue of $1.46B misses by $190M",
+    "published": 1712217960,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston sees FY24 adjusted EPS $5.50-$5.65, consensus $6.01",
+    "published": 1712216040,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston reports Q3 adjusted EPS $1.20, consensus $1.45",
+    "published": 1712215920,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Holdings: A Strong Buy on Temporary Setbacks and Promising FY25 Outlook",
+    "published": 1712212560,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves Today, April 04, 2024",
+    "published": 1712210760,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Earnings Scheduled For April 4, 2024",
+    "published": 1712204520,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Simulations Plus Posts Upbeat, Joins Levi Strauss, BlackBerry And Other Big Stocks Moving Higher In Thursday's Pre-Market Session",
+    "published": 1712204520,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Stock market today: Wall Street edges toward record high ahead of Friday's jobs report",
+    "published": 1712201040,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "What You Missed On Wall Street On Thursday",
+    "published": 1712200740,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Investor Optimism Improves; But Dow Falls For Third Session",
+    "published": 1712199540,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston leads losses among S&P 500 stocks in its largest one-day drop ever on earnings miss",
+    "published": 1712199480,
+    "posting_price": 86.67789649,
+    "close_price": 79.82434082,
+    "percent_change": -7.90692431
+  },
+  {
+    "title": "Lamb Weston Q3 2024 Earnings Preview",
+    "published": 1712148900,
+    "posting_price": 101.08014467,
+    "close_price": 99.00450134,
+    "percent_change": -2.05346296
+  },
+  {
+    "title": "Noteworthy Wednesday Option Activity: LW, DIS, AVGO",
+    "published": 1712146560,
+    "posting_price": 101.08014467,
+    "close_price": 99.00450134,
+    "percent_change": -2.05346296
+  },
+  {
+    "title": "Notable earnings before Thursday's open",
+    "published": 1712136120,
+    "posting_price": 101.08014467,
+    "close_price": 99.00450134,
+    "percent_change": -2.05346296
+  },
+  {
+    "title": "Lamb Weston (LW) To Report Earnings Tomorrow: Here Is What To Expect",
+    "published": 1712127657,
+    "posting_price": 101.08014467,
+    "close_price": 99.00450134,
+    "percent_change": -2.05346296
+  },
+  {
+    "title": "Lamb Weston Holdings Inc. stock underperforms Wednesday when compared to competitors",
+    "published": 1712118120,
+    "posting_price": 101.08014467,
+    "close_price": 99.00450134,
+    "percent_change": -2.05346296
+  },
+  {
+    "title": "Top buy-rated stocks in consumer staples - Citi",
+    "published": 1712108040,
+    "posting_price": 101.08014467,
+    "close_price": 99.00450134,
+    "percent_change": -2.05346296
+  },
+  {
+    "title": "Lamb Weston (LW) Readies for Q3 Earnings: What to Expect?",
+    "published": 1712061600,
+    "posting_price": 102.64667995,
+    "close_price": 101.63822937,
+    "percent_change": -0.98244832
+  },
+  {
+    "title": "Top 20 S&P 500 stocks by hedge fund net exposure - BofA",
+    "published": 1711966320,
+    "posting_price": 101.40323946,
+    "close_price": 102.78374481,
+    "percent_change": 1.36140163
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 01 \u2013 April 05, 2024",
+    "published": 1711951260,
+    "posting_price": 101.40323946,
+    "close_price": 102.78374481,
+    "percent_change": 1.36140163
   }
 ]

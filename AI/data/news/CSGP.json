@@ -1,50 +1,274 @@
 [
   {
     "title": "Wix.com (WIX) Down 17% Since Last Earnings Report: Can It Rebound?",
-    "published": 1742571034
+    "published": 1742571034,
+    "posting_price": 78.51999664,
+    "close_price": 78.45999908,
+    "percent_change": -0.07641055
   },
   {
     "title": "Australia's Domain's largest shareholder in talks to sell stake in $1.7 billion takeover",
-    "published": 1742507568
+    "published": 1742507568,
+    "posting_price": 78.69000244,
+    "close_price": 79.01999664,
+    "percent_change": 0.41935975
   },
   {
     "title": "Why Is CoStar (CSGP) Up 0.2% Since Last Earnings Report?",
-    "published": 1742484629
+    "published": 1742484629,
+    "posting_price": 78.69000244,
+    "close_price": 79.01999664,
+    "percent_change": 0.41935975
   },
   {
     "title": "CoStar Group (NASDAQ:CSGP) shareholders have earned a 9.9% CAGR over the last three years",
-    "published": 1741796942
+    "published": 1741796942,
+    "posting_price": 76.91999817,
+    "close_price": 76.86000061,
+    "percent_change": -0.07799995
   },
   {
     "title": "Polen Focus Growth Strategy Initiated a Position in CoStar Group (CSGP). Here\u2019s Why",
-    "published": 1741270324
+    "published": 1741270324,
+    "posting_price": 77.05999756,
+    "close_price": 76.86000061,
+    "percent_change": -0.25953407
   },
   {
     "title": "Artisan Mid Cap Fund Exited CoStar Group (CSGP) Due to Underwhelming Growth Potential",
-    "published": 1741181750
+    "published": 1741181750,
+    "posting_price": 75.22000122,
+    "close_price": 77.80999756,
+    "percent_change": 3.44322826
   },
   {
     "title": "Hotel occupancy falls in the US while room rates rise",
-    "published": 1741081719
+    "published": 1741081719,
+    "posting_price": 75.15000153,
+    "close_price": 75.58000183,
+    "percent_change": 0.57218934
   },
   {
     "title": "CoStar Targets Australia\u2019s Domain With $1.68 Billion Takeover Proposal",
-    "published": 1740101220
+    "published": 1740101220,
+    "posting_price": 78.33000183,
+    "close_price": 76.79000092,
+    "percent_change": -1.96604222
   },
   {
     "title": "US Exchange: 3 Stocks That May Be Trading Below Estimated Value",
-    "published": 1740045745
+    "published": 1740045745,
+    "posting_price": 79.20999908,
+    "close_price": 78.33000183,
+    "percent_change": -1.11096738
   },
   {
     "title": "Will CoStar's Earnings & Revenue Beat in Q4 Drive the Stock Price?",
-    "published": 1739985120
+    "published": 1739985120,
+    "posting_price": 72.83000183,
+    "close_price": 79.20999908,
+    "percent_change": 8.76012233
   },
   {
     "title": "CoStar (CSGP) Reports Q4 Earnings: What Key Metrics Have to Say",
-    "published": 1739919607
+    "published": 1739919607,
+    "posting_price": 74.36000061,
+    "close_price": 75.45999908,
+    "percent_change": 1.47928787
   },
   {
     "title": "CoStar Group (CSGP) Surpasses Q4 Earnings and Revenue Estimates",
-    "published": 1739917506
+    "published": 1739917506,
+    "posting_price": 74.36000061,
+    "close_price": 75.45999908,
+    "percent_change": 1.47928787
+  },
+  {
+    "title": "CoStar: Q4 Earnings Snapshot",
+    "published": 1739914742,
+    "posting_price": 74.36000061,
+    "close_price": 75.45999908,
+    "percent_change": 1.47928787
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 91.58000183,
+    "close_price": 87.52999878,
+    "percent_change": -4.4223662
+  },
+  {
+    "title": "Andvari Associates - CoStar Group: Making Homes.Com The Second Most Trafficked Home Buying Portal",
+    "published": 1713083400
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "CoStar Group price target raised by $10 at Jefferies, here's why",
+    "published": 1712907360,
+    "posting_price": 92.02999878,
+    "close_price": 90.33999634,
+    "percent_change": -1.83636039
+  },
+  {
+    "title": "Optimistic Outlook for CoStar Group Amidst US Residential Market Recovery and Anticipated Rate Cuts",
+    "published": 1712898420,
+    "posting_price": 92.02999878,
+    "close_price": 90.33999634,
+    "percent_change": -1.83636039
+  },
+  {
+    "title": "$1000 Invested In CoStar Gr 20 Years Ago Would Be Worth This Much Today",
+    "published": 1712891040,
+    "posting_price": 92.02999878,
+    "close_price": 90.33999634,
+    "percent_change": -1.83636039
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 91.13999939,
+    "close_price": 92.79000092,
+    "percent_change": 1.81040327
+  },
+  {
+    "title": "Parnassus Mid Cap Growth Fund's Strategic Exits and New Positions Highlight Q1 2024 Moves",
+    "published": 1712811480,
+    "posting_price": 91.13999939,
+    "close_price": 92.79000092,
+    "percent_change": 1.81040327
+  },
+  {
+    "title": "Jerome Dodson's Strategic Exits and New Positions Highlight Q1 2024 Moves",
+    "published": 1712808120,
+    "posting_price": 91.13999939,
+    "close_price": 92.79000092,
+    "percent_change": 1.81040327
+  },
+  {
+    "title": "CoStar Group (CSGP) Gets a Buy from KBW",
+    "published": 1712751900,
+    "posting_price": 92.63999939,
+    "close_price": 90.65000153,
+    "percent_change": -2.14809788
+  },
+  {
+    "title": "Beyond The Numbers: 13 Analysts Discuss CoStar Gr Stock",
+    "published": 1712746980,
+    "posting_price": 92.63999939,
+    "close_price": 90.65000153,
+    "percent_change": -2.14809788
+  },
+  {
+    "title": "Andvari Associates Q1 2024 Letter",
+    "published": 1712741100,
+    "posting_price": 92.63999939,
+    "close_price": 90.65000153,
+    "percent_change": -2.14809788
+  },
+  {
+    "title": "Analysts Offer Insights on Real Estate Companies: Healthpeak Properties (DOC) and CoStar Group (CSGP)",
+    "published": 1712728260,
+    "posting_price": 92.63999939,
+    "close_price": 90.65000153,
+    "percent_change": -2.14809788
+  },
+  {
+    "title": "Analysts Conflicted on These Real Estate Names: China Jinmao Holdings Group Limited (HK:0817), Essex Property (ESS) and CoStar Group (CSGP)",
+    "published": 1712721900,
+    "posting_price": 92.63999939,
+    "close_price": 90.65000153,
+    "percent_change": -2.14809788
+  },
+  {
+    "title": "Mohr Logistics Park Named 2024 \"Commercial Development of the Year\" CoStar Impact Award Winner",
+    "published": 1712593440,
+    "posting_price": 95.11000061,
+    "close_price": 94.22000122,
+    "percent_change": -0.93575795
+  },
+  {
+    "title": "Fly Intel: Top five weekend stock stories",
+    "published": 1712473620
+  },
+  {
+    "title": "Zillow, Redfin to weather storm as real estate commissions fall, Barron's says",
+    "published": 1712470200
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "RBC says NAR ruling could be positive for CoStar's Homes.com",
+    "published": 1712318880,
+    "posting_price": 91.90000153,
+    "close_price": 94.75,
+    "percent_change": 3.10119524
+  },
+  {
+    "title": "Appeals court says DOJ can reopen antitrust probe into NAR, Bloomberg reports",
+    "published": 1712309640,
+    "posting_price": 91.90000153,
+    "close_price": 94.75,
+    "percent_change": 3.10119524
+  },
+  {
+    "title": "Apartments.com Publishes Multifamily Rent Report for First Quarter of 2024",
+    "published": 1712235600,
+    "posting_price": 94.44000244,
+    "close_price": 91.80999756,
+    "percent_change": -2.78484203
+  },
+  {
+    "title": "CoStar Group, Inc.'s (NASDAQ:CSGP) Stock Has Seen Strong Momentum: Does That Call For Deeper Study Of Its Financial Prospects?",
+    "published": 1712229787,
+    "posting_price": 94.44000244,
+    "close_price": 91.80999756,
+    "percent_change": -2.78484203
+  },
+  {
+    "title": "From $50 to $50,000: 3 Stocks Under $100 That Could Skyrocket Your Wealth by 2026",
+    "published": 1712145600,
+    "posting_price": 93.19000244,
+    "close_price": 93.37000275,
+    "percent_change": 0.1931541
+  },
+  {
+    "title": "Real Estate Commissions Are Going to Fall. These Stocks Can Weather the Storm.",
+    "published": 1712120400,
+    "posting_price": 93.19000244,
+    "close_price": 93.37000275,
+    "percent_change": 0.1931541
+  },
+  {
+    "title": "Why Marriott, Hilton and Hyatt Don\u2019t Own Nearly 99% of Their Hotels",
+    "published": 1712116800,
+    "posting_price": 93.19000244,
+    "close_price": 93.37000275,
+    "percent_change": 0.1931541
+  },
+  {
+    "title": "Buy vs. Sell ideas paired within each sector - Oppenheimer",
+    "published": 1712025420,
+    "posting_price": 94.43000031,
+    "close_price": 93.16999817,
+    "percent_change": -1.33432398
+  },
+  {
+    "title": "CoStar Group to Report Financial Results for First Quarter on April 23, 2024",
+    "published": 1712005500,
+    "posting_price": 96.98000336,
+    "close_price": 94.51999664,
+    "percent_change": -2.53661233
+  },
+  {
+    "title": "Here's How Much $1000 Invested In CoStar Gr 15 Years Ago Would Be Worth Today",
+    "published": 1711933380,
+    "posting_price": 96.98000336,
+    "close_price": 94.51999664,
+    "percent_change": -2.53661233
   }
 ]

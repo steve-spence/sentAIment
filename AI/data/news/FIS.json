@@ -1,58 +1,171 @@
 [
   {
     "title": "Worldpay ties up with Visa to offer Click to Pay in UK",
-    "published": 1742564154
+    "published": 1742564154,
+    "posting_price": 74.16000366,
+    "close_price": 73.34999847,
+    "percent_change": -1.09223995
   },
   {
     "title": "Fiserv, PayPal and FIS change up board members",
-    "published": 1742381940
+    "published": 1742381940,
+    "posting_price": 73.04000092,
+    "close_price": 74.33000183,
+    "percent_change": 1.76615675
   },
   {
     "title": "Digital payments to exceed $33.5 trillion by 2030: report",
-    "published": 1741947463
+    "published": 1741947463,
+    "posting_price": 69.80999756,
+    "close_price": 70.88999939,
+    "percent_change": 1.54705897
   },
   {
     "title": "Top Stock Reports for Mastercard, T-Mobile & Petroleo Brasileiro",
-    "published": 1741898460
+    "published": 1741898460,
+    "posting_price": 68.51999664,
+    "close_price": 69.75,
+    "percent_change": 1.79510131
   },
   {
     "title": "Here's Why Fidelity National Information Services (FIS) is a Strong Value Stock",
-    "published": 1741873208
+    "published": 1741873208,
+    "posting_price": 68.51999664,
+    "close_price": 69.75,
+    "percent_change": 1.79510131
   },
   {
     "title": "FIS to Present at Upcoming Conference",
-    "published": 1741809900
+    "published": 1741809900,
+    "posting_price": 68.19000244,
+    "close_price": 68.12000275,
+    "percent_change": -0.10265389
   },
   {
     "title": "5 Financial Transaction Stocks in Focus Despite High Tech Expenses",
-    "published": 1741785360
+    "published": 1741785360,
+    "posting_price": 68.19000244,
+    "close_price": 68.12000275,
+    "percent_change": -0.10265389
   },
   {
     "title": "Fidelity National Enhances Treasury Management With Treasury GPT",
-    "published": 1741709580
+    "published": 1741709580,
+    "posting_price": 70.80000305,
+    "close_price": 68.12000275,
+    "percent_change": -3.785311
   },
   {
     "title": "FIS Launches Treasury GPT, a Pioneering AI-based Product Support Tool for the Treasury Industry",
-    "published": 1741608000
+    "published": 1741608000,
+    "posting_price": 70.2037573,
+    "close_price": 70.86999512,
+    "percent_change": 0.94900593
   },
   {
     "title": "FIS Tops Global Core Banking Technology Providers Ranking",
-    "published": 1741179600
+    "published": 1741179600,
+    "posting_price": 69.51763987,
+    "close_price": 69.26904297,
+    "percent_change": -0.35760262
   },
   {
     "title": "FIS Earns Chartis Research Awards, Securing Top Rankings Across Trading and Asset Services",
-    "published": 1741006800
+    "published": 1741006800,
+    "posting_price": 71.00921744,
+    "close_price": 71.79477692,
+    "percent_change": 1.10627818
   },
   {
     "title": "NCR Voyix signs processing agreement with Worldpay",
-    "published": 1740745637
+    "published": 1740745637,
+    "posting_price": 69.00055422,
+    "close_price": 70.72084808,
+    "percent_change": 2.49315948
   },
   {
     "title": "NCR Voyix links with Worldpay, reports revenue drop",
-    "published": 1740741000
+    "published": 1740741000,
+    "posting_price": 69.00055422,
+    "close_price": 70.72084808,
+    "percent_change": 2.49315948
   },
   {
     "title": "NCR Voyix Corp (VYX) Q4 2024 Earnings Call Highlights: Navigating Revenue Challenges with ...",
-    "published": 1740726440
+    "published": 1740726440,
+    "posting_price": 69.00055422,
+    "close_price": 70.72084808,
+    "percent_change": 2.49315948
+  },
+  {
+    "title": "5 Financial Transaction Stocks to Watch Amid a Growing Digital Era",
+    "published": 1713191340,
+    "posting_price": 71.01577026,
+    "close_price": 69.39664459,
+    "percent_change": -2.27995228
+  },
+  {
+    "title": "Exane BNP Paribas Downgrades Fidelity National Information Services (FIS)",
+    "published": 1712872087,
+    "posting_price": 71.38864827,
+    "close_price": 70.80969238,
+    "percent_change": -0.81099153
+  },
+  {
+    "title": "May 31st Options Now Available For Fidelity National Information Services (FIS)",
+    "published": 1712830440,
+    "posting_price": 71.38864827,
+    "close_price": 70.80969238,
+    "percent_change": -0.81099153
+  },
+  {
+    "title": "Exane BNP Paribas gets more bearish on FIS, downgrades shares",
+    "published": 1712828760,
+    "posting_price": 71.38864827,
+    "close_price": 70.80969238,
+    "percent_change": -0.81099153
+  },
+  {
+    "title": "The Latest Analyst Ratings For Fidelity National Info",
+    "published": 1712800980,
+    "posting_price": 71.38864827,
+    "close_price": 70.80969238,
+    "percent_change": -0.81099153
+  },
+  {
+    "title": "Questor: This company has had a terrible five years \u2013 buy it now before the bounceback",
+    "published": 1712516400
+  },
+  {
+    "title": "Fidelity Information Services: Business Simplification Supports Further Upside",
+    "published": 1712381232
+  },
+  {
+    "title": "Brian T. Shea Exits Fidelity National Info Board",
+    "published": 1712288700,
+    "posting_price": 70.7900682,
+    "close_price": 71.0844574,
+    "percent_change": 0.41586229
+  },
+  {
+    "title": "Fiserv: Solid Business Model, But Lower Returns Ahead (Rating Downgrade)",
+    "published": 1712242692,
+    "posting_price": 71.92836151,
+    "close_price": 70.5545578,
+    "percent_change": -1.90996108
+  },
+  {
+    "title": "Interesting FIS Put And Call Options For May 24th",
+    "published": 1712225400,
+    "posting_price": 71.92836151,
+    "close_price": 70.5545578,
+    "percent_change": -1.90996108
+  },
+  {
+    "title": "Bank of America Securities Keeps Their Buy Rating on Fidelity National Info (FIS)",
+    "published": 1712047680,
+    "posting_price": 70.70175143,
+    "close_price": 72.32086945,
+    "percent_change": 2.29006777
   }
 ]

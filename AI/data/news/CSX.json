@@ -1,19 +1,31 @@
 [
   {
     "title": "Returns On Capital At CSX (NASDAQ:CSX) Have Hit The Brakes",
-    "published": 1742565617
+    "published": 1742565617,
+    "posting_price": 29.69000053,
+    "close_price": 29.56999969,
+    "percent_change": -0.40417931
   },
   {
     "title": "Union Pacific Inks Deal With National Conference of Firemen & Oilers",
-    "published": 1742497200
+    "published": 1742497200,
+    "posting_price": 29.89999962,
+    "close_price": 29.97999954,
+    "percent_change": 0.26755826
   },
   {
     "title": "CSX Corp. Announces Date for First Quarter Earnings Release and Earnings Call",
-    "published": 1742392800
+    "published": 1742392800,
+    "posting_price": 30.20999908,
+    "close_price": 30.06999969,
+    "percent_change": -0.4634207
   },
   {
     "title": "3 Reasons to Avoid CSX and 1 Stock to Buy Instead",
-    "published": 1742202416
+    "published": 1742202416,
+    "posting_price": 29.98999977,
+    "close_price": 30.32999992,
+    "percent_change": 1.13371175
   },
   {
     "title": "A Closer Look At CSX Corporation's (NASDAQ:CSX) Impressive ROE",
@@ -25,30 +37,295 @@
   },
   {
     "title": "Here's Why Investors Should Give CSX Corp Stock a Miss for Now",
-    "published": 1741291200
+    "published": 1741291200,
+    "posting_price": 30.95000076,
+    "close_price": 30.93000031,
+    "percent_change": -0.06462181
   },
   {
     "title": "CSX Chief Financial Officer to Address JP Morgan Industrials Conference",
-    "published": 1741186800
+    "published": 1741186800,
+    "posting_price": 31.05999947,
+    "close_price": 30.92000008,
+    "percent_change": -0.45073855
   },
   {
     "title": "Machinists union ratifies CSX pact",
-    "published": 1741021125
+    "published": 1741021125,
+    "posting_price": 32.15000153,
+    "close_price": 31.93000031,
+    "percent_change": -0.68429614
   },
   {
     "title": "New Strong Sell Stocks for March 3rd",
-    "published": 1741002600
+    "published": 1741002600,
+    "posting_price": 32.15000153,
+    "close_price": 31.93000031,
+    "percent_change": -0.68429614
   },
   {
     "title": "Is There An Opportunity With CSX Corporation's (NASDAQ:CSX) 21% Undervaluation?",
-    "published": 1740657622
+    "published": 1740657622,
+    "posting_price": 31.69077216,
+    "close_price": 31.87999916,
+    "percent_change": 0.59710442
   },
   {
     "title": "New Strong Sell Stocks for February 14th",
-    "published": 1739528220
+    "published": 1739528220,
+    "posting_price": 33.1149626,
+    "close_price": 33.23447418,
+    "percent_change": 0.36089903
   },
   {
-    "title": "CSX Rewards Shareholders With a Dividend Increase of 8.3%",
-    "published": 1739456700
+    "title": "CSX Adds Fourteen Rail Served Properties Across Eight States to Select Site Program",
+    "published": 1713205800,
+    "posting_price": 35.19568615,
+    "close_price": 34.63389587,
+    "percent_change": -1.59619073
+  },
+  {
+    "title": "3 Stocks That Will Be Hit Hardest by the 2024 Baltimore Bridge Disaster",
+    "published": 1713204610,
+    "posting_price": 35.19568615,
+    "close_price": 34.63389587,
+    "percent_change": -1.59619073
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights Canadian National Railway, Canadian Pacific Kansas City and CSX",
+    "published": 1713188280,
+    "posting_price": 35.19568615,
+    "close_price": 34.63389587,
+    "percent_change": -1.59619073
+  },
+  {
+    "title": "Bernstein Reaffirms Their Hold Rating on CSX (CSX)",
+    "published": 1713185760,
+    "posting_price": 35.19568615,
+    "close_price": 34.63389587,
+    "percent_change": -1.59619073
+  },
+  {
+    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
+    "published": 1713178620,
+    "posting_price": 35.19568615,
+    "close_price": 34.63389587,
+    "percent_change": -1.59619073
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
+    "published": 1713160860,
+    "posting_price": 35.19568615,
+    "close_price": 34.63389587,
+    "percent_change": -1.59619073
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1713081061
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "Boeing weighs on large-cap industrials in turbulent week",
+    "published": 1713067380
+  },
+  {
+    "title": "The stock market is testing the bulls to see if they have what it takes",
+    "published": 1713011580
+  },
+  {
+    "title": "3 Railroad Stocks to Watch From the Challenging Industry",
+    "published": 1712937600,
+    "posting_price": 34.65360489,
+    "close_price": 34.83101273,
+    "percent_change": 0.51194628
+  },
+  {
+    "title": "Global company events calendar",
+    "published": 1712918340,
+    "posting_price": 34.65360489,
+    "close_price": 34.83101273,
+    "percent_change": 0.51194628
+  },
+  {
+    "title": "Ancora\u2019s Proposed Management Team and Director Candidates to Participate in Fireside Chat with Deutsche Bank on the Value Creation Opportunity at Norfolk Southern",
+    "published": 1712908800,
+    "posting_price": 34.65360489,
+    "close_price": 34.83101273,
+    "percent_change": 0.51194628
+  },
+  {
+    "title": "CSX price target raised by $2 at Stifel, here's why",
+    "published": 1712905380,
+    "posting_price": 34.65360489,
+    "close_price": 34.83101273,
+    "percent_change": 0.51194628
+  },
+  {
+    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
+    "published": 1712887200,
+    "posting_price": 34.65360489,
+    "close_price": 34.83101273,
+    "percent_change": 0.51194628
+  },
+  {
+    "title": "CSX's Dividend Payouts Boost Prospects Amid Cost Concerns",
+    "published": 1712841300,
+    "posting_price": 34.85072817,
+    "close_price": 34.9197197,
+    "percent_change": 0.19796295
+  },
+  {
+    "title": "Interesting CSX Put And Call Options For May 31st",
+    "published": 1712832780,
+    "posting_price": 34.85072817,
+    "close_price": 34.9197197,
+    "percent_change": 0.19796295
+  },
+  {
+    "title": "CSX (CSX) Gets a Buy from Benchmark Co.",
+    "published": 1712805360,
+    "posting_price": 34.85072817,
+    "close_price": 34.9197197,
+    "percent_change": 0.19796295
+  },
+  {
+    "title": "Norfolk Southern\u2019s revenue will take a Baltimore bridge hit. This is what it means for CSX.",
+    "published": 1712739120,
+    "posting_price": 35.02813023,
+    "close_price": 34.90000153,
+    "percent_change": -0.36578801
+  },
+  {
+    "title": "Coal Exports Estimated to Drop 6% Due to Baltimore Bridge Collapse",
+    "published": 1712685602,
+    "posting_price": 35.48150339,
+    "close_price": 35.43222427,
+    "percent_change": -0.13888679
+  },
+  {
+    "title": "Norfolk Southern reaches agreement to settle East Palestine derailment class action",
+    "published": 1712654400,
+    "posting_price": 35.48150339,
+    "close_price": 35.43222427,
+    "percent_change": -0.13888679
+  },
+  {
+    "title": "CSX price target raised by $1 at BofA, here's why",
+    "published": 1712633580,
+    "posting_price": 35.48150339,
+    "close_price": 35.43222427,
+    "percent_change": -0.13888679
+  },
+  {
+    "title": "CleanSpace Holdings Seeks New ASX Quotation",
+    "published": 1712630280,
+    "posting_price": 35.48150339,
+    "close_price": 35.43222427,
+    "percent_change": -0.13888679
+  },
+  {
+    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
+    "published": 1712565900,
+    "posting_price": 35.6096342,
+    "close_price": 35.53078461,
+    "percent_change": -0.22142769
+  },
+  {
+    "title": "Canadian Pacific and Norfolk Southern are the top rail transportation stocks at Jefferies",
+    "published": 1712559120,
+    "posting_price": 35.6096342,
+    "close_price": 35.53078461,
+    "percent_change": -0.22142769
+  },
+  {
+    "title": "CSX initiated with neutral view at Jefferies, here's why",
+    "published": 1712548140,
+    "posting_price": 35.6096342,
+    "close_price": 35.53078461,
+    "percent_change": -0.22142769
+  },
+  {
+    "title": "13 Best Cheap Dividend Stocks To Buy Right Now",
+    "published": 1712444460
+  },
+  {
+    "title": "(CSX) - Analyzing CSX's Short Interest",
+    "published": 1712317560,
+    "posting_price": 35.75747113,
+    "close_price": 35.77718353,
+    "percent_change": 0.05512806
+  },
+  {
+    "title": "CleanSpace Holdings Issues New Employee Shares",
+    "published": 1712281680,
+    "posting_price": 35.75747113,
+    "close_price": 35.77718353,
+    "percent_change": 0.05512806
+  },
+  {
+    "title": "CleanSpace Holdings Seeks ASX Quotation",
+    "published": 1712281680,
+    "posting_price": 35.75747113,
+    "close_price": 35.77718353,
+    "percent_change": 0.05512806
+  },
+  {
+    "title": "CSX May 24th Options Begin Trading",
+    "published": 1712223780,
+    "posting_price": 36.09257206,
+    "close_price": 35.59977341,
+    "percent_change": -1.36537415
+  },
+  {
+    "title": "North American rail traffic up 1.8% for the week ending March 30",
+    "published": 1712148240,
+    "posting_price": 35.98415832,
+    "close_price": 35.89545441,
+    "percent_change": -0.24650823
+  },
+  {
+    "title": "Analysts\u2019 Opinions Are Mixed on These Industrial Goods Stocks: CSX (CSX), AeroVironment (AVAV) and Cargotec (OtherCYJBF)",
+    "published": 1712134260,
+    "posting_price": 35.98415832,
+    "close_price": 35.89545441,
+    "percent_change": -0.24650823
+  },
+  {
+    "title": "U.S. weekly rail traffic falls 3.2% year-over-year",
+    "published": 1712112480,
+    "posting_price": 35.98415832,
+    "close_price": 35.89545441,
+    "percent_change": -0.24650823
+  },
+  {
+    "title": "This railroad operator is most impacted by the Baltimore bridge collapse",
+    "published": 1712058420,
+    "posting_price": 36.18128162,
+    "close_price": 35.98416138,
+    "percent_change": -0.54481276
+  },
+  {
+    "title": "Norfolk Southern calls on shareholders to reject activist investor\u2019s takeover bid",
+    "published": 1712052360,
+    "posting_price": 36.18128162,
+    "close_price": 35.98416138,
+    "percent_change": -0.54481276
+  },
+  {
+    "title": "CSX starts new freight rail route to avoid Baltimore port closure, CNBC reports",
+    "published": 1711981602,
+    "posting_price": 36.44739107,
+    "close_price": 36.25027084,
+    "percent_change": -0.54083495
+  },
+  {
+    "title": "CSX adds new rail service as Port of Baltimore workarounds continue to develop",
+    "published": 1711938900,
+    "posting_price": 36.44739107,
+    "close_price": 36.25027084,
+    "percent_change": -0.54083495
   }
 ]

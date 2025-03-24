@@ -1,35 +1,59 @@
 [
   {
     "title": "3 Services Stocks Walking a Fine Line",
-    "published": 1742562192
+    "published": 1742562192,
+    "posting_price": 28.23999977,
+    "close_price": 28.68000031,
+    "percent_change": 1.55807558
   },
   {
     "title": "HP (NYSE:HPQ) Unveils AI-Powered PCs And Print Tools To Transform Work And Gaming Experiences",
-    "published": 1742405081
+    "published": 1742405081,
+    "posting_price": 28.79999924,
+    "close_price": 28.76000023,
+    "percent_change": -0.13888546
   },
   {
     "title": "Shaping the Future of Work: HP Amplify 2025",
-    "published": 1742313600
+    "published": 1742313600,
+    "posting_price": 28.76000023,
+    "close_price": 28.70000076,
+    "percent_change": -0.20862124
   },
   {
     "title": "1 Mid-Cap Stock to Own for Decades and 2 to Brush Off",
-    "published": 1742302976
+    "published": 1742302976,
+    "posting_price": 28.76000023,
+    "close_price": 28.70000076,
+    "percent_change": -0.20862124
   },
   {
     "title": "Why HP, Morgan Stanley, And Brookfield Infrastructure Partners Are Winners For Passive Income",
-    "published": 1741790722
+    "published": 1741790722,
+    "posting_price": 28.51000023,
+    "close_price": 28.46999931,
+    "percent_change": -0.14030487
   },
   {
     "title": "HPE stock crashes as CEO weighs in on job cuts, earnings miss, and DOGE",
-    "published": 1741383017
+    "published": 1741383017,
+    "posting_price": 29.52878164,
+    "close_price": 30.23161316,
+    "percent_change": 2.38015753
   },
   {
     "title": "HP (NYSE:HPQ) Sees 8% Drop In Stock Amid Q1 2025 Net Income Decline",
-    "published": 1741109298
+    "published": 1741109298,
+    "posting_price": 29.61787159,
+    "close_price": 28.99423409,
+    "percent_change": -2.10561214
   },
   {
     "title": "Unlocking HP (HPQ) International Revenues: Trends, Surprises, and Prospects",
-    "published": 1741011310
+    "published": 1741011310,
+    "posting_price": 30.76615918,
+    "close_price": 29.73666191,
+    "percent_change": -3.34620017
   },
   {
     "title": "How proposed U.S. tariffs could disrupt PC supply chain",
@@ -37,10 +61,167 @@
   },
   {
     "title": "More tech layoffs hit Bay Area as HP and Autodesk announce job cuts",
-    "published": 1740778843
+    "published": 1740778843,
+    "posting_price": 31.11262369,
+    "close_price": 30.55827904,
+    "percent_change": -1.78173546
   },
   {
-    "title": "Q1 2025 HP Inc Earnings Call",
-    "published": 1740764126
+    "title": "AI Surge Has Ended: All 7 AI Stock Categories Declined This Week",
+    "published": 1712985960
+  },
+  {
+    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
+    "published": 1712915280,
+    "posting_price": 28.01072749,
+    "close_price": 27.56626701,
+    "percent_change": -1.58675093
+  },
+  {
+    "title": "HP sued by Wex for trademark infringement over 'Wex' software",
+    "published": 1712846195,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "WEX Goes to Court: HP Sued for Alleged Trademark Misuse",
+    "published": 1712836860,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "Wex files trademark infringement lawsuit against HP Inc.",
+    "published": 1712830320,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "HP Inc.: Great Investment In Choppy Times (Rating Upgrade)",
+    "published": 1712829686,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "Examining Dell's AI Strategies",
+    "published": 1712822460,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "HPQ Fumed Silica Reactor Pilot Plant Design Reworked to Fast Track and De-Risk Commercial Plant Scale-Up",
+    "published": 1712820600,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "HPQ Silicon Advances Fumed Silica Commercialization",
+    "published": 1712819220,
+    "posting_price": 28.07836104,
+    "close_price": 28.24261856,
+    "percent_change": 0.58499682
+  },
+  {
+    "title": "Are You Looking for a High-Growth Dividend Stock?",
+    "published": 1712763907,
+    "posting_price": 28.50349875,
+    "close_price": 27.97207832,
+    "percent_change": -1.86440421
+  },
+  {
+    "title": "Buy 9 Sustainable Dividend Dogs Of Barron's Top 100",
+    "published": 1712740500,
+    "posting_price": 28.50349875,
+    "close_price": 27.97207832,
+    "percent_change": -1.86440421
+  },
+  {
+    "title": "'Don't sweat': Nvidia's recent slide is a 'refreshing noise,' BofA says",
+    "published": 1712731500,
+    "posting_price": 28.50349875,
+    "close_price": 27.97207832,
+    "percent_change": -1.86440421
+  },
+  {
+    "title": "HP Inc. stock outperforms competitors on strong trading day",
+    "published": 1712635440,
+    "posting_price": 28.44552506,
+    "close_price": 28.95762062,
+    "percent_change": 1.80026756
+  },
+  {
+    "title": "Apple, Lenovo top PC growth in Q1 as broader market rebounds",
+    "published": 1712574720,
+    "posting_price": 28.29093034,
+    "close_price": 28.31991577,
+    "percent_change": 0.10245485
+  },
+  {
+    "title": "R2 Semiconductor files patent case against Intel and its customers in France",
+    "published": 1712572920,
+    "posting_price": 28.29093034,
+    "close_price": 28.31991577,
+    "percent_change": 0.10245485
+  },
+  {
+    "title": "2 Stocks Warren Buffett Is Likely Kicking Out of Berkshire Hathaway's Portfolio, and 2 Time-Tested Stocks He Can't Stop Buying",
+    "published": 1712568060,
+    "posting_price": 28.29093034,
+    "close_price": 28.31991577,
+    "percent_change": 0.10245485
+  },
+  {
+    "title": "R2 Semiconductor Files New Patent Infringement Lawsuit Against Intel In France",
+    "published": 1712566800,
+    "posting_price": 28.29093034,
+    "close_price": 28.31991577,
+    "percent_change": 0.10245485
+  },
+  {
+    "title": "Rising PC Growth Doesn\u2019t Help Apple (NASDAQ:AAPL) in Trading",
+    "published": 1712547240,
+    "posting_price": 28.29093034,
+    "close_price": 28.31991577,
+    "percent_change": 0.10245485
+  },
+  {
+    "title": "HP (HPQ)'s Market Valuation: A Comprehensive Analysis of Its Fair Value",
+    "published": 1712301240,
+    "posting_price": 28.53248727,
+    "close_price": 28.12667465,
+    "percent_change": -1.42228266
+  },
+  {
+    "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds",
+    "published": 1712202309,
+    "posting_price": 29.03491739,
+    "close_price": 28.63876724,
+    "percent_change": -1.36439221
+  },
+  {
+    "title": "Top Companies for Social Responsibility",
+    "published": 1712152800,
+    "posting_price": 28.47451014,
+    "close_price": 28.6580925,
+    "percent_change": 0.64472526
+  },
+  {
+    "title": "You Would Have Over $670,000 If You Invested $15k In This Tech Stock 10 Years Ago",
+    "published": 1712138760,
+    "posting_price": 28.47451014,
+    "close_price": 28.6580925,
+    "percent_change": 0.64472526
+  },
+  {
+    "title": "Warren Buffett\u2019s Highest Yielding Stocks Are Perfect For Passive Income Fans",
+    "published": 1712042160,
+    "posting_price": 29.14120255,
+    "close_price": 28.56147003,
+    "percent_change": -1.9893912
   }
 ]

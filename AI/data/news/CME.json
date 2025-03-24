@@ -1,26 +1,333 @@
 [
   {
     "title": "CME Stock: How To Use A Bull Put Spread On This Thriving Company",
-    "published": 1742400697
+    "published": 1742400697,
+    "posting_price": 265.05999756,
+    "close_price": 265.47000122,
+    "percent_change": 0.15468334
   },
   {
     "title": "Here's How Much a $1000 Investment in CME Group Made 10 Years Ago Would Be Worth Today",
-    "published": 1742387402
+    "published": 1742387402,
+    "posting_price": 265.05999756,
+    "close_price": 265.47000122,
+    "percent_change": 0.15468334
   },
   {
     "title": "Solana CME Futures Fell Short of BTC and ETH Debuts, but There's a Catch",
-    "published": 1742327941
+    "published": 1742327941,
+    "posting_price": 263.70999146,
+    "close_price": 266.48999023,
+    "percent_change": 1.05418788
   },
   {
     "title": "Wall Street Goes All In on Great Crypto Comeback Fueled by Trump",
-    "published": 1741953600
+    "published": 1741953600,
+    "posting_price": 259.70001221,
+    "close_price": 258.67999268,
+    "percent_change": -0.39276838
   },
   {
     "title": "Here\u2019s What Weighed on CME Group\u2019s (CME) Valuation",
-    "published": 1741786878
+    "published": 1741786878,
+    "posting_price": 258.42999268,
+    "close_price": 256.72000122,
+    "percent_change": -0.6616846
   },
   {
     "title": "Made-in-U.S.A. Lumber Futures Are Coming to Wall Street",
-    "published": 1741641960
+    "published": 1741641960,
+    "posting_price": 254.82000732,
+    "close_price": 262.27999878,
+    "percent_change": 2.92755327
+  },
+  {
+    "title": "CME Group Metals Complex Reaches All-Time Daily Volume Record",
+    "published": 1713207900,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "CME Group: Appealing Business Characteristics That Could Benefit From Geopolitical Uncertainty",
+    "published": 1713178550,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "CME Group International Average Daily Volume Reached Quarterly Record of 7.4 Million Contracts in Q1 2024",
+    "published": 1713164400,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "Commodity Roundup: Israel-Iran conflict adds to gold's safe-haven appeal",
+    "published": 1713157380,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "CME Group reports Q1 international ADV 7.4M contracts",
+    "published": 1713154200,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "CME reports record Q1 international average daily volume of 7.4 mln contracts",
+    "published": 1713149340,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "GLOBAL BRIEFING: Middle East escalation hurts risk appetite",
+    "published": 1713141240,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "Stock market today: Asian shares track Wall Street slump triggered by strong US spending data",
+    "published": 1713140820,
+    "posting_price": 201.70397799,
+    "close_price": 197.10676575,
+    "percent_change": -2.27918769
+  },
+  {
+    "title": "CME bans Russian-origin aluminium after U.S., UK impose new sanctions",
+    "published": 1713119709
+  },
+  {
+    "title": "UPDATE 2-LME bans Russian-origin metal after UK, US impose new sanctions",
+    "published": 1713024774
+  },
+  {
+    "title": "US and Britain ban trading Russian metals on biggest world exchanges",
+    "published": 1712980320
+  },
+  {
+    "title": "The US and UK restrict the trade of Russian-origin metals",
+    "published": 1712945520,
+    "posting_price": 203.00383583,
+    "close_price": 200.23213196,
+    "percent_change": -1.36534557
+  },
+  {
+    "title": "Piper Sandler Sticks to Its Buy Rating for CME Group (CME)",
+    "published": 1712906880,
+    "posting_price": 203.00383583,
+    "close_price": 200.23213196,
+    "percent_change": -1.36534557
+  },
+  {
+    "title": "Here It Is! My 20-Stock 6-Figure Market-Beating Dividend Portfolio",
+    "published": 1712905200,
+    "posting_price": 203.00383583,
+    "close_price": 200.23213196,
+    "percent_change": -1.36534557
+  },
+  {
+    "title": "Canadian Metals Inc. Initiates Share Consolidation",
+    "published": 1712900280,
+    "posting_price": 203.00383583,
+    "close_price": 200.23213196,
+    "percent_change": -1.36534557
+  },
+  {
+    "title": "Stock market today: Asia stocks are mostly lower after Wall St rebound led by Big Tech",
+    "published": 1712803980,
+    "posting_price": 202.24878032,
+    "close_price": 203.35746765,
+    "percent_change": 0.54817998
+  },
+  {
+    "title": "Fed Suffers Setback in Inflation Fight. But It\u2019s Too Early to Talk Rate Hikes.",
+    "published": 1712770800,
+    "posting_price": 201.10189338,
+    "close_price": 202.62155151,
+    "percent_change": 0.75566575
+  },
+  {
+    "title": "Stock market today: Asian shares are mixed, taking hot US inflation data in stride",
+    "published": 1712718300,
+    "posting_price": 201.10189338,
+    "close_price": 202.62155151,
+    "percent_change": 0.75566575
+  },
+  {
+    "title": "CME Group Micro U.S. Treasury Futures Surpass 100,000 Contracts Traded",
+    "published": 1712683740,
+    "posting_price": 204.31322048,
+    "close_price": 200.49972534,
+    "percent_change": -1.86649456
+  },
+  {
+    "title": "CME Group price target raised by $3 at Morgan Stanley, here's why",
+    "published": 1712647920,
+    "posting_price": 204.31322048,
+    "close_price": 200.49972534,
+    "percent_change": -1.86649456
+  },
+  {
+    "title": "Stock market today: Asian markets are mixed after a slow day on Wall St ahead of US inflation update",
+    "published": 1712635800,
+    "posting_price": 204.31322048,
+    "close_price": 200.49972534,
+    "percent_change": -1.86649456
+  },
+  {
+    "title": "Record-Breaking Block Trade in SOFR Futures Elevates Treasury Market",
+    "published": 1712632740,
+    "posting_price": 204.31322048,
+    "close_price": 200.49972534,
+    "percent_change": -1.86649456
+  },
+  {
+    "title": "CME Group (CME) Gets a Hold from Barclays",
+    "published": 1712551860,
+    "posting_price": 201.70400423,
+    "close_price": 203.33836365,
+    "percent_change": 0.81027614
+  },
+  {
+    "title": "Stock market today: Asia stocks rise with market focus on signs of interest rate cut",
+    "published": 1712532300
+  },
+  {
+    "title": "Financials Up on Rate Bets -- Financials Roundup",
+    "published": 1712339152,
+    "posting_price": 202.01939782,
+    "close_price": 201.74223328,
+    "percent_change": -0.13719699
+  },
+  {
+    "title": "CME Group downgraded to Hold from Buy at Deutsche Bank (earlier)",
+    "published": 1712308920,
+    "posting_price": 202.01939782,
+    "close_price": 201.74223328,
+    "percent_change": -0.13719699
+  },
+  {
+    "title": "CME Group cut to Hold at Deutsche Bank on lower trading volume outlook",
+    "published": 1712308620,
+    "posting_price": 202.01939782,
+    "close_price": 201.74223328,
+    "percent_change": -0.13719699
+  },
+  {
+    "title": "SPDR ETF Report For Thursday, April 4",
+    "published": 1712217360,
+    "posting_price": 203.73977367,
+    "close_price": 202.82225037,
+    "percent_change": -0.45034079
+  },
+  {
+    "title": "CME Group Inc: Network effect",
+    "published": 1712205510,
+    "posting_price": 203.73977367,
+    "close_price": 202.82225037,
+    "percent_change": -0.45034079
+  },
+  {
+    "title": "Analysts Offer Insights on Financial Companies: Skyward Specialty Insurance Group, Inc. (SKWD) and CME Group (CME)",
+    "published": 1712148060,
+    "posting_price": 205.29768769,
+    "close_price": 202.65022278,
+    "percent_change": -1.28957366
+  },
+  {
+    "title": "Analyst Scoreboard: 4 Ratings For CME Gr",
+    "published": 1712116980,
+    "posting_price": 205.29768769,
+    "close_price": 202.65022278,
+    "percent_change": -1.28957366
+  },
+  {
+    "title": "Barclays Remains a Hold on CME Group (CME)",
+    "published": 1712113020,
+    "posting_price": 205.29768769,
+    "close_price": 202.65022278,
+    "percent_change": -1.28957366
+  },
+  {
+    "title": "US NYMEX natgas average daily futures, options volume rises in March",
+    "published": 1712068051,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "CME Group \u20acSTR Options to Launch on May 20",
+    "published": 1712067840,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "Lithium Trading Hits Record on CME as Funds Seize Budding Market",
+    "published": 1712065558,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "Farmer sentiment improves as interest rate expectations shift",
+    "published": 1712064600,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "Tullett Prebon launches battery metals trading desk",
+    "published": 1712061833,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "CME Group Reports March and Q1 2024 Market Statistics",
+    "published": 1712057400,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights NVIDIA, CME Group, Coinbase Global and BlackRock",
+    "published": 1712051160,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "CME Group ADV falls month-on-month in March",
+    "published": 1712042100,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "CME Group reached ADV of 24.3M contracts in March",
+    "published": 1712039520,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "Stock market today: Global stocks mixed after strong US factory data prompt Wall St retreat",
+    "published": 1712029320,
+    "posting_price": 202.6597411,
+    "close_price": 205.2976532,
+    "percent_change": 1.30164585
+  },
+  {
+    "title": "SPDR ETF Report For Monday, April 1",
+    "published": 1711967160,
+    "posting_price": 205.80422528,
+    "close_price": 202.64065552,
+    "percent_change": -1.53717435
   }
 ]

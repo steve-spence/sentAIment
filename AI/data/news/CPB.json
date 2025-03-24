@@ -1,51 +1,87 @@
 [
   {
     "title": "General Mills stock drops as a slowdown in snacking drives a lower outlook",
-    "published": 1742403075
+    "published": 1742403075,
+    "posting_price": 38.09999847,
+    "close_price": 38.5,
+    "percent_change": 1.04987282
   },
   {
     "title": "Analyst Recommends Campbell\u2019s (CPB) to Survivie Current Market Volatility",
-    "published": 1742321598
+    "published": 1742321598,
+    "posting_price": 39.04999924,
+    "close_price": 38.79999924,
+    "percent_change": -0.64020488
   },
   {
     "title": "Robinhood initiated, MongoDB downgraded: Wall Street\u2019s top analyst calls",
-    "published": 1741358484
+    "published": 1741358484,
+    "posting_price": 39.81000137,
+    "close_price": 41.81000137,
+    "percent_change": 5.02386318
   },
   {
     "title": "Campbell\u2019s downgrades 2025 sales and profit guidance",
-    "published": 1741261995
+    "published": 1741261995,
+    "posting_price": 39.00999832,
+    "close_price": 39.79000092,
+    "percent_change": 1.99949406
   },
   {
     "title": "Campbell's Second Quarter 2025 Earnings: Misses Expectations",
-    "published": 1741257112
+    "published": 1741257112,
+    "posting_price": 39.00999832,
+    "close_price": 39.79000092,
+    "percent_change": 1.99949406
   },
   {
     "title": "The Campbell`s Co (CPB) Q2 2025 Earnings Call Highlights: Navigating Challenges with Strategic ...",
-    "published": 1741244705
+    "published": 1741244705,
+    "posting_price": 39.00999832,
+    "close_price": 39.79000092,
+    "percent_change": 1.99949406
   },
   {
     "title": "US automakers, Huntington Ingalls, Campbell's: Market Minute",
-    "published": 1741199062
+    "published": 1741199062,
+    "posting_price": 38.36000061,
+    "close_price": 39.18000031,
+    "percent_change": 2.13764256
   },
   {
     "title": "Campbell's Tempers Fiscal 2025 Outlook After Second-Quarter Sales Miss",
-    "published": 1741186886
+    "published": 1741186886,
+    "posting_price": 38.36000061,
+    "close_price": 39.18000031,
+    "percent_change": 2.13764256
   },
   {
     "title": "The Campbell's Company shares slide after cutting guidance",
-    "published": 1741183664
+    "published": 1741183664,
+    "posting_price": 38.36000061,
+    "close_price": 39.18000031,
+    "percent_change": 2.13764256
   },
   {
     "title": "Campbell's Reports Second Quarter Fiscal 2025 Results",
-    "published": 1741176900
+    "published": 1741176900,
+    "posting_price": 38.36000061,
+    "close_price": 39.18000031,
+    "percent_change": 2.13764256
   },
   {
     "title": "Abercrombie earnings, ADP data, Trump address: What to Watch",
-    "published": 1741124700
+    "published": 1741124700,
+    "posting_price": 41.43000031,
+    "close_price": 40.33000183,
+    "percent_change": -2.65507717
   },
   {
     "title": "California BanCorp And 2 More High Growth Companies Insiders Favor",
-    "published": 1741107936
+    "published": 1741107936,
+    "posting_price": 41.43000031,
+    "close_price": 40.33000183,
+    "percent_change": -2.65507717
   },
   {
     "title": "The Campbell\u2019s Company (CPB): A Cheap Food Stock to Buy According to Hedge Funds",
@@ -53,30 +89,216 @@
   },
   {
     "title": "Stocks to watch this week: Broadcom, Costco, JD.com, Adidas and Greggs",
-    "published": 1740752396
+    "published": 1740752396,
+    "posting_price": 40.09999847,
+    "close_price": 40.06000137,
+    "percent_change": -0.0997434
   },
   {
     "title": "The Campbell\u2019s Company to Participate in a Fireside Chat at BofA Securities 2025 Consumer and Retail Conference on March 11",
-    "published": 1740691800
+    "published": 1740691800,
+    "posting_price": 39.93000031,
+    "close_price": 39.84999847,
+    "percent_change": -0.20035522
   },
   {
     "title": "The Campbell\u2019s Company Declares Quarterly Dividend",
-    "published": 1740607800
+    "published": 1740607800,
+    "posting_price": 41.20000076,
+    "close_price": 40.04000092,
+    "percent_change": -2.81553354
   },
   {
     "title": "Campbell Soup Focuses on Core Brands With Noosa Yogurt Sale",
-    "published": 1740479460
+    "published": 1740479460,
+    "posting_price": 41.29999924,
+    "close_price": 41.65999985,
+    "percent_change": 0.8716722
   },
   {
     "title": "Campbell\u2019s Completes Sale of noosa Business to Lakeview Farms",
-    "published": 1740432600
+    "published": 1740432600,
+    "posting_price": 40.59999847,
+    "close_price": 41.33000183,
+    "percent_change": 1.7980379
   },
   {
     "title": "The Campbell\u2019s Company to Report Second Quarter Fiscal 2025 Results on March 5, 2025",
-    "published": 1739971800
+    "published": 1739971800,
+    "posting_price": 38.18999863,
+    "close_price": 38.63999939,
+    "percent_change": 1.17832096
   },
   {
     "title": "Campbell\u2019s price target lowered to $40 from $47 at Stifel",
     "published": 1737807642
+  },
+  {
+    "title": "Paramount, Etsy, Albemarle among most shorted S&P 500 stocks in March",
+    "published": 1713183540,
+    "posting_price": 41.28319957,
+    "close_price": 41.62446213,
+    "percent_change": 0.82663787
+  },
+  {
+    "title": "Short interest for tobacco and personal care industries surge in March",
+    "published": 1713174120,
+    "posting_price": 41.28319957,
+    "close_price": 41.62446213,
+    "percent_change": 0.82663787
+  },
+  {
+    "title": "Campbell Soup : Our team\u2019s mealtime hints, hacks, and pantry staples",
+    "published": 1712941041,
+    "posting_price": 42.14123456,
+    "close_price": 41.25394821,
+    "percent_change": -2.1055063
+  },
+  {
+    "title": "Leftovers: Kettle pops into Korean pepper flavored chips | Cinnamon Toast Crunch brings waffles to cereal",
+    "published": 1712922120,
+    "posting_price": 42.14123456,
+    "close_price": 41.25394821,
+    "percent_change": -2.1055063
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 42.14123456,
+    "close_price": 41.25394821,
+    "percent_change": -2.1055063
+  },
+  {
+    "title": "Campbell Soup Co. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 42.14123456,
+    "close_price": 41.25394821,
+    "percent_change": -2.1055063
+  },
+  {
+    "title": "Wells Fargo Reaffirms Their Hold Rating on Campbell Soup (CPB)",
+    "published": 1712810100,
+    "posting_price": 42.80426509,
+    "close_price": 42.13148499,
+    "percent_change": -1.57175949
+  },
+  {
+    "title": "Celsius, Starbucks, McDonald's and e.l.f. Beauty stand out in a survey of teenagers",
+    "published": 1712653680,
+    "posting_price": 42.65800913,
+    "close_price": 43.34053802,
+    "percent_change": 1.60000174
+  },
+  {
+    "title": "Celsius, Starbucks, McDonald's and e.l.f Beauty stand out in survey of teenagers",
+    "published": 1712653320,
+    "posting_price": 42.65800913,
+    "close_price": 43.34053802,
+    "percent_change": 1.60000174
+  },
+  {
+    "title": "Analysts Offer Insights on Consumer Goods Companies: Campbell Soup (CPB) and Kimberly Clark (KMB)",
+    "published": 1712554980,
+    "posting_price": 42.03398238,
+    "close_price": 42.62875748,
+    "percent_change": 1.41498632
+  },
+  {
+    "title": "Campbell Soup Co. stock outperforms competitors on strong trading day",
+    "published": 1712549940,
+    "posting_price": 42.03398238,
+    "close_price": 42.62875748,
+    "percent_change": 1.41498632
+  },
+  {
+    "title": "3 Stocks to Buy Today to Benefit From the Total Solar Eclipse",
+    "published": 1712541660,
+    "posting_price": 42.03398238,
+    "close_price": 42.62875748,
+    "percent_change": 1.41498632
+  },
+  {
+    "title": "These household-name companies have bonds yielding more than 5%",
+    "published": 1712355480,
+    "posting_price": 42.69700574,
+    "close_price": 42.21923447,
+    "percent_change": -1.11898074
+  },
+  {
+    "title": "Campbell Soup (CPB) Showcases Resilience on Brand Strength",
+    "published": 1712331720,
+    "posting_price": 42.69700574,
+    "close_price": 42.21923447,
+    "percent_change": -1.11898074
+  },
+  {
+    "title": "Campbell (CPB) Up 4.6% Since Last Earnings Report: Can It Continue?",
+    "published": 1712331007,
+    "posting_price": 42.69700574,
+    "close_price": 42.21923447,
+    "percent_change": -1.11898074
+  },
+  {
+    "title": "Interesting CPB Put And Call Options For May 24th",
+    "published": 1712223360,
+    "posting_price": 42.12173476,
+    "close_price": 42.89201736,
+    "percent_change": 1.82870578
+  },
+  {
+    "title": "Unveiling Campbell Soup Co (CPB)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1712214780,
+    "posting_price": 42.12173476,
+    "close_price": 42.89201736,
+    "percent_change": 1.82870578
+  },
+  {
+    "title": "Campbell Soup Co. stock underperforms Wednesday when compared to competitors",
+    "published": 1712118120,
+    "posting_price": 42.75550764,
+    "close_price": 41.86822128,
+    "percent_change": -2.07525629
+  },
+  {
+    "title": "These are the most crowded longs within consumer staples - UBS",
+    "published": 1712115480,
+    "posting_price": 42.75550764,
+    "close_price": 41.86822128,
+    "percent_change": -2.07525629
+  },
+  {
+    "title": "Campbell Soup (CPB) Shares Cross Below 200 DMA",
+    "published": 1712113440,
+    "posting_price": 42.75550764,
+    "close_price": 41.86822128,
+    "percent_change": -2.07525629
+  },
+  {
+    "title": "Top buy-rated stocks in consumer staples - Citi",
+    "published": 1712108040,
+    "posting_price": 42.75550764,
+    "close_price": 41.86822128,
+    "percent_change": -2.07525629
+  },
+  {
+    "title": "Campbell Soup Co's Dividend Analysis",
+    "published": 1712055937,
+    "posting_price": 43.21158801,
+    "close_price": 42.95051956,
+    "percent_change": -0.60416305
+  },
+  {
+    "title": "Campbell Soup: A Vote Of Confidence For A Strong Record",
+    "published": 1712004367,
+    "posting_price": 43.02787223,
+    "close_price": 43.18257904,
+    "percent_change": 0.35955022
+  },
+  {
+    "title": "These are the most neglected stocks within each sector - BofA",
+    "published": 1711975560,
+    "posting_price": 43.02787223,
+    "close_price": 43.18257904,
+    "percent_change": 0.35955022
   }
 ]

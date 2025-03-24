@@ -1,39 +1,66 @@
 [
   {
     "title": "Walgreens (WBA) \u2013 \u201cIt\u2019s Over!\u201d Jim Cramer Says to Sell",
-    "published": 1742592304
+    "published": 1742592304,
+    "posting_price": 11.10999966,
+    "close_price": 11.10000038,
+    "percent_change": -0.09000252
   },
   {
-    "title": "Stocks to watch next week: GameStop, Lululemon, Kingfisher, Bellway and Fevertree",
-    "published": 1742563740
+    "title": "Stocks to watch this week: GameStop, Lululemon, Kingfisher, Bellway and Fevertree",
+    "published": 1742563740,
+    "posting_price": 11.10999966,
+    "close_price": 11.10000038,
+    "percent_change": -0.09000252
   },
   {
     "title": "Walgreens Boots Alliance (WBA) Expected to Beat Earnings Estimates: Should You Buy?",
-    "published": 1742479203
+    "published": 1742479203,
+    "posting_price": 11.15999985,
+    "close_price": 11.11999989,
+    "percent_change": -0.35842259
   },
   {
     "title": "3 Once-Promising Growth Stocks That Are Down 40% Since the 2020 Crash -- Can Any of Them Recover?",
-    "published": 1742471100
+    "published": 1742471100,
+    "posting_price": 11.15999985,
+    "close_price": 11.11999989,
+    "percent_change": -0.35842259
   },
   {
     "title": "Palantir Stock Falls. Why This Analyst Sees the Stock Dropping More Despite Booming Business.",
-    "published": 1742305380
+    "published": 1742305380,
+    "posting_price": 11.25,
+    "close_price": 11.17000008,
+    "percent_change": -0.7111104
   },
   {
     "title": "Walgreens Chair Pessina to boost stake after Sycamore seals takeover deal, FT reports",
-    "published": 1742274930
+    "published": 1742274930,
+    "posting_price": 11.25,
+    "close_price": 11.17000008,
+    "percent_change": -0.7111104
   },
   {
     "title": "Palantir Stock Surges 7% on New Deals with Walgreens and Heineken",
-    "published": 1741803971
+    "published": 1741803971,
+    "posting_price": 11.25,
+    "close_price": 11.19999981,
+    "percent_change": -0.44444613
   },
   {
     "title": "Palantir Stock Climbs as Walgreens and Heineken Revealed as New Clients",
-    "published": 1741791195
+    "published": 1741791195,
+    "posting_price": 11.25,
+    "close_price": 11.19999981,
+    "percent_change": -0.44444613
   },
   {
     "title": "Walgreens is heading down a risky path",
-    "published": 1741597253
+    "published": 1741597253,
+    "posting_price": 11.31000042,
+    "close_price": 11.27999973,
+    "percent_change": -0.26525808
   },
   {
     "title": "Inflation-Linked Bonds Rebound on Trump Tariffs: Credit Weekly",
@@ -41,26 +68,544 @@
   },
   {
     "title": "The Score: Toyota Motor, Walgreens Boots Alliance, Gap and More Stocks That Defined the Week",
-    "published": 1741386000
+    "published": 1741386000,
+    "posting_price": 11.38000011,
+    "close_price": 11.39000034,
+    "percent_change": 0.08787548
   },
   {
     "title": "These Stocks Moved the Most Today: Broadcom, HPE, Tesla, Gap, Walgreens, Costco, Intuitive Machines, BigBear.ai, and More",
-    "published": 1741383060
+    "published": 1741383060,
+    "posting_price": 11.38000011,
+    "close_price": 11.39000034,
+    "percent_change": 0.08787548
   },
   {
     "title": "The Dow swings wildly as Trump tariffs fuel the stock market's worst week in 2 years",
-    "published": 1741381500
+    "published": 1741381500,
+    "posting_price": 11.38000011,
+    "close_price": 11.39000034,
+    "percent_change": 0.08787548
   },
   {
     "title": "Nvidia, Broadcom, HPE, Walgreens, Costco: Stocks to watch today",
-    "published": 1741381500
+    "published": 1741381500,
+    "posting_price": 11.38000011,
+    "close_price": 11.39000034,
+    "percent_change": 0.08787548
   },
   {
     "title": "Walgreens to Be Taken Private in $10 Billion Buyout by Sycamore",
-    "published": 1741380654
+    "published": 1741380654,
+    "posting_price": 11.38000011,
+    "close_price": 11.39000034,
+    "percent_change": 0.08787548
   },
   {
-    "title": "Top Stock Movers Now: Hewlett Packard Enterprise, Costco, Walgreens, and More",
-    "published": 1741366488
+    "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the Nasdaq?",
+    "published": 1713182400,
+    "posting_price": 16.73420238,
+    "close_price": 16.50048447,
+    "percent_change": -1.39664804
+  },
+  {
+    "title": "Short interest for tobacco and personal care industries surge in March",
+    "published": 1713174120,
+    "posting_price": 16.73420238,
+    "close_price": 16.50048447,
+    "percent_change": -1.39664804
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Bausch Health Companies (BHC), Walgreens Boots Alliance (WBA) and Evolent Health (EVH)",
+    "published": 1713162060,
+    "posting_price": 16.73420238,
+    "close_price": 16.50048447,
+    "percent_change": -1.39664804
+  },
+  {
+    "title": "The stock market is testing the bulls to see if they have what it takes",
+    "published": 1713011580
+  },
+  {
+    "title": "AbbVie keeps Humira market share near 100% despite biosimilars: report",
+    "published": 1713002160
+  },
+  {
+    "title": "Underestimated Giants: 7 Stocks Set to Take Wall Street by Storm",
+    "published": 1712941095,
+    "posting_price": 16.77159662,
+    "close_price": 16.68745804,
+    "percent_change": -0.50167305
+  },
+  {
+    "title": "VillageMD faces lawsuit over online tracking technologies",
+    "published": 1712941019,
+    "posting_price": 16.77159662,
+    "close_price": 16.68745804,
+    "percent_change": -0.50167305
+  },
+  {
+    "title": "Walgreens Boots Alliance participates in a conference call with JPMorgan",
+    "published": 1712921640,
+    "posting_price": 16.77159662,
+    "close_price": 16.68745804,
+    "percent_change": -0.50167305
+  },
+  {
+    "title": "RSI Alert: Walgreens Boots Alliance Now Oversold",
+    "published": 1712918220,
+    "posting_price": 16.77159662,
+    "close_price": 16.68745804,
+    "percent_change": -0.50167305
+  },
+  {
+    "title": "Walgreens Boots Alliance Inc. stock outperforms competitors despite losses on the day",
+    "published": 1712895660,
+    "posting_price": 16.77159662,
+    "close_price": 16.68745804,
+    "percent_change": -0.50167305
+  },
+  {
+    "title": "Girl Power Portfolio: 3 High-Potential Stocks With Women CEOs to Buy Now",
+    "published": 1712884140,
+    "posting_price": 16.77159662,
+    "close_price": 16.68745804,
+    "percent_change": -0.50167305
+  },
+  {
+    "title": "Pfizer unit to settle Effexor XR antitrust claims in $39M deal",
+    "published": 1712830680,
+    "posting_price": 16.87443238,
+    "close_price": 16.90247917,
+    "percent_change": 0.16620879
+  },
+  {
+    "title": "VillageMD taps new COO amid clinic closures",
+    "published": 1712828051,
+    "posting_price": 16.87443238,
+    "close_price": 16.90247917,
+    "percent_change": 0.16620879
+  },
+  {
+    "title": "Behind the Scenes of Walgreens Boots Alliance's Latest Options Trends",
+    "published": 1712798580,
+    "posting_price": 16.87443238,
+    "close_price": 16.90247917,
+    "percent_change": 0.16620879
+  },
+  {
+    "title": "10 Underperforming Stocks Insiders are Buying",
+    "published": 1712781731,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "3 Reasons Walgreens Can See Upside (Rating Upgrade)",
+    "published": 1712761644,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "2 Beaten-Down Stocks That Haven't Been This Cheap in More Than 10 Years",
+    "published": 1712757180,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "Dividend Danger Zone: 3 Aristocrats on the Brink of a Payout Cut",
+    "published": 1712751180,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "This Is How Walgreens' New CEO Thinks the Company Can Beat Amazon",
+    "published": 1712749500,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "Amazon (NASDAQ:AMZN) Slips as Alexa Development Loses Incentive",
+    "published": 1712746980,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "CVS Health: Lookback, Management Guidance Vs. Results 2018-To-Date",
+    "published": 1712740363,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "Walgreens (NASDAQ:WBA): At 26-Year Lows, Is This Dividend Stock a Buy?",
+    "published": 1712727300,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "Is Walgreens Stock (NASDAQ:WBA) a Buy at 26-Year Lows?",
+    "published": 1712727120,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "Is Walgreens Stock (NASDAQ:WBA) Attractive at 26-Year Lows?",
+    "published": 1712727060,
+    "posting_price": 17.55688856,
+    "close_price": 16.84638596,
+    "percent_change": -4.04685943
+  },
+  {
+    "title": "5 Stocks to Buy as Interest Rates Begin to Fall",
+    "published": 1712691526,
+    "posting_price": 17.96823157,
+    "close_price": 17.93083763,
+    "percent_change": -0.20811141
+  },
+  {
+    "title": "Walgreens Boots Alliance\u2019s Integrated Approach to Medication Adherence",
+    "published": 1712673900,
+    "posting_price": 17.96823157,
+    "close_price": 17.93083763,
+    "percent_change": -0.20811141
+  },
+  {
+    "title": "Buy Rating Affirmed for Walgreens Amid Strategic Financial Restructuring and Management Optimism",
+    "published": 1712551800,
+    "posting_price": 17.94953561,
+    "close_price": 17.91213989,
+    "percent_change": -0.20833809
+  },
+  {
+    "title": "Walgreens Boots Alliance Inc. stock outperforms competitors on strong trading day",
+    "published": 1712549940,
+    "posting_price": 17.94953561,
+    "close_price": 17.91213989,
+    "percent_change": -0.20833809
+  },
+  {
+    "title": "Loss-making Walgreens Boots Alliance (NASDAQ:WBA) sheds a further US$2.2b, taking total shareholder losses to 59% over 3 years",
+    "published": 1712494547
+  },
+  {
+    "title": "Is Walgreens Boots Alliance's Dividend Still Safe?",
+    "published": 1712482500
+  },
+  {
+    "title": "Dollar Tree, Walgreens CFOs Snap Up the Stocks",
+    "published": 1712473200
+  },
+  {
+    "title": "Wall Street Breakfast: What Moved Markets",
+    "published": 1712387270
+  },
+  {
+    "title": "4 Dividend Aristocrats Signal Buy In April Plus 6 To Watch",
+    "published": 1712324215,
+    "posting_price": 17.58493184,
+    "close_price": 17.88409042,
+    "percent_change": 1.70122115
+  },
+  {
+    "title": "CVS Health's Zero-Cost Coverage Paves Way For OTC Birth Control Access",
+    "published": 1712318340,
+    "posting_price": 17.58493184,
+    "close_price": 17.88409042,
+    "percent_change": 1.70122115
+  },
+  {
+    "title": "Insiders Are Buying These 5 Stocks",
+    "published": 1712264640,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "Medical Properties Trust Q4: Wouldn't Touch This REIT With A 10-Foot Pole",
+    "published": 1712250000,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "Walgreens: New Management Team And Cost-Plus Model Are Exactly What The Doctor Prescribed",
+    "published": 1712237410,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "Walgreens Boots Alliance, Inc. (WBA) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1712235616,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "Is Walgreens Boots Alliance Stock Going to $35? 1 Wall Street Analyst Thinks So.",
+    "published": 1712234440,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "WBA May 24th Options Begin Trading",
+    "published": 1712225040,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights CVS Health, Walgreens Boots Alliance, Herbalife and Amazon",
+    "published": 1712224020,
+    "posting_price": 17.37926281,
+    "close_price": 17.74386215,
+    "percent_change": 2.09789877
+  },
+  {
+    "title": "The 3 Best Bargain Stocks to Buy in April 2024",
+    "published": 1712170800,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Walgreens Boots Alliance Stock Has 87% Upside, According to 1 Wall Street Analyst",
+    "published": 1712158440,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "2 Retail Pharmacy Stocks to Watch and One to Avoid Amid Industry Headwinds",
+    "published": 1712148720,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "5 Reasons to Buy Realty Income Stock Like There's No Tomorrow",
+    "published": 1712148300,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Video: Wednesday 4/3 Insider Buying Report: WBA, SPG",
+    "published": 1712137080,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Walgreens Boots Alliance price target lowered by $1 at Deutsche Bank, here's why",
+    "published": 1712132220,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Insiders Buying Walgreens And 2 Other Stocks",
+    "published": 1712127420,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Walgreens Boots Alliance price target lowered by $2 at TD Cowen, here's why",
+    "published": 1712125740,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "7 Stocks to Buy on the Brink of Becoming Dividend Royalty",
+    "published": 1712120520,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Walgreens Boots Alliance Inc. stock underperforms Wednesday when compared to competitors",
+    "published": 1712118120,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Top Buys by Directors: Wentworth's $242.2K Bet on WBA",
+    "published": 1712111700,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Walgreens disclosed $2.7B tax liability from IRS, says UBS",
+    "published": 1712111520,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Top Buys by Top Brass: Chief Executive Officer Wentworth's $242.2K Bet on WBA",
+    "published": 1712107020,
+    "posting_price": 17.52884195,
+    "close_price": 17.29512405,
+    "percent_change": -1.33333338
+  },
+  {
+    "title": "Walgreens Boots Alliance Advances Global Health Equity Through Collaborative Partnerships",
+    "published": 1712069100,
+    "posting_price": 18.27673871,
+    "close_price": 17.50079536,
+    "percent_change": -4.24552412
+  },
+  {
+    "title": "3 Retail Stocks Taking a Surpringly Big Hit From Self-Checkout Theft",
+    "published": 1712058300,
+    "posting_price": 18.27673871,
+    "close_price": 17.50079536,
+    "percent_change": -4.24552412
+  },
+  {
+    "title": "Insider Buying: EVP and Global CFO Manmohan Mahajan Acquires Shares of Walgreens Boots Alliance ...",
+    "published": 1712057460,
+    "posting_price": 18.27673871,
+    "close_price": 17.50079536,
+    "percent_change": -4.24552412
+  },
+  {
+    "title": "Walgreens Stock (NASDAQ:WBA): Tax Concerns Overblown, Says Analyst",
+    "published": 1712035560,
+    "posting_price": 18.27673871,
+    "close_price": 17.50079536,
+    "percent_change": -4.24552412
+  },
+  {
+    "title": "Buy Amazon Stock Now for Continued Growth and Diversification",
+    "published": 1712034420,
+    "posting_price": 18.27673871,
+    "close_price": 17.50079536,
+    "percent_change": -4.24552412
+  },
+  {
+    "title": "Walgreens Boots Alliance stock dips on analysts' concerns",
+    "published": 1712000863,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "The Bargain Hunter\u2019s Dream: 3 Underpriced Stocks Poised for Massive Gains",
+    "published": 1711995376,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "3 Dow Stocks to Sell in April Before They Crash & Burn",
+    "published": 1711991572,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Walgreens Boots Alliance, Inc. (NASDAQ:WBA) Q2 2024 Earnings Call Transcript",
+    "published": 1711989516,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "A Closer Look at Walgreens Boots Alliance's Options Market Dynamics",
+    "published": 1711971420,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Trump Media, CXApp, Micron Technology, Walgreens, Tesla: Why These 5 Stocks Are On Investors' Radars Today",
+    "published": 1711968780,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Video: Nasdaq 100 Movers: WBA, MU",
+    "published": 1711965480,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Walgreens Boots Alliance (WBA): A Smart Investment or a Value Trap? An In-Depth Exploration",
+    "published": 1711963920,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Company News for Apr 1, 2024",
+    "published": 1711963800,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Walgreens Post-Earnings: Jury's Still Out, Still A Lot Of Questions",
+    "published": 1711955400,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Truist Financial Sticks to Its Hold Rating for Walgreens Boots Alliance (WBA)",
+    "published": 1711952520,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "1 Reason to Buy Walgreens, 1 Reason to Sell, and a Better High-Yield Stock to Buy Either Way",
+    "published": 1711948260,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: OptimizeRx (OPRX), Walgreens Boots Alliance (WBA) and Kodiak Sciences (KOD)",
+    "published": 1711939260,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Investor Sentiment Edges Lower, US Stocks Record Gains Last Quarter",
+    "published": 1711939260,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Walgreens Boots Alliance (WBA) Shares Cross 5% Yield Mark",
+    "published": 1711937280,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
+  },
+  {
+    "title": "Why Nuvve Holding Shares Are Trading Lower By Around 30%? Here Are Other Stocks Moving In Monday's Mid-Day Session",
+    "published": 1711935120,
+    "posting_price": 20.16517934,
+    "close_price": 18.2673912,
+    "percent_change": -9.4112138
   }
 ]

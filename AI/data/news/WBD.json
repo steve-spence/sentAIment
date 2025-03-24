@@ -1,11 +1,17 @@
 [
   {
     "title": "'Netflix has won the streaming wars': MoffettNathanson upgrades stock to Buy with $1,100 price target",
-    "published": 1742228731
+    "published": 1742228731,
+    "posting_price": 10.19999981,
+    "close_price": 10.47999954,
+    "percent_change": 2.74509544
   },
   {
     "title": "Warner Bros. Discovery's (NASDAQ:WBD) Returns On Capital Not Reflecting Well On The Business",
-    "published": 1741864987
+    "published": 1741864987,
+    "posting_price": 10.35000038,
+    "close_price": 9.89000034,
+    "percent_change": -4.44444467
   },
   {
     "title": "Now Streaming: Judge may consider blocking Paramount-Skydance deal",
@@ -13,34 +19,606 @@
   },
   {
     "title": "Bundle of Disney+, Hulu and Max Has a Strong Hold on Viewers. It\u2019s Even Stickier Than Netflix.",
-    "published": 1740393000
+    "published": 1740393000,
+    "posting_price": 10.89999962,
+    "close_price": 11.09000015,
+    "percent_change": 1.74312419
   },
   {
     "title": "Stocks to watch this week: Berkshire Hathaway, Nvidia, Salesforce, IAG and Aston Martin",
-    "published": 1740150592
+    "published": 1740150592,
+    "posting_price": 11.17000008,
+    "close_price": 10.77999973,
+    "percent_change": -3.49149818
   },
   {
     "title": "Will Netflix and Amazon own all sports programming?",
-    "published": 1739527232
+    "published": 1739527232,
+    "posting_price": 10.31999969,
+    "close_price": 10.34000015,
+    "percent_change": 0.19380291
   },
   {
     "title": "Disney price hikes help fuel earnings growth as streaming business posts profit",
-    "published": 1738766491
+    "published": 1738766491,
+    "posting_price": 10.06999969,
+    "close_price": 10.18999958,
+    "percent_change": 1.19165734
   },
   {
     "title": "Disney Earnings Bolstered by Streaming Gains, \u2018Moana 2\u2019",
-    "published": 1738757220
+    "published": 1738757220,
+    "posting_price": 10.06999969,
+    "close_price": 10.18999958,
+    "percent_change": 1.19165734
   },
   {
     "title": "Fox plans to roll out its own streaming service by end of year",
-    "published": 1738686378
+    "published": 1738686378,
+    "posting_price": 10.14000034,
+    "close_price": 10.06000042,
+    "percent_change": -0.78895382
   },
   {
     "title": "Media consolidation under the Trump admin: Analyst shares outlook",
-    "published": 1738360367
+    "published": 1738360367,
+    "posting_price": 10.51000023,
+    "close_price": 10.43999958,
+    "percent_change": -0.66603852
   },
   {
     "title": "Warner Brothers Agrees to Co-Own Film and TV Music Catalog With Cutting Edge Group",
-    "published": 1738350600
+    "published": 1738350600,
+    "posting_price": 10.51000023,
+    "close_price": 10.43999958,
+    "percent_change": -0.66603852
+  },
+  {
+    "title": "Warner Bros. Discovery put volume heavy and directionally bearish",
+    "published": 1713185760,
+    "posting_price": 8.38000011,
+    "close_price": 8.35999966,
+    "percent_change": -0.23866885
+  },
+  {
+    "title": "Netflix: Leads By\u00a0Far Because Peers Still Don't Get It - Looking For A\u00a0Q1 Beat",
+    "published": 1713181072,
+    "posting_price": 8.38000011,
+    "close_price": 8.35999966,
+    "percent_change": -0.23866885
+  },
+  {
+    "title": "Decoding Netflix's Market Dominance (Rating Upgrade)",
+    "published": 1713179580,
+    "posting_price": 8.38000011,
+    "close_price": 8.35999966,
+    "percent_change": -0.23866885
+  },
+  {
+    "title": "Interesting WBD Put And Call Options For May 31st",
+    "published": 1713173820,
+    "posting_price": 8.38000011,
+    "close_price": 8.35999966,
+    "percent_change": -0.23866885
+  },
+  {
+    "title": "QQQ ETF Update, 4/15/2024\ufffd\ufffd\ufffd",
+    "published": 1713159000,
+    "posting_price": 8.38000011,
+    "close_price": 8.35999966,
+    "percent_change": -0.23866885
+  },
+  {
+    "title": "Netflix earnings on deck. It could be a lot harder to please investors this time around.",
+    "published": 1713090300
+  },
+  {
+    "title": "Box Office Battle: \u00e2\ufffd\ufffd\ufffd\ufffdCivil War\u00e2\ufffd\ufffd\ufffd\ufffd wins weekend with $25.7M debut",
+    "published": 1713066540
+  },
+  {
+    "title": "Provocative \u2018Civil War\u2019 declares victory at box office, with record opening for A24",
+    "published": 1713065280
+  },
+  {
+    "title": "Warner Bros. Discovery: Massive Free Cash Flow Is Overlooked",
+    "published": 1712983013
+  },
+  {
+    "title": "Underestimated Giants: 7 Stocks Set to Take Wall Street by Storm",
+    "published": 1712923380,
+    "posting_price": 8.43000031,
+    "close_price": 8.34000015,
+    "percent_change": -1.06761752
+  },
+  {
+    "title": "ClearBridge Aggressive Growth Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712906400,
+    "posting_price": 8.43000031,
+    "close_price": 8.34000015,
+    "percent_change": -1.06761752
+  },
+  {
+    "title": "SPY ETF Update, 4/12/2024",
+    "published": 1712896500,
+    "posting_price": 8.43000031,
+    "close_price": 8.34000015,
+    "percent_change": -1.06761752
+  },
+  {
+    "title": "QQQ ETF Update, 4/11/2024",
+    "published": 1712816580,
+    "posting_price": 8.36999989,
+    "close_price": 8.53999996,
+    "percent_change": 2.03106418
+  },
+  {
+    "title": "Dividend Danger Zone: 3 Aristocrats on the Brink of a Payout Cut",
+    "published": 1712751180,
+    "posting_price": 8.47999954,
+    "close_price": 8.31999969,
+    "percent_change": -1.88679079
+  },
+  {
+    "title": "SPY ETF Update, 4/10/2024",
+    "published": 1712727420,
+    "posting_price": 8.47999954,
+    "close_price": 8.31999969,
+    "percent_change": -1.88679079
+  },
+  {
+    "title": "Oakmark Equity And Income Fund: First Calendar Quarter 2024 Commentary",
+    "published": 1712724900,
+    "posting_price": 8.47999954,
+    "close_price": 8.31999969,
+    "percent_change": -1.88679079
+  },
+  {
+    "title": "Barclays Remains a Hold on Warner Bros (WBD)",
+    "published": 1712713740,
+    "posting_price": 8.47999954,
+    "close_price": 8.31999969,
+    "percent_change": -1.88679079
+  },
+  {
+    "title": "Warner Bros. Discovery: Why We're Buying Another 1000 Shares",
+    "published": 1712677818,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712660400,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "Paramount Faces a Mountain of Distrust",
+    "published": 1712656800,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "QQQ ETF Update, 4/9/2024",
+    "published": 1712639520,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "What You Missed On Wall Street On Tuesday",
+    "published": 1712632980,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "Warner Bros Discovery (NASDAQ:WBD) Gains as It Can Be Sold Today",
+    "published": 1712630880,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "Bill Nygren's Oakmark Fund 1st-Quarter Commentary: A Recap",
+    "published": 1712627820,
+    "posting_price": 8.52000046,
+    "close_price": 8.68999958,
+    "percent_change": 1.99529473
+  },
+  {
+    "title": "WARNER BROS. DISCOVERY TO REPORT FIRST-QUARTER 2024 RESULTS ON THURSDAY, MAY 9",
+    "published": 1712608200,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "YouTube TV challenged cable by doing one simple thing \u2014 imitating it",
+    "published": 1712590388,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "Warner Bros Discovery : Claimed Five Nights of More Than a 50 Percent Share of Primetime Cable Viewing Among Adults During First Quarter",
+    "published": 1712586489,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "Paramount Global's Sale Will Not Be Easy, Cheap, Or Fast",
+    "published": 1712577669,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "Fastly upgraded to Overweight as CDN business heats up: Piper Sandler",
+    "published": 1712565360,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "Fastly jumps as CDN business heats up, receives upgrade: Piper Sandler",
+    "published": 1712564640,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "SPY ETF Update, 4/8/2024",
+    "published": 1712554200,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "Seaport digital ad/media-tech analysts hold an analyst/industry conference call",
+    "published": 1712548500,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "52-Week High Danger Zone: 3 Stocks to Sell Before the Bubble Bursts",
+    "published": 1712545740,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "Warner Bros. Discovery to sell Rooster Teeth podcast network, Bloomberg says",
+    "published": 1712544120,
+    "posting_price": 8.31000042,
+    "close_price": 8.52000046,
+    "percent_change": 2.52707617
+  },
+  {
+    "title": "\u2018Godzilla X Kong\u2019 holds top box-office spot for 2nd weekend",
+    "published": 1712494200
+  },
+  {
+    "title": "Fly Intel: Top five weekend stock stories",
+    "published": 1712473620
+  },
+  {
+    "title": "Box Office Battle: \u00e2\ufffd\ufffd\ufffd\ufffdGodzilla x Kong: New Empire\u00e2\ufffd\ufffd\ufffd\ufffd wins weekend with $31.7M",
+    "published": 1712467920
+  },
+  {
+    "title": "\u2018Godzilla x Kong\u2019 maintains box-office dominance in second weekend",
+    "published": 1712465040
+  },
+  {
+    "title": "3 Contrarian Stocks Despite Wall Street\u2019s Cold Shoulder",
+    "published": 1712396040
+  },
+  {
+    "title": "Warner Bros. Discovery: Taking Advantage Of Mr. Market's Memory Lapses",
+    "published": 1712385252
+  },
+  {
+    "title": "Warner Bros. Discovery Stock Sinks As Market Gains: Here's Why",
+    "published": 1712373300
+  },
+  {
+    "title": "Amazon MGM partners with YouTuber MrBeast to stream 'Beast Games'",
+    "published": 1712352926,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "QQQ ETF Update, 4/5/2024",
+    "published": 1712321220,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "Paramount dips again as Skydance plan reportedly stops short of full takeover",
+    "published": 1712318760,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "Showcasing Seeking Alpha's March 2024 New Analysts",
+    "published": 1712316600,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "Cinemark rises, receives double upgrade as Wells Fargo declares 'Movies are back!'",
+    "published": 1712304540,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "Cutting Debt and Expanding Content Power Warner Bros. Discovery's Turnaround",
+    "published": 1712304060,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "Netflix gains as Pivotal sees 'continued' momentum; boosts PT to Wall Street high",
+    "published": 1712303220,
+    "posting_price": 8.39999962,
+    "close_price": 8.31999969,
+    "percent_change": -0.95238016
+  },
+  {
+    "title": "Disney's 'biggest issue' is industry wide: Analyst",
+    "published": 1712241396,
+    "posting_price": 8.72999954,
+    "close_price": 8.43999958,
+    "percent_change": -3.3218783
+  },
+  {
+    "title": "Fortnite, GTA 5 Dominate Gaming Landscape Despite Blockbuster Releases",
+    "published": 1712235420,
+    "posting_price": 8.72999954,
+    "close_price": 8.43999958,
+    "percent_change": -3.3218783
+  },
+  {
+    "title": "Looking Into Warner Bros. Discovery's Recent Short Interest",
+    "published": 1712224080,
+    "posting_price": 8.72999954,
+    "close_price": 8.43999958,
+    "percent_change": -3.3218783
+  },
+  {
+    "title": "Disney's Daring Comeback",
+    "published": 1712223026,
+    "posting_price": 8.72999954,
+    "close_price": 8.43999958,
+    "percent_change": -3.3218783
+  },
+  {
+    "title": "Wall Street Analysts Are Bullish on Top Communication Services Picks",
+    "published": 1712207100,
+    "posting_price": 8.72999954,
+    "close_price": 8.43999958,
+    "percent_change": -3.3218783
+  },
+  {
+    "title": "SPY ETF Update, 4/4/2024\ufffd\ufffd\ufffd",
+    "published": 1712194620,
+    "posting_price": 8.72999954,
+    "close_price": 8.43999958,
+    "percent_change": -3.3218783
+  },
+  {
+    "title": "Paramount enters exclusive merger talks with Skydance, WSJ says",
+    "published": 1712148600,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Anti-heroes rank high in most anticipated summer movies of 2024",
+    "published": 1712143500,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Netflix: Novelty In Content Drives Rich Reinvestment Cycles Of Growth",
+    "published": 1712143023,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Top 9 buy-rated stocks in communications - Citi",
+    "published": 1712138880,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "The Millionaire Makers: 7 Stealth Stocks for a 7-Figure Portfolio",
+    "published": 1712133060,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "QQQ ETF Update, 4/3/2024",
+    "published": 1712123160,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Redstone has deal to sell Paramount stake to Skydance: reports (updated)",
+    "published": 1712118600,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Redstone has deal to sell Paramount stake to Skydance: reports",
+    "published": 1712113500,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Redstone has deal to sell Paramount stake to Skydance: Bloomberg",
+    "published": 1712112120,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Paramount said to intensify talks with Skydance about merger: reports",
+    "published": 1712106000,
+    "posting_price": 8.52000046,
+    "close_price": 8.72999954,
+    "percent_change": 2.4647778
+  },
+  {
+    "title": "Disney And Warner Bros. Discovery: Key Questions For Management",
+    "published": 1712078966,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Taylor Swift and Travis Kelce earn Webby Award nominations, along with Sydney Sweeney, Ryan Gosling",
+    "published": 1712041320,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "SPY ETF Update, 4/2/2024",
+    "published": 1712039160,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Warner Bros. Discovery board members resigned amid antitrust probe, NYT reports",
+    "published": 1712034480,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Warner Bros. Discovery reports resignation of Miron, Newhouse from board",
+    "published": 1712034300,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "What\u2019s News: Business & Finance",
+    "published": 1712030460,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Warner Bros Discovery (NASDAQ:WBD) Dives amid Top Brass Shakeups",
+    "published": 1712027580,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Shareholders Quail at Warner Bros Discovery (NASDAQ:WBD) Top Brass Shakeups",
+    "published": 1712026740,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Two directors of Warner Bros resign over possible antitrust violation",
+    "published": 1712018700,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "GLOBAL BRIEFING: Stocks to edge lower; gold and oil push higher",
+    "published": 1712017920,
+    "posting_price": 8.57999992,
+    "close_price": 8.47999954,
+    "percent_change": -1.16550561
+  },
+  {
+    "title": "Two Members of Warner Bros. Discovery\u2019s Board Resign to Resolve Antitrust Concerns",
+    "published": 1712010480,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "Warner Bros Discovery : STEVEN A. MIRON AND STEVEN O. NEWHOUSE STEPPING DOWN FROM WARNER BROS. DISCOVERY\u2019S BOARD OF DIRECTORS",
+    "published": 1711989153,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "Warner Bros says two independent directors resign after DOJ investigation",
+    "published": 1711988865,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "Warner Bros Discovery : mdash;Driven by TNT Sports\u2019 Coverage of NCAA Men\u2019s March Madness\u2014Dominated Primetime Cable Viewing The Week of March 18 Delivering Its Highest Share Week of 2024",
+    "published": 1711976656,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "AppleTV+ A Streaming Winner? New Survey Shows Platform Has Smallest Library, Highest Rated Content",
+    "published": 1711963920,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "Underdogs to Champions: 3 Stocks Set for a Stunning Turnaround",
+    "published": 1711954920,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "Two Warner Bros. Discovery directors resign over antitrust concerns",
+    "published": 1711954680,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "QQQ ETF Update, 4/1/2024",
+    "published": 1711953660,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
+  },
+  {
+    "title": "Advance execs leave WBD board amid federal antitrust scrutiny",
+    "published": 1711941960,
+    "posting_price": 8.80000019,
+    "close_price": 8.78999996,
+    "percent_change": -0.11363897
   }
 ]

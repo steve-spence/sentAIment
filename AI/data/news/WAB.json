@@ -1,51 +1,87 @@
 [
   {
     "title": "Q4 Rundown: Wabash (NYSE:WNC) Vs Other Heavy Transportation Equipment Stocks",
-    "published": 1742548263
+    "published": 1742548263,
+    "posting_price": 184.05000305,
+    "close_price": 184.77999878,
+    "percent_change": 0.39662902
   },
   {
     "title": "2 Industrials Stocks on Our Watchlist and 1 to Turn Down",
-    "published": 1742475665
+    "published": 1742475665,
+    "posting_price": 183.57000732,
+    "close_price": 185.41000366,
+    "percent_change": 1.0023404
   },
   {
     "title": "Heavy Transportation Equipment Stocks Q4 Teardown: Trinity (NYSE:TRN) Vs The Rest",
-    "published": 1742461407
+    "published": 1742461407,
+    "posting_price": 183.57000732,
+    "close_price": 185.41000366,
+    "percent_change": 1.0023404
   },
   {
     "title": "Wabtec to Benefit From Dellner Couplers Buyout: Here's How",
-    "published": 1742410800
+    "published": 1742410800,
+    "posting_price": 182.11000061,
+    "close_price": 185.6000061,
+    "percent_change": 1.91642715
   },
   {
     "title": "Wabtec acquires Dellner Couplers for $960m",
-    "published": 1742405738
+    "published": 1742405738,
+    "posting_price": 182.11000061,
+    "close_price": 185.6000061,
+    "percent_change": 1.91642715
   },
   {
     "title": "2 Large-Cap Stocks on Our Buy List and 1 to Brush Off",
-    "published": 1742389306
+    "published": 1742389306,
+    "posting_price": 182.11000061,
+    "close_price": 185.6000061,
+    "percent_change": 1.91642715
   },
   {
     "title": "Heavy Transportation Equipment Stocks Q4 Results: Benchmarking Oshkosh (NYSE:OSK)",
-    "published": 1742375455
+    "published": 1742375455,
+    "posting_price": 182.11000061,
+    "close_price": 185.6000061,
+    "percent_change": 1.91642715
   },
   {
     "title": "Q4 Earnings Highlights: Cummins (NYSE:CMI) Vs The Rest Of The Heavy Transportation Equipment Stocks",
-    "published": 1742288864
+    "published": 1742288864,
+    "posting_price": 182.58000183,
+    "close_price": 181.75,
+    "percent_change": -0.45459624
   },
   {
     "title": "Heavy Transportation Equipment Stocks Q4 Teardown: Shyft (NASDAQ:SHYF) Vs The Rest",
-    "published": 1742202455
+    "published": 1742202455,
+    "posting_price": 178.72000122,
+    "close_price": 181.86999512,
+    "percent_change": 1.76253015
   },
   {
     "title": "Is Westinghouse Air Brake Technologies Corporation (WAB) The Best Railroad Stock To Buy Now?",
-    "published": 1741960697
+    "published": 1741960697,
+    "posting_price": 178.63000488,
+    "close_price": 178.69000244,
+    "percent_change": 0.03358762
   },
   {
     "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1741185912
+    "published": 1741185912,
+    "posting_price": 179.0,
+    "close_price": 179.88999939,
+    "percent_change": 0.49720636
   },
   {
     "title": "GBX or WAB: Which Is the Better Value Stock Right Now?",
-    "published": 1741020028
+    "published": 1741020028,
+    "posting_price": 187.1000061,
+    "close_price": 181.6499939,
+    "percent_change": -2.91288724
   },
   {
     "title": "Here's Why Westinghouse Air Brake Technologies (WAB) is a Strong Growth Stock",
@@ -54,5 +90,96 @@
   {
     "title": "Analysts Are Updating Their Westinghouse Air Brake Technologies Corporation (NYSE:WAB) Estimates After Its Full-Year Results",
     "published": 1739631072
+  },
+  {
+    "title": "Factors One Should Take Note of Ahead of CSX's Q1 Earnings",
+    "published": 1713195300,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "Wabtec, Siemens among final bidders for Alstom signaling unit, Bloomberg says",
+    "published": 1713184560,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "Wabtec price target raised by $6 at BofA, here's why",
+    "published": 1713169320,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "Siemens, Wabtec among bidders for Alstom's U.S. rail signaling unit - Bloomberg",
+    "published": 1713152820,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "What You Missed On Wall Street On Monday",
+    "published": 1713151440,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "The Analyst Landscape: 6 Takes On Westinghouse Air Brake",
+    "published": 1713150240,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "Wabtec price target raised by $19 at Morgan Stanley, here's why",
+    "published": 1713145500,
+    "posting_price": 147.8434172,
+    "close_price": 144.54916382,
+    "percent_change": -2.2282043
+  },
+  {
+    "title": "Here's Why Westinghouse Air Brake Technologies (WAB) is a Strong Momentum Stock",
+    "published": 1712757011,
+    "posting_price": 145.40508837,
+    "close_price": 146.83822632,
+    "percent_change": 0.98561747
+  },
+  {
+    "title": "Why Westinghouse Air Brake Technologies (WAB) is a Top Growth Stock for the Long-Term",
+    "published": 1712583907,
+    "posting_price": 149.78413092,
+    "close_price": 148.74908447,
+    "percent_change": -0.69102544
+  },
+  {
+    "title": "Here's Why Investors Should Hold Wabtec (WAB) Stock Now",
+    "published": 1712156220,
+    "posting_price": 144.95719766,
+    "close_price": 147.49507141,
+    "percent_change": 1.75077457
+  },
+  {
+    "title": "North American rail traffic up 1.8% for the week ending March 30",
+    "published": 1712148240,
+    "posting_price": 144.95719766,
+    "close_price": 147.49507141,
+    "percent_change": 1.75077457
+  },
+  {
+    "title": "Wabtec Reaches Analyst Target Price",
+    "published": 1712124780,
+    "posting_price": 144.95719766,
+    "close_price": 147.49507141,
+    "percent_change": 1.75077457
+  },
+  {
+    "title": "(WAB) - Analyzing Westinghouse Air Brake's Short Interest",
+    "published": 1711958700,
+    "posting_price": 144.8974829,
+    "close_price": 144.17095947,
+    "percent_change": -0.50140514
   }
 ]

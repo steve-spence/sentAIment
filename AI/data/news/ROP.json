@@ -1,11 +1,17 @@
 [
   {
     "title": "Procare Solutions Launches Accredited Professional Development Training for Child Care Providers",
-    "published": 1742309100
+    "published": 1742309100,
+    "posting_price": 573.84002686,
+    "close_price": 576.85998535,
+    "percent_change": 0.52627184
   },
   {
     "title": "DAT: Spot truckload volumes declined, rates fell sharply in February",
-    "published": 1741871700
+    "published": 1741871700,
+    "posting_price": 563.44000244,
+    "close_price": 562.88000488,
+    "percent_change": -0.09938903
   },
   {
     "title": "I'm Adding Roper Technologies Stock to My 2025 Watchlist. Here's Why.",
@@ -13,46 +19,153 @@
   },
   {
     "title": "Why Is Cognizant (CTSH) Down 4.1% Since Last Earnings Report?",
-    "published": 1741365054
+    "published": 1741365054,
+    "posting_price": 585.61999512,
+    "close_price": 588.38000488,
+    "percent_change": 0.47129705
   },
   {
     "title": "Why Is DXC Technology (DXC) Down 17.6% Since Last Earnings Report?",
-    "published": 1741278664
+    "published": 1741278664,
+    "posting_price": 589.75,
+    "close_price": 588.28997803,
+    "percent_change": -0.24756625
   },
   {
     "title": "DAT experts headline the 2025 Mid-America Trucking Show",
-    "published": 1741197600
+    "published": 1741197600,
+    "posting_price": 582.57000732,
+    "close_price": 593.80999756,
+    "percent_change": 1.92938018
   },
   {
     "title": "Transact Campus + CBORD Announce 2025 Transact Distinction Award Winners at Annual Transact 360 Conference",
-    "published": 1741192800
+    "published": 1741192800,
+    "posting_price": 582.57000732,
+    "close_price": 593.80999756,
+    "percent_change": 1.92938018
   },
   {
     "title": "Procare Solutions Releases 2025 Child Care Business Trends Report",
-    "published": 1741109760
+    "published": 1741109760,
+    "posting_price": 586.40997314,
+    "close_price": 584.83001709,
+    "percent_change": -0.26942858
   },
   {
     "title": "DAT Names Jana Galbraith as Chief People Officer",
-    "published": 1741014000
+    "published": 1741014000,
+    "posting_price": 588.48999023,
+    "close_price": 585.80999756,
+    "percent_change": -0.45540157
   },
   {
     "title": "Here's Why Investors Should Retain Roper Stock in Portfolio Now",
-    "published": 1740668280
+    "published": 1740668280,
+    "posting_price": 574.03997803,
+    "close_price": 572.5,
+    "percent_change": -0.26827017
   },
   {
     "title": "Procare Solutions Welcomes Joe Gomes as CEO to Drive the Next Phase of Growth",
-    "published": 1740412800
+    "published": 1740412800,
+    "posting_price": 575.11999512,
+    "close_price": 576.58001709,
+    "percent_change": 0.25386389
   },
   {
     "title": "Mar Vista Sold Roper Technologies (ROP) Upon Reaching Expected Intrinsic Value",
-    "published": 1740408666
+    "published": 1740408666,
+    "posting_price": 575.11999512,
+    "close_price": 576.58001709,
+    "percent_change": 0.25386389
   },
   {
-    "title": "DAT: Uncertainty looms despite a steady January for truckload freight",
-    "published": 1739455200
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 14",
+    "published": 1712998575
   },
   {
-    "title": "DAT iQ heads to Manifest Vegas to help shippers and brokers prep for a volatile year",
-    "published": 1739203200
+    "title": "Aderant and Vanderbilt Law School Forge Collaboration to Catalyze AI Legal Technology Innovation to Assist Law Firms and Future Lawyers",
+    "published": 1712754060,
+    "posting_price": 536.47852024,
+    "close_price": 533.67071533,
+    "percent_change": -0.52337695
+  },
+  {
+    "title": "John F. Murphy joins Roper Technologies Board of Directors",
+    "published": 1712579400,
+    "posting_price": 538.98771322,
+    "close_price": 540.87945557,
+    "percent_change": 0.35098061
+  },
+  {
+    "title": "Roper Technologies Elects John F. Murphy to Board",
+    "published": 1712563980,
+    "posting_price": 538.98771322,
+    "close_price": 540.87945557,
+    "percent_change": 0.35098061
+  },
+  {
+    "title": "Roper Technologies appoints John Murphy to board of directors",
+    "published": 1712562360,
+    "posting_price": 538.98771322,
+    "close_price": 540.87945557,
+    "percent_change": 0.35098061
+  },
+  {
+    "title": "Roper Technologies price target raised by $11 at Wolfe Research, here's why",
+    "published": 1712554380,
+    "posting_price": 538.98771322,
+    "close_price": 540.87945557,
+    "percent_change": 0.35098061
+  },
+  {
+    "title": "Roper Technologies price target raised by $74 at RBC Capital, here's why",
+    "published": 1712205900,
+    "posting_price": 547.6798691,
+    "close_price": 534.9552002,
+    "percent_change": -2.32337714
+  },
+  {
+    "title": "Roper Technologies schedules first quarter 2024 financial results conference call",
+    "published": 1712061000,
+    "posting_price": 548.8547529,
+    "close_price": 542.82928467,
+    "percent_change": -1.09782564
+  },
+  {
+    "title": "Ex-Dividend Reminder: Roper Technologies, NetApp and Encore Wire",
+    "published": 1712049540,
+    "posting_price": 548.8547529,
+    "close_price": 542.82928467,
+    "percent_change": -1.09782564
+  },
+  {
+    "title": "Roper Technologies price target raised by $4 at Barclays, here's why",
+    "published": 1712031780,
+    "posting_price": 548.8547529,
+    "close_price": 542.82928467,
+    "percent_change": -1.09782564
+  },
+  {
+    "title": "New Buy Rating for Roper Technologies (ROP), the Technology Giant",
+    "published": 1712025480,
+    "posting_price": 548.8547529,
+    "close_price": 542.82928467,
+    "percent_change": -1.09782564
+  },
+  {
+    "title": "GE Stock Is Now GE Aerospace \u2014 Is It A Buy?",
+    "published": 1712002379,
+    "posting_price": 559.14569092,
+    "close_price": 550.4654541,
+    "percent_change": -1.55241057
+  },
+  {
+    "title": "IntelliTrans Placed in 2024 Magic Quadrant\u2122 for Real-Time Transportation Visibility Platforms",
+    "published": 1711986660,
+    "posting_price": 559.14569092,
+    "close_price": 550.4654541,
+    "percent_change": -1.55241057
   }
 ]

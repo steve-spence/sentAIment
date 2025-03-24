@@ -1,54 +1,373 @@
 [
   {
     "title": "Failure to timely explain positive drug test dooms ADA claim, 7th Circuit holds",
-    "published": 1742573760
+    "published": 1742573760,
+    "posting_price": 51.70000076,
+    "close_price": 51.38999939,
+    "percent_change": -0.59961579
   },
   {
     "title": "Discover International Paper Among 3 Stocks Estimated To Be Below Fair Value",
-    "published": 1742382538
+    "published": 1742382538,
+    "posting_price": 51.88999939,
+    "close_price": 52.61999893,
+    "percent_change": 1.40682125
   },
   {
     "title": "SUZ or IP: Which Is the Better Value Stock Right Now?",
-    "published": 1742226013
+    "published": 1742226013,
+    "posting_price": 51.54000092,
+    "close_price": 51.58000183,
+    "percent_change": 0.07761139
   },
   {
     "title": "1 Stock Under $50 with Solid Fundamentals and 2 to Turn Down",
-    "published": 1741870877
+    "published": 1741870877,
+    "posting_price": 51.93999863,
+    "close_price": 50.38000107,
+    "percent_change": -3.00346092
   },
   {
     "title": "Rayonier Advanced Q4 Earnings Beat Estimates, Margins Improve Y/Y",
-    "published": 1741280580
+    "published": 1741280580,
+    "posting_price": 52.49000168,
+    "close_price": 51.70999908,
+    "percent_change": -1.48600224
   },
   {
     "title": "International Paper\u2019s CFO to move into \u2018newly created role\u2019 at DS Smith",
-    "published": 1740749520
+    "published": 1740749520,
+    "posting_price": 55.97999954,
+    "close_price": 56.34999847,
+    "percent_change": 0.66094843
   },
   {
     "title": "International Paper names new CFO",
-    "published": 1740731712
+    "published": 1740731712,
+    "posting_price": 55.97999954,
+    "close_price": 56.34999847,
+    "percent_change": 0.66094843
   },
   {
     "title": "International Paper Company (IP): Strong Turnaround Story Unfolds Under New CEO\u2019s Leadership",
-    "published": 1740662936
+    "published": 1740662936,
+    "posting_price": 56.0,
+    "close_price": 56.25,
+    "percent_change": 0.44642857
   },
   {
     "title": "Industrial Packaging Stocks Q4 Earnings: Sealed Air (NYSE:SEE) Best of the Bunch",
-    "published": 1740647076
+    "published": 1740647076,
+    "posting_price": 56.0,
+    "close_price": 56.25,
+    "percent_change": 0.44642857
   },
   {
     "title": "Q4 Industrial Packaging Earnings Review: First Prize Goes to Crown Holdings (NYSE:CCK)",
-    "published": 1740474159
+    "published": 1740474159,
+    "posting_price": 55.25,
+    "close_price": 55.29999924,
+    "percent_change": 0.09049636
   },
   {
     "title": "Industrial Packaging Stocks Q4 In Review: Graphic Packaging Holding (NYSE:GPK) Vs Peers",
-    "published": 1740128577
+    "published": 1740128577,
+    "posting_price": 55.334998,
+    "close_price": 55.09700012,
+    "percent_change": -0.43010371
   },
   {
     "title": "RYAM Set to Report Q4 Earnings: What to Expect From the Stock?",
-    "published": 1739985180
+    "published": 1739985180,
+    "posting_price": 56.29691744,
+    "close_price": 56.67375183,
+    "percent_change": 0.66936949
   },
   {
     "title": "International Paper Permanently Closing Four Facilities",
-    "published": 1739978685
+    "published": 1739978685,
+    "posting_price": 56.29691744,
+    "close_price": 56.67375183,
+    "percent_change": 0.66936949
+  },
+  {
+    "title": "International Paper vows to list on London Stock Exchange as Superdry outlines plans to leave",
+    "published": 1713225420,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "International Paper to Buy DS Smith for $7.2 Billion in All-Share Deal",
+    "published": 1713201180,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "Form 8.3 - International Paper Company",
+    "published": 1713191100,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "Invesco Ltd: Form 8.3 - International Paper Company Public dealing disclosure",
+    "published": 1713175216,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "Form 8.3 - The Vanguard Group, Inc.: International Paper Company",
+    "published": 1713174246,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "Correction: Invesco Ltd",
+    "published": 1713166150,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "Man Group PLC : Form 8.3 - International Paper Company",
+    "published": 1713161168,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "International Paper put volume heavy and directionally bearish",
+    "published": 1713149760,
+    "posting_price": 36.27690893,
+    "close_price": 35.4101944,
+    "percent_change": -2.38916312
+  },
+  {
+    "title": "Norges Bank - Form 8.3 - International Paper Company",
+    "published": 1712898847,
+    "posting_price": 35.72798838,
+    "close_price": 35.76651001,
+    "percent_change": 0.1078192
+  },
+  {
+    "title": "International Paper Co. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 35.72798838,
+    "close_price": 35.76651001,
+    "percent_change": 0.1078192
+  },
+  {
+    "title": "IP Dividend Yield Pushes Past 5%",
+    "published": 1712887800,
+    "posting_price": 35.72798838,
+    "close_price": 35.76651001,
+    "percent_change": 0.1078192
+  },
+  {
+    "title": "The Vanguard Group, Inc.: International Paper Company",
+    "published": 1712827026,
+    "posting_price": 36.55618229,
+    "close_price": 36.41173172,
+    "percent_change": -0.39514676
+  },
+  {
+    "title": "International Paper to Release First-Quarter 2024 Earnings on April 25, 2024",
+    "published": 1712750400,
+    "posting_price": 36.31542599,
+    "close_price": 36.83545685,
+    "percent_change": 1.43198337
+  },
+  {
+    "title": "LONDON MARKET CLOSE: Miners and airlines in demand as FTSE 100 climbs",
+    "published": 1712577780,
+    "posting_price": 37.5673501,
+    "close_price": 36.79693604,
+    "percent_change": -2.05075433
+  },
+  {
+    "title": "International Paper, DS Smith working toward deal this week - Sky",
+    "published": 1712566440,
+    "posting_price": 37.5673501,
+    "close_price": 36.79693604,
+    "percent_change": -2.05075433
+  },
+  {
+    "title": "PRESS: International Paper bid for DS Smith could come this week \u2014 Sky",
+    "published": 1712566260,
+    "posting_price": 37.5673501,
+    "close_price": 36.79693604,
+    "percent_change": -2.05075433
+  },
+  {
+    "title": "UK Companies Poised for M&A Surge Amid Low Valuations",
+    "published": 1712553540,
+    "posting_price": 37.5673501,
+    "close_price": 36.79693604,
+    "percent_change": -2.05075433
+  },
+  {
+    "title": "Analysts\u2019 Top Consumer Cyclical Picks: International Paper Co (IP), Tesla (TSLA)",
+    "published": 1712551860,
+    "posting_price": 37.5673501,
+    "close_price": 36.79693604,
+    "percent_change": -2.05075433
+  },
+  {
+    "title": "International Paper Co. stock underperforms Monday when compared to competitors",
+    "published": 1712549940,
+    "posting_price": 37.5673501,
+    "close_price": 36.79693604,
+    "percent_change": -2.05075433
+  },
+  {
+    "title": "Form 8.3 - INTERNATIONAL PAPER CO.",
+    "published": 1712330700,
+    "posting_price": 37.67328088,
+    "close_price": 37.23029327,
+    "percent_change": -1.17586682
+  },
+  {
+    "title": "Invesco Ltd: Form 8.3 - International Paper company",
+    "published": 1712311811,
+    "posting_price": 37.67328088,
+    "close_price": 37.23029327,
+    "percent_change": -1.17586682
+  },
+  {
+    "title": "Analysts Are Bullish on These Consumer Cyclical Stocks: International Paper Co (IP), Tempur Sealy (TPX)",
+    "published": 1712302860,
+    "posting_price": 37.67328088,
+    "close_price": 37.23029327,
+    "percent_change": -1.17586682
+  },
+  {
+    "title": "Sealed With A Kiss: Rock Band Sells Legacy For $300M, Who Did Gene Simmons 'Get Into Bed' With?",
+    "published": 1712281680,
+    "posting_price": 37.67328088,
+    "close_price": 37.23029327,
+    "percent_change": -1.17586682
+  },
+  {
+    "title": "Girl Power on the Assembly Line",
+    "published": 1712253600,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "Form 8.3 - INTERNATIONAL PAPER CO",
+    "published": 1712244300,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "US Bidder Eyes Secondary London Listing in Battle for DS Smith",
+    "published": 1712237357,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "International Paper to seek London listing if it inks deal with DS Smith",
+    "published": 1712232554,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "UPDATE 1-International Paper to seek London listing if it inks deal with DS Smith",
+    "published": 1712231232,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "London Calling: International Paper Eyes Secondary listing As Part Of Proposed DS Smith Combination",
+    "published": 1712230620,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "Further statement regarding possible offer for DS Smith plc",
+    "published": 1712229000,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "IP May 24th Options Begin Trading",
+    "published": 1712223360,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "TOP NEWS: International Paper targets big savings from DS Smith deal",
+    "published": 1712216700,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "International Paper highlights synergy benefits from a potential DS Smith acquisition",
+    "published": 1712214600,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "International Paper provides update on acquisition offer for DS Smith",
+    "published": 1712211480,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "DS Smith extends deadline for takeover offer by Mondi",
+    "published": 1712207520,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "LONDON BRIEFING: Vodafone-Three deal faces deeper UK probe",
+    "published": 1712198580,
+    "posting_price": 37.77921555,
+    "close_price": 37.83699799,
+    "percent_change": 0.1529477
+  },
+  {
+    "title": "New York state wants companies to protect their LGBTQ+ Gen Z and millennial workers\u2014and it\u2019s throwing a $260 billion retirement fund at the issue",
+    "published": 1712181269,
+    "posting_price": 37.32659645,
+    "close_price": 37.62513351,
+    "percent_change": 0.79979716
+  },
+  {
+    "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - INTERNATIONAL PAPER CO - Ordinary Shares",
+    "published": 1712122628,
+    "posting_price": 37.32659645,
+    "close_price": 37.62513351,
+    "percent_change": 0.79979716
+  },
+  {
+    "title": "International Paper Co. stock outperforms competitors on strong trading day",
+    "published": 1712118120,
+    "posting_price": 37.32659645,
+    "close_price": 37.62513351,
+    "percent_change": 0.79979716
+  },
+  {
+    "title": "Should You Investigate International Paper Company (NYSE:IP) At US$39.02?",
+    "published": 1711991229,
+    "posting_price": 37.48067627,
+    "close_price": 37.58660889,
+    "percent_change": 0.28263263
   }
 ]

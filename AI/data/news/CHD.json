@@ -1,23 +1,38 @@
 [
   {
     "title": "Why Is Clorox (CLX) Up 1.7% Since Last Earnings Report?",
-    "published": 1741192211
+    "published": 1741192211,
+    "posting_price": 110.83000183,
+    "close_price": 110.66000366,
+    "percent_change": -0.15338642
   },
   {
     "title": "3 Mid-Cap Stocks in Hot Water",
-    "published": 1740747719
+    "published": 1740747719,
+    "posting_price": 110.62000275,
+    "close_price": 111.19999695,
+    "percent_change": 0.52431223
   },
   {
     "title": "Unpacking Q4 Earnings: Colgate-Palmolive (NYSE:CL) In The Context Of Other Household Products Stocks",
-    "published": 1740387775
+    "published": 1740387775,
+    "posting_price": 104.86000061,
+    "close_price": 107.58999634,
+    "percent_change": 2.60346721
   },
   {
     "title": "Q4 Earnings Highlights: Procter & Gamble (NYSE:PG) Vs The Rest Of The Household Products Stocks",
-    "published": 1740128681
+    "published": 1740128681,
+    "posting_price": 104.15000153,
+    "close_price": 105.33000183,
+    "percent_change": 1.13298155
   },
   {
     "title": "Reflecting On Household Products Stocks\u2019 Q4 Earnings: Energizer (NYSE:ENR)",
-    "published": 1739955670
+    "published": 1739955670,
+    "posting_price": 104.33999634,
+    "close_price": 104.36000061,
+    "percent_change": 0.0191722
   },
   {
     "title": "Only Four Days Left To Cash In On Church & Dwight's (NYSE:CHD) Dividend",
@@ -25,6 +40,149 @@
   },
   {
     "title": "Church & Dwight Q4 Earnings Meet Estimates, Volumes Fuel Organic Sales",
-    "published": 1738336440
+    "published": 1738336440,
+    "posting_price": 106.70644993,
+    "close_price": 105.2305069,
+    "percent_change": -1.38318071
+  },
+  {
+    "title": "Here's Why Church & Dwight (CHD) Appears to be a Promising Pick",
+    "published": 1713190620,
+    "posting_price": 100.68976964,
+    "close_price": 100.48204041,
+    "percent_change": -0.20630619
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights Colgate-Palmolive, Henkel, Church & Dwight and The Clorox",
+    "published": 1713189720,
+    "posting_price": 100.68976964,
+    "close_price": 100.48204041,
+    "percent_change": -0.20630619
+  },
+  {
+    "title": "16 Best Dividend Stocks of All Time",
+    "published": 1713181416,
+    "posting_price": 100.68976964,
+    "close_price": 100.48204041,
+    "percent_change": -0.20630619
+  },
+  {
+    "title": "Church & Dwight price target raised by $4 at BofA, here's why",
+    "published": 1713168240,
+    "posting_price": 100.68976964,
+    "close_price": 100.48204041,
+    "percent_change": -0.20630619
+  },
+  {
+    "title": "Tyson Foods (TSN) Rises More Than 20% in 6 Months: Here's How",
+    "published": 1712932500,
+    "posting_price": 100.14570867,
+    "close_price": 99.98744202,
+    "percent_change": -0.15803638
+  },
+  {
+    "title": "4 Soap & Cleaning Materials Stocks to Watch Amid Favorable Industry Trends",
+    "published": 1712926620,
+    "posting_price": 100.14570867,
+    "close_price": 99.98744202,
+    "percent_change": -0.15803638
+  },
+  {
+    "title": "Church & Dwight price target raised by $3 at Barclays, here's why",
+    "published": 1712895000,
+    "posting_price": 100.14570867,
+    "close_price": 99.98744202,
+    "percent_change": -0.15803638
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Consumer Goods Companies: Hain Celestial (HAIN) and Church & Dwight (CHD)",
+    "published": 1712892060,
+    "posting_price": 100.14570867,
+    "close_price": 99.98744202,
+    "percent_change": -0.15803638
+  },
+  {
+    "title": "Church & Dwight to Webcast Discussion of First Quarter 2024 Earnings Results on May 2",
+    "published": 1712835989,
+    "posting_price": 102.01527444,
+    "close_price": 100.48203278,
+    "percent_change": -1.50295303
+  },
+  {
+    "title": "Top quant-rated consumer staples during Q1",
+    "published": 1712834460,
+    "posting_price": 102.01527444,
+    "close_price": 100.48203278,
+    "percent_change": -1.50295303
+  },
+  {
+    "title": "CHD Crosses Above Average Analyst Target",
+    "published": 1712818140,
+    "posting_price": 102.01527444,
+    "close_price": 100.48203278,
+    "percent_change": -1.50295303
+  },
+  {
+    "title": "Wells Fargo Sticks to Their Buy Rating for Church & Dwight (CHD)",
+    "published": 1712810160,
+    "posting_price": 102.01527444,
+    "close_price": 100.48203278,
+    "percent_change": -1.50295303
+  },
+  {
+    "title": "RBC Capital Reaffirms Their Hold Rating on Church & Dwight (CHD)",
+    "published": 1712738880,
+    "posting_price": 100.45236388,
+    "close_price": 101.47122955,
+    "percent_change": 1.01427745
+  },
+  {
+    "title": "Q4 Earnings Highlights: Church & Dwight (NYSE:CHD) Vs The Rest Of The Household Products Stocks",
+    "published": 1712220191,
+    "posting_price": 102.4802009,
+    "close_price": 100.99641418,
+    "percent_change": -1.44787647
+  },
+  {
+    "title": "These are the most crowded longs within consumer staples - UBS",
+    "published": 1712115480,
+    "posting_price": 103.36057848,
+    "close_price": 102.04496002,
+    "percent_change": -1.27284355
+  },
+  {
+    "title": "Top buy-rated stocks in consumer staples - Citi",
+    "published": 1712108040,
+    "posting_price": 103.36057848,
+    "close_price": 102.04496002,
+    "percent_change": -1.27284355
+  },
+  {
+    "title": "Lamb Weston (LW) Readies for Q3 Earnings: What to Expect?",
+    "published": 1712061600,
+    "posting_price": 103.86506631,
+    "close_price": 103.50895691,
+    "percent_change": -0.34285772
+  },
+  {
+    "title": "A Look Back at Household Products Stocks' Q4 Earnings: Kimberly-Clark (NYSE:KMB) Vs The Rest Of The Pack",
+    "published": 1712046497,
+    "posting_price": 103.86506631,
+    "close_price": 103.50895691,
+    "percent_change": -0.34285772
+  },
+  {
+    "title": "Church & Dwight Co., Inc.'s (NYSE:CHD) Stock Has Seen Strong Momentum: Does That Call For Deeper Study Of Its Financial Prospects?",
+    "published": 1711981057,
+    "posting_price": 102.79673326,
+    "close_price": 103.88484192,
+    "percent_change": 1.0585051
+  },
+  {
+    "title": "Conagra Brands (CAG) Readies for Q3 Earnings: Is a Beat Likely?",
+    "published": 1711978320,
+    "posting_price": 102.79673326,
+    "close_price": 103.88484192,
+    "percent_change": 1.0585051
   }
 ]

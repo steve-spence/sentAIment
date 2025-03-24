@@ -1,42 +1,347 @@
 [
   {
     "title": "MGM (MGM) Down 25.3% Since Last Earnings Report: Can It Rebound?",
-    "published": 1741966239
+    "published": 1741966239,
+    "posting_price": 43.22999954,
+    "close_price": 43.18999863,
+    "percent_change": -0.09253044
   },
   {
     "title": "Why Is Red Rock Resorts (RRR) Down 14.4% Since Last Earnings Report?",
-    "published": 1741879831
+    "published": 1741879831,
+    "posting_price": 42.90000153,
+    "close_price": 42.77999878,
+    "percent_change": -0.27972668
   },
   {
     "title": "Century Casinos to Post Q4 Earnings: What's in Store for the Stock?",
-    "published": 1741633200
+    "published": 1741633200,
+    "posting_price": 44.45999908,
+    "close_price": 45.34000015,
+    "percent_change": 1.97930969
   },
   {
     "title": "Skillz Gears Up for Q4 Earnings: What's in Store for the Stock?",
-    "published": 1741618080
+    "published": 1741618080,
+    "posting_price": 44.45999908,
+    "close_price": 45.34000015,
+    "percent_change": 1.97930969
   },
   {
     "title": "American Outdoor Stock Up on Q3 Earnings and Revenue Beat",
-    "published": 1741359360
+    "published": 1741359360,
+    "posting_price": 44.88000107,
+    "close_price": 45.06000137,
+    "percent_change": 0.40107018
   },
   {
     "title": "Las Vegas Sands CEO to step down in 2026, transition to adviser role",
-    "published": 1741299248
+    "published": 1741299248,
+    "posting_price": 45.68999863,
+    "close_price": 45.38999939,
+    "percent_change": -0.65659717
   },
   {
     "title": "Electronic Arts (EA) Up 2.7% Since Last Earnings Report: Can It Continue?",
-    "published": 1741278665
+    "published": 1741278665,
+    "posting_price": 45.68999863,
+    "close_price": 45.38999939,
+    "percent_change": -0.65659717
   },
   {
     "title": "JAKKS Pacific Q4 Earnings and Revenues Miss Estimates",
-    "published": 1740151380
+    "published": 1740151380,
+    "posting_price": 45.15999985,
+    "close_price": 44.02000046,
+    "percent_change": -2.5243565
   },
   {
     "title": "Wynn Resorts Q4 Earnings Surpass Estimates, Revenues Fall Y/Y",
-    "published": 1739535900
+    "published": 1739535900,
+    "posting_price": 42.75,
+    "close_price": 43.36999893,
+    "percent_change": 1.45028989
   },
   {
     "title": "Red Rock Resorts Q4 Earnings & Revenues Surpass Estimates",
-    "published": 1739363280
+    "published": 1739363280,
+    "posting_price": 41.43000031,
+    "close_price": 41.88999939,
+    "percent_change": 1.11030431
+  },
+  {
+    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
+    "published": 1713178620,
+    "posting_price": 49.82859031,
+    "close_price": 49.28910828,
+    "percent_change": -1.08267568
+  },
+  {
+    "title": "Las Vegas Sands Stock: A Deep Dive Into Analyst Perspectives (5 Ratings)",
+    "published": 1713175560,
+    "posting_price": 49.82859031,
+    "close_price": 49.28910828,
+    "percent_change": -1.08267568
+  },
+  {
+    "title": "Las Vegas Sands initiated with bullish view at Seaport Research, here's why",
+    "published": 1713162360,
+    "posting_price": 49.82859031,
+    "close_price": 49.28910828,
+    "percent_change": -1.08267568
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
+    "published": 1713160860,
+    "posting_price": 49.82859031,
+    "close_price": 49.28910828,
+    "percent_change": -1.08267568
+  },
+  {
+    "title": "Las Vegas Sands (LVS) Gets a Buy from Wells Fargo",
+    "published": 1713158400,
+    "posting_price": 49.82859031,
+    "close_price": 49.28910828,
+    "percent_change": -1.08267568
+  },
+  {
+    "title": "Wall Street Brunch: Oil Market In Focus After Iran Attack On Israel",
+    "published": 1713108300
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1713081061
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "The five-year shareholder returns and company earnings persist lower as Las Vegas Sands (NYSE:LVS) stock falls a further 5.2% in past week",
+    "published": 1713009702
+  },
+  {
+    "title": "Las Vegas Sands : ESG Report 2023",
+    "published": 1712954467,
+    "posting_price": 50.11305079,
+    "close_price": 49.46567154,
+    "percent_change": -1.29183763
+  },
+  {
+    "title": "Las Vegas Sands (LVS) to Report Q1 Earnings: What's in Store?",
+    "published": 1712939280,
+    "posting_price": 50.11305079,
+    "close_price": 49.46567154,
+    "percent_change": -1.29183763
+  },
+  {
+    "title": "Las Vegas Sands (LVS) Q1 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+    "published": 1712927723,
+    "posting_price": 50.11305079,
+    "close_price": 49.46567154,
+    "percent_change": -1.29183763
+  },
+  {
+    "title": "Las Vegas Sands call volume above normal and directionally bullish",
+    "published": 1712922360,
+    "posting_price": 50.11305079,
+    "close_price": 49.46567154,
+    "percent_change": -1.29183763
+  },
+  {
+    "title": "Bet On It: Bragg Gaming CFO to resign",
+    "published": 1712891040,
+    "posting_price": 50.11305079,
+    "close_price": 49.46567154,
+    "percent_change": -1.29183763
+  },
+  {
+    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
+    "published": 1712887200,
+    "posting_price": 50.11305079,
+    "close_price": 49.46567154,
+    "percent_change": -1.29183763
+  },
+  {
+    "title": "LVS Crosses Below Key Moving Average Level",
+    "published": 1712831160,
+    "posting_price": 50.63291123,
+    "close_price": 50.6231041,
+    "percent_change": -0.01936908
+  },
+  {
+    "title": "LVS May 31st Options Begin Trading",
+    "published": 1712830140,
+    "posting_price": 50.63291123,
+    "close_price": 50.6231041,
+    "percent_change": -0.01936908
+  },
+  {
+    "title": "Peering Into Las Vegas Sands's Recent Short Interest",
+    "published": 1712823540,
+    "posting_price": 50.63291123,
+    "close_price": 50.6231041,
+    "percent_change": -0.01936908
+  },
+  {
+    "title": "The Masters tees off, putting spotlight on golf, sports and gaming stocks",
+    "published": 1712818800,
+    "posting_price": 50.63291123,
+    "close_price": 50.6231041,
+    "percent_change": -0.01936908
+  },
+  {
+    "title": "Sands to Release First Quarter 2024 Financial Results",
+    "published": 1712779500,
+    "posting_price": 50.93698543,
+    "close_price": 50.86832428,
+    "percent_change": -0.13479626
+  },
+  {
+    "title": "Las Vegas Sands (LVS) Earnings Expected to Grow: What to Know Ahead of Q1 Release",
+    "published": 1712757613,
+    "posting_price": 50.93698543,
+    "close_price": 50.86832428,
+    "percent_change": -0.13479626
+  },
+  {
+    "title": "3 Best Stocks to Buy Now, 4/10/2024, According to Top Analysts",
+    "published": 1712728560,
+    "posting_price": 50.93698543,
+    "close_price": 50.86832428,
+    "percent_change": -0.13479626
+  },
+  {
+    "title": "Las Vegas Sands price target raised by $3 at Barclays, here's why",
+    "published": 1712724600,
+    "posting_price": 50.93698543,
+    "close_price": 50.86832428,
+    "percent_change": -0.13479626
+  },
+  {
+    "title": "Barclays Sticks to Their Buy Rating for Las Vegas Sands (LVS)",
+    "published": 1712713680,
+    "posting_price": 50.93698543,
+    "close_price": 50.86832428,
+    "percent_change": -0.13479626
+  },
+  {
+    "title": "Women's History Month Spotlight: Thurgood Marshall College Fund Founder Dr. N. Joyce Payne Discusses Equity in Education and Corporate America",
+    "published": 1712667600,
+    "posting_price": 51.17239223,
+    "close_price": 51.44704056,
+    "percent_change": 0.53671192
+  },
+  {
+    "title": "Las Vegas Sands price target raised by $1 at Morgan Stanley, here's why",
+    "published": 1712659380,
+    "posting_price": 51.17239223,
+    "close_price": 51.44704056,
+    "percent_change": 0.53671192
+  },
+  {
+    "title": "Caesars price target raised by $1 at Morgan Stanley, here's why",
+    "published": 1712659200,
+    "posting_price": 51.17239223,
+    "close_price": 51.44704056,
+    "percent_change": 0.53671192
+  },
+  {
+    "title": "Las Vegas Sands Corp. stock rises Tuesday, still underperforms market",
+    "published": 1712635440,
+    "posting_price": 51.17239223,
+    "close_price": 51.44704056,
+    "percent_change": 0.53671192
+  },
+  {
+    "title": "Bet On It: Macau gaming bureau reports big growth in March revenue",
+    "published": 1712316420,
+    "posting_price": 51.69226122,
+    "close_price": 52.16308212,
+    "percent_change": 0.91081506
+  },
+  {
+    "title": "Las Vegas Sands (NYSE:LVS) Stock: An S&P 500 Entertainment Stock with Solid Potential",
+    "published": 1712309640,
+    "posting_price": 51.69226122,
+    "close_price": 52.16308212,
+    "percent_change": 0.91081506
+  },
+  {
+    "title": "From Sky Roofs To Entertainment Arenas: Marina Bay Sands' Expansion Takes Shape",
+    "published": 1712302140,
+    "posting_price": 51.69226122,
+    "close_price": 52.16308212,
+    "percent_change": 0.91081506
+  },
+  {
+    "title": "Las Vegas Sands pushes ahead with Marina Bay Sands expansion plans",
+    "published": 1712298420,
+    "posting_price": 51.69226122,
+    "close_price": 52.16308212,
+    "percent_change": 0.91081506
+  },
+  {
+    "title": "Las Vegas Sands Subsidiary Sets New Expansion Timelines",
+    "published": 1712294580,
+    "posting_price": 51.69226122,
+    "close_price": 52.16308212,
+    "percent_change": 0.91081506
+  },
+  {
+    "title": "Sands China Expands Its Initiatives To Drive Innovation and Technology Development in Macao",
+    "published": 1712249100,
+    "posting_price": 53.25185499,
+    "close_price": 51.58436203,
+    "percent_change": -3.1313331
+  },
+  {
+    "title": "An Intrinsic Calculation For Las Vegas Sands Corp. (NYSE:LVS) Suggests It's 35% Undervalued",
+    "published": 1712228419,
+    "posting_price": 53.25185499,
+    "close_price": 51.58436203,
+    "percent_change": -3.1313331
+  },
+  {
+    "title": "Top 7 buy-rated stocks in Consumer Discretionary - Citi",
+    "published": 1712140680,
+    "posting_price": 51.54512417,
+    "close_price": 52.92816162,
+    "percent_change": 2.68315863
+  },
+  {
+    "title": "Las Vegas Sands Secures $1.5 Billion Revolving Credit Facility",
+    "published": 1712119380,
+    "posting_price": 51.54512417,
+    "close_price": 52.92816162,
+    "percent_change": 2.68315863
+  },
+  {
+    "title": "Stocks Fall As Dollar, Treasury Yields Jump On Upbeat Manufacturing Data, VIX Rallies: What's Driving Markets Monday?",
+    "published": 1711975860,
+    "posting_price": 51.34895175,
+    "close_price": 52.16308212,
+    "percent_change": 1.58548586
+  },
+  {
+    "title": "Macau reports March casino revenue up 53% to 19.5B patacas",
+    "published": 1711961400,
+    "posting_price": 51.34895175,
+    "close_price": 52.16308212,
+    "percent_change": 1.58548586
+  },
+  {
+    "title": "Las Vegas Sands: Firming Up At $50+ Is A Positive Indication",
+    "published": 1711950198,
+    "posting_price": 51.34895175,
+    "close_price": 52.16308212,
+    "percent_change": 1.58548586
+  },
+  {
+    "title": "Macau casinos top estimates with second highest gaming revenue tally since pandemic",
+    "published": 1711945320,
+    "posting_price": 51.34895175,
+    "close_price": 52.16308212,
+    "percent_change": 1.58548586
   }
 ]

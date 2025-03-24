@@ -1,14 +1,58 @@
 [
   {
     "title": "Boasting A 41% Return On Equity, Is Veralto Corporation (NYSE:VLTO) A Top Quality Stock?",
-    "published": 1741170960
+    "published": 1741170960,
+    "posting_price": 98.0,
+    "close_price": 98.62000275,
+    "percent_change": 0.63265587
   },
   {
     "title": "Logility Supply Chain Solutions (LGTY) Surges 24.7%: Is This an Indication of Further Gains?",
-    "published": 1738083480
+    "published": 1738083480,
+    "posting_price": 103.31999969,
+    "close_price": 103.44999695,
+    "percent_change": 0.12582004
   },
   {
     "title": "Veralto (NYSE:VLTO) Knows How To Allocate Capital",
-    "published": 1728311961
+    "published": 1728311961,
+    "posting_price": 110.81038554,
+    "close_price": 111.00018311,
+    "percent_change": 0.17128139
+  },
+  {
+    "title": "Wall Street Favorites: 3 Healthcare Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712806380,
+    "posting_price": 88.04221566,
+    "close_price": 87.16468811,
+    "percent_change": -0.99671225
+  },
+  {
+    "title": "Veralto: A Solid Start Since The Spin-Off",
+    "published": 1712638961,
+    "posting_price": 87.76300611,
+    "close_price": 88.94966125,
+    "percent_change": 1.35211314
+  },
+  {
+    "title": "Veralto price target raised by $5 at Citi, here's why",
+    "published": 1712557980,
+    "posting_price": 87.20456641,
+    "close_price": 87.4239502,
+    "percent_change": 0.25157374
+  },
+  {
+    "title": "Veralto price target raised by $8 at RBC Capital, here's why",
+    "published": 1712206200,
+    "posting_price": 87.87269572,
+    "close_price": 86.44670868,
+    "percent_change": -1.62278741
+  },
+  {
+    "title": "Veralto Schedules First Quarter 2024 Earnings Call",
+    "published": 1712147400,
+    "posting_price": 86.20737672,
+    "close_price": 87.00513458,
+    "percent_change": 0.92539396
   }
 ]

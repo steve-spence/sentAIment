@@ -1,11 +1,17 @@
 [
   {
     "title": "Medtronic\u2019s Evolut trial outcome could shift US TAVR market",
-    "published": 1742493849
+    "published": 1742493849,
+    "posting_price": 70.66999817,
+    "close_price": 70.94999695,
+    "percent_change": 0.39620601
   },
   {
     "title": "Should Edwards Lifesciences Stock Remain in Your Portfolio Now?",
-    "published": 1740061380
+    "published": 1740061380,
+    "posting_price": 74.40000153,
+    "close_price": 74.70999908,
+    "percent_change": 0.41666337
   },
   {
     "title": "The three-year loss for Edwards Lifesciences (NYSE:EW) shareholders likely driven by its shrinking earnings",
@@ -13,18 +19,213 @@
   },
   {
     "title": "Edwards Lifesciences (NYSE:EW) Is Reinvesting At Lower Rates Of Return",
-    "published": 1739365221
+    "published": 1739365221,
+    "posting_price": 74.0,
+    "close_price": 75.81999969,
+    "percent_change": 2.45945904
   },
   {
     "title": "Edwards predicts second-half lift from TAVR label expansion",
-    "published": 1739358000
+    "published": 1739358000,
+    "posting_price": 74.0,
+    "close_price": 75.81999969,
+    "percent_change": 2.45945904
   },
   {
     "title": "Mettler-Toledo (MTD) Surpasses Q4 Earnings and Revenue Estimates",
-    "published": 1738881908
+    "published": 1738881908,
+    "posting_price": 71.77999878,
+    "close_price": 70.98999786,
+    "percent_change": -1.10058642
   },
   {
     "title": "DexCom (DXCM) Q4 Earnings Preview: What's in the Cards?",
-    "published": 1738854067
+    "published": 1738854067,
+    "posting_price": 71.77999878,
+    "close_price": 70.98999786,
+    "percent_change": -1.10058642
+  },
+  {
+    "title": "What's in Store for Thermo Fisher (TMO) in Q1 Earnings?",
+    "published": 1713200280,
+    "posting_price": 91.34999847,
+    "close_price": 89.19999695,
+    "percent_change": -2.35358682
+  },
+  {
+    "title": "Will Elevance (ELV) Beat Q1 Earnings on Carelon Strength?",
+    "published": 1713194880,
+    "posting_price": 91.34999847,
+    "close_price": 89.19999695,
+    "percent_change": -2.35358682
+  },
+  {
+    "title": "3 Medical Instruments Stocks to Buy Amid Improving Industry Trends",
+    "published": 1713194160,
+    "posting_price": 91.34999847,
+    "close_price": 89.19999695,
+    "percent_change": -2.35358682
+  },
+  {
+    "title": "Edwards Lifesciences price target raised by $6 at RBC Capital, here's why",
+    "published": 1713164940,
+    "posting_price": 91.34999847,
+    "close_price": 89.19999695,
+    "percent_change": -2.35358682
+  },
+  {
+    "title": "Wedgewood Partners Q1 2024 Client Letter",
+    "published": 1712999400
+  },
+  {
+    "title": "What's in Store for Abbott Laboratories (ABT) in Q1 Earnings?",
+    "published": 1712929860,
+    "posting_price": 90.77999878,
+    "close_price": 90.27999878,
+    "percent_change": -0.55078212
+  },
+  {
+    "title": "How Is The Market Feeling About Edwards Lifesciences?",
+    "published": 1712918940,
+    "posting_price": 90.77999878,
+    "close_price": 90.27999878,
+    "percent_change": -0.55078212
+  },
+  {
+    "title": "Abbott\u2019s Nadim Geloo on Triclip\u2019s US launch, Edwards competition",
+    "published": 1712911020,
+    "posting_price": 90.77999878,
+    "close_price": 90.27999878,
+    "percent_change": -0.55078212
+  },
+  {
+    "title": "$1000 Invested In Edwards Lifesciences 15 Years Ago Would Be Worth This Much Today",
+    "published": 1712894760,
+    "posting_price": 90.77999878,
+    "close_price": 90.27999878,
+    "percent_change": -0.55078212
+  },
+  {
+    "title": "What Analysts Are Saying About Edwards Lifesciences Stock",
+    "published": 1712837160,
+    "posting_price": 92.83000183,
+    "close_price": 91.41000366,
+    "percent_change": -1.5296759
+  },
+  {
+    "title": "Top quant-rated consumer staples during Q1",
+    "published": 1712834460,
+    "posting_price": 92.83000183,
+    "close_price": 91.41000366,
+    "percent_change": -1.5296759
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Evogene (EVGN), Edwards Lifesciences (EW) and Nurix Therapeutics (NRIX)",
+    "published": 1712818200,
+    "posting_price": 92.83000183,
+    "close_price": 91.41000366,
+    "percent_change": -1.5296759
+  },
+  {
+    "title": "Edwards Lifesciences price target raised by $10 at Mizuho, here's why",
+    "published": 1712815260,
+    "posting_price": 92.83000183,
+    "close_price": 91.41000366,
+    "percent_change": -1.5296759
+  },
+  {
+    "title": "Will UnitedHealth's (UNH) UnitedHealthcare Unit Aid Q1 Earnings?",
+    "published": 1712767500,
+    "posting_price": 91.73000336,
+    "close_price": 91.51000214,
+    "percent_change": -0.23983562
+  },
+  {
+    "title": "Top 10 best performing S&P 500 health care stocks of 2024",
+    "published": 1712714220,
+    "posting_price": 91.73000336,
+    "close_price": 91.51000214,
+    "percent_change": -0.23983562
+  },
+  {
+    "title": "Revising Edwards Lifesciences Price Target Post-Medtronic\u2019s SMART Study: A Hold Rating Amidst Competitive Pressures",
+    "published": 1712711940,
+    "posting_price": 91.73000336,
+    "close_price": 91.51000214,
+    "percent_change": -0.23983562
+  },
+  {
+    "title": "Elevance Health (ELV) Brand Inks Deal to Better Serve Georgia",
+    "published": 1712686380,
+    "posting_price": 92.33999634,
+    "close_price": 93.05000305,
+    "percent_change": 0.76890485
+  },
+  {
+    "title": "Edwards Lifesciences - Study of NFL Alumni Cohort Finds Majority Suffer From Heart Disease without Knowing It",
+    "published": 1712561352,
+    "posting_price": 92.61000061,
+    "close_price": 92.33999634,
+    "percent_change": -0.2915498
+  },
+  {
+    "title": "SMART data a 'modest win' for Medtronic, says Jefferies",
+    "published": 1712560800,
+    "posting_price": 92.61000061,
+    "close_price": 92.33999634,
+    "percent_change": -0.2915498
+  },
+  {
+    "title": "Study of NFL Alumni Cohort Finds Majority Suffer From Heart Disease Without Knowing It",
+    "published": 1712521800
+  },
+  {
+    "title": "Evercore ISI Remains a Hold on Edwards Lifesciences (EW)",
+    "published": 1712229420,
+    "posting_price": 93.68000031,
+    "close_price": 91.19999695,
+    "percent_change": -2.64731357
+  },
+  {
+    "title": "Edwards Lifesciences Corp. stock underperforms Thursday when compared to competitors",
+    "published": 1712202960,
+    "posting_price": 93.68000031,
+    "close_price": 91.19999695,
+    "percent_change": -2.64731357
+  },
+  {
+    "title": "Tenet Healthcare (THC) Soars 76% in a Year: What Lies Ahead?",
+    "published": 1712162700,
+    "posting_price": 93.94999695,
+    "close_price": 93.01999664,
+    "percent_change": -0.9898886
+  },
+  {
+    "title": "Are Robust Financials Driving The Recent Rally In Edwards Lifesciences Corporation's (NYSE:EW) Stock?",
+    "published": 1712142029,
+    "posting_price": 93.94999695,
+    "close_price": 93.01999664,
+    "percent_change": -0.9898886
+  },
+  {
+    "title": "Precedential Federal Circuit Opinion Underscores Tension In Interpretation Of The Safe Harbor Of 35 U.S.C. \u00a7 271(e)(1)",
+    "published": 1712139131,
+    "posting_price": 93.94999695,
+    "close_price": 93.01999664,
+    "percent_change": -0.9898886
+  },
+  {
+    "title": "Edwards Lifesciences price target raised by $8 at Citi, here's why",
+    "published": 1712119920,
+    "posting_price": 93.94999695,
+    "close_price": 93.01999664,
+    "percent_change": -0.9898886
+  },
+  {
+    "title": "$100 Invested In Edwards Lifesciences 10 Years Ago Would Be Worth This Much Today",
+    "published": 1712061360,
+    "posting_price": 93.44999695,
+    "close_price": 94.30999756,
+    "percent_change": 0.92027891
   }
 ]

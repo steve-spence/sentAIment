@@ -1,30 +1,322 @@
 [
   {
+    "title": "Texas Instruments (NASDAQ:TXN) Is Reinvesting At Lower Rates Of Return",
+    "published": 1742641209
+  },
+  {
     "title": "Wall Street's Boldest Bets: Tesla, Nvidia, and Texas Instruments Set for a Massive Rebound",
-    "published": 1742401392
+    "published": 1742401392,
+    "posting_price": 179.66999817,
+    "close_price": 181.74000549,
+    "percent_change": 1.15211629
   },
   {
     "title": "Citi is bullish on analog chip stocks, highlights Texas Instruments",
-    "published": 1742391966
+    "published": 1742391966,
+    "posting_price": 179.66999817,
+    "close_price": 181.74000549,
+    "percent_change": 1.15211629
   },
   {
     "title": "Should You Hold Texas Instruments Incorporated (TXN) for the Long-Term?",
-    "published": 1742215550
+    "published": 1742215550,
+    "posting_price": 176.1000061,
+    "close_price": 179.99000549,
+    "percent_change": 2.20897175
   },
   {
     "title": "How chip firms have fared since Trump's inauguration, from Nvidia to Intel",
-    "published": 1742191206
+    "published": 1742191206,
+    "posting_price": 176.1000061,
+    "close_price": 179.99000549,
+    "percent_change": 2.20897175
   },
   {
     "title": "1 High-Flying Stock to Own for Decades and 2 to Ignore",
-    "published": 1741797878
+    "published": 1741797878,
+    "posting_price": 178.25,
+    "close_price": 175.69999695,
+    "percent_change": -1.43057675
   },
   {
     "title": "'Capitulatory signals' indicate potential upside for chip stocks",
-    "published": 1741793610
+    "published": 1741793610,
+    "posting_price": 178.25,
+    "close_price": 175.69999695,
+    "percent_change": -1.43057675
   },
   {
-    "title": "Q4 Analog Semiconductors Earnings: Himax (NASDAQ:HIMX) Earns Top Marks",
-    "published": 1741683968
+    "title": "Elliott Wave Technical Analysis: Texas Instruments Inc. - Monday, April 15",
+    "published": 1713171000,
+    "posting_price": 163.70863179,
+    "close_price": 161.82145691,
+    "percent_change": -1.15276443
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Lam Research (LRCX) and Texas Instruments (TXN)",
+    "published": 1713152460,
+    "posting_price": 163.70863179,
+    "close_price": 161.82145691,
+    "percent_change": -1.15276443
+  },
+  {
+    "title": "Texas Instruments initiated with bullish view at Evercore ISI, here's why",
+    "published": 1713151440,
+    "posting_price": 163.70863179,
+    "close_price": 161.82145691,
+    "percent_change": -1.15276443
+  },
+  {
+    "title": "Intel, AMD lead chips lower on China worries; investors await earnings",
+    "published": 1712888340,
+    "posting_price": 163.83508689,
+    "close_price": 161.80198669,
+    "percent_change": -1.2409431
+  },
+  {
+    "title": "Smart Money Is Betting Big In TXN Options",
+    "published": 1712884980,
+    "posting_price": 163.83508689,
+    "close_price": 161.80198669,
+    "percent_change": -1.2409431
+  },
+  {
+    "title": "May 31st Options Now Available For Texas Instruments (TXN)",
+    "published": 1712832900,
+    "posting_price": 165.27481557,
+    "close_price": 166.53942871,
+    "percent_change": 0.7651578
+  },
+  {
+    "title": "Q4 Earnings Highlights: Micron Technology (NASDAQ:MU) Vs The Rest Of The Semiconductors Stocks",
+    "published": 1712826351,
+    "posting_price": 165.27481557,
+    "close_price": 166.53942871,
+    "percent_change": 0.7651578
+  },
+  {
+    "title": "Q4 Rundown: NXP Semiconductors (NASDAQ:NXPI) Vs Other Analog Semiconductors Stocks",
+    "published": 1712825455,
+    "posting_price": 165.27481557,
+    "close_price": 166.53942871,
+    "percent_change": 0.7651578
+  },
+  {
+    "title": "Dividend Investors Take Note: Unlocking Texas-Sized Returns With Texas Instruments",
+    "published": 1712767647,
+    "posting_price": 165.2456226,
+    "close_price": 164.32148743,
+    "percent_change": -0.55924941
+  },
+  {
+    "title": "Vulcan Value Partners Q1 2024 Letter",
+    "published": 1712748900,
+    "posting_price": 165.2456226,
+    "close_price": 164.32148743,
+    "percent_change": -0.55924941
+  },
+  {
+    "title": "Texas Instruments Reaches Analyst Target Price",
+    "published": 1712743020,
+    "posting_price": 165.2456226,
+    "close_price": 164.32148743,
+    "percent_change": -0.55924941
+  },
+  {
+    "title": "Unpacking Q4 Earnings: MACOM (NASDAQ:MTSI) In The Context Of Other Analog Semiconductors Stocks",
+    "published": 1712738785,
+    "posting_price": 165.2456226,
+    "close_price": 164.32148743,
+    "percent_change": -0.55924941
+  },
+  {
+    "title": "Navigating Market Uncertainty: Intrinsic Value of Texas Instruments Inc",
+    "published": 1712728860,
+    "posting_price": 165.2456226,
+    "close_price": 164.32148743,
+    "percent_change": -0.55924941
+  },
+  {
+    "title": "Winners And Losers Of Q4: Skyworks Solutions (NASDAQ:SWKS) Vs The Rest Of The Analog Semiconductors Stocks",
+    "published": 1712653229,
+    "posting_price": 166.34487694,
+    "close_price": 168.73791504,
+    "percent_change": 1.43860042
+  },
+  {
+    "title": "3 Semiconductor Stocks to Sell in April Before They Crash & Burn",
+    "published": 1712607300,
+    "posting_price": 163.04714323,
+    "close_price": 164.8467865,
+    "percent_change": 1.10375639
+  },
+  {
+    "title": "Texas Instruments to webcast its 2024 annual meeting of stockholders",
+    "published": 1712598720,
+    "posting_price": 163.04714323,
+    "close_price": 164.8467865,
+    "percent_change": 1.10375639
+  },
+  {
+    "title": "Applied Materials replaces GlobalFoundries in Cantor's top 5 list ahead of earnings season",
+    "published": 1712569500,
+    "posting_price": 163.04714323,
+    "close_price": 164.8467865,
+    "percent_change": 1.10375639
+  },
+  {
+    "title": "Q4 Earnings Outperformers: Universal Display (NASDAQ:OLED) And The Rest Of The Analog Semiconductors Stocks",
+    "published": 1712567536,
+    "posting_price": 163.04714323,
+    "close_price": 164.8467865,
+    "percent_change": 1.10375639
+  },
+  {
+    "title": "Nvidia, Micron, Qualcomm in focus as KeyBanc boosts estimates on China, AI hopes",
+    "published": 1712562960,
+    "posting_price": 163.04714323,
+    "close_price": 164.8467865,
+    "percent_change": 1.10375639
+  },
+  {
+    "title": "Ahead Of Chip Earnings, Analyst Turns More Bullish On Nvidia And These Semiconductor Stocks On Robust AI Demand",
+    "published": 1712561460,
+    "posting_price": 163.04714323,
+    "close_price": 164.8467865,
+    "percent_change": 1.10375639
+  },
+  {
+    "title": "Watch Out Below? A Steep Market Correction Could Ruin SOXL Returns",
+    "published": 1712506447
+  },
+  {
+    "title": "2 Semiconductor Stocks You May Not Know Are Buys Right Now",
+    "published": 1712396700
+  },
+  {
+    "title": "Reflecting On Analog Semiconductors Stocks\u2019 Q4 Earnings: ON Semiconductor (NASDAQ:ON)",
+    "published": 1712310817,
+    "posting_price": 163.98101824,
+    "close_price": 162.94013977,
+    "percent_change": -0.63475546
+  },
+  {
+    "title": "Texas Instruments Inc. stock underperforms Friday when compared to competitors",
+    "published": 1712288700,
+    "posting_price": 163.98101824,
+    "close_price": 162.94013977,
+    "percent_change": -0.63475546
+  },
+  {
+    "title": "Global semiconductor sales jump 16.3% in February: SIA",
+    "published": 1712234640,
+    "posting_price": 167.09391101,
+    "close_price": 163.94210815,
+    "percent_change": -1.88624639
+  },
+  {
+    "title": "May 24th Options Now Available For Texas Instruments (TXN)",
+    "published": 1712223900,
+    "posting_price": 167.09391101,
+    "close_price": 163.94210815,
+    "percent_change": -1.88624639
+  },
+  {
+    "title": "Analog Semiconductors Stocks Q4 In Review: Monolithic Power Systems (NASDAQ:MPWR) Vs Peers",
+    "published": 1712220374,
+    "posting_price": 167.09391101,
+    "close_price": 163.94210815,
+    "percent_change": -1.88624639
+  },
+  {
+    "title": "Taiwan Earthquake: Will Chip Supply Be Impacted?",
+    "published": 1712209080,
+    "posting_price": 167.09391101,
+    "close_price": 163.94210815,
+    "percent_change": -1.88624639
+  },
+  {
+    "title": "Texas Instruments Unusual Options Activity For April 04",
+    "published": 1712198220,
+    "posting_price": 167.09391101,
+    "close_price": 163.94210815,
+    "percent_change": -1.88624639
+  },
+  {
+    "title": "Texas Instruments (TXN) Stock Slides as Market Rises: Facts to Know Before You Trade",
+    "published": 1712181620,
+    "posting_price": 164.96352989,
+    "close_price": 165.70283508,
+    "percent_change": 0.44816281
+  },
+  {
+    "title": "You Would Have Over $670,000 If You Invested $15k In This Tech Stock 10 Years Ago",
+    "published": 1712138760,
+    "posting_price": 164.96352989,
+    "close_price": 165.70283508,
+    "percent_change": 0.44816281
+  },
+  {
+    "title": "Analog Semiconductors Stocks Q4 Highlights: Analog Devices (NASDAQ:ADI)",
+    "published": 1712137678,
+    "posting_price": 164.96352989,
+    "close_price": 165.70283508,
+    "percent_change": 0.44816281
+  },
+  {
+    "title": "Semiconductors Winners And Losers Heading Into Q2 2024",
+    "published": 1712074851,
+    "posting_price": 167.65813705,
+    "close_price": 165.7223053,
+    "percent_change": -1.15463036
+  },
+  {
+    "title": "Texas Instruments to webcast Q1 2024 earnings conference call",
+    "published": 1712071620,
+    "posting_price": 167.65813705,
+    "close_price": 165.7223053,
+    "percent_change": -1.15463036
+  },
+  {
+    "title": "Analog Semiconductors Stocks Q4 Teardown: Impinj (NASDAQ:PI) Vs The Rest",
+    "published": 1712046609,
+    "posting_price": 167.65813705,
+    "close_price": 165.7223053,
+    "percent_change": -1.15463036
+  },
+  {
+    "title": "US urges South Korea to tighten chip export curbs on China - report",
+    "published": 1712032200,
+    "posting_price": 167.65813705,
+    "close_price": 165.7223053,
+    "percent_change": -1.15463036
+  },
+  {
+    "title": "A Deep Dive Into Investing Strategies For A Rich Retirement",
+    "published": 1712029379,
+    "posting_price": 167.65813705,
+    "close_price": 165.7223053,
+    "percent_change": -1.15463036
+  },
+  {
+    "title": "4 Factor Dividend Growth Portfolio - A Strong Finish To Quarter 1",
+    "published": 1712024751,
+    "posting_price": 167.65813705,
+    "close_price": 165.7223053,
+    "percent_change": -1.15463036
+  },
+  {
+    "title": "Texas Instruments Incorporated (TXN) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1711976411,
+    "posting_price": 169.37993049,
+    "close_price": 168.45579529,
+    "percent_change": -0.545599
+  },
+  {
+    "title": "China opposes revised US chip export rules - report",
+    "published": 1711951200,
+    "posting_price": 169.37993049,
+    "close_price": 168.45579529,
+    "percent_change": -0.545599
   }
 ]

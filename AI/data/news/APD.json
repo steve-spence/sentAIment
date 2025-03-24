@@ -1,22 +1,256 @@
 [
   {
     "title": "BASF (BASFY) Stock Jumps 10.9%: Will It Continue to Soar?",
-    "published": 1741250400
+    "published": 1741250400,
+    "posting_price": 310.52999878,
+    "close_price": 310.95999146,
+    "percent_change": 0.13847058
   },
   {
     "title": "Air Products to Exit Three U.S. Projects to Streamline Backlog",
-    "published": 1740578940
+    "published": 1740578940,
+    "posting_price": 317.29998779,
+    "close_price": 313.8500061,
+    "percent_change": -1.08729336
   },
   {
     "title": "Air Products and Chemicals (NYSE:APD) Could Be Struggling To Allocate Capital",
-    "published": 1740135609
+    "published": 1740135609,
+    "posting_price": 314.04998779,
+    "close_price": 309.89001465,
+    "percent_change": -1.32462133
   },
   {
     "title": "Air Products to Feature Decarbonization Solutions at POWERGEN",
-    "published": 1739278560
+    "published": 1739278560,
+    "posting_price": 309.39001465,
+    "close_price": 309.48999023,
+    "percent_change": 0.03231377
   },
   {
     "title": "Air Products' Earnings Meet Estimates, Revenues Miss in Q1",
-    "published": 1738853160
+    "published": 1738853160,
+    "posting_price": 329.92999268,
+    "close_price": 328.13000488,
+    "percent_change": -0.54556659
+  },
+  {
+    "title": "Air Products receives funding to build hydrogen refueling stations in Germany",
+    "published": 1713194306,
+    "posting_price": 228.74999045,
+    "close_price": 226.81700134,
+    "percent_change": -0.8450226
+  },
+  {
+    "title": "Air Products Receives Funding to Build Two Large-Scale Hydrogen Refueling Stations in the Region of North-Rhine Westphalia Nordrhein Westfalen",
+    "published": 1713190020,
+    "posting_price": 228.74999045,
+    "close_price": 226.81700134,
+    "percent_change": -0.8450226
+  },
+  {
+    "title": "Air Products gets funding to build two hydrogen refueling stations in Germany",
+    "published": 1713183840,
+    "posting_price": 228.74999045,
+    "close_price": 226.81700134,
+    "percent_change": -0.8450226
+  },
+  {
+    "title": "Air Products receives funding to build two Hydrogen Refueling Stations",
+    "published": 1713172260,
+    "posting_price": 228.74999045,
+    "close_price": 226.81700134,
+    "percent_change": -0.8450226
+  },
+  {
+    "title": "Hydrogen Hype: 3 Value Stock Picks in the Trillion-Dollar Market",
+    "published": 1713100222
+  },
+  {
+    "title": "Wall Street Favorites: 7 Hydrogen Stocks with Strong Buy Ratings for April 2024",
+    "published": 1713002400
+  },
+  {
+    "title": "How To Invest $100,000 Today With Peace Of Mind",
+    "published": 1712998800
+  },
+  {
+    "title": "Albemarle remains the most heavily shorted materials stock in March",
+    "published": 1712917800,
+    "posting_price": 229.91762862,
+    "close_price": 227.18003845,
+    "percent_change": -1.19068302
+  },
+  {
+    "title": "Albemarle remains most heavily shorted materials stock in March",
+    "published": 1712916720,
+    "posting_price": 229.91762862,
+    "close_price": 227.18003845,
+    "percent_change": -1.19068302
+  },
+  {
+    "title": "ClearBridge Large Cap Value Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712913300,
+    "posting_price": 229.91762862,
+    "close_price": 227.18003845,
+    "percent_change": -1.19068302
+  },
+  {
+    "title": "10 Dividend Aristocrat Bargain Buys Yielding As Much As 9.4%",
+    "published": 1712905200,
+    "posting_price": 229.91762862,
+    "close_price": 227.18003845,
+    "percent_change": -1.19068302
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 229.91762862,
+    "close_price": 227.18003845,
+    "percent_change": -1.19068302
+  },
+  {
+    "title": "DuPont (DD) Unveils Pyralux ML Laminate for Flexible PCBs",
+    "published": 1712844300,
+    "posting_price": 232.05668916,
+    "close_price": 231.81138611,
+    "percent_change": -0.10570824
+  },
+  {
+    "title": "Investors Have Cooled on Hydrogen. A Second Wave Is Coming.",
+    "published": 1712820300,
+    "posting_price": 232.05668916,
+    "close_price": 231.81138611,
+    "percent_change": -0.10570824
+  },
+  {
+    "title": "Warning: APD is at high risk of performing badly",
+    "published": 1712808000,
+    "posting_price": 232.05668916,
+    "close_price": 231.81138611,
+    "percent_change": -0.10570824
+  },
+  {
+    "title": "Steel Dynamics, Dow among top materials picks ahead of Q1 earnings; Albemarle gets a Sell",
+    "published": 1712798520,
+    "posting_price": 232.05668916,
+    "close_price": 231.81138611,
+    "percent_change": -0.10570824
+  },
+  {
+    "title": "16 Best Materials Stocks To Buy in 2024",
+    "published": 1712778985,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "3 Hot Hydrogen Stocks Ready to Ascend to New Heights",
+    "published": 1712778418,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "If You Can Only Buy One Hydrogen Stock in April, It Better Be One of These 3 Names",
+    "published": 1712756520,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "ClearBridge Appreciation Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712753700,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "Linde downgraded at Citigroup on valuation",
+    "published": 1712741280,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "Buy 9 Sustainable Dividend Dogs Of Barron's Top 100",
+    "published": 1712740500,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "IFF upgraded at Citigroup on rising profit margin",
+    "published": 1712738520,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "Analysts Are Neutral on These Materials Stocks: Mosaic Co (MOS), Air Products and Chemicals (APD)",
+    "published": 1712737200,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "Air Products price target raised by $25 at Citi, here's why",
+    "published": 1712725080,
+    "posting_price": 231.17359457,
+    "close_price": 231.47776794,
+    "percent_change": 0.1315779
+  },
+  {
+    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
+    "published": 1712395800
+  },
+  {
+    "title": "Air Products And Chemicals: First Mover Advantage Not Priced In",
+    "published": 1712339782,
+    "posting_price": 232.42952419,
+    "close_price": 234.19569397,
+    "percent_change": 0.75987325
+  },
+  {
+    "title": "4 Dividend Aristocrats Signal Buy In April Plus 6 To Watch",
+    "published": 1712324215,
+    "posting_price": 232.42952419,
+    "close_price": 234.19569397,
+    "percent_change": 0.75987325
+  },
+  {
+    "title": "Buy-rated stocks within Materials - Citi",
+    "published": 1712320920,
+    "posting_price": 232.42952419,
+    "close_price": 234.19569397,
+    "percent_change": 0.75987325
+  },
+  {
+    "title": "Showcasing Seeking Alpha's March 2024 New Analysts",
+    "published": 1712316600,
+    "posting_price": 232.42952419,
+    "close_price": 234.19569397,
+    "percent_change": 0.75987325
+  },
+  {
+    "title": "Stock losers of Republican policy if Trump wins - GS",
+    "published": 1712310060,
+    "posting_price": 232.42952419,
+    "close_price": 234.19569397,
+    "percent_change": 0.75987325
+  },
+  {
+    "title": "The 3 Most Undervalued Stocks With Strong Fundamentals to Buy in April 2024",
+    "published": 1712266200,
+    "posting_price": 236.58986772,
+    "close_price": 232.6552124,
+    "percent_change": -1.66307009
+  },
+  {
+    "title": "Buy vs. Sell ideas paired within each sector - Oppenheimer",
+    "published": 1712025420,
+    "posting_price": 238.5130407,
+    "close_price": 235.33390808,
+    "percent_change": -1.33289677
   }
 ]

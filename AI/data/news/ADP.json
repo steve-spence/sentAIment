@@ -1,7 +1,17 @@
 [
   {
+    "title": "2 Reasons to Like ADP (and 1 Not So Much)",
+    "published": 1742807366,
+    "posting_price": 297.52999878,
+    "close_price": 298.67999268,
+    "percent_change": 0.3865136
+  },
+  {
     "title": "ADP Celebrates 2025 HCM Distinction Award Winners at 40th Annual ADP\u00ae Meeting of the Minds Conference",
-    "published": 1742391120
+    "published": 1742391120,
+    "posting_price": 295.92999268,
+    "close_price": 298.79000854,
+    "percent_change": 0.96645015
   },
   {
     "title": "Investors in Automatic Data Processing (NASDAQ:ADP) have seen stellar returns of 134% over the past five years",
@@ -9,18 +19,199 @@
   },
   {
     "title": "ADP National Employment Report: Private Sector Employment Increased by 77,000 Jobs in February; Annual Pay was Up 4.7%",
-    "published": 1741180500
+    "published": 1741180500,
+    "posting_price": 309.72961436,
+    "close_price": 308.78463745,
+    "percent_change": -0.30509737
   },
   {
     "title": "With EPS Growth And More, Automatic Data Processing (NASDAQ:ADP) Makes An Interesting Case",
-    "published": 1740135632
+    "published": 1740135632,
+    "posting_price": 310.12746727,
+    "close_price": 309.11288452,
+    "percent_change": -0.32715024
   },
   {
     "title": "ADP National Employment Report: Private Sector Employment Increased by 183,000 Jobs in January; Annual Pay was Up 4.7%",
-    "published": 1738761300
+    "published": 1738761300,
+    "posting_price": 304.01009118,
+    "close_price": 306.51672363,
+    "percent_change": 0.82452278
   },
   {
-    "title": "Automatic Data Processing Inc (ADP) Q2 2025 Earnings Call Highlights: Strong Revenue Growth and ...",
-    "published": 1738307779
+    "title": "Automatic Data Processing: AI Technology And A Strong U.S. Labor Market",
+    "published": 1713168361,
+    "posting_price": 241.87968401,
+    "close_price": 238.94282532,
+    "percent_change": -1.21418163
+  },
+  {
+    "title": "Boeing weighs on large-cap industrials in turbulent week",
+    "published": 1713067380
+  },
+  {
+    "title": "May 31st Options Now Available For Automatic Data Processing (ADP)",
+    "published": 1712832780,
+    "posting_price": 241.34125649,
+    "close_price": 239.27566528,
+    "percent_change": -0.85587986
+  },
+  {
+    "title": "3 Growth Stocks That Could Soar 50% or More by Year\u2019s End",
+    "published": 1712754240,
+    "posting_price": 243.11316953,
+    "close_price": 240.61683655,
+    "percent_change": -1.02681931
+  },
+  {
+    "title": "Automatic Data Processing (ADP) Ascends While Market Falls: Some Facts to Note",
+    "published": 1712613619,
+    "posting_price": 239.22671681,
+    "close_price": 241.44894409,
+    "percent_change": 0.92892103
+  },
+  {
+    "title": "Buy 5 S&P 500 Laggards of Q1 Likely to Gather Pace in Q2",
+    "published": 1712577900,
+    "posting_price": 239.22671681,
+    "close_price": 241.44894409,
+    "percent_change": 0.92892103
+  },
+  {
+    "title": "Paylocity: Gem In A Highly Competitive Industry",
+    "published": 1712565161,
+    "posting_price": 239.22671681,
+    "close_price": 241.44894409,
+    "percent_change": 0.92892103
+  },
+  {
+    "title": "DGI For The DIY: 2023 Dividend Portfolio Review",
+    "published": 1712546542,
+    "posting_price": 239.22671681,
+    "close_price": 241.44894409,
+    "percent_change": 0.92892103
+  },
+  {
+    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
+    "published": 1712395800
+  },
+  {
+    "title": "Dividend Roundup: Citigroup, Mastercard, AT&T, PNC Financial, and more",
+    "published": 1712300820,
+    "posting_price": 236.85765237,
+    "close_price": 239.69662476,
+    "percent_change": 1.19859855
+  },
+  {
+    "title": "Automatic Data Processing Inc. stock outperforms competitors on strong trading day",
+    "published": 1712288700,
+    "posting_price": 236.85765237,
+    "close_price": 239.69662476,
+    "percent_change": 1.19859855
+  },
+  {
+    "title": "Video: Daily Dividend Report: ADP,GFL,ASA,C,TT",
+    "published": 1712228400,
+    "posting_price": 242.3593686,
+    "close_price": 236.40733337,
+    "percent_change": -2.45587173
+  },
+  {
+    "title": "Why Automatic Data Processing is a Top 25 SAFE Dividend Stock (ADP)",
+    "published": 1712212020,
+    "posting_price": 242.3593686,
+    "close_price": 236.40733337,
+    "percent_change": -2.45587173
+  },
+  {
+    "title": "ADP Declares Regular Quarterly Dividend",
+    "published": 1712170740,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "ADP National Employment Report: Private Sector Employment Increased by 184,000 Jobs in March; Annual Pay was Up 5.1%",
+    "published": 1712146500,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Wall Street Wakes Up To The Risk In The Stock Market \u2013 Hoping For A Dovish Powell To Run Up Stocks",
+    "published": 1712141940,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Markets Coming To Terms With Limited Rate Cuts In 2024",
+    "published": 1712136120,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "U.S. Hiring Surges in Fresh Challenge for Inflation Battle, ADP Reports",
+    "published": 1712134462,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Private Employment Grows By 184,000 In March, Tops Expectations: 'Pay Is Heating Up'",
+    "published": 1712130420,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Fed Chair Powell's Upcoming Speech May Influence Market Direction",
+    "published": 1712121480,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Automatic Data Processing declares $1.40 dividend",
+    "published": 1712112120,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Stock winners of Republican policy if Trump wins - GS",
+    "published": 1712111100,
+    "posting_price": 242.60411938,
+    "close_price": 239.97073364,
+    "percent_change": -1.08546621
+  },
+  {
+    "title": "Markets Slide Further From Last Week's Highs; JOLTS Up Slightly",
+    "published": 1712056140,
+    "posting_price": 235.05638185,
+    "close_price": 242.44747925,
+    "percent_change": 3.14439342
+  },
+  {
+    "title": "4 Factor Dividend Growth Portfolio - A Strong Finish To Quarter 1",
+    "published": 1712024751,
+    "posting_price": 235.05638185,
+    "close_price": 242.44747925,
+    "percent_change": 3.14439342
+  },
+  {
+    "title": "3 Dividend Stocks Targeting 50% Upside by 2028",
+    "published": 1712007960,
+    "posting_price": 245.11024069,
+    "close_price": 240.14694214,
+    "percent_change": -2.024925
+  },
+  {
+    "title": "ADP to Announce Third Quarter Fiscal 2024 Financial Results on May 1, 2024",
+    "published": 1711972800,
+    "posting_price": 245.11024069,
+    "close_price": 240.14694214,
+    "percent_change": -2.024925
   }
 ]

@@ -3,6 +3,11 @@ from dotenv import load_dotenv
 import os
 from typing import Optional
 from .news_source import NewsSource
+import requests
+import json
+import yfinance as yf
+from tqdm import tqdm
+import time
 
 class FinnhubNews(NewsSource):
     def __init__(self):
@@ -21,18 +26,8 @@ class FinnhubNews(NewsSource):
         Return a list of news for a given stock symbol
         """
         super()._load_news(symbol)
-
-        news = self.finnhub_client.company_news(symbol, _from=start_date, to=end_date)
-
-        news_data = {item.pop('related'): item for item in news}
-        news_list = []
-        for key, value in news_data.items():
-            news_data = {
-                'title': value['headline'],
-                'published': value['datetime']
-            }
-            news_list.append(news_data)
-        return news_list
+        news_entries = self.finnhub_client.company_news(symbol, _from=start_date, to=end_date)
+        return [{'title': item['headline'], 'published' : item['datetime']} for item in news_entries]
 
 
     def get_news(self, start_date: str, end_date: str, symbol: Optional[str] = None) -> dict:
@@ -47,8 +42,9 @@ class FinnhubNews(NewsSource):
             return {symbol: self._load_news(symbol, start_date, end_date)}
         
         news_data = {}
-        for symbol in self.accepted_stocks.keys():
-            news_data[symbol] = self.__load_news(symbol, start_date, end_date)
+        for symbol in tqdm(self.accepted_stocks.keys(), desc=f'Getting finnhub company news from {start_date} to {end_date}'):
+            news_data[symbol] = self._load_news(symbol, start_date, end_date)
+            time.sleep(1) # api limits
         return news_data
 
 

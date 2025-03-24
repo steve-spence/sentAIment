@@ -1,7 +1,10 @@
 [
   {
     "title": "Top Dividend Stocks To Consider In March 2025",
-    "published": 1741950095
+    "published": 1741950095,
+    "posting_price": 73.69000244,
+    "close_price": 73.87999725,
+    "percent_change": 0.25782983
   },
   {
     "title": "Bank of America Sees an \u2018Attractive Entry Point\u2019 in These 2 Stocks",
@@ -9,14 +12,58 @@
   },
   {
     "title": "Top 3 US Dividend Stocks For Your Portfolio",
-    "published": 1739458924
+    "published": 1739458924,
+    "posting_price": 68.21562545,
+    "close_price": 69.11685181,
+    "percent_change": 1.32114359
   },
   {
     "title": "Morgan Stanley cuts ADM, Bunge targets on weaker 2025 outlook",
-    "published": 1739220255
+    "published": 1739220255,
+    "posting_price": 68.78012374,
+    "close_price": 68.49292755,
+    "percent_change": -0.41755695
   },
   {
     "title": "Bunge Gears Up to Report Q4 Earnings: Here's What to Expect",
-    "published": 1738605240
+    "published": 1738605240,
+    "posting_price": 74.57370764,
+    "close_price": 74.43505859,
+    "percent_change": -0.18592216
+  },
+  {
+    "title": "Short interest for tobacco and personal care industries surge in March",
+    "published": 1713174120,
+    "posting_price": 101.66553966,
+    "close_price": 100.77348328,
+    "percent_change": -0.87744223
+  },
+  {
+    "title": "Big Gold Inc. Launches Dual Fundraising for 2024 Drilling",
+    "published": 1712551740,
+    "posting_price": 103.83750081,
+    "close_price": 103.28481293,
+    "percent_change": -0.53226231
+  },
+  {
+    "title": "Bunge Schedules First Quarter 2024 Earnings Release and Conference Call",
+    "published": 1712261700,
+    "posting_price": 101.32616626,
+    "close_price": 102.27640533,
+    "percent_change": 0.93780225
+  },
+  {
+    "title": "Analyst Ratings For Bunge Global",
+    "published": 1712138820,
+    "posting_price": 100.63773164,
+    "close_price": 100.59894562,
+    "percent_change": -0.03854024
+  },
+  {
+    "title": "Bunge price target raised by $9 at Citi, here's why",
+    "published": 1712119320,
+    "posting_price": 100.63773164,
+    "close_price": 100.59894562,
+    "percent_change": -0.03854024
   }
 ]

@@ -1,22 +1,170 @@
 [
   {
     "title": "Arista Networks (ANET) Down 18.8% Since Last Earnings Report: Can It Rebound?",
-    "published": 1742484626
+    "published": 1742484626,
+    "posting_price": 216.47000122,
+    "close_price": 215.42999268,
+    "percent_change": -0.48044003
   },
   {
     "title": "Here\u2019s What Lifted Paycom Software (PAYC) Stock up More Than 20%",
-    "published": 1742389113
+    "published": 1742389113,
+    "posting_price": 217.66999817,
+    "close_price": 217.44000244,
+    "percent_change": -0.10566258
   },
   {
     "title": "Earnings growth of 11% over 3 years hasn't been enough to translate into positive returns for Paycom Software (NYSE:PAYC) shareholders",
-    "published": 1741867998
+    "published": 1741867998,
+    "posting_price": 205.61999512,
+    "close_price": 202.82000732,
+    "percent_change": -1.36172934
   },
   {
     "title": "Paycom Software Q4 Earnings and Revenues Top Estimates, Rise Y/Y",
-    "published": 1739451060
+    "published": 1739451060,
+    "posting_price": 215.41011723,
+    "close_price": 211.60682678,
+    "percent_change": -1.76560437
   },
   {
     "title": "Paycom Software (PAYC) Q4 2024 Earnings Call Transcript",
-    "published": 1739410213
+    "published": 1739410213,
+    "posting_price": 215.41011723,
+    "close_price": 211.60682678,
+    "percent_change": -1.76560437
+  },
+  {
+    "title": "Are Investors Undervaluing Paycom Software, Inc. (NYSE:PAYC) By 33%?",
+    "published": 1713181098,
+    "posting_price": 196.20499605,
+    "close_price": 191.22421265,
+    "percent_change": -2.53856094
+  },
+  {
+    "title": "Barclays Sticks to Their Hold Rating for Paycom (PAYC)",
+    "published": 1713151620,
+    "posting_price": 196.20499605,
+    "close_price": 191.22421265,
+    "percent_change": -2.53856094
+  },
+  {
+    "title": "New AI Bot Predicts These 7 Stocks Will Mint Millionaires",
+    "published": 1712944406,
+    "posting_price": 201.43383226,
+    "close_price": 196.45304871,
+    "percent_change": -2.47266484
+  },
+  {
+    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
+    "published": 1712915280,
+    "posting_price": 201.43383226,
+    "close_price": 196.45304871,
+    "percent_change": -2.47266484
+  },
+  {
+    "title": "Paycom recognized for customer service excellence by Business Intelligence Group",
+    "published": 1712841300,
+    "posting_price": 203.73568941,
+    "close_price": 202.92210388,
+    "percent_change": -0.39933383
+  },
+  {
+    "title": "Paycom Software, Inc. Announces First Quarter 2024 Earnings Release Date and Conference Call",
+    "published": 1712779500,
+    "posting_price": 201.94974114,
+    "close_price": 201.72154236,
+    "percent_change": -0.11299781
+  },
+  {
+    "title": "Paycom: The Worst May Be Priced In",
+    "published": 1712740878,
+    "posting_price": 201.94974114,
+    "close_price": 201.72154236,
+    "percent_change": -0.11299781
+  },
+  {
+    "title": "Paycom Named Among Most Trustworthy Companies in America by Newsweek",
+    "published": 1712606700,
+    "posting_price": 198.29849344,
+    "close_price": 200.28286743,
+    "percent_change": 1.00070049
+  },
+  {
+    "title": "Paylocity: Gem In A Highly Competitive Industry",
+    "published": 1712565161,
+    "posting_price": 198.29849344,
+    "close_price": 200.28286743,
+    "percent_change": 1.00070049
+  },
+  {
+    "title": "Paycom Announces Executive Leadership Changes and New Incentives",
+    "published": 1712287440,
+    "posting_price": 195.57001012,
+    "close_price": 196.74078369,
+    "percent_change": 0.59864678
+  },
+  {
+    "title": "Paycom and Its Employees Give Millions to Nonprofits in 2023",
+    "published": 1712261100,
+    "posting_price": 200.38211624,
+    "close_price": 196.20500183,
+    "percent_change": -2.08457446
+  },
+  {
+    "title": "Peering Into Paycom Software's Recent Short Interest",
+    "published": 1712147400,
+    "posting_price": 195.65929204,
+    "close_price": 197.25671387,
+    "percent_change": 0.81643034
+  },
+  {
+    "title": "Paycom\u2019s Growth Outlook: A Hold Rating Amid Leadership Changes and Macroeconomic Trends",
+    "published": 1712118600,
+    "posting_price": 195.65929204,
+    "close_price": 197.25671387,
+    "percent_change": 0.81643034
+  },
+  {
+    "title": "Paycom Software Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+    "published": 1712118120,
+    "posting_price": 195.65929204,
+    "close_price": 197.25671387,
+    "percent_change": 0.81643034
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Paycom (PAYC), Five9 (FIVN) and BYD Electronic (International) Co (OtherBYDIF)",
+    "published": 1712113320,
+    "posting_price": 195.65929204,
+    "close_price": 197.25671387,
+    "percent_change": 0.81643034
+  },
+  {
+    "title": "Paycom Promotes Amy Walker to Lead Sales",
+    "published": 1712063700,
+    "posting_price": 190.49992647,
+    "close_price": 196.12562561,
+    "percent_change": 2.95312405
+  },
+  {
+    "title": "Unpacking Q4 Earnings: Paycom (NYSE:PAYC) In The Context Of Other HR Software Stocks",
+    "published": 1712046534,
+    "posting_price": 190.49992647,
+    "close_price": 196.12562561,
+    "percent_change": 2.95312405
+  },
+  {
+    "title": "Paycom Software (PAYC) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "published": 1712008820,
+    "posting_price": 196.76061462,
+    "close_price": 196.73085022,
+    "percent_change": -0.01512721
+  },
+  {
+    "title": "Here is What to Know Beyond Why Paycom Software, Inc. (PAYC) is a Trending Stock",
+    "published": 1711976410,
+    "posting_price": 196.76061462,
+    "close_price": 196.73085022,
+    "percent_change": -0.01512721
   }
 ]

@@ -1,18 +1,93 @@
 [
   {
     "title": "Larry Robbins' Strategic Moves: Significant Reduction in Corteva Inc. by 3.62%",
-    "published": 1739575919
+    "published": 1739575919,
+    "posting_price": 104.99447187,
+    "close_price": 105.34352112,
+    "percent_change": 0.33244536
   },
   {
     "title": "Global Payments Q4 Earnings Miss on Higher Cost of Service",
-    "published": 1739471460
+    "published": 1739471460,
+    "posting_price": 108.25560594,
+    "close_price": 103.84758759,
+    "percent_change": -4.07186151
   },
   {
     "title": "Global Payments: Q4 Earnings Snapshot",
-    "published": 1739449685
+    "published": 1739449685,
+    "posting_price": 108.25560594,
+    "close_price": 103.84758759,
+    "percent_change": -4.07186151
   },
   {
     "title": "Can Global Payments Navigate Through Rising Costs in Q4 Earnings?",
-    "published": 1739374020
+    "published": 1739374020,
+    "posting_price": 106.13137597,
+    "close_price": 108.53484344,
+    "percent_change": 2.26461539
+  },
+  {
+    "title": "5 Financial Transaction Stocks to Watch Amid a Growing Digital Era",
+    "published": 1713191340,
+    "posting_price": 124.94450357,
+    "close_price": 121.963974,
+    "percent_change": -2.38548274
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Boeing (BA) and Global Payments (GPN)",
+    "published": 1713164460,
+    "posting_price": 124.94450357,
+    "close_price": 121.963974,
+    "percent_change": -2.38548274
+  },
+  {
+    "title": "5 Best Fintech Stocks to Buy in April 2024, According to Analysts",
+    "published": 1712644260,
+    "posting_price": 127.52893424,
+    "close_price": 126.90511322,
+    "percent_change": -0.48916038
+  },
+  {
+    "title": "Global Payments Inc. stock rises Tuesday, still underperforms market",
+    "published": 1712635440,
+    "posting_price": 127.52893424,
+    "close_price": 126.90511322,
+    "percent_change": -0.48916038
+  },
+  {
+    "title": "Looking Into Global Payments's Recent Short Interest",
+    "published": 1712629020,
+    "posting_price": 127.52893424,
+    "close_price": 126.90511322,
+    "percent_change": -0.48916038
+  },
+  {
+    "title": "Global Payments price target raised by $10 at Baird, here's why",
+    "published": 1712557200,
+    "posting_price": 125.63764504,
+    "close_price": 126.80609131,
+    "percent_change": 0.93001287
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: APi Group (APG), Waste Management (WM) and Global Payments (GPN)",
+    "published": 1712554920,
+    "posting_price": 125.63764504,
+    "close_price": 126.80609131,
+    "percent_change": 0.93001287
+  },
+  {
+    "title": "Top buy-rated stocks and sell-rated stocks within Financials - Citi",
+    "published": 1712224800,
+    "posting_price": 127.29130046,
+    "close_price": 124.76626587,
+    "percent_change": -1.98366627
+  },
+  {
+    "title": "My Top 15 High Growth Dividend Stocks For April 2024",
+    "published": 1711979271,
+    "posting_price": 132.24234346,
+    "close_price": 128.87562561,
+    "percent_change": -2.54586977
   }
 ]

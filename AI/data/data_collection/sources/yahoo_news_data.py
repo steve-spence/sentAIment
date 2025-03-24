@@ -48,7 +48,7 @@ class YahooNews(NewsSource):
             return {symbol: self._load_news(symbol)}
         
         news_data = {}
-        for symbol in tqdm(self.accepted_stocks.keys(), total=len(self.accepted_stocks.keys()), desc='Getting news'):
+        for symbol in tqdm(self.accepted_stocks.keys(), total=len(self.accepted_stocks.keys()), desc='Getting recent yahoo news'):
             news_data[symbol] = self._load_news(symbol)
         return news_data
 

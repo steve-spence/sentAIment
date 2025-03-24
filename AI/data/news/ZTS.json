@@ -1,46 +1,391 @@
 [
   {
     "title": "Why Is Ionis Pharmaceuticals (IONS) Up 0.1% Since Last Earnings Report?",
-    "published": 1742571030
+    "published": 1742571030,
+    "posting_price": 162.88000488,
+    "close_price": 163.02999878,
+    "percent_change": 0.09208859
   },
   {
     "title": "Q4 Earnings Highs And Lows: Royalty Pharma (NASDAQ:RPRX) Vs The Rest Of The Branded Pharmaceuticals Stocks",
-    "published": 1742548353
+    "published": 1742548353,
+    "posting_price": 162.88000488,
+    "close_price": 163.02999878,
+    "percent_change": 0.09208859
   },
   {
     "title": "Q4 Earnings Roundup: Elanco (NYSE:ELAN) And The Rest Of The Pharmaceuticals Segment",
-    "published": 1742288480
+    "published": 1742288480,
+    "posting_price": 165.11999512,
+    "close_price": 164.42999268,
+    "percent_change": -0.4178794
   },
   {
     "title": "Q4 Earnings Recap: Supernus Pharmaceuticals (NASDAQ:SUPN) Tops Branded Pharmaceuticals Stocks",
-    "published": 1741942874
+    "published": 1741942874,
+    "posting_price": 159.33000183,
+    "close_price": 161.25999451,
+    "percent_change": 1.2113178
   },
   {
     "title": "Zoetis (ZTS) Declined in Q4 Despite Posting Excellent Results",
-    "published": 1741269895
+    "published": 1741269895,
+    "posting_price": 165.92999268,
+    "close_price": 167.25,
+    "percent_change": 0.79552063
   },
   {
     "title": "Q4 Earnings Outperformers: Corcept (NASDAQ:CORT) And The Rest Of The Branded Pharmaceuticals Stocks",
-    "published": 1741079177
+    "published": 1741079177,
+    "posting_price": 171.38999939,
+    "close_price": 169.8999939,
+    "percent_change": -0.86936548
   },
   {
     "title": "What Makes Zoetis (ZTS) a Compelling Opportunity?",
-    "published": 1740754762
+    "published": 1740754762,
+    "posting_price": 165.88999939,
+    "close_price": 167.24000549,
+    "percent_change": 0.81379595
   },
   {
     "title": "2 Healthcare Stocks with Big Upside and 1 to Skip",
-    "published": 1740142859
+    "published": 1740142859,
+    "posting_price": 157.77999878,
+    "close_price": 160.46000671,
+    "percent_change": 1.69857266
   },
   {
     "title": "Stock Markets Are Wowed By China\u2019s AI. Alibaba, DeepSeek, Others Remain Risky Bets and 5 Other Things to Know Today.",
-    "published": 1740138900
+    "published": 1740138900,
+    "posting_price": 157.77999878,
+    "close_price": 160.46000671,
+    "percent_change": 1.69857266
   },
   {
     "title": "Zoetis Inc. (NYSE:ZTS) Delivered A Better ROE Than Its Industry",
-    "published": 1740135614
+    "published": 1740135614,
+    "posting_price": 157.77999878,
+    "close_price": 160.46000671,
+    "percent_change": 1.69857266
   },
   {
     "title": "Soaring Egg Prices Reignite Debate Over Bird Flu Vaccinations",
-    "published": 1740133800
+    "published": 1740133800,
+    "posting_price": 157.77999878,
+    "close_price": 160.46000671,
+    "percent_change": 1.69857266
+  },
+  {
+    "title": "Zoetis (ZTS) Stock Moves -0.14%: What You Should Know",
+    "published": 1713219317,
+    "posting_price": 149.52530504,
+    "close_price": 148.18955994,
+    "percent_change": -0.89332378
+  },
+  {
+    "title": "ZTS Investigation Alert: Kessler Topaz Meltzer & Check, LLP Encourages Zoetis Inc. (NYSE",
+    "published": 1713196326,
+    "posting_price": 149.52530504,
+    "close_price": 148.18955994,
+    "percent_change": -0.89332378
+  },
+  {
+    "title": "ZTS LOSS ALERT: ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages Zoetis Inc. Investors to Inquire About Securities Class Action Investigation \u2013 ZTS",
+    "published": 1713194825,
+    "posting_price": 149.52530504,
+    "close_price": 148.18955994,
+    "percent_change": -0.89332378
+  },
+  {
+    "title": "Company News for Apr 15, 2024",
+    "published": 1713187680,
+    "posting_price": 149.52530504,
+    "close_price": 148.18955994,
+    "percent_change": -0.89332378
+  },
+  {
+    "title": "INVESTIGATION ALERT: The Schall Law Firm Announces it is Investigating Claims Against Zoetis Inc. and Encourages Investors with Losses to Contact the Firm",
+    "published": 1713174368,
+    "posting_price": 149.52530504,
+    "close_price": 148.18955994,
+    "percent_change": -0.89332378
+  },
+  {
+    "title": "Despite Lawsuit Risks: Why Zoetis Remains A Compelling Investment",
+    "published": 1713130065
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Biohaven Ltd. (BHVN), Zoetis (ZTS) and Ginkgo Bioworks Holdings (DNA)",
+    "published": 1713084060
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 14",
+    "published": 1712998575
+  },
+  {
+    "title": "Wall Street Breakfast: What Moved Markets",
+    "published": 1712990543
+  },
+  {
+    "title": "Masters In Trading - Saturday, April 13",
+    "published": 1712976060
+  },
+  {
+    "title": "Zoetis Stock Falls on Concerns Over Pet Arthritis Drugs. Company Says They\u2019re Safe.",
+    "published": 1712944140,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Animal Health Giant Zoetis Stock Crumbles: Possible Side Effect Of Its Pet Arthritis Pain Drugs Sickened Dogs, Cats",
+    "published": 1712943055,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis Stock Falls After Journal Reports Scrutiny of Its Arthritis Drugs for Pets",
+    "published": 1712931302,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis Stock Crumbles After Report Suggests Arthritis Shots Sickened Dogs, Cats",
+    "published": 1712930108,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis\u2019s stock falls 8% after report that its arthritis shots may have sickened pets",
+    "published": 1712926740,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis hits 52-week low on adverse events linked to arthritis drugs (update)",
+    "published": 1712925180,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "JPMorgan Chase, Advanced Micro Devices fall; Progressive, State Street rise, 4/12/2024",
+    "published": 1712924760,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis\u2019s stock falls 7% to lead S&P 500 decliners after report its arthritis shots have sickened pets",
+    "published": 1712920680,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "WSJ Zoetis article does not bring new information, says William Blair",
+    "published": 1712920320,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712919660,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Video: S&P 500 Movers: ZTS, GL",
+    "published": 1712915220,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "WSJ article highlights known debates on safety of Zoetis' Librela, says BofA",
+    "published": 1712914860,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "What Killed Their Pets? Owners Blame Meds, but Vets Aren\u2019t Sure",
+    "published": 1712914200,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis put volume heavy and directionally bearish",
+    "published": 1712913360,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Biggest stock movers today: JPM, APLD, and more",
+    "published": 1712913240,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis falls -8.4%",
+    "published": 1712912400,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Pet owners blaming Zoetis arthritis drug for pet illnesses, WSJ says",
+    "published": 1712910720,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis Shares Slip Premarket After WSJ Report on Arthritis Drugs for Pets",
+    "published": 1712908097,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Zoetis slips on reports of adverse effects linked to arthritis drugs",
+    "published": 1712906400,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "These Stocks Moved the Most Today: JPMorgan Chase, Citigroup, AMD, Intel, Arista Networks, Zoetis, and More",
+    "published": 1712900220,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "What You Missed On Wall Street On Friday",
+    "published": 1712892060,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Why JPMorgan Shares Are Trading Lower By Around 5%? Here Are Other Stocks Moving In Friday's Mid-Day Session",
+    "published": 1712886780,
+    "posting_price": 154.20540623,
+    "close_price": 148.39733887,
+    "percent_change": -3.7664486
+  },
+  {
+    "title": "Why Zoetis Inc. (NYSE:ZTS) Looks Like A Quality Company",
+    "published": 1712840422,
+    "posting_price": 161.59658768,
+    "close_price": 161.01280212,
+    "percent_change": -0.36126107
+  },
+  {
+    "title": "Zoetis Becomes Oversold",
+    "published": 1712748720,
+    "posting_price": 162.52664091,
+    "close_price": 161.47782898,
+    "percent_change": -0.64531693
+  },
+  {
+    "title": "(ZTS) - Analyzing Zoetis's Short Interest",
+    "published": 1712739960,
+    "posting_price": 162.52664091,
+    "close_price": 161.47782898,
+    "percent_change": -0.64531693
+  },
+  {
+    "title": "ZTS, EXAS, AZN: Which Biotech Stock Is the Better Buy?",
+    "published": 1712721645,
+    "posting_price": 162.52664091,
+    "close_price": 161.47782898,
+    "percent_change": -0.64531693
+  },
+  {
+    "title": "Why Zoetis (ZTS) Dipped More Than Broader Market Today",
+    "published": 1712614522,
+    "posting_price": 164.12957155,
+    "close_price": 163.9415741,
+    "percent_change": -0.1145421
+  },
+  {
+    "title": "Estimating The Fair Value Of Zoetis Inc. (NYSE:ZTS)",
+    "published": 1712487651
+  },
+  {
+    "title": "Wall Street Analysts Just Trimmed Price Targets for These 10 Stocks",
+    "published": 1712450564
+  },
+  {
+    "title": "ClearBridge Dividend Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712385900
+  },
+  {
+    "title": "Zoetis Inc: World leader in animal health",
+    "published": 1712142939,
+    "posting_price": 163.25885205,
+    "close_price": 161.25027466,
+    "percent_change": -1.23030229
+  },
+  {
+    "title": "Expert Outlook: Zoetis Through The Eyes Of 4 Analysts",
+    "published": 1712048820,
+    "posting_price": 163.92177681,
+    "close_price": 163.26873779,
+    "percent_change": -0.39838454
+  },
+  {
+    "title": "Zoetis price target lowered by $20 at Stifel, here's why",
+    "published": 1712039340,
+    "posting_price": 163.92177681,
+    "close_price": 163.26873779,
+    "percent_change": -0.39838454
+  },
+  {
+    "title": "Zoetis price target raised by $20 at Stifel, here's why",
+    "published": 1712039220,
+    "posting_price": 163.92177681,
+    "close_price": 163.26873779,
+    "percent_change": -0.39838454
+  },
+  {
+    "title": "Zoetis Appoints Gavin D.K. Hattersley to its Board of Directors",
+    "published": 1712003400,
+    "posting_price": 167.20676621,
+    "close_price": 165.2575531,
+    "percent_change": -1.16575014
+  },
+  {
+    "title": "My Top 15 High Growth Dividend Stocks For April 2024",
+    "published": 1711979271,
+    "posting_price": 167.20676621,
+    "close_price": 165.2575531,
+    "percent_change": -1.16575014
+  },
+  {
+    "title": "Is It Time to Buy the S&P 500's 3 Worst-Performing Stocks of March?",
+    "published": 1711955400,
+    "posting_price": 167.20676621,
+    "close_price": 165.2575531,
+    "percent_change": -1.16575014
+  },
+  {
+    "title": "Zoetis Expands Board with New Director, Emphasizes Governance",
+    "published": 1711943700,
+    "posting_price": 167.20676621,
+    "close_price": 165.2575531,
+    "percent_change": -1.16575014
   }
 ]

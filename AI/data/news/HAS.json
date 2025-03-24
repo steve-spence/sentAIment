@@ -1,34 +1,255 @@
 [
   {
     "title": "3 Small-Cap Stocks Skating on Thin Ice",
-    "published": 1742562068
+    "published": 1742562068,
+    "posting_price": 60.04000092,
+    "close_price": 60.56999969,
+    "percent_change": 0.88274277
   },
   {
     "title": "Can Hasbro, Inc. (NASDAQ:HAS) Maintain Its Strong Returns?",
-    "published": 1742470207
+    "published": 1742470207,
+    "posting_price": 60.38000107,
+    "close_price": 60.38000107,
+    "percent_change": 0.0
   },
   {
     "title": "Move Over, Kids. Hasbro Wants Adults to Play.",
-    "published": 1741946400
+    "published": 1741946400,
+    "posting_price": 60.22999954,
+    "close_price": 59.79000092,
+    "percent_change": -0.73053067
   },
   {
     "title": "Q4 Earnings Highs And Lows: Bark (NYSE:BARK) Vs The Rest Of The Toys and Electronics Stocks",
-    "published": 1741942867
+    "published": 1741942867,
+    "posting_price": 60.22999954,
+    "close_price": 59.79000092,
+    "percent_change": -0.73053067
   },
   {
     "title": "Q4 Earnings Review: Toys and Electronics Stocks Led by Mattel (NASDAQ:MAT)",
-    "published": 1741784575
+    "published": 1741784575,
+    "posting_price": 62.81000137,
+    "close_price": 61.86000061,
+    "percent_change": -1.51249919
   },
   {
     "title": "Lego CEO on Trump tariffs: We won't let it destroy our momentum",
-    "published": 1741710734
+    "published": 1741710734,
+    "posting_price": 63.93000031,
+    "close_price": 62.95000076,
+    "percent_change": -1.53292593
   },
   {
     "title": "Reflecting On Toys and Electronics Stocks\u2019 Q4 Earnings: Funko (NASDAQ:FNKO)",
-    "published": 1741597430
+    "published": 1741597430,
+    "posting_price": 64.04000092,
+    "close_price": 63.93000031,
+    "percent_change": -0.1717686
   },
   {
     "title": "Why Trump tariffs are burning up your portfolio",
     "published": 1741523419
+  },
+  {
+    "title": "These 2 Stocks' Profit Growth Will Outshine Nvidia's, Analysts Say",
+    "published": 1713182426,
+    "posting_price": 54.22012424,
+    "close_price": 53.20558929,
+    "percent_change": -1.87114095
+  },
+  {
+    "title": "UK earnings, trading statements calendar - next 7 days",
+    "published": 1713172140,
+    "posting_price": 54.22012424,
+    "close_price": 53.20558929,
+    "percent_change": -1.87114095
+  },
+  {
+    "title": "UK earnings, trading statements calendar - next 21 days",
+    "published": 1713172140,
+    "posting_price": 54.22012424,
+    "close_price": 53.20558929,
+    "percent_change": -1.87114095
+  },
+  {
+    "title": "Hasbro price target raised by $3 at Stifel, here's why",
+    "published": 1713162960,
+    "posting_price": 54.22012424,
+    "close_price": 53.20558929,
+    "percent_change": -1.87114095
+  },
+  {
+    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Vail Resorts (MTN), Rollins (ROL) and Hasbro (HAS)",
+    "published": 1713162660,
+    "posting_price": 54.22012424,
+    "close_price": 53.20558929,
+    "percent_change": -1.87114095
+  },
+  {
+    "title": "Tech, Media & Telecom Roundup: Market Talk",
+    "published": 1713160620,
+    "posting_price": 54.22012424,
+    "close_price": 53.20558929,
+    "percent_change": -1.87114095
+  },
+  {
+    "title": "LONDON BROKER RATINGS: JPMorgan raises Taylor Wimpey, Persimmon",
+    "published": 1712897700,
+    "posting_price": 53.60757352,
+    "close_price": 53.40658188,
+    "percent_change": -0.37493143
+  },
+  {
+    "title": "Etsy, CarMax and Pool most shorted S&P 500 consumer discretionary stocks in March",
+    "published": 1712889720,
+    "posting_price": 53.60757352,
+    "close_price": 53.40658188,
+    "percent_change": -0.37493143
+  },
+  {
+    "title": "Attractive call overwriting opportunities for Russell 1000 stocks - JPM",
+    "published": 1712839980,
+    "posting_price": 54.44982488,
+    "close_price": 53.81813431,
+    "percent_change": -1.16013334
+  },
+  {
+    "title": "Hasbro : LUCKYCHAP LANDS ON LIONSGATE AND HASBRO\u2019S \u201cMONOPOLY\u201d",
+    "published": 1712831592,
+    "posting_price": 54.44982488,
+    "close_price": 53.81813431,
+    "percent_change": -1.16013334
+  },
+  {
+    "title": "Margot Robbie boards Lionsgate and Hasbro's 'Monopoly' movie as producer",
+    "published": 1712772900,
+    "posting_price": 53.89470557,
+    "close_price": 54.34454346,
+    "percent_change": 0.83466063
+  },
+  {
+    "title": "New additions to Goldman\u2019s High Operating Leverage list",
+    "published": 1712746860,
+    "posting_price": 53.89470557,
+    "close_price": 54.34454346,
+    "percent_change": 0.83466063
+  },
+  {
+    "title": "Buy 9 Sustainable Dividend Dogs Of Barron's Top 100",
+    "published": 1712740500,
+    "posting_price": 53.89470557,
+    "close_price": 54.34454346,
+    "percent_change": 0.83466063
+  },
+  {
+    "title": "A new version of Scrabble aims to make the word-building game more accessible",
+    "published": 1712696374,
+    "posting_price": 55.12937215,
+    "close_price": 54.87095642,
+    "percent_change": -0.46874419
+  },
+  {
+    "title": "Is Hasbro Inc (HAS) Set to Underperform? Analyzing the Factors Limiting Growth",
+    "published": 1712656980,
+    "posting_price": 55.12937215,
+    "close_price": 54.87095642,
+    "percent_change": -0.46874419
+  },
+  {
+    "title": "MAT or HAS: Which Is the Better Value Stock Right Now?",
+    "published": 1712590815,
+    "posting_price": 54.55510721,
+    "close_price": 55.11980057,
+    "percent_change": 1.03508799
+  },
+  {
+    "title": "Sales-Boosting Initiatives Aid Hasbro (HAS), High Costs Hurt",
+    "published": 1712580420,
+    "posting_price": 54.55510721,
+    "close_price": 55.11980057,
+    "percent_change": 1.03508799
+  },
+  {
+    "title": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+    "published": 1712580000,
+    "posting_price": 54.55510721,
+    "close_price": 55.11980057,
+    "percent_change": 1.03508799
+  },
+  {
+    "title": "UK dividends calendar",
+    "published": 1712568420,
+    "posting_price": 54.55510721,
+    "close_price": 55.11980057,
+    "percent_change": 1.03508799
+  },
+  {
+    "title": "UK dividends calendar - next 7 days",
+    "published": 1712568360,
+    "posting_price": 54.55510721,
+    "close_price": 55.11980057,
+    "percent_change": 1.03508799
+  },
+  {
+    "title": "Where Hasbro Stands With Analysts",
+    "published": 1712567280,
+    "posting_price": 54.55510721,
+    "close_price": 55.11980057,
+    "percent_change": 1.03508799
+  },
+  {
+    "title": "Hastings Issues New Convertible Notes",
+    "published": 1712470080
+  },
+  {
+    "title": "Hasbro (NASDAQ:HAS) Has Affirmed Its Dividend Of $0.70",
+    "published": 1712258689,
+    "posting_price": 53.68414077,
+    "close_price": 53.45443344,
+    "percent_change": -0.42788676
+  },
+  {
+    "title": "LITTLEST PET SHOP CELEBRATES THE YEAR OF THE BOBBLE BY ENCOURAGING FANS ACROSS THE GLOBE TO 'BOBBLE TO THE BEAT'",
+    "published": 1712237400,
+    "posting_price": 53.68414077,
+    "close_price": 53.45443344,
+    "percent_change": -0.42788676
+  },
+  {
+    "title": "Maintaining Hold on Hasbro: Monopoly Go\u2019s Success Insufficient for Transformational Impact",
+    "published": 1712219760,
+    "posting_price": 53.68414077,
+    "close_price": 53.45443344,
+    "percent_change": -0.42788676
+  },
+  {
+    "title": "Hasbro to Announce First Quarter 2024 Earnings on April 24, 2024",
+    "published": 1712175780,
+    "posting_price": 53.30129614,
+    "close_price": 53.06201935,
+    "percent_change": -0.44891364
+  },
+  {
+    "title": "Hasbro : 2023 Annual Report",
+    "published": 1712137090,
+    "posting_price": 53.30129614,
+    "close_price": 53.06201935,
+    "percent_change": -0.44891364
+  },
+  {
+    "title": "HASBRO : AND HORIZON GROUP USA SIGN A STRATEGIC PLAY-DOH LICENSING DEAL",
+    "published": 1712060289,
+    "posting_price": 53.59799947,
+    "close_price": 53.35872269,
+    "percent_change": -0.44642857
+  },
+  {
+    "title": "Frito-Lay teams with Hasbro to bring classic games to life",
+    "published": 1712050500,
+    "posting_price": 53.59799947,
+    "close_price": 53.35872269,
+    "percent_change": -0.44642857
   }
 ]

@@ -1,26 +1,566 @@
 [
   {
     "title": "Paychex to Report Q3 Earnings: Here's What to Expect From the Stock?",
-    "published": 1742571480
+    "published": 1742571480,
+    "posting_price": 144.11999512,
+    "close_price": 143.02000427,
+    "percent_change": -0.76324652
   },
   {
     "title": "Paychex Gains From Diversification & Liquidity Amid Rising Costs",
-    "published": 1741965180
+    "published": 1741965180,
+    "posting_price": 143.36000061,
+    "close_price": 145.44000244,
+    "percent_change": 1.45089413
   },
   {
     "title": "Paychex's (NASDAQ:PAYX) earnings growth rate lags the 21% CAGR delivered to shareholders",
-    "published": 1741870291
+    "published": 1741870291,
+    "posting_price": 144.97999573,
+    "close_price": 143.55999756,
+    "percent_change": -0.97944421
   },
   {
     "title": "A Look Back at HR Software Stocks\u2019 Q4 Earnings: Asure (NASDAQ:ASUR) Vs The Rest Of The Pack",
-    "published": 1741597268
+    "published": 1741597268,
+    "posting_price": 153.47999573,
+    "close_price": 154.52000427,
+    "percent_change": 0.6776183
   },
   {
     "title": "Investors Shouldn't Overlook The Favourable Returns On Capital At Paychex (NASDAQ:PAYX)",
-    "published": 1740659196
+    "published": 1740659196,
+    "posting_price": 149.3500061,
+    "close_price": 148.75999451,
+    "percent_change": -0.39505294
   },
   {
     "title": "Biggest Gains in Customer Satisfaction in the Management Top 250",
-    "published": 1740582000
+    "published": 1740582000,
+    "posting_price": 150.42999268,
+    "close_price": 149.25999451,
+    "percent_change": -0.77776921
+  },
+  {
+    "title": "Q4 Earnings Roundup: Zuora (NYSE:ZUO) And The Rest Of The Finance and HR Software Segment",
+    "published": 1713168213,
+    "posting_price": 120.58751384,
+    "close_price": 118.91713715,
+    "percent_change": -1.38519871
+  },
+  {
+    "title": "QQQ ETF Update, 4/15/2024\ufffd\ufffd\ufffd",
+    "published": 1713159000,
+    "posting_price": 120.58751384,
+    "close_price": 118.91713715,
+    "percent_change": -1.38519871
+  },
+  {
+    "title": "Got a bigger tax refund this year? It might seem like a \u2018happy surprise\u2019 \u2014 but don\u2019t get too excited.",
+    "published": 1712993400
+  },
+  {
+    "title": "Finance and HR Software Q4 Earnings: Marqeta (NASDAQ:MQ) Simply the Best",
+    "published": 1712914549,
+    "posting_price": 120.10192346,
+    "close_price": 119.4512558,
+    "percent_change": -0.5417629
+  },
+  {
+    "title": "Paychex Recognized for Excellence in Health & Well-Being by Business Group on Health",
+    "published": 1712839275,
+    "posting_price": 121.1799158,
+    "close_price": 120.65549469,
+    "percent_change": -0.4327624
+  },
+  {
+    "title": "QQQ ETF Update, 4/11/2024",
+    "published": 1712816580,
+    "posting_price": 121.1799158,
+    "close_price": 120.65549469,
+    "percent_change": -0.4327624
+  },
+  {
+    "title": "3 Growth Stocks That Could Soar 50% or More by Year\u2019s End",
+    "published": 1712754240,
+    "posting_price": 122.36470161,
+    "close_price": 120.92739868,
+    "percent_change": -1.17460584
+  },
+  {
+    "title": "Why Investors Are Eyeing Paychex Inc (PAYX): The Key Drivers of Market Outperformance and ...",
+    "published": 1712743440,
+    "posting_price": 122.36470161,
+    "close_price": 120.92739868,
+    "percent_change": -1.17460584
+  },
+  {
+    "title": "Paychex: Scoop Up This Dividend Growth Stock Now",
+    "published": 1712734200,
+    "posting_price": 122.36470161,
+    "close_price": 120.92739868,
+    "percent_change": -1.17460584
+  },
+  {
+    "title": "Paychex (NASDAQ:PAYX) Might Become A Compounding Machine",
+    "published": 1712660427,
+    "posting_price": 121.20903999,
+    "close_price": 122.93768311,
+    "percent_change": 1.42616683
+  },
+  {
+    "title": "Paylocity: Gem In A Highly Competitive Industry",
+    "published": 1712565161,
+    "posting_price": 118.18877775,
+    "close_price": 120.27674866,
+    "percent_change": 1.76664058
+  },
+  {
+    "title": "Paychex Reaches Analyst Target Price",
+    "published": 1712554860,
+    "posting_price": 118.18877775,
+    "close_price": 120.27674866,
+    "percent_change": 1.76664058
+  },
+  {
+    "title": "Analysts Conflicted on These Industrial Goods Names: Paychex (PAYX) and General Electric (GE)",
+    "published": 1712552460,
+    "posting_price": 118.18877775,
+    "close_price": 120.27674866,
+    "percent_change": 1.76664058
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Paychex (PAYX) and Acuity Brands (AYI)",
+    "published": 1712547060,
+    "posting_price": 118.18877775,
+    "close_price": 120.27674866,
+    "percent_change": 1.76664058
+  },
+  {
+    "title": "BBSI vs. PAYX: Which Stock Should Value Investors Buy Now?",
+    "published": 1712331613,
+    "posting_price": 116.54752691,
+    "close_price": 118.84914398,
+    "percent_change": 1.97483133
+  },
+  {
+    "title": "Two S&P 500 names reported EPS beat this week; Conagra benefits from higher Grocery & Snacks sales - Earnings Scorecard",
+    "published": 1712281860,
+    "posting_price": 116.54752691,
+    "close_price": 118.84914398,
+    "percent_change": 1.97483133
+  },
+  {
+    "title": "Paychex Third Quarter 2024 Earnings: Revenues Disappoint",
+    "published": 1712172322,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex, Inc. (NASDAQ:PAYX) Q3 2024 Earnings Call Transcript",
+    "published": 1712150290,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "U.S. Small Business Job and Wage Growth Remain Steady",
+    "published": 1712147400,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Key Takeaways From Paychex Analyst Ratings",
+    "published": 1712142240,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "June 2025 Options Now Available For Paychex (PAYX)",
+    "published": 1712137140,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex : U.S. Small Business Job and Wage Growth Remain Steady",
+    "published": 1712132887,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Company News for Apr 3, 2024",
+    "published": 1712129100,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex price target lowered by $1 at TD Cowen, here's why",
+    "published": 1712125800,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Paychex (PAYX) and Forward Air (FWRD)",
+    "published": 1712124060,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex price target raised by $2 at Morgan Stanley, here's why",
+    "published": 1712121600,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Maintaining Hold: Paychex\u2019s Steady SMB Outlook and Resilient Margins",
+    "published": 1712120880,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex price target raised to $115 from $108 at BofA",
+    "published": 1712118360,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Maintained Sell Rating on Paychex Amid Lower Revenue and Cautious Fiscal Outlook",
+    "published": 1712116560,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Q3 2024 Paychex Inc Earnings Call",
+    "published": 1712116240,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Barclays Sticks to Their Hold Rating for Paychex (PAYX)",
+    "published": 1712112960,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Stock winners of Republican policy if Trump wins - GS",
+    "published": 1712111100,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex price target raised by $3 at BofA, here's why",
+    "published": 1712106480,
+    "posting_price": 118.49953739,
+    "close_price": 116.79032135,
+    "percent_change": -1.44238204
+  },
+  {
+    "title": "Paychex (PAYX) Q3 Earnings Beat Estimates, Revenues Miss",
+    "published": 1712071380,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex Inc (PAYX) Earnings: A Solid Performance with Revenue and EPS Growth",
+    "published": 1712067105,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Insiders At Paychex Sold US$3.4m In Stock, Alluding To Potential Weakness",
+    "published": 1712066422,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Compared to Estimates, Paychex (PAYX) Q3 Earnings: A Look at Key Metrics",
+    "published": 1712066402,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex (PAYX) Beats Q3 Earnings Estimates",
+    "published": 1712065203,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex, Inc. (PAYX) Q3 2024 Earnings Call Transcript",
+    "published": 1712063162,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex Stock Falls After Revenue Misses Estimates",
+    "published": 1712062440,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex (NASDAQ:PAYX) Misses Q1 Revenue Estimates, Stock Drops",
+    "published": 1712061432,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex, Inc. Reports Third Quarter Results: Sustained Growth in Revenue and Earnings",
+    "published": 1712061000,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Tesla, UnitedHealth Group fall; Roivant, Valero rise, Tuesday, 4/2/2024",
+    "published": 1712060460,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "PAYX Stock Earnings: Paychex Beats EPS, Misses Revenue for Q3 2024",
+    "published": 1712058960,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex sees employment growth for clients slow more than expected",
+    "published": 1712058420,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712056080,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex (PAYX) Faces Revenue Challenges but Shows Resilience",
+    "published": 1712052900,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Payroll processor Paychex misses revenue estimates on weak client spending",
+    "published": 1712051561,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "PAYX Earnings: Paychex Plunges on Q3 Numbers",
+    "published": 1712048640,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Dow Dips Over 400 Points; Paychex Posts Downbeat Sales",
+    "published": 1712048460,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex sees FY25 revenue growth in 5% range, consensus $5.64B",
+    "published": 1712048220,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex: Fiscal Q3 Earnings Snapshot",
+    "published": 1712047029,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Maintaining Hold on Paychex Amid Revised Revenue Growth and Persistent Challenges",
+    "published": 1712046960,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "7 stocks to watch on Tuesday: CHX on SLB deal, managed care players and more",
+    "published": 1712046660,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex\u2019s stock sinks after revenue miss, lowered full-year growth outlook",
+    "published": 1712046300,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex backs FY24 EPS view up 10%-11%, consensus $4.71",
+    "published": 1712043720,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex Non-GAAP EPS of $1.38 beats by $0.01, revenue of $1.44B misses by $20M",
+    "published": 1712043480,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex reports Q3 adjusted EPS $1.38, consensus $1.37",
+    "published": 1712043240,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Wall Street Set For Weak Open As Fed Speeches, Key Data Eyed: Amid Bitcoin Plunge And Gold Spike, Market Analyst Sees 'Nothing Breaking The Upward Trend'",
+    "published": 1712039340,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex, PVH And 3 Stocks To Watch Heading Into Tuesday",
+    "published": 1712038680,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves Today, April 02, 2024",
+    "published": 1712037960,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Earnings Scheduled For April 2, 2024",
+    "published": 1712035800,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Paychex CEO: We had a solid quarter",
+    "published": 1712035620,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "What You Missed On Wall Street On Tuesday",
+    "published": 1712028180,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Investor Sentiment Improves, But Dow Falls Over 200 Points",
+    "published": 1712028000,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "4 Factor Dividend Growth Portfolio - A Strong Finish To Quarter 1",
+    "published": 1712024751,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "GLOBAL BRIEFING: Stocks to edge lower; gold and oil push higher",
+    "published": 1712017920,
+    "posting_price": 113.20677774,
+    "close_price": 118.55780792,
+    "percent_change": 4.72677545
+  },
+  {
+    "title": "Dow Jones Slides 450 Points After Key Economic Data; Tesla Dives On Weak Q1 Deliveries",
+    "published": 1712012730,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: US stocks mostly fall on inflation worries",
+    "published": 1711989780,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "Paychex Q3 2024 Earnings Preview",
+    "published": 1711975920,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "Notable companies reporting before tomorrow's open",
+    "published": 1711975380,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "Paychex Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+    "published": 1711970400,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "Notable earnings before Tuesday's open",
+    "published": 1711961460,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "Paychex (PAYX) Q1 Earnings: What To Expect",
+    "published": 1711954864,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 01 \u2013 April 05, 2024",
+    "published": 1711951260,
+    "posting_price": 119.45126626,
+    "close_price": 118.11108398,
+    "percent_change": -1.12194899
   }
 ]

@@ -1,26 +1,1424 @@
 [
   {
+    "title": "Take the Zacks Approach to Beat the Markets: CMS Energy, Chevron, AutoZone in Focus",
+    "published": 1742819940,
+    "posting_price": 162.83999634,
+    "close_price": 162.82000732,
+    "percent_change": -0.01227525
+  },
+  {
+    "title": "Here's How to Play JNJ Stock as it Announces $55B US Investment Plan",
+    "published": 1742812260,
+    "posting_price": 162.83999634,
+    "close_price": 162.82000732,
+    "percent_change": -0.01227525
+  },
+  {
     "title": "J&J boosts US operations with $55bn investment",
-    "published": 1742581367
+    "published": 1742581367,
+    "posting_price": 163.0,
+    "close_price": 163.63000488,
+    "percent_change": 0.38650606
   },
   {
     "title": "Top Midday Stories: Boeing Wins Multibillion Dollar Contract to Build Fighter Jet; FedEx Shares Fall on Earnings Miss, Downbeat Guidance",
-    "published": 1742572897
+    "published": 1742572897,
+    "posting_price": 163.0,
+    "close_price": 163.63000488,
+    "percent_change": 0.38650606
   },
   {
     "title": "J&J is latest company trying to get on Trump's good side with big U.S. investment",
-    "published": 1742569559
+    "published": 1742569559,
+    "posting_price": 163.0,
+    "close_price": 163.63000488,
+    "percent_change": 0.38650606
   },
   {
     "title": "J&J's Tremfya Gets FDA Nod for 2nd IBD Condition Crohn's Disease",
-    "published": 1742560080
+    "published": 1742560080,
+    "posting_price": 163.0,
+    "close_price": 163.63000488,
+    "percent_change": 0.38650606
   },
   {
     "title": "J&J boosts US manufacturing as big pharma reshores",
-    "published": 1742551733
+    "published": 1742551733,
+    "posting_price": 163.0,
+    "close_price": 163.63000488,
+    "percent_change": 0.38650606
   },
   {
     "title": "FDA approves Johnson & Johnson\u2019s Tremfya to treat Crohn\u2019s disease",
-    "published": 1742548828
+    "published": 1742548828,
+    "posting_price": 163.0,
+    "close_price": 163.63000488,
+    "percent_change": 0.38650606
+  },
+  {
+    "title": "Big Bank earnings, March housing data: What to Watch",
+    "published": 1713213981,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Q1 '24 S&P 500 Earnings (And Johnson & Johnson): Expecting Another Normal Earnings Season",
+    "published": 1713213300,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "WHO warns of falsified cough syrup ingredients seized in Pakistan",
+    "published": 1713207100,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Sysco And Grainger Among 10 Companies To Announce Annual Dividend Increases In Second Half Of April",
+    "published": 1713200870,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Dow hit by hot retail sales, Middle East nerves",
+    "published": 1713197820,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Johnson & Johnson Reports Earnings Tuesday. What to Expect.",
+    "published": 1713192000,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "3 Blue Chip Stocks For Your April 2024 Watchlist",
+    "published": 1713191020,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Should You Buy Johnson & Johnson (JNJ) Ahead of Earnings?",
+    "published": 1713189960,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "UPDATE 3-Tanzania, Rwanda, Zimbabwe join African recall of J&J cough syrup",
+    "published": 1713189325,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "MEDIA-Zimbabwe recalls tainted J&J's cough syrup sold in six African nations- Bloomberg News",
+    "published": 1713187696,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "JNJ Q1 earnings preview: A lot of moving factors expected to bring in-line results",
+    "published": 1713185580,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "5 U.S. Bigwigs Likely to Gain on Q1 Earnings Beat This Week",
+    "published": 1713183540,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Notable companies reporting before tomorrow\u00e2\ufffd\ufffd\ufffd\ufffds open",
+    "published": 1713182280,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Notable earnings before Tuesday's open",
+    "published": 1713179640,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Rwanda joins other African countries in recalling J&J children's cough syrup",
+    "published": 1713178220,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Tanzania and Rwanda join its African counterparts to recall J&J's cough syrup - report",
+    "published": 1713177540,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Healthcare Stocks Are Lagging With Big Earnings Weeks Ahead",
+    "published": 1713174360,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Cantor Fitzgerald Keeps Their Buy Rating on Johnson & Johnson (JNJ)",
+    "published": 1713163560,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Wall Street Breakfast Podcast: Samsung Overtakes Apple As Top Smartphone Maker",
+    "published": 1713163267,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "The Art of Valuation: Discovering Johnson & Johnson's Intrinsic Value",
+    "published": 1713160860,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
+    "published": 1713160860,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Mind Medicine initiated with bullish view at Leerink, here's why",
+    "published": 1713158940,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "Integer just upgraded at BofA, here's why",
+    "published": 1713157740,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "J&J Braces For Q1 Earnings With Bearish Charts And Patent Cliffs In Play",
+    "published": 1713153120,
+    "posting_price": 143.75810337,
+    "close_price": 143.00234985,
+    "percent_change": -0.52571194
+  },
+  {
+    "title": "The 3 Best Stocks to Buy to Survive the Coming S&P 500 Crash",
+    "published": 1713081840
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1713081061
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "UPDATE 1-South Africa recalls J&J's cough syrup sold in six African nations after suspected toxicity",
+    "published": 1713050595
+  },
+  {
+    "title": "South Africa recalls J&J's cough syrup sold in six African nations after suspected toxicity",
+    "published": 1713034073
+  },
+  {
+    "title": "J&J cough syrup recall classified as most serious in South Africa",
+    "published": 1712977140
+  },
+  {
+    "title": "Johnson & Johnson (JNJ) Stock Moves -0.85%: What You Should Know",
+    "published": 1712958320,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Bank earnings, housing, Trump trial: What to Watch Next Week",
+    "published": 1712954695,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "3 Quarterly Releases to Watch Next Week",
+    "published": 1712948400,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "55 April Dividend Kings: Buy 8, Watch 8",
+    "published": 1712932765,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "J&J (JNJ) to Begin Pharma Q1 Earnings Season: What's in Store?",
+    "published": 1712927340,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Buy/Sell: Wall Street's top 10 stock calls this week",
+    "published": 1712925480,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Short interest in S&P 500 health stocks rises, Moderna among most shorted companies in March",
+    "published": 1712924520,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Major banks deliver EPS beat this week to kick off Q1 earnings; JPMorgan FY interest margin guidance unchanged - Earnings Scorecard",
+    "published": 1712923380,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "5 Dividend Kings That Yield More Than Vanguard's Top Value ETF",
+    "published": 1712923200,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Global company events calendar",
+    "published": 1712918340,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+    "published": 1712917980,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Johnson & Johnson - Unique molecular properties of nipocalimab enabling differentiated potential in treating generalized myasthenia gravis to be presented at American Academy of Neurology's 2024 Annual Meeting",
+    "published": 1712910040,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Johnson & Johnson: Doubling Down On This 2024 Dog Of The Dow",
+    "published": 1712908800,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Healthpeak Properties: A Quality Healthcare REIT That Should Get Back To Dividend Growth",
+    "published": 1712905200,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Stock market today: Wall Street falls sharply to close out its worst week since October",
+    "published": 1712893740,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "NAFDAC Raises Alarm Over Fake Anti-Bacteria Injection, Deadly Cough Syrup",
+    "published": 1712891174,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Kenya, Nigeria Recall Children's Cough Syrup Over Toxic Substance",
+    "published": 1712887569,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
+    "published": 1712887200,
+    "posting_price": 143.45776342,
+    "close_price": 142.93455505,
+    "percent_change": -0.36471248
+  },
+  {
+    "title": "UPDATE 1-Kenya recalls J&J children's cough syrup over suspected toxicity",
+    "published": 1712858752,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Kenya recalls J&J children's cough syrup over suspected toxicity",
+    "published": 1712844645,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Unlocking Q1 Potential of Johnson & Johnson (JNJ): Exploring Wall Street Estimates for Key Metrics",
+    "published": 1712841316,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Investors Heavily Search Johnson & Johnson (JNJ): Here is What You Need to Know",
+    "published": 1712840414,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Wall Street Favorites: 3 Biotech Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712837640,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Dow's 100-point drop led by losses in shares of Travelers, Chevron",
+    "published": 1712836020,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "All-Time High Flyers: 7 Stocks to Buy as the Market Peaks",
+    "published": 1712834520,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "J&J: presents results on nipocalimab",
+    "published": 1712831845,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "May 31st Options Now Available For Johnson & Johnson (JNJ)",
+    "published": 1712828520,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Kenvue's performance has been 'woeful' with 'worst-in-class' growth - analyst",
+    "published": 1712827260,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "5 Things To Know In Investing This Week - The Shockwave Takeover Issue",
+    "published": 1712826360,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "The $5 BILLION Reason Alpine Immune Sciences (ALPN) Stock Is Up 30% Today",
+    "published": 1712825520,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "DoorDash upgraded, Airbnb downgraded: Wall Street's top analyst calls",
+    "published": 1712824860,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Alkermes' Innovations Are Transforming Mental Health Treatments",
+    "published": 1712822460,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Johnson & Johnson Q1 Earnings Preview: Shockwave Could Be A Good Fit Despite Headwinds",
+    "published": 1712820631,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Rallybio price target lowered by $2 at Wedbush, here's why",
+    "published": 1712819820,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Why Is Rallybio (RLYB) Stock Up 93% Today?",
+    "published": 1712817960,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Today\u2019s Biggest Pre-Market Stock Movers: 10 Top Gainers and Losers on\u00a0Thursday",
+    "published": 1712816640,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Rallybio shares gain on investment from J&J for rare fetal condition treatment",
+    "published": 1712815320,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "Joby\u2019s $3.5B Air Taxi Dream Worth Less Than Trump\u2019s Truth Social Nightmare?",
+    "published": 1712814840,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "10 Attractive sell puts within the Russell 1000 - JPM",
+    "published": 1712798520,
+    "posting_price": 146.11258561,
+    "close_price": 144.16505432,
+    "percent_change": -1.3328977
+  },
+  {
+    "title": "J&J, Rallybio partner on drug development for rare fetal condition",
+    "published": 1712768460,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "The Pharmaceutical Industry Finds Itself At A Historical Crossroads",
+    "published": 1712767671,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Nigeria recalls J&J children's cough syrup over toxic substance",
+    "published": 1712763818,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "What's in Store for Dow ETFs in Q1 Earnings?",
+    "published": 1712761800,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "How to Boost Your Portfolio with Top Medical Stocks Set to Beat Earnings",
+    "published": 1712754010,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "7 Healthcare Stocks to Keep Your Portfolio in Tip-Top Shape",
+    "published": 1712751840,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Johnson & Johnson (NYSE:JNJ) Seems To Use Debt Quite Sensibly",
+    "published": 1712750443,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Johnson & Johnson (JNJ), PainReform (PRFX) and IN8bio (INAB)",
+    "published": 1712749800,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Johnson & Johnson Enters Oversold Territory",
+    "published": 1712748720,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Analysts Conflicted on These Healthcare Names: Shattuck Labs (STTK), Johnson & Johnson (JNJ) and Tilray (TLRY)",
+    "published": 1712747460,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Does Johnson & Johnson's Latest Acquisition Make It a No-Brainer Buy?",
+    "published": 1712739420,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "RBC Capital Sticks to Its Buy Rating for Johnson & Johnson (JNJ)",
+    "published": 1712738760,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Maintaining Stability Amidst Challenges: Hold Rating for Johnson & Johnson",
+    "published": 1712736540,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "If You Can Only Buy One Dividend Stock in April, It Better Be One of These 3 Names",
+    "published": 1712727060,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Wall Street Favorites: 3 Dividend Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712724600,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Johnson & Johnson stock underperforms Wednesday when compared to competitors",
+    "published": 1712720100,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Kenvue initiated with bearish view at Bernstein, here's why",
+    "published": 1712719380,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Rallybio to partner with J&J on soultions to reduce risk of FNAIT",
+    "published": 1712718180,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Johnson & Johnson cough syrup recalled in Nigeria over toxicity concerns",
+    "published": 1712716380,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Johnson & Johnson (JNJ), Axsome Therapeutics (AXSM) and Premier (PINC)",
+    "published": 1712712060,
+    "posting_price": 146.81989528,
+    "close_price": 145.53123474,
+    "percent_change": -0.8777152
+  },
+  {
+    "title": "Neutrogena Closing Its Los Angeles Headquarters to Move to New\u00a0Jersey",
+    "published": 1712693286,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "Johnson & Johnson (JNJ) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+    "published": 1712671216,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "How's AT&T Handling Things?",
+    "published": 1712670666,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "10 Health Care Stocks With Whale Alerts In Today's Session",
+    "published": 1712666400,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "Oakmark Fund: First Calendar Quarter 2024 Commentary",
+    "published": 1712655600,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "3 Dividend Growth Stocks With Yields Above 3% That You Can Buy and Hold for the Next Decade",
+    "published": 1712650860,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "Kenvue cutting Neutrogena jobs, closing LA office - report",
+    "published": 1712647680,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "Johnson and Johnson traded in the green after six day of losses",
+    "published": 1712632620,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds Johnson & Johnson",
+    "published": 1712624760,
+    "posting_price": 146.83927054,
+    "close_price": 147.55625916,
+    "percent_change": 0.48828125
+  },
+  {
+    "title": "Here's Why Johnson & Johnson (JNJ) Fell More Than Broader Market",
+    "published": 1712613021,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Johnson & Johnson to Participate in the 2024 RBC Capital Markets Global Healthcare Conference",
+    "published": 1712599625,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Kenvue Revamps Cyber Tools After Spinoff From J&J",
+    "published": 1712591520,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "VOOV: A Decent Passively Managed Value ETF, But Not The Best",
+    "published": 1712588993,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "FDA Expands J&J's (JNJ) Carvykti Label in Multiple Myeloma",
+    "published": 1712583600,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "J&J's (JNJ) $13.1B Shockwave Deal to Boost MedTech Cardio",
+    "published": 1712582280,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Johnson & Johnson's $13B Shockwave Medical Deal Accelerates MedTech Strategy, Analyst Says",
+    "published": 1712579280,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "J&J: presents results on anticoagulant",
+    "published": 1712573730,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "March 2024 Passive Income - More Money",
+    "published": 1712572200,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
+    "published": 1712565900,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "2 Dividend Stocks to Buy and Hold Forever",
+    "published": 1712562360,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Johnson & Johnson to Acquire Shockwave Medical",
+    "published": 1712561311,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Johnson & Johnson - CARVYKTI is the First and Only BCMA-Targeted Treatment Approved by the U.S. FDA for Patients with Relapsed or Refractory Multiple Myeloma Who Have Received at Least One Prior Line of Therapy",
+    "published": 1712561230,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "ShockWave Medical just downgraded at Needham, here's why",
+    "published": 1712558280,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Johnson & Johnson announces presentation of findings on XARELTO",
+    "published": 1712556240,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "ShockWave Medical just downgraded at Deutsche Bank, here's why",
+    "published": 1712547600,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Johnson & Johnson's Carvykti Stands Ahead Of Bristol Myers' Rival Blood Cancer Therapy With FDA Approval For Wider Population",
+    "published": 1712539320,
+    "posting_price": 147.26561194,
+    "close_price": 146.8780365,
+    "percent_change": -0.26318122
+  },
+  {
+    "title": "Here's the $4.7 Trillion Market Nvidia Has Its Eyes on Now",
+    "published": 1712514600
+  },
+  {
+    "title": "Morgan Stanley sees Fed rate cut fueling biotech stocks",
+    "published": 1712493540
+  },
+  {
+    "title": "Morgan Stanley sees Fed rate cut fueling biotech stock performance",
+    "published": 1712493180
+  },
+  {
+    "title": "FDA approves J&J's CARVYKTI in refractory multiple myeloma",
+    "published": 1712467320
+  },
+  {
+    "title": "Can a New CEO Fix Boeing?",
+    "published": 1712405700
+  },
+  {
+    "title": "Grow Your Bottom Line As Demand Increases For These Robots",
+    "published": 1712402400
+  },
+  {
+    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
+    "published": 1712395800
+  },
+  {
+    "title": "Johnson & Johnson wins FDA nod for Carvykti label expansion",
+    "published": 1712389260
+  },
+  {
+    "title": "U.S. IPO Weekly Recap: April IPO Market Gets A Boost From Large Launches And New Filings",
+    "published": 1712382600
+  },
+  {
+    "title": "CARVYKTI\u00ae is the First and Only BCMA-Targeted Treatment Approved by the U.S. FDA for Patients with Relapsed or Refractory Multiple Myeloma Who Have Received at Least One Prior Line of Therapy",
+    "published": 1712373660
+  },
+  {
+    "title": "Acquisition Watch: Time to Buy Johnson & Johnson (JNJ) or ShockWave Medical's (SWAV) Stock?",
+    "published": 1712345220,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Stocks Soar After Robust Jobs Data; AMD, Amazon.com Lead Tech Rally, But Tesla Sinks On This News",
+    "published": 1712337041,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Blow-out jobs figures back soft landing hopes",
+    "published": 1712333820,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Market Rally Under Pressure; Tesla, Humana In Focus: Weekly Review",
+    "published": 1712331917,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "ALERT: Rowley Law PLLC is Investigating Proposed Acquisition of Shockwave Medical, Inc.",
+    "published": 1712328968,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson Ends The Shockwave Rumor Mill With $13.1 Billion Takeover",
+    "published": 1712325923,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "4 Dividend Aristocrats Signal Buy In April Plus 6 To Watch",
+    "published": 1712324215,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "J&J to pump another $13B into its MedTech business with Shockwave deal",
+    "published": 1712321786,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson To Buy Shockwave Medical For $13.1 Billion",
+    "published": 1712321723,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to Buy Shockwave Medical in $13.1 Billion Deal",
+    "published": 1712320680,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Newmont, Shockwave Medical rise; John Bean falls, Friday, 4/4/2024",
+    "published": 1712319900,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Newmont, Shockwave Medical rise; John Bean fall, Friday, 4/4/2024",
+    "published": 1712319900,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Contineum Therapeutics stock slides 10% following $110M IPO",
+    "published": 1712319840,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Institutional owners may consider drastic measures as Johnson & Johnson's (NYSE:JNJ) recent US$14b drop adds to long-term losses",
+    "published": 1712318482,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to Buy Shockwave Medical for $13.1 Billion. It\u2019s a Cardio Health Play.",
+    "published": 1712315760,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson Acquires ShockWave Medical in a Strategic $13 Billion Deal",
+    "published": 1712315700,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712315040,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "J&J to acquire Shockwave Medical in $13.1 billion deal that will boost its heart-disease medtech portfolio",
+    "published": 1712313720,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "UPDATE 4-J&J boosts heart device business with $12.5 bln Shockwave Medical deal",
+    "published": 1712313667,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "J&J boosts heart device business with $12.5 billion Shockwave Medical deal",
+    "published": 1712313540,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to Showcase its Broad Scientific Leadership and Latest Innovations to Combat Cardiovascular Disease at ACC.24",
+    "published": 1712311009,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Odyssey Therapeutics Announces Strategic Collaboration to Advance AI-Driven Small Molecule Drug Discovery",
+    "published": 1712311006,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to acquire Shockwave Medical for $13.1B (update)",
+    "published": 1712307960,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "J&J to acquire Shockwave Medical for $13.1B",
+    "published": 1712306563,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "SWAV Stock Alert: Shockwave Medical Lands Big Buyer in Johnson & Johnson",
+    "published": 1712306100,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "M&A News: Johnson & Johnson (NYSE:JNJ) Enters Into $13.1B Shockwave Medical Deal",
+    "published": 1712305920,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "4 stocks to watch on Friday: SWAV on JNJ deal, NFLX and more",
+    "published": 1712304840,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson Makes Yet Another Multi-Billion MedTech Deal With Shockwave Medical",
+    "published": 1712302740,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "J&J: agreement to acquire Shockwave Medical",
+    "published": 1712302469,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Morning Brew: Johnson & Johnson Acquires Shockwave Medical in $13.1B Deal",
+    "published": 1712302320,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to acquire Shockwave Medical in $13.1 billion deal that will boost its heart-disease medtech portfolio",
+    "published": 1712301300,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "TOP NEWS: J&J swoops for Shockwave Medical in USD13.1 billion deal",
+    "published": 1712300520,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to acquire Shockwave Medical for $13.1B in cash",
+    "published": 1712296800,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson: ShockWave Medical deal to accelerate revenue growth",
+    "published": 1712295540,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson sees ShockWave Medical deal dilutive to EPS in FY24/FY25",
+    "published": 1712295360,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson to acquire ShockWave Medical for $335.00 per share in cash",
+    "published": 1712295240,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Stock market today: Wall Street gains ground following surprisingly strong US jobs report",
+    "published": 1712289180,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "The 7 Most Undervalued Russell 2000 Stocks to Buy in April 2024",
+    "published": 1712288220,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "IN BRIEF: J&J cautions shareholders against discount tender offer",
+    "published": 1712287020,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "What You Missed On Wall Street On Friday",
+    "published": 1712286480,
+    "posting_price": 147.30435723,
+    "close_price": 147.65316772,
+    "percent_change": 0.23679577
+  },
+  {
+    "title": "Johnson & Johnson Recommends Shareholders Reject \"Mini-Tender\" Offer by TRC Capital Investment Corporation",
+    "published": 1712268060,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Johnson & Johnson Recommends Shareholders Reject \u201cMini-Tender\u201d Offer by TRC Capital Investment Corporation",
+    "published": 1712253660,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Strategic Allocation For A $100,000 Dividend Income Portfolio With A Sustainable Dividend Yield",
+    "published": 1712253600,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "J&J recommends shareholders to reject 'mini-tender' offer by TRC Capital Investment",
+    "published": 1712253336,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Johnson & Johnson: Self-Proclaimed 'Dividend King' Faces Tricky Outlook",
+    "published": 1712238334,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "10 Health Care Stocks Whale Activity In Today's Session",
+    "published": 1712234280,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "FDA approves new antibiotic for several hard-to-treat infections",
+    "published": 1712230200,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Time to Tap Healthcare ETFs on Nvidia's AI Ambition?",
+    "published": 1712228400,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Interesting JNJ Put And Call Options For May 24th",
+    "published": 1712223360,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Johnson & Johnson urges shareholders to rebuff TRC Capital mini-tender",
+    "published": 1712216700,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "ShockWave Medical just downgraded at Wolfe Research, here's why",
+    "published": 1712211120,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Odyssey Therapeutics enters into a collaboration with Jannsen Pharmaceutica",
+    "published": 1712210520,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Johnson & Johnson urges shareholders to reject 'mini-tender' offer by TRC",
+    "published": 1712206920,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Big Pharma Stocks Need a Rethink. Investors Keep Making the Same Mistake.",
+    "published": 1712206800,
+    "posting_price": 150.48240307,
+    "close_price": 147.75975037,
+    "percent_change": -1.80928311
+  },
+  {
+    "title": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712160614,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "Johnson & Johnson CIO says employee upskilling is key to transforming health care",
+    "published": 1712157159,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "Why Investors Need to Take Advantage of These 2 Medical Stocks Now",
+    "published": 1712149211,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "April Dogs Of The Dow: Buy 1, Watch 4",
+    "published": 1712143729,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "5 Things to Know in Investing This Week",
+    "published": 1712136420,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "J&J: working for greater health equity in the USA",
+    "published": 1712135975,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "Rich Returns at a Discount: 3 Dividend Aristocrats Trading at 52-Week Lows",
+    "published": 1712130660,
+    "posting_price": 152.8853003,
+    "close_price": 149.46502686,
+    "percent_change": -2.23714996
+  },
+  {
+    "title": "Johnson & Johnson (JNJ) Stock Moves -0.03%: What You Should Know",
+    "published": 1712094321,
+    "posting_price": 151.70324717,
+    "close_price": 152.82717896,
+    "percent_change": 0.74087524
+  },
+  {
+    "title": "Johnson & Johnson to Participate in the BofA Securities Health Care Conference",
+    "published": 1712075586,
+    "posting_price": 151.70324717,
+    "close_price": 152.82717896,
+    "percent_change": 0.74087524
+  },
+  {
+    "title": "12 Dividend Increases Expected In April 2024",
+    "published": 1712065246,
+    "posting_price": 151.70324717,
+    "close_price": 152.82717896,
+    "percent_change": 0.74087524
+  },
+  {
+    "title": "11 Dividend Increases Expected In April 2024",
+    "published": 1712021220,
+    "posting_price": 151.70324717,
+    "close_price": 152.82717896,
+    "percent_change": 0.74087524
+  },
+  {
+    "title": "Russell 2000 Index Best And Worst Performing Stocks Of 2024",
+    "published": 1712020200,
+    "posting_price": 151.70324717,
+    "close_price": 152.82717896,
+    "percent_change": 0.74087524
+  },
+  {
+    "title": "UPDATE 1-Teva, Viatris win new chance to challenge J&J schizophrenia drug patent",
+    "published": 1711994497,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Teva, Viatris win new chance to challenge J&J schizophrenia drug patent",
+    "published": 1711986778,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Teva and Viatris revives chance to dispute J&J's schizophrenia drug patent",
+    "published": 1711970340,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "The least shorted S&P 500 stocks as a percentage of float - BofA",
+    "published": 1711964940,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Interesting JNJ Put And Call Options For March 2025",
+    "published": 1711964580,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Looking Into Johnson & Johnson's Recent Short Interest",
+    "published": 1711963920,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Procter & Gamble, Johnson & Johnson Among 10 Dividend Growth Companies Announcing Increases In First Half Of April",
+    "published": 1711958567,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Cytokinetics, Incorporated: Buyout Speculation Persists",
+    "published": 1711951699,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Invest with Confidence: Intrinsic Value Unveiled of Johnson & Johnson",
+    "published": 1711951260,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
+  },
+  {
+    "title": "Johnson & Johnson stock outperforms competitors despite losses on the day",
+    "published": 1711942560,
+    "posting_price": 152.81749299,
+    "close_price": 152.87562561,
+    "percent_change": 0.03804055
   }
 ]

@@ -1,26 +1,426 @@
 [
   {
     "title": "Curtiss-Wright Wins Contract to Supply Flight Data Acquisition Systems",
-    "published": 1741782600
+    "published": 1741782600,
+    "posting_price": 211.16000366,
+    "close_price": 208.94999695,
+    "percent_change": -1.04660289
   },
   {
     "title": "Time To Buy Defense Stocks, Analyst Says. Cathie Wood Is Buying.",
-    "published": 1741296691
+    "published": 1741296691,
+    "posting_price": 210.32698642,
+    "close_price": 212.62438965,
+    "percent_change": 1.09230074
   },
   {
     "title": "General Dynamics Rewards Shareholders With 5.6% Dividend Hike",
-    "published": 1741272240
+    "published": 1741272240,
+    "posting_price": 210.32698642,
+    "close_price": 212.62438965,
+    "percent_change": 1.09230074
   },
   {
     "title": "L3Harris Technologies Rewards Shareholders With 3.4% Dividend Hike",
-    "published": 1741014000
+    "published": 1741014000,
+    "posting_price": 206.46815075,
+    "close_price": 206.56759644,
+    "percent_change": 0.04816515
   },
   {
     "title": "Here's Why L3Harris Technologies (NYSE:LHX) Can Manage Its Debt Responsibly",
-    "published": 1741006821
+    "published": 1741006821,
+    "posting_price": 206.46815075,
+    "close_price": 206.56759644,
+    "percent_change": 0.04816515
   },
   {
     "title": "L3Harris Technologies (NYSE:LHX) earnings and shareholder returns have been trending downwards for the last three years, but the stock increases 3.9% this past week",
-    "published": 1740657619
+    "published": 1740657619,
+    "posting_price": 201.47550901,
+    "close_price": 203.78285217,
+    "percent_change": 1.14522265
+  },
+  {
+    "title": "U.S. Army Awards $256M Contract for Night Vision Goggle Binoculars",
+    "published": 1713193972,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "U.S. Army Awards L3Harris ENVG-B Production Order",
+    "published": 1713189600,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "Kratos Defense & Security Solutions, Inc. Completes Development\u00a0of the Zeus Solid Rocket Motor (SRM) Family with the Successful\u00a0Zeus 2 Static Test Fire",
+    "published": 1713186000,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "L3Harris Technologies bags $256M order for night vision binoculars for U.S. Army",
+    "published": 1713174480,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "L3Harris Technologies receives $256M ENVG-B production order",
+    "published": 1713171720,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "Kratos Defense completes development of Zeus Solid Rocket Motor family",
+    "published": 1713168780,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "Remain cautious on defense stocks amid Iran escalation: Wells Fargo",
+    "published": 1713145500,
+    "posting_price": 200.85945675,
+    "close_price": 199.13484192,
+    "percent_change": -0.85861769
+  },
+  {
+    "title": "Why L3Harris (LHX) Could Beat Earnings Estimates Again",
+    "published": 1712938215,
+    "posting_price": 199.36022256,
+    "close_price": 198.54690552,
+    "percent_change": -0.40796355
+  },
+  {
+    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
+    "published": 1712915280,
+    "posting_price": 199.36022256,
+    "close_price": 198.54690552,
+    "percent_change": -0.40796355
+  },
+  {
+    "title": "Here It Is! My 20-Stock 6-Figure Market-Beating Dividend Portfolio",
+    "published": 1712905200,
+    "posting_price": 199.36022256,
+    "close_price": 198.54690552,
+    "percent_change": -0.40796355
+  },
+  {
+    "title": "Iridium (IRDM) Gets Contract for STL Services From L3Harris",
+    "published": 1712844600,
+    "posting_price": 201.15345298,
+    "close_price": 198.32154846,
+    "percent_change": -1.40783291
+  },
+  {
+    "title": "L3HARRIS CS PRESIDENT SAM MEHTA DISCUSSES NEED FOR CONGRESSIONAL SUPPLEMENTAL FUNDING WITH CNBC'S EMILY WILKINS",
+    "published": 1712839275,
+    "posting_price": 201.15345298,
+    "close_price": 198.32154846,
+    "percent_change": -1.40783291
+  },
+  {
+    "title": "L3HARRIS COMPLETES CRITICAL TEST OF ADVANCED SOUNDER FOR NOAA'S FOURTH JPSS WEATHER SATELLITE",
+    "published": 1712827956,
+    "posting_price": 201.15345298,
+    "close_price": 198.32154846,
+    "percent_change": -1.40783291
+  },
+  {
+    "title": "L3Harris Technologies : CS President Sam Mehta Discusses Need for Congressional Supplemental Funding with CNBC\u2019s Emily Wilkins",
+    "published": 1712760667,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "L3Harris Technologies : Completes Critical Test of Advanced Sounder for NOAA\u2019s Fourth JPSS Weather Satellite",
+    "published": 1712751668,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "L3HARRIS COLLABORATES WITH QATARI SHIPBUILDER PERFORMANCE MARINE TO BRING UNMANNED SURFACE VESSEL CAPABILITIES TO THE REGION",
+    "published": 1712748077,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "L3Harris Selects Mercury to Provide Solid-State Data Recorders for SDA\u2019s Tranche 2 Tracking Layer Satellites",
+    "published": 1712746800,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "Reliable Space Avionics: From Launch to Beyond",
+    "published": 1712740755,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "L3Harris Technologies selects Mercury to provide solid-state data recorders",
+    "published": 1712733660,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "If You Invested $1000 In This Stock 15 Years Ago, You Would Have $7,100 Today",
+    "published": 1712721900,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "L3Harris Technologies Announces New VP and Accounting Chief",
+    "published": 1712720580,
+    "posting_price": 200.42832264,
+    "close_price": 201.35923767,
+    "percent_change": 0.46446282
+  },
+  {
+    "title": "L3Harris Technologies : ULA Delta IV Heavy Launches into History with Spectacular Final Mission",
+    "published": 1712696468,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "L3Harris Technologies : Adapting Land-Based Systems for Effective Low-Cost Engagement Solutions at Sea",
+    "published": 1712661313,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "Iridium Signs Five-Year Contract with L3Harris to Protect FAA Critical Infrastructure",
+    "published": 1712660460,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "Fly Intel: Pre-Market Movers",
+    "published": 1712650380,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "Iridium signs five-year contract with L3Harris Technologies",
+    "published": 1712646240,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "Laser Photonics secures order from L3Harris Technologies",
+    "published": 1712644260,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "L3Harris Technologies Inc. stock underperforms Tuesday when compared to competitors",
+    "published": 1712635440,
+    "posting_price": 203.22102974,
+    "close_price": 202.00595093,
+    "percent_change": -0.59790998
+  },
+  {
+    "title": "L3Harris Technologies : Collaborates with Qatari Shipbuilder Performance Marine to bring Unmanned Surface Vessel Capabilities to the Region",
+    "published": 1712583127,
+    "posting_price": 205.32780308,
+    "close_price": 204.30871582,
+    "percent_change": -0.4963221
+  },
+  {
+    "title": "L3Harris (LHX) to Sell Antenna & Related Business for $200M",
+    "published": 1712579880,
+    "posting_price": 205.32780308,
+    "close_price": 204.30871582,
+    "percent_change": -0.4963221
+  },
+  {
+    "title": "Kanders & Company Announces Definitive Agreement to Acquire Antenna and Test Equipment Businesses from L3Harris",
+    "published": 1712560110,
+    "posting_price": 205.32780308,
+    "close_price": 204.30871582,
+    "percent_change": -0.4963221
+  },
+  {
+    "title": "L3HARRIS ANNOUNCES DEFINITIVE AGREEMENT TO SELL NON-CORE ASSETS TO AN AFFILIATE OF KANDERS AND COMPANY, INC. FOR $200 MILLION",
+    "published": 1712559974,
+    "posting_price": 205.32780308,
+    "close_price": 204.30871582,
+    "percent_change": -0.4963221
+  },
+  {
+    "title": "US Navy awards rocket motor contract to Ursa Major in supply push",
+    "published": 1712548860,
+    "posting_price": 205.32780308,
+    "close_price": 204.30871582,
+    "percent_change": -0.4963221
+  },
+  {
+    "title": "L3Harris secures $155.25M Army contract",
+    "published": 1712538240,
+    "posting_price": 205.32780308,
+    "close_price": 204.30871582,
+    "percent_change": -0.4963221
+  },
+  {
+    "title": "L3Harris Technologies, Inc. (NYSE:LHX) is a favorite amongst institutional investors who own 85%",
+    "published": 1712404894
+  },
+  {
+    "title": "What To Expect After March's Hot Inflation Report",
+    "published": 1712328356,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "L3Harris Announces Definitive Agreement to Sell Non-Core Assets to an Affiliate of Kanders & Company, Inc. for $200 Million",
+    "published": 1712318400,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "Stock losers of Republican policy if Trump wins - GS",
+    "published": 1712310060,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "L3Harris Sheds Antenna Business In Portfolio Refinement: Details",
+    "published": 1712308320,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "L3Harris to divest antenna and related businesses for $200M as it shaves off non-core assets",
+    "published": 1712303880,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "Kanders to acquire antenna and test equipment businesses from L3Harris Technologies",
+    "published": 1712301420,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "L3Harris Technologies announces agreement to sell non-core assets for $200M",
+    "published": 1712301360,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "L3Harris awarded $155.25M government contract",
+    "published": 1712290020,
+    "posting_price": 204.67127353,
+    "close_price": 204.75947571,
+    "percent_change": 0.04309456
+  },
+  {
+    "title": "Peering Into L3Harris Technologies's Recent Short Interest",
+    "published": 1712225820,
+    "posting_price": 201.7217855,
+    "close_price": 205.37680054,
+    "percent_change": 1.81190893
+  },
+  {
+    "title": "Wells Fargo Sticks to Their Buy Rating for L3Harris Technologies (LHX)",
+    "published": 1712210760,
+    "posting_price": 201.7217855,
+    "close_price": 205.37680054,
+    "percent_change": 1.81190893
+  },
+  {
+    "title": "Fear And Loathing Ahead Of Payroll Numbers",
+    "published": 1712207100,
+    "posting_price": 201.7217855,
+    "close_price": 205.37680054,
+    "percent_change": 1.81190893
+  },
+  {
+    "title": "L3Harris Technologies : Aerojet Rocketdyne Completes RS-25 Certification Testing for Artemis V and Beyond",
+    "published": 1712161629,
+    "posting_price": 200.87909395,
+    "close_price": 200.16377258,
+    "percent_change": -0.35609548
+  },
+  {
+    "title": "L3HARRIS CELEBRATES THE RCAF CENTENNIAL",
+    "published": 1712142793,
+    "posting_price": 200.87909395,
+    "close_price": 200.16377258,
+    "percent_change": -0.35609548
+  },
+  {
+    "title": "L3Harris Technologies : Building a Career Growth 'Flight Crew'",
+    "published": 1712066409,
+    "posting_price": 203.81875979,
+    "close_price": 201.07504272,
+    "percent_change": -1.34615532
+  },
+  {
+    "title": "The Top 3 Defense Semiconductor Stocks to Buy in April",
+    "published": 1711990723,
+    "posting_price": 208.7084635,
+    "close_price": 204.36750793,
+    "percent_change": -2.07991353
+  },
+  {
+    "title": "L3Harris Sets Date for First Quarter 2024 Earnings Release",
+    "published": 1711980000,
+    "posting_price": 208.7084635,
+    "close_price": 204.36750793,
+    "percent_change": -2.07991353
+  },
+  {
+    "title": "Lockheed Martin, RTX, And L3Harris: Any Value Left In The Defense Sector?",
+    "published": 1711977629,
+    "posting_price": 208.7084635,
+    "close_price": 204.36750793,
+    "percent_change": -2.07991353
+  },
+  {
+    "title": "SOLV Stock: 7 Things to Know as Solventum Starts Trading Today",
+    "published": 1711965300,
+    "posting_price": 208.7084635,
+    "close_price": 204.36750793,
+    "percent_change": -2.07991353
+  },
+  {
+    "title": "$1000 Invested In L3Harris Technologies 20 Years Ago Would Be Worth This Much Today",
+    "published": 1711962480,
+    "posting_price": 208.7084635,
+    "close_price": 204.36750793,
+    "percent_change": -2.07991353
+  },
+  {
+    "title": "L3Harris Technologies : Celebrates the RCAF Centennial",
+    "published": 1711958962,
+    "posting_price": 208.7084635,
+    "close_price": 204.36750793,
+    "percent_change": -2.07991353
   }
 ]

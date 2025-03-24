@@ -22,7 +22,7 @@ class NewsSource:
         # make key the symbol
         self.accepted_stocks = {item.pop('symbol'): item for item in self.accepted_stocks}
     
-    def _load_news(self, symbol: str):
+    def _load_news(self, symbol: str) -> list:
         """
         Return a list of news for a given stock symbol
         """
@@ -30,6 +30,12 @@ class NewsSource:
         if not self.accepted_stocks[symbol]:
             raise Exception("Stock symbol not found in accepted_stocks.json")
         
+    def get_accepted_stocks(self) -> dict:
+        """
+        Return the accepted_stocks dictionary
+        """
+        return self.accepted_stocks
+
     @abstractmethod
     def get_news(self, *args, **kwargs) -> dict:
         """

@@ -1,19 +1,31 @@
 [
   {
     "title": "Shareholders in Dominion Energy (NYSE:D) are in the red if they invested three years ago",
-    "published": 1741694423
+    "published": 1741694423,
+    "posting_price": 56.68999863,
+    "close_price": 55.13999939,
+    "percent_change": -2.73416701
   },
   {
     "title": "Dominion, AEP and FirstEnergy to co-develop transmission projects in US",
-    "published": 1740756805
+    "published": 1740756805,
+    "posting_price": 56.40000153,
+    "close_price": 56.61999893,
+    "percent_change": 0.3900663
   },
   {
     "title": "Can Dominion Energy, Inc. (NYSE:D) Improve Its Returns?",
-    "published": 1740747615
+    "published": 1740747615,
+    "posting_price": 56.40000153,
+    "close_price": 56.61999893,
+    "percent_change": 0.3900663
   },
   {
     "title": "Dominion Energy Trades Above 50 & 200-Day SMAs: Time to Buy the Stock?",
-    "published": 1740506280
+    "published": 1740506280,
+    "posting_price": 56.77053066,
+    "close_price": 56.75076675,
+    "percent_change": -0.03481368
   },
   {
     "title": "Dominion Energy (NYSE:D) Has No Shortage Of Debt",
@@ -21,10 +33,167 @@
   },
   {
     "title": "Here's Why Dominion Energy (D) is a Strong Momentum Stock",
-    "published": 1739544609
+    "published": 1739544609,
+    "posting_price": 56.24679739,
+    "close_price": 54.93252945,
+    "percent_change": -2.33660937
   },
   {
     "title": "Why Dominion Energy (D) is a Top Value Stock for the Long-Term",
-    "published": 1739457615
+    "published": 1739457615,
+    "posting_price": 55.51554955,
+    "close_price": 56.03927994,
+    "percent_change": 0.94339405
+  },
+  {
+    "title": "Dominion Energy Reaches Major Milestone in Construction of Charybdis, the First Jones Act-Compliant Offshore Wind Turbine Installation Vessel",
+    "published": 1713189600,
+    "posting_price": 46.8134215,
+    "close_price": 45.68837357,
+    "percent_change": -2.40325935
+  },
+  {
+    "title": "Cracking The Code: Understanding Analyst Reviews For Dominion Energy",
+    "published": 1713175560,
+    "posting_price": 46.8134215,
+    "close_price": 45.68837357,
+    "percent_change": -2.40325935
+  },
+  {
+    "title": "Dominion launches wind turbine installation vessel for Coastal Virginia project",
+    "published": 1713175440,
+    "posting_price": 46.8134215,
+    "close_price": 45.68837357,
+    "percent_change": -2.40325935
+  },
+  {
+    "title": "Insiders Buy the Holdings of VLUE ETF",
+    "published": 1713170220,
+    "posting_price": 46.8134215,
+    "close_price": 45.68837357,
+    "percent_change": -2.40325935
+  },
+  {
+    "title": "Dominion price target lowered by $1 at Barclays, here's why",
+    "published": 1713156900,
+    "posting_price": 46.8134215,
+    "close_price": 45.68837357,
+    "percent_change": -2.40325935
+  },
+  {
+    "title": "Barclays Sticks to Its Buy Rating for Dominion Energy (D)",
+    "published": 1713082560
+  },
+  {
+    "title": "Cheat Sheet: Those Other AI Beneficiaries",
+    "published": 1712836980,
+    "posting_price": 46.85155889,
+    "close_price": 46.73714828,
+    "percent_change": -0.24419809
+  },
+  {
+    "title": "Electrical Utilities: AI Power Play",
+    "published": 1712833620,
+    "posting_price": 46.85155889,
+    "close_price": 46.73714828,
+    "percent_change": -0.24419809
+  },
+  {
+    "title": "Dominion Energy Inc. stock outperforms competitors despite losses on the day",
+    "published": 1712720100,
+    "posting_price": 46.09834902,
+    "close_price": 46.52739334,
+    "percent_change": 0.93071515
+  },
+  {
+    "title": "Fitch Affirms IDRs of Dominion Energy and Subsidiaries",
+    "published": 1712555904,
+    "posting_price": 46.34624228,
+    "close_price": 46.50832367,
+    "percent_change": 0.34971851
+  },
+  {
+    "title": "DGI For The DIY: 2023 Dividend Portfolio Review",
+    "published": 1712546542,
+    "posting_price": 46.34624228,
+    "close_price": 46.50832367,
+    "percent_change": 0.34971851
+  },
+  {
+    "title": "Dominion Energy: Powering The Data Center Capital Of The World",
+    "published": 1712345867,
+    "posting_price": 46.20323137,
+    "close_price": 46.30810928,
+    "percent_change": 0.22699259
+  },
+  {
+    "title": "Dominion Energy Schedules First-Quarter 2024 Earnings Call",
+    "published": 1712261100,
+    "posting_price": 46.89923374,
+    "close_price": 46.38438416,
+    "percent_change": -1.09777823
+  },
+  {
+    "title": "Eaton (ETN) Completes First Clean Energy Project in Puerto Rico",
+    "published": 1712237160,
+    "posting_price": 46.89923374,
+    "close_price": 46.38438416,
+    "percent_change": -1.09777823
+  },
+  {
+    "title": "Dominion Energy Urges Customers to Stay Safe, Contact 811 Before Digging",
+    "published": 1712158200,
+    "posting_price": 46.53692839,
+    "close_price": 46.36531067,
+    "percent_change": -0.3687775
+  },
+  {
+    "title": "Dominion Energy : Launches Program in Myrtle Beach to Help Natural Gas Customers Save Energy and Money",
+    "published": 1712137931,
+    "posting_price": 46.53692839,
+    "close_price": 46.36531067,
+    "percent_change": -0.3687775
+  },
+  {
+    "title": "Merger Mania: 3 Potential Takeover Targets to Watch for Lucrative Buyouts",
+    "published": 1712056740,
+    "posting_price": 46.71808159,
+    "close_price": 46.45112228,
+    "percent_change": -0.5714261
+  },
+  {
+    "title": "Dominion Energy solar projects OK'd by Virginia regulator",
+    "published": 1712055420,
+    "posting_price": 46.71808159,
+    "close_price": 46.45112228,
+    "percent_change": -0.5714261
+  },
+  {
+    "title": "Virginia regulators approve Dominion Energy solar projects",
+    "published": 1711986118,
+    "posting_price": 46.82295376,
+    "close_price": 46.87062454,
+    "percent_change": 0.10181071
+  },
+  {
+    "title": "New solar projects approved for Dominion Energy Virginia customers",
+    "published": 1711980000,
+    "posting_price": 46.82295376,
+    "close_price": 46.87062454,
+    "percent_change": 0.10181071
+  },
+  {
+    "title": "Dominion Energy : Urges Customers to Stay Safe, Contact 811 Before Digging",
+    "published": 1711971487,
+    "posting_price": 46.82295376,
+    "close_price": 46.87062454,
+    "percent_change": 0.10181071
+  },
+  {
+    "title": "Dominion Energy : Announces Opening Dates for Park Sites",
+    "published": 1711967886,
+    "posting_price": 46.82295376,
+    "close_price": 46.87062454,
+    "percent_change": 0.10181071
   }
 ]

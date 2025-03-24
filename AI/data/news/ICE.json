@@ -1,62 +1,331 @@
 [
   {
+    "title": "NYSE Content advisory: Pre-Market update + Liberty Energy's New CEO to ring the bell",
+    "published": 1742820900,
+    "posting_price": 174.32000732,
+    "close_price": 174.8999939,
+    "percent_change": 0.33271372
+  },
+  {
+    "title": "NYSE CONTENT ADVISORY: The NYSE on the ground at HumanX's inaugural AI conference",
+    "published": 1742818500,
+    "posting_price": 174.32000732,
+    "close_price": 174.8999939,
+    "percent_change": 0.33271372
+  },
+  {
     "title": "Intercontinental Exchange (ICE) \u2013 \u201cSuch a Winner!\u201d Says Jim Cramer",
-    "published": 1742592159
+    "published": 1742592159,
+    "posting_price": 175.66999817,
+    "close_price": 174.38999939,
+    "percent_change": -0.72863824
   },
   {
     "title": "ICE Stock Trades Near 52-Week High: Buy or Wait for a Pullback?",
-    "published": 1742576820
+    "published": 1742576820,
+    "posting_price": 175.66999817,
+    "close_price": 174.38999939,
+    "percent_change": -0.72863824
   },
   {
     "title": "NYSE Content advisory: Pre-Market update + Stocks try for weekly gains",
-    "published": 1742561700
+    "published": 1742561700,
+    "posting_price": 175.66999817,
+    "close_price": 174.38999939,
+    "percent_change": -0.72863824
   },
   {
     "title": "NYSE Content advisory: Pre-Market update + Federal Reserve updates its forecast",
-    "published": 1742475300
+    "published": 1742475300,
+    "posting_price": 173.13000488,
+    "close_price": 175.58999634,
+    "percent_change": 1.42089262
   },
   {
     "title": "NYSE Content advisory: Pre-Market Update + Federal Reserve Decision Due",
-    "published": 1742388900
+    "published": 1742388900,
+    "posting_price": 173.16000366,
+    "close_price": 173.69000244,
+    "percent_change": 0.3060746
   },
   {
     "title": "NYSE Content advisory: Pre-Market Update + American Express Marks Founding Anniversary as Proofpoint Teams Up with Microsoft for Cybersecurity",
-    "published": 1742302500
+    "published": 1742302500,
+    "posting_price": 173.07000732,
+    "close_price": 172.83999634,
+    "percent_change": -0.13290054
   },
   {
     "title": "NYSE Content advisory: Pre-market update + Federal Reserve to Meet",
-    "published": 1742216100
+    "published": 1742216100,
+    "posting_price": 170.92999268,
+    "close_price": 172.82000732,
+    "percent_change": 1.1057244
   },
   {
     "title": "NYSE Content advisory: Pre-market update for March 14, 2025",
-    "published": 1741956900
+    "published": 1741956900,
+    "posting_price": 169.40332022,
+    "close_price": 170.58000183,
+    "percent_change": 0.69460363
   },
   {
     "title": "NYSE Content advisory: Pre-market update + Wicked\" star Marissa Bode Named PRWeek Communicator of the Year",
-    "published": 1741870500
+    "published": 1741870500,
+    "posting_price": 168.60556081,
+    "close_price": 168.66539001,
+    "percent_change": 0.03548471
   },
   {
     "title": "NYSE Content advisory: Pre-market update + NYSE President to speak on stage at HumanX",
-    "published": 1741697700
+    "published": 1741697700,
+    "posting_price": 168.56567314,
+    "close_price": 167.8875885,
+    "percent_change": -0.40226733
   },
   {
     "title": "Dow Jones Leader McDonald's, Kroger Eye Buy Points Despite Stock Market Sell-Off",
-    "published": 1741694425
+    "published": 1741694425,
+    "posting_price": 168.56567314,
+    "close_price": 167.8875885,
+    "percent_change": -0.40226733
   },
   {
     "title": "CME Group, IBD Stock Of The Day, Rides Market Volatility To Record High",
-    "published": 1741626784
+    "published": 1741626784,
+    "posting_price": 169.45316408,
+    "close_price": 168.675354,
+    "percent_change": -0.45901184
   },
   {
     "title": "NYSE Content advisory: Pre-market update for March 10th",
-    "published": 1741611300
+    "published": 1741611300,
+    "posting_price": 169.45316408,
+    "close_price": 168.675354,
+    "percent_change": -0.45901184
   },
   {
     "title": "NYSE CONTENT ADVISORY: New York Stock Exchange Partnership Network Update",
-    "published": 1741611000
+    "published": 1741611000,
+    "posting_price": 169.45316408,
+    "close_price": 168.675354,
+    "percent_change": -0.45901184
   },
   {
-    "title": "NYSE Content advisory: Pre-market update for March 7th",
-    "published": 1741355700
+    "title": "ICE Bonds\u2019 Risk Matching Auction Named Best Sell-Side Trading Network by WatersTechnology",
+    "published": 1713186000,
+    "posting_price": 133.22694228,
+    "close_price": 129.00708008,
+    "percent_change": -3.16742404
+  },
+  {
+    "title": "Intercontinental Exchange Enters Oversold Territory",
+    "published": 1713150180,
+    "posting_price": 133.22694228,
+    "close_price": 129.00708008,
+    "percent_change": -3.16742404
+  },
+  {
+    "title": "If You Invested $1000 In This Stock 10 Years Ago, You Would Have $3,400 Today",
+    "published": 1712914380,
+    "posting_price": 131.24057277,
+    "close_price": 131.98176575,
+    "percent_change": 0.56475903
+  },
+  {
+    "title": "Piper Sandler Sticks to Its Buy Rating for Intercontinental Exchange (ICE)",
+    "published": 1712906880,
+    "posting_price": 131.24057277,
+    "close_price": 131.98176575,
+    "percent_change": 0.56475903
+  },
+  {
+    "title": "Stocks likely to beat and miss their earnings expectations - BofA",
+    "published": 1712889000,
+    "posting_price": 131.24057277,
+    "close_price": 131.98176575,
+    "percent_change": 0.56475903
+  },
+  {
+    "title": "ICE Reports Record Open Interest Across its Global Natural Gas Markets with Record Trading Activity in Natural Gas Options",
+    "published": 1712840400,
+    "posting_price": 131.41843854,
+    "close_price": 131.91256714,
+    "percent_change": 0.3759964
+  },
+  {
+    "title": "Possible Bearish Signals With Intercontinental Exchange Insiders Disposing Stock",
+    "published": 1712833223,
+    "posting_price": 131.41843854,
+    "close_price": 131.91256714,
+    "percent_change": 0.3759964
+  },
+  {
+    "title": "Broadridge Names Hope Jarkowski Chief Legal Officer",
+    "published": 1712818800,
+    "posting_price": 131.41843854,
+    "close_price": 131.91256714,
+    "percent_change": 0.3759964
+  },
+  {
+    "title": "Global Stock leaders for 2030 in Fin Tech - UBS",
+    "published": 1712753340,
+    "posting_price": 131.91255847,
+    "close_price": 131.37890625,
+    "percent_change": -0.40454997
+  },
+  {
+    "title": "IntercontinentalExchange price target raised by $3 at Morgan Stanley, here's why",
+    "published": 1712647920,
+    "posting_price": 135.81617901,
+    "close_price": 133.47401428,
+    "percent_change": -1.72451084
+  },
+  {
+    "title": "Jefferies Keeps Their Buy Rating on Intercontinental Exchange (ICE)",
+    "published": 1712646960,
+    "posting_price": 135.81617901,
+    "close_price": 133.47401428,
+    "percent_change": -1.72451084
+  },
+  {
+    "title": "IntercontinentalExchange price target raised by $2 at Barclays, here's why",
+    "published": 1712552280,
+    "posting_price": 136.57716646,
+    "close_price": 135.27267456,
+    "percent_change": -0.95513176
+  },
+  {
+    "title": "Intercontinental Exchange (ICE) Receives a Buy from Barclays",
+    "published": 1712551920,
+    "posting_price": 136.57716646,
+    "close_price": 135.27267456,
+    "percent_change": -0.95513176
+  },
+  {
+    "title": "ClearBridge Large Cap Growth ESG Strategy Q2 2024 Portfolio Manager Commentary",
+    "published": 1712314200,
+    "posting_price": 135.13428677,
+    "close_price": 136.25100708,
+    "percent_change": 0.82637822
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights Intercontinental Exchange, CME Group, Coinbase Global, Nasdaq and Cboe Global",
+    "published": 1712309280,
+    "posting_price": 135.13428677,
+    "close_price": 136.25100708,
+    "percent_change": 0.82637822
+  },
+  {
+    "title": "5 Securities and Exchanges Stocks to Gain From Trading Volatility",
+    "published": 1712245680,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "Capital Mortgage Services selects MSP\u00ae loan servicing system from ICE",
+    "published": 1712235600,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "KBW downgrades Intercontinental Exchange (ICE) to a Buy",
+    "published": 1712233560,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "Forecasting The Future: 11 Analyst Projections For Intercontinental Exchange",
+    "published": 1712232300,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "IntercontinentalExchange price target raised by $5 at Citi, here's why",
+    "published": 1712208300,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "Buy Rating on Intercontinental Exchange: Growth Momentum and Strategic Positioning in Energy and Mortgage Sectors",
+    "published": 1712204400,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "Lynn Martin",
+    "published": 1712197440,
+    "posting_price": 136.6265742,
+    "close_price": 135.09477234,
+    "percent_change": -1.12115953
+  },
+  {
+    "title": "Intercontinental Exchange Reports March and First Quarter 2024 Statistics",
+    "published": 1712147400,
+    "posting_price": 135.71736408,
+    "close_price": 135.7766571,
+    "percent_change": 0.0436886
+  },
+  {
+    "title": "Compelling Reasons to Retain Intercontinental (ICE) Stock Now",
+    "published": 1712146200,
+    "posting_price": 135.71736408,
+    "close_price": 135.7766571,
+    "percent_change": 0.0436886
+  },
+  {
+    "title": "Intercontinental Exchange ADV rises 4% Y/Y in March",
+    "published": 1712130660,
+    "posting_price": 135.71736408,
+    "close_price": 135.7766571,
+    "percent_change": 0.0436886
+  },
+  {
+    "title": "IntercontinentalExchange reports March total ADV up 4% y/y, OI up 20% y/y",
+    "published": 1712130240,
+    "posting_price": 135.71736408,
+    "close_price": 135.7766571,
+    "percent_change": 0.0436886
+  },
+  {
+    "title": "Forget Reddit And Trump Media: Here's A Less Volatile Way To Cash In On Meme Stocks",
+    "published": 1712116320,
+    "posting_price": 135.71736408,
+    "close_price": 135.7766571,
+    "percent_change": 0.0436886
+  },
+  {
+    "title": "Majority of older homeowners plan to stay in their home as they age: Redfin",
+    "published": 1712088718,
+    "posting_price": 135.26276906,
+    "close_price": 135.88537598,
+    "percent_change": 0.46029438
+  },
+  {
+    "title": "Bought a house during the pandemic? Here\u2019s how much more that same home would cost today.",
+    "published": 1712068980,
+    "posting_price": 135.26276906,
+    "close_price": 135.88537598,
+    "percent_change": 0.46029438
+  },
+  {
+    "title": "Homeowners who bought during pandemic would pay 40% more for their house today \u2014 the lock-in effect, explained",
+    "published": 1712034180,
+    "posting_price": 135.26276906,
+    "close_price": 135.88537598,
+    "percent_change": 0.46029438
+  },
+  {
+    "title": "ICE Mortgage Monitor: Trading Up to a 25% More Expensive Home Would More Than Double the Average Mortgage Holder\u2019s Payment",
+    "published": 1711976400,
+    "posting_price": 136.04350537,
+    "close_price": 135.42089844,
+    "percent_change": -0.45765281
   }
 ]

@@ -1,75 +1,129 @@
 [
   {
     "title": "Fewer Multifamily Permits Today Could Mean Costlier Rents Ahead",
-    "published": 1742378400
+    "published": 1742378400,
+    "posting_price": 30.71999931,
+    "close_price": 31.25,
+    "percent_change": 1.7252627
   },
   {
     "title": "News Corp sued by Brave Software, a Google search engine rival",
-    "published": 1741884259
+    "published": 1741884259,
+    "posting_price": 30.62999916,
+    "close_price": 30.10000038,
+    "percent_change": -1.73032581
   },
   {
     "title": "Returns Are Gaining Momentum At News (NASDAQ:NWSA)",
-    "published": 1741801746
+    "published": 1741801746,
+    "posting_price": 30.92000008,
+    "close_price": 30.70999908,
+    "percent_change": -0.67917529
   },
   {
     "title": "Considering Selling Your Home in 2025? The Best Time to Sell is Right Around the Corner, According to Realtor.com\u00ae",
-    "published": 1741773600
+    "published": 1741773600,
+    "posting_price": 30.92000008,
+    "close_price": 30.70999908,
+    "percent_change": -0.67917529
   },
   {
     "title": "U.S. Housing Market Faces 4 Million-Home Shortage--Realtor.com\u00ae Calls on Lawmakers to Let America Build",
-    "published": 1741627800
+    "published": 1741627800,
+    "posting_price": 31.37765945,
+    "close_price": 30.99889565,
+    "percent_change": -1.20711298
   },
   {
     "title": "What Makes a Market Hot? Realtor.com Finds Homes in the Most On-Demand Markets Spend Two to Four Weeks Less on Market",
-    "published": 1741258800
+    "published": 1741258800,
+    "posting_price": 31.60691214,
+    "close_price": 31.77635956,
+    "percent_change": 0.53610874
   },
   {
     "title": "Increased Price Reductions Could Give Buyers More Room to Negotiate This Spring",
-    "published": 1740654000
+    "published": 1740654000,
+    "posting_price": 31.76639192,
+    "close_price": 31.78632545,
+    "percent_change": 0.06275037
   },
   {
     "title": "Breaking Ground: Realtor.com\u00ae Drives Conversations to Tackle America's Housing Shortage at SXSW",
-    "published": 1740567600
+    "published": 1740567600,
+    "posting_price": 31.876034,
+    "close_price": 31.67668533,
+    "percent_change": -0.62538731
   },
   {
     "title": "News Corp to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
-    "published": 1740432600
+    "published": 1740432600,
+    "posting_price": 32.47408455,
+    "close_price": 32.21492767,
+    "percent_change": -0.79804214
   },
   {
     "title": "FiscalNote Inks $40 Million Deal To Divest Two Non-Core Assets, Reducing Debt And Sharpening Core Focus",
-    "published": 1740403977
+    "published": 1740403977,
+    "posting_price": 32.47408455,
+    "close_price": 32.21492767,
+    "percent_change": -0.79804214
   },
   {
     "title": "While shareholders of News (NASDAQ:NWSA) are in the black over 5 years, those who bought a week ago aren't so fortunate",
-    "published": 1740398618
+    "published": 1740398618,
+    "posting_price": 32.47408455,
+    "close_price": 32.21492767,
+    "percent_change": -0.79804214
   },
   {
     "title": "Dow Jones to Acquire Dragonfly Intelligence and Oxford Analytica from FiscalNote",
-    "published": 1740398460
+    "published": 1740398460,
+    "posting_price": 32.47408455,
+    "close_price": 32.21492767,
+    "percent_change": -0.79804214
   },
   {
     "title": "Home Sales Fell 4.9% in January, Extending Slump in Housing Market",
-    "published": 1740151200
+    "published": 1740151200,
+    "posting_price": 32.97245887,
+    "close_price": 32.19499207,
+    "percent_change": -2.35792788
   },
   {
     "title": "CoStar Targets Australia\u2019s Domain With $1.68 Billion Takeover Proposal",
-    "published": 1740101220
+    "published": 1740101220,
+    "posting_price": 32.97245887,
+    "close_price": 32.19499207,
+    "percent_change": -2.35792788
   },
   {
     "title": "Zacks Industry Outlook Highlights Live Nation, TKO Group and News",
-    "published": 1740045600
+    "published": 1740045600,
+    "posting_price": 34.56725747,
+    "close_price": 32.83291245,
+    "percent_change": -5.01730582
   },
   {
     "title": "Citi puts News Corp on positive catalyst watch on ahead of trust ruling",
-    "published": 1739977186
+    "published": 1739977186,
+    "posting_price": 34.7965073,
+    "close_price": 34.84634399,
+    "percent_change": 0.14322325
   },
   {
     "title": "3 Film & Television Production Stocks to Buy on Solid Industry Trends",
-    "published": 1739973300
+    "published": 1739973300,
+    "posting_price": 34.7965073,
+    "close_price": 34.84634399,
+    "percent_change": 0.14322325
   },
   {
     "title": "Renting is Still More Affordable than Buying in All but Two Major U.S. Metros",
-    "published": 1739876400
+    "published": 1739876400,
+    "posting_price": 34.86627977,
+    "close_price": 34.88621521,
+    "percent_change": 0.05717685
   },
   {
     "title": "Q4 Earnings Roundup: Bowlero (NYSE:BOWL) And The Rest Of The Consumer Discretionary Segment",
@@ -77,6 +131,200 @@
   },
   {
     "title": "Cond\u00e9 Nast, McClatchy and Other Publishers Accuse AI Firm Cohere of Copyright Violations",
-    "published": 1739462940
+    "published": 1739462940,
+    "posting_price": 33.88946787,
+    "close_price": 34.18849182,
+    "percent_change": 0.88235068
+  },
+  {
+    "title": "Suit Challenging Iowa\u2019s Book Ban Is Backed by Every Major Publisher",
+    "published": 1713200940,
+    "posting_price": 25.17560502,
+    "close_price": 24.82801247,
+    "percent_change": -1.38067208
+  },
+  {
+    "title": "Dow Jones Smart Money, a Collection of Free-to-Read Personal Finance Content, Launches Today",
+    "published": 1713189600,
+    "posting_price": 25.17560502,
+    "close_price": 24.82801247,
+    "percent_change": -1.38067208
+  },
+  {
+    "title": "The Best Time to Sell is Here, According to Realtor.com\u00ae",
+    "published": 1713175200,
+    "posting_price": 25.17560502,
+    "close_price": 24.82801247,
+    "percent_change": -1.38067208
+  },
+  {
+    "title": "News Corp Announces $1 Billion Stock Buy-Back",
+    "published": 1713161820,
+    "posting_price": 25.17560502,
+    "close_price": 24.82801247,
+    "percent_change": -1.38067208
+  },
+  {
+    "title": "News Corporation Plans $1 Billion Stock Buy-Back",
+    "published": 1713086820
+  },
+  {
+    "title": "News Corporation Announces Stock Cancellation",
+    "published": 1713083280
+  },
+  {
+    "title": "News Corp CEO Reports Stock Ownership Changes",
+    "published": 1713074280
+  },
+  {
+    "title": "News Corp CFO Bolsters Stake with New Shares",
+    "published": 1713074280
+  },
+  {
+    "title": "News Corp CFO Reports Stock Holdings Change",
+    "published": 1713074280
+  },
+  {
+    "title": "News Corp CFO Acquires Restricted Stock Units",
+    "published": 1713074280
+  },
+  {
+    "title": "News Corp CEO Acquires More Shares",
+    "published": 1713074280
+  },
+  {
+    "title": "News Corp CFO Bolsters Shares with RSUs",
+    "published": 1713074220
+  },
+  {
+    "title": "A Look Back at Media Stocks' Q4 Earnings: Warner Bros. Discovery (NASDAQ:WBD) Vs The Rest Of The Pack",
+    "published": 1712910420,
+    "posting_price": 25.30471131,
+    "close_price": 24.93725777,
+    "percent_change": -1.45211512
+  },
+  {
+    "title": "Return Trends At News (NASDAQ:NWSA) Aren't Appealing",
+    "published": 1712848236,
+    "posting_price": 25.70195752,
+    "close_price": 25.5430584,
+    "percent_change": -0.61823742
+  },
+  {
+    "title": "O.J. Simpson dead at 76 after prostate-cancer diagnosis, family announces",
+    "published": 1712836020,
+    "posting_price": 25.70195752,
+    "close_price": 25.5430584,
+    "percent_change": -0.61823742
+  },
+  {
+    "title": "News Corporation Announces $1 Billion Buy-Back",
+    "published": 1712815740,
+    "posting_price": 25.70195752,
+    "close_price": 25.5430584,
+    "percent_change": -0.61823742
+  },
+  {
+    "title": "Realtor.com\u00ae and Cox Automotive Identify the Top Electric Vehicle Friendly Housing Markets",
+    "published": 1712743200,
+    "posting_price": 25.74168399,
+    "close_price": 25.45367813,
+    "percent_change": -1.11883069
+  },
+  {
+    "title": "News Corporation Launches $1 Billion Stock Buy-Back",
+    "published": 1712730420,
+    "posting_price": 25.74168399,
+    "close_price": 25.45367813,
+    "percent_change": -1.11883069
+  },
+  {
+    "title": "Dow Jones Risk & Compliance Deploys Generative AI to Transform Due Diligence",
+    "published": 1712667600,
+    "posting_price": 26.51631839,
+    "close_price": 26.1587944,
+    "percent_change": -1.34831685
+  },
+  {
+    "title": "News Corporation Launches $1 Billion Buy-Back",
+    "published": 1712645880,
+    "posting_price": 26.51631839,
+    "close_price": 26.1587944,
+    "percent_change": -1.34831685
+  },
+  {
+    "title": "News Corp Plans $1 Billion Stock Buy-Back",
+    "published": 1712645880,
+    "posting_price": 26.51631839,
+    "close_price": 26.1587944,
+    "percent_change": -1.34831685
+  },
+  {
+    "title": "News Corp Announces Billion-Dollar Stock Buy-Back",
+    "published": 1712476680
+  },
+  {
+    "title": "News Corporation Announces Stock Cessation",
+    "published": 1712470080
+  },
+  {
+    "title": "News Corp Class B Stock Buy-Back Cancellation",
+    "published": 1712470080
+  },
+  {
+    "title": "Media Stocks Q4 In Review: fuboTV (NYSE:FUBO) Vs Peers",
+    "published": 1712320278,
+    "posting_price": 26.20845122,
+    "close_price": 26.27796936,
+    "percent_change": 0.26525085
+  },
+  {
+    "title": "Realtor.com\u00ae March Housing Report: Housing Market Takes a Step in a Buyer-Friendly Direction",
+    "published": 1712224800,
+    "posting_price": 26.62556088,
+    "close_price": 26.19851875,
+    "percent_change": -1.60388032
+  },
+  {
+    "title": "News Corp Launches $1 Billion Stock Buy-Back",
+    "published": 1712204880,
+    "posting_price": 26.62556088,
+    "close_price": 26.19851875,
+    "percent_change": -1.60388032
+  },
+  {
+    "title": "News Corp Insider Transactions by Murdoch",
+    "published": 1712135340,
+    "posting_price": 26.00982727,
+    "close_price": 26.3474884,
+    "percent_change": 1.29820597
+  },
+  {
+    "title": "News Corporation Insider Ownership Change",
+    "published": 1712135280,
+    "posting_price": 26.00982727,
+    "close_price": 26.3474884,
+    "percent_change": 1.29820597
+  },
+  {
+    "title": "News Corp Insider Trades and Stock Updates",
+    "published": 1712135280,
+    "posting_price": 26.00982727,
+    "close_price": 26.3474884,
+    "percent_change": 1.29820597
+  },
+  {
+    "title": "News Corp Director Bancroft\u2019s Recent Stock Movements",
+    "published": 1712135280,
+    "posting_price": 26.00982727,
+    "close_price": 26.3474884,
+    "percent_change": 1.29820597
+  },
+  {
+    "title": "These are the most neglected stocks within each sector - BofA",
+    "published": 1711975560,
+    "posting_price": 26.82418585,
+    "close_price": 26.49645615,
+    "percent_change": -1.22176942
   }
 ]

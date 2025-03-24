@@ -1,38 +1,434 @@
 [
   {
+    "title": "Here's Why Kroger (KR) is a Strong Value Stock",
+    "published": 1742823604,
+    "posting_price": 65.33000183,
+    "close_price": 65.07499695,
+    "percent_change": -0.3903335
+  },
+  {
     "title": "3 of Goldman Sachs' best investing tips for currently volatile markets",
-    "published": 1742563852
+    "published": 1742563852,
+    "posting_price": 64.72000122,
+    "close_price": 65.40000153,
+    "percent_change": 1.05068031
   },
   {
     "title": "Number Sense: Kroger\u2019s e-commerce growth is a complicated story",
-    "published": 1742471820
+    "published": 1742471820,
+    "posting_price": 65.48000336,
+    "close_price": 64.72000122,
+    "percent_change": -1.16066295
   },
   {
     "title": "Kroger keeps eye on produce tariff exposure",
-    "published": 1742465840
+    "published": 1742465840,
+    "posting_price": 65.48000336,
+    "close_price": 64.72000122,
+    "percent_change": -1.16066295
   },
   {
     "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1742392204
+    "published": 1742392204,
+    "posting_price": 65.66000366,
+    "close_price": 65.48000336,
+    "percent_change": -0.27413995
   },
   {
     "title": "Kroger taps former Ahold Delhaize exec to head Dallas Division",
-    "published": 1742382120
+    "published": 1742382120,
+    "posting_price": 65.66000366,
+    "close_price": 65.48000336,
+    "percent_change": -0.27413995
   },
   {
     "title": "Instacart announces AI tool Smart Shop to help consumers shop healthier, according to dietary needs",
-    "published": 1742305122
+    "published": 1742305122,
+    "posting_price": 66.26999664,
+    "close_price": 65.98999786,
+    "percent_change": -0.42251214
   },
   {
     "title": "Kroger cuts jobs at 84.51\u00b0",
-    "published": 1742296440
+    "published": 1742296440,
+    "posting_price": 66.26999664,
+    "close_price": 65.98999786,
+    "percent_change": -0.42251214
   },
   {
     "title": "Kroger launches new e-commerce unit and appoints chief digital officer",
-    "published": 1741771073
+    "published": 1741771073,
+    "posting_price": 65.98999786,
+    "close_price": 64.98999786,
+    "percent_change": -1.51538117
   },
   {
-    "title": "Kroger launches e-commerce business unit",
-    "published": 1741696606
+    "title": "Ranked: The Largest U.S. Corporations By Number Of Employees",
+    "published": 1713180420,
+    "posting_price": 54.43708892,
+    "close_price": 54.17287827,
+    "percent_change": -0.48535044
+  },
+  {
+    "title": "Retail rallies after consumers keep spending at a solid pace in March",
+    "published": 1713171660,
+    "posting_price": 54.43708892,
+    "close_price": 54.17287827,
+    "percent_change": -0.48535044
+  },
+  {
+    "title": "Large Fund Bets Big on Groceries in the Face of Persistent Inflation",
+    "published": 1713078000
+  },
+  {
+    "title": "Wall Street's Top 10 Stock Calls This Week - Saturday, April 13",
+    "published": 1713008400
+  },
+  {
+    "title": "Buy/Sell: Wall Street's top 10 stock calls this week",
+    "published": 1712925480,
+    "posting_price": 54.7110819,
+    "close_price": 54.01630783,
+    "percent_change": -1.26989642
+  },
+  {
+    "title": "Kroger: Refocus On Store Growth Supports Positive Growth Outlook",
+    "published": 1712917289,
+    "posting_price": 54.7110819,
+    "close_price": 54.01630783,
+    "percent_change": -1.26989642
+  },
+  {
+    "title": "Stocks with the highest swings in option premium price over 3 months - JPM",
+    "published": 1712915280,
+    "posting_price": 54.7110819,
+    "close_price": 54.01630783,
+    "percent_change": -1.26989642
+  },
+  {
+    "title": "Over 1,300 layoffs hit logistics companies across US",
+    "published": 1712870762,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Kroger Stock Thriving Despite Intense Competition From Online And Wholesale Giants",
+    "published": 1712862780,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Should Value Investors Buy The Kroger Co. (KR) Stock?",
+    "published": 1712842816,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Kroger Kicks Off a Latin Flavor Take Over Four-Week Event; Retailer celebrates Latin cuisine and culinary tradition leading up to Cinco de Mayo",
+    "published": 1712839528,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Top quant-rated consumer staples during Q1",
+    "published": 1712834460,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Pfizer unit to settle Effexor XR antitrust claims in $39M deal",
+    "published": 1712830680,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "KR May 31st Options Begin Trading",
+    "published": 1712829360,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Enthusiast Gaming's Luminosity partners with Kroger for Luminosity Invitational",
+    "published": 1712815620,
+    "posting_price": 55.5330704,
+    "close_price": 54.94593811,
+    "percent_change": -1.05726603
+  },
+  {
+    "title": "Plant-Based Profits: 3 Vegan Stocks for More Green in Your Portfolio",
+    "published": 1712770937,
+    "posting_price": 54.0163036,
+    "close_price": 55.38628006,
+    "percent_change": 2.53622771
+  },
+  {
+    "title": "Kroger Kicks Off a Latin Flavor Take Over Four-Week Event",
+    "published": 1712744100,
+    "posting_price": 54.0163036,
+    "close_price": 55.38628006,
+    "percent_change": 2.53622771
+  },
+  {
+    "title": "Why REITs Are A Better Buy In Today's Market",
+    "published": 1712732400,
+    "posting_price": 54.0163036,
+    "close_price": 55.38628006,
+    "percent_change": 2.53622771
+  },
+  {
+    "title": "Kroger and Walmart outperform as investors turn defensive",
+    "published": 1712710800,
+    "posting_price": 54.0163036,
+    "close_price": 55.38628006,
+    "percent_change": 2.53622771
+  },
+  {
+    "title": "Why Did Kroger Stock Rise 15% Last Month?",
+    "published": 1712695827,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "If You Can Only Buy One Warren Buffett Stock in April, It Better Be One of These 3 Names",
+    "published": 1712681737,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "7 Stocks That Should Outperform on the Next Fed Rate Cut",
+    "published": 1712679120,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "Kroger Zero Hunger | Zero Waste Foundation Sponsors National STEM Festival",
+    "published": 1712672100,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "Can Kroger's Rally Continue?",
+    "published": 1712671201,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "Ulta Beauty's (ULTA) Omnichannel Focus Aids, SG&A Costs Hurt",
+    "published": 1712670540,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "Walmart's (WMT) Success Story Painted by Omnichannel Strength",
+    "published": 1712670240,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "Is Costco Stock (NASDAQ:COST) a Bubble at 47x Earnings?",
+    "published": 1712645820,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "Bill Nygren's Oakmark Fund 1st-Quarter Commentary: A Recap",
+    "published": 1712627820,
+    "posting_price": 54.28052107,
+    "close_price": 54.23159027,
+    "percent_change": -0.09014431
+  },
+  {
+    "title": "MCoBeauty, Coveted Australian Beauty Brand, Expands to the U.S. Market Available Exclusively at Kroger",
+    "published": 1712575759,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "Exane BNP Paribas Downgrades Kroger (KR)",
+    "published": 1712573478,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
+    "published": 1712565900,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "Target Introduces TruScan Tech To Combat Self-Checkout Theft: Report",
+    "published": 1712565720,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "Yerbae Brands announces products now available in Kroger stores",
+    "published": 1712560500,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "Unveiling The Kroger Co (KR)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1712557980,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "Kroger just downgraded at Exane BNP Paribas, here's why",
+    "published": 1712546940,
+    "posting_price": 54.6915127,
+    "close_price": 54.18266296,
+    "percent_change": -0.93039983
+  },
+  {
+    "title": "The 3 Best Vegan Stocks to Buy in April 2024",
+    "published": 1712512890
+  },
+  {
+    "title": "13 Best Warren Buffett Dividend Stocks To Invest In Right Now",
+    "published": 1712348531,
+    "posting_price": 56.25720657,
+    "close_price": 56.08106613,
+    "percent_change": -0.31309845
+  },
+  {
+    "title": "The Friday Checkout: Was Amazon\u2019s Just Walk Out tech a victim of inflation?",
+    "published": 1712332010,
+    "posting_price": 56.25720657,
+    "close_price": 56.08106613,
+    "percent_change": -0.31309845
+  },
+  {
+    "title": "Nutri-Grain\u00ae and King Soopers Join No Kid Hungry to Help End Summer Hunger for Colorado Kids and Families",
+    "published": 1712253480,
+    "posting_price": 56.6192666,
+    "close_price": 56.20827103,
+    "percent_change": -0.72589349
+  },
+  {
+    "title": "The\u00a0Kroger Co. Announces MCoBeauty Makes its United States Debut Exclusively at Kroger Family of Stores",
+    "published": 1712239200,
+    "posting_price": 56.6192666,
+    "close_price": 56.20827103,
+    "percent_change": -0.72589349
+  },
+  {
+    "title": "The 3 Most Undervalued Warren Buffett Stocks to Buy in April 2024",
+    "published": 1712213703,
+    "posting_price": 56.6192666,
+    "close_price": 56.20827103,
+    "percent_change": -0.72589349
+  },
+  {
+    "title": "Sell the Long Rally Now and Move to These 6 Warren Buffett Top Dividend Winners",
+    "published": 1712211480,
+    "posting_price": 56.6192666,
+    "close_price": 56.20827103,
+    "percent_change": -0.72589349
+  },
+  {
+    "title": "Walmart, Dollar Tree, and auto and home retailers stand to benefit from higher tax refunds",
+    "published": 1712175179,
+    "posting_price": 56.58991427,
+    "close_price": 56.5214119,
+    "percent_change": -0.12105049
+  },
+  {
+    "title": "Kroger Invites Customers to Join in Celebration of Earth Month; Retailer recognizing Earth Month by protecting wildlife, introduces new reusable bags",
+    "published": 1712145626,
+    "posting_price": 56.58991427,
+    "close_price": 56.5214119,
+    "percent_change": -0.12105049
+  },
+  {
+    "title": "Zacks Investment Ideas feature highlights: Energy Sector ETF, Marathon Petroleum, Kroger and Murphy USA",
+    "published": 1712136480,
+    "posting_price": 56.58991427,
+    "close_price": 56.5214119,
+    "percent_change": -0.12105049
+  },
+  {
+    "title": "Kroger Company (KR) Receives a Buy from Telsey Advisory",
+    "published": 1712130960,
+    "posting_price": 56.58991427,
+    "close_price": 56.5214119,
+    "percent_change": -0.12105049
+  },
+  {
+    "title": "The Hype Machine Trash Bin: 3 Overrated Stocks to Dump Immediately",
+    "published": 1712112420,
+    "posting_price": 56.58991427,
+    "close_price": 56.5214119,
+    "percent_change": -0.12105049
+  },
+  {
+    "title": "Volatility on the Rise: Rotate into these Top-Ranked Defensive Stocks",
+    "published": 1712076540,
+    "posting_price": 56.04191869,
+    "close_price": 56.5801239,
+    "percent_change": 0.96036186
+  },
+  {
+    "title": "Home Chef Launches New National Food Rescue Program",
+    "published": 1712068200,
+    "posting_price": 56.04191869,
+    "close_price": 56.5801239,
+    "percent_change": 0.96036186
+  },
+  {
+    "title": "Sell The Rally Now and Move To These 6 Warren Buffett Top Dividend Winners",
+    "published": 1712049360,
+    "posting_price": 56.04191869,
+    "close_price": 56.5801239,
+    "percent_change": 0.96036186
+  },
+  {
+    "title": "Kroger: It's Too Late (For Now) To Buy This Buffett-Owned Dividend Growth Stock",
+    "published": 1712041200,
+    "posting_price": 56.04191869,
+    "close_price": 56.5801239,
+    "percent_change": 0.96036186
+  },
+  {
+    "title": "Wall Street Analysts See Upside Potential for 10 Stocks with Rising Price Targets",
+    "published": 1712017457,
+    "posting_price": 56.04191869,
+    "close_price": 56.5801239,
+    "percent_change": 0.96036186
+  },
+  {
+    "title": "Kroger Invites Customers to Join in Celebration of Earth Month",
+    "published": 1711984500,
+    "posting_price": 55.97342119,
+    "close_price": 55.76792526,
+    "percent_change": -0.36713127
+  },
+  {
+    "title": "Celebrate Vitacost\u2019s 30th Anniversary With the $30K Giveaway Sweepstakes",
+    "published": 1711958400,
+    "posting_price": 55.97342119,
+    "close_price": 55.76792526,
+    "percent_change": -0.36713127
   }
 ]

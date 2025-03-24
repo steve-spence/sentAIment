@@ -1,22 +1,579 @@
 [
   {
+    "title": "Here\u2019s Why Guinness Global Innovators Sold Comcast Corporation (CMCSA)",
+    "published": 1742820666,
+    "posting_price": 36.83000183,
+    "close_price": 36.66500092,
+    "percent_change": -0.44800679
+  },
+  {
     "title": "Apple is reportedly losing $1 billion a year on its streaming service as churn levels increase",
-    "published": 1742491741
+    "published": 1742491741,
+    "posting_price": 35.90000153,
+    "close_price": 36.5,
+    "percent_change": 1.67130486
   },
   {
     "title": "The Fed\u2019s Outlook Should Have Spooked Markets. Why It Did the Opposite and 5 Other Things to Know Today.",
-    "published": 1742472300
+    "published": 1742472300,
+    "posting_price": 35.90000153,
+    "close_price": 36.5,
+    "percent_change": 1.67130486
   },
   {
     "title": "A+E Global Media Selects FreeWheel to Power Advertising Evolution on Heels of Its Strategic Expansion Announced at Upfronts",
-    "published": 1742472000
+    "published": 1742472000,
+    "posting_price": 35.90000153,
+    "close_price": 36.5,
+    "percent_change": 1.67130486
   },
   {
     "title": "Xfinity Communities Launches \u2018Connected Building\u2019 with Industry-First \u2018Instant On\u2019 Internet Experience for Apartment Buildings Nationwide",
-    "published": 1742393700
+    "published": 1742393700,
+    "posting_price": 36.04999924,
+    "close_price": 36.09000015,
+    "percent_change": 0.11095953
   },
   {
-    "title": "NBCUniversal is already pitching next year's live events to advertisers",
-    "published": 1742316770
+    "title": "Comcast Digital Equity Initiatives Designed to Help Give Atlantans \"Unlimited Possibilities\"",
+    "published": 1713204000,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "News is Out, Word In Black, and Comcast NBCUniversal Welcomes 16 Journalism Fellows to Cover Black and LGBTQ+ Communities",
+    "published": 1713189780,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "Comcast Digital Equity Initiatives Designed to Help Give Atlantans \u201cUnlimited Possibilities\u201d",
+    "published": 1713189666,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "Jobs Boom Means Big Gains: 3 Consumer Cyclical Stocks to Buy as Employment Surges",
+    "published": 1713183420,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "3 Reasons Disney Investors Don't Have to Worry About Epic Universe",
+    "published": 1713180600,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "Decoding Netflix's Market Dominance (Rating Upgrade)",
+    "published": 1713179580,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "Comcast Appoints Wonya Lucas as New Independent Director",
+    "published": 1713151380,
+    "posting_price": 38.80768738,
+    "close_price": 38.49527359,
+    "percent_change": -0.80503068
+  },
+  {
+    "title": "Box Office Battle: \u00e2\ufffd\ufffd\ufffd\ufffdCivil War\u00e2\ufffd\ufffd\ufffd\ufffd wins weekend with $25.7M debut",
+    "published": 1713066540
+  },
+  {
+    "title": "Provocative \u2018Civil War\u2019 declares victory at box office, with record opening for A24",
+    "published": 1713065280
+  },
+  {
+    "title": "Stocks I'm Buying The Third Week Of April",
+    "published": 1712997000
+  },
+  {
+    "title": "Comcast (CMCSA) Declines More Than Market: Some Information for Investors",
+    "published": 1712959219,
+    "posting_price": 38.92484212,
+    "close_price": 38.4366951,
+    "percent_change": -1.25407579
+  },
+  {
+    "title": "Steven Romick's Strategic Exits and New Positions in Q1 2024, Highlighting AIG's Departure",
+    "published": 1712916120,
+    "posting_price": 38.92484212,
+    "close_price": 38.4366951,
+    "percent_change": -1.25407579
+  },
+  {
+    "title": "Paramount most shorted S&P 500 communications stock in March; Alphabet least shorted",
+    "published": 1712911500,
+    "posting_price": 38.92484212,
+    "close_price": 38.4366951,
+    "percent_change": -1.25407579
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 38.92484212,
+    "close_price": 38.4366951,
+    "percent_change": -1.25407579
+  },
+  {
+    "title": "Going For The Gold And $50K Cash: 2024 Summer Olympic Winners In One Sport Will Be Financially Rewarded",
+    "published": 1712834340,
+    "posting_price": 39.10057942,
+    "close_price": 39.18844604,
+    "percent_change": 0.22471948
+  },
+  {
+    "title": "Peacock's Friday Night Football: Exclusive Eagles-Packers Streaming NFL Game Could Be A Touchdown For Comcast",
+    "published": 1712833980,
+    "posting_price": 39.10057942,
+    "close_price": 39.18844604,
+    "percent_change": 0.22471948
+  },
+  {
+    "title": "CMCSA May 31st Options Begin Trading",
+    "published": 1712831760,
+    "posting_price": 39.10057942,
+    "close_price": 39.18844604,
+    "percent_change": 0.22471948
+  },
+  {
+    "title": "Outside roles by NBC's Conde, others reveal a journalism ethics issue: being paid to sit on boards",
+    "published": 1712795100,
+    "posting_price": 39.10057942,
+    "close_price": 39.18844604,
+    "percent_change": 0.22471948
+  },
+  {
+    "title": "Why Comcast (CMCSA) Dipped More Than Broader Market Today",
+    "published": 1712787318,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Comcast RISE Set to Award a Total of $500,000 to Small Businesses in Greater Jacksonville",
+    "published": 1712759880,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "This Growth Sector Could Propel QQQ & QQQM",
+    "published": 1712750401,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Comcast Corp Enters Oversold Territory",
+    "published": 1712749980,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Seeking Alpha's top Quant picks in Communication Services sector ahead of Q1 earnings",
+    "published": 1712748900,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "AT&T, Comcast, Verizon Challenge: Subsidy Slash Threatens Internet for 23M Households",
+    "published": 1712745300,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Numbers don\u2019t lie: Women\u2019s college basketball is overtaking the men\u2019s game in star power and ratings",
+    "published": 1712745180,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Comcast (NASDAQ:CMCSA) Sells $1.2B in Ad Sales for the Paris Olympics",
+    "published": 1712739060,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Comcast (NASDAQ:CMCSA) Sees $1.2B in Ad Sales for the Paris Olympics",
+    "published": 1712738940,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Factbox-European companies cut jobs as economy sputters",
+    "published": 1712730215,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Stormy Daniels' Former Lawyer Michael Avenatti Gives Prison Interview Ahead Of Hush Money Trial: Trump 'Will Be Convicted'",
+    "published": 1712729700,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "FCC to slash broadband subsidy payouts in May, Washington Post reports",
+    "published": 1712727240,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Comcast's Market Valuation Does Not Reflect Fair Value For It's Significant Growth Portfolio: Analyst",
+    "published": 1712712960,
+    "posting_price": 39.19820716,
+    "close_price": 38.77840042,
+    "percent_change": -1.07098454
+  },
+  {
+    "title": "Comcast RISE to Award 100 Small Businesses in Southern Colorado with Grant Packages that Include a $5,000 Monetary Grant, Marketing and Technology Resources, and More",
+    "published": 1712682000,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Paris Olympics on track to hit NBC ad sales record after pandemic",
+    "published": 1712677948,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "FOCUS-Paris Olympics on track to hit NBC ad sales record after pandemic",
+    "published": 1712677500,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Comcast RISE to Award 100 Small Businesses in the Greater Richmond Region with Packages Totaling $500,000 in Monetary Grants, Marketing and Technology Resources, and More",
+    "published": 1712671200,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Comcast set for seven straight sessions of losses",
+    "published": 1712667180,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "National Comcast RISE Program Set to Give 100 Southeast Texas Small Businesses Grants, Tech-Makeovers, Marketing Support and More",
+    "published": 1712664120,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Comcast put volume heavy and directionally bearish",
+    "published": 1712657760,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Exane BNP Paribas gets more bearish on Comcast, downgrades shares",
+    "published": 1712642760,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Comcast stock declines for seven straight sessions",
+    "published": 1712632260,
+    "posting_price": 39.3251234,
+    "close_price": 39.19820786,
+    "percent_change": -0.32273399
+  },
+  {
+    "title": "Golden Years Gainers: 3 Stocks to Fund Your Dream Retirement",
+    "published": 1712599200,
+    "posting_price": 39.78398292,
+    "close_price": 39.74493027,
+    "percent_change": -0.09816174
+  },
+  {
+    "title": "Will Comcast (CMCSA) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712592615,
+    "posting_price": 39.78398292,
+    "close_price": 39.74493027,
+    "percent_change": -0.09816174
+  },
+  {
+    "title": "Want Better Returns? Don't Ignore These 2 Consumer Discretionary Stocks Set to Beat Earnings",
+    "published": 1712581212,
+    "posting_price": 39.78398292,
+    "close_price": 39.74493027,
+    "percent_change": -0.09816174
+  },
+  {
+    "title": "Paramount Global's Sale Will Not Be Easy, Cheap, Or Fast",
+    "published": 1712577669,
+    "posting_price": 39.78398292,
+    "close_price": 39.74493027,
+    "percent_change": -0.09816174
+  },
+  {
+    "title": "Seaport digital ad/media-tech analysts hold an analyst/industry conference call",
+    "published": 1712548500,
+    "posting_price": 39.78398292,
+    "close_price": 39.74493027,
+    "percent_change": -0.09816174
+  },
+  {
+    "title": "\u2018Godzilla X Kong\u2019 holds top box-office spot for 2nd weekend",
+    "published": 1712494200
+  },
+  {
+    "title": "Box Office Battle: \u00e2\ufffd\ufffd\ufffd\ufffdGodzilla x Kong: New Empire\u00e2\ufffd\ufffd\ufffd\ufffd wins weekend with $31.7M",
+    "published": 1712467920
+  },
+  {
+    "title": "\u2018Godzilla x Kong\u2019 maintains box-office dominance in second weekend",
+    "published": 1712465040
+  },
+  {
+    "title": "UPDATE 2-Trump subpoena to NBC over Stormy Daniels documentary blocked by judge",
+    "published": 1712339725,
+    "posting_price": 39.90114001,
+    "close_price": 39.93043137,
+    "percent_change": 0.07340983
+  },
+  {
+    "title": "ClearBridge Large Cap Growth ESG Strategy Q2 2024 Portfolio Manager Commentary",
+    "published": 1712314200,
+    "posting_price": 39.90114001,
+    "close_price": 39.93043137,
+    "percent_change": 0.07340983
+  },
+  {
+    "title": "Cinemark rises, receives double upgrade as Wells Fargo declares 'Movies are back!'",
+    "published": 1712304540,
+    "posting_price": 39.90114001,
+    "close_price": 39.93043137,
+    "percent_change": 0.07340983
+  },
+  {
+    "title": "Netflix gains as Pivotal sees 'continued' momentum; boosts PT to Wall Street high",
+    "published": 1712303220,
+    "posting_price": 39.90114001,
+    "close_price": 39.93043137,
+    "percent_change": 0.07340983
+  },
+  {
+    "title": "Comcast Corp: An Exploration into Its Intrinsic Value",
+    "published": 1712296860,
+    "posting_price": 39.90114001,
+    "close_price": 39.93043137,
+    "percent_change": 0.07340983
+  },
+  {
+    "title": "Comcast price target lowered by $3 at Wells Fargo, here's why",
+    "published": 1712293740,
+    "posting_price": 39.90114001,
+    "close_price": 39.93043137,
+    "percent_change": 0.07340983
+  },
+  {
+    "title": "Comcast (CMCSA) Stock Moves -1.01%: What You Should Know",
+    "published": 1712268017,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "Fortune Media and Great Place to Work\u00ae Name Comcast NBCUniversal One of the Top 10 Companies to Work for in the U.S.",
+    "published": 1712264640,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "Wisconsin now will teach Asian American, Hmong studies in K-12 public schools",
+    "published": 1712254200,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "Comcast (CMCSA) Offers Latest Technology to Seaport Stays Hotel",
+    "published": 1712243580,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "Comcast Connects 12,000 Additional Homes and Businesses Across Lynchburg, VA Area",
+    "published": 1712235600,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "May 24th Options Now Available For Comcast (CMCSA)",
+    "published": 1712225280,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "Comcast connects 12,000 additional homes across Lynchburg, VA area",
+    "published": 1712218320,
+    "posting_price": 40.81885503,
+    "close_price": 40.13544846,
+    "percent_change": -1.67424238
+  },
+  {
+    "title": "Jersey Shore Hotel Group Optimizes Guest Experiences with Enhanced Connectivity and Technology from Comcast Business",
+    "published": 1712152800,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Closing the Gender Digital Divide",
+    "published": 1712150100,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Legacy TV enlists AI to figure out a show\u2019s emotional vibe and add commercials that fit the mood",
+    "published": 1712145600,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Elon Musk's X has a new safety leader, nine months after predecessor left the social media platform",
+    "published": 1712145240,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Anti-heroes rank high in most anticipated summer movies of 2024",
+    "published": 1712143500,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Netflix: Novelty In Content Drives Rich Reinvestment Cycles Of Growth",
+    "published": 1712143023,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Rare Opportunity In The Columbia Seligman Premium Technology Growth CEF",
+    "published": 1712140500,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Top 9 buy-rated stocks in communications - Citi",
+    "published": 1712138880,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "Analysts Conflicted on These Communication Services Names: Comcast (CMCSA) and Roku (ROKU)",
+    "published": 1712127780,
+    "posting_price": 40.75051484,
+    "close_price": 40.54549026,
+    "percent_change": -0.50312145
+  },
+  {
+    "title": "The 3 Most Undervalued Nasdaq 100 Stocks to Buy in April 2024",
+    "published": 1712089800,
+    "posting_price": 41.18008304,
+    "close_price": 40.81885529,
+    "percent_change": -0.87719044
+  },
+  {
+    "title": "Comcast's (CMCSA) Xfinity Mobile Unveils New Value Plans",
+    "published": 1712066400,
+    "posting_price": 41.18008304,
+    "close_price": 40.81885529,
+    "percent_change": -0.87719044
+  },
+  {
+    "title": "Comcast and United Way Partner to Donate 100 Laptops to Bridge Digital Divide in City of Bloomington",
+    "published": 1712059200,
+    "posting_price": 41.18008304,
+    "close_price": 40.81885529,
+    "percent_change": -0.87719044
+  },
+  {
+    "title": "White House makes last-ditch push for internet subsidy program",
+    "published": 1712034000,
+    "posting_price": 41.18008304,
+    "close_price": 40.81885529,
+    "percent_change": -0.87719044
+  },
+  {
+    "title": "A Deep Dive Into Investing Strategies For A Rich Retirement",
+    "published": 1712029379,
+    "posting_price": 41.18008304,
+    "close_price": 40.81885529,
+    "percent_change": -0.87719044
+  },
+  {
+    "title": "Comcast (CMCSA) Receives a Hold from Barclays",
+    "published": 1712025600,
+    "posting_price": 41.18008304,
+    "close_price": 40.81885529,
+    "percent_change": -0.87719044
+  },
+  {
+    "title": "A Story of Defiance\u2026 Comcast\u2019s Black Experience on Xfinity Announces Premiere of Powerful Documentary Bad River Written, Directed and Produced by Award-Winning Filmmaker Mary Mazzio and Executive-Produced by NBA Hall of Famer Grant Hill",
+    "published": 1711983600,
+    "posting_price": 41.70191134,
+    "close_price": 40.97505951,
+    "percent_change": -1.74297006
+  },
+  {
+    "title": "Comcast: A World-Class Dividend Stock Bargain I Am Buying Now",
+    "published": 1711977886,
+    "posting_price": 41.70191134,
+    "close_price": 40.97505951,
+    "percent_change": -1.74297006
+  },
+  {
+    "title": "Comcast Corp's Dividend Analysis",
+    "published": 1711969322,
+    "posting_price": 41.70191134,
+    "close_price": 40.97505951,
+    "percent_change": -1.74297006
+  },
+  {
+    "title": "AppleTV+ A Streaming Winner? New Survey Shows Platform Has Smallest Library, Highest Rated Content",
+    "published": 1711963920,
+    "posting_price": 41.70191134,
+    "close_price": 40.97505951,
+    "percent_change": -1.74297006
   }
 ]

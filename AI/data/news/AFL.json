@@ -1,22 +1,167 @@
 [
   {
     "title": "5 Stocks to Watch From Prospering Accident & Health Insurance Industry",
-    "published": 1742488320
+    "published": 1742488320,
+    "posting_price": 108.05000305,
+    "close_price": 108.69999695,
+    "percent_change": 0.60156768
   },
   {
     "title": "How to Boost Your Portfolio with Top Finance Stocks Set to Beat Earnings",
-    "published": 1742302806
+    "published": 1742302806,
+    "posting_price": 108.48000336,
+    "close_price": 107.36000061,
+    "percent_change": -1.03245088
   },
   {
     "title": "Why Aflac isn\u2019t rushing generative AI adoption",
-    "published": 1741935600
+    "published": 1741935600,
+    "posting_price": 105.47000122,
+    "close_price": 107.25,
+    "percent_change": 1.68768253
   },
   {
     "title": "Those who invested in Aflac (NYSE:AFL) five years ago are up 210%",
-    "published": 1741172412
+    "published": 1741172412,
+    "posting_price": 107.44999695,
+    "close_price": 108.16000366,
+    "percent_change": 0.66077872
   },
   {
     "title": "Does Aflac (NYSE:AFL) Deserve A Spot On Your Watchlist?",
-    "published": 1740574831
+    "published": 1740574831,
+    "posting_price": 106.48000336,
+    "close_price": 105.80999756,
+    "percent_change": -0.62923157
+  },
+  {
+    "title": "Are You Looking for a High-Growth Dividend Stock?",
+    "published": 1713195907,
+    "posting_price": 79.40814903,
+    "close_price": 78.63424683,
+    "percent_change": -0.97458788
+  },
+  {
+    "title": "Stocks likely to beat and miss their earnings expectations - BofA",
+    "published": 1712889000,
+    "posting_price": 77.84075333,
+    "close_price": 78.64404297,
+    "percent_change": 1.0319654
+  },
+  {
+    "title": "AFL May 31st Options Begin Trading",
+    "published": 1712829360,
+    "posting_price": 81.06371464,
+    "close_price": 78.01708984,
+    "percent_change": -3.7583089
+  },
+  {
+    "title": "Wells Fargo Remains a Hold on AFLAC (AFL)",
+    "published": 1712814360,
+    "posting_price": 81.06371464,
+    "close_price": 78.01708984,
+    "percent_change": -3.7583089
+  },
+  {
+    "title": "One Precious Life Inspires Loved Ones To Give Back to Those Who Care for the 'Whole Heart of Your Family'",
+    "published": 1712754900,
+    "posting_price": 80.99514033,
+    "close_price": 81.2302475,
+    "percent_change": 0.29027318
+  },
+  {
+    "title": "Analysts Offer Insights on Financial Companies: AFLAC (AFL) and Assurant (AIZ)",
+    "published": 1712742060,
+    "posting_price": 80.99514033,
+    "close_price": 81.2302475,
+    "percent_change": 0.29027318
+  },
+  {
+    "title": "Aflac: Growing Cancer Cases Will Lead To Higher Revenues",
+    "published": 1712617549,
+    "posting_price": 83.64991188,
+    "close_price": 83.40500641,
+    "percent_change": -0.29277433
+  },
+  {
+    "title": "Parents and Caregivers Report a Reduction in Anxiety and Distress in Young Cancer Patients Using the My Special Aflac Duck",
+    "published": 1712592000,
+    "posting_price": 83.64991188,
+    "close_price": 83.40500641,
+    "percent_change": -0.29277433
+  },
+  {
+    "title": "Why Investors Need to Take Advantage of These 2 Finance Stocks Now",
+    "published": 1712581210,
+    "posting_price": 83.64991188,
+    "close_price": 83.40500641,
+    "percent_change": -0.29277433
+  },
+  {
+    "title": "DMX Asset Management Acquires Substantial Stake in AF Legal Group",
+    "published": 1712481480
+  },
+  {
+    "title": "Breaking Down Aflac: 6 Analysts Share Their Views",
+    "published": 1712311440,
+    "posting_price": 82.95438787,
+    "close_price": 83.67930603,
+    "percent_change": 0.87387561
+  },
+  {
+    "title": "Aflac price target raised by $5 at Piper Sandler, here's why",
+    "published": 1712296080,
+    "posting_price": 82.95438787,
+    "close_price": 83.67930603,
+    "percent_change": 0.87387561
+  },
+  {
+    "title": "AFLAC (AFL) Gets a Buy from Piper Sandler",
+    "published": 1712296020,
+    "posting_price": 82.95438787,
+    "close_price": 83.67930603,
+    "percent_change": 0.87387561
+  },
+  {
+    "title": "May 24th Options Now Available For AFLAC (AFL)",
+    "published": 1712223600,
+    "posting_price": 83.75766797,
+    "close_price": 82.64089966,
+    "percent_change": -1.33333262
+  },
+  {
+    "title": "AFLAC Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1712202960,
+    "posting_price": 83.75766797,
+    "close_price": 82.64089966,
+    "percent_change": -1.33333262
+  },
+  {
+    "title": "Top 10 Alternatives to Aflac",
+    "published": 1712170001,
+    "posting_price": 83.23847889,
+    "close_price": 83.44419861,
+    "percent_change": 0.24714498
+  },
+  {
+    "title": "Aflac Treats Local Students to Morning Musical",
+    "published": 1712160900,
+    "posting_price": 83.23847889,
+    "close_price": 83.44419861,
+    "percent_change": 0.24714498
+  },
+  {
+    "title": "Spring Into Giving: Powered by the Aflac Nation",
+    "published": 1711991700,
+    "posting_price": 84.10054134,
+    "close_price": 83.45399475,
+    "percent_change": -0.76877815
+  },
+  {
+    "title": "Aflac CEO Dan Amos on aging, succession planning, and running a family-founded company for 34 years",
+    "published": 1711963695,
+    "posting_price": 84.10054134,
+    "close_price": 83.45399475,
+    "percent_change": -0.76877815
   }
 ]

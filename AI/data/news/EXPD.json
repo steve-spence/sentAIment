@@ -1,34 +1,163 @@
 [
   {
     "title": "Here's Why You Should Add Expeditors Stock to Your Portfolio Now",
-    "published": 1742309460
+    "published": 1742309460,
+    "posting_price": 116.77999878,
+    "close_price": 117.19999695,
+    "percent_change": 0.35964906
   },
   {
     "title": "Here's Why Investors Should Retain Expeditors Stock Now",
-    "published": 1741615800
+    "published": 1741615800,
+    "posting_price": 126.63999939,
+    "close_price": 122.15000153,
+    "percent_change": -3.54548159
   },
   {
     "title": "Expeditors Announces New President and Chief Executive Officer",
-    "published": 1740071760
+    "published": 1740071760,
+    "posting_price": 115.94000244,
+    "close_price": 117.26000214,
+    "percent_change": 1.13851964
   },
   {
     "title": "Expeditors Q4 Earnings and Revenues Beat Estimates, Increase Y/Y",
-    "published": 1739908800
+    "published": 1739908800,
+    "posting_price": 119.06999969,
+    "close_price": 118.02999878,
+    "percent_change": -0.87343656
   },
   {
     "title": "EXPD's Q4 Earnings Coming Up: What's in the Offing for the Stock?",
-    "published": 1739282100
+    "published": 1739282100,
+    "posting_price": 111.73999786,
+    "close_price": 112.38999939,
+    "percent_change": 0.58170892
   },
   {
     "title": "Expeditors International of Washington (NYSE:EXPD) Hasn't Managed To Accelerate Its Returns",
-    "published": 1738612515
+    "published": 1738612515,
+    "posting_price": 112.16999817,
+    "close_price": 110.77999878,
+    "percent_change": -1.23918999
   },
   {
     "title": "Here's Why Investors Should Retain EXPD Stock for Now",
-    "published": 1736773020
+    "published": 1736773020,
+    "posting_price": 109.55000305,
+    "close_price": 110.58000183,
+    "percent_change": 0.94020881
   },
   {
     "title": "Wabtec to Benefit From Fanox & Kompozitum Buyout: Here's How",
-    "published": 1731523200
+    "published": 1731523200,
+    "posting_price": 118.43494652,
+    "close_price": 118.78284454,
+    "percent_change": 0.29374609
+  },
+  {
+    "title": "Expeditors International of Washington : CBP Provides Clarification on Vague Merchandise Description Cargo Messages",
+    "published": 1713211877,
+    "posting_price": 116.69230966,
+    "close_price": 115.30911255,
+    "percent_change": -1.18533699
+  },
+  {
+    "title": "Expeditors International of Washington : CBP Publishes Entry Type 86 Fact Sheet",
+    "published": 1712865908,
+    "posting_price": 117.59138456,
+    "close_price": 117.3345108,
+    "percent_change": -0.21844607
+  },
+  {
+    "title": "Expeditors price target lowered by $6 at Wolfe Research, here's why",
+    "published": 1712813280,
+    "posting_price": 117.59138456,
+    "close_price": 117.3345108,
+    "percent_change": -0.21844607
+  },
+  {
+    "title": "Expeditors International of Washington : ECert Program Approved for Republic of Korea Steel Imports",
+    "published": 1712692987,
+    "posting_price": 117.581511,
+    "close_price": 119.54762268,
+    "percent_change": 1.67212656
+  },
+  {
+    "title": "Here's Why Expeditors (EXPD) Stock Can Grace Your Portfolio",
+    "published": 1712667840,
+    "posting_price": 117.581511,
+    "close_price": 119.54762268,
+    "percent_change": 1.67212656
+  },
+  {
+    "title": "Expeditors price target raised by $1 at JPMorgan, here's why",
+    "published": 1712642880,
+    "posting_price": 117.581511,
+    "close_price": 119.54762268,
+    "percent_change": 1.67212656
+  },
+  {
+    "title": "Expeditors International of Washington : CBP Warns the Trade About Impersonation Scams",
+    "published": 1712606647,
+    "posting_price": 116.31687948,
+    "close_price": 116.87015533,
+    "percent_change": 0.47566256
+  },
+  {
+    "title": "Expeditors International of Washington : EU Introduces New Ozone-Depleting Substances Regulations",
+    "published": 1712347691,
+    "posting_price": 115.03247384,
+    "close_price": 115.94142914,
+    "percent_change": 0.79017278
+  },
+  {
+    "title": "Expeditors International Of Washington: A Great Business At Too High Of A Price",
+    "published": 1712308141,
+    "posting_price": 115.03247384,
+    "close_price": 115.94142914,
+    "percent_change": 0.79017278
+  },
+  {
+    "title": "Expeditors International of Washington : Periodic Monthly Statement Features Migrating to the Modernized ACE Portal",
+    "published": 1712260986,
+    "posting_price": 116.81087176,
+    "close_price": 114.75583649,
+    "percent_change": -1.75928425
+  },
+  {
+    "title": "Are Expeditors International of Washington, Inc. (NYSE:EXPD) Investors Paying Above The Intrinsic Value?",
+    "published": 1712236087,
+    "posting_price": 116.81087176,
+    "close_price": 114.75583649,
+    "percent_change": -1.75928425
+  },
+  {
+    "title": "Expeditors International of Washington : March 2024 Antidumping and Countervailing Duties (AD/CVD) Updates",
+    "published": 1712174895,
+    "posting_price": 116.44531457,
+    "close_price": 116.28723145,
+    "percent_change": -0.13575739
+  },
+  {
+    "title": "March preliminary North America Class 8 truck orders down 8.7% YoY, ACT says",
+    "published": 1712108640,
+    "posting_price": 116.44531457,
+    "close_price": 116.28723145,
+    "percent_change": -0.13575739
+  },
+  {
+    "title": "Expeditors International of Washington : CBP Implements Cargo Messaging for Vague Cargo Descriptions",
+    "published": 1712088547,
+    "posting_price": 116.9788313,
+    "close_price": 116.18843079,
+    "percent_change": -0.67567824
+  },
+  {
+    "title": "Expeditors International of Washington : BIS Updates Guidance for Freight Forwarder Best Practices",
+    "published": 1712003287,
+    "posting_price": 119.88353476,
+    "close_price": 117.64078522,
+    "percent_change": -1.87077362
   }
 ]

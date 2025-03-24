@@ -1,34 +1,153 @@
 [
   {
     "title": "Spotting Winners: Fastly (NYSE:FSLY) And Content Delivery Stocks In Q4",
-    "published": 1741770180
+    "published": 1741770180,
+    "posting_price": 270.1499939,
+    "close_price": 266.05999756,
+    "percent_change": -1.5139724
   },
   {
     "title": "1 Software Stock to Target This Week and 2 to Avoid",
-    "published": 1741698166
+    "published": 1741698166,
+    "posting_price": 265.79998779,
+    "close_price": 265.30999756,
+    "percent_change": -0.18434547
   },
   {
     "title": "Investors Met With Slowing Returns on Capital At F5 (NASDAQ:FFIV)",
-    "published": 1741257416
+    "published": 1741257416,
+    "posting_price": 278.76000977,
+    "close_price": 275.76000977,
+    "percent_change": -1.07619454
   },
   {
     "title": "1 Mid-Cap Stock to Target This Week and 2 to Avoid",
-    "published": 1741093601
+    "published": 1741093601,
+    "posting_price": 280.8999939,
+    "close_price": 280.10998535,
+    "percent_change": -0.28124192
   },
   {
     "title": "Winners And Losers Of Q4: Akamai (NASDAQ:AKAM) Vs The Rest Of The Content Delivery Stocks",
-    "published": 1741078934
+    "published": 1741078934,
+    "posting_price": 280.8999939,
+    "close_price": 280.10998535,
+    "percent_change": -0.28124192
   },
   {
     "title": "Content Delivery Stocks Q4 In Review: Cloudflare (NYSE:NET) Vs Peers",
-    "published": 1740992642
+    "published": 1740992642,
+    "posting_price": 295.45999146,
+    "close_price": 284.1499939,
+    "percent_change": -3.82792862
   },
   {
     "title": "DH or FFIV: Which Is the Better Value Stock Right Now?",
-    "published": 1740069614
+    "published": 1740069614,
+    "posting_price": 308.88000488,
+    "close_price": 304.6000061,
+    "percent_change": -1.38565097
   },
   {
     "title": "Here's Why We Think F5 (NASDAQ:FFIV) Might Deserve Your Attention Today",
     "published": 1739803697
+  },
+  {
+    "title": "Q4 Earnings Outperformers: Akamai (NASDAQ:AKAM) And The Rest Of The Software Development Stocks",
+    "published": 1712825121,
+    "posting_price": 191.91999817,
+    "close_price": 192.08999634,
+    "percent_change": 0.08857762
+  },
+  {
+    "title": "Apple To $210? Here Are 10 Top Analyst Forecasts For Thursday",
+    "published": 1712820780,
+    "posting_price": 191.91999817,
+    "close_price": 192.08999634,
+    "percent_change": 0.08857762
+  },
+  {
+    "title": "F5 Networks price target raised by $8 at JPMorgan, here's why",
+    "published": 1712811000,
+    "posting_price": 191.91999817,
+    "close_price": 192.08999634,
+    "percent_change": 0.08857762
+  },
+  {
+    "title": "Evaluating F5: Insights From 10 Financial Analysts",
+    "published": 1712797440,
+    "posting_price": 191.91999817,
+    "close_price": 192.08999634,
+    "percent_change": 0.08857762
+  },
+  {
+    "title": "F5 Recognized by KuppingerCole as a Leader in Web Application Firewall Market in 2024 Leadership Compass Report",
+    "published": 1712682600,
+    "posting_price": 193.00999451,
+    "close_price": 196.07000732,
+    "percent_change": 1.58541676
+  },
+  {
+    "title": "F5 to Report Second Quarter Fiscal Year 2024 Financial Results",
+    "published": 1712665800,
+    "posting_price": 193.00999451,
+    "close_price": 196.07000732,
+    "percent_change": 1.58541676
+  },
+  {
+    "title": "F5 : to Report Second Quarter Fiscal Year 2024 Financial Results",
+    "published": 1712651728,
+    "posting_price": 193.00999451,
+    "close_price": 196.07000732,
+    "percent_change": 1.58541676
+  },
+  {
+    "title": "F5 Reaches Analyst Target Price",
+    "published": 1712555820,
+    "posting_price": 191.82000732,
+    "close_price": 191.69000244,
+    "percent_change": -0.06777441
+  },
+  {
+    "title": "Insider Sell: President, CEO & Director Francois Locoh-Donou Sells 1,450 Shares of F5 Inc (FFIV)",
+    "published": 1712316720,
+    "posting_price": 189.42999268,
+    "close_price": 192.41999817,
+    "percent_change": 1.57842243
+  },
+  {
+    "title": "Q4 Software Development Earnings Review: First Prize Goes to Bandwidth (NASDAQ:BAND)",
+    "published": 1712310328,
+    "posting_price": 189.42999268,
+    "close_price": 192.41999817,
+    "percent_change": 1.57842243
+  },
+  {
+    "title": "We Ran A Stock Scan For Earnings Growth And F5 (NASDAQ:FFIV) Passed With Ease",
+    "published": 1712148550,
+    "posting_price": 188.8500061,
+    "close_price": 191.47000122,
+    "percent_change": 1.38734182
+  },
+  {
+    "title": "F5 Welcomes Lyra Schramm as Chief People Officer and Kunal Anand as Chief Technology Officer",
+    "published": 1712055600,
+    "posting_price": 188.99000549,
+    "close_price": 189.52999878,
+    "percent_change": 0.28572584
+  },
+  {
+    "title": "F5 names Kunal Anand as CTO",
+    "published": 1712039040,
+    "posting_price": 188.99000549,
+    "close_price": 189.52999878,
+    "percent_change": 0.28572584
+  },
+  {
+    "title": "F5 Networks appoints Lyra Schramm EVP and Chief People Officer",
+    "published": 1712038620,
+    "posting_price": 188.99000549,
+    "close_price": 189.52999878,
+    "percent_change": 0.28572584
   }
 ]

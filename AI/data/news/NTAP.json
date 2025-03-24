@@ -1,14 +1,118 @@
 [
   {
     "title": "1 Services Stock with Exciting Potential and 2 to Turn Down",
-    "published": 1742389356
+    "published": 1742389356,
+    "posting_price": 92.95999908,
+    "close_price": 93.52999878,
+    "percent_change": 0.61316664
   },
   {
     "title": "3 Mid-Cap Stocks in Hot Water",
-    "published": 1741179964
+    "published": 1741179964,
+    "posting_price": 93.38999939,
+    "close_price": 94.87000275,
+    "percent_change": 1.58475572
   },
   {
     "title": "These Stocks Moved the Most Today: Nvidia, Dell, Tesla, HP Inc., Acadia Healthcare, NetApp, Duolingo, SoundHound, and More",
-    "published": 1740777840
+    "published": 1740777840,
+    "posting_price": 99.33000183,
+    "close_price": 99.80999756,
+    "percent_change": 0.48323338
+  },
+  {
+    "title": "Zacks.com featured highlights NetApp, Caterpillar, Dick's Sporting Goods, KB Home and Applied Materials",
+    "published": 1713187320,
+    "posting_price": 101.49837778,
+    "close_price": 101.07382202,
+    "percent_change": -0.41828822
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: NetApp (NTAP) and Intuit (INTU)",
+    "published": 1713083460
+  },
+  {
+    "title": "5 Top Dividend Growth Stocks to Counter Volatility",
+    "published": 1712927520,
+    "posting_price": 102.39685649,
+    "close_price": 100.52091217,
+    "percent_change": -1.83203312
+  },
+  {
+    "title": "NetApp put volume heavy and directionally bearish",
+    "published": 1712925360,
+    "posting_price": 102.39685649,
+    "close_price": 100.52091217,
+    "percent_change": -1.83203312
+  },
+  {
+    "title": "NetApp Partners with Google Cloud to Maximize Flexibility for Cloud Data Storage",
+    "published": 1712768400,
+    "posting_price": 101.71558358,
+    "close_price": 101.30090332,
+    "percent_change": -0.40768606
+  },
+  {
+    "title": "A Look At The Intrinsic Value Of NetApp, Inc. (NASDAQ:NTAP)",
+    "published": 1712659126,
+    "posting_price": 104.69735232,
+    "close_price": 102.83128357,
+    "percent_change": -1.78234569
+  },
+  {
+    "title": "NetApp Promotes Daniel De Lorenzo to Top Accounting Role",
+    "published": 1712633100,
+    "posting_price": 104.69735232,
+    "close_price": 102.83128357,
+    "percent_change": -1.78234569
+  },
+  {
+    "title": "NetApp Wins Google Cloud Technology Partner of the Year Award for Infrastructure - Storage",
+    "published": 1712621700,
+    "posting_price": 104.69735232,
+    "close_price": 102.83128357,
+    "percent_change": -1.78234569
+  },
+  {
+    "title": "NetApp Inc (NTAP) President Cesar Cernuda Sells 22,000 Shares",
+    "published": 1712229200,
+    "posting_price": 106.05000645,
+    "close_price": 103.47305298,
+    "percent_change": -2.42994183
+  },
+  {
+    "title": "NetApp, Zoom Video And 2 Other Stocks Insiders Are Selling",
+    "published": 1712212020,
+    "posting_price": 106.05000645,
+    "close_price": 103.47305298,
+    "percent_change": -2.42994183
+  },
+  {
+    "title": "NetApp Inc's Dividend Analysis",
+    "published": 1712142300,
+    "posting_price": 102.52530408,
+    "close_price": 104.63811493,
+    "percent_change": 2.06077014
+  },
+  {
+    "title": "NetApp call volume above normal and directionally bullish",
+    "published": 1712111160,
+    "posting_price": 102.52530408,
+    "close_price": 104.63811493,
+    "percent_change": 2.06077014
+  },
+  {
+    "title": "Top Stock Picks for Week of April 1, 2024",
+    "published": 1712002200,
+    "posting_price": 102.91837962,
+    "close_price": 103.22301483,
+    "percent_change": 0.2959969
+  },
+  {
+    "title": "Under the Radar: 3 Little-Known Stocks That Are Beating the Market in 2024",
+    "published": 1712001971,
+    "posting_price": 102.91837962,
+    "close_price": 103.22301483,
+    "percent_change": 0.2959969
   }
 ]

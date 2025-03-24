@@ -1,14 +1,178 @@
 [
   {
     "title": "FirstEnergy Raises Shareholders Values, Increases Dividend 4.7%",
-    "published": 1742488380
+    "published": 1742488380,
+    "posting_price": 39.79000092,
+    "close_price": 39.81000137,
+    "percent_change": 0.05026502
   },
   {
     "title": "FirstEnergy's Unit Starts $5.1M Grid Upgrade Project in Northern N.J.",
-    "published": 1741782240
+    "published": 1741782240,
+    "posting_price": 38.91999817,
+    "close_price": 38.20999908,
+    "percent_change": -1.82425263
   },
   {
     "title": "FirstEnergy Q4 Earnings Lag Estimates, Revenues Increase Y/Y",
-    "published": 1740665880
+    "published": 1740665880,
+    "posting_price": 40.81000137,
+    "close_price": 38.54000092,
+    "percent_change": -5.56236308
+  },
+  {
+    "title": "Settlement Reached in FirstEnergy Ohio Utilities' Grid Modernization Plan",
+    "published": 1713198840,
+    "posting_price": 36.07458074,
+    "close_price": 35.86362076,
+    "percent_change": -0.58478845
+  },
+  {
+    "title": "CMS Energy (CMS) Arm Divests Appliance Service Plan Business",
+    "published": 1713185100,
+    "posting_price": 36.07458074,
+    "close_price": 35.86362076,
+    "percent_change": -0.58478845
+  },
+  {
+    "title": "FirstEnergy's Ohio utilities reach settlement on Grid Mod II plan",
+    "published": 1713181200,
+    "posting_price": 36.07458074,
+    "close_price": 35.86362076,
+    "percent_change": -0.58478845
+  },
+  {
+    "title": "FE Battery Metals Strikes Lithium in Quebec",
+    "published": 1713172140,
+    "posting_price": 36.07458074,
+    "close_price": 35.86362076,
+    "percent_change": -0.58478845
+  },
+  {
+    "title": "FE Battery Metals Drills 1.01 Percent Lithium Oxide Over 8 Meters at Augustus Lithium Property",
+    "published": 1713168060,
+    "posting_price": 36.07458074,
+    "close_price": 35.86362076,
+    "percent_change": -0.58478845
+  },
+  {
+    "title": "FirstEnergy (NYSE:FE) Has Announced That It Will Be Increasing Its Dividend To $0.425",
+    "published": 1713101976
+  },
+  {
+    "title": "15 Industries with the Highest Electricity Consumption in the US",
+    "published": 1713040140
+  },
+  {
+    "title": "FirstEnergy (FE) Rides on Investments, Infrastructure Upgrade",
+    "published": 1712928120,
+    "posting_price": 36.04581303,
+    "close_price": 35.87320709,
+    "percent_change": -0.47885157
+  },
+  {
+    "title": "SMID-Cap Moat Companies Shine In March",
+    "published": 1712835300,
+    "posting_price": 36.49650457,
+    "close_price": 36.07457733,
+    "percent_change": -1.15607575
+  },
+  {
+    "title": "FirstEnergy made secret $1 million payment in 2017 to support \u2018Husted campaign\u2019 in Ohio",
+    "published": 1712761809,
+    "posting_price": 36.515684,
+    "close_price": 36.28554153,
+    "percent_change": -0.63025649
+  },
+  {
+    "title": "Tree-Trimming Work Underway to Help Prevent or Minimize Power Outages for JCP&L Customers",
+    "published": 1712759580,
+    "posting_price": 36.515684,
+    "close_price": 36.28554153,
+    "percent_change": -0.63025649
+  },
+  {
+    "title": "FirstEnergy (FE) is a Top-Ranked Momentum Stock: Should You Buy?",
+    "published": 1712757012,
+    "posting_price": 36.515684,
+    "close_price": 36.28554153,
+    "percent_change": -0.63025649
+  },
+  {
+    "title": "Seeking Alpha's top Quant picks in Energy and Utilities as Q1 earnings approaches",
+    "published": 1712753340,
+    "posting_price": 36.515684,
+    "close_price": 36.28554153,
+    "percent_change": -0.63025649
+  },
+  {
+    "title": "Goldman Sachs Initiates Coverage of FirstEnergy (FE) with Buy Recommendation",
+    "published": 1712745349,
+    "posting_price": 36.515684,
+    "close_price": 36.28554153,
+    "percent_change": -0.63025649
+  },
+  {
+    "title": "Dollar Consolidates Softer Ahead of Tomorrow's CPI",
+    "published": 1712650680,
+    "posting_price": 36.91843013,
+    "close_price": 36.8896637,
+    "percent_change": -0.07791889
+  },
+  {
+    "title": "FirstEnergy initiated with bullish view at Goldman Sachs, here's why",
+    "published": 1712632920,
+    "posting_price": 36.91843013,
+    "close_price": 36.8896637,
+    "percent_change": -0.07791889
+  },
+  {
+    "title": "FirstEnergy to Webcast First Quarter Earnings Teleconference",
+    "published": 1712159400,
+    "posting_price": 36.83212822,
+    "close_price": 36.5732193,
+    "percent_change": -0.70294314
+  },
+  {
+    "title": "PPL's Arm Receives Approval for $326M in Infrastructure Upgrade",
+    "published": 1712149920,
+    "posting_price": 36.83212822,
+    "close_price": 36.5732193,
+    "percent_change": -0.70294314
+  },
+  {
+    "title": "FirstEnergy's Pennsylvania unit seeks electric rate review",
+    "published": 1712068435,
+    "posting_price": 36.82254338,
+    "close_price": 36.88966751,
+    "percent_change": 0.18229086
+  },
+  {
+    "title": "FirstEnergy Pennsylvania Will File Rate Review to Support Continued Service Reliability Enhancements for Customers",
+    "published": 1712057400,
+    "posting_price": 36.82254338,
+    "close_price": 36.88966751,
+    "percent_change": 0.18229086
+  },
+  {
+    "title": "FirstEnergy: Dividend Distribution Potential, And Cheap Valuation",
+    "published": 1712054875,
+    "posting_price": 36.82254338,
+    "close_price": 36.88966751,
+    "percent_change": 0.18229086
+  },
+  {
+    "title": "Tree-Trimming Work Underway to Help Prevent or Minimize Power Outages in West Virginia",
+    "published": 1711992720,
+    "posting_price": 37.08144903,
+    "close_price": 36.79377365,
+    "percent_change": -0.77579325
+  },
+  {
+    "title": "Northeast Ohio Electric Grid Stronger and More Resilient Following Power Line Enhancements",
+    "published": 1711955530,
+    "posting_price": 37.08144903,
+    "close_price": 36.79377365,
+    "percent_change": -0.77579325
   }
 ]

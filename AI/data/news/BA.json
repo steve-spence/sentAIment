@@ -1,22 +1,1555 @@
 [
   {
+    "title": "Lockheed stock attracts two Wall Street analyst rating cuts; Boeing upgraded",
+    "published": 1742822513,
+    "posting_price": 182.02999878,
+    "close_price": 181.45680237,
+    "percent_change": -0.31489118
+  },
+  {
+    "title": "GE Aerospace and Boeing Seal Billion-Dollar Deal with Korean Air",
+    "published": 1742818349,
+    "posting_price": 182.02999878,
+    "close_price": 181.45680237,
+    "percent_change": -0.31489118
+  },
+  {
     "title": "Boeing Wins Next-Generation Jet Fighter Contract",
-    "published": 1742594580
+    "published": 1742594580,
+    "posting_price": 172.05999756,
+    "close_price": 178.11000061,
+    "percent_change": 3.5162171
   },
   {
-    "title": "Sector Update: Tech Stocks Lower Friday Afternoon",
-    "published": 1742579389
+    "title": "UPDATE 1-Boeing claims no findings of fatigue on older 787 jets ahead of whistleblower testimony",
+    "published": 1713221889,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
   },
   {
-    "title": "Top Midday Stories: Boeing Wins Multibillion Dollar Contract to Build Fighter Jet; FedEx Shares Fall on Earnings Miss, Downbeat Guidance",
-    "published": 1742572897
+    "title": "Boeing pushes back on whistleblower's allegations and details how airframes are put together",
+    "published": 1713218732,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
   },
   {
-    "title": "RTX's Arm Secures a $141M Contract to Aid Standard Missile-2 Program",
-    "published": 1742572800
+    "title": "Boeing claims no findings of fatigue on older 787 jets ahead of whistleblower testimony",
+    "published": 1713218677,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
   },
   {
-    "title": "Lockheed Martin, Boeing Eyes $16B U.S. Fighter Jet Contract Award",
-    "published": 1742571838
+    "title": "Boeing defends its planes\u2019 safety ahead of whistleblower hearing",
+    "published": 1713218425,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Boeing Stock Is Losing Altitude. It Needs To Find New Support.",
+    "published": 1713216300,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Boeing: Next CEO's Problem Is Engineering, Not Management",
+    "published": 1713194803,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Lockheed wins US missile defense contract worth $17 bln, sources say",
+    "published": 1713191758,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Unpacking the Latest Options Trading Trends in Boeing",
+    "published": 1713185280,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Time To Go Shopping, The Tax Pay Sell-Off Is Over",
+    "published": 1713182580,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "American Airlines' pilots warned of safety issues - report",
+    "published": 1713180060,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "United Airlines Q1 results preview: FAA scrutiny, Boeing woes might weigh on sentiment",
+    "published": 1713177900,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Boeing: 3 Reasons For An Upgrade",
+    "published": 1713175200,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Boeing Stock Has 22% Upside, According to 1 Wall Street Analyst",
+    "published": 1713174060,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "General Dynamics, Boeing, Other Defense Stocks Set to Rise",
+    "published": 1713172493,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Boeing (BA) and Global Payments (GPN)",
+    "published": 1713164460,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Boeing pushes back on whistleblower\u2019s allegations, defends integrity of its 787s",
+    "published": 1713162120,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "GE's Historic Crotonville Academy Reportedly Sold: End Of An Era?",
+    "published": 1713159780,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "United Airlines Q1 Earnings Preview: Analyst Estimates, Safety Concerns, Underperformance To Delta \u2014 Key Items To Watch",
+    "published": 1713157500,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Barclays Keeps Their Hold Rating on Boeing (BA)",
+    "published": 1713151560,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "UBS Sticks to Its Buy Rating for Boeing (BA)",
+    "published": 1713149820,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Delta Flight Returns To Atlanta After Takeoff: Boeing 757 'Yawing Aggressively'",
+    "published": 1713148800,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "The Trillion-Dollar Space Race: 3 of the Best Space Stocks to Buy Leading the Charge",
+    "published": 1713148440,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "Boeing (NYSE:BA) Slips after New Airplane Plans Emerge",
+    "published": 1713147480,
+    "posting_price": 170.74000549,
+    "close_price": 167.82000732,
+    "percent_change": -1.71020152
+  },
+  {
+    "title": "15 Best Places to Retire in Maine",
+    "published": 1713096174
+  },
+  {
+    "title": "GE Sells Crotonville, a Training Ground for Generations of Managers",
+    "published": 1713087000
+  },
+  {
+    "title": "Boeing weighs on large-cap industrials in turbulent week",
+    "published": 1713067380
+  },
+  {
+    "title": "Boeing\u2019s CEO search has a new frontrunner\u2014and insiders say it could mean a radical change for the $104 billion ailing planemaker",
+    "published": 1713006000
+  },
+  {
+    "title": "Airline Stock Roundup: Delta's Q1 Earnings Beat, Spirit Gives Fleet Updates",
+    "published": 1712971200
+  },
+  {
+    "title": "The Score: Boeing, Amazon, JPMorgan and More Stocks That Defined the Week",
+    "published": 1712961300,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Exclusive-Spirit AeroSystems limits overtime and hiring as Boeing 737 output drops",
+    "published": 1712951311,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Delta Navigated The Industry Turbulence Better Than Expected",
+    "published": 1712944905,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing Shares On Longest Losing Streak Since 2018",
+    "published": 1712939257,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing Stock Has Fallen 10 Straight Days. Where It\u2019s Headed Next.",
+    "published": 1712937780,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Spirit AeroSystems limits overtime and hiring as Boeing 737 output drops",
+    "published": 1712936574,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing (BA) Wins $112M Deal to Aid F/A-18 & EA-18G Aircraft",
+    "published": 1712930520,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Latam Airlines Is Looking to Grow After Emerging From Bankruptcy",
+    "published": 1712930472,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Northrop (NOC) Wins Deal to Supply GQM-163A Coyote SSST Systems",
+    "published": 1712928060,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 1 PM ET",
+    "published": 1712927799,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing secures $111.89M Navy contract",
+    "published": 1712925420,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Comfort Systems USA and Boeing have been highlighted as Zacks Bull and Bear of the Day",
+    "published": 1712924940,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "JPMorgan Chase, Advanced Micro Devices fall; Progressive, State Street rise, 4/12/2024",
+    "published": 1712924760,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing CEO\u2019s penchant for cost-cutting doesn\u2019t apply to his trips on the company jet",
+    "published": 1712923226,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 11 AM ET",
+    "published": 1712920642,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712919660,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Global airline stocks trade lower as investors brace for earnings",
+    "published": 1712916300,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 9 AM ET",
+    "published": 1712913342,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Bear of the Day: Boeing (BA)",
+    "published": 1712912400,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Southwest Faces Further Reductions In Expected Boeing Jet Deliveries: Report",
+    "published": 1712910840,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Jefferies aerospace/defense analysts to hold analyst/industry conference call",
+    "published": 1712910180,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "GLOBAL BROKER RATINGS: JPMorgan raises Persimmon, BoA raises Nike",
+    "published": 1712906940,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 7 AM ET",
+    "published": 1712906192,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Top 3 Industrials Stocks That Are Set To Fly This Quarter",
+    "published": 1712905080,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "FAA proposes new airworthiness directive for some Boeing planes",
+    "published": 1712903520,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Southwest Airlines expects even fewer Boeing deliveries this year",
+    "published": 1712902140,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Jet-Setting Executives: Boeing Revises Disclosures For Personal Trips By CEO, Other Executives",
+    "published": 1712901180,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Bear Of The Day: Boeing",
+    "published": 1712900160,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Deutsche Bank Remains a Buy on BAE Systems (BAESF)",
+    "published": 1712899680,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "PRESS DIGEST- Wall Street Journal - April 12",
+    "published": 1712899645,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Spirit AeroSystems uses soap, keycard in manufacturing process, NY Times says",
+    "published": 1712899140,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 5 AM ET",
+    "published": 1712898959,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "LONDON BROKER RATINGS: JPMorgan raises Taylor Wimpey, Persimmon",
+    "published": 1712897700,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Maintaining Buy on Boeing: Growth and Recovery Despite Production Pacesetters",
+    "published": 1712895960,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing price target lowered by $20 at JPMorgan, here's why",
+    "published": 1712895960,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Spirit AeroSystems limits overtime, hiring as Boeing 737 production dips - Reuters",
+    "published": 1712894880,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "What You Missed On Wall Street On Friday",
+    "published": 1712892060,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 3 AM ET",
+    "published": 1712891829,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Spirit AeroSystems limits overtime, hiring amid 737 output drop, Reuters says",
+    "published": 1712890680,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Boeing (NYSE:BA) Down Again on \u201cDish Soap\u201d Lube Hack",
+    "published": 1712887500,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
+    "published": 1712887200,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "US Senate committee to hold hearing on Boeing safety culture report",
+    "published": 1712885804,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "The 3 Most Undervalued Flying Car Stocks to Buy in April 2024",
+    "published": 1712885400,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "UPDATE 1-US Senate committee to hold hearing on Boeing safety culture report",
+    "published": 1712885383,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Friday at 1 AM ET",
+    "published": 1712884591,
+    "posting_price": 172.19999695,
+    "close_price": 169.55000305,
+    "percent_change": -1.53890473
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 11 PM ET",
+    "published": 1712877328,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Exclusive-Southwest's expected 2024 Boeing jet deliveries keep shrinking, sources say",
+    "published": 1712872011,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing (BA) Stock Dips While Market Gains: Key Facts",
+    "published": 1712871920,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 9 PM ET",
+    "published": 1712870127,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing's company culture challenges go beyond safety: Analyst",
+    "published": 1712867882,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing Reveals Executives Got an Extra $500,000 in Private-Jet Perks",
+    "published": 1712865420,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing spent $500,000 more than it previously disclosed on personal private jet trips for top executives",
+    "published": 1712861806,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Cargo airline sends new Boeing 767 freighters directly to storage",
+    "published": 1712860187,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing focused on 'trust building' in Latin America after global CEO shake-up",
+    "published": 1712860034,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Stocks to Watch Thursday: Robinhood, Alpine Immune, Constellation Brands",
+    "published": 1712843913,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Southwest's expected 2024 Boeing jet deliveries keep shrinking, sources say",
+    "published": 1712856918,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Industrials Advance After Economic Data - Industrials Roundup",
+    "published": 1712855812,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 5 PM ET",
+    "published": 1712855787,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing Stock Is Below $175. Here\u2019s Where It\u2019s Headed.",
+    "published": 1712849700,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 3 PM ET",
+    "published": 1712848604,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing Finds Executives Got an Extra $500,000 in Perks by Flying on Private Jets",
+    "published": 1712846820,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Exclusive-Airbus CEO says 'not unlikely' it will take some Spirit Aero plants",
+    "published": 1712842342,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Wall Street Bulls Look Optimistic About Boeing (BA): Should You Buy?",
+    "published": 1712842210,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Company News for Apr 11, 2024",
+    "published": 1712841840,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "US FAA proposes airworthiness directive for certain Boeing 747-400F airplanes, notice shows",
+    "published": 1712840413,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Lockheed (LMT) Secures $181M Contract to Aid F-35 JSF Program",
+    "published": 1712839500,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Dow's 100-point drop led by losses in shares of Travelers, Chevron",
+    "published": 1712836020,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Airbus CEO tells Reuters 'not unlikely' it would acquire some Spirit plants",
+    "published": 1712835540,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing stock hit by plane problems, passenger trust issues",
+    "published": 1712835300,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 11 AM ET",
+    "published": 1712834187,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing won\u2019t even consider moving HQ back to Seattle",
+    "published": 1712833229,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "BUZZ Investing: Echoes Of 'Mission Accomplished' Amid Inflation Battle",
+    "published": 1712830500,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "UK dividends calendar - next 7 days",
+    "published": 1712830140,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing, Travelers share losses contribute to Dow's 112-point fall",
+    "published": 1712829960,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "BA May 31st Options Begin Trading",
+    "published": 1712828580,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "United Airlines: Buy The Dip Now And Fly First Class Later",
+    "published": 1712828427,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing review finds CEO, execs got $500,000 in perks from private jets, WSJ says",
+    "published": 1712824380,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing review finds CEO, execs got $500,00 in perks from private jets, WSJ says",
+    "published": 1712824080,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Apple To $210? Here Are 10 Top Analyst Forecasts For Thursday",
+    "published": 1712820780,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing price target lowered by $20 at BofA, here's why",
+    "published": 1712815920,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Southwest Airlines now expects only 20 Boeing aircraft deliveries, Reuters says",
+    "published": 1712812620,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing awarded $111.89M Navy contract",
+    "published": 1712810400,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Hexcel (HXL), Delta Air Lines (DAL) and Boeing (BA)",
+    "published": 1712809380,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "If You Can Only Buy One Space Stock in April, It Better Be One of These 3 Names",
+    "published": 1712809260,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 3 AM ET",
+    "published": 1712805384,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "New Whistleblower Report Reveals New Problems with Boeing\u2019s (NYSE:BA) 787",
+    "published": 1712803740,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "New Whistleblower Report Proves a Nick to Boeing (NYSE:BA)",
+    "published": 1712802840,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing (BA) Receives a Hold from Barclays",
+    "published": 1712801160,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Airbus CEO is said to see the possibility of buying some Spirit AeroSystems plants",
+    "published": 1712800980,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Airbus CEO is said to see possibility of buying some Spirit AeroSystems plants",
+    "published": 1712800320,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "Boeing needs to focus on solutions, not shareholders",
+    "published": 1712798880,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Thursday at 1 AM ET",
+    "published": 1712798122,
+    "posting_price": 174.47000122,
+    "close_price": 173.36000061,
+    "percent_change": -0.63621287
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 11 PM ET",
+    "published": 1712790924,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 9 PM ET",
+    "published": 1712783798,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Consistent air travel demand is 'a new normal': Expert",
+    "published": 1712781245,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "UPDATE 1-NTSB says Southwest engine cover loss caused by maintenance issue",
+    "published": 1712778088,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing Knows What It Needs to  Do\u2014So Do It. Change the Culture.",
+    "published": 1712777160,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Stocks to Watch Wednesday: Delta Air Lines, Alibaba, XPeng, Microsoft",
+    "published": 1712747389,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 5 PM ET",
+    "published": 1712769396,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 7 PM ET",
+    "published": 1712769300,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing Supplier Plunges as Wall Street Pans \u2018Unnerving\u2019 CEO Pick",
+    "published": 1712760383,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "UPDATE 1-NTSB conducting new interviews with Boeing on 737 MAX 9 door plug probe",
+    "published": 1712762949,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 3 PM ET",
+    "published": 1712762200,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "UPDATE 1-Airbus reaffirms jet output goals amid strong demand",
+    "published": 1712760416,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "NTSB conducting new interviews with Boeing on 737 MAX 9 door plug probe",
+    "published": 1712760198,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Delta CEO comments on Boeing's future amid controversies",
+    "published": 1712758340,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing's (BA) Q1 Commercial Deliveries Drop 36% Y/Y, Lag Airbus",
+    "published": 1712755380,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 1 PM ET",
+    "published": 1712754923,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Airbus reaffirms jet output goals amid strong demand",
+    "published": 1712751906,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Airbus shareholders meet amid strong jet demand",
+    "published": 1712751857,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Stocks Sink On Worrisome Inflation Data, Yields Spike On Rate Cut Delays, Dollar Rallies: What's Driving Markets Wednesday?",
+    "published": 1712751480,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Hexcel Appoints New CEO Amid Leadership Shake-Up, Shares Tumble",
+    "published": 1712751300,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Safety officials interview Boeing again on 737 door-plug blowout",
+    "published": 1712748240,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Hexcel Corp. Shares Dive Following Unexpected CEO Transition",
+    "published": 1712747940,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "New additions to Goldman\u2019s High Operating Leverage list",
+    "published": 1712746860,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing somehow managed to get itself into even bigger trouble",
+    "published": 1712745855,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Delta beats Q1 earnings expectations, CEO sees 'quite healthy' travel demand this spring and summer",
+    "published": 1712745410,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Delta Air Lines posts a narrow Q1 profit and says travel demand remains strong despite flight scares",
+    "published": 1712745207,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing\u2019s stock heads for 17-month low as the bad news keeps coming",
+    "published": 1712745180,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "New Boeing whistleblower says plane maker cut corners on its Dreamliner jets: \u2018I am doing this not because I want Boeing to fail, but because I want to prevent crashes\u2019",
+    "published": 1712744807,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "BAE Systems Awarded Contract to Maintain and Repair Light Guns in Ukraine",
+    "published": 1712743860,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "US NTSB chair vows to be 'fierce advocate' for safety in new term",
+    "published": 1712743812,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing whistleblower to testify before Senate on Dreamliner safety concerns",
+    "published": 1712742240,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Yum! downgraded, Cava upgraded: Wall Street's top analyst calls",
+    "published": 1712738640,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Northcoast downgrades Hexcel on CEO pushback, Boeing probe",
+    "published": 1712732820,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Analysts Conflicted on These Industrial Goods Names: Bombardier (OtherBDRBF), Boeing (BA) and Russel Metals (OtherRUSMF)",
+    "published": 1712729460,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing price target lowered by $10 at Stifel, here's why",
+    "published": 1712729100,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing price target lowered by $55 at Morgan Stanley, here's why",
+    "published": 1712728200,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "US Stock Futures Muted Hours Before Inflation Data Release: Analyst Sees S&P 500 Likely Retesting Highs On Milder CPI Reading",
+    "published": 1712727960,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing: Assessing Delivery Challenges and Labor Negotiations Amid Adjusted Price Targets",
+    "published": 1712726760,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Market Today: Stock Market Dips as CPI Surprise Heightens Rate Hike Fears",
+    "published": 1712724420,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Market Today: Intel Launches AI Chip to Challenge Nvidia, Financial Sector Weighs Ahead of Earnings",
+    "published": 1712724060,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "PM Fumio Kishida Urges US Tech Giants To Invest In Japan: 'I'm Strongly Promoting Policies Toward The Next Economic Stage'",
+    "published": 1712723340,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "WallStreetBets Reacts To Boeing Whistleblower: 'Wish Me Luck'",
+    "published": 1712722260,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Market Briefing For Wednesday, April 10",
+    "published": 1712722140,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Spirit Airlines: Beyond Merger, Turnaround Potential Exists",
+    "published": 1712720574,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Uber, Emerson Electric, Caterpillar among top industrial Quant picks ahead of Q1 earnings",
+    "published": 1712715660,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Congress summons Boeing's CEO to testify on its jetliner safety following new whistleblower charges",
+    "published": 1712714457,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Home Depot, Boeing share losses lead Dow's 400-point fall",
+    "published": 1712714040,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing\u2019s stock sinks toward a 17-month low as the bad news keeps coming",
+    "published": 1712714040,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "'Airplanes Are Not Like Ikea Furniture': American Airlines Pilot Sounds Alarm On Boeing 'Mess'",
+    "published": 1712713260,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "Boeing Faces Delivery Downturn, But Analyst Sees Bright Spots In Orders",
+    "published": 1712711580,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "US officials probing Boeing whistleblower claims on 787, 777",
+    "published": 1712710860,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "GLOBAL BRIEFING: Fitch cuts China's debt outlook to negative",
+    "published": 1712709120,
+    "posting_price": 176.30999756,
+    "close_price": 174.63000488,
+    "percent_change": -0.95286297
+  },
+  {
+    "title": "A whistleblower claims that Boeing\u2019s 787 Dreamliner is flawed. The FAA is investigating",
+    "published": 1712703152,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Warning light prompts Boeing 737 to make emergency landing in Idaho",
+    "published": 1712699406,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Engineer Says Company Used Shortcuts to Fix 787 Jets",
+    "published": 1712694900,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing whistleblower's claims spark FAA investigation: NYT",
+    "published": 1712690842,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Deliveries Lowest Since 2021",
+    "published": 1712685540,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "UPDATE 1-Airbus says first-quarter jet deliveries rose 12%",
+    "published": 1712684631,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing MAX Deliveries Fell by More Than Half in March. Expect Earnings to Disappoint.",
+    "published": 1712682540,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "UPDATE 1-US reconnaissance satellite launched in final flight of Delta rocket family",
+    "published": 1712682508,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Industrial Shares Fall Ahead of Inflation Data -- Industrials Roundup",
+    "published": 1712681897,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Shares Fall After NYT Report on 787 Whistleblower Claims",
+    "published": 1712681109,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "UPDATE 1-FAA probing Boeing whistleblower's quality claims on 787, 777 jets",
+    "published": 1712680088,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "FAA probing Boeing whistleblower's quality claims on 787, 777 jets",
+    "published": 1712679771,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Airbus says first-quarter jet deliveries rose 12%",
+    "published": 1712679613,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Stocks mixed in choppy trade ahead of CPI data",
+    "published": 1712679300,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Airlines may struggle to keep pace with demand: Analyst",
+    "published": 1712678867,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing deliveries fall sharply amid safety turmoil",
+    "published": 1712677432,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Virgin Galactic Countersues Boeing, Alleging 'Shoddy Work'",
+    "published": 1712675415,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing deliveries drop by half in March due to increased quality checks",
+    "published": 1712675283,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing orders bounce back on demand for a plane it can\u2019t deliver yet",
+    "published": 1712674885,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Delivered 24 737 MAX Jets in March as Its Factories Slowed",
+    "published": 1712674801,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Announces First-Quarter Deliveries",
+    "published": 1712674800,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "The New GE Gets an Upgrade. The Stock Is Dropping.",
+    "published": 1712672400,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Q1 deliveries plunge amid safety concerns",
+    "published": 1712669340,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Tuesday at 1 PM ET",
+    "published": 1712668604,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Investors Heavily Search The Boeing Company (BA): Here is What You Need to Know",
+    "published": 1712667615,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing\u2019s quarterly plane deliveries fall to lowest levels in nearly three years",
+    "published": 1712666520,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing first-quarter deliveries sink as grapples with safety issues",
+    "published": 1712665560,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Southwest Airlines Stock (NYSE:LUV): Set to Fly as Travel Trends Shift",
+    "published": 1712664900,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Lockheed (LMT) Wins Contract for H-60 Helicopter Support",
+    "published": 1712664780,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing (NYSE:BA) Slips on New Delivery Data and Plane Failures",
+    "published": 1712663700,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "FAA is said to probe claims by Boeing whistle-blower about 787 flaws",
+    "published": 1712663640,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "LONDON MARKET CLOSE: Stocks struggle in nervy trade before US data",
+    "published": 1712663580,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing: aircraft deliveries fall in first quarter",
+    "published": 1712662951,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing (NYSE:BA) Slips on New Delivery Data, Plane Failures",
+    "published": 1712662620,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "The FAA to probe whistleblower claims about 787 Dreamliner flaws, NYT reports",
+    "published": 1712662080,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing Says Deliveries Nosedived In Q1",
+    "published": 1712660640,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing's First Quarter Delivery Drama - Commercial Aircraft Numbers Drop Amid Industry Turbulence",
+    "published": 1712659980,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Congress summons Boeing\u2019s CEO to testify following new whistleblower charges",
+    "published": 1712659620,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing's plane deliveries fell amid production cap, regulatory scrutiny",
+    "published": 1712659140,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "EXPLAINER-How Boeing's latest crisis could imperil its 2021 DOJ crash agreement",
+    "published": 1712659056,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Inflation and Rates Are a Problem, Why Jamie Dimon May Be Right This Time. And 5 Other Things to Know Before the Market Opens.",
+    "published": 1712658780,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing reports 83 commercial airplane deliveries in Q1",
+    "published": 1712657040,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Boeing 787 Dreamliner Safety Claims To Get Senate Grilling After Engineer's Warning",
+    "published": 1712656860,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "GE vs. GEHC: Which General Electric Stock Is Better?",
+    "published": 1712652600,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "1 Wall Street Analyst Thinks Boeing Stock Is Going to $240. Is It a Buy?",
+    "published": 1712651580,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "Air Lease Delivers 14 New Aircraft In Q1, Investments Fall",
+    "published": 1712651040,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "FAA reportedly investigating whistleblower claims alleging flaws in Boeing\u2019s 787 Dreamliner",
+    "published": 1712647500,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
+  },
+  {
+    "title": "GLOBAL BROKER RATINGS: Barclays raises Renault, HSBC cuts Scout24",
+    "published": 1712645640,
+    "posting_price": 181.50999451,
+    "close_price": 178.11999512,
+    "percent_change": -1.86766541
   }
 ]

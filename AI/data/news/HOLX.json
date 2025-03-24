@@ -1,15 +1,24 @@
 [
   {
     "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1742218811
+    "published": 1742218811,
+    "posting_price": 60.52000046,
+    "close_price": 61.81999969,
+    "percent_change": 2.14804894
   },
   {
     "title": "QuidelOrtho Unveils Results Manager System to Streamline Testing",
-    "published": 1741960800
+    "published": 1741960800,
+    "posting_price": 60.59000015,
+    "close_price": 60.70999908,
+    "percent_change": 0.19805072
   },
   {
     "title": "Q4 Earnings Highs And Lows: Lantheus (NASDAQ:LNTH) Vs The Rest Of The Medical Devices & Supplies - Imaging, Diagnostics Stocks",
-    "published": 1741597289
+    "published": 1741597289,
+    "posting_price": 64.63999939,
+    "close_price": 65.62000275,
+    "percent_change": 1.51609432
   },
   {
     "title": "Here's What To Make Of Hologic's (NASDAQ:HOLX) Decelerating Rates Of Return",
@@ -17,14 +26,163 @@
   },
   {
     "title": "Hologic Wins Key Approvals Post Q1 Results: Buy or Hold HOLX Stock?",
-    "published": 1740574980
+    "published": 1740574980,
+    "posting_price": 64.97000122,
+    "close_price": 64.36000061,
+    "percent_change": -0.9388958
   },
   {
     "title": "Hologic pockets CE mark for contrast biopsy software",
-    "published": 1740158890
+    "published": 1740158890,
+    "posting_price": 64.19999695,
+    "close_price": 64.48999786,
+    "percent_change": 0.45171483
   },
   {
     "title": "BD business separation could allow competitors to rise in IVD test markets",
-    "published": 1740047022
+    "published": 1740047022,
+    "posting_price": 64.30000305,
+    "close_price": 64.31999969,
+    "percent_change": 0.03109897
+  },
+  {
+    "title": "Hologic (HOLX) Increases Despite Market Slip: Here's What You Need to Know",
+    "published": 1713217519,
+    "posting_price": 78.05000305,
+    "close_price": 77.54000092,
+    "percent_change": -0.65342999
+  },
+  {
+    "title": "Hologic's (HOLX) New Launches Aid, Macroeconomic Issues Ail",
+    "published": 1712933100,
+    "posting_price": 77.51000214,
+    "close_price": 77.33000183,
+    "percent_change": -0.23222849
+  },
+  {
+    "title": "Bayer and Hologic Collaborating to Deliver Contrast-Enhanced Mammography",
+    "published": 1712844420,
+    "posting_price": 78.18000031,
+    "close_price": 77.77999878,
+    "percent_change": -0.51164176
+  },
+  {
+    "title": "Hologic: A Strong Buy Amidst Growth, Innovation, and Favorable Market Dynamics",
+    "published": 1712723760,
+    "posting_price": 77.80000305,
+    "close_price": 77.61000061,
+    "percent_change": -0.24421906
+  },
+  {
+    "title": "Analysts Conflicted on These Healthcare Names: Tilray (TLRY), Hologic (HOLX) and Bicycle Therapeutics (BCYC)",
+    "published": 1712723580,
+    "posting_price": 77.80000305,
+    "close_price": 77.61000061,
+    "percent_change": -0.24421906
+  },
+  {
+    "title": "Hologic : to present at Needham Virtual Healthcare Conference Transcript",
+    "published": 1712686388,
+    "posting_price": 77.91000366,
+    "close_price": 78.41000366,
+    "percent_change": 0.64176611
+  },
+  {
+    "title": "Hologic (HOLX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "published": 1712612721,
+    "posting_price": 78.02999878,
+    "close_price": 77.37999725,
+    "percent_change": -0.83301492
+  },
+  {
+    "title": "Hologic, Inc. (HOLX) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712581216,
+    "posting_price": 78.02999878,
+    "close_price": 77.37999725,
+    "percent_change": -0.83301492
+  },
+  {
+    "title": "RBC Capital Sticks to Its Hold Rating for Hologic (HOLX)",
+    "published": 1712565960,
+    "posting_price": 78.02999878,
+    "close_price": 77.37999725,
+    "percent_change": -0.83301492
+  },
+  {
+    "title": "Those who invested in Hologic (NASDAQ:HOLX) five years ago are up 63%",
+    "published": 1712233623,
+    "posting_price": 78.48999786,
+    "close_price": 77.27999878,
+    "percent_change": -1.54159653
+  },
+  {
+    "title": "Will Hologic (HOLX) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712160614,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "UPS upgraded, PepsiCo downgraded: Wall Street's top analyst calls",
+    "published": 1712152468,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "How to Boost Your Portfolio with Top Medical Stocks Set to Beat Earnings",
+    "published": 1712149210,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712143200,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "Citi upgrades Hologic to Buy on conservative annual outlook",
+    "published": 1712120340,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "Citi gets more bullish on Hologic, upgrades shares",
+    "published": 1712119200,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "What You Missed On Wall Street On Wednesday",
+    "published": 1712114880,
+    "posting_price": 76.84999847,
+    "close_price": 77.52999878,
+    "percent_change": 0.88484102
+  },
+  {
+    "title": "Hologic (HOLX) Stock Moves -0.05%: What You Should Know",
+    "published": 1712094319,
+    "posting_price": 76.12000275,
+    "close_price": 76.08000183,
+    "percent_change": -0.05254981
+  },
+  {
+    "title": "Hologic to Announce Financial Results for the Second Quarter of Fiscal 2024 on Thursday, May 2, 2024",
+    "published": 1712059680,
+    "posting_price": 76.12000275,
+    "close_price": 76.08000183,
+    "percent_change": -0.05254981
+  },
+  {
+    "title": "Maverix Medical Closes Acquisition of Cirrus Bio as Foundation for Diagnostics Platform in Lung Cancer",
+    "published": 1711966121,
+    "posting_price": 77.90000153,
+    "close_price": 76.12000275,
+    "percent_change": -2.28497913
   }
 ]

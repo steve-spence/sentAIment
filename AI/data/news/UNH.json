@@ -1,54 +1,1198 @@
 [
   {
     "title": "UnitedHealth's Optum Rx & EPN Team Up for Fairer Pharmacy Payments",
-    "published": 1742576100
+    "published": 1742576100,
+    "posting_price": 511.67999268,
+    "close_price": 516.84997559,
+    "percent_change": 1.0103938
   },
   {
     "title": "These 4 Measures Indicate That UnitedHealth Group (NYSE:UNH) Is Using Debt Reasonably Well",
-    "published": 1742554852
+    "published": 1742554852,
+    "posting_price": 511.67999268,
+    "close_price": 516.84997559,
+    "percent_change": 1.0103938
   },
   {
     "title": "Should You Invest in UnitedHealth (UNH) Based on Bullish Wall Street Views?",
-    "published": 1742477408
+    "published": 1742477408,
+    "posting_price": 505.25,
+    "close_price": 511.29998779,
+    "percent_change": 1.1974246
   },
   {
     "title": "Here\u2019s Why Parnassus Growth Equity Fund Sold UnitedHealth Group (UNH)",
-    "published": 1742476056
+    "published": 1742476056,
+    "posting_price": 505.25,
+    "close_price": 511.29998779,
+    "percent_change": 1.1974246
   },
   {
     "title": "Investors Heavily Search UnitedHealth Group Incorporated (UNH): Here is What You Need to Know",
-    "published": 1742475611
+    "published": 1742475611,
+    "posting_price": 505.25,
+    "close_price": 511.29998779,
+    "percent_change": 1.1974246
   },
   {
     "title": "Here\u2019s Why Burke Wealth Management Decided to Trim UnitedHealth Group Incorporated (UNH)",
-    "published": 1742472045
+    "published": 1742472045,
+    "posting_price": 505.25,
+    "close_price": 511.29998779,
+    "percent_change": 1.1974246
   },
   {
     "title": "Optum Rx to Modernize Pharmacy Payment Models",
-    "published": 1742468400
+    "published": 1742468400,
+    "posting_price": 505.25,
+    "close_price": 511.29998779,
+    "percent_change": 1.1974246
   },
   {
     "title": "Mag 7, tech weakness is breeding new opportunities: Where to look",
-    "published": 1742399429
+    "published": 1742399429,
+    "posting_price": 505.04000854,
+    "close_price": 503.20001221,
+    "percent_change": -0.36432685
   },
   {
     "title": "Is UnitedHealth Stock Still a Buy Despite Its Premium Price Tag?",
-    "published": 1742396880
+    "published": 1742396880,
+    "posting_price": 505.04000854,
+    "close_price": 503.20001221,
+    "percent_change": -0.36432685
   },
   {
     "title": "Optum Rx Further Simplifies Consumer Access to Prescription Drugs",
-    "published": 1742382000
+    "published": 1742382000,
+    "posting_price": 505.04000854,
+    "close_price": 503.20001221,
+    "percent_change": -0.36432685
   },
   {
     "title": "Optum Rx says it will eliminate 10% of prior authorizations",
-    "published": 1742374015
+    "published": 1742374015,
+    "posting_price": 505.04000854,
+    "close_price": 503.20001221,
+    "percent_change": -0.36432685
   },
   {
     "title": "Elevance Trades at a Bargain: Is it a Good Time to Buy ELV Stock?",
-    "published": 1742301300
+    "published": 1742301300,
+    "posting_price": 502.23999023,
+    "close_price": 503.79998779,
+    "percent_change": 0.31060799
   },
   {
-    "title": "Nevada announces intent to award Medicaid contracts",
-    "published": 1741947842
+    "title": "Big Bank earnings, March housing data: What to Watch",
+    "published": 1713213981,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "See How Florida's Much Awaited Medicaid Re-Procurement Awards Impact Centene, Humana, Molina",
+    "published": 1713212226,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "UnitedHealth\u2019s Quarter Was Messy. No One Knows What to Expect From Earnings.",
+    "published": 1713211200,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Dow hit by hot retail sales, Middle East nerves",
+    "published": 1713197820,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Centene Jumps, Molina Slides With UNH Earnings On Tap",
+    "published": 1713188098,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "CVS Health: Seizing Opportunity Amid Recent Declines",
+    "published": 1713185567,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "UnitedHealth Q1 preview: Impact from cyberattack in focus",
+    "published": 1713184920,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "UnitedHealth Q1 preview : Impact from cyberattack in focus",
+    "published": 1713183540,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Notable companies reporting before tomorrow\u00e2\ufffd\ufffd\ufffd\ufffds open",
+    "published": 1713182280,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Ranked: The Largest U.S. Corporations By Number Of Employees",
+    "published": 1713180420,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Notable earnings before Tuesday's open",
+    "published": 1713179640,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
+    "published": 1713178620,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "UnitedHealth hack looms over first-quarter earnings report",
+    "published": 1713175857,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Centene rises, Molina slides following Florida\u00e2\ufffd\ufffd\ufffd\ufffds managed Medicaid awards",
+    "published": 1713173880,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Florida issues Medicaid managed care awards booting out UnitedHealth, CVS and Molina",
+    "published": 1713171017,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds UnitedHealth Group",
+    "published": 1713168300,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Invest with Confidence: Intrinsic Value Unveiled of UnitedHealth Group Inc",
+    "published": 1713160860,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
+    "published": 1713160860,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "UnitedHealth (UNH) Gets a Buy from Wells Fargo",
+    "published": 1713157620,
+    "posting_price": 435.04273351,
+    "close_price": 438.61560059,
+    "percent_change": 0.82126807
+  },
+  {
+    "title": "UnitedHealth\u2019s Earnings Could Illuminate True Fallout From Cyberattack on Change Unit",
+    "published": 1713092400
+  },
+  {
+    "title": "BME: Discount Widens Substantially Creating An Opportunity",
+    "published": 1713085944
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1713081061
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "Jim Cramer\u2019s 10 Favorite Healthcare Stock Picks in 2024",
+    "published": 1713025104
+  },
+  {
+    "title": "3 Dow Jones Dividend Stocks That Are Within 6% of Their 52-Week Lows to Buy Now",
+    "published": 1713020460
+  },
+  {
+    "title": "Medical Properties Trust Takes A Chunk Out Of Its Debt With Newest Asset Sales",
+    "published": 1713013508
+  },
+  {
+    "title": "AbbVie keeps Humira market share near 100% despite biosimilars: report",
+    "published": 1713002160
+  },
+  {
+    "title": "Wedgewood Partners Q1 2024 Client Letter",
+    "published": 1712999400
+  },
+  {
+    "title": "How To Invest $100,000 Today With Peace Of Mind",
+    "published": 1712998800
+  },
+  {
+    "title": "UnitedHealth Group (UNH) Stock Moves -0.57%: What You Should Know",
+    "published": 1712958320,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Bank earnings, housing, Trump trial: What to Watch Next Week",
+    "published": 1712954695,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "3 Quarterly Releases to Watch Next Week",
+    "published": 1712948400,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Top 2 Dividend Compounders To Buy In April (Up To 3.2% Yield)",
+    "published": 1712941391,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Can High Medical Costs Affect UnitedHealth's (UNH) Q1 Earnings?",
+    "published": 1712938800,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "2 Unstoppable Stocks to Buy and Hold Forever",
+    "published": 1712931120,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Major banks deliver EPS beat this week to kick off Q1 earnings; JPMorgan FY interest margin guidance unchanged - Earnings Scorecard",
+    "published": 1712923380,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Global company events calendar",
+    "published": 1712918340,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Spotlight on UnitedHealth Group: Analyzing the Surge in Options Activity",
+    "published": 1712914680,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Jefferies Sticks to Its Hold Rating for UnitedHealth (UNH)",
+    "published": 1712907000,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "ClearBridge Aggressive Growth Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712906400,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Stock market today: Wall Street falls sharply to close out its worst week since October",
+    "published": 1712893740,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
+    "published": 1712887200,
+    "posting_price": 433.40881386,
+    "close_price": 432.28677368,
+    "percent_change": -0.25888725
+  },
+  {
+    "title": "Centene (CNC) Wins Medicaid Contract to Better Serve Michigan",
+    "published": 1712847000,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Steward buy could add 3,000 doctors to Optum\u2019s physician network, regulator says",
+    "published": 1712843488,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Seeking Clues to UnitedHealth (UNH) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+    "published": 1712841317,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights UnitedHealth, Pfizer, BlackRock, The Hershey and Edison International",
+    "published": 1712837940,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Dow's 100-point drop led by losses in shares of Travelers, Chevron",
+    "published": 1712836020,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Did UnitedHealth Execs Break Security Laws? Company Faces Scrutiny Over Stock Sales Amid Antitrust Probe",
+    "published": 1712833980,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "UnitedHealth Chair, Executives Sold $102 Million in Stock Before US Probe Became Public",
+    "published": 1712829600,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "May 31st Options Now Available For UnitedHealth Group (UNH)",
+    "published": 1712828820,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "UnitedHealth Chairman, Executives Sold Stock Before U.S. Probe Became Public, Bloomberg Reports",
+    "published": 1712824570,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Insiders Sold UnitedHealth (NYSE:UNH) Shares Before DoJ Probe Became Public",
+    "published": 1712823420,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Insiders Sold UnitedHealth (NYSE:UNH) Shares Worth Millions Before DoJ Probe Became Public",
+    "published": 1712823300,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Why big Medicare Advantage insurers may root for Biden to lose in 2024",
+    "published": 1712822428,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
+    "published": 1712821740,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "UnitedHealth execs reportedly sold $102M shares before DoJ probe made public",
+    "published": 1712816340,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Wall Street Favorites: 3 Dow Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712811840,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Market Today: Tech and AI Innovations Propel Stocks Amid Mixed Financials",
+    "published": 1712810460,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Wall Street Favorites: 3 Healthcare Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712806380,
+    "posting_price": 443.30063258,
+    "close_price": 434.76708984,
+    "percent_change": -1.92500125
+  },
+  {
+    "title": "Top Analyst Reports for UnitedHealth, Pfizer & BlackRock",
+    "published": 1712776020,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "Will UnitedHealth's (UNH) UnitedHealthcare Unit Aid Q1 Earnings?",
+    "published": 1712767500,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "ClearBridge Appreciation Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712753700,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "Massachusetts lawmakers call on regulators to review Steward-UnitedHealth deal",
+    "published": 1712753666,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "ClearBridge Value Equity Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712753400,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "7 Healthcare Stocks to Keep Your Portfolio in Tip-Top Shape",
+    "published": 1712751840,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "UnitedHealthcare Provides $180,000 Investment to United Disabilities Services Foundation to Support Aging and Disability Services in Pennsylvania",
+    "published": 1712750400,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "R1 RCM, Health Catalyst downgraded as KeyBanc reviews health-tech space",
+    "published": 1712750220,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "Cantor Fitzgerald Sticks to Its Buy Rating for UnitedHealth (UNH)",
+    "published": 1712747760,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "UnitedHealth Q1 2024 Earnings Preview: Headwinds Not Enough To Derail This Juggernaut",
+    "published": 1712746856,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "UnitedHealth price target lowered by $61 at TD Cowen, here's why",
+    "published": 1712730360,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "UnitedHealth Group Inc. stock outperforms competitors despite losses on the day",
+    "published": 1712720100,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "Fitch flags Medicare utilization trends ahead of managed care earnings",
+    "published": 1712710800,
+    "posting_price": 448.32034695,
+    "close_price": 442.9659729,
+    "percent_change": -1.19431877
+  },
+  {
+    "title": "Hackers claim to have UnitedHealth's stolen data - is it a bluff?",
+    "published": 1712698050,
+    "posting_price": 447.12945104,
+    "close_price": 452.48382568,
+    "percent_change": 1.19749988
+  },
+  {
+    "title": "UnitedHealth Group (UNH) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+    "published": 1712671216,
+    "posting_price": 447.12945104,
+    "close_price": 452.48382568,
+    "percent_change": 1.19749988
+  },
+  {
+    "title": "Why the Market Dipped But UnitedHealth Group (UNH) Gained Today",
+    "published": 1712613020,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Change asks to consolidate dozens of cyberattack class-action lawsuits",
+    "published": 1712594250,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "VOOV: A Decent Passively Managed Value ETF, But Not The Best",
+    "published": 1712588993,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "UnitedHealth Group Incorporated (UNH) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712581216,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "March 2025 Options Now Available For UnitedHealth Group (UNH)",
+    "published": 1712572080,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Market Whales and Their Recent Bets on UNH Options",
+    "published": 1712570700,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Medical Properties Trust to shrink in size with lower earnings, analyst says",
+    "published": 1712567400,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "The 3 Most Undervalued Healthcare Stocks to Buy in April 2024",
+    "published": 1712559960,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Wells Fargo Sticks to Its Buy Rating for UnitedHealth (UNH)",
+    "published": 1712553600,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Bernstein Remains a Buy on UnitedHealth (UNH)",
+    "published": 1712552820,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "UnitedHealth price target lowered by $17 at Barclays, here's why",
+    "published": 1712551740,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Market Today: Medical Properties Trust Rebounds Amid Sector Scrutiny and Tech Partnership Expansion",
+    "published": 1712551260,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Lawmakers want FTC, DOJ to 'closely scrutinize' proposed sale of Steward's doctor group",
+    "published": 1712546700,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "DGI For The DIY: 2023 Dividend Portfolio Review",
+    "published": 1712546542,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "Lawmakers want FTC, DOJ to \"closely scrutinize' proposed sale of Steward's doctor group",
+    "published": 1712546340,
+    "posting_price": 448.79283059,
+    "close_price": 448.82235718,
+    "percent_change": 0.00657911
+  },
+  {
+    "title": "UnitedHealth's 6.4% Drop Brings Microsoft This Much Closer to Becoming the Most Important Stock in the Dow Jones Industrial Average",
+    "published": 1712492580
+  },
+  {
+    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
+    "published": 1712395800
+  },
+  {
+    "title": "Got $1,000? 2 Bulletproof Stocks to Buy in 2024 and Hold for the Long Haul",
+    "published": 1712323800,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "BME: Trading At A Historical Discount To NAV",
+    "published": 1712317631,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "Do You Think UnitedHealth Group Incorporated (UNH) Will be Able to \u201cRe-Price\u201d For Higher Medical Costs?",
+    "published": 1712317050,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "Reasons to Add PayPal Holdings (PYPL) to Your Portfolio",
+    "published": 1712316366,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "UnitedHealth's Change Healthcare Seeks Consolidation of Cyberattack Lawsuits in Nashville Court",
+    "published": 1712308320,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "Netflix To Rally Over 24%? Here Are 10 Top Analyst Forecasts For Friday",
+    "published": 1712302140,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "UnitedHealth price target lowered by $34 at Morgan Stanley, here's why",
+    "published": 1712295180,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "How a Biden-Trump rematch can keep healthcare ETFs afloat this election year",
+    "published": 1712294760,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: 3SBio (OtherTRSBF), UnitedHealth (UNH) and Caribou Biosciences (CRBU)",
+    "published": 1712292060,
+    "posting_price": 443.59593807,
+    "close_price": 448.56643677,
+    "percent_change": 1.1205014
+  },
+  {
+    "title": "HSBC Upgrades UnitedHealth Group (UNH)",
+    "published": 1712274584,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "Medical Properties Trust Q4: Wouldn't Touch This REIT With A 10-Foot Pole",
+    "published": 1712250000,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "Walgreens: New Management Team And Cost-Plus Model Are Exactly What The Doctor Prescribed",
+    "published": 1712237410,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "UnitedHealth price target lowered by $30 at Argus, here's why",
+    "published": 1712232960,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Waters (WAT) and UnitedHealth (UNH)",
+    "published": 1712229660,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "HSBC upgrades UnitedHealth to Hold with risks priced in",
+    "published": 1712225820,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "The Analyst Verdict: UnitedHealth Group In The Eyes Of 11 Experts",
+    "published": 1712225160,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "HSBC gets more bullish on UnitedHealth, upgrades shares",
+    "published": 1712220960,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "Analysts\u2019 Top Healthcare Picks: Eli Lilly & Co (LLY), UnitedHealth (UNH)",
+    "published": 1712212860,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "Thursday Macro & Markets Update \u2013 04.04.24",
+    "published": 1712208720,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "UnitedHealth Group (NYSE:UNH) Slides despite Analyst Upgrade",
+    "published": 1712202900,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "HSBC upgrades UnitedHealth to hold, sees risks priced in",
+    "published": 1712196240,
+    "posting_price": 453.56650215,
+    "close_price": 448.21212769,
+    "percent_change": -1.18050483
+  },
+  {
+    "title": "10 Health Care Stocks Whale Activity In Today's Session",
+    "published": 1712148060,
+    "posting_price": 454.72788455,
+    "close_price": 452.50344849,
+    "percent_change": -0.4891796
+  },
+  {
+    "title": "April Dogs Of The Dow: Buy 1, Watch 4",
+    "published": 1712143729,
+    "posting_price": 454.72788455,
+    "close_price": 452.50344849,
+    "percent_change": -0.4891796
+  },
+  {
+    "title": "UnitedHealth Group Unusual Options Activity",
+    "published": 1712134200,
+    "posting_price": 454.72788455,
+    "close_price": 452.50344849,
+    "percent_change": -0.4891796
+  },
+  {
+    "title": "Stock Market News for Apr 3, 2024",
+    "published": 1712128800,
+    "posting_price": 454.72788455,
+    "close_price": 452.50344849,
+    "percent_change": -0.4891796
+  },
+  {
+    "title": "Why Shares of UnitedHealth Group, CVS Health, and Humana Fell Today",
+    "published": 1712102392,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Health stocks drop after Medicare Advantage rates disappoint",
+    "published": 1712090462,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Health Stocks Fall on Medicare Rate Surprise",
+    "published": 1712055732,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Humana, Other Insurers Tumble",
+    "published": 1712077352,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Change cyberattack likely \u2018minor setback\u2019 for nonprofit hospitals: Fitch",
+    "published": 1712076622,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Pre-Markets in Red Before Key Economic Data",
+    "published": 1712068800,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Pre-Market Futures Lower Ahead of JOLTS, U.S. Auto Sales",
+    "published": 1712066700,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Medicare Keeps Getting Tougher for Health Insurers",
+    "published": 1712059200,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Health insurance stocks hurting on 2025 Medicare Advantage rates",
+    "published": 1712065205,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Health Insurance Stocks Drop: Insights Into the Late Monday Fall",
+    "published": 1712062380,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Why Stryve Foods Shares Are Trading Lower By Around 25%? Here Are Other Stocks Moving In Tuesday's Mid-Day Session",
+    "published": 1712061000,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Tesla, UnitedHealth Group fall; Roivant, Valero rise, Tuesday, 4/2/2024",
+    "published": 1712060529,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Humana tumbles, UnitedHealth and CVS slide on Medicare Advantage hit",
+    "published": 1712058626,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Stock Market Today: Stocks slide on inflation fears; UnitedHealth slumps",
+    "published": 1712056725,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "UnitedHealth Group Enters Oversold Territory",
+    "published": 1712056080,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Should You Buy This Blue Chip Stock's Dip Hand Over Fist?",
+    "published": 1712053680,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Humana: Where To Buy This",
+    "published": 1712052922,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Why the CMS\u2019 Medicare Advantage rate is hurting stocks of Humana, UnitedHealth",
+    "published": 1712052360,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Dow falls nearly 425 points on losses in shares of UnitedHealth, Salesforce",
+    "published": 1712052360,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Insurer stocks tumble as Medicare Advantage rates disappoint",
+    "published": 1712051880,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Managed care stocks drop after Medicare rate decision",
+    "published": 1712051220,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Why Are Health Insurance Stocks HUM, UNH, CI Down Today?",
+    "published": 1712050380,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Video: Dow Movers: UNH, CVX",
+    "published": 1712049660,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "7 stocks to watch on Tuesday: CHX on SLB deal, managed care players and more",
+    "published": 1712046660,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "US health insurers slide as final Medicare payment rates fall short of expectations",
+    "published": 1712045263,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Medicare Advantage rate disappointment sinks stocks of UnitedHealth, Humana",
+    "published": 1712040240,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Healthcare Stocks Drop as Medicare Advantage Rate Falls Short",
+    "published": 1712039460,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Wall Street Set For Weak Open As Fed Speeches, Key Data Eyed: Amid Bitcoin Plunge And Gold Spike, Market Analyst Sees 'Nothing Breaking The Upward Trend'",
+    "published": 1712039340,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "US Stock Futures Decline Amid Health Insurer Losses and Anticipation of Economic Indicators",
+    "published": 1712038680,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Stock market today: Wall Street sinks on rate worries as health care stocks and Tesla tumble",
+    "published": 1712024220,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Medicare Advantage Payment Updates Impact Health Insurance Stocks",
+    "published": 1712020500,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "UnitedHealth, Health Insurers Tumble On Medicare Advantage Rates",
+    "published": 1712016117,
+    "posting_price": 452.36566032,
+    "close_price": 450.9286499,
+    "percent_change": -0.31766567
+  },
+  {
+    "title": "Health Insurers Tumble as Final Medicare Advantage Rates Disappoint",
+    "published": 1712011361,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "UnitedHealth Group (UNH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "published": 1712007920,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Fitch says UnitedHealth unit hack to have no credit impact on not-for-profit hospitals",
+    "published": 1711990907,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "UnitedHealth's (UNH) Optum to Buy Steward's Physician Group",
+    "published": 1711985760,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "My Top 15 High Growth Dividend Stocks For April 2024",
+    "published": 1711979271,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Cigna Continues To Reap Gains From A Shrewd Acquisition Made In 2018",
+    "published": 1711975396,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Fitch expects Change Healthcare hack to have no credit impact on not-for-profit hospitals",
+    "published": 1711974819,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "From Boeing To Nike, Jim Cramer Spotlights Dow's Biggest Q1 Flops: 'Nothing Pristine About This List'",
+    "published": 1711970220,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Molina Healthcare's Downgrade Tied To Potential Trump Presidency, Margin Challenges",
+    "published": 1711967040,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Meet The \"Magnificent Seven\" of Healthcare Stocks",
+    "published": 1711960200,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Fly Intel: After-Hours Movers",
+    "published": 1711952160,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "The Art of Valuation: Discovering UnitedHealth Group Inc's Intrinsic Value",
+    "published": 1711951260,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Health insurer stocks slide on Medicare Advantage payment update",
+    "published": 1711945200,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "UnitedHealth Group Inc. stock underperforms Monday when compared to competitors",
+    "published": 1711942560,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "Healthcare And Biotech Stocks Review: Q1 2024 Performance",
+    "published": 1711940880,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
+  },
+  {
+    "title": "17 Cheapest Places to Retire Abroad on $1000 per Month",
+    "published": 1711940630,
+    "posting_price": 486.68682007,
+    "close_price": 481.99191284,
+    "percent_change": -0.96466702
   }
 ]

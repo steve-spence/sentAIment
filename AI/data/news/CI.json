@@ -1,46 +1,385 @@
 [
   {
     "title": "Q4 2024 ARS Pharmaceuticals Inc Earnings Call",
-    "published": 1742532039
+    "published": 1742532039,
+    "posting_price": 321.70999146,
+    "close_price": 316.6499939,
+    "percent_change": -1.57284439
   },
   {
     "title": "New Strong Sell Stocks for March 20th",
-    "published": 1742465520
+    "published": 1742465520,
+    "posting_price": 321.0,
+    "close_price": 321.39001465,
+    "percent_change": 0.12149989
   },
   {
     "title": "Jefferson Health goes out of network for Cigna commercial members following contract spat",
-    "published": 1742393239
+    "published": 1742393239,
+    "posting_price": 320.80999756,
+    "close_price": 320.82998657,
+    "percent_change": 0.00623079
   },
   {
     "title": "Humana (HUM) Down 4.2% Since Last Earnings Report: Can It Rebound?",
-    "published": 1741879829
+    "published": 1741879829,
+    "posting_price": 312.45999146,
+    "close_price": 311.98999023,
+    "percent_change": -0.15041965
   },
   {
     "title": "The Cigna Group (CI) Fell amid Regulatory Concerns",
-    "published": 1741865752
+    "published": 1741865752,
+    "posting_price": 312.45999146,
+    "close_price": 311.98999023,
+    "percent_change": -0.15041965
   },
   {
     "title": "The Joint Gears Up for Q4 Earnings: Here's What to Expect",
-    "published": 1741709040
+    "published": 1741709040,
+    "posting_price": 327.6499939,
+    "close_price": 317.86999512,
+    "percent_change": -2.9848921
   },
   {
     "title": "Getting Rich Clients Comfortable With Illiquidity Is Key to Unlocking Alts\u2019 Potential",
-    "published": 1741381200
+    "published": 1741381200,
+    "posting_price": 314.14001465,
+    "close_price": 321.01998901,
+    "percent_change": 2.19009806
   },
   {
     "title": "Molina (MOH) Up 13.6% Since Last Earnings Report: Can It Continue?",
-    "published": 1741365059
+    "published": 1741365059,
+    "posting_price": 314.14001465,
+    "close_price": 321.01998901,
+    "percent_change": 2.19009806
   },
   {
     "title": "Walgreens stock rises amid $10 billion deal with Sycamore Partners to take the drugstore chain private",
-    "published": 1741300406
+    "published": 1741300406,
+    "posting_price": 309.57000732,
+    "close_price": 315.63000488,
+    "percent_change": 1.95755319
   },
   {
     "title": "Why Is Centene (CNC) Down 2.9% Since Last Earnings Report?",
-    "published": 1741278663
+    "published": 1741278663,
+    "posting_price": 309.57000732,
+    "close_price": 315.63000488,
+    "percent_change": 1.95755319
   },
   {
     "title": "Health Insurance Providers Stocks Q4 Highlights: Molina Healthcare (NYSE:MOH)",
-    "published": 1741165317
+    "published": 1741165317,
+    "posting_price": 305.86999512,
+    "close_price": 309.82998657,
+    "percent_change": 1.29466489
+  },
+  {
+    "title": "CVS Health: Seizing Opportunity Amid Recent Declines",
+    "published": 1713185567,
+    "posting_price": 348.13826513,
+    "close_price": 343.00643921,
+    "percent_change": -1.47407695
+  },
+  {
+    "title": "Antitrust fervor is gripping Washington and Silicon Valley. But lawsuits have been declining.",
+    "published": 1713106815
+  },
+  {
+    "title": "AbbVie keeps Humira market share near 100% despite biosimilars: report",
+    "published": 1713002160
+  },
+  {
+    "title": "Cigna (CI) Stock Moves -0.92%: What You Should Know",
+    "published": 1712960120,
+    "posting_price": 345.83780484,
+    "close_price": 343.93057251,
+    "percent_change": -0.55148174
+  },
+  {
+    "title": "Acadia Healthcare (ACHC) Opens Facility to Address Mental Health",
+    "published": 1712937120,
+    "posting_price": 345.83780484,
+    "close_price": 343.93057251,
+    "percent_change": -0.55148174
+  },
+  {
+    "title": "Here's Why Cigna (CI) is a Strong Value Stock",
+    "published": 1712929209,
+    "posting_price": 345.83780484,
+    "close_price": 343.93057251,
+    "percent_change": -0.55148174
+  },
+  {
+    "title": "Notable Friday Option Activity: CI, FANG, BYND",
+    "published": 1712888460,
+    "posting_price": 345.83780484,
+    "close_price": 343.93057251,
+    "percent_change": -0.55148174
+  },
+  {
+    "title": "The Cigna Group's First Quarter 2024 Earnings Release Details",
+    "published": 1712840400,
+    "posting_price": 351.35306885,
+    "close_price": 347.11584473,
+    "percent_change": -1.20597328
+  },
+  {
+    "title": "Cardinal Health, Cigna, Merck among top healthcare Quant picks ahead of Q1 earnings",
+    "published": 1712828340,
+    "posting_price": 351.35306885,
+    "close_price": 347.11584473,
+    "percent_change": -1.20597328
+  },
+  {
+    "title": "Here's How Much $100 Invested In Cigna Group 5 Years Ago Would Be Worth Today",
+    "published": 1712799300,
+    "posting_price": 351.35306885,
+    "close_price": 347.11584473,
+    "percent_change": -1.20597328
+  },
+  {
+    "title": "Where Cigna Group Stands With Analysts",
+    "published": 1712739960,
+    "posting_price": 350.23233259,
+    "close_price": 351.79547119,
+    "percent_change": 0.44631476
+  },
+  {
+    "title": "Top 10 best performing S&P 500 health care stocks of 2024",
+    "published": 1712714220,
+    "posting_price": 350.23233259,
+    "close_price": 351.79547119,
+    "percent_change": 0.44631476
+  },
+  {
+    "title": "Fitch flags Medicare utilization trends ahead of managed care earnings",
+    "published": 1712710800,
+    "posting_price": 350.23233259,
+    "close_price": 351.79547119,
+    "percent_change": 0.44631476
+  },
+  {
+    "title": "The Cigna Group Named Among Best Employers for Health and Well-Being",
+    "published": 1712682000,
+    "posting_price": 353.39793471,
+    "close_price": 351.44155884,
+    "percent_change": -0.55359007
+  },
+  {
+    "title": "Brookdale Senior (BKD) Sees Y/Y Increase in Q1 Occupancy Levels",
+    "published": 1712679420,
+    "posting_price": 353.39793471,
+    "close_price": 351.44155884,
+    "percent_change": -0.55359007
+  },
+  {
+    "title": "Cigna: Time To Sell The Stock After A 50% Return? No, Here's Why",
+    "published": 1712652300,
+    "posting_price": 353.39793471,
+    "close_price": 351.44155884,
+    "percent_change": -0.55359007
+  },
+  {
+    "title": "CI vs. HUM: Which Stock Is the Better Value Option?",
+    "published": 1712590815,
+    "posting_price": 354.7939541,
+    "close_price": 351.93310547,
+    "percent_change": -0.80634086
+  },
+  {
+    "title": "Cigna (CI) Gets a Hold from Wells Fargo",
+    "published": 1712553480,
+    "posting_price": 354.7939541,
+    "close_price": 351.93310547,
+    "percent_change": -0.80634086
+  },
+  {
+    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
+    "published": 1712395800
+  },
+  {
+    "title": "Compelling Reasons to Hold Acadia Healthcare (ACHC) Stock Now",
+    "published": 1712332440,
+    "posting_price": 354.74472551,
+    "close_price": 356.32754517,
+    "percent_change": 0.44618554
+  },
+  {
+    "title": "Analysts and Technical Indicators Agree: These 3 Stocks Are \u201cStrong Buys\u201d \u2013 04/05/2024",
+    "published": 1712295720,
+    "posting_price": 354.74472551,
+    "close_price": 356.32754517,
+    "percent_change": 0.44618554
+  },
+  {
+    "title": "Cigna Group stock rises Friday, still underperforms market",
+    "published": 1712288700,
+    "posting_price": 354.74472551,
+    "close_price": 356.32754517,
+    "percent_change": 0.44618554
+  },
+  {
+    "title": "Cigna (CI) Stock Moves -0.19%: What You Should Know",
+    "published": 1712268918,
+    "posting_price": 357.95953009,
+    "close_price": 354.28271484,
+    "percent_change": -1.02715948
+  },
+  {
+    "title": "Are Medical Stocks Lagging  Adverum Biotechnologies (ADVM) This Year?",
+    "published": 1712238012,
+    "posting_price": 357.95953009,
+    "close_price": 354.28271484,
+    "percent_change": -1.02715948
+  },
+  {
+    "title": "10 Health Care Stocks Whale Activity In Today's Session",
+    "published": 1712234280,
+    "posting_price": 357.95953009,
+    "close_price": 354.28271484,
+    "percent_change": -1.02715948
+  },
+  {
+    "title": "5 Low Price-to-Sales Stocks Poised to Race up the Charts",
+    "published": 1712230920,
+    "posting_price": 357.95953009,
+    "close_price": 354.28271484,
+    "percent_change": -1.02715948
+  },
+  {
+    "title": "The 3 Best Healthcare Stocks to Buy in April 2024",
+    "published": 1712174971,
+    "posting_price": 358.2151621,
+    "close_price": 354.97091675,
+    "percent_change": -0.90566947
+  },
+  {
+    "title": "Top 10 Alternatives to Aflac",
+    "published": 1712170001,
+    "posting_price": 358.2151621,
+    "close_price": 354.97091675,
+    "percent_change": -0.90566947
+  },
+  {
+    "title": "Humana's (HUM) Medicaid Business Teams Up With CPESN USA in Ohio",
+    "published": 1712157780,
+    "posting_price": 358.2151621,
+    "close_price": 354.97091675,
+    "percent_change": -0.90566947
+  },
+  {
+    "title": "Select Medical (SEM) Expands in Florida With UF Health JV",
+    "published": 1712155080,
+    "posting_price": 358.2151621,
+    "close_price": 354.97091675,
+    "percent_change": -0.90566947
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712056080,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Outperforming ETF manager names a potential \u201850-bagger\u2019 in the stock market",
+    "published": 1712055840,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Electronic prescribing firm Surescripts exploring sale - report",
+    "published": 1712054700,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Why the CMS\u2019 Medicare Advantage rate is hurting stocks of Humana, UnitedHealth",
+    "published": 1712052360,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Managed care stocks drop after Medicare rate decision",
+    "published": 1712051220,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Why Are Health Insurance Stocks HUM, UNH, CI Down Today?",
+    "published": 1712050380,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Medicare Advantage rate disappointment sinks stocks of UnitedHealth, Humana",
+    "published": 1712040240,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "UnitedHealth, Health Insurers Tumble On Medicare Advantage Rates",
+    "published": 1712034117,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "What You Missed On Wall Street On Tuesday",
+    "published": 1712028180,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "Buy vs. Sell ideas paired within each sector - Oppenheimer",
+    "published": 1712025420,
+    "posting_price": 353.86981241,
+    "close_price": 356.95675659,
+    "percent_change": 0.87233894
+  },
+  {
+    "title": "UnitedHealth's (UNH) Optum to Buy Steward's Physician Group",
+    "published": 1711985760,
+    "posting_price": 356.56351839,
+    "close_price": 357.93002319,
+    "percent_change": 0.38324302
+  },
+  {
+    "title": "Cigna Continues To Reap Gains From A Shrewd Acquisition Made In 2018",
+    "published": 1711975396,
+    "posting_price": 356.56351839,
+    "close_price": 357.93002319,
+    "percent_change": 0.38324302
+  },
+  {
+    "title": "Fly Intel: After-Hours Movers",
+    "published": 1711952160,
+    "posting_price": 356.56351839,
+    "close_price": 357.93002319,
+    "percent_change": 0.38324302
+  },
+  {
+    "title": "CMS finalizes payment update for 2025 Medicare Advantage, sees payments up 3.7%",
+    "published": 1711942500,
+    "posting_price": 356.56351839,
+    "close_price": 357.93002319,
+    "percent_change": 0.38324302
+  },
+  {
+    "title": "17 Cheapest Places to Retire Abroad on $1000 per Month",
+    "published": 1711940630,
+    "posting_price": 356.56351839,
+    "close_price": 357.93002319,
+    "percent_change": 0.38324302
   }
 ]

@@ -1,18 +1,51 @@
 [
   {
     "title": "WST Stock Declines in Pre-Market Despite Q4 Earnings Beat, Margins Down",
-    "published": 1739462040
+    "published": 1739462040,
+    "posting_price": 243.83999634,
+    "close_price": 199.11000061,
+    "percent_change": -18.34399459
   },
   {
     "title": "West Pharmaceutical Services (WST) Surpasses Q4 Earnings and Revenue Estimates",
-    "published": 1739448605
+    "published": 1739448605,
+    "posting_price": 243.83999634,
+    "close_price": 199.11000061,
+    "percent_change": -18.34399459
   },
   {
     "title": "West Pharmaceutical: Q4 Earnings Snapshot",
-    "published": 1739445496
+    "published": 1739445496,
+    "posting_price": 243.83999634,
+    "close_price": 199.11000061,
+    "percent_change": -18.34399459
   },
   {
     "title": "West Pharmaceutical Services (WST) Bounced Back in Q4",
-    "published": 1739368281
+    "published": 1739368281,
+    "posting_price": 318.6000061,
+    "close_price": 322.27999878,
+    "percent_change": 1.15505104
+  },
+  {
+    "title": "West to Host First-Quarter 2024 Conference Call",
+    "published": 1712829600,
+    "posting_price": 391.47882348,
+    "close_price": 386.62084961,
+    "percent_change": -1.2409289
+  },
+  {
+    "title": "West Pharmaceutical Services Inc. stock underperforms Tuesday when compared to competitors",
+    "published": 1712635440,
+    "posting_price": 393.35415272,
+    "close_price": 391.40899658,
+    "percent_change": -0.49450505
+  },
+  {
+    "title": "What Makes West Pharmaceutical Services (WST) an Attractive Bet?",
+    "published": 1711971369,
+    "posting_price": 393.6733888,
+    "close_price": 394.96020508,
+    "percent_change": 0.32687408
   }
 ]

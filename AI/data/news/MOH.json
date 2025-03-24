@@ -1,38 +1,317 @@
 [
   {
     "title": "Molina Healthcare Expands Presence With Illinois D-SNP Contract Win",
-    "published": 1742402160
+    "published": 1742402160,
+    "posting_price": 315.82998657,
+    "close_price": 314.86999512,
+    "percent_change": -0.3039583
   },
   {
     "title": "Q4 Earnings Outperformers: Clover Health (NASDAQ:CLOV) And The Rest Of The Health Insurance Providers Stocks",
-    "published": 1742288628
+    "published": 1742288628,
+    "posting_price": 317.22000122,
+    "close_price": 317.07000732,
+    "percent_change": -0.04728387
   },
   {
     "title": "Nevada announces intent to award Medicaid contracts",
-    "published": 1741947842
+    "published": 1741947842,
+    "posting_price": 312.23999023,
+    "close_price": 308.22000122,
+    "percent_change": -1.2874677
   },
   {
     "title": "Healthcare Providers & Services Stocks Q4 In Review: The Ensign Group (NASDAQ:ENSG) Vs Peers",
-    "published": 1741856673
+    "published": 1741856673,
+    "posting_price": 314.97000122,
+    "close_price": 311.07000732,
+    "percent_change": -1.23821122
   },
   {
     "title": "1 Mid-Cap Stock to Target This Week and 2 to Ignore",
-    "published": 1741784494
+    "published": 1741784494,
+    "posting_price": 321.20001221,
+    "close_price": 314.97000122,
+    "percent_change": -1.93960484
   },
   {
     "title": "Sector Update: Health Care Stocks Rise Late Afternoon",
-    "published": 1741380841
+    "published": 1741380841,
+    "posting_price": 321.77999878,
+    "close_price": 327.32998657,
+    "percent_change": 1.72477712
   },
   {
     "title": "Molina (MOH) Up 13.6% Since Last Earnings Report: Can It Continue?",
-    "published": 1741365059
+    "published": 1741365059,
+    "posting_price": 321.77999878,
+    "close_price": 327.32998657,
+    "percent_change": 1.72477712
   },
   {
     "title": "Q4 Earnings Highlights: UnitedHealth (NYSE:UNH) Vs The Rest Of The Health Insurance Providers Stocks",
-    "published": 1741079072
+    "published": 1741079072,
+    "posting_price": 302.05999756,
+    "close_price": 306.48999023,
+    "percent_change": 1.46659363
   },
   {
     "title": "Nvidia, healthcare stocks, Axon: Market Minute",
-    "published": 1740598031
+    "published": 1740598031,
+    "posting_price": 302.35998535,
+    "close_price": 284.70999146,
+    "percent_change": -5.83741062
+  },
+  {
+    "title": "UnitedHealth Earnings Beat \u2014 With An Asterisk \u2014 After Cyberattack; UNH Stock Surges",
+    "published": 1713216658,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "See How Florida's Much Awaited Medicaid Re-Procurement Awards Impact Centene, Humana, Molina",
+    "published": 1713212226,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "An Intrinsic Calculation For Molina Healthcare, Inc. (NYSE:MOH) Suggests It's 37% Undervalued",
+    "published": 1713211083,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Centene Jumps, Molina Slides With UNH Earnings On Tap",
+    "published": 1713188098,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Centene rises, Molina slides following Florida\u00e2\ufffd\ufffd\ufffd\ufffds managed Medicaid awards",
+    "published": 1713173880,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Molina Healthcare falls -5.0%",
+    "published": 1713171660,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Molina Healthcare falls -4.6%",
+    "published": 1713170880,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Marinus Pharmaceuticals, Neumora Therapeutics And Other Big Stocks Moving Lower In Monday's Pre-Market Session",
+    "published": 1713165660,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Molina Healthcare price target lowered by $30 at Wells Fargo, here's why",
+    "published": 1713158220,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Centene price target raised by $4 at Wells Fargo, here's why",
+    "published": 1713158160,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Wells Fargo Reaffirms Their Hold Rating on Molina Healthcare (MOH)",
+    "published": 1713157620,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Molina Healthcare (MOH) Receives a Hold from Barclays",
+    "published": 1713151620,
+    "posting_price": 356.76998901,
+    "close_price": 360.8500061,
+    "percent_change": 1.14359874
+  },
+  {
+    "title": "Molina (MOH) Wins Deal to Serve Michigan's Medicaid Members",
+    "published": 1712939820,
+    "posting_price": 377.0,
+    "close_price": 376.57000732,
+    "percent_change": -0.11405641
+  },
+  {
+    "title": "Molina Healthcare Wins Michigan Medicaid Contract",
+    "published": 1712867400,
+    "posting_price": 377.16000366,
+    "close_price": 376.77999878,
+    "percent_change": -0.10075429
+  },
+  {
+    "title": "Molina Healthcare : of California Celebrates Three Heroes Through Annual MolinaCares Community Champions Program",
+    "published": 1712858473,
+    "posting_price": 377.16000366,
+    "close_price": 376.77999878,
+    "percent_change": -0.10075429
+  },
+  {
+    "title": "Centene (CNC) Wins Medicaid Contract to Better Serve Michigan",
+    "published": 1712847000,
+    "posting_price": 377.16000366,
+    "close_price": 376.77999878,
+    "percent_change": -0.10075429
+  },
+  {
+    "title": "Molina awarded Medicaid contract in Michigan",
+    "published": 1712809380,
+    "posting_price": 377.16000366,
+    "close_price": 376.77999878,
+    "percent_change": -0.10075429
+  },
+  {
+    "title": "Molina Healthcare\u2019s Michigan Subsidiary Secures Major Health Contract",
+    "published": 1712809380,
+    "posting_price": 377.16000366,
+    "close_price": 376.77999878,
+    "percent_change": -0.10075429
+  },
+  {
+    "title": "(MOH) - Analyzing Molina Healthcare's Short Interest",
+    "published": 1712800020,
+    "posting_price": 377.16000366,
+    "close_price": 376.77999878,
+    "percent_change": -0.10075429
+  },
+  {
+    "title": "If You Invested $100 In This Stock 5 Years Ago, You Would Have $300 Today",
+    "published": 1712746980,
+    "posting_price": 379.29998779,
+    "close_price": 377.1499939,
+    "percent_change": -0.56683205
+  },
+  {
+    "title": "Fitch flags Medicare utilization trends ahead of managed care earnings",
+    "published": 1712710800,
+    "posting_price": 379.29998779,
+    "close_price": 377.1499939,
+    "percent_change": -0.56683205
+  },
+  {
+    "title": "Michigan divvies out Medicaid contracts, with Centene, Molina seeing minor losses",
+    "published": 1712681272,
+    "posting_price": 381.16000366,
+    "close_price": 379.97000122,
+    "percent_change": -0.31220549
+  },
+  {
+    "title": "Wells Fargo Keeps Their Hold Rating on Molina Healthcare (MOH)",
+    "published": 1712553540,
+    "posting_price": 374.38000488,
+    "close_price": 381.55999756,
+    "percent_change": 1.91783551
+  },
+  {
+    "title": "Molina Healthcare : Senior Whole Health by Molina Healthcare Brings Cityblock Services to Members",
+    "published": 1712055969,
+    "posting_price": 393.8500061,
+    "close_price": 380.92001343,
+    "percent_change": -3.28297384
+  },
+  {
+    "title": "B of A Securities Downgrades Molina Healthcare (MOH)",
+    "published": 1712055669,
+    "posting_price": 393.8500061,
+    "close_price": 380.92001343,
+    "percent_change": -3.28297384
+  },
+  {
+    "title": "$100 Invested In This Stock 20 Years Ago Would Be Worth $1,800 Today",
+    "published": 1712050560,
+    "posting_price": 393.8500061,
+    "close_price": 380.92001343,
+    "percent_change": -3.28297384
+  },
+  {
+    "title": "UnitedHealth, Health Insurers Tumble On Medicare Advantage Rates",
+    "published": 1712034117,
+    "posting_price": 393.8500061,
+    "close_price": 380.92001343,
+    "percent_change": -3.28297384
+  },
+  {
+    "title": "Medicare Advantage Payment Updates Impact Health Insurance Stocks",
+    "published": 1712020500,
+    "posting_price": 393.8500061,
+    "close_price": 380.92001343,
+    "percent_change": -3.28297384
+  },
+  {
+    "title": "Why the CMS\u2019 Medicare Advantage rate is hurting stocks of Humana, UnitedHealth",
+    "published": 1712014620,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Molina Healthcare : of Nebraska Celebrates the Opening of Its One Stop Resource Center in Midtown Omaha",
+    "published": 1711967650,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Molina Healthcare : and University of Michigan Launch Incentives2Quit Program",
+    "published": 1711967650,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Molina Healthcare's Downgrade Tied To Potential Trump Presidency, Margin Challenges",
+    "published": 1711967040,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Molina Healthcare : of Virginia\u2019s MolinaCares Heart Health Initiative Awards $35,000 Grant to the American Heart Association",
+    "published": 1711966327,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Crocs initiated, Bill downgraded: Wall Street's top analyst calls",
+    "published": 1711961460,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Fly Intel: After-Hours Movers",
+    "published": 1711952160,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
+  },
+  {
+    "title": "Molina Healthcare just downgraded at BofA, here's why",
+    "published": 1711948320,
+    "posting_price": 408.8999939,
+    "close_price": 404.20001221,
+    "percent_change": -1.14942083
   }
 ]

@@ -1,54 +1,384 @@
 [
   {
     "title": "Capital One Stock Shrugs Off Antitrust Worry. Citi Expects Deal to Go Ahead.",
-    "published": 1742313360
+    "published": 1742313360,
+    "posting_price": 153.0,
+    "close_price": 158.83000183,
+    "percent_change": 3.81045871
   },
   {
     "title": "Discover (DFS) Loses -21.93% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner",
-    "published": 1742304905
+    "published": 1742304905,
+    "posting_price": 153.0,
+    "close_price": 158.83000183,
+    "percent_change": 3.81045871
   },
   {
     "title": "Market Sell-Off: 2 Dirt Cheap Stocks That Just Got Even Cheaper",
-    "published": 1742300460
+    "published": 1742300460,
+    "posting_price": 153.0,
+    "close_price": 158.83000183,
+    "percent_change": 3.81045871
   },
   {
     "title": "Here's Why Discover (DFS) is Poised for a Turnaround After Losing -16.24% in 4 Weeks",
-    "published": 1741959304
+    "published": 1741959304,
+    "posting_price": 161.86000061,
+    "close_price": 164.25999451,
+    "percent_change": 1.48275911
   },
   {
     "title": "Buy 3 Momentum Anomaly Stocks as Tariffs Take a Toll on Markets",
-    "published": 1741873320
+    "published": 1741873320,
+    "posting_price": 164.49000549,
+    "close_price": 159.22999573,
+    "percent_change": -3.19776861
   },
   {
     "title": "Consumers Keep Bailing Out the Economy. Now They Might Be Maxed Out.",
-    "published": 1741685400
+    "published": 1741685400,
+    "posting_price": 156.80999756,
+    "close_price": 157.77000427,
+    "percent_change": 0.61221014
   },
   {
     "title": "Why the Trump Organization is suing Capital One",
-    "published": 1741641425
+    "published": 1741641425,
+    "posting_price": 161.77000427,
+    "close_price": 156.99000549,
+    "percent_change": -2.95481156
   },
   {
     "title": "The new Trump era just got more complicated for Capital One",
-    "published": 1741593611
+    "published": 1741593611,
+    "posting_price": 161.77000427,
+    "close_price": 156.99000549,
+    "percent_change": -2.95481156
   },
   {
     "title": "Discover Financial & Skipify Partner to Enhance Checkout Experience",
-    "published": 1741277160
+    "published": 1741277160,
+    "posting_price": 176.25,
+    "close_price": 172.66999817,
+    "percent_change": -2.03120671
   },
   {
     "title": "Discover (DFS) Down 0.5% Since Last Earnings Report: Can It Rebound?",
-    "published": 1740155424
+    "published": 1740155424,
+    "posting_price": 200.42999268,
+    "close_price": 194.33999634,
+    "percent_change": -3.03846558
   },
   {
     "title": "3 Best Performing Financial Services Stocks on the S&P 500 Index",
-    "published": 1740081600
+    "published": 1740081600,
+    "posting_price": 203.0,
+    "close_price": 199.8999939,
+    "percent_change": -1.5270966
   },
   {
     "title": "Apple unveils iPhone 16e, Arista reports Q4 beat: Morning Buzz",
-    "published": 1740070859
+    "published": 1740070859,
+    "posting_price": 203.0,
+    "close_price": 199.8999939,
+    "percent_change": -1.5270966
   },
   {
     "title": "Capital One Gains a Bull. Why Discover Deal Could Transform the Stock.",
-    "published": 1739983020
+    "published": 1739983020,
+    "posting_price": 197.06894516,
+    "close_price": 202.55000305,
+    "percent_change": 2.78128951
+  },
+  {
+    "title": "UK dividends calendar",
+    "published": 1713172200,
+    "posting_price": 120.50461121,
+    "close_price": 119.1006546,
+    "percent_change": -1.16506464
+  },
+  {
+    "title": "UK dividends calendar - next 7 days",
+    "published": 1713172200,
+    "posting_price": 120.50461121,
+    "close_price": 119.1006546,
+    "percent_change": -1.16506464
+  },
+  {
+    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
+    "published": 1713160860,
+    "posting_price": 120.50461121,
+    "close_price": 119.1006546,
+    "percent_change": -1.16506464
+  },
+  {
+    "title": "$1000 Invested In Discover Finl 15 Years Ago Would Be Worth This Much Today",
+    "published": 1713148500,
+    "posting_price": 120.50461121,
+    "close_price": 119.1006546,
+    "percent_change": -1.16506464
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "Can Growing Costs Hurt Discover Financial's (DFS) Q1 Earnings?",
+    "published": 1712938980,
+    "posting_price": 119.62100209,
+    "close_price": 118.70794678,
+    "percent_change": -0.76329014
+  },
+  {
+    "title": "Biden Wipes More Than $7M In Student Debt For 277K Borrowers: 'Too Many People Feel The Strain And Stress'",
+    "published": 1712919660,
+    "posting_price": 119.62100209,
+    "close_price": 118.70794678,
+    "percent_change": -0.76329014
+  },
+  {
+    "title": "3 Quarterly Releases To Watch Next Week",
+    "published": 1712902800,
+    "posting_price": 119.62100209,
+    "close_price": 118.70794678,
+    "percent_change": -0.76329014
+  },
+  {
+    "title": "Discover (DFS), Google Cloud Team Up to Boost Customer Service",
+    "published": 1712841000,
+    "posting_price": 120.7500584,
+    "close_price": 120.70097351,
+    "percent_change": -0.04064999
+  },
+  {
+    "title": "Credit card delinquencies at record high in Q4, new mortgages appear riskier - Philly Fed",
+    "published": 1712811060,
+    "posting_price": 120.7500584,
+    "close_price": 120.70097351,
+    "percent_change": -0.04064999
+  },
+  {
+    "title": "America's Credit Card Slump: Delinquencies Reach 12-Year High As Issuers Lower Credit Limits",
+    "published": 1712807040,
+    "posting_price": 120.7500584,
+    "close_price": 120.70097351,
+    "percent_change": -0.04064999
+  },
+  {
+    "title": "Big banks set to report Q1 earnings; seen adjusting guidance for fewer rate cuts",
+    "published": 1712798100,
+    "posting_price": 120.7500584,
+    "close_price": 120.70097351,
+    "percent_change": -0.04064999
+  },
+  {
+    "title": "Earnings Preview: Discover (DFS) Q1 Earnings Expected to Decline",
+    "published": 1712757615,
+    "posting_price": 122.00674915,
+    "close_price": 121.04460144,
+    "percent_change": -0.78860204
+  },
+  {
+    "title": "RBC Capital Keeps Their Hold Rating on Discover Financial Services (DFS)",
+    "published": 1712739000,
+    "posting_price": 122.00674915,
+    "close_price": 121.04460144,
+    "percent_change": -0.78860204
+  },
+  {
+    "title": "2 Credit Card Stocks to Buy and 1 to Sell: April 2024",
+    "published": 1712727360,
+    "posting_price": 122.00674915,
+    "close_price": 121.04460144,
+    "percent_change": -0.78860204
+  },
+  {
+    "title": "Discover Financial Services (DFS) Gets a Hold from Wells Fargo",
+    "published": 1712724420,
+    "posting_price": 122.00674915,
+    "close_price": 121.04460144,
+    "percent_change": -0.78860204
+  },
+  {
+    "title": "Citigroup Is Beating The Market This Year: Will The Winning Streak Continue After Earnings?",
+    "published": 1712685473,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "Discover Financial Services Deploys Google Cloud's Generative AI to Transform Customer Service",
+    "published": 1712664360,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "Discover announces strategic collaboration with Google Cloud",
+    "published": 1712646600,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "Discover price target raised by $8 at Barclays, here's why",
+    "published": 1712638860,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "30 Million Could Benefit From Biden's New Student Debt Relief Plan \u2014 But 5 Public Companies Might Suffer",
+    "published": 1712636880,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "Discover Financial Services stock underperforms Tuesday when compared to competitors",
+    "published": 1712635440,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "Google reveals near limitless applications of gen AI: Cloud Next '24",
+    "published": 1712625720,
+    "posting_price": 123.50889517,
+    "close_price": 123.05726624,
+    "percent_change": -0.3656651
+  },
+  {
+    "title": "Sen. Chuck Schumer voices concern over Capital One's proposed Discover deal",
+    "published": 1712572200,
+    "posting_price": 123.67579148,
+    "close_price": 123.4205246,
+    "percent_change": -0.20640004
+  },
+  {
+    "title": "Looking Into Discover Finl's Recent Short Interest",
+    "published": 1712563380,
+    "posting_price": 123.67579148,
+    "close_price": 123.4205246,
+    "percent_change": -0.20640004
+  },
+  {
+    "title": "Fitch Maintains Rating Watch Positive on Discover Financials' 'BBB+' Rating",
+    "published": 1712555904,
+    "posting_price": 123.67579148,
+    "close_price": 123.4205246,
+    "percent_change": -0.20640004
+  },
+  {
+    "title": "Regulatory Concerns Don\u2019t Slow Capital One Financial\u2019s (NYSE:COF) Rise",
+    "published": 1712543820,
+    "posting_price": 123.67579148,
+    "close_price": 123.4205246,
+    "percent_change": -0.20640004
+  },
+  {
+    "title": "As Biden Readies Another Large-Scale Student Loan Forgiveness Plan, Here Are Stocks To Watch",
+    "published": 1712314140,
+    "posting_price": 122.80200163,
+    "close_price": 123.5677948,
+    "percent_change": 0.62359991
+  },
+  {
+    "title": "Discover price target raised by $30 at UBS, here's why",
+    "published": 1712229300,
+    "posting_price": 126.45425344,
+    "close_price": 122.72345734,
+    "percent_change": -2.95031286
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712228760,
+    "posting_price": 126.45425344,
+    "close_price": 122.72345734,
+    "percent_change": -2.95031286
+  },
+  {
+    "title": "Capital One just upgraded at Wolfe Research, here's why",
+    "published": 1712202600,
+    "posting_price": 126.45425344,
+    "close_price": 122.72345734,
+    "percent_change": -2.95031286
+  },
+  {
+    "title": "What You Missed On Wall Street On Thursday",
+    "published": 1712200740,
+    "posting_price": 126.45425344,
+    "close_price": 122.72345734,
+    "percent_change": -2.95031286
+  },
+  {
+    "title": "The Art Of Selling Stocks: A Q1 Portfolio Review",
+    "published": 1712162372,
+    "posting_price": 125.17793162,
+    "close_price": 124.57904053,
+    "percent_change": -0.47843185
+  },
+  {
+    "title": "Capitalizing On Capital One: Potential Merger Arb Returns With Discover Acquisition",
+    "published": 1712145398,
+    "posting_price": 125.17793162,
+    "close_price": 124.57904053,
+    "percent_change": -0.47843185
+  },
+  {
+    "title": "Deep Dive Into Discover Finl Stock: Analyst Perspectives (14 Ratings)",
+    "published": 1712131380,
+    "posting_price": 125.17793162,
+    "close_price": 124.57904053,
+    "percent_change": -0.47843185
+  },
+  {
+    "title": "Mastercard Is a Great Growth Compounder",
+    "published": 1712131260,
+    "posting_price": 125.17793162,
+    "close_price": 124.57904053,
+    "percent_change": -0.47843185
+  },
+  {
+    "title": "Royal Returns: 3 Dividend Aristocrat Bank Stocks for Income Investors",
+    "published": 1712129340,
+    "posting_price": 125.17793162,
+    "close_price": 124.57904053,
+    "percent_change": -0.47843185
+  },
+  {
+    "title": "Discover price target raised by $10 at JPMorgan, here's why",
+    "published": 1712116980,
+    "posting_price": 125.17793162,
+    "close_price": 124.57904053,
+    "percent_change": -0.47843185
+  },
+  {
+    "title": "Discover Financial Services : 2024 Proxy Statement Supplement",
+    "published": 1712077997,
+    "posting_price": 125.88481345,
+    "close_price": 125.48227692,
+    "percent_change": -0.31976576
+  },
+  {
+    "title": "American Express: Growing And Returning Shareholder Value",
+    "published": 1712068807,
+    "posting_price": 125.88481345,
+    "close_price": 125.48227692,
+    "percent_change": -0.31976576
+  },
+  {
+    "title": "Noteworthy Monday Option Activity: DFS, WBA, BA",
+    "published": 1711974180,
+    "posting_price": 128.01528939,
+    "close_price": 127.02368927,
+    "percent_change": -0.77459507
+  },
+  {
+    "title": "Unusually active option classes on open April 1st",
+    "published": 1711960860,
+    "posting_price": 128.01528939,
+    "close_price": 127.02368927,
+    "percent_change": -0.77459507
   }
 ]

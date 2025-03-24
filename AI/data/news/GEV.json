@@ -1,15 +1,24 @@
 [
   {
     "title": "Best Mutual Funds: How The Winners Beat Their Benchmark",
-    "published": 1742559956
+    "published": 1742559956,
+    "posting_price": 330.64001465,
+    "close_price": 333.86999512,
+    "percent_change": 0.97688735
   },
   {
     "title": "March 2025's Noteworthy Stocks Estimated To Be Trading Below Valuation",
-    "published": 1741950470
+    "published": 1741950470,
+    "posting_price": 306.45001221,
+    "close_price": 313.63000488,
+    "percent_change": 2.34295721
   },
   {
     "title": "PyroGenesis and GE Vernova Sign Memorandum of Understanding (MOU)",
-    "published": 1741690800
+    "published": 1741690800,
+    "posting_price": 269.98999023,
+    "close_price": 284.20999146,
+    "percent_change": 5.26686238
   },
   {
     "title": "AI Fever in Power Stocks Moves From Nuclear to Plain Natural Gas",
@@ -17,15 +26,24 @@
   },
   {
     "title": "Nvidia Pep Talk Fails To Fire Up S&P 500 Power Plays, Despite Vistra Earnings Beat",
-    "published": 1740676555
+    "published": 1740676555,
+    "posting_price": 345.17999268,
+    "close_price": 326.27999878,
+    "percent_change": -5.47540249
   },
   {
     "title": "S&P 500 Stocks NRG, Constellation Rally; Oklo Announces Federal Backing",
-    "published": 1740577326
+    "published": 1740577326,
+    "posting_price": 334.82998657,
+    "close_price": 335.23999023,
+    "percent_change": 0.1224513
   },
   {
     "title": "How Tariffs Could Shock America\u2019s Power System",
-    "published": 1740052800
+    "published": 1740052800,
+    "posting_price": 375.05999756,
+    "close_price": 359.67999268,
+    "percent_change": -4.10067855
   },
   {
     "title": "We Think GE Vernova (NYSE:GEV) Can Manage Its Debt With Ease",
@@ -33,22 +51,388 @@
   },
   {
     "title": "Corrections & Amplifications",
-    "published": 1738887240
+    "published": 1738887240,
+    "posting_price": 380.67999268,
+    "close_price": 377.97000122,
+    "percent_change": -0.71188177
   },
   {
     "title": "Honeywell to Break Up in Bid to Re-Create Some GE Magic",
-    "published": 1738865940
+    "published": 1738865940,
+    "posting_price": 365.98999023,
+    "close_price": 374.82998657,
+    "percent_change": 2.4153656
   },
   {
     "title": "Should You Be Excited About GE Vernova Inc.'s (NYSE:GEV) 15% Return On Equity?",
-    "published": 1738580434
+    "published": 1738580434,
+    "posting_price": 350.33999634,
+    "close_price": 361.70999146,
+    "percent_change": 3.24541738
   },
   {
     "title": "Why We Sold GE Vernova Before The DeepSeek Drop",
-    "published": 1738356972
+    "published": 1738356972,
+    "posting_price": 385.55999756,
+    "close_price": 372.88000488,
+    "percent_change": -3.28872102
   },
   {
     "title": "AI-exposed power stocks rebound after DeepSeek release casts 'uncertainty' over industry",
-    "published": 1738099297
+    "published": 1738099297,
+    "posting_price": 351.41500854,
+    "close_price": 355.11999512,
+    "percent_change": 1.05430516
+  },
+  {
+    "title": "What's Going On With GE Vernova Shares Today?",
+    "published": 1713182940,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "Reddit, Astera Labs initiated: Wall Street's top analyst calls",
+    "published": 1713170520,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "GE's Historic Crotonville Academy Reportedly Sold: End Of An Era?",
+    "published": 1713159780,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "GE Vernova (NYSE:GEV) Lands Buy Rating from Mizuho Securities",
+    "published": 1713156720,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "GE Vernova initiated with bullish view at Mizuho, here's why",
+    "published": 1713155520,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "Analysts Offer Insights on NA Companies: GE Vernova Inc. (GEV) and Astera Labs, Inc. (ALAB)",
+    "published": 1713154860,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "GE Vernova started with Buy rating at Mizuho as energy transition 'powerhouse'",
+    "published": 1713144780,
+    "posting_price": 134.49889672,
+    "close_price": 131.65103149,
+    "percent_change": -2.11738929
+  },
+  {
+    "title": "General Electric is said to sell its famed Crotonville campus",
+    "published": 1713081900
+  },
+  {
+    "title": "Wall Street Breakfast: What Moved Markets",
+    "published": 1712990543
+  },
+  {
+    "title": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital",
+    "published": 1712900760,
+    "posting_price": 134.89858656,
+    "close_price": 133.89933777,
+    "percent_change": -0.74074074
+  },
+  {
+    "title": "GE Aerospace: The Pure Turbofan Powerhouse To Propel Your Aerospace Portfolio",
+    "published": 1712855848,
+    "posting_price": 139.09543659,
+    "close_price": 136.46742249,
+    "percent_change": -1.8893604
+  },
+  {
+    "title": "Thursday Macro & Markets Update \u2013 04.11.24",
+    "published": 1712813640,
+    "posting_price": 139.09543659,
+    "close_price": 136.46742249,
+    "percent_change": -1.8893604
+  },
+  {
+    "title": "GE vs. GEHC: Which General Electric Stock Is Better?",
+    "published": 1712652600,
+    "posting_price": 130.77168277,
+    "close_price": 132.07070923,
+    "percent_change": 0.99335455
+  },
+  {
+    "title": "GE Aerospace rated Buy at Goldman Sachs after energy spinoff",
+    "published": 1712646240,
+    "posting_price": 130.77168277,
+    "close_price": 132.07070923,
+    "percent_change": 0.99335455
+  },
+  {
+    "title": "Housing Crisis Havens: 3 Stocks to Shelter Your Wealth",
+    "published": 1712628660,
+    "posting_price": 130.77168277,
+    "close_price": 132.07070923,
+    "percent_change": 0.99335455
+  },
+  {
+    "title": "IPO Stock Check Up: How Are Recent Launches Trump Media, Reddit And Others Faring?",
+    "published": 1712615615,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712580480,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "GE Vernova raised at J.P. Morgan as dip offers entry point for long-term core holding",
+    "published": 1712575440,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "GE Vernova\u2019s stock gets its first upgrade after 14% pullback in trading debut",
+    "published": 1712574900,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "GE Vernova Stock (NYSE:GEV): GE Spins Off an Electrifying Energy Business",
+    "published": 1712573460,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 8th",
+    "published": 1712566560,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
+    "published": 1712565900,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "GE Aerospace price target lowered by $10 at BofA, here's why",
+    "published": 1712555820,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "GE Vernova just upgraded at JPMorgan, here's why",
+    "published": 1712548260,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "What You Missed On Wall Street On Monday",
+    "published": 1712546820,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "WAVE, ELLO, and NRGV are among utility movers",
+    "published": 1712538240,
+    "posting_price": 126.03524862,
+    "close_price": 129.86238098,
+    "percent_change": 3.03655716
+  },
+  {
+    "title": "GE Vernova has 'multi-year pathway' to profitability: Analyst",
+    "published": 1712348787,
+    "posting_price": 125.40572596,
+    "close_price": 122.60782623,
+    "percent_change": -2.23107813
+  },
+  {
+    "title": "Six new option listings on April 5th",
+    "published": 1712302260,
+    "posting_price": 125.40572596,
+    "close_price": 122.60782623,
+    "percent_change": -2.23107813
+  },
+  {
+    "title": "Stocks Rally On Hot Jobs Data, Defy Interest Rate Fears, Gold Hits New High, Oil Tops $87: What's Driving Markets Friday?",
+    "published": 1712279820,
+    "posting_price": 125.40572596,
+    "close_price": 122.60782623,
+    "percent_change": -2.23107813
+  },
+  {
+    "title": "What You Need to Know About General Electric\u2019s Stock Split",
+    "published": 1712227860,
+    "posting_price": 135.89783704,
+    "close_price": 125.96530151,
+    "percent_change": -7.30882533
+  },
+  {
+    "title": "GE Aerospace coverage initiated with buy rating at Vertical Research Partners",
+    "published": 1712215860,
+    "posting_price": 135.89783704,
+    "close_price": 125.96530151,
+    "percent_change": -7.30882533
+  },
+  {
+    "title": "RBC Capital Sticks to Its Buy Rating for GE Vernova Inc. (GEV)",
+    "published": 1712202360,
+    "posting_price": 135.89783704,
+    "close_price": 125.96530151,
+    "percent_change": -7.30882533
+  },
+  {
+    "title": "CREG and GEV are among utility movers",
+    "published": 1712192820,
+    "posting_price": 135.89783704,
+    "close_price": 125.96530151,
+    "percent_change": -7.30882533
+  },
+  {
+    "title": "Not Expecting Much From GE Vernova, Despite Rosy Expectations About The Future",
+    "published": 1712153080,
+    "posting_price": 142.19311261,
+    "close_price": 137.23683167,
+    "percent_change": -3.48559846
+  },
+  {
+    "title": "GE completes split into three independent companies",
+    "published": 1712090801,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova: GE Power Business In Recovery",
+    "published": 1712079704,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE's Power Spinoff Vernova Makes Debut; Shares Rise",
+    "published": 1712078176,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova jumps on first trading day as separate company",
+    "published": 1712060280,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GEV Stock: 7 Things to Know as GE Vernova Starts Trading Today",
+    "published": 1712057700,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Stock Alert: What to Know About the GE Stock Split, New GE Aerospace Company",
+    "published": 1712057040,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Completes Transformation with Spinoff, Unveiling Three Independent Companies",
+    "published": 1712056500,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova Completes Spin-Off and Begins Trading on the New York Stock Exchange",
+    "published": 1712053800,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova debuts on NYSE, as spinoff from GE\u2019s aerospace-only unit completes",
+    "published": 1712052360,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova: An Interesting Stalwart To Ride The Energy Transition",
+    "published": 1712048411,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "Estee Lauder upgraded, Petco downgraded: Wall Street's top analyst calls",
+    "published": 1712048040,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Aerospace announces official launch as an independent public company",
+    "published": 1712036160,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova completes spin-off, begins trading on NYSE",
+    "published": 1712036040,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova to replace Dentsply Sirona in S&P 500 at open on 4/2",
+    "published": 1712030100,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova initiated with neutral view at JPMorgan, here's why",
+    "published": 1712029980,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GEV and FLNC are among utility movers",
+    "published": 1712020140,
+    "posting_price": 142.74270169,
+    "close_price": 139.89483643,
+    "percent_change": -1.99510394
+  },
+  {
+    "title": "GE Vernova initiated with bullish view at RBC Capital, here's why",
+    "published": 1711944720,
+    "posting_price": 140.9040638,
+    "close_price": 141.91331482,
+    "percent_change": 0.71626821
   }
 ]

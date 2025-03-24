@@ -1,14 +1,114 @@
 [
   {
     "title": "Many Would Be Envious Of Garmin's (NYSE:GRMN) Excellent Returns On Capital",
-    "published": 1742494390
+    "published": 1742494390,
+    "posting_price": 207.44999695,
+    "close_price": 208.71000671,
+    "percent_change": 0.60737998
   },
   {
     "title": "Garmin (GRMN) Just Overtook the 20-Day Moving Average",
-    "published": 1740062103
+    "published": 1740062103,
+    "posting_price": 239.08000183,
+    "close_price": 229.00999451,
+    "percent_change": -4.21198228
   },
   {
     "title": "Stock Market Today: Dow Jones Rises As S&P 500 Closes At New High (Live Coverage)",
-    "published": 1739999303
+    "published": 1739999303,
+    "posting_price": 238.0,
+    "close_price": 241.92999268,
+    "percent_change": 1.65125743
+  },
+  {
+    "title": "Garmin expands avionics database solutions for Europe",
+    "published": 1713178800,
+    "posting_price": 142.52562523,
+    "close_price": 139.90803528,
+    "percent_change": -1.83657496
+  },
+  {
+    "title": "Garmin price target raised by $16 at JPMorgan, here's why",
+    "published": 1712811000,
+    "posting_price": 144.66910516,
+    "close_price": 144.29374695,
+    "percent_change": -0.25945983
+  },
+  {
+    "title": "Garmin Ltd. stock underperforms Tuesday when compared to competitors",
+    "published": 1712635440,
+    "posting_price": 147.4644892,
+    "close_price": 146.56562805,
+    "percent_change": -0.60954414
+  },
+  {
+    "title": "Garmin announces General Counsel transition",
+    "published": 1712577600,
+    "posting_price": 146.1013716,
+    "close_price": 147.17803955,
+    "percent_change": 0.73693213
+  },
+  {
+    "title": "Garmin Announces Executive Team Transition and Appointments",
+    "published": 1712562180,
+    "posting_price": 146.1013716,
+    "close_price": 147.17803955,
+    "percent_change": 0.73693213
+  },
+  {
+    "title": "Garmin General Counsel Andrew Etkind to step down, Josh Maxfield to succeed",
+    "published": 1712559900,
+    "posting_price": 146.1013716,
+    "close_price": 147.17803955,
+    "percent_change": 0.73693213
+  },
+  {
+    "title": "3 Tech Stocks To Buy For Passive Income",
+    "published": 1712316000,
+    "posting_price": 143.61218154,
+    "close_price": 145.72601318,
+    "percent_change": 1.47190274
+  },
+  {
+    "title": "Fear And Loathing Ahead Of Payroll Numbers",
+    "published": 1712207100,
+    "posting_price": 145.2123736,
+    "close_price": 143.12817383,
+    "percent_change": -1.43527698
+  },
+  {
+    "title": "Shopify To Rally Around 12%? Here Are 10 Top Analyst Forecasts For Wednesday",
+    "published": 1712129400,
+    "posting_price": 144.18510573,
+    "close_price": 144.25424194,
+    "percent_change": 0.04794962
+  },
+  {
+    "title": "Garmin price target raised by $45 at BofA, here's why",
+    "published": 1712123700,
+    "posting_price": 144.18510573,
+    "close_price": 144.25424194,
+    "percent_change": 0.04794962
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Intel (INTC), PTC (PTC) and Garmin (GRMN)",
+    "published": 1712116920,
+    "posting_price": 144.18510573,
+    "close_price": 144.25424194,
+    "percent_change": 0.04794962
+  },
+  {
+    "title": "Keep Inc. Sprints Towards Profits As Investors Remain Wary",
+    "published": 1712049180,
+    "posting_price": 145.36055088,
+    "close_price": 143.95791626,
+    "percent_change": -0.96493485
+  },
+  {
+    "title": "Lilium begins integration of Garmin standby flight instruments for jet",
+    "published": 1712039940,
+    "posting_price": 145.36055088,
+    "close_price": 143.95791626,
+    "percent_change": -0.96493485
   }
 ]

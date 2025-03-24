@@ -1,7 +1,10 @@
 [
   {
     "title": "Sibi Welcomes Marcus Ridgway to Board of Directors, Leading Innovation in Real Estate and Supply Chains",
-    "published": 1742472000
+    "published": 1742472000,
+    "posting_price": 34.0,
+    "close_price": 34.04000092,
+    "percent_change": 0.11764976
   },
   {
     "title": "3 Top High-Yield Dividend Stocks I Just Bought in My Retirement Account",
@@ -9,19 +12,31 @@
   },
   {
     "title": "Invitation Homes Q4 FFO Meets Estimates, Revenues Increase Y/Y",
-    "published": 1740664920
+    "published": 1740664920,
+    "posting_price": 31.63999939,
+    "close_price": 33.31999969,
+    "percent_change": 5.30973556
   },
   {
     "title": "What's in the Cards for Invitation Homes This Earnings Season?",
-    "published": 1740418920
+    "published": 1740418920,
+    "posting_price": 31.94000053,
+    "close_price": 31.78000069,
+    "percent_change": -0.50093875
   },
   {
     "title": "Should You Retain Invitation Homes Stock in Your Portfolio Now?",
-    "published": 1740155940
+    "published": 1740155940,
+    "posting_price": 32.20000076,
+    "close_price": 31.88999939,
+    "percent_change": -0.96273715
   },
   {
     "title": "As Buyers Fail to Show Up, More Homes Are Being Pulled From Sale",
-    "published": 1739442600
+    "published": 1739442600,
+    "posting_price": 31.54999924,
+    "close_price": 31.82999992,
+    "percent_change": 0.88748237
   },
   {
     "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
@@ -29,6 +44,137 @@
   },
   {
     "title": "TikTok Chat, Big Bank Review, and Some Stocks Worth Watching",
-    "published": 1737572100
+    "published": 1737572100,
+    "posting_price": 31.0,
+    "close_price": 30.73999977,
+    "percent_change": -0.83871042
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 33.32199671,
+    "close_price": 32.73671722,
+    "percent_change": -1.75643583
+  },
+  {
+    "title": "Invitation Homes (INVH) Shares Cross Below 200 DMA",
+    "published": 1713160260,
+    "posting_price": 33.32199671,
+    "close_price": 32.73671722,
+    "percent_change": -1.75643583
+  },
+  {
+    "title": "Here We Go Again",
+    "published": 1713085200
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 14",
+    "published": 1712998575
+  },
+  {
+    "title": "Invitation Homes Basks In Sun Belt, Snaps Up 500 New Homes For $140 Million",
+    "published": 1712845877,
+    "posting_price": 34.23893702,
+    "close_price": 33.76095963,
+    "percent_change": -1.39600534
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 34.23893702,
+    "close_price": 33.76095963,
+    "percent_change": -1.39600534
+  },
+  {
+    "title": "Invitation Homes Stock (NYSE:INVH): This REIT Is Resilient Despite Rate Hikes",
+    "published": 1712813160,
+    "posting_price": 34.23893702,
+    "close_price": 33.76095963,
+    "percent_change": -1.39600534
+  },
+  {
+    "title": "Invitation Homes Announces Dates for First Quarter 2024 Earnings Release and Conference Call",
+    "published": 1712781000,
+    "posting_price": 33.91703443,
+    "close_price": 34.01457977,
+    "percent_change": 0.28759985
+  },
+  {
+    "title": "RBC Capital Remains a Buy on Invitation Homes (INVH)",
+    "published": 1712739000,
+    "posting_price": 33.91703443,
+    "close_price": 34.01457977,
+    "percent_change": 0.28759985
+  },
+  {
+    "title": "Invitation Homes (INVH) to Acquire Around 500 Newly Built Homes",
+    "published": 1712679960,
+    "posting_price": 34.62912048,
+    "close_price": 34.69740295,
+    "percent_change": 0.19718222
+  },
+  {
+    "title": "BlackBerry, Alkermes rise; Neogen, Tilray Brands fall, Tuesday, 4/9/2024",
+    "published": 1712666280,
+    "posting_price": 34.62912048,
+    "close_price": 34.69740295,
+    "percent_change": 0.19718222
+  },
+  {
+    "title": "Invitation Homes Agrees to Acquire Approximately 500 Additional Newly Built Homes",
+    "published": 1712608200,
+    "posting_price": 34.03408769,
+    "close_price": 34.47304916,
+    "percent_change": 1.28977005
+  },
+  {
+    "title": "Invitation Homes to acquire about 500 additional newly built homes",
+    "published": 1712548140,
+    "posting_price": 34.03408769,
+    "close_price": 34.47304916,
+    "percent_change": 1.28977005
+  },
+  {
+    "title": "Invitation Homes to acquire roughly 500 additional newly built homes",
+    "published": 1712547060,
+    "posting_price": 34.03408769,
+    "close_price": 34.47304916,
+    "percent_change": 1.28977005
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights Invitation Homes, UMH Properties and Centerspace",
+    "published": 1712307660,
+    "posting_price": 33.42929623,
+    "close_price": 33.91703033,
+    "percent_change": 1.459002
+  },
+  {
+    "title": "Invitation Homes: A REIT With A Bright Outlook And Strong Dividend Growth",
+    "published": 1712305800,
+    "posting_price": 33.42929623,
+    "close_price": 33.91703033,
+    "percent_change": 1.459002
+  },
+  {
+    "title": "3 Residential REITs to Consider Despite Industry Challenges",
+    "published": 1712240520,
+    "posting_price": 34.24869197,
+    "close_price": 33.55611038,
+    "percent_change": -2.02221326
+  },
+  {
+    "title": "The 7 Most Undervalued REITs to Buy in April 2024",
+    "published": 1712176200,
+    "posting_price": 33.86825798,
+    "close_price": 33.88776779,
+    "percent_change": 0.057605
   }
 ]

@@ -1,11 +1,17 @@
 [
   {
     "title": "Freeport-McMoRan Stock Gets an Upgrade. Why It\u2019s a Tariffs Winner.",
-    "published": 1742472780
+    "published": 1742472780,
+    "posting_price": 41.04999924,
+    "close_price": 40.70000076,
+    "percent_change": -0.85261507
   },
   {
     "title": "Freeport-McMoRan (FCX) Fell on Declining Copper Prices",
-    "published": 1742216946
+    "published": 1742216946,
+    "posting_price": 38.99000168,
+    "close_price": 39.50999832,
+    "percent_change": 1.33366663
   },
   {
     "title": "Freeport-McMoRan (NYSE:FCX) grows 5.2% this week, taking five-year gains to 644%",
@@ -13,18 +19,494 @@
   },
   {
     "title": "Copper Is Beating Gold. What Lies Ahead for the Bronze Metal\u2019s Rally.",
-    "published": 1741972260
+    "published": 1741972260,
+    "posting_price": 38.09000015,
+    "close_price": 38.84999847,
+    "percent_change": 1.99526993
   },
   {
     "title": "3 Non-Ferrous Metal Mining Stocks to Watch in a Challenging Industry",
-    "published": 1741879800
+    "published": 1741879800,
+    "posting_price": 36.72999954,
+    "close_price": 37.58000183,
+    "percent_change": 2.31419085
   },
   {
     "title": "Ero Copper Q4 Earnings Miss Estimates, Revenues Increase Y/Y",
-    "published": 1741365780
+    "published": 1741365780,
+    "posting_price": 37.18000031,
+    "close_price": 36.93999863,
+    "percent_change": -0.64551285
   },
   {
     "title": "Robinhood initiated, MongoDB downgraded: Wall Street\u2019s top analyst calls",
-    "published": 1741358484
+    "published": 1741358484,
+    "posting_price": 37.18000031,
+    "close_price": 36.93999863,
+    "percent_change": -0.64551285
+  },
+  {
+    "title": "Freeport-McMoRan (FCX) Gains As Market Dips: What You Should Know",
+    "published": 1713217821,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "The Next Commodity Supercycle? 3 Top Copper Stocks to Buy Now",
+    "published": 1713213000,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "3 Copper Miners to Buy as Supply Crisis Sends Prices Soaring",
+    "published": 1713210180,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "ARREF vs. FCX: Which Stock Is the Better Value Option?",
+    "published": 1713195612,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "Market Cycle Momentum Reigniting (Q2 2024 Update)",
+    "published": 1713185572,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "M&T Bank, Goldman Sachs rise; Salesforce, Tesla fall, Monday, 4/15/2024",
+    "published": 1713183600,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "This Is What Whales Are Betting On Freeport-McMoRan",
+    "published": 1713174540,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "Alcoa jumps with aluminum prices after new sanctions on Russian metals",
+    "published": 1713167400,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "SPDR ETF Report For Monday, April 15",
+    "published": 1713159900,
+    "posting_price": 50.20512794,
+    "close_price": 49.53176498,
+    "percent_change": -1.34122347
+  },
+  {
+    "title": "GUNR ETF: Diversified Access to Surging Commodities Stocks",
+    "published": 1712998800
+  },
+  {
+    "title": "Benzinga Bulls And Bears: Tesla, AMC, Trump Media Plus Lessons From Dogecoin's Post-2020 Bitcoin Halving Surge",
+    "published": 1712997240
+  },
+  {
+    "title": "Bulls jump deeper into copper amid supply challenges, AI-fueled demand",
+    "published": 1712919600,
+    "posting_price": 51.40331524,
+    "close_price": 48.98713303,
+    "percent_change": -4.70044043
+  },
+  {
+    "title": "Copper surges to 22-month highs, iron ore up 13% this week on China optimism",
+    "published": 1712919540,
+    "posting_price": 51.40331524,
+    "close_price": 48.98713303,
+    "percent_change": -4.70044043
+  },
+  {
+    "title": "Albemarle remains the most heavily shorted materials stock in March",
+    "published": 1712917800,
+    "posting_price": 51.40331524,
+    "close_price": 48.98713303,
+    "percent_change": -4.70044043
+  },
+  {
+    "title": "Albemarle remains most heavily shorted materials stock in March",
+    "published": 1712916720,
+    "posting_price": 51.40331524,
+    "close_price": 48.98713303,
+    "percent_change": -4.70044043
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 12th",
+    "published": 1712912160,
+    "posting_price": 51.40331524,
+    "close_price": 48.98713303,
+    "percent_change": -4.70044043
+  },
+  {
+    "title": "Here's How Much $1000 Invested In Freeport-McMoRan 5 Years Ago Would Be Worth Today",
+    "published": 1712892780,
+    "posting_price": 51.40331524,
+    "close_price": 48.98713303,
+    "percent_change": -4.70044043
+  },
+  {
+    "title": "Freeport-McMoRan (FCX) Stock Falls Amid Market Uptick: What Investors Need to Know",
+    "published": 1712872821,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "Do markets even need rate cuts with strong fundamentals?",
+    "published": 1712871352,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "Freeport-McMoRan Inc's Dividend Analysis",
+    "published": 1712833355,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "FCX May 31st Options Begin Trading",
+    "published": 1712828820,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "Freeport-McMoRan goes ex dividend tomorrow",
+    "published": 1712804220,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "Steel Dynamics, Dow among top materials picks ahead of Q1 earnings; Albemarle gets a Sell",
+    "published": 1712798520,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "10 Attractive buy puts within the Russell 1000 - JPM",
+    "published": 1712798100,
+    "posting_price": 50.38251658,
+    "close_price": 50.09619904,
+    "percent_change": -0.56828749
+  },
+  {
+    "title": "COPX ETF: Investing in Copper as a New Bull Market Begins",
+    "published": 1712744880,
+    "posting_price": 49.34584261,
+    "close_price": 50.27391434,
+    "percent_change": 1.88074958
+  },
+  {
+    "title": "Freeport-McMoran Copper & Gold About To Put More Money In Your Pocket (FCX)",
+    "published": 1712743500,
+    "posting_price": 49.34584261,
+    "close_price": 50.27391434,
+    "percent_change": 1.88074958
+  },
+  {
+    "title": "B of A Securities Upgrades Freeport-McMoRan (FCX)",
+    "published": 1712742875,
+    "posting_price": 49.34584261,
+    "close_price": 50.27391434,
+    "percent_change": 1.88074958
+  },
+  {
+    "title": "Stocks Fall Ahead Of Key Inflation Data, Gold Defends Record Highs; Bitcoin Stumbles Below $70,000: What's Driving Markets Tuesday?",
+    "published": 1712667480,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Riding The Wave: Freeport-McMoRan Receives Upgrade As Analyst Foresees Copper And Gold Boom",
+    "published": 1712667480,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Notable Tuesday Option Activity: FCX, AZO, GWW",
+    "published": 1712664960,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Copper Kings: 3 Stocks to Profit From the Conductive Metal Boom",
+    "published": 1712664000,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Hudbay raised to Buy at BofA on upbeat copper supply/demand production outlook",
+    "published": 1712662620,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Copper Crisis Alert: Is a Supply Crisis Coming as Copper Prices Hit Record Highs?",
+    "published": 1712662140,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Bank Of America Sees Gold At $3,000, Warns Of A Copper Supply Crisis: Metals 'Dance To Their Own Tune'",
+    "published": 1712656200,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 9th",
+    "published": 1712652960,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Fly Intel: Pre-Market Movers",
+    "published": 1712650380,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Copper climbs to 15-month high; Citi says entering new bull market phase",
+    "published": 1712649420,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Freeport-McMoRan price target raised by $7 at Scotiabank, here's why",
+    "published": 1712649420,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Freeport-McMoRan just upgraded at BofA, here's why",
+    "published": 1712639700,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "U.S. CPI And FOMC Minutes Out Tomorrow - SPDR ETF Report",
+    "published": 1712638080,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "Ignore Gold\u2019s New Highs \u2013 Look Here Instead",
+    "published": 1712622814,
+    "posting_price": 50.79718808,
+    "close_price": 50.64908981,
+    "percent_change": -0.29154817
+  },
+  {
+    "title": "New Buy Rating for Freeport-McMoRan (FCX), the Basic Materials Giant",
+    "published": 1712552880,
+    "posting_price": 49.39520729,
+    "close_price": 49.36558914,
+    "percent_change": -0.05996159
+  },
+  {
+    "title": "Top Two U.S. Copper Stocks To Buy As Rio Tinto Promotes Copper Chief",
+    "published": 1712539080,
+    "posting_price": 49.39520729,
+    "close_price": 49.36558914,
+    "percent_change": -0.05996159
+  },
+  {
+    "title": "I Love Gold But I Am Buying Silver",
+    "published": 1712532238
+  },
+  {
+    "title": "Freeport-McMoRan Is Overpriced",
+    "published": 1712491790
+  },
+  {
+    "title": "Here's Why Freeport-McMoRan (FCX) Gained But Lagged the Market Today",
+    "published": 1712353819,
+    "posting_price": 48.67446691,
+    "close_price": 48.84231186,
+    "percent_change": 0.34483161
+  },
+  {
+    "title": "XME ETF: Strong Performance As Gold Surges",
+    "published": 1712326238,
+    "posting_price": 48.67446691,
+    "close_price": 48.84231186,
+    "percent_change": 0.34483161
+  },
+  {
+    "title": "Analysts Offer Insights on Materials Companies: RPM International (RPM) and Freeport-McMoRan (FCX)",
+    "published": 1712292060,
+    "posting_price": 48.67446691,
+    "close_price": 48.84231186,
+    "percent_change": 0.34483161
+  },
+  {
+    "title": "NANR ETF: Exposure to Natural Resources as Commodities Heat Up",
+    "published": 1712288040,
+    "posting_price": 48.67446691,
+    "close_price": 48.84231186,
+    "percent_change": 0.34483161
+  },
+  {
+    "title": "Why Shares in This Leading Mining Stock Soared 24.4% in March",
+    "published": 1712253419,
+    "posting_price": 49.35571212,
+    "close_price": 48.55598831,
+    "percent_change": -1.62032676
+  },
+  {
+    "title": "Profiting From the Copper Craze: 3 Stocks to Buy as Prices Skyrocket",
+    "published": 1712233680,
+    "posting_price": 49.35571212,
+    "close_price": 48.55598831,
+    "percent_change": -1.62032676
+  },
+  {
+    "title": "Will Copper Reach $10,000? 'An Essential Metal That Faces An Uncertain Future'",
+    "published": 1712217540,
+    "posting_price": 49.35571212,
+    "close_price": 48.55598831,
+    "percent_change": -1.62032676
+  },
+  {
+    "title": "SPDR ETF Report For Thursday, April 4",
+    "published": 1712217360,
+    "posting_price": 49.35571212,
+    "close_price": 48.55598831,
+    "percent_change": -1.62032676
+  },
+  {
+    "title": "Copper extends push to 14-month high as demand rises, supply at risk",
+    "published": 1712210400,
+    "posting_price": 49.35571212,
+    "close_price": 48.55598831,
+    "percent_change": -1.62032676
+  },
+  {
+    "title": "Freeport-McMoRan price target raised by $2 at Deutsche Bank, here's why",
+    "published": 1712210040,
+    "posting_price": 49.35571212,
+    "close_price": 48.55598831,
+    "percent_change": -1.62032676
+  },
+  {
+    "title": "Freeport-McMoRan (FCX) Receives a Hold from RBC Capital",
+    "published": 1712134020,
+    "posting_price": 48.09195532,
+    "close_price": 48.98053741,
+    "percent_change": 1.84767303
+  },
+  {
+    "title": "Cesium Wars: China and America Battle for the Future of Big Tech",
+    "published": 1712102400,
+    "posting_price": 48.09195532,
+    "close_price": 48.98053741,
+    "percent_change": 1.84767303
+  },
+  {
+    "title": "Better Performer Than Nvidia \u2013 Copper Stock Freeport On China Optimism, Front Running Blind Money Fizzles",
+    "published": 1712062740,
+    "posting_price": 47.24286601,
+    "close_price": 47.7661438,
+    "percent_change": 1.10763346
+  },
+  {
+    "title": "Looking At Freeport-McMoRan's Recent Unusual Options Activity",
+    "published": 1712048820,
+    "posting_price": 47.24286601,
+    "close_price": 47.7661438,
+    "percent_change": 1.10763346
+  },
+  {
+    "title": "Copper prices pop on better China data, tightening market",
+    "published": 1712044200,
+    "posting_price": 47.24286601,
+    "close_price": 47.7661438,
+    "percent_change": 1.10763346
+  },
+  {
+    "title": "FCX Crosses Above Average Analyst Target",
+    "published": 1712034360,
+    "posting_price": 47.24286601,
+    "close_price": 47.7661438,
+    "percent_change": 1.10763346
+  },
+  {
+    "title": "3 Stocks to Buy for Exposure to the Most Undervalued Asset Class",
+    "published": 1711993055,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
+  },
+  {
+    "title": "Why Freeport-McMoRan (FCX) Could Beat Earnings Estimates Again",
+    "published": 1711987812,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
+  },
+  {
+    "title": "These are the most crowded stocks within each sector - BofA",
+    "published": 1711974960,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
+  },
+  {
+    "title": "SPDR ETF Report For Monday, April 1",
+    "published": 1711967160,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
+  },
+  {
+    "title": "Freeport-McMoRan (NYSE:FCX) Will Pay A Dividend Of $0.15",
+    "published": 1711966813,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
+  },
+  {
+    "title": "Peering Into Freeport-McMoRan's Recent Short Interest",
+    "published": 1711963920,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
+  },
+  {
+    "title": "Miners Cheer As China's Manufacturers Continue To Increase Pace",
+    "published": 1711933800,
+    "posting_price": 46.92692865,
+    "close_price": 46.7294693,
+    "percent_change": -0.42078047
   }
 ]

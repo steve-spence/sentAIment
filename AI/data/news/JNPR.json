@@ -1,15 +1,24 @@
 [
   {
     "title": "Alger Russell Innovation Index Updates for First Quarter 2025",
-    "published": 1742246880
+    "published": 1742246880,
+    "posting_price": 35.83000183,
+    "close_price": 36.09999847,
+    "percent_change": 0.75354905
   },
   {
     "title": "HPE Stock Plunges 27% in a Month: Hold Tight or Time to Let Go?",
-    "published": 1741786860
+    "published": 1741786860,
+    "posting_price": 35.59999847,
+    "close_price": 35.61000061,
+    "percent_change": 0.0280959
   },
   {
     "title": "Juniper MX routers targeted by China-nexus threat group using custom backdoors",
-    "published": 1741783380
+    "published": 1741783380,
+    "posting_price": 35.59999847,
+    "close_price": 35.61000061,
+    "percent_change": 0.0280959
   },
   {
     "title": "Surprising AI news sends major technology stock reeling",
@@ -17,34 +26,107 @@
   },
   {
     "title": "Q1 2025 Hewlett Packard Enterprise Co Earnings Call",
-    "published": 1741356943
+    "published": 1741356943,
+    "posting_price": 36.0,
+    "close_price": 36.06000137,
+    "percent_change": 0.16667047
   },
   {
     "title": "Juniper (JNPR) Down 0.2% Since Last Earnings Report: Can It Rebound?",
-    "published": 1741278668
+    "published": 1741278668,
+    "posting_price": 35.77000046,
+    "close_price": 36.06000137,
+    "percent_change": 0.81073779
   },
   {
     "title": "IBM Extends JNPR Tie-Up for AI-Native Networking: Stock to Gain?",
-    "published": 1741272000
+    "published": 1741272000,
+    "posting_price": 35.77000046,
+    "close_price": 36.06000137,
+    "percent_change": 0.81073779
   },
   {
     "title": "JNPR Solution Supports 5G Expansion in Saudi Arabia: Stock to Gain?",
-    "published": 1741179840
+    "published": 1741179840,
+    "posting_price": 35.79000092,
+    "close_price": 36.00999832,
+    "percent_change": 0.61468956
   },
   {
     "title": "What Makes Juniper (JNPR) a New Buy Stock",
-    "published": 1740675612
+    "published": 1740675612,
+    "posting_price": 35.73152081,
+    "close_price": 35.76133728,
+    "percent_change": 0.08344585
   },
   {
     "title": "Will JNPR Stock Gain From the Expansion of Routing Portfolio?",
-    "published": 1740509100
+    "published": 1740509100,
+    "posting_price": 35.97005881,
+    "close_price": 35.81103134,
+    "percent_change": -0.44211068
   },
   {
     "title": "Intel Unveils Xeon 6 Processors With P-Cores for High AI Workloads",
-    "published": 1740493920
+    "published": 1740493920,
+    "posting_price": 35.97005881,
+    "close_price": 35.81103134,
+    "percent_change": -0.44211068
   },
   {
     "title": "ASTS Skyrockets 795% in a Year: Should You Join the Bandwagon?",
-    "published": 1740410100
+    "published": 1740410100,
+    "posting_price": 35.89054881,
+    "close_price": 35.74145889,
+    "percent_change": -0.41540162
+  },
+  {
+    "title": "Salesforce (CRM) in Takeover Talks With Informatica Per Reports",
+    "published": 1713190020,
+    "posting_price": 35.9046935,
+    "close_price": 35.65088272,
+    "percent_change": -0.7069014
+  },
+  {
+    "title": "Juniper Networks Inc. stock outperforms competitors despite losses on the day",
+    "published": 1712895660,
+    "posting_price": 35.98279535,
+    "close_price": 35.77779388,
+    "percent_change": -0.5697208
+  },
+  {
+    "title": "Juniper Networks (JNPR) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+    "published": 1712700020,
+    "posting_price": 36.2561285,
+    "close_price": 36.29517746,
+    "percent_change": 0.10770306
+  },
+  {
+    "title": "Investing in Digital Defense: 3 Cybersecurity Stocks Leading the Charge",
+    "published": 1712577360,
+    "posting_price": 36.18779878,
+    "close_price": 36.24637222,
+    "percent_change": 0.16185964
+  },
+  {
+    "title": "Returns At Juniper Networks (NYSE:JNPR) Appear To Be Weighed Down",
+    "published": 1712170478,
+    "posting_price": 36.06088733,
+    "close_price": 36.16827011,
+    "percent_change": 0.29778186
+  },
+  {
+    "title": "Juniper Networks shareholders overwhelmingly approve HP Enterprise buyout",
+    "published": 1712125980,
+    "posting_price": 36.06088733,
+    "close_price": 36.16827011,
+    "percent_change": 0.29778186
+  },
+  {
+    "title": "Juniper Networks Inc. stock outperforms competitors on strong trading day",
+    "published": 1712118120,
+    "posting_price": 36.06088733,
+    "close_price": 36.16827011,
+    "percent_change": 0.29778186
   }
 ]

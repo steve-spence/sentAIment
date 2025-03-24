@@ -1,50 +1,315 @@
 [
   {
     "title": "3M Spin Off Solventum Targets Higher Margins, EPS Growth In 2025-2028 Strategy",
-    "published": 1742575474
+    "published": 1742575474,
+    "posting_price": 516.26000977,
+    "close_price": 517.7199707,
+    "percent_change": 0.28279567
   },
   {
     "title": "TMO Stock Set to Gain From the Launch of New Vulcan Automated Lab",
-    "published": 1742478240
+    "published": 1742478240,
+    "posting_price": 518.5,
+    "close_price": 518.64001465,
+    "percent_change": 0.02700379
   },
   {
     "title": "Thermo Fisher Scientific (TMO) Fell as Expectations for Demand Recovery in 2025 Continue to Moderate",
-    "published": 1742476609
+    "published": 1742476609,
+    "posting_price": 518.5,
+    "close_price": 518.64001465,
+    "percent_change": 0.02700379
   },
   {
     "title": "The Zacks Analyst Blog Highlights Visa, Johnson & Johnson, Thermo Fisher and AMREP",
-    "published": 1742374800
+    "published": 1742374800,
+    "posting_price": 520.45001221,
+    "close_price": 518.40997314,
+    "percent_change": -0.39197599
   },
   {
     "title": "3 Reasons to Sell TMO and 1 Stock to Buy Instead",
-    "published": 1741943378
+    "published": 1741943378,
+    "posting_price": 510.0,
+    "close_price": 522.04998779,
+    "percent_change": 2.3627427
   },
   {
     "title": "Here\u2019s Why Thermo Fisher Scientific (TMO) Fell in Q4",
-    "published": 1741268578
+    "published": 1741268578,
+    "posting_price": 522.99768968,
+    "close_price": 527.19415283,
+    "percent_change": 0.80238656
   },
   {
     "title": "3 Dividend Stocks That Recently Raised Payouts More Than 10%",
-    "published": 1741253100
+    "published": 1741253100,
+    "posting_price": 522.99768968,
+    "close_price": 527.19415283,
+    "percent_change": 0.80238656
   },
   {
     "title": "Q4 Earnings Highlights: Thermo Fisher (NYSE:TMO) Vs The Rest Of The Research Tools & Consumables Stocks",
-    "published": 1741165356
+    "published": 1741165356,
+    "posting_price": 512.44662952,
+    "close_price": 523.74707031,
+    "percent_change": 2.2051937
   },
   {
     "title": "Winners And Losers Of Q4: Revvity (NYSE:RVTY) Vs The Rest Of The Research Tools & Consumables Stocks",
-    "published": 1740992589
+    "published": 1740992589,
+    "posting_price": 530.47138793,
+    "close_price": 523.1975708,
+    "percent_change": -1.37119877
   },
   {
     "title": "Q4 2024 Seer Inc Earnings Call",
-    "published": 1740760706
+    "published": 1740760706,
+    "posting_price": 527.81364081,
+    "close_price": 528.51306152,
+    "percent_change": 0.13251281
   },
   {
     "title": "Seer Inc (SEER) Q4 2024 Earnings Call Highlights: Navigating Revenue Decline with Strategic ...",
-    "published": 1740728358
+    "published": 1740728358,
+    "posting_price": 527.81364081,
+    "close_price": 528.51306152,
+    "percent_change": 0.13251281
   },
   {
     "title": "Nelson Peltz\u2019s Trian Pushes Solventum to Further Simplify Business",
-    "published": 1740612420
+    "published": 1740612420,
+    "posting_price": 541.27222623,
+    "close_price": 532.83935547,
+    "percent_change": -1.55797219
+  },
+  {
+    "title": "What's in Store for Thermo Fisher (TMO) in Q1 Earnings?",
+    "published": 1713200280,
+    "posting_price": 569.06447141,
+    "close_price": 556.25177002,
+    "percent_change": -2.25153775
+  },
+  {
+    "title": "Thermo Fisher Scientific: Too Hot To Handle",
+    "published": 1713183390,
+    "posting_price": 569.06447141,
+    "close_price": 556.25177002,
+    "percent_change": -2.25153775
+  },
+  {
+    "title": "11 Best Nanotechnology Stocks To Invest In",
+    "published": 1713016952
+  },
+  {
+    "title": "Is Weakness In Thermo Fisher Scientific Inc. (NYSE:TMO) Stock A Sign That The Market Could be Wrong Given Its Strong Financial Prospects?",
+    "published": 1713016815
+  },
+  {
+    "title": "Short interest in S&P 500 health stocks rises, Moderna among most shorted companies in March",
+    "published": 1712924520,
+    "posting_price": 569.25397119,
+    "close_price": 563.5904541,
+    "percent_change": -0.99490164
+  },
+  {
+    "title": "Thermo Fisher Scientific Introduces Animal Origin-Free Formulation to Support Scaling of Cell Therapy Manufacturing",
+    "published": 1712909898,
+    "posting_price": 569.25397119,
+    "close_price": 563.5904541,
+    "percent_change": -0.99490164
+  },
+  {
+    "title": "A Closer Look at Thermo Fisher Scientific's Options Market Dynamics",
+    "published": 1712892780,
+    "posting_price": 569.25397119,
+    "close_price": 563.5904541,
+    "percent_change": -0.99490164
+  },
+  {
+    "title": "Waters (WAT) Boosts Waters Operating Segment With HPLC System",
+    "published": 1712841300,
+    "posting_price": 577.87883581,
+    "close_price": 572.90332031,
+    "percent_change": -0.86099632
+  },
+  {
+    "title": "Charles River (CRL) Forges Collaboration With Ship of Theseus",
+    "published": 1712841000,
+    "posting_price": 577.87883581,
+    "close_price": 572.90332031,
+    "percent_change": -0.86099632
+  },
+  {
+    "title": "7 Healthcare Stocks to Keep Your Portfolio in Tip-Top Shape",
+    "published": 1712769738,
+    "posting_price": 575.61547035,
+    "close_price": 572.04589844,
+    "percent_change": -0.62013134
+  },
+  {
+    "title": "908 Devices: Rare Early-Stage Bioprocess Investment Opportunity",
+    "published": 1712753399,
+    "posting_price": 575.61547035,
+    "close_price": 572.04589844,
+    "percent_change": -0.62013134
+  },
+  {
+    "title": "Here's How Much You Would Have Made Owning Thermo Fisher Scientific Stock In The Last 10 Years",
+    "published": 1712746980,
+    "posting_price": 575.61547035,
+    "close_price": 572.04589844,
+    "percent_change": -0.62013134
+  },
+  {
+    "title": "Thermo Fisher Scientific Innovations at Analytica 2024 Optimize Workflows and Enable Precise Analysis across Life Sciences, Applied and Industrial Markets",
+    "published": 1712744082,
+    "posting_price": 575.61547035,
+    "close_price": 572.04589844,
+    "percent_change": -0.62013134
+  },
+  {
+    "title": "Clario appoints Julia James as Chief Legal and Administrative Officer",
+    "published": 1712731941,
+    "posting_price": 575.61547035,
+    "close_price": 572.04589844,
+    "percent_change": -0.62013134
+  },
+  {
+    "title": "Barclays Sticks to Its Hold Rating for Thermo Fisher (TMO)",
+    "published": 1712713740,
+    "posting_price": 575.61547035,
+    "close_price": 572.04589844,
+    "percent_change": -0.62013134
+  },
+  {
+    "title": "Thermo Fisher Scientific Launches New ENERGY STAR certified TSX Universal Series ULT Freezers to Deliver Tighter Temperature Control and Faster Recovery Times",
+    "published": 1712670802,
+    "posting_price": 582.0867052,
+    "close_price": 587.4909668,
+    "percent_change": 0.92842897
+  },
+  {
+    "title": "Thermo Fisher (TMO) Launches TSX Universal Series ULT Freezers",
+    "published": 1712666040,
+    "posting_price": 582.0867052,
+    "close_price": 587.4909668,
+    "percent_change": 0.92842897
+  },
+  {
+    "title": "Thermo Fisher Layoffs 2024: What to Know About the Latest TMO Job Cuts",
+    "published": 1712662200,
+    "posting_price": 582.0867052,
+    "close_price": 587.4909668,
+    "percent_change": 0.92842897
+  },
+  {
+    "title": "(TMO) - Analyzing Thermo Fisher Scientific's Short Interest",
+    "published": 1712573460,
+    "posting_price": 577.66942513,
+    "close_price": 577.12103271,
+    "percent_change": -0.09493188
+  },
+  {
+    "title": "RBC Capital Keeps Their Buy Rating on Thermo Fisher (TMO)",
+    "published": 1712566020,
+    "posting_price": 577.66942513,
+    "close_price": 577.12103271,
+    "percent_change": -0.09493188
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "Thermo Fisher Scientific (TMO) Outpaces Stock Market Gains: What You Should Know",
+    "published": 1712354421,
+    "posting_price": 568.56592627,
+    "close_price": 577.7791748,
+    "percent_change": 1.62043628
+  },
+  {
+    "title": "ClearBridge Large Cap Growth ESG Strategy Q2 2024 Portfolio Manager Commentary",
+    "published": 1712314200,
+    "posting_price": 568.56592627,
+    "close_price": 577.7791748,
+    "percent_change": 1.62043628
+  },
+  {
+    "title": "Thermo Fisher Scientific Inc. (TMO) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1712235610,
+    "posting_price": 578.72633316,
+    "close_price": 568.95477295,
+    "percent_change": -1.68845958
+  },
+  {
+    "title": "Evercore ISI Sticks to Its Buy Rating for Thermo Fisher (TMO)",
+    "published": 1712229360,
+    "posting_price": 578.72633316,
+    "close_price": 568.95477295,
+    "percent_change": -1.68845958
+  },
+  {
+    "title": "Bio-Techne: Secular Growth Opportunities Always Exhibit Financial Excellence",
+    "published": 1712220187,
+    "posting_price": 578.72633316,
+    "close_price": 568.95477295,
+    "percent_change": -1.68845958
+  },
+  {
+    "title": "Thermo Fisher Scientific, GXO Logistics And A Financial Stock On CNBC's 'Final Trades'",
+    "published": 1712217240,
+    "posting_price": 578.72633316,
+    "close_price": 568.95477295,
+    "percent_change": -1.68845958
+  },
+  {
+    "title": "5 Analysts Assess Thermo Fisher Scientific: What You Need To Know",
+    "published": 1712196120,
+    "posting_price": 578.72633316,
+    "close_price": 568.95477295,
+    "percent_change": -1.68845958
+  },
+  {
+    "title": "Thermo Fisher Scientific (NYSE:TMO) Has A Pretty Healthy Balance Sheet",
+    "published": 1712142018,
+    "posting_price": 569.57297975,
+    "close_price": 574.3291626,
+    "percent_change": 0.83504362
+  },
+  {
+    "title": "Thermo Fisher Scientific (TMO) Dips More Than Broader Market: What You Should Know",
+    "published": 1712096117,
+    "posting_price": 569.09439063,
+    "close_price": 569.90203857,
+    "percent_change": 0.1419181
+  },
+  {
+    "title": "Thermo Fisher (TMO) Debuts a New In-Line Metrology Solution",
+    "published": 1712061360,
+    "posting_price": 569.09439063,
+    "close_price": 569.90203857,
+    "percent_change": 0.1419181
+  },
+  {
+    "title": "Thermo Fisher Scientific to Hold Earnings Conference Call on Wednesday, April 24, 2024",
+    "published": 1712059200,
+    "posting_price": 569.09439063,
+    "close_price": 569.90203857,
+    "percent_change": 0.1419181
+  },
+  {
+    "title": "Navigating Market Uncertainty: Intrinsic Value of Thermo Fisher Scientific Inc",
+    "published": 1712037660,
+    "posting_price": 569.09439063,
+    "close_price": 569.90203857,
+    "percent_change": 0.1419181
+  },
+  {
+    "title": "$100 Invested In This Stock 5 Years Ago Would Be Worth $200 Today",
+    "published": 1711963920,
+    "posting_price": 579.36455768,
+    "close_price": 575.77502441,
+    "percent_change": -0.61956383
   }
 ]

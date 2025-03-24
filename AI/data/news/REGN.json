@@ -1,23 +1,38 @@
 [
   {
     "title": "3 Reasons to Sell REGN and 1 Stock to Buy Instead",
-    "published": 1742547998
+    "published": 1742547998,
+    "posting_price": 658.0,
+    "close_price": 658.47998047,
+    "percent_change": 0.07294536
   },
   {
     "title": "Natera (NASDAQ:NTRA) Q4 Earnings: Leading The Immuno-Oncology Pack",
-    "published": 1742461785
+    "published": 1742461785,
+    "posting_price": 670.0,
+    "close_price": 662.61999512,
+    "percent_change": -1.10149327
   },
   {
     "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 to Brush Off",
-    "published": 1742216482
+    "published": 1742216482,
+    "posting_price": 668.26000977,
+    "close_price": 678.41998291,
+    "percent_change": 1.52036228
   },
   {
     "title": "Why Is Vertex (VRTX) Up 7.3% Since Last Earnings Report?",
-    "published": 1741793414
+    "published": 1741793414,
+    "posting_price": 709.94000244,
+    "close_price": 689.5,
+    "percent_change": -2.87911688
   },
   {
     "title": "S&P 500 Gains and Losses Today: Index Tumbles as Economic Concerns Intensify",
-    "published": 1741642380
+    "published": 1741642380,
+    "posting_price": 710.01000977,
+    "close_price": 744.83001709,
+    "percent_change": 4.90415724
   },
   {
     "title": "Dupixent\u00ae (dupilumab) Late-Breaking Positive Pivotal Data in Bullous Pemphigoid Presented at AAD",
@@ -25,10 +40,337 @@
   },
   {
     "title": "Why Is Regeneron (REGN) Down 4.1% Since Last Earnings Report?",
-    "published": 1741278672
+    "published": 1741278672,
+    "posting_price": 683.09997559,
+    "close_price": 698.44000244,
+    "percent_change": 2.24564887
   },
   {
     "title": "Regeneron Gets Positive CHMP Opinion for Multiple Myeloma Drug",
-    "published": 1741032000
+    "published": 1741032000,
+    "posting_price": 701.90997314,
+    "close_price": 684.86999512,
+    "percent_change": -2.42765863
+  },
+  {
+    "title": "UPDATE 1-Regeneron to defend against DOJ complaint on drug-price manipulation",
+    "published": 1713225553,
+    "posting_price": 914.19522318,
+    "close_price": 897.40679932,
+    "percent_change": -1.83641562
+  },
+  {
+    "title": "Regeneron to defend against DOJ complaint on drug-price manipulation",
+    "published": 1713223442,
+    "posting_price": 914.19522318,
+    "close_price": 897.40679932,
+    "percent_change": -1.83641562
+  },
+  {
+    "title": "Regeneron to defend US Justice Department's complaint on drug-pricing manipulation",
+    "published": 1713223204,
+    "posting_price": 914.19522318,
+    "close_price": 897.40679932,
+    "percent_change": -1.83641562
+  },
+  {
+    "title": "Regeneron Pharmaceuticals : Statement on Department of Justice Filing Related to EYLEA\u00ae (aflibercept) Injection 2 mg",
+    "published": 1713208027,
+    "posting_price": 914.19522318,
+    "close_price": 897.40679932,
+    "percent_change": -1.83641562
+  },
+  {
+    "title": "Regeneron commits $500M to new venture capital fund",
+    "published": 1713181500,
+    "posting_price": 914.19522318,
+    "close_price": 897.40679932,
+    "percent_change": -1.83641562
+  },
+  {
+    "title": "Antitrust fervor is gripping Washington and Silicon Valley. But lawsuits have been declining.",
+    "published": 1713106815
+  },
+  {
+    "title": "Regeneron (REGN) Accused of Fraudulent Practices Related to Eylea",
+    "published": 1712944440,
+    "posting_price": 910.38012491,
+    "close_price": 903.53894043,
+    "percent_change": -0.75146461
+  },
+  {
+    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
+    "published": 1712915280,
+    "posting_price": 910.38012491,
+    "close_price": 903.53894043,
+    "percent_change": -0.75146461
+  },
+  {
+    "title": "Breaking Down Regeneron Pharmaceuticals: 13 Analysts Share Their Views",
+    "published": 1712912640,
+    "posting_price": 910.38012491,
+    "close_price": 903.53894043,
+    "percent_change": -0.75146461
+  },
+  {
+    "title": "Analysts Are Bullish on These Healthcare Stocks: BioMarin Pharmaceutical (BMRN), Regeneron (REGN)",
+    "published": 1712907240,
+    "posting_price": 910.38012491,
+    "close_price": 903.53894043,
+    "percent_change": -0.75146461
+  },
+  {
+    "title": "Regeneron price target raised by $10 at BofA, here's why",
+    "published": 1712901600,
+    "posting_price": 910.38012491,
+    "close_price": 903.53894043,
+    "percent_change": -0.75146461
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Teladoc (TDOC), Instil Bio (TIL) and Regeneron (REGN)",
+    "published": 1712895660,
+    "posting_price": 910.38012491,
+    "close_price": 903.53894043,
+    "percent_change": -0.75146461
+  },
+  {
+    "title": "These Stocks Moved the Most Today: CarMax, Apple, Fastenal, Rivian, Alpine Immune, Nike, Robinhood, Constellation Brands, and More",
+    "published": 1712868180,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "Stocks to Watch Thursday: Robinhood, Alpine Immune, Constellation Brands",
+    "published": 1712843913,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "Are Regeneron's Legal Troubles \u2014 And Six-Week Slide \u2014 A Buying Opportunity?",
+    "published": 1712854911,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "Dow Jones Lower Despite PPI Inflation Relief; Nvidia, Microsoft Price Targets Raised",
+    "published": 1712845662,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "Regeneron hits three-month low after DOJ complaint; RBC defends",
+    "published": 1712837940,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "Regeneron Pharmaceuticals's Options: A Look at What the Big Money is Thinking",
+    "published": 1712834340,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "US sues Regeneron, alleging false price reporting on Eylea",
+    "published": 1712833560,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "RBC sees buying opportunity following Regeneron's 'overdone DOJ downside'",
+    "published": 1712833140,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "These Stocks Are Moving the Most Today: Alpine Immune, Vertex, Robinhood, Regeneron, Costco, Constellation Brands, CarMax, and More",
+    "published": 1712830200,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "DOJ files complaint against Regeneron over Eylea Medicare pricing",
+    "published": 1712822340,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "Regeneron (NASDAQ:REGN) Accused of Manipulating Pricing of Eylea",
+    "published": 1712817060,
+    "posting_price": 927.38826373,
+    "close_price": 919.13885498,
+    "percent_change": -0.88953129
+  },
+  {
+    "title": "US accuses Regeneron of fraudulent price reporting for eye drug",
+    "published": 1712782751,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "UPDATE 2-US accuses Regeneron of fraudulent price reporting for eye drug",
+    "published": 1712782369,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "US Justice department files complaint against Regeneron, alleges fraudulent drug pricing",
+    "published": 1712768351,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "An Intrinsic Calculation For Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) Suggests It's 47% Undervalued",
+    "published": 1712754010,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "Regeneron accused of \u2018fraudulent\u2019 drug-pricing reporting for eye drug Eylea",
+    "published": 1712741700,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "DOJ sues Regeneron over Eylea Medicare pricing",
+    "published": 1712722320,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "DOJ files false claims act complaint against Regeneron over drug pricing",
+    "published": 1712719620,
+    "posting_price": 933.81999587,
+    "close_price": 934.99847412,
+    "percent_change": 0.12619972
+  },
+  {
+    "title": "EXEL or REGN: Which Is the Better Value Stock Right Now?",
+    "published": 1712677212,
+    "posting_price": 940.18185834,
+    "close_price": 942.6786499,
+    "percent_change": 0.26556475
+  },
+  {
+    "title": "11 Best Biotech ETFs To Buy",
+    "published": 1712662637,
+    "posting_price": 940.18185834,
+    "close_price": 942.6786499,
+    "percent_change": 0.26556475
+  },
+  {
+    "title": "Video: S&P 500 Analyst Moves: REGN",
+    "published": 1712661960,
+    "posting_price": 940.18185834,
+    "close_price": 942.6786499,
+    "percent_change": 0.26556475
+  },
+  {
+    "title": "Regeneron Pharmaceuticals Achieves #96 Analyst Rank, Surpassing Costco Wholesale",
+    "published": 1712661900,
+    "posting_price": 940.18185834,
+    "close_price": 942.6786499,
+    "percent_change": 0.26556475
+  },
+  {
+    "title": "Regeneron (REGN) Receives a Buy from RBC Capital",
+    "published": 1712641560,
+    "posting_price": 940.18185834,
+    "close_price": 942.6786499,
+    "percent_change": 0.26556475
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Regeneron (REGN), Veeva Systems (VEEV) and Ultragenyx Pharmaceutical (RARE)",
+    "published": 1712638200,
+    "posting_price": 940.18185834,
+    "close_price": 942.6786499,
+    "percent_change": 0.26556475
+  },
+  {
+    "title": "Linvoseltamab Pivotal Data Presented at AACR Reinforce High Response Rate that Deepens Over Time in Patients with Heavily Pre-Treated Multiple Myeloma",
+    "published": 1712520000
+  },
+  {
+    "title": "Phathom Pharma, Rhythm, Vaxcyte most likely takeover targets in pharma - analyst",
+    "published": 1712473500
+  },
+  {
+    "title": "Regeneron presents pivotal data from Phase 1/2 LINKER-MM1 trial of linvoseltamab",
+    "published": 1712461800
+  },
+  {
+    "title": "Investors in Regeneron Pharmaceuticals (NASDAQ:REGN) have seen impressive returns of 146% over the past five years",
+    "published": 1712404890
+  },
+  {
+    "title": "Should You Sell This Stock Following a Regulatory Roadblock?",
+    "published": 1712314800,
+    "posting_price": 938.10450936,
+    "close_price": 941.49017334,
+    "percent_change": 0.36090478
+  },
+  {
+    "title": "Regeneron Pharmaceuticals Inc. stock rises Friday, still underperforms market",
+    "published": 1712288700,
+    "posting_price": 938.10450936,
+    "close_price": 941.49017334,
+    "percent_change": 0.36090478
+  },
+  {
+    "title": "Kodiak (KOD) Counts on Tarcocimab Program Despite Setbacks",
+    "published": 1712246940,
+    "posting_price": 960.96512041,
+    "close_price": 935.81744385,
+    "percent_change": -2.61691876
+  },
+  {
+    "title": "LLY, REGN, BHVN: Which Biotech Stock Offers the Most Upside?",
+    "published": 1712196187,
+    "posting_price": 960.96512041,
+    "close_price": 935.81744385,
+    "percent_change": -2.61691876
+  },
+  {
+    "title": "Biotech Roundtable: Who will bring the next CRISPR drug to market?",
+    "published": 1712054340,
+    "posting_price": 960.20610704,
+    "close_price": 953.45477295,
+    "percent_change": -0.70311301
+  },
+  {
+    "title": "5 Healthcare Stocks to Buy for 2024",
+    "published": 1712028660,
+    "posting_price": 960.20610704,
+    "close_price": 953.45477295,
+    "percent_change": -0.70311301
+  },
+  {
+    "title": "Regeneron to Report First Quarter 2024 Financial and Operating Results and Host Conference Call and Webcast on May 2, 2024",
+    "published": 1712001900,
+    "posting_price": 963.49183994,
+    "close_price": 968.065979,
+    "percent_change": 0.47474601
+  },
+  {
+    "title": "Here's How Much $100 Invested In Regeneron Pharmaceuticals 10 Years Ago Would Be Worth Today",
+    "published": 1711938960,
+    "posting_price": 963.49183994,
+    "close_price": 968.065979,
+    "percent_change": 0.47474601
   }
 ]

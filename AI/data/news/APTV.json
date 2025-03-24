@@ -1,31 +1,52 @@
 [
   {
     "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1742565906
+    "published": 1742565906,
+    "posting_price": 61.72000122,
+    "close_price": 62.45000076,
+    "percent_change": 1.18276009
   },
   {
     "title": "Top auto tech stocks for investors unimpressed by Tesla",
-    "published": 1742505107
+    "published": 1742505107,
+    "posting_price": 62.22999954,
+    "close_price": 62.47999954,
+    "percent_change": 0.4017355
   },
   {
     "title": "Here's Why Aptiv PLC (APTV) is a Strong Value Stock",
-    "published": 1742391608
+    "published": 1742391608,
+    "posting_price": 63.13999939,
+    "close_price": 62.72999954,
+    "percent_change": -0.64935042
   },
   {
     "title": "Aptiv PLC (APTV) is a Top-Ranked Growth Stock: Should You Buy?",
-    "published": 1741185912
+    "published": 1741185912,
+    "posting_price": 64.12000275,
+    "close_price": 65.08999634,
+    "percent_change": 1.51277846
   },
   {
     "title": "Here's Why You Should Retain Aptiv Stock in Your Portfolio Now",
-    "published": 1741098180
+    "published": 1741098180,
+    "posting_price": 62.90999985,
+    "close_price": 62.79999924,
+    "percent_change": -0.17485393
   },
   {
     "title": "Why Aptiv PLC (APTV) is a Top Value Stock for the Long-Term",
-    "published": 1741012811
+    "published": 1741012811,
+    "posting_price": 65.83999634,
+    "close_price": 64.01000214,
+    "percent_change": -2.77945672
   },
   {
     "title": "Why This 1 Momentum Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1740754207
+    "published": 1740754207,
+    "posting_price": 64.90000153,
+    "close_price": 65.12000275,
+    "percent_change": 0.33898492
   },
   {
     "title": "Here's Why Aptiv PLC (APTV) is a Strong Growth Stock",
@@ -33,6 +54,125 @@
   },
   {
     "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1739544008
+    "published": 1739544008,
+    "posting_price": 67.11000061,
+    "close_price": 67.0,
+    "percent_change": -0.16391091
+  },
+  {
+    "title": "Tesla FSD price cut a 'sensible move,' says Citi",
+    "published": 1713161400,
+    "posting_price": 74.44999695,
+    "close_price": 73.01000214,
+    "percent_change": -1.93417712
+  },
+  {
+    "title": "10 Most Undervalued Value Stocks To Buy Now",
+    "published": 1713024733
+  },
+  {
+    "title": "Stocks likely to beat and miss their earnings expectations - BofA",
+    "published": 1712889000,
+    "posting_price": 75.09999847,
+    "close_price": 74.19000244,
+    "percent_change": -1.21171245
+  },
+  {
+    "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+    "published": 1712839320,
+    "posting_price": 75.19999695,
+    "close_price": 75.76999664,
+    "percent_change": 0.75797834
+  },
+  {
+    "title": "The Latest Analyst Ratings For Aptiv",
+    "published": 1712833620,
+    "posting_price": 75.19999695,
+    "close_price": 75.76999664,
+    "percent_change": 0.75797834
+  },
+  {
+    "title": "Is There An Opportunity With Aptiv PLC's (NYSE:APTV) 20% Undervaluation?",
+    "published": 1712773618,
+    "posting_price": 77.0,
+    "close_price": 74.94999695,
+    "percent_change": -2.66234162
+  },
+  {
+    "title": "ClearBridge Mid Cap Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712750400,
+    "posting_price": 77.0,
+    "close_price": 74.94999695,
+    "percent_change": -2.66234162
+  },
+  {
+    "title": "Aptiv price target lowered by $2 at Barclays, here's why",
+    "published": 1712722980,
+    "posting_price": 77.0,
+    "close_price": 74.94999695,
+    "percent_change": -2.66234162
+  },
+  {
+    "title": "Uber, Aptiv And A Major Airline Stock On CNBC's 'Final Trades'",
+    "published": 1712649600,
+    "posting_price": 76.51000214,
+    "close_price": 78.93000031,
+    "percent_change": 3.16298275
+  },
+  {
+    "title": "Bank of America Securities Sticks to Its Buy Rating for Aptiv (APTV)",
+    "published": 1712565960,
+    "posting_price": 75.19999695,
+    "close_price": 76.06999969,
+    "percent_change": 1.15691858
+  },
+  {
+    "title": "ClearBridge Large Cap Growth ESG Strategy Q2 2024 Portfolio Manager Commentary",
+    "published": 1712314200,
+    "posting_price": 75.52999878,
+    "close_price": 74.73000336,
+    "percent_change": -1.05917574
+  },
+  {
+    "title": "Tesla's Troubles Signal A Speed Bump For Investors In The EV Story",
+    "published": 1712301600,
+    "posting_price": 75.52999878,
+    "close_price": 74.73000336,
+    "percent_change": -1.05917574
+  },
+  {
+    "title": "Here's Why You Should Hold Aptiv (APTV) Stock in Your Portfolio",
+    "published": 1712243400,
+    "posting_price": 78.41999817,
+    "close_price": 75.26999664,
+    "percent_change": -4.01683449
+  },
+  {
+    "title": "Will Aptiv (APTV) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712160616,
+    "posting_price": 76.83999634,
+    "close_price": 77.56999969,
+    "percent_change": 0.95003043
+  },
+  {
+    "title": "Top 7 buy-rated stocks in Consumer Discretionary - Citi",
+    "published": 1712140680,
+    "posting_price": 76.83999634,
+    "close_price": 77.56999969,
+    "percent_change": 0.95003043
+  },
+  {
+    "title": "Wells Fargo Sticks to Their Hold Rating for Aptiv (APTV)",
+    "published": 1711947600,
+    "posting_price": 80.12999725,
+    "close_price": 78.79000092,
+    "percent_change": -1.67227802
+  },
+  {
+    "title": "RBC Canadian Equity Income Fund's Latest Moves Highlight AltaGas Ltd's -0.73% Portfolio Impact",
+    "published": 1711940520,
+    "posting_price": 80.12999725,
+    "close_price": 78.79000092,
+    "percent_change": -1.67227802
   }
 ]

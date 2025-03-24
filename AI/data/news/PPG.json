@@ -1,62 +1,290 @@
 [
   {
     "title": "PPG Industries' (NYSE:PPG) investors will be pleased with their favorable 36% return over the last five years",
-    "published": 1742555254
+    "published": 1742555254,
+    "posting_price": 110.25,
+    "close_price": 110.73000336,
+    "percent_change": 0.4353772
   },
   {
     "title": "PPG recognizes GNE Paint & Supplies Inc. as 2024 Automotive Refinish Platinum Distributor of the Year",
-    "published": 1742216400
+    "published": 1742216400,
+    "posting_price": 113.43000031,
+    "close_price": 113.83999634,
+    "percent_change": 0.3614529
   },
   {
     "title": "PPG recognized as \u2018Exceptional Workplace\u2019 by Gallup for third consecutive year",
-    "published": 1741877880
+    "published": 1741877880,
+    "posting_price": 111.04000092,
+    "close_price": 111.36000061,
+    "percent_change": 0.28818416
   },
   {
     "title": "PPG CORAFLON Platinum powder coating exhibits 20 times the color retention of competitor products",
-    "published": 1741102200
+    "published": 1741102200,
+    "posting_price": 111.5,
+    "close_price": 109.29000092,
+    "percent_change": -1.98206196
   },
   {
     "title": "PPG recognized as only paints and coatings manufacturer on Barron\u2019s 100 Most Sustainable U.S. Companies list for second year",
-    "published": 1741014120
+    "published": 1741014120,
+    "posting_price": 114.94999695,
+    "close_price": 111.72000122,
+    "percent_change": -2.80991372
   },
   {
     "title": "UK's best and worst DIY retailers revealed",
-    "published": 1740636003
+    "published": 1740636003,
+    "posting_price": 114.69999695,
+    "close_price": 113.68000031,
+    "percent_change": -0.88927347
   },
   {
     "title": "PPG Board of Directors ranks among top ten in study of governance capacity",
-    "published": 1740596400
+    "published": 1740596400,
+    "posting_price": 114.73000336,
+    "close_price": 115.04000092,
+    "percent_change": 0.27019746
   },
   {
     "title": "Bear of the Day: PPG Industries (PPG)",
-    "published": 1740481200
+    "published": 1740481200,
+    "posting_price": 114.31999969,
+    "close_price": 114.38999939,
+    "percent_change": 0.06123137
   },
   {
     "title": "Affirm and PPG have been highlighted as Zacks Bull and Bear of the Day",
-    "published": 1740477600
+    "published": 1740477600,
+    "posting_price": 114.31999969,
+    "close_price": 114.38999939,
+    "percent_change": 0.06123137
   },
   {
     "title": "PPG, PPG Foundation invested $18.4 million in communities worldwide in 2024",
-    "published": 1739973600
+    "published": 1739973600,
+    "posting_price": 115.8280201,
+    "close_price": 116.11634827,
+    "percent_change": 0.24892782
   },
   {
     "title": "PPG global leaders transform Boys & Girls Club in Florida, celebrate 10 years of COLORFUL COMMUNITIES program",
-    "published": 1739282400
+    "published": 1739282400,
+    "posting_price": 113.62082143,
+    "close_price": 114.24719238,
+    "percent_change": 0.55128184
   },
   {
     "title": "PPG and Tasca Racing gear up for 2025 drag racing season",
-    "published": 1738850400
+    "published": 1738850400,
+    "posting_price": 112.63653749,
+    "close_price": 115.23148346,
+    "percent_change": 2.30382257
   },
   {
     "title": "PPG Unveils Non-BPA HOBA Coatings for Aluminum Bottles",
-    "published": 1738840740
+    "published": 1738840740,
+    "posting_price": 112.63653749,
+    "close_price": 115.23148346,
+    "percent_change": 2.30382257
   },
   {
     "title": "PPG will extend COLORFUL COMMUNITIES program through 2035",
-    "published": 1738677600
+    "published": 1738677600,
+    "posting_price": 112.69618565,
+    "close_price": 110.62818146,
+    "percent_change": -1.8350259
   },
   {
     "title": "PPG livery to appear in NASCAR Cup Series and NTT INDYCAR SERIES",
-    "published": 1738605600
+    "published": 1738605600,
+    "posting_price": 113.19330429,
+    "close_price": 111.34403229,
+    "percent_change": -1.63372914
+  },
+  {
+    "title": "Calculating The Intrinsic Value Of PPG Industries, Inc. (NYSE:PPG)",
+    "published": 1713193034,
+    "posting_price": 132.96938102,
+    "close_price": 132.10836792,
+    "percent_change": -0.64752734
+  },
+  {
+    "title": "Exploring Analyst Estimates for PPG Industries (PPG) Q1 Earnings, Beyond Revenue and EPS",
+    "published": 1713186938,
+    "posting_price": 132.96938102,
+    "close_price": 132.10836792,
+    "percent_change": -0.64752734
+  },
+  {
+    "title": "16 Best Dividend Stocks of All Time",
+    "published": 1713181416,
+    "posting_price": 132.96938102,
+    "close_price": 132.10836792,
+    "percent_change": -0.64752734
+  },
+  {
+    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
+    "published": 1713178620,
+    "posting_price": 132.96938102,
+    "close_price": 132.10836792,
+    "percent_change": -0.64752734
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "11 Best Nanotechnology Stocks To Invest In",
+    "published": 1713016952
+  },
+  {
+    "title": "10 Best US Chemical Stocks To Invest In Now",
+    "published": 1712878390,
+    "posting_price": 135.53287975,
+    "close_price": 134.63272095,
+    "percent_change": -0.66416268
+  },
+  {
+    "title": "Wells Fargo Upgrades PPG Industries (PPG)",
+    "published": 1712868863,
+    "posting_price": 135.53287975,
+    "close_price": 134.63272095,
+    "percent_change": -0.66416268
+  },
+  {
+    "title": "Here's Why PPG Industries (PPG) is a Strong Growth Stock",
+    "published": 1712843105,
+    "posting_price": 135.53287975,
+    "close_price": 134.63272095,
+    "percent_change": -0.66416268
+  },
+  {
+    "title": "May 31st Options Now Available For PPG Industries",
+    "published": 1712828520,
+    "posting_price": 135.53287975,
+    "close_price": 134.63272095,
+    "percent_change": -0.66416268
+  },
+  {
+    "title": "PPG Industries : to support WorldSkills Lyon 2024 vocational skills competition",
+    "published": 1712743391,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "PPG Industries (PPG): New Buy Recommendation for This Basic Materials Giant",
+    "published": 1712741820,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "PPG Industries (PPG) Gets a Hold from RBC Capital",
+    "published": 1712739000,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "PPG price target lowered by $9 at Citi, here's why",
+    "published": 1712725260,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "Fly Intel: After-Hours Movers",
+    "published": 1712723760,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "Wells Fargo upgraded PPG to Overweight, sees Q2 as turning point for volume",
+    "published": 1712720640,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "Wells Fargo gets more bullish on PPG, upgrades shares",
+    "published": 1712720220,
+    "posting_price": 136.71680471,
+    "close_price": 134.75993347,
+    "percent_change": -1.4313319
+  },
+  {
+    "title": "7 Analysts Have This To Say About PPG Indus",
+    "published": 1712646120,
+    "posting_price": 137.70502215,
+    "close_price": 139.13352966,
+    "percent_change": 1.03736776
+  },
+  {
+    "title": "PPG price target lowered by $3 at KeyBanc, here's why",
+    "published": 1712640720,
+    "posting_price": 137.70502215,
+    "close_price": 139.13352966,
+    "percent_change": 1.03736776
+  },
+  {
+    "title": "PPG Industries Inc. stock outperforms competitors on strong trading day",
+    "published": 1712635440,
+    "posting_price": 137.70502215,
+    "close_price": 139.13352966,
+    "percent_change": 1.03736776
+  },
+  {
+    "title": "Finding Bargain Stocks Is Tough Right Now. 6 That Can Pop After Earnings.",
+    "published": 1712600400,
+    "posting_price": 136.7559182,
+    "close_price": 136.89289856,
+    "percent_change": 0.10016412
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights PPG Industries, Daqo New Energy, Hawkins and American Vanguard",
+    "published": 1712581020,
+    "posting_price": 136.7559182,
+    "close_price": 136.89289856,
+    "percent_change": 0.10016412
+  },
+  {
+    "title": "Buy-rated stocks within Materials - Citi",
+    "published": 1712320920,
+    "posting_price": 136.49175867,
+    "close_price": 136.04167175,
+    "percent_change": -0.32975392
+  },
+  {
+    "title": "4 Chemical Specialty Stocks to Gain From Demand Recovery",
+    "published": 1712316780,
+    "posting_price": 136.49175867,
+    "close_price": 136.04167175,
+    "percent_change": -0.32975392
+  },
+  {
+    "title": "PPG Industries, Inc. (PPG) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712149211,
+    "posting_price": 138.64430841,
+    "close_price": 138.67366028,
+    "percent_change": 0.02117063
+  },
+  {
+    "title": "PPG Industries (PPG) Dips More Than Broader Market: What You Should Know",
+    "published": 1712095218,
+    "posting_price": 140.00433446,
+    "close_price": 138.60517883,
+    "percent_change": -0.99936594
+  },
+  {
+    "title": "PPG Industries' (NYSE:PPG) investors will be pleased with their notable 38% return over the last five years",
+    "published": 1711978735,
+    "posting_price": 141.99055414,
+    "close_price": 140.28808594,
+    "percent_change": -1.19900103
   }
 ]

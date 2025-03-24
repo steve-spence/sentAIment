@@ -1,34 +1,150 @@
 [
   {
     "title": "U.S. tower stock valuations refreshed at MoffettNathanson",
-    "published": 1742481365
+    "published": 1742481365,
+    "posting_price": 220.05999756,
+    "close_price": 220.97000122,
+    "percent_change": 0.41352525
   },
   {
     "title": "Here's Why You Should Add SBA Communications Stock to Your Portfolio",
-    "published": 1742405640
+    "published": 1742405640,
+    "posting_price": 221.19000244,
+    "close_price": 219.78999329,
+    "percent_change": -0.63294414
   },
   {
     "title": "Bet on These 3 Equity REIT Stocks Despite Industry Challenges",
-    "published": 1742314800
+    "published": 1742314800,
+    "posting_price": 220.36999512,
+    "close_price": 223.1499939,
+    "percent_change": 1.2615142
   },
   {
     "title": "SBAC Stock Has Risen 10.4% Year to Date: Will the Trend Continue?",
-    "published": 1741702740
+    "published": 1741702740,
+    "posting_price": 223.25934167,
+    "close_price": 219.28979492,
+    "percent_change": -1.77799805
   },
   {
     "title": "SBA Communications Q4 AFFO & Revenues Beat Estimates, Dividend Hiked",
-    "published": 1740495000
+    "published": 1740495000,
+    "posting_price": 219.36938586,
+    "close_price": 218.04620361,
+    "percent_change": -0.60317544
   },
   {
     "title": "SBA Communications: Q4 Earnings Snapshot",
-    "published": 1740432204
+    "published": 1740432204,
+    "posting_price": 212.00733379,
+    "close_price": 211.74865723,
+    "percent_change": -0.12201302
   },
   {
     "title": "What's in the Cards for SBA Communications This Earnings Season?",
-    "published": 1739974500
+    "published": 1739974500,
+    "posting_price": 205.15266745,
+    "close_price": 206.70466614,
+    "percent_change": 0.75650914
   },
   {
     "title": "Here\u2019s Why SBA Communications (SBAC) Declined in Q4",
-    "published": 1738070949
+    "published": 1738070949,
+    "posting_price": 206.28682439,
+    "close_price": 200.63594055,
+    "percent_change": -2.73933338
+  },
+  {
+    "title": "SBA Communications Q4: A Dividend Growth Machine For Your Income Portfolio",
+    "published": 1713200400,
+    "posting_price": 198.26346183,
+    "close_price": 196.08538818,
+    "percent_change": -1.09857542
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 198.26346183,
+    "close_price": 196.08538818,
+    "percent_change": -1.09857542
+  },
+  {
+    "title": "Crown Castle Q1 Earnings Preview: Patience Is The Key",
+    "published": 1713168099,
+    "posting_price": 198.26346183,
+    "close_price": 196.08538818,
+    "percent_change": -1.09857542
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Akre Focus Fund Q1 2024 Commentary",
+    "published": 1712911200,
+    "posting_price": 200.24532658,
+    "close_price": 198.02799988,
+    "percent_change": -1.10730509
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 201.99168837,
+    "close_price": 201.1675415,
+    "percent_change": -0.40801029
+  },
+  {
+    "title": "3 Strong Buys For The Millionaire Next Door",
+    "published": 1712818800,
+    "posting_price": 201.99168837,
+    "close_price": 201.1675415,
+    "percent_change": -0.40801029
+  },
+  {
+    "title": "SBA Communications (SBAC) Gets a Buy from Wells Fargo",
+    "published": 1712811540,
+    "posting_price": 201.99168837,
+    "close_price": 201.1675415,
+    "percent_change": -0.40801029
+  },
+  {
+    "title": "Akre Capital's Akre Focus Fund 1st-Quarter Commentary: A Recap",
+    "published": 1712803560,
+    "posting_price": 201.99168837,
+    "close_price": 201.1675415,
+    "percent_change": -0.40801029
+  },
+  {
+    "title": "Stocks Sink On Worrisome Inflation Data, Yields Spike On Rate Cut Delays, Dollar Rallies: What's Driving Markets Wednesday?",
+    "published": 1712751480,
+    "posting_price": 205.77878948,
+    "close_price": 200.52001953,
+    "percent_change": -2.55554519
+  },
+  {
+    "title": "SBA Communications Corporation Sets Date for First Quarter 2024 Earnings Release",
+    "published": 1712585460,
+    "posting_price": 208.69269265,
+    "close_price": 208.98701477,
+    "percent_change": 0.14103135
+  },
+  {
+    "title": "Crown Castle Presents A Buying Opportunity With A 6.18% Dividend Yield",
+    "published": 1712566800,
+    "posting_price": 208.69269265,
+    "close_price": 208.98701477,
+    "percent_change": 0.14103135
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Buy-rated and sell-rated stocks within the Real Estate sector - Citi",
+    "published": 1712319180,
+    "posting_price": 207.99610622,
+    "close_price": 209.36965942,
+    "percent_change": 0.66037448
   }
 ]

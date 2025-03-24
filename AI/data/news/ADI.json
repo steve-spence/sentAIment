@@ -1,34 +1,237 @@
 [
   {
     "title": "Analog Semiconductors Stocks Q4 In Review: Microchip Technology (NASDAQ:MCHP) Vs Peers",
-    "published": 1742461460
+    "published": 1742461460,
+    "posting_price": 208.16999817,
+    "close_price": 205.8999939,
+    "percent_change": -1.09045698
   },
   {
     "title": "Citi is bullish on analog chip stocks, highlights Texas Instruments",
-    "published": 1742391966
+    "published": 1742391966,
+    "posting_price": 209.19000244,
+    "close_price": 209.97000122,
+    "percent_change": 0.37286618
   },
   {
     "title": "How chip firms have fared since Trump's inauguration, from Nvidia to Intel",
-    "published": 1742191206
+    "published": 1742191206,
+    "posting_price": 207.75,
+    "close_price": 211.67999268,
+    "percent_change": 1.89169323
   },
   {
     "title": "Q4 Rundown: Impinj (NASDAQ:PI) Vs Other Analog Semiconductors Stocks",
-    "published": 1741856826
+    "published": 1741856826,
+    "posting_price": 206.0,
+    "close_price": 203.80000305,
+    "percent_change": -1.06795968
   },
   {
     "title": "Citi Still Backs Micron, Broadcom-Here's Why AI Investors Should Pay Attention",
-    "published": 1741358019
+    "published": 1741358019,
+    "posting_price": 223.58999634,
+    "close_price": 225.86000061,
+    "percent_change": 1.01525306
   },
   {
     "title": "Reflecting On Analog Semiconductors Stocks\u2019 Q4 Earnings: Power Integrations (NASDAQ:POWI)",
-    "published": 1740560485
+    "published": 1740560485,
+    "posting_price": 234.0218062,
+    "close_price": 232.71748352,
+    "percent_change": -0.55735092
   },
   {
     "title": "3 US Stocks Estimated To Be Trading Below Their Intrinsic Values",
-    "published": 1740391344
+    "published": 1740391344,
+    "posting_price": 239.23910467,
+    "close_price": 235.96336365,
+    "percent_change": -1.3692331
   },
   {
     "title": "GlobalFoundries, Analog Devices push diversification as tariffs loom",
-    "published": 1740133380
+    "published": 1740133380,
+    "posting_price": 243.8689562,
+    "close_price": 237.87504578,
+    "percent_change": -2.45784068
+  },
+  {
+    "title": "Estimating The Intrinsic Value Of Analog Devices, Inc. (NASDAQ:ADI)",
+    "published": 1713186030,
+    "posting_price": 191.76705595,
+    "close_price": 187.18313599,
+    "percent_change": -2.39035842
+  },
+  {
+    "title": "Analog Devices initiated with bullish view at Evercore ISI, here's why",
+    "published": 1713150780,
+    "posting_price": 191.76705595,
+    "close_price": 187.18313599,
+    "percent_change": -2.39035842
+  },
+  {
+    "title": "11 Best Nanotechnology Stocks To Invest In",
+    "published": 1713016952
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights ServiceNow, The Progressive, Analog Devices, The Southern Company and Welltower",
+    "published": 1712927220,
+    "posting_price": 191.8457457,
+    "close_price": 189.1308136,
+    "percent_change": -1.41516409
+  },
+  {
+    "title": "Steven Romick's Strategic Exits and New Positions in Q1 2024, Highlighting AIG's Departure",
+    "published": 1712916120,
+    "posting_price": 191.8457457,
+    "close_price": 189.1308136,
+    "percent_change": -1.41516409
+  },
+  {
+    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
+    "published": 1712915280,
+    "posting_price": 191.8457457,
+    "close_price": 189.1308136,
+    "percent_change": -1.41516409
+  },
+  {
+    "title": "Mouser Electronics and Analog Devices Deliver Expert Perspectives on Flexible Manufacturing in New eBook",
+    "published": 1712908493,
+    "posting_price": 191.8457457,
+    "close_price": 189.1308136,
+    "percent_change": -1.41516409
+  },
+  {
+    "title": "Navitas Semiconductor: End Market Demand Continues To Be Strong",
+    "published": 1712907742,
+    "posting_price": 191.8457457,
+    "close_price": 189.1308136,
+    "percent_change": -1.41516409
+  },
+  {
+    "title": "Intel, AMD lead chips lower on China worries; investors await earnings",
+    "published": 1712888340,
+    "posting_price": 191.8457457,
+    "close_price": 189.1308136,
+    "percent_change": -1.41516409
+  },
+  {
+    "title": "Top Research Reports for ServiceNow, Progressive & Analog Devices",
+    "published": 1712860260,
+    "posting_price": 194.72794478,
+    "close_price": 195.39683533,
+    "percent_change": 0.34350003
+  },
+  {
+    "title": "Is It Too Late To Consider Buying Analog Devices, Inc. (NASDAQ:ADI)?",
+    "published": 1712840412,
+    "posting_price": 194.72794478,
+    "close_price": 195.39683533,
+    "percent_change": 0.34350003
+  },
+  {
+    "title": "What Is The Most Undervalued MANGO (Semiconductor) Stock Right Now?",
+    "published": 1712665980,
+    "posting_price": 195.26894668,
+    "close_price": 200.78735352,
+    "percent_change": 2.82605449
+  },
+  {
+    "title": "Nvidia, Micron, Qualcomm in focus as KeyBanc boosts estimates on China, AI hopes",
+    "published": 1712562960,
+    "posting_price": 191.45228889,
+    "close_price": 193.47865295,
+    "percent_change": 1.05841725
+  },
+  {
+    "title": "Ahead Of Chip Earnings, Analyst Turns More Bullish On Nvidia And These Semiconductor Stocks On Robust AI Demand",
+    "published": 1712561460,
+    "posting_price": 191.45228889,
+    "close_price": 193.47865295,
+    "percent_change": 1.05841725
+  },
+  {
+    "title": "Analog Devices, Synopsys And 2 Other Stocks Insiders Are Selling",
+    "published": 1712559960,
+    "posting_price": 191.45228889,
+    "close_price": 193.47865295,
+    "percent_change": 1.05841725
+  },
+  {
+    "title": "Analog Devices, Inc. (NASDAQ:ADI) is largely controlled by institutional shareholders who own 89% of the company",
+    "published": 1712322011,
+    "posting_price": 189.48494107,
+    "close_price": 191.58015442,
+    "percent_change": 1.10574135
+  },
+  {
+    "title": "Insider Sell: EVP, Global Operations Vivek Jain Sells 3,479 Shares of Analog Devices Inc (ADI)",
+    "published": 1712316720,
+    "posting_price": 189.48494107,
+    "close_price": 191.58015442,
+    "percent_change": 1.10574135
+  },
+  {
+    "title": "Analog Devices Inc. stock underperforms Friday when compared to competitors despite daily gains",
+    "published": 1712288700,
+    "posting_price": 189.48494107,
+    "close_price": 191.58015442,
+    "percent_change": 1.10574135
+  },
+  {
+    "title": "May 24th Options Now Available For Analog Devices (ADI)",
+    "published": 1712225040,
+    "posting_price": 195.1115566,
+    "close_price": 188.81604004,
+    "percent_change": -3.22662413
+  },
+  {
+    "title": "Analog Semiconductors Stocks Q4 In Review: Monolithic Power Systems (NASDAQ:MPWR) Vs Peers",
+    "published": 1712220374,
+    "posting_price": 195.1115566,
+    "close_price": 188.81604004,
+    "percent_change": -3.22662413
+  },
+  {
+    "title": "Analog Semiconductors Stocks Q4 Highlights: Analog Devices (NASDAQ:ADI)",
+    "published": 1712137678,
+    "posting_price": 189.84889542,
+    "close_price": 192.17036438,
+    "percent_change": 1.22279824
+  },
+  {
+    "title": "The 3 Most Undervalued Nasdaq 100 Stocks to Buy in April 2024",
+    "published": 1712089800,
+    "posting_price": 192.03265691,
+    "close_price": 191.69821167,
+    "percent_change": -0.17416061
+  },
+  {
+    "title": "Semiconductors Winners And Losers Heading Into Q2 2024",
+    "published": 1712074851,
+    "posting_price": 192.03265691,
+    "close_price": 191.69821167,
+    "percent_change": -0.17416061
+  },
+  {
+    "title": "Fitch Rates Analog Devices' Senior Notes Offering 'A'",
+    "published": 1712034913,
+    "posting_price": 192.03265691,
+    "close_price": 191.69821167,
+    "percent_change": -0.17416061
+  },
+  {
+    "title": "Analog Devices Inc (ADI)'s Winning Formula: Financial Metrics and Competitive Strengths",
+    "published": 1711965900,
+    "posting_price": 194.17705382,
+    "close_price": 193.40979004,
+    "percent_change": -0.39513617
+  },
+  {
+    "title": "Citi stays bullish on chips as February sales top average; memory seen as key driver",
+    "published": 1711956300,
+    "posting_price": 194.17705382,
+    "close_price": 193.40979004,
+    "percent_change": -0.39513617
   }
 ]

@@ -1,58 +1,416 @@
 [
   {
+    "title": "Missouri American Water Accepts Applications for Hydration Station Grants",
+    "published": 1742814000,
+    "posting_price": 140.19000244,
+    "close_price": 140.19999695,
+    "percent_change": 0.00712926
+  },
+  {
     "title": "American Water Commemorates World Water Day by Ringing The Opening Bell at The New York Stock Exchange",
-    "published": 1742580060
+    "published": 1742580060,
+    "posting_price": 141.83000183,
+    "close_price": 141.13000488,
+    "percent_change": -0.49354646
   },
   {
     "title": "California American Water Invests $162 Million in System Upgrades Statewide in 2024",
-    "published": 1742577660
+    "published": 1742577660,
+    "posting_price": 141.83000183,
+    "close_price": 141.13000488,
+    "percent_change": -0.49354646
   },
   {
     "title": "NYSE Content advisory: Pre-Market update + Stocks try for weekly gains",
-    "published": 1742561700
+    "published": 1742561700,
+    "posting_price": 141.83000183,
+    "close_price": 141.13000488,
+    "percent_change": -0.49354646
   },
   {
     "title": "American Water Named on Forbes America's Best Large Employers 2025 List",
-    "published": 1742483760
+    "published": 1742483760,
+    "posting_price": 142.50999451,
+    "close_price": 141.80999756,
+    "percent_change": -0.49119148
   },
   {
     "title": "Illinois American Water Completes Two Major Water Main Projects in Pekin",
-    "published": 1742392800
+    "published": 1742392800,
+    "posting_price": 144.0,
+    "close_price": 142.05000305,
+    "percent_change": -1.35416455
   },
   {
     "title": "American Water Unit Invests $675M in 2024 to Upgrade Infrastructure",
-    "published": 1742226660
+    "published": 1742226660,
+    "posting_price": 144.41000366,
+    "close_price": 144.82000732,
+    "percent_change": 0.28391638
   },
   {
     "title": "American Water Shares Tips to Find and Fix Leaks During U.S. Environmental Protection Agency\u2019s Fix a Leak Week 2025",
-    "published": 1742221800
+    "published": 1742221800,
+    "posting_price": 144.41000366,
+    "close_price": 144.82000732,
+    "percent_change": 0.28391638
   },
   {
     "title": "Buy 5 Low-Beta High-Yielding Stocks Amid Sagging Consumer Sentiment",
-    "published": 1742213160
+    "published": 1742213160,
+    "posting_price": 144.41000366,
+    "close_price": 144.82000732,
+    "percent_change": 0.28391638
   },
   {
     "title": "Return Trends At American Water Works Company (NYSE:AWK) Aren't Appealing",
-    "published": 1741886502
+    "published": 1741886502,
+    "posting_price": 141.46000671,
+    "close_price": 142.53999329,
+    "percent_change": 0.76345718
   },
   {
     "title": "Pennsylvania American Water Invests $675 Million in System Upgrades Statewide in 2024",
-    "published": 1741874520
+    "published": 1741874520,
+    "posting_price": 141.46000671,
+    "close_price": 142.53999329,
+    "percent_change": 0.76345718
   },
   {
     "title": "American Water Highlights Digital Options to Manage Your Customer Account and Stay Informed",
-    "published": 1741874400
+    "published": 1741874400,
+    "posting_price": 141.46000671,
+    "close_price": 142.53999329,
+    "percent_change": 0.76345718
   },
   {
     "title": "3 Utility Water Supply Stocks to Watch Amid Industry Concerns",
-    "published": 1741711200
+    "published": 1741711200,
+    "posting_price": 148.78999329,
+    "close_price": 143.42999268,
+    "percent_change": -3.60239321
   },
   {
     "title": "4 Safe-Haven Stocks to Buy Amid Growing Recession Fears",
-    "published": 1741707720
+    "published": 1741707720,
+    "posting_price": 148.78999329,
+    "close_price": 143.42999268,
+    "percent_change": -3.60239321
   },
   {
-    "title": "If You Invested $1000 in American Water Works 10 Years Ago, This Is How Much You'd Have Now",
-    "published": 1741696202
+    "title": "American Water Named 2024 Public Company Board of the Year by National Association of Corporate Directors New Jersey Chapter",
+    "published": 1713208260,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "Sysco And Grainger Among 10 Companies To Announce Annual Dividend Increases In Second Half Of April",
+    "published": 1713200870,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "Zacks Industry Outlook Highlights American Water Works, American States Water, Global Water Resources Consolidated Water",
+    "published": 1713187740,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "5 Safe Stocks to Buy as Consumer Sentiment Takes a Hit",
+    "published": 1713187380,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "4 Low-Beta Utility Stocks to Buy Amid Rate Cut Uncertainty",
+    "published": 1713185880,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "5 Safe Stocks to Buy as Severe Volatility Grips Wall Street",
+    "published": 1713183360,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "Low-Income Customers of California American Water Affected by the COVID-19 Pandemic Receive Additional $8.3 Million in Relief",
+    "published": 1713178800,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "American Water Works : Low-Income Customers of California American Water Affected by the COVI...",
+    "published": 1713156906,
+    "posting_price": 114.07472078,
+    "close_price": 113.35149384,
+    "percent_change": -0.63399405
+  },
+  {
+    "title": "4 Stocks To Buy From The Booming Water Supply Industry",
+    "published": 1713060000
+  },
+  {
+    "title": "American Water Works : Virginia American Water Announces Upcoming Annual Spring Hydrant Flush...",
+    "published": 1712943666,
+    "posting_price": 115.19865628,
+    "close_price": 113.92811584,
+    "percent_change": -1.10291255
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Atmos Energy, American Water Works, Global Water Resources and Lancaster Colony",
+    "published": 1712927820,
+    "posting_price": 115.19865628,
+    "close_price": 113.92811584,
+    "percent_change": -1.10291255
+  },
+  {
+    "title": "Spire (SR) to Gain From Investments and Expanding Customer Base",
+    "published": 1712926500,
+    "posting_price": 115.19865628,
+    "close_price": 113.92811584,
+    "percent_change": -1.10291255
+  },
+  {
+    "title": "American Water Works (AWK) Stock Sinks As Market Gains: What You Should Know",
+    "published": 1712872820,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "American Water Publishes 2023 ESG Data Summary and Inclusion, Diversity & Equity Summary",
+    "published": 1712860080,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "The past three years for American Water Works Company (NYSE:AWK) investors has not been profitable",
+    "published": 1712858821,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "American Water Works : New Jersey American Water Launches 2024 Water UP! Training Program in ...",
+    "published": 1712850907,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "American Water Works : Publishes 2023 ESG Data Summary and Inclusion, Diversit...",
+    "published": 1712845868,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "American Water Works : Greenhouse Gas Emissions Goals & Profile",
+    "published": 1712829192,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "4 Low-Beta Stocks to Buy on Hotter-Than-Expected Inflation",
+    "published": 1712827620,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "Wall Street Breakfast Podcast: U.S. Regulation Targets 'Forever Chemicals' In Water",
+    "published": 1712817923,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "New PFAS limits in drinking water renew compliance cost fears",
+    "published": 1712806320,
+    "posting_price": 116.51806052,
+    "close_price": 115.1497879,
+    "percent_change": -1.17430089
+  },
+  {
+    "title": "American Water\u2019s 2024 First Quarter Conference Call Scheduled for May 2, 2024",
+    "published": 1712772900,
+    "posting_price": 116.2932588,
+    "close_price": 115.62866974,
+    "percent_change": -0.57147686
+  },
+  {
+    "title": "3 Water Stocks to Snap Up Before the Next Shortage",
+    "published": 1712771280,
+    "posting_price": 116.2932588,
+    "close_price": 115.62866974,
+    "percent_change": -0.57147686
+  },
+  {
+    "title": "American Water Prepared to Meet Final U.S. EPA PFAS Rule",
+    "published": 1712744040,
+    "posting_price": 116.2932588,
+    "close_price": 115.62866974,
+    "percent_change": -0.57147686
+  },
+  {
+    "title": "American Water (AWK) Unit Invests $3.3M in System Upgrade",
+    "published": 1712743200,
+    "posting_price": 116.2932588,
+    "close_price": 115.62866974,
+    "percent_change": -0.57147686
+  },
+  {
+    "title": "American Water says it is prepared to meet final EPA's drinking water standards",
+    "published": 1712726880,
+    "posting_price": 116.2932588,
+    "close_price": 115.62866974,
+    "percent_change": -0.57147686
+  },
+  {
+    "title": "American Water Named as a Top Performer for Training & Development and Workforce Composition by JUST Capital",
+    "published": 1712696940,
+    "posting_price": 118.04269784,
+    "close_price": 119.08844757,
+    "percent_change": 0.88590802
+  },
+  {
+    "title": "Reasons to Add American Water Works (AWK) to Your Portfolio",
+    "published": 1712673180,
+    "posting_price": 118.04269784,
+    "close_price": 119.08844757,
+    "percent_change": 0.88590802
+  },
+  {
+    "title": "American Water Contributes Expertise at the Andlinger Center for Energy and the Environment Summit at Princeton University",
+    "published": 1712671200,
+    "posting_price": 118.04269784,
+    "close_price": 119.08844757,
+    "percent_change": 0.88590802
+  },
+  {
+    "title": "3 Utility Stocks to Buy Ahead of Market Jitters",
+    "published": 1712512223
+  },
+  {
+    "title": "American Water Works (AWK) is a Top Dividend Stock Right Now: Should You Buy?",
+    "published": 1712331907,
+    "posting_price": 116.53759149,
+    "close_price": 115.83390808,
+    "percent_change": -0.60382526
+  },
+  {
+    "title": "American Water's (AWK) Unit to Invest $2.5M in System Upgrade",
+    "published": 1712331780,
+    "posting_price": 116.53759149,
+    "close_price": 115.83390808,
+    "percent_change": -0.60382526
+  },
+  {
+    "title": "American Water Works : California American Water Strengthens Water Reliability in Arden-Arcad...",
+    "published": 1712325848,
+    "posting_price": 116.53759149,
+    "close_price": 115.83390808,
+    "percent_change": -0.60382526
+  },
+  {
+    "title": "Friday Sector Laggards: Utilities, Consumer Products",
+    "published": 1712280780,
+    "posting_price": 116.53759149,
+    "close_price": 115.83390808,
+    "percent_change": -0.60382526
+  },
+  {
+    "title": "California American Water Strengthens Water Reliability in Arden-Arcade with New Cottage Way Well",
+    "published": 1712273760,
+    "posting_price": 117.37811089,
+    "close_price": 117.65176392,
+    "percent_change": 0.23313804
+  },
+  {
+    "title": "PRMW vs. AWK: Which Stock Should Value Investors Buy Now?",
+    "published": 1712245204,
+    "posting_price": 117.37811089,
+    "close_price": 117.65176392,
+    "percent_change": 0.23313804
+  },
+  {
+    "title": "Exelon (EXC) to Gain From Investments & Revenue Decoupling",
+    "published": 1712237040,
+    "posting_price": 117.37811089,
+    "close_price": 117.65176392,
+    "percent_change": 0.23313804
+  },
+  {
+    "title": "The 3 Best Water Stocks to Buy in April 2024",
+    "published": 1712176009,
+    "posting_price": 116.48874399,
+    "close_price": 116.2346344,
+    "percent_change": -0.2181409
+  },
+  {
+    "title": "American Water Works : Temporary Scheduled Treatment Change to End in Central and Northern Pa...",
+    "published": 1712160789,
+    "posting_price": 116.48874399,
+    "close_price": 116.2346344,
+    "percent_change": -0.2181409
+  },
+  {
+    "title": "American Water Works : Temporary Scheduled Water Treatment Change to End in New Jersey Americ...",
+    "published": 1712160789,
+    "posting_price": 116.48874399,
+    "close_price": 116.2346344,
+    "percent_change": -0.2181409
+  },
+  {
+    "title": "American Water Works : Tennessee American Water\u2019s 2023 Water Quality Reports Now Available On...",
+    "published": 1712160014,
+    "posting_price": 116.48874399,
+    "close_price": 116.2346344,
+    "percent_change": -0.2181409
+  },
+  {
+    "title": "Fuxing China Targets Nasdaq with New Share Offering",
+    "published": 1712128680,
+    "posting_price": 116.48874399,
+    "close_price": 116.2346344,
+    "percent_change": -0.2181409
+  },
+  {
+    "title": "American Water Works : April Showers Bring May Flowers\u2026 And Stormwater Runoff!",
+    "published": 1712068448,
+    "posting_price": 117.38787982,
+    "close_price": 116.8503418,
+    "percent_change": -0.45791612
+  },
+  {
+    "title": "American Water Works : Pennsylvania American Water Announces $2.5 Million Allegheny County Sy...",
+    "published": 1712055014,
+    "posting_price": 117.38787982,
+    "close_price": 116.8503418,
+    "percent_change": -0.45791612
+  },
+  {
+    "title": "American Water's (AWK) Pennsylvania Arm to Invest in Upgrade",
+    "published": 1712050560,
+    "posting_price": 117.38787982,
+    "close_price": 116.8503418,
+    "percent_change": -0.45791612
+  },
+  {
+    "title": "Procter & Gamble, Johnson & Johnson Among 10 Dividend Growth Companies Announcing Increases In First Half Of April",
+    "published": 1711958567,
+    "posting_price": 119.66508505,
+    "close_price": 117.57358551,
+    "percent_change": -1.7477943
   }
 ]

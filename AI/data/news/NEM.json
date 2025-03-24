@@ -1,34 +1,454 @@
 [
   {
     "title": "SSR Mining Stock Hits 52-Week High: What's Driving Its Performance?",
-    "published": 1742571720
+    "published": 1742571720,
+    "posting_price": 47.11999893,
+    "close_price": 47.36000061,
+    "percent_change": 0.50934144
   },
   {
     "title": "Newmont Gains 28% YTD: How Should Investors Play the Stock?",
-    "published": 1742555760
+    "published": 1742555760,
+    "posting_price": 47.11999893,
+    "close_price": 47.36000061,
+    "percent_change": 0.50934144
   },
   {
     "title": "Newmont Corporation: The Stock Defies Logic",
-    "published": 1742311067
+    "published": 1742311067,
+    "posting_price": 48.34000015,
+    "close_price": 47.81000137,
+    "percent_change": -1.09639797
   },
   {
     "title": "Gold Stock Agnico, IBD Stock Of The Day, Breaks Out Bullishly",
-    "published": 1741724017
+    "published": 1741724017,
+    "posting_price": 42.65999985,
+    "close_price": 43.41999817,
+    "percent_change": 1.78152443
   },
   {
     "title": "Newmont Wraps Up Sale of Musselwhite, Eleonore and CC&V Operations",
-    "published": 1741179060
+    "published": 1741179060,
+    "posting_price": 42.84999847,
+    "close_price": 43.84999847,
+    "percent_change": 2.33372237
   },
   {
     "title": "Antipa Minerals regains full control of Wilki project after Newmont\u2019s withdrawal",
-    "published": 1741169480
+    "published": 1741169480,
+    "posting_price": 42.84999847,
+    "close_price": 43.84999847,
+    "percent_change": 2.33372237
   },
   {
     "title": "SSRM Closes Cripple Creek & Victor Gold Mine Buyout Deal With Newmont",
-    "published": 1741110120
+    "published": 1741110120,
+    "posting_price": 42.74000168,
+    "close_price": 42.50999832,
+    "percent_change": -0.53814542
   },
   {
     "title": "Newmont completes sale of three non-core operations, generating $1.7bn",
-    "published": 1741106738
+    "published": 1741106738,
+    "posting_price": 42.74000168,
+    "close_price": 42.50999832,
+    "percent_change": -0.53814542
+  },
+  {
+    "title": "Pan American Silver: Waiting for the Escobal Reopening",
+    "published": 1713168060,
+    "posting_price": 38.0075328,
+    "close_price": 37.57740402,
+    "percent_change": -1.1316935
+  },
+  {
+    "title": "Barrick, Newmont Could Get Lift From Sharply Higher Gold Prices",
+    "published": 1713157200,
+    "posting_price": 38.0075328,
+    "close_price": 37.57740402,
+    "percent_change": -1.1316935
+  },
+  {
+    "title": "Newmont Mining (NYSE:NEM): Set to Capitalize on Gold Price Rebound",
+    "published": 1713153720,
+    "posting_price": 38.0075328,
+    "close_price": 37.57740402,
+    "percent_change": -1.1316935
+  },
+  {
+    "title": "Newmont Mining call volume above normal and directionally bullish",
+    "published": 1713147960,
+    "posting_price": 38.0075328,
+    "close_price": 37.57740402,
+    "percent_change": -1.1316935
+  },
+  {
+    "title": "Newmont Corporation (NEM) Stock Moves -1.1%: What You Should Know",
+    "published": 1712958618,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "Gold Jumps to Top $2,400 as Middle East Risks Stoke Haven Demand",
+    "published": 1712938252,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "JPMorgan Chase, Advanced Micro Devices fall; Progressive, State Street rise, 4/12/2024",
+    "published": 1712924760,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "Albemarle remains the most heavily shorted materials stock in March",
+    "published": 1712917800,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "Albemarle remains most heavily shorted materials stock in March",
+    "published": 1712916720,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "Argan Reports Upbeat Earnings, Joins Coupang And Other Big Stocks Moving Higher On Friday",
+    "published": 1712913660,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 12th",
+    "published": 1712912160,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "GLOBAL BROKER RATINGS: JPMorgan raises Persimmon, BoA raises Nike",
+    "published": 1712906940,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "Newmont Announces First Quarter 2024 Earnings Conference Call",
+    "published": 1712883600,
+    "posting_price": 39.29790574,
+    "close_price": 37.77291107,
+    "percent_change": -3.88060036
+  },
+  {
+    "title": "May 31st Options Now Available For Newmont (NEM)",
+    "published": 1712828520,
+    "posting_price": 38.43765782,
+    "close_price": 38.19326782,
+    "percent_change": -0.63580877
+  },
+  {
+    "title": "Bluebeam Partners with One Tree Planted to Plant 10,000 Trees Across North America",
+    "published": 1712826000,
+    "posting_price": 38.43765782,
+    "close_price": 38.19326782,
+    "percent_change": -0.63580877
+  },
+  {
+    "title": "Steel Dynamics, Dow among top materials picks ahead of Q1 earnings; Albemarle gets a Sell",
+    "published": 1712798520,
+    "posting_price": 38.43765782,
+    "close_price": 38.19326782,
+    "percent_change": -0.63580877
+  },
+  {
+    "title": "Here's Why Newmont Corporation (NEM) Fell More Than Broader Market",
+    "published": 1712786421,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "Media Statement: Cerro Negro Incident",
+    "published": 1712775307,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "Bullion Bullseye: 3 Gold Stocks for Precious Metal Profits",
+    "published": 1712771836,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "7 Gold Stocks to Buy as the Fear Trade Kicks into High Gear",
+    "published": 1712770247,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "Gold\u2019s Rally Is Still On. What That Means for Gold Miners.",
+    "published": 1712768940,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "New additions to Goldman\u2019s High Operating Leverage list",
+    "published": 1712746860,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "Newmont's Akyem gold mine targeted by Ghana-focused miner Asante",
+    "published": 1712744400,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "GLOBAL BROKER RATINGS: UBS cuts Hugo Boss, Exane BNP raises Shell",
+    "published": 1712731620,
+    "posting_price": 37.8315686,
+    "close_price": 38.18349075,
+    "percent_change": 0.9302341
+  },
+  {
+    "title": "Stocks to Watch Tuesday: Tesla, BP, Newmont",
+    "published": 1712653487,
+    "posting_price": 39.26857651,
+    "close_price": 38.7797966,
+    "percent_change": -1.24471003
+  },
+  {
+    "title": "Gilded Gains: 3 Gold Stocks to Shine in Your Portfolio",
+    "published": 1712674102,
+    "posting_price": 39.26857651,
+    "close_price": 38.7797966,
+    "percent_change": -1.24471003
+  },
+  {
+    "title": "Copper Kings: 3 Stocks to Profit From the Conductive Metal Boom",
+    "published": 1712664000,
+    "posting_price": 39.26857651,
+    "close_price": 38.7797966,
+    "percent_change": -1.24471003
+  },
+  {
+    "title": "Why Newmont Stock Is A Strong Golden Pick",
+    "published": 1712579400,
+    "posting_price": 39.10239596,
+    "close_price": 38.51586151,
+    "percent_change": -1.49999619
+  },
+  {
+    "title": "Newmont Corporation \u2013 Stock Analysis & Elliott Wave Technical Forecast",
+    "published": 1712567520,
+    "posting_price": 39.10239596,
+    "close_price": 38.51586151,
+    "percent_change": -1.49999619
+  },
+  {
+    "title": "Russell 2000: These Stocks Mixed As Gold Trades Near Record Highs, Bitcoin Climbs To $72,000",
+    "published": 1712554023,
+    "posting_price": 39.10239596,
+    "close_price": 38.51586151,
+    "percent_change": -1.49999619
+  },
+  {
+    "title": "Commodity Roundup: Gold builds on record rally, oil falls at start of busy week",
+    "published": 1712553240,
+    "posting_price": 39.10239596,
+    "close_price": 38.51586151,
+    "percent_change": -1.49999619
+  },
+  {
+    "title": "Bernstein Sticks to Its Hold Rating for Newmont Mining (NEM)",
+    "published": 1712552880,
+    "posting_price": 39.10239596,
+    "close_price": 38.51586151,
+    "percent_change": -1.49999619
+  },
+  {
+    "title": "Looking Into Newmont's Recent Short Interest",
+    "published": 1712539320,
+    "posting_price": 39.10239596,
+    "close_price": 38.51586151,
+    "percent_change": -1.49999619
+  },
+  {
+    "title": "Gold prices are soaring and the mining stocks are just starting to catch up",
+    "published": 1712483340
+  },
+  {
+    "title": "Newmont, Shockwave Medical rise; John Bean falls, Friday, 4/4/2024",
+    "published": 1712333895,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Biggest Gold Miners Are Missing Out on Bullion\u2019s Record Run",
+    "published": 1712330306,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "XME ETF: Strong Performance As Gold Surges",
+    "published": 1712326238,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Buy-rated stocks within Materials - Citi",
+    "published": 1712320920,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Newmont, Shockwave Medical rise; John Bean fall, Friday, 4/4/2024",
+    "published": 1712320032,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Newmont price target raised by C$17 at National Bank",
+    "published": 1712317440,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Nucor Introduces Weekly Spot Pricing; Cleveland-Cliffs Applauds New DOE Standard; Newmont Concludes $20M Support Fund And More: Friday's Top Mining Stories",
+    "published": 1712288640,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Gold Shines Above $2,300, Ends Another Week At Record High: Mining Stocks Rally To 11-Month Peak",
+    "published": 1712287200,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Stocks Rally On Hot Jobs Data, Defy Interest Rate Fears, Gold Hits New High, Oil Tops $87: What's Driving Markets Friday?",
+    "published": 1712279820,
+    "posting_price": 36.88333321,
+    "close_price": 38.76025009,
+    "percent_change": 5.08879409
+  },
+  {
+    "title": "Newmont Completes $20 Million Global Community Support Fund, Partnering with Communities for Greater Resilience Post-Pandemic",
+    "published": 1712271960,
+    "posting_price": 36.45321079,
+    "close_price": 36.87356186,
+    "percent_change": 1.15312495
+  },
+  {
+    "title": "Why the Market Dipped But Newmont Corporation (NEM) Gained Today",
+    "published": 1712268018,
+    "posting_price": 36.45321079,
+    "close_price": 36.87356186,
+    "percent_change": 1.15312495
+  },
+  {
+    "title": "Newmont Unusual Options Activity",
+    "published": 1712220660,
+    "posting_price": 36.45321079,
+    "close_price": 36.87356186,
+    "percent_change": 1.15312495
+  },
+  {
+    "title": "Radius Recycling Reports Q2 Results; American Battery Awarded Another $40.5 Million; Nexa Prices $600 Million Offering And More: Thursday's Top Mining Stories",
+    "published": 1712203680,
+    "posting_price": 36.45321079,
+    "close_price": 36.87356186,
+    "percent_change": 1.15312495
+  },
+  {
+    "title": "Expert Ratings For Newmont",
+    "published": 1712196120,
+    "posting_price": 36.45321079,
+    "close_price": 36.87356186,
+    "percent_change": 1.15312495
+  },
+  {
+    "title": "Hycroft Mining shares are higher than shareholder AMC\u2019s after skyrocketing this week",
+    "published": 1712137080,
+    "posting_price": 35.9350998,
+    "close_price": 36.39455414,
+    "percent_change": 1.27856703
+  },
+  {
+    "title": "Kinross Gold Is Betting on the Great Bear Project",
+    "published": 1712131200,
+    "posting_price": 35.9350998,
+    "close_price": 36.39455414,
+    "percent_change": 1.27856703
+  },
+  {
+    "title": "Newmont price target lowered by $15 at Citi, here's why",
+    "published": 1712119560,
+    "posting_price": 35.9350998,
+    "close_price": 36.39455414,
+    "percent_change": 1.27856703
+  },
+  {
+    "title": "Newmont stock logs seven-day winning streak",
+    "published": 1712113500,
+    "posting_price": 35.9350998,
+    "close_price": 36.39455414,
+    "percent_change": 1.27856703
+  },
+  {
+    "title": "Hycroft Mining shares are higher than investor AMC\u2019s after skyrocketing this week",
+    "published": 1712112060,
+    "posting_price": 35.9350998,
+    "close_price": 36.39455414,
+    "percent_change": 1.27856703
+  },
+  {
+    "title": "Will The S&P 500 Crash By 50%? How Gold Could Protect Your Portfolio",
+    "published": 1712108400,
+    "posting_price": 35.9350998,
+    "close_price": 36.39455414,
+    "percent_change": 1.27856703
+  },
+  {
+    "title": "Stock market today: Hong Kong stocks lead Asia market gains while developer Vanke slumps",
+    "published": 1712024347,
+    "posting_price": 35.82757017,
+    "close_price": 35.96442795,
+    "percent_change": 0.38199012
+  },
+  {
+    "title": "Stock market today: Wall Street slips as bond yields jump on surprisingly strong manufacturing data",
+    "published": 1711988861,
+    "posting_price": 36.13061628,
+    "close_price": 35.61251068,
+    "percent_change": -1.43397942
+  },
+  {
+    "title": "Stock market today: Wall Street slips after surprisingly strong manufacturing data sends yields up",
+    "published": 1711984868,
+    "posting_price": 36.13061628,
+    "close_price": 35.61251068,
+    "percent_change": -1.43397942
   }
 ]

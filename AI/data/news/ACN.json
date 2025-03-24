@@ -1,42 +1,475 @@
 [
   {
     "title": "Palantir Hovers Near 50 Day Line As AI Stocks Struggle",
-    "published": 1742580043
+    "published": 1742580043,
+    "posting_price": 298.04998779,
+    "close_price": 305.32000732,
+    "percent_change": 2.43919471
   },
   {
     "title": "Accenture Shares Drop After Warning on U.S. Federal Spending Cuts",
-    "published": 1742576077
+    "published": 1742576077,
+    "posting_price": 298.04998779,
+    "close_price": 305.32000732,
+    "percent_change": 2.43919471
   },
   {
     "title": "Accenture reports Q2 beat, Apple TV+ losing $1B annually: Morning Buzz",
-    "published": 1742573786
+    "published": 1742573786,
+    "posting_price": 298.04998779,
+    "close_price": 305.32000732,
+    "percent_change": 2.43919471
   },
   {
     "title": "Company News for Mar 21, 2025",
-    "published": 1742559240
+    "published": 1742559240,
+    "posting_price": 298.04998779,
+    "close_price": 305.32000732,
+    "percent_change": 2.43919471
   },
   {
     "title": "S&P 500 Gains and Losses Today: Accenture, Gartner Stocks Pressured by Government Spending Cuts",
-    "published": 1742505894
+    "published": 1742505894,
+    "posting_price": 296.1499939,
+    "close_price": 300.91000366,
+    "percent_change": 1.60729693
   },
   {
     "title": "Stock Market Today: Dow Jones Dips As Nvidia Eyes Opportunity; Warren Buffett Stock Hits New High (Live Coverage)",
-    "published": 1742501599
+    "published": 1742501599,
+    "posting_price": 296.1499939,
+    "close_price": 300.91000366,
+    "percent_change": 1.60729693
   },
   {
     "title": "Why Booz Allen Hamilton (BAH) Stock Is Down Today",
-    "published": 1742500940
+    "published": 1742500940,
+    "posting_price": 296.1499939,
+    "close_price": 300.91000366,
+    "percent_change": 1.60729693
   },
   {
-    "title": "Accenture Earnings Miss Estimates in Q2, Revenues Increase Y/Y",
-    "published": 1742487780
+    "title": "Fortune partners with Accenture on AI tool to help analyze and visualize the Fortune 500: \u2018You can\u2019t ask a spreadsheet a question\u2019",
+    "published": 1713200501,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
   },
   {
-    "title": "Top Stock Movers Now: Darden Restaurants, Jabil, Accenture, and More",
-    "published": 1742486266
+    "title": "Accenture Federal Services to Acquire Cognosante",
+    "published": 1713197220,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
   },
   {
-    "title": "Top Midday Stories: Accenture Shares Fall on DOGE Risks; QXO Acquires Beacon Roofing Supply in $11 Billion Deal",
-    "published": 1742485698
+    "title": "Accenture Unit to Buy Tech-Solutions Firm Cognosante",
+    "published": 1713185034,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
+  },
+  {
+    "title": "Accenture Federal Services enters agreement to acquire Cognosante",
+    "published": 1713179400,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
+  },
+  {
+    "title": "Accenture: collaboration with BNY Mellon",
+    "published": 1713172401,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
+  },
+  {
+    "title": "IBM added to 'Tactical Outperform' list at Evercore ISI",
+    "published": 1713165360,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
+  },
+  {
+    "title": "IBM, Amphenol added to Evercore's Tactical Outperform list ahead of earnings",
+    "published": 1713158400,
+    "posting_price": 313.39436556,
+    "close_price": 310.63772583,
+    "percent_change": -0.8796073
+  },
+  {
+    "title": "HCKT vs. ACN: Which Stock Is the Better Value Option?",
+    "published": 1712936413,
+    "posting_price": 318.27302173,
+    "close_price": 312.74981689,
+    "percent_change": -1.73536695
+  },
+  {
+    "title": "BNY Mellon Collaborates with Accenture to Drive Accelerated Growth for Clients",
+    "published": 1712923200,
+    "posting_price": 318.27302173,
+    "close_price": 312.74981689,
+    "percent_change": -1.73536695
+  },
+  {
+    "title": "Wall Street Behemoths BNY Mellon & Accenture Join Forces to Revolutionize Financial Services Through Data Innovation",
+    "published": 1712918580,
+    "posting_price": 318.27302173,
+    "close_price": 312.74981689,
+    "percent_change": -1.73536695
+  },
+  {
+    "title": "BNY Mellon, Accenture announce collaboration",
+    "published": 1712905560,
+    "posting_price": 318.27302173,
+    "close_price": 312.74981689,
+    "percent_change": -1.73536695
+  },
+  {
+    "title": "Accenture bearish Fresh Pick designation removed at Baird",
+    "published": 1712900280,
+    "posting_price": 318.27302173,
+    "close_price": 312.74981689,
+    "percent_change": -1.73536695
+  },
+  {
+    "title": "Gartner (IT) Gains From Domain Expertise Amid Talent Cost",
+    "published": 1712842500,
+    "posting_price": 323.31030926,
+    "close_price": 322.45755005,
+    "percent_change": -0.26375874
+  },
+  {
+    "title": "Is Trending Stock Accenture PLC (ACN) a Buy Now?",
+    "published": 1712840417,
+    "posting_price": 323.31030926,
+    "close_price": 322.45755005,
+    "percent_change": -0.26375874
+  },
+  {
+    "title": "Aristotle Capital International Equity Q1 2024 Commentary",
+    "published": 1712832000,
+    "posting_price": 323.31030926,
+    "close_price": 322.45755005,
+    "percent_change": -0.26375874
+  },
+  {
+    "title": "Accenture: acquisition of Unlimited in generative AI",
+    "published": 1712827965,
+    "posting_price": 323.31030926,
+    "close_price": 322.45755005,
+    "percent_change": -0.26375874
+  },
+  {
+    "title": "Why Accenture Stock Wilted on Wednesday",
+    "published": 1712788200,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "Accenture Acquires Unlimited to Further Bolster its CRM and Customer Relevance Capabilities",
+    "published": 1712758260,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "SMART Global Beats Q2 Earnings, Faces Mixed Segment Performance",
+    "published": 1712744100,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "Accenture : Acquires Unlimited to Further Bolster its CRM and Customer Relevance Capabilities",
+    "published": 1712742073,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "Accenture acquires Unlimited",
+    "published": 1712741640,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "Accenture acquires customer engagement agency Unlimited",
+    "published": 1712740500,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Verisign (VRSN) and Accenture (ACN)",
+    "published": 1712711520,
+    "posting_price": 325.59101622,
+    "close_price": 321.67419434,
+    "percent_change": -1.20298832
+  },
+  {
+    "title": "Estimating The Intrinsic Value Of Accenture plc (NYSE:ACN)",
+    "published": 1712667615,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Accenture PLC's Dividend Analysis",
+    "published": 1712660550,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Best Buy Partners With Google Cloud And Accenture For AI Capabilities",
+    "published": 1712658240,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Best Buy (NYSE:BBY) Rises on Embracing AI",
+    "published": 1712657940,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Accenture: AI collaboration with Best Buy and Google",
+    "published": 1712653101,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Accenture : Best Buy, Google Cloud and Accenture Partner to Create a Better Customer Support Experience with Generative AI",
+    "published": 1712649675,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Best Buy, Google Cloud and Accenture partner in generative AI for customer care",
+    "published": 1712646900,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Best Buy is the latest retailer to ramp up the use of AI",
+    "published": 1712645280,
+    "posting_price": 329.57035945,
+    "close_price": 330.3605957,
+    "percent_change": 0.23977771
+  },
+  {
+    "title": "Accenture Acquires Axis Corporate to Help Spanish Financial Services Companies Reinvent their Businesses",
+    "published": 1712585700,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Insider Q&A: Nellie Borrero recounts 4 decades of addressing racism and bringing change to Accenture",
+    "published": 1712581005,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture: acquisition of Axis in Spain",
+    "published": 1712575389,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture : Acquires Axis Corporate to Help Spanish Financial Services Companies Reinvent their Businesses",
+    "published": 1712571130,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture acquires Axis Corporate, terms not disclosed",
+    "published": 1712567820,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture About To Put More Money In Your Pocket (ACN)",
+    "published": 1712566740,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture: IT services acquisition in Japan",
+    "published": 1712557467,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture to acquire Climb, no terms disclosed",
+    "published": 1712552160,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture to acquire Japanese technology services provider, CLIMB",
+    "published": 1712550120,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "RADCOM, Lotus Technology And 3 Stocks To Watch Heading Into Monday",
+    "published": 1712543100,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Accenture to Acquire CLIMB to Expand Technology Capabilities",
+    "published": 1712542140,
+    "posting_price": 329.94575573,
+    "close_price": 327.74301147,
+    "percent_change": -0.667608
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "AI looks to cut workforces across sectors, companies should train in-house: survey",
+    "published": 1712318400,
+    "posting_price": 327.47628711,
+    "close_price": 328.92831421,
+    "percent_change": 0.44339916
+  },
+  {
+    "title": "Accenture: Sell Rated On Bleak Outlook",
+    "published": 1712317210,
+    "posting_price": 327.47628711,
+    "close_price": 328.92831421,
+    "percent_change": 0.44339916
+  },
+  {
+    "title": "Ex-Accenture executive sues consultancy giant over claims he was \u2018shamed\u2019 for being depressed",
+    "published": 1712251715,
+    "posting_price": 330.03462474,
+    "close_price": 326.42926025,
+    "percent_change": -1.09242007
+  },
+  {
+    "title": "Accenture Federal Services and Google Public Sector Launch Data & AI Center of Excellence",
+    "published": 1712235600,
+    "posting_price": 330.03462474,
+    "close_price": 326.42926025,
+    "percent_change": -1.09242007
+  },
+  {
+    "title": "Accenture Appoints Karalee Close as Global Talent & Organization Lead to Help Power Clients' Reinvention with Technology and Talent",
+    "published": 1712229642,
+    "posting_price": 330.03462474,
+    "close_price": 326.42926025,
+    "percent_change": -1.09242007
+  },
+  {
+    "title": "Linklaters hires Accenture for AI push",
+    "published": 1712181360,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "420% Return In 10 Years: Can Accenture Keep Winning With AI?",
+    "published": 1712164281,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "Accenture (ACN) to Snap Up Italy's Intellera Consulting",
+    "published": 1712156700,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "Top Companies for Social Responsibility",
+    "published": 1712152800,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "Accenture Appoints Karalee Close as Global Talent & Organization Lead to Help Power Clients\u2019 Reinvention with Technology and Talent",
+    "published": 1712149140,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "Accenture to Enhance Digital Transformation Capabilities for Italy s Public Sector with Acquisition of Intellera Consulting",
+    "published": 1712141381,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "Invest with Confidence: Intrinsic Value Unveiled of Accenture PLC",
+    "published": 1712124060,
+    "posting_price": 332.12870427,
+    "close_price": 328.21713257,
+    "percent_change": -1.17772768
+  },
+  {
+    "title": "Accenture Insiders Sold US$1.2m Of Shares Suggesting Hesitancy",
+    "published": 1712059218,
+    "posting_price": 332.55346228,
+    "close_price": 332.3460083,
+    "percent_change": -0.06238214
+  },
+  {
+    "title": "Accenture To Enhance Digital Transformation Capabilities for Italy\u2019s Public Sector with Acquisition of Intellera Consulting",
+    "published": 1712054640,
+    "posting_price": 332.55346228,
+    "close_price": 332.3460083,
+    "percent_change": -0.06238214
+  },
+  {
+    "title": "Accenture: acquisition of Italy's Intellera Consulting",
+    "published": 1712047818,
+    "posting_price": 332.55346228,
+    "close_price": 332.3460083,
+    "percent_change": -0.06238214
+  },
+  {
+    "title": "Accenture to acquire Italy based Intellera Consulting",
+    "published": 1712039400,
+    "posting_price": 332.55346228,
+    "close_price": 332.3460083,
+    "percent_change": -0.06238214
+  },
+  {
+    "title": "Accenture agrees to acquire Italian consultancy firm Intellera",
+    "published": 1712036760,
+    "posting_price": 332.55346228,
+    "close_price": 332.3460083,
+    "percent_change": -0.06238214
+  },
+  {
+    "title": "Accenture PLC Cl A stock underperforms Monday when compared to competitors",
+    "published": 1711942560,
+    "posting_price": 340.64328725,
+    "close_price": 335.02288818,
+    "percent_change": -1.64993683
   }
 ]

@@ -1,38 +1,171 @@
 [
   {
     "title": "Why Is AvalonBay (AVB) Down 1.5% Since Last Earnings Report?",
-    "published": 1741365052
+    "published": 1741365052,
+    "posting_price": 218.57000732,
+    "close_price": 218.44999695,
+    "percent_change": -0.05490706
   },
   {
     "title": "Here's Why it is Wise to Retain AvalonBay Stock in Your Portfolio Now",
-    "published": 1741277580
+    "published": 1741277580,
+    "posting_price": 222.33000183,
+    "close_price": 218.5,
+    "percent_change": -1.72266532
   },
   {
     "title": "AvalonBay Provides Mid-Quarter Operating Update, Expands Portfolio",
-    "published": 1741024320
+    "published": 1741024320,
+    "posting_price": 226.08000183,
+    "close_price": 228.08000183,
+    "percent_change": 0.8846426
   },
   {
     "title": "AVB acquires 8 Texas properties for more than $600M",
-    "published": 1740668040
+    "published": 1740668040,
+    "posting_price": 221.0,
+    "close_price": 223.02000427,
+    "percent_change": 0.91402908
   },
   {
     "title": "AvalonBay sees strength in the mid-Atlantic",
-    "published": 1740497880
+    "published": 1740497880,
+    "posting_price": 221.28999329,
+    "close_price": 223.61999512,
+    "percent_change": 1.05291785
   },
   {
     "title": "Camden's Q4 FFO Beats Estimates, Same-Property NOI Rises",
-    "published": 1738935480
+    "published": 1738935480,
+    "posting_price": 222.46000671,
+    "close_price": 220.16000366,
+    "percent_change": -1.03389507
   },
   {
     "title": "AvalonBay Q4 FFO & Revenues Miss Estimates, Dividend Raised",
-    "published": 1738855860
+    "published": 1738855860,
+    "posting_price": 222.94000244,
+    "close_price": 221.77999878,
+    "percent_change": -0.520321
   },
   {
     "title": "AvalonBay (AVB) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1738798215
+    "published": 1738798215,
+    "posting_price": 221.91999817,
+    "close_price": 224.27999878,
+    "percent_change": 1.06344657
   },
   {
     "title": "AvalonBay Communities (AVB) Misses Q4 FFO and Revenue Estimates",
-    "published": 1738794607
+    "published": 1738794607,
+    "posting_price": 221.91999817,
+    "close_price": 224.27999878,
+    "percent_change": 1.06344657
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 180.76039343,
+    "close_price": 176.50215149,
+    "percent_change": -2.35573837
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Analyst Drops Price Targets On 8 Residential REITs In One Day",
+    "published": 1712856600,
+    "posting_price": 182.88953093,
+    "close_price": 181.61010742,
+    "percent_change": -0.69956082
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 182.88953093,
+    "close_price": 181.61010742,
+    "percent_change": -0.69956082
+  },
+  {
+    "title": "AvalonBay Communities: The Sunbelt Region Has A New Player In Town",
+    "published": 1712760889,
+    "posting_price": 179.96930064,
+    "close_price": 181.7565918,
+    "percent_change": 0.99310891
+  },
+  {
+    "title": "RBC Capital Sticks to Its Hold Rating for AvalonBay (AVB)",
+    "published": 1712739000,
+    "posting_price": 179.96930064,
+    "close_price": 181.7565918,
+    "percent_change": 0.99310891
+  },
+  {
+    "title": "UDR upgraded to Neutral at Piper on strength of Northeast presence",
+    "published": 1712733660,
+    "posting_price": 179.96930064,
+    "close_price": 181.7565918,
+    "percent_change": 0.99310891
+  },
+  {
+    "title": "Analysts Offer Insights on Real Estate Companies: Greentown Service Group Co. Ltd. (HK:2869) and AvalonBay (AVB)",
+    "published": 1712722080,
+    "posting_price": 179.96930064,
+    "close_price": 181.7565918,
+    "percent_change": 0.99310891
+  },
+  {
+    "title": "AvalonBay price target lowered by $4 at Truist, here's why",
+    "published": 1712644320,
+    "posting_price": 182.4890959,
+    "close_price": 184.45217896,
+    "percent_change": 1.07572622
+  },
+  {
+    "title": "What 9 Analyst Ratings Have To Say About AvalonBay Communities",
+    "published": 1712624640,
+    "posting_price": 182.4890959,
+    "close_price": 184.45217896,
+    "percent_change": 1.07572622
+  },
+  {
+    "title": "Nontraded REITs: What Are They, And Should You Invest?",
+    "published": 1712566860,
+    "posting_price": 178.42619481,
+    "close_price": 181.83473206,
+    "percent_change": 1.91033455
+  },
+  {
+    "title": "Apartment Income Stock Is Soaring on the Blackstone Buyout",
+    "published": 1712537940,
+    "posting_price": 178.42619481,
+    "close_price": 181.83473206,
+    "percent_change": 1.91033455
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "AvalonBay Communities, Inc. Announces First Quarter 2024 Earnings Release Date",
+    "published": 1712261700,
+    "posting_price": 177.80110822,
+    "close_price": 175.96498108,
+    "percent_change": -1.03268599
+  },
+  {
+    "title": "Notable Two Hundred Day Moving Average Cross - AVB",
+    "published": 1712052300,
+    "posting_price": 175.88685489,
+    "close_price": 175.65246582,
+    "percent_change": -0.13326128
+  },
+  {
+    "title": "The Time Is REIT Now",
+    "published": 1712036801,
+    "posting_price": 175.88685489,
+    "close_price": 175.65246582,
+    "percent_change": -0.13326128
   }
 ]

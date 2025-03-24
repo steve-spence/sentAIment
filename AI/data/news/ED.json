@@ -1,38 +1,125 @@
 [
   {
     "title": "Company News for Feb 24, 2025",
-    "published": 1740407640
+    "published": 1740407640,
+    "posting_price": 98.80999756,
+    "close_price": 99.68000031,
+    "percent_change": 0.88048049
   },
   {
     "title": "Consolidated Edison Q4 Earnings Top Estimates, Revenues Rise Y/Y",
-    "published": 1740150780
+    "published": 1740150780,
+    "posting_price": 96.05999756,
+    "close_price": 98.26000214,
+    "percent_change": 2.2902401
   },
   {
     "title": "Compared to Estimates, Con Ed (ED) Q4 Earnings: A Look at Key Metrics",
-    "published": 1740096008
+    "published": 1740096008,
+    "posting_price": 96.05999756,
+    "close_price": 98.26000214,
+    "percent_change": 2.2902401
   },
   {
     "title": "Consolidated Edison (ED) Q4 Earnings and Revenues Surpass Estimates",
-    "published": 1740092706
+    "published": 1740092706,
+    "posting_price": 95.01000214,
+    "close_price": 95.76000214,
+    "percent_change": 0.78939057
   },
   {
     "title": "Con Ed: Q4 Earnings Snapshot",
-    "published": 1740089424
+    "published": 1740089424,
+    "posting_price": 95.01000214,
+    "close_price": 95.76000214,
+    "percent_change": 0.78939057
   },
   {
     "title": "Consolidated Edison to Post Q4 Earnings: What's in the Cards?",
-    "published": 1739978520
+    "published": 1739978520,
+    "posting_price": 94.88999939,
+    "close_price": 95.26000214,
+    "percent_change": 0.38992808
   },
   {
     "title": "Unlocking Q4 Potential of Con Ed (ED): Exploring Wall Street Estimates for Key Metrics",
-    "published": 1739542524
+    "published": 1739542524,
+    "posting_price": 95.14786895,
+    "close_price": 94.07745361,
+    "percent_change": -1.12500191
   },
   {
     "title": "Consolidated Edison (ED) Recently Broke Out Above the 200-Day Moving Average",
-    "published": 1739284203
+    "published": 1739284203,
+    "posting_price": 95.71281054,
+    "close_price": 95.45511627,
+    "percent_change": -0.26923697
   },
   {
     "title": "Vistra (VST) Moves 8.5% Higher: Will This Strength Last?",
-    "published": 1737531840
+    "published": 1737531840,
+    "posting_price": 92.04565244,
+    "close_price": 89.9642868,
+    "percent_change": -2.26123188
+  },
+  {
+    "title": "16 Best Dividend Stocks of All Time",
+    "published": 1713181416,
+    "posting_price": 86.75747055,
+    "close_price": 86.31295776,
+    "percent_change": -0.51236255
+  },
+  {
+    "title": "Consolidated Edison's (NYSE:ED) investors will be pleased with their 26% return over the last three years",
+    "published": 1713006020
+  },
+  {
+    "title": "CMS Energy (CMS) Arm to Power Walmart Stores With Clean Energy",
+    "published": 1712928840,
+    "posting_price": 85.75247653,
+    "close_price": 85.6461792,
+    "percent_change": -0.12395832
+  },
+  {
+    "title": "Con Edison to Report 1st Quarter 2024 Earnings on May 2",
+    "published": 1712865600,
+    "posting_price": 86.38058749,
+    "close_price": 85.56887054,
+    "percent_change": -0.93969834
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Meta Platforms, Chipotle Mexican Grill, Walt Disney, Consolidated Edison and S&P Global",
+    "published": 1712838420,
+    "posting_price": 86.38058749,
+    "close_price": 85.56887054,
+    "percent_change": -0.93969834
+  },
+  {
+    "title": "5 Solid Stocks to Bet On This Earnings Season",
+    "published": 1712755980,
+    "posting_price": 86.49656017,
+    "close_price": 85.89743042,
+    "percent_change": -0.69266309
+  },
+  {
+    "title": "Consolidated Edison Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
+    "published": 1712635440,
+    "posting_price": 87.7237963,
+    "close_price": 88.06201172,
+    "percent_change": 0.38554581
+  },
+  {
+    "title": "Is Consolidated Edison, Inc.'s (NYSE:ED) ROE Of 12% Impressive?",
+    "published": 1712574024,
+    "posting_price": 86.670498,
+    "close_price": 87.54985809,
+    "percent_change": 1.0146014
+  },
+  {
+    "title": "Returns At Consolidated Edison (NYSE:ED) Appear To Be Weighed Down",
+    "published": 1711976416,
+    "posting_price": 87.73346846,
+    "close_price": 87.28895569,
+    "percent_change": -0.50666271
   }
 ]

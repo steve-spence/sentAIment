@@ -1,19 +1,31 @@
 [
   {
     "title": "BASFY & NIO Ink Deal to Boost Collaboration in Automotive Coatings",
-    "published": 1741959000
+    "published": 1741959000,
+    "posting_price": 36.77999878,
+    "close_price": 36.97000122,
+    "percent_change": 0.51659175
   },
   {
     "title": "Innovating the Future of Plastic Recycling and Sustainability",
-    "published": 1741715400
+    "published": 1741715400,
+    "posting_price": 37.60499954,
+    "close_price": 36.66999817,
+    "percent_change": -2.48637517
   },
   {
     "title": "DOW Invests in Xycle to Enhance Circular Feedstock Access",
-    "published": 1741694040
+    "published": 1741694040,
+    "posting_price": 37.60499954,
+    "close_price": 36.66999817,
+    "percent_change": -2.48637517
   },
   {
     "title": "Dow Achieves 24th Year on the Dow Jones Sustainability World Index",
-    "published": 1740507900
+    "published": 1740507900,
+    "posting_price": 38.47615434,
+    "close_price": 38.51542664,
+    "percent_change": 0.10206919
   },
   {
     "title": "Is Dow Inc. (NYSE:DOW) Trading At A 29% Discount?",
@@ -21,10 +33,233 @@
   },
   {
     "title": "DOW Stock Loses 27% in 6 Months: What Should Investors Do?",
-    "published": 1740050760
+    "published": 1740050760,
+    "posting_price": 38.28961646,
+    "close_price": 38.86886978,
+    "percent_change": 1.5128209
   },
   {
     "title": "How Dow Is Driving Sustainability in Sports and Stadiums",
-    "published": 1739990400
+    "published": 1739990400,
+    "posting_price": 38.28961561,
+    "close_price": 38.21107101,
+    "percent_change": -0.2051329
+  },
+  {
+    "title": "WHO warns of falsified cough syrup ingredients seized in Pakistan",
+    "published": 1713207100,
+    "posting_price": 54.86405458,
+    "close_price": 54.00665665,
+    "percent_change": -1.56276808
+  },
+  {
+    "title": "Do Fundamentals Have Any Role To Play In Driving Dow Inc.'s (NYSE:DOW) Stock Up Recently?",
+    "published": 1713189621,
+    "posting_price": 54.86405458,
+    "close_price": 54.00665665,
+    "percent_change": -1.56276808
+  },
+  {
+    "title": "Dow: Where Long-Term And Short-Term Investing Collide",
+    "published": 1713181373,
+    "posting_price": 54.86405458,
+    "close_price": 54.00665665,
+    "percent_change": -1.56276808
+  },
+  {
+    "title": "Dow Inc. Shareholders Elect Directors, Affirm Executives and Auditors",
+    "published": 1713152040,
+    "posting_price": 54.86405458,
+    "close_price": 54.00665665,
+    "percent_change": -1.56276808
+  },
+  {
+    "title": "DOW Boosts Automotive Partnerships in Europe With New Studio",
+    "published": 1712915580,
+    "posting_price": 54.76041099,
+    "close_price": 54.35526657,
+    "percent_change": -0.73984912
+  },
+  {
+    "title": "Plastic Is Everywhere. Now Big Oil Companies Are Producing Even More of It.",
+    "published": 1712897700,
+    "posting_price": 54.76041099,
+    "close_price": 54.35526657,
+    "percent_change": -0.73984912
+  },
+  {
+    "title": "Dow announces results from 2024 Annual Stockholder Meeting",
+    "published": 1712866500,
+    "posting_price": 55.55185497,
+    "close_price": 55.08075714,
+    "percent_change": -0.84803258
+  },
+  {
+    "title": "May 31st Options Now Available For Dow",
+    "published": 1712833320,
+    "posting_price": 55.55185497,
+    "close_price": 55.08075714,
+    "percent_change": -0.84803258
+  },
+  {
+    "title": "Steel Dynamics, Dow among top materials picks ahead of Q1 earnings; Albemarle gets a Sell",
+    "published": 1712798520,
+    "posting_price": 55.55185497,
+    "close_price": 55.08075714,
+    "percent_change": -0.84803258
+  },
+  {
+    "title": "16 Best Materials Stocks To Buy in 2024",
+    "published": 1712778985,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "Recycling and Beyond Part 2",
+    "published": 1712771100,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "Dow: Virtuous Growth Cycle Centered In North America",
+    "published": 1712753340,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "Dow (DOW) Shares Pop 18% in 6 Months: What's Driving the Stock?",
+    "published": 1712748480,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "These Return Metrics Don't Make Dow (NYSE:DOW) Look Too Strong",
+    "published": 1712746820,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "Dow : strengthens automotive collaborations in Europe with new MobilityScience\u2122 Studio",
+    "published": 1712744948,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "Dow Inc (DOW): New Buy Recommendation for This Basic Materials Giant",
+    "published": 1712737020,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "Dow Inc. price target raised by $4 at Citi, here's why",
+    "published": 1712725140,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "This Is What Whales Are Betting On Dow",
+    "published": 1712713620,
+    "posting_price": 55.78740651,
+    "close_price": 55.44821548,
+    "percent_change": -0.60800645
+  },
+  {
+    "title": "ALTIVIA Appoints Scott Barnum as Director of Manufacturing and Dean Hale as Corporate Engineering Manager",
+    "published": 1712594640,
+    "posting_price": 56.48463512,
+    "close_price": 56.07949066,
+    "percent_change": -0.7172649
+  },
+  {
+    "title": "Is Dow Inc. (NYSE:DOW) Trading At A 38% Discount?",
+    "published": 1712325609,
+    "posting_price": 56.52231993,
+    "close_price": 56.23965836,
+    "percent_change": -0.50008841
+  },
+  {
+    "title": "Dow Inc. (DOW) Stock Moves -0.22%: What You Should Know",
+    "published": 1712268918,
+    "posting_price": 56.91804058,
+    "close_price": 56.39983368,
+    "percent_change": -0.91044403
+  },
+  {
+    "title": "Great Place To Work\u00ae and Fortune recognize Dow for 4th consecutive year among 100 Best Companies to Work For\u00ae",
+    "published": 1712239200,
+    "posting_price": 56.91804058,
+    "close_price": 56.39983368,
+    "percent_change": -0.91044403
+  },
+  {
+    "title": "Interesting DOW Put And Call Options For May 24th",
+    "published": 1712223840,
+    "posting_price": 56.91804058,
+    "close_price": 56.39983368,
+    "percent_change": -0.91044403
+  },
+  {
+    "title": "DOW Introduces Polyolefin Elastomer-Based Artificial Leather",
+    "published": 1712150520,
+    "posting_price": 55.94758364,
+    "close_price": 56.52232361,
+    "percent_change": 1.02728292
+  },
+  {
+    "title": "April Dogs Of The Dow: Buy 1, Watch 4",
+    "published": 1712143729,
+    "posting_price": 55.94758364,
+    "close_price": 56.52232361,
+    "percent_change": 1.02728292
+  },
+  {
+    "title": "Will Dow Inc. (DOW) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712074217,
+    "posting_price": 54.95827455,
+    "close_price": 55.86278152,
+    "percent_change": 1.64580671
+  },
+  {
+    "title": "Dow (DOW) & P&G Join Forces for High-Quality Recycled Polymer",
+    "published": 1712070960,
+    "posting_price": 54.95827455,
+    "close_price": 55.86278152,
+    "percent_change": 1.64580671
+  },
+  {
+    "title": "Mauro Gregorio to retire from Dow; Brendy Lange named president of Dow Performance Materials & Coatings",
+    "published": 1712062800,
+    "posting_price": 54.95827455,
+    "close_price": 55.86278152,
+    "percent_change": 1.64580671
+  },
+  {
+    "title": "The Analyst Landscape: 8 Takes On Dow",
+    "published": 1712055780,
+    "posting_price": 54.95827455,
+    "close_price": 55.86278152,
+    "percent_change": 1.64580671
+  },
+  {
+    "title": "Dow Inc. price target raised by $5 at Wells Fargo, here's why",
+    "published": 1712035920,
+    "posting_price": 54.95827455,
+    "close_price": 55.86278152,
+    "percent_change": 1.64580671
+  },
+  {
+    "title": "Dow Inc. Poised for Growth: Buy Rating Affirmed Amid Positive PE Demand and Operational Efficiency Gains",
+    "published": 1712032140,
+    "posting_price": 54.95827455,
+    "close_price": 55.86278152,
+    "percent_change": 1.64580671
   }
 ]

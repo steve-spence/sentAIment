@@ -1,26 +1,332 @@
 [
   {
     "title": "Those who invested in Altria Group (NYSE:MO) five years ago are up 147%",
-    "published": 1742472020
+    "published": 1742472020,
+    "posting_price": 57.97999954,
+    "close_price": 58.09000015,
+    "percent_change": 0.18972165
   },
   {
     "title": "Philip Morris Stock Is Hot. A Lot of Credit Goes to Zyn.",
-    "published": 1741981020
+    "published": 1741981020,
+    "posting_price": 58.15000153,
+    "close_price": 58.90999985,
+    "percent_change": 1.30696182
   },
   {
     "title": "Q4 Earnings Highs And Lows: Zevia (NYSE:ZVIA) Vs The Rest Of The Beverages, Alcohol, and Tobacco Stocks",
-    "published": 1741856622
+    "published": 1741856622,
+    "posting_price": 58.11999893,
+    "close_price": 58.54999924,
+    "percent_change": 0.73984914
   },
   {
     "title": "Investors Should Be Encouraged By Altria Group's (NYSE:MO) Returns On Capital",
-    "published": 1741784411
+    "published": 1741784411,
+    "posting_price": 57.86000061,
+    "close_price": 57.81000137,
+    "percent_change": -0.08641417
   },
   {
     "title": "46-Year-Old Making $36,500 in Dividends Shares His Top 8 High-Yield Stocks \u2014 'I Do What I Want on Regular Basis'",
-    "published": 1741741241
+    "published": 1741741241,
+    "posting_price": 57.86000061,
+    "close_price": 57.81000137,
+    "percent_change": -0.08641417
   },
   {
     "title": "Where Will Altria Stock Be in 5 Years?",
-    "published": 1741340100
+    "published": 1741340100,
+    "posting_price": 56.84999847,
+    "close_price": 57.79000092,
+    "percent_change": 1.65347841
+  },
+  {
+    "title": "Altria (MO) Stock Moves -0.24%: What You Should Know",
+    "published": 1713217819,
+    "posting_price": 38.88081229,
+    "close_price": 38.55131531,
+    "percent_change": -0.84745395
+  },
+  {
+    "title": "Philip Morris: FX A Transitory Risk, Solid Earnings Support The Big Yield",
+    "published": 1713192890,
+    "posting_price": 38.88081229,
+    "close_price": 38.55131531,
+    "percent_change": -0.84745395
+  },
+  {
+    "title": "Altria, C.F.C.'s, Downward Attribution, And The \"Real\" Congressional Intent",
+    "published": 1713183079,
+    "posting_price": 38.88081229,
+    "close_price": 38.55131531,
+    "percent_change": -0.84745395
+  },
+  {
+    "title": "The 3 Best Stocks to Buy to Survive the Coming S&P 500 Crash",
+    "published": 1713099600
+  },
+  {
+    "title": "Andvari Associates - Altria Group: Smoke Signals",
+    "published": 1713085200
+  },
+  {
+    "title": "55 April Dividend Kings: Buy 8, Watch 8",
+    "published": 1712932765,
+    "posting_price": 38.90905557,
+    "close_price": 38.64545441,
+    "percent_change": -0.67748023
+  },
+  {
+    "title": "2 High-Yield Dividend Stocks You Can Buy Now and Hold Forever",
+    "published": 1712916420,
+    "posting_price": 38.90905557,
+    "close_price": 38.64545441,
+    "percent_change": -0.67748023
+  },
+  {
+    "title": "10 Dividend Aristocrat Bargain Buys Yielding As Much As 9.4%",
+    "published": 1712905200,
+    "posting_price": 38.90905557,
+    "close_price": 38.64545441,
+    "percent_change": -0.67748023
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 38.90905557,
+    "close_price": 38.64545441,
+    "percent_change": -0.67748023
+  },
+  {
+    "title": "Top Research Reports for ServiceNow, Progressive & Analog Devices",
+    "published": 1712860260,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "Altria to Host Webcast of 2024 First-Quarter Results",
+    "published": 1712844000,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "Is the Business Model of Altria Stock Finally About to Break?",
+    "published": 1712837470,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "Best Stock to Buy Right Now: Altria vs British American Tobacco",
+    "published": 1712836020,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "May 31st Options Now Available For Altria Group (MO)",
+    "published": 1712828400,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "Dividend Harvesting Portfolio Week 162: $16,200 Allocated, $1,450.45 In Projected Dividends",
+    "published": 1712826000,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "This Is What Whales Are Betting On Altria Group",
+    "published": 1712797440,
+    "posting_price": 39.30445595,
+    "close_price": 39.00320053,
+    "percent_change": -0.76646633
+  },
+  {
+    "title": "Altria's (MO) Smoke-Free Strength Helps Navigate Challenges",
+    "published": 1712750520,
+    "posting_price": 39.22913584,
+    "close_price": 39.23855209,
+    "percent_change": 0.02400321
+  },
+  {
+    "title": "Andvari Associates Q1 2024 Letter",
+    "published": 1712741100,
+    "posting_price": 39.22913584,
+    "close_price": 39.23855209,
+    "percent_change": 0.02400321
+  },
+  {
+    "title": "Philip Morris: A Top Income Stock With A 6% Yield",
+    "published": 1712726240,
+    "posting_price": 39.22913584,
+    "close_price": 39.23855209,
+    "percent_change": 0.02400321
+  },
+  {
+    "title": "3 High-Yield Dividend Stocks to Buy With Payouts Over 8%",
+    "published": 1712689370,
+    "posting_price": 39.53981055,
+    "close_price": 39.64336777,
+    "percent_change": 0.26190621
+  },
+  {
+    "title": "Altria (MO) Ascends While Market Falls: Some Facts to Note",
+    "published": 1712613020,
+    "posting_price": 39.10675512,
+    "close_price": 39.50215149,
+    "percent_change": 1.01106924
+  },
+  {
+    "title": "Beer Business to Aid Constellation Brands (STZ) in Q4 Earnings",
+    "published": 1712574840,
+    "posting_price": 39.10675512,
+    "close_price": 39.50215149,
+    "percent_change": 1.01106924
+  },
+  {
+    "title": "Altria Group price target raised by 40c at UBS, here's why",
+    "published": 1712553300,
+    "posting_price": 39.10675512,
+    "close_price": 39.50215149,
+    "percent_change": 1.01106924
+  },
+  {
+    "title": "Insiders Buy the Holdings of VLUE ETF",
+    "published": 1712308680,
+    "posting_price": 39.05026794,
+    "close_price": 39.21031189,
+    "percent_change": 0.40984085
+  },
+  {
+    "title": "Passive Income Perfection: 7 Dividend Stocks to Generate $50,000 Per Year",
+    "published": 1712237312,
+    "posting_price": 39.94461881,
+    "close_price": 39.09733582,
+    "percent_change": -2.12114426
+  },
+  {
+    "title": "Altria's 9% Dividend Yield Isn't the Most Important Investment Factor. This Is the One Investors Should Watch",
+    "published": 1712235660,
+    "posting_price": 39.94461881,
+    "close_price": 39.09733582,
+    "percent_change": -2.12114426
+  },
+  {
+    "title": "Altria Group, Inc. (MO) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1712235616,
+    "posting_price": 39.94461881,
+    "close_price": 39.09733582,
+    "percent_change": -2.12114426
+  },
+  {
+    "title": "Passive Income Investors Love These 5 Dividend Kings and One Pays 9%",
+    "published": 1712216340,
+    "posting_price": 39.94461881,
+    "close_price": 39.09733582,
+    "percent_change": -2.12114426
+  },
+  {
+    "title": "Are Heated-Tobacco Products the Future of Philip Morris International? 3 Things Investors Should Watch as the Company Nears Texas Launch",
+    "published": 1712185800,
+    "posting_price": 40.44357494,
+    "close_price": 39.65277863,
+    "percent_change": -1.95530764
+  },
+  {
+    "title": "British American Tobacco: Strong Catalysts Ahead (Buy)",
+    "published": 1712185549,
+    "posting_price": 40.44357494,
+    "close_price": 39.65277863,
+    "percent_change": -1.95530764
+  },
+  {
+    "title": "America\u2019s Top Companies By Revenue (1994 Vs. 2023)",
+    "published": 1712143680,
+    "posting_price": 40.44357494,
+    "close_price": 39.65277863,
+    "percent_change": -1.95530764
+  },
+  {
+    "title": "Altria Group (MO) Shares Cross Below 200 DMA",
+    "published": 1712113380,
+    "posting_price": 40.44357494,
+    "close_price": 39.65277863,
+    "percent_change": -1.95530764
+  },
+  {
+    "title": "Altria Group Unusual Options Activity For April 03",
+    "published": 1712109180,
+    "posting_price": 40.44357494,
+    "close_price": 39.65277863,
+    "percent_change": -1.95530764
+  },
+  {
+    "title": "Altria (MO) Stock Moves -0.67%: What You Should Know",
+    "published": 1712094618,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the S&P 500?",
+    "published": 1712064600,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "Altria (NYSE:MO): Are Analysts Wrong about This 9%-Yielding Stock?",
+    "published": 1712057040,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "2 Beaten-Down Dividend Stocks With Yields Above 6% to Buy Now and Hold Forever",
+    "published": 1712049420,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "Altria: Stellar Flexibility And Resilience",
+    "published": 1712047262,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "The U.S. ban on menthol cigarettes may be pushed to after the election",
+    "published": 1712041740,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "A Deep Dive Into Investing Strategies For A Rich Retirement",
+    "published": 1712029379,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "Biden Government Again Missed Menthol Cigarettes Ban Deadline, Lawsuit Challenges FDA's Delay",
+    "published": 1712023260,
+    "posting_price": 40.69775928,
+    "close_price": 40.41533279,
+    "percent_change": -0.69396079
+  },
+  {
+    "title": "Biden administration US ban on menthol cigarettes delayed",
+    "published": 1712005078,
+    "posting_price": 41.06491431,
+    "close_price": 40.68834686,
+    "percent_change": -0.91700532
   }
 ]

@@ -1,54 +1,406 @@
 [
   {
+    "title": "Eaton Announces Breakthrough, AI-powered Innovation to Help Utilities Strengthen Wildfire Prevention Efforts",
+    "published": 1742824800,
+    "posting_price": 300.48999023,
+    "close_price": 301.67999268,
+    "percent_change": 0.39602066
+  },
+  {
     "title": "Eaton price target lowered to $354 from $407 at Goldman Sachs",
-    "published": 1741900521
+    "published": 1741900521,
+    "posting_price": 290.0,
+    "close_price": 283.70001221,
+    "percent_change": -2.17240958
   },
   {
     "title": "Here is What to Know Beyond Why Eaton Corporation, PLC (ETN) is a Trending Stock",
-    "published": 1741870813
+    "published": 1741870813,
+    "posting_price": 290.0,
+    "close_price": 283.70001221,
+    "percent_change": -2.17240958
   },
   {
     "title": "KeyBanc bumps Eaton stock to 'overweight' on growth in electrification, aerospace",
-    "published": 1741794018
+    "published": 1741794018,
+    "posting_price": 297.45999146,
+    "close_price": 292.04000854,
+    "percent_change": -1.82208804
   },
   {
     "title": "Eaton Named One of the World's Most Ethical Companies(R) for the 14th Time by the Ethisphere Institute",
-    "published": 1741784400
+    "published": 1741784400,
+    "posting_price": 297.45999146,
+    "close_price": 292.04000854,
+    "percent_change": -1.82208804
   },
   {
     "title": "Eaton named one of the World\u2019s Most Ethical Companies\u00ae for the 14th time by the Ethisphere Institute",
-    "published": 1741776300
+    "published": 1741776300,
+    "posting_price": 297.45999146,
+    "close_price": 292.04000854,
+    "percent_change": -1.82208804
   },
   {
     "title": "Eaton's $1.4B Power Play: The Deal That Could Reshape Data Center Industry",
-    "published": 1741713777
+    "published": 1741713777,
+    "posting_price": 276.52999878,
+    "close_price": 282.30999756,
+    "percent_change": 2.0901887
   },
   {
     "title": "Eaton signs agreement to acquire Fibrebond Corporation, expanding reach into multi-tenant data center market",
-    "published": 1741689900
+    "published": 1741689900,
+    "posting_price": 276.52999878,
+    "close_price": 282.30999756,
+    "percent_change": 2.0901887
   },
   {
     "title": "Eaton Names Sergio Letelier Senior Vice President, Corporate Development, Planning and Strategy",
-    "published": 1741603500
+    "published": 1741603500,
+    "posting_price": 275.88000488,
+    "close_price": 277.60998535,
+    "percent_change": 0.62707715
   },
   {
     "title": "ETN Stock Trading at a Premium to its Industry: Time to Hold or Fold?",
-    "published": 1741355100
+    "published": 1741355100,
+    "posting_price": 275.54998779,
+    "close_price": 284.98001099,
+    "percent_change": 3.42225499
   },
   {
     "title": "Staying Current: Home Electrification",
-    "published": 1741271400
+    "published": 1741271400,
+    "posting_price": 277.22000122,
+    "close_price": 277.54998779,
+    "percent_change": 0.11903419
   },
   {
     "title": "Eaton Full Year 2024 Earnings: EPS Misses Expectations",
-    "published": 1740999743
+    "published": 1740999743,
+    "posting_price": 294.98001099,
+    "close_price": 278.45999146,
+    "percent_change": -5.6003861
   },
   {
-    "title": "Eaton increases quarterly dividend by 11%",
-    "published": 1740674760
+    "title": "Eaton Corporation plc (NYSE:ETN) is largely controlled by institutional shareholders who own 85% of the company",
+    "published": 1713186028,
+    "posting_price": 321.04714553,
+    "close_price": 312.40661621,
+    "percent_change": -2.6913584
   },
   {
-    "title": "Eaton Corporation, PLC (ETN) is Attracting Investor Attention: Here is What You Should Know",
-    "published": 1740664815
+    "title": "Wells Fargo Remains a Hold on Eaton (ETN)",
+    "published": 1713158340,
+    "posting_price": 321.04714553,
+    "close_price": 312.40661621,
+    "percent_change": -2.6913584
+  },
+  {
+    "title": "Seaport power transmission analyst holds analyst/industry conference call",
+    "published": 1713154200,
+    "posting_price": 321.04714553,
+    "close_price": 312.40661621,
+    "percent_change": -2.6913584
+  },
+  {
+    "title": "Boeing weighs on large-cap industrials in turbulent week",
+    "published": 1713067380
+  },
+  {
+    "title": "Eaton Corporation, PLC (ETN) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712926815,
+    "posting_price": 311.40579995,
+    "close_price": 315.59725952,
+    "percent_change": 1.34597993
+  },
+  {
+    "title": "Stocks with the highest swings in option premium price over 3 months - JPM",
+    "published": 1712915280,
+    "posting_price": 311.40579995,
+    "close_price": 315.59725952,
+    "percent_change": 1.34597993
+  },
+  {
+    "title": "Attractive call overwriting opportunities for Russell 1000 stocks - JPM",
+    "published": 1712839980,
+    "posting_price": 311.54455936,
+    "close_price": 314.36859131,
+    "percent_change": 0.90646165
+  },
+  {
+    "title": "Eaton Corp's Options Frenzy: What You Need to Know",
+    "published": 1712800980,
+    "posting_price": 311.54455936,
+    "close_price": 314.36859131,
+    "percent_change": 0.90646165
+  },
+  {
+    "title": "Here's Why Eaton (ETN) is a Strong Growth Stock",
+    "published": 1712756709,
+    "posting_price": 306.18382888,
+    "close_price": 311.50488281,
+    "percent_change": 1.7378625
+  },
+  {
+    "title": "Wolfe Research Downgrades Eaton (ETN)",
+    "published": 1712736916,
+    "posting_price": 306.18382888,
+    "close_price": 311.50488281,
+    "percent_change": 1.7378625
+  },
+  {
+    "title": "How Is The Market Feeling About Eaton Corp?",
+    "published": 1712718300,
+    "posting_price": 306.18382888,
+    "close_price": 311.50488281,
+    "percent_change": 1.7378625
+  },
+  {
+    "title": "Here's Why You Should Hold EnerSys (ENS) in Your Portfolio",
+    "published": 1712583960,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Reasons to Add A. O. Smith (AOS) Stock to Your Portfolio Now",
+    "published": 1712583660,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "If You Invested $1000 in Eaton a Decade Ago, This is How Much It'd Be Worth Now",
+    "published": 1712579406,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Eaton Corp Unusual Options Activity",
+    "published": 1712574180,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Eaton downgraded at Wolfe Research on high valuation",
+    "published": 1712561880,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Wolfe downgrades Eaton to Underperform on 'decidedly negative' skew",
+    "published": 1712553600,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Wells Fargo Keeps Their Hold Rating on Eaton (ETN)",
+    "published": 1712553540,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Wolfe Research gets more bearish on Eaton, downgrades shares",
+    "published": 1712551260,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Eaton call volume above normal and directionally bullish",
+    "published": 1712538360,
+    "posting_price": 323.32616145,
+    "close_price": 322.85055542,
+    "percent_change": -0.14709791
+  },
+  {
+    "title": "Insiders At Eaton Sold US$6.5m In Stock, Alluding To Potential Weakness",
+    "published": 1712412020
+  },
+  {
+    "title": "RBC Capital Upgrades Eaton (ETN)",
+    "published": 1712366411
+  },
+  {
+    "title": "10 Industrials Stocks With Whale Alerts In Today's Session",
+    "published": 1712320680,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Eaton Is Poised To Benefit From 'Ongoing Electrical Super-Cycle,' Says Bullish Analyst",
+    "published": 1712312520,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Visa, Home Depot, Toyota Motor, Applied Materials and Eaton",
+    "published": 1712312280,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 5th",
+    "published": 1712307360,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Eaton upgraded by RBC Capital Markets on robust backlog, multi-year catalysts",
+    "published": 1712305560,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Netflix To Rally Over 24%? Here Are 10 Top Analyst Forecasts For Friday",
+    "published": 1712302140,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Tesla's Troubles Signal A Speed Bump For Investors In The EV Story",
+    "published": 1712301600,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Eaton Corp. PLC stock underperforms Friday when compared to competitors despite daily gains",
+    "published": 1712288700,
+    "posting_price": 320.9777547,
+    "close_price": 327.49780273,
+    "percent_change": 2.03130838
+  },
+  {
+    "title": "Eaton (ETN) Completes First Clean Energy Project in Puerto Rico",
+    "published": 1712237160,
+    "posting_price": 320.95798056,
+    "close_price": 317.24215698,
+    "percent_change": -1.15772899
+  },
+  {
+    "title": "Eaton just upgraded at RBC Capital, here's why",
+    "published": 1712202420,
+    "posting_price": 320.95798056,
+    "close_price": 317.24215698,
+    "percent_change": -1.15772899
+  },
+  {
+    "title": "Eaton put volume heavy and directionally bearish",
+    "published": 1712195760,
+    "posting_price": 320.95798056,
+    "close_price": 317.24215698,
+    "percent_change": -1.15772899
+  },
+  {
+    "title": "Manufacturing Activity Rebounds to One-and- a-Half-Year High: 5 Picks",
+    "published": 1712148120,
+    "posting_price": 312.62459138,
+    "close_price": 318.01501465,
+    "percent_change": 1.724248
+  },
+  {
+    "title": "Power Up: 3 Stocks to Ride the Massive Wave of Electricity Demand",
+    "published": 1712138460,
+    "posting_price": 312.62459138,
+    "close_price": 318.01501465,
+    "percent_change": 1.724248
+  },
+  {
+    "title": "Class 8 truck orders tumble in March",
+    "published": 1712125680,
+    "posting_price": 312.62459138,
+    "close_price": 318.01501465,
+    "percent_change": 1.724248
+  },
+  {
+    "title": "Eaton named short-term buy idea at Deutsche Bank",
+    "published": 1712115420,
+    "posting_price": 312.62459138,
+    "close_price": 318.01501465,
+    "percent_change": 1.724248
+  },
+  {
+    "title": "What the Options Market Tells Us About Eaton Corp",
+    "published": 1712107380,
+    "posting_price": 312.62459138,
+    "close_price": 318.01501465,
+    "percent_change": 1.724248
+  },
+  {
+    "title": "Barclays Upgrades Eaton (ETN)",
+    "published": 1712100088,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Eaton completes first-of-its-kind clean energy project in Puerto Rico to power manufacturing and support the regional power grid",
+    "published": 1712061180,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Wall Street Lunch: Tesla's Q1 Deliveries Disappoint",
+    "published": 1712058060,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Estee Lauder upgraded, Petco downgraded: Wall Street's top analyst calls",
+    "published": 1712048040,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Eaton (ETN) and Dycom (DY)",
+    "published": 1712047860,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Eaton upgraded at Barclays on demand for electricity, AI",
+    "published": 1712045580,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Eaton just upgraded at Barclays, here's why",
+    "published": 1712029380,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: MSC Industrial (MSM), Cintas (CTAS) and Eaton (ETN)",
+    "published": 1712026200,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
+  },
+  {
+    "title": "Deep Dive Into Eaton Corp Stock: Analyst Perspectives (10 Ratings)",
+    "published": 1712023620,
+    "posting_price": 310.18703223,
+    "close_price": 311.88143921,
+    "percent_change": 0.54625333
   }
 ]

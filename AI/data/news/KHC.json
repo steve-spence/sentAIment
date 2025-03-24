@@ -1,54 +1,448 @@
 [
   {
+    "title": "Morgan Stanley initiates coverage of food stocks, BellRing Brands a top pick",
+    "published": 1742821977,
+    "posting_price": 29.27000046,
+    "close_price": 28.94910049,
+    "percent_change": -1.09634426
+  },
+  {
+    "title": "Returns On Capital At Kraft Heinz (NASDAQ:KHC) Have Stalled",
+    "published": 1742738407
+  },
+  {
     "title": "General Mills stock drops as a slowdown in snacking drives a lower outlook",
-    "published": 1742403075
+    "published": 1742403075,
+    "posting_price": 30.17499924,
+    "close_price": 29.88999939,
+    "percent_change": -0.94449
   },
   {
     "title": "Hatching new ideas \u2013 Big Food\u2019s incubator and accelerator programmes",
-    "published": 1742216843
+    "published": 1742216843,
+    "posting_price": 30.23999977,
+    "close_price": 30.65999985,
+    "percent_change": 1.38888916
   },
   {
     "title": "AI, automation enrich Kraft Heinz\u2019s supply chain",
-    "published": 1742206717
+    "published": 1742206717,
+    "posting_price": 30.23999977,
+    "close_price": 30.65999985,
+    "percent_change": 1.38888916
   },
   {
     "title": "Why You Should Stay Away From These 3 Stocks Even as They Rally During the Market's Swoon",
-    "published": 1741977872
+    "published": 1741977872,
+    "posting_price": 30.12999916,
+    "close_price": 30.22999954,
+    "percent_change": 0.33189639
   },
   {
     "title": "Leftovers: Heinz debuts ketchup for dipping potato chips | Claussen turns pickle juice into mixer",
-    "published": 1741951636
+    "published": 1741951636,
+    "posting_price": 30.12999916,
+    "close_price": 30.22999954,
+    "percent_change": 0.33189639
   },
   {
     "title": "Reflecting On Shelf-Stable Food Stocks\u2019 Q4 Earnings: McCormick (NYSE:MKC)",
-    "published": 1741943301
+    "published": 1741943301,
+    "posting_price": 30.12999916,
+    "close_price": 30.22999954,
+    "percent_change": 0.33189639
   },
   {
     "title": "Shelf-Stable Food Stocks Q4 Results: Benchmarking J. M. Smucker (NYSE:SJM)",
-    "published": 1741943258
+    "published": 1741943258,
+    "posting_price": 30.12999916,
+    "close_price": 30.22999954,
+    "percent_change": 0.33189639
   },
   {
     "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 to Avoid",
-    "published": 1741870854
+    "published": 1741870854,
+    "posting_price": 30.3409996,
+    "close_price": 30.19000053,
+    "percent_change": -0.49767335
   },
   {
     "title": "The Weekly Sip: Capri Sun lights up for lunar eclipse | Hostess shakes into protein drinks",
-    "published": 1741864251
+    "published": 1741864251,
+    "posting_price": 30.3409996,
+    "close_price": 30.19000053,
+    "percent_change": -0.49767335
   },
   {
     "title": "Robert F. Kennedy Jr. \u2018tells Big Food to ditch artificial dyes\u2019",
-    "published": 1741783566
+    "published": 1741783566,
+    "posting_price": 30.66500092,
+    "close_price": 30.29999924,
+    "percent_change": -1.19028752
   },
   {
     "title": "HEINZ Launches Dip for Potato Chips: Same Unmistakable Ketchup, New Way to Enjoy",
-    "published": 1741777260
+    "published": 1741777260,
+    "posting_price": 30.66500092,
+    "close_price": 30.29999924,
+    "percent_change": -1.19028752
   },
   {
-    "title": "RFK Jr. Targets Longstanding Food-Safety Provision",
-    "published": 1741702509
+    "title": "Warren Buffett Collects $2.1 Billion in Dividends Every Year From These 3 Stocks",
+    "published": 1713198932,
+    "posting_price": 34.51510498,
+    "close_price": 34.59132004,
+    "percent_change": 0.22081654
   },
   {
-    "title": "Capri Sun Heads for the Moon: Takes a Lunar Leap with Debut of First-Ever Moon Punch",
-    "published": 1741690860
+    "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the Nasdaq?",
+    "published": 1713182400,
+    "posting_price": 34.51510498,
+    "close_price": 34.59132004,
+    "percent_change": 0.22081654
+  },
+  {
+    "title": "Peering Into Kraft Heinz's Recent Short Interest",
+    "published": 1713170040,
+    "posting_price": 34.51510498,
+    "close_price": 34.59132004,
+    "percent_change": 0.22081654
+  },
+  {
+    "title": "Kraft Heinz price target raised by $2 at BofA, here's why",
+    "published": 1713168360,
+    "posting_price": 34.51510498,
+    "close_price": 34.59132004,
+    "percent_change": 0.22081654
+  },
+  {
+    "title": "Heinz and Mattel join forces to create pink \u2018Barbiecue\u2019 sauce",
+    "published": 1713135660
+  },
+  {
+    "title": "The go-to cheat for feeding your kids\u2014Lunchables\u2014has lead in it, and maker Kraft Heinz says it is a naturally occurring part of food products",
+    "published": 1712952551,
+    "posting_price": 34.77233283,
+    "close_price": 34.2388382,
+    "percent_change": -1.53425033
+  },
+  {
+    "title": "Interesting KHC Put And Call Options For May 31st",
+    "published": 1712915340,
+    "posting_price": 34.77233283,
+    "close_price": 34.2388382,
+    "percent_change": -1.53425033
+  },
+  {
+    "title": "The Handoff To Normal?",
+    "published": 1712901600,
+    "posting_price": 34.77233283,
+    "close_price": 34.2388382,
+    "percent_change": -1.53425033
+  },
+  {
+    "title": "The Kraft Heinz Company's (NASDAQ:KHC) Stock Is Going Strong: Have Financials A Role To Play?",
+    "published": 1712833221,
+    "posting_price": 35.22961338,
+    "close_price": 34.84854889,
+    "percent_change": -1.08165959
+  },
+  {
+    "title": "Buy Rating Affirmed for Kraft Heinz on Consistent Performance and Strong Financial Strategy",
+    "published": 1712810880,
+    "posting_price": 35.22961338,
+    "close_price": 34.84854889,
+    "percent_change": -1.08165959
+  },
+  {
+    "title": "Wells Fargo Sticks to Its Hold Rating for Kraft Heinz (KHC)",
+    "published": 1712810160,
+    "posting_price": 35.22961338,
+    "close_price": 34.84854889,
+    "percent_change": -1.08165959
+  },
+  {
+    "title": "Kraft Heinz (KHC) Stock Moves -0.91%: What You Should Know",
+    "published": 1712787318,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "Market Meltdown Survivors: 3 Stocks to Weather Any 2024 Storm",
+    "published": 1712770638,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "Kraft Heinz\u2019s Lunchables have high amounts of sodium and lead, Consumer Reports finds",
+    "published": 1712747280,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "Buy 9 Sustainable Dividend Dogs Of Barron's Top 100",
+    "published": 1712740500,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "Food prices run cooler than overall inflation in March",
+    "published": 1712735040,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "Kraft Heinz: Current Income Growth May Not Be Sustainable",
+    "published": 1712719599,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "Consumer Reports says Lunchables \u2018should not be allowed on menu\u2019 for schools, petitions USDA for removal",
+    "published": 1712713321,
+    "posting_price": 35.25818811,
+    "close_price": 35.07718277,
+    "percent_change": -0.51337108
+  },
+  {
+    "title": "If You Can Only Buy One Warren Buffett Stock in April, It Better Be One of These 3 Names",
+    "published": 1712681737,
+    "posting_price": 35.35345611,
+    "close_price": 35.40108871,
+    "percent_change": 0.13473251
+  },
+  {
+    "title": "Warren Buffett\u2019s Portfolio: 15 Longest Held Stocks",
+    "published": 1712675681,
+    "posting_price": 35.35345611,
+    "close_price": 35.40108871,
+    "percent_change": 0.13473251
+  },
+  {
+    "title": "The Kraft Heinz Company Foundation Commits $15 Million Over Three Years to Rise Against Hunger to Provide 463 Million Meals to People in Need",
+    "published": 1712664000,
+    "posting_price": 35.35345611,
+    "close_price": 35.40108871,
+    "percent_change": 0.13473251
+  },
+  {
+    "title": "Kraft Heinz extends partnership against hunger",
+    "published": 1712652386,
+    "posting_price": 35.35345611,
+    "close_price": 35.40108871,
+    "percent_change": 0.13473251
+  },
+  {
+    "title": "FOCUS-How food companies like Coke and Kraft-Heinz are targeting low-income Americans",
+    "published": 1712602126,
+    "posting_price": 35.1248149,
+    "close_price": 35.29629517,
+    "percent_change": 0.48820263
+  },
+  {
+    "title": "The Kraft Heinz Company to Report First Quarter 2024 Results on May 1, 2024",
+    "published": 1712581200,
+    "posting_price": 35.1248149,
+    "close_price": 35.29629517,
+    "percent_change": 0.48820263
+  },
+  {
+    "title": "FOCUS-Major food companies offering deals, new sizes as low-income Americans spend less",
+    "published": 1712570400,
+    "posting_price": 35.1248149,
+    "close_price": 35.29629517,
+    "percent_change": 0.48820263
+  },
+  {
+    "title": "Food Giants Pivot To Discounts And New Sizes Amid Decreased Spending by Low-Income Americans",
+    "published": 1712565720,
+    "posting_price": 35.1248149,
+    "close_price": 35.29629517,
+    "percent_change": 0.48820263
+  },
+  {
+    "title": "Kraft Heinz (NASDAQ:KHC) Takes On Some Risk With Its Use Of Debt",
+    "published": 1712401260
+  },
+  {
+    "title": "13 Best Warren Buffett Dividend Stocks To Invest In Right Now",
+    "published": 1712348531,
+    "posting_price": 35.52494099,
+    "close_price": 35.30582809,
+    "percent_change": -0.61678611
+  },
+  {
+    "title": "KRAFT Unveils New Line of Restaurant-Worthy Creamy Sauces",
+    "published": 1712320696,
+    "posting_price": 35.52494099,
+    "close_price": 35.30582809,
+    "percent_change": -0.61678611
+  },
+  {
+    "title": "Lunchables is Back! After Fifteen Years, the Brand Returns to Canadian Shelves to Inspire Creativity and Power Kids Forward",
+    "published": 1712320695,
+    "posting_price": 35.52494099,
+    "close_price": 35.30582809,
+    "percent_change": -0.61678611
+  },
+  {
+    "title": "Leftovers: Kraft capitalizes on aioli craze | General Mills brings Old El Paso into soups, cornbread",
+    "published": 1712307180,
+    "posting_price": 35.52494099,
+    "close_price": 35.30582809,
+    "percent_change": -0.61678611
+  },
+  {
+    "title": "Kraft Heinz (KHC) Stock Moves -0.32%: What You Should Know",
+    "published": 1712267417,
+    "posting_price": 35.84884215,
+    "close_price": 35.48682785,
+    "percent_change": -1.0098354
+  },
+  {
+    "title": "May 24th Options Now Available For Kraft Heinz (KHC)",
+    "published": 1712224560,
+    "posting_price": 35.84884215,
+    "close_price": 35.48682785,
+    "percent_change": -1.0098354
+  },
+  {
+    "title": "Dividend Harvesting Portfolio Week 161: $16,100 Allocated, $1,430.49 In Projected Dividends",
+    "published": 1712221200,
+    "posting_price": 35.84884215,
+    "close_price": 35.48682785,
+    "percent_change": -1.0098354
+  },
+  {
+    "title": "Sell the Long Rally Now and Move to These 6 Warren Buffett Top Dividend Winners",
+    "published": 1712211480,
+    "posting_price": 35.84884215,
+    "close_price": 35.48682785,
+    "percent_change": -1.0098354
+  },
+  {
+    "title": "Kraft Heinz Co. stock outperforms competitors despite losses on the day",
+    "published": 1712202960,
+    "posting_price": 35.84884215,
+    "close_price": 35.48682785,
+    "percent_change": -1.0098354
+  },
+  {
+    "title": "Kraft cooks up brand refresh, creative platform for unified sauce line",
+    "published": 1712156400,
+    "posting_price": 35.62020428,
+    "close_price": 35.60115051,
+    "percent_change": -0.05349147
+  },
+  {
+    "title": "Live La Dolce VELVEETA with New Limited-Edition VELVEETA Gold Hair Dye; VELVEETA Gold allows fans to boldly showcase the iconic yellow hue of VELVEETA cheese on their locks and prove they live by their own rules",
+    "published": 1712145625,
+    "posting_price": 35.62020428,
+    "close_price": 35.60115051,
+    "percent_change": -0.05349147
+  },
+  {
+    "title": "Yes, Chef! KRAFT Unveils New Line of Restaurant-Worthy Creamy Sauces",
+    "published": 1712142000,
+    "posting_price": 35.62020428,
+    "close_price": 35.60115051,
+    "percent_change": -0.05349147
+  },
+  {
+    "title": "Lunchables\u00ae is Back! After Fifteen Years, the Brand Returns to Canadian Shelves to Inspire Creativity and Power Kids Forward",
+    "published": 1712138400,
+    "posting_price": 35.62020428,
+    "close_price": 35.60115051,
+    "percent_change": -0.05349147
+  },
+  {
+    "title": "These are the most crowded longs within consumer staples - UBS",
+    "published": 1712115480,
+    "posting_price": 35.62020428,
+    "close_price": 35.60115051,
+    "percent_change": -0.05349147
+  },
+  {
+    "title": "Top buy-rated stocks in consumer staples - Citi",
+    "published": 1712108040,
+    "posting_price": 35.62020428,
+    "close_price": 35.60115051,
+    "percent_change": -0.05349147
+  },
+  {
+    "title": "Investors Met With Slowing Returns on Capital At Kraft Heinz (NASDAQ:KHC)",
+    "published": 1712062811,
+    "posting_price": 35.42967087,
+    "close_price": 35.62020493,
+    "percent_change": 0.53778106
+  },
+  {
+    "title": "Sell The Rally Now and Move To These 6 Warren Buffett Top Dividend Winners",
+    "published": 1712049360,
+    "posting_price": 35.42967087,
+    "close_price": 35.62020493,
+    "percent_change": 0.53778106
+  },
+  {
+    "title": "Warren Buffett\u2019s Highest Yielding Stocks Are Perfect For Passive Income Fans",
+    "published": 1712042160,
+    "posting_price": 35.42967087,
+    "close_price": 35.62020493,
+    "percent_change": 0.53778106
+  },
+  {
+    "title": "Kraft Heinz call volume above normal and directionally bullish",
+    "published": 1711974360,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
+  },
+  {
+    "title": "Live La Dolce VELVEETA with New Limited-Edition VELVEETA Gold Hair Dye",
+    "published": 1711965600,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
+  },
+  {
+    "title": "Every High-Yield Dividend Stock Warren Buffett Owns -- Ranked From Worst to Best",
+    "published": 1711965000,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
+  },
+  {
+    "title": "First Week of KHC May 10th Options Trading",
+    "published": 1711964640,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
+  },
+  {
+    "title": "Kraft Heinz, NotCo targeting deeper presence in plant-based foods, exec says",
+    "published": 1711962000,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
+  },
+  {
+    "title": "The backlash against lab-grown meat is growing in the U.S.",
+    "published": 1711952220,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
+  },
+  {
+    "title": "Velveeta unveils cheese-inspired hair dye with Julia Fox",
+    "published": 1711951200,
+    "posting_price": 35.2296054,
+    "close_price": 35.30582047,
+    "percent_change": 0.21633813
   }
 ]

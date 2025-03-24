@@ -1,139 +1,91 @@
 [
   {
-    "title": "Apple launches new product",
-    "published": "2025-03-21"
+    "title": "Magnificent Seven Stocks: Meta, Nvidia Rally; Tesla Surges 10%",
+    "published": 1742838222,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Apple stock hits record high",
-    "published": "2025-03-22"
+    "title": "Apple (Only) Loses $1B a year on Streaming",
+    "published": 1742836603,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Apple's AI shakeup: They might not be 'moving the needle' on AI",
-    "published": 1742597100
+    "title": "Apple's iPhone Shipments in China Drop 21% in January, Jefferies Says",
+    "published": 1742835494,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Apple, in effort to turn around Siri, shakes up executive ranks, Bloomberg says",
-    "published": 1742573842
+    "title": "Apple Faces China Headwinds with iPhone Shipments Set to Fall Further",
+    "published": 1742834582,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Accenture reports Q2 beat, Apple TV+ losing $1B annually: Morning Buzz",
-    "published": 1742573786
+    "title": "Apple is investing another $99 million in renewable energy in China",
+    "published": 1742831220,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Report: Apple Reassigns Siri Development to Vision Pro Executive as AI Strategy Evolves",
-    "published": 1742572304
+    "title": "Apple is welcome to expand investment in China, commerce minister tells CEO",
+    "published": 1742829876,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-    "published": 1742572005
+    "title": "Is Apple Stock A Buy Amid Sluggish iPhone Sales?",
+    "published": 1742821238,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Magnificent Seven Stocks: Nvidia Slides, Tesla Rallies",
-    "published": 1742569242
+    "title": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know",
+    "published": 1742821211,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Trump Trade: President to sign EO on DOE, weighing Chevron license extension",
-    "published": 1742566575
+    "title": "Analysts revisit Apple stock price targets as Cook courts Beijing",
+    "published": 1742816817,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Severance's Fame is Good for Apple TV+: Is it True for AAPL Stock?",
-    "published": 1742566560
+    "title": "Apple Stock Has a Growth Problem. Is It Really Worth Its Premium Valuation?",
+    "published": 1742805660,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Apple\u2019s hearing aid software is impressive, but audiologists still matter",
-    "published": 1742562832
+    "title": "Apple announces $99 million new clean energy fund in China",
+    "published": 1742799280,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Apple Overhauls Siri Leadership as AI Struggles Continue",
-    "published": 1742559396
+    "title": "Why single parents are being left behind at work \u2014 and how to support them",
+    "published": 1742796054,
+    "posting_price": 221.0,
+    "close_price": 219.61720276,
+    "percent_change": -0.62570011
   },
   {
-    "title": "Cloud AI Today - NVIDIA Google Partnership Advances AI Innovation and Infrastructure",
-    "published": 1742558877
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",
-    "published": 1742547300
-  },
-  {
-    "title": "EU regulators are taking action against powerful U.S. tech companies",
-    "published": 1742515620
-  },
-  {
-    "title": "Apple faces lawsuit over Apple Intelligence delays",
-    "published": 1742509192
-  },
-  {
-    "title": "Apple (AAPL) Dips More Than Broader Market: What You Should Know",
-    "published": 1742507115
-  },
-  {
-    "title": "Short sellers have already profited over $24B from Mag 7 losses",
-    "published": 1742506953
-  },
-  {
-    "title": "Apple's AI shakeup: They might not be 'moving the needle' on AI",
-    "published": 1742597100
-  },
-  {
-    "title": "Apple, in effort to turn around Siri, shakes up executive ranks, Bloomberg says",
-    "published": 1742573842
-  },
-  {
-    "title": "Accenture reports Q2 beat, Apple TV+ losing $1B annually: Morning Buzz",
-    "published": 1742573786
-  },
-  {
-    "title": "Report: Apple Reassigns Siri Development to Vision Pro Executive as AI Strategy Evolves",
-    "published": 1742572304
-  },
-  {
-    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-    "published": 1742572005
-  },
-  {
-    "title": "Magnificent Seven Stocks: Nvidia Slides, Tesla Rallies",
-    "published": 1742569242
-  },
-  {
-    "title": "Trump Trade: President to sign EO on DOE, weighing Chevron license extension",
-    "published": 1742566575
-  },
-  {
-    "title": "Severance's Fame is Good for Apple TV+: Is it True for AAPL Stock?",
-    "published": 1742566560
-  },
-  {
-    "title": "Apple\u2019s hearing aid software is impressive, but audiologists still matter",
-    "published": 1742562832
-  },
-  {
-    "title": "Apple Overhauls Siri Leadership as AI Struggles Continue",
-    "published": 1742559396
-  },
-  {
-    "title": "Cloud AI Today - NVIDIA Google Partnership Advances AI Innovation and Infrastructure",
-    "published": 1742558877
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",
-    "published": 1742547300
-  },
-  {
-    "title": "EU regulators are taking action against powerful U.S. tech companies",
-    "published": 1742515620
-  },
-  {
-    "title": "Apple faces lawsuit over Apple Intelligence delays",
-    "published": 1742509192
-  },
-  {
-    "title": "Apple (AAPL) Dips More Than Broader Market: What You Should Know",
-    "published": 1742507115
-  },
-  {
-    "title": "Short sellers have already profited over $24B from Mag 7 losses",
-    "published": 1742506953
+    "title": "For CEOs, $100 Million Pay Packages Are Disappearing",
+    "published": 1742722200
   },
   {
     "title": "A Trump plan for TikTok is coming together \u2014 and Oracle may play a starring role",
@@ -144,131 +96,1472 @@
     "published": 1742650200
   },
   {
-    "title": "Apple is reportedly willing to lose $1 billion every year just to fuel its streaming ambitions",
-    "published": 1742641200
+    "title": "These Stocks Moved the Most Today: Trump Media, Tesla, Goldman, Informatica, Salesforce, Schwab, Logitech, and More",
+    "published": 1713212580,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Meet the Spectacular Vanguard ETF With 43.2% of Its Portfolio Invested in Nvidia, Amazon, Apple, and Microsoft",
-    "published": 1742631960
+    "title": "Apple pulls a Game Boy emulator for App Store violations, but says game emulators are allowed",
+    "published": 1713207819,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple's AI shakeup: They might not be 'moving the needle' on AI",
-    "published": 1742597100
+    "title": "Britishvolt\u2019s gigafactory site sold off in electric car blow",
+    "published": 1713204033,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple, in effort to turn around Siri, shakes up executive ranks, Bloomberg says",
-    "published": 1742573842
+    "title": "iPhone sales are plunging. Here\u2019s why",
+    "published": 1713199836,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Accenture reports Q2 beat, Apple TV+ losing $1B annually: Morning Buzz",
-    "published": 1742573786
+    "title": "These Stocks Are Moving the Most Today: Tesla, Informatica, Salesforce, Apple, Goldman Sachs, Schwab, and More",
+    "published": 1713173340,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Report: Apple Reassigns Siri Development to Vision Pro Executive as AI Strategy Evolves",
-    "published": 1742572304
+    "title": "Global iPhone shipments drop nearly 10% as Apple's 2024 woes continue",
+    "published": 1713197519,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-    "published": 1742572005
+    "title": "Apple loses top smartphone sales spot: IDC",
+    "published": 1713193010,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Magnificent Seven Stocks: Nvidia Slides, Tesla Rallies",
-    "published": 1742569242
+    "title": "Dow Jones Pares Gains As Yields Surge On Retail Sales; Goldman Pops, Tesla Slashes Jobs",
+    "published": 1713191568,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Trump Trade: President to sign EO on DOE, weighing Chevron license extension",
-    "published": 1742566575
+    "title": "Apple is no longer the world's largest phone seller",
+    "published": 1713188530,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Severance's Fame is Good for Apple TV+: Is it True for AAPL Stock?",
-    "published": 1742566560
+    "title": "News Highlights : Top Company News of the Day - Monday at 1 PM ET",
+    "published": 1713187006,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple\u2019s hearing aid software is impressive, but audiologists still matter",
-    "published": 1742562832
+    "title": "Apple iPhone Shipments Drop 10% in Market Share Battle With Chinese Rivals",
+    "published": 1713174540,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple Overhauls Siri Leadership as AI Struggles Continue",
-    "published": 1742559396
+    "title": "Apple CEO Tim Cook's Vietnam Visit Signals Increased Commitment To Local Partners, Promise Of Increased Investment In China Rival: Report",
+    "published": 1713184440,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Cloud AI Today - NVIDIA Google Partnership Advances AI Innovation and Infrastructure",
-    "published": 1742558877
+    "title": "Roaring \u201920s Reboot: AI to Drive an Unparalleled Boom",
+    "published": 1713184320,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",
-    "published": 1742547300
+    "title": "Meta to Suspend Threads in Turkey Amid Regulatory Challenges, Aims for Future Reinstatement",
+    "published": 1713184320,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "3 Reasons to be Bullish on Apple Stock (NASDAQ:AAPL)",
-    "published": 1717210129
+    "title": "Apple Comes In From The Cold",
+    "published": 1713184200,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "A Trump plan for TikTok is coming together \u2014 and Oracle may play a starring role",
-    "published": 1742653804
+    "title": "3 More AI Stocks to Buy as Nvidia Stock Keeps Soaring",
+    "published": 1713183420,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Solana\u2019s Memecoin Cabals Take Shine Off Hottest Crypto Frontier",
-    "published": 1742650200
+    "title": "Mobile Market Shake-Up: Samsung Overtakes Apple (NASDAQ:AAPL)",
+    "published": 1713183240,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple is reportedly willing to lose $1 billion every year just to fuel its streaming ambitions",
-    "published": 1742641200
+    "title": "Apple's Technical Climb To $240 By Year-End",
+    "published": 1713182993,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Meet the Spectacular Vanguard ETF With 43.2% of Its Portfolio Invested in Nvidia, Amazon, Apple, and Microsoft",
-    "published": 1742631960
+    "title": "Apple Teams Engaged Deeply With Taylor Swift On 'The Tortured Poets Department' Album: 'We've Really Built A Lot Of Credibility And Trust'",
+    "published": 1713182400,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple's AI shakeup: They might not be 'moving the needle' on AI",
-    "published": 1742597100
+    "title": "Apple\u2019s iPhone Shipments Drop 10% as Android Rivals Rise",
+    "published": 1713150064,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple, in effort to turn around Siri, shakes up executive ranks, Bloomberg says",
-    "published": 1742573842
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1713181980,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Accenture reports Q2 beat, Apple TV+ losing $1B annually: Morning Buzz",
-    "published": 1742573786
+    "title": "Warren Buffett Collects $2.1 Billion in Dividends Every Year From These 3 Stocks",
+    "published": 1713181140,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Report: Apple Reassigns Siri Development to Vision Pro Executive as AI Strategy Evolves",
-    "published": 1742572304
+    "title": "Mobile Market Shake-Up: Samsung (GB:SMSD) King of the Hill",
+    "published": 1713180720,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-    "published": 1742572005
+    "title": "Apple loses title of world\u2019s biggest phone maker as Chinese rivals eat into sales",
+    "published": 1713180518,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Magnificent Seven Stocks: Nvidia Slides, Tesla Rallies",
-    "published": 1742569242
+    "title": "Best Of All Scenarios In The Middle East, Apple iPhone Sales Fall 10%, Tesla To Layoff 10%",
+    "published": 1713179820,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Trump Trade: President to sign EO on DOE, weighing Chevron license extension",
-    "published": 1742566575
+    "title": "Samsung overtakes Apple for top phonemaker spot: report",
+    "published": 1713179560,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Severance's Fame is Good for Apple TV+: Is it True for AAPL Stock?",
-    "published": 1742566560
+    "title": "Apple\u2019s Smartphone Sales Slump as China Rivals Rise",
+    "published": 1713176760,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple\u2019s hearing aid software is impressive, but audiologists still matter",
-    "published": 1742562832
+    "title": "Trump Media's Stock Dips 15% Amid News of Potential Share Sales",
+    "published": 1713176280,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Apple Overhauls Siri Leadership as AI Struggles Continue",
-    "published": 1742559396
+    "title": "Apple Inc (AAPL)'s Winning Formula: Financial Metrics and Competitive Strengths",
+    "published": 1713175380,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "Cloud AI Today - NVIDIA Google Partnership Advances AI Innovation and Infrastructure",
-    "published": 1742558877
+    "title": "Apple promises increased spending on suppliers in Vietnam as Tim Cook lands in Hanoi",
+    "published": 1713174780,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",
-    "published": 1742547300
+    "title": "Market Clubhouse Morning Memo - April 15th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)",
+    "published": 1713173520,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
   },
   {
-    "title": "3 Reasons to be Bullish on Apple Stock (NASDAQ:AAPL)",
-    "published": 1717210129
+    "title": "Samsung takes top phone-maker spot back from Apple",
+    "published": 1713173197,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple Pushes Back Against Epic Games' Lawsuit, Accuses Latter Of Seeking To Increase Profitability",
+    "published": 1713173160,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Global smartphone shipments climb nearly 8% in 1st quarter as Samsung retakes the lead",
+    "published": 1713172740,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "2 Hypergrowth Tech Stocks to Buy in 2024 and Beyond",
+    "published": 1713172740,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple loses its spot as the world\u2019s top seller of smartphones after tough China competition from brands like Xiaomi and Huawei",
+    "published": 1713171505,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple Bull Dan Ives Says 'Robust' Tech Earnings Season Ahead: 'Not The Time To Run...Time To Own The Winners'",
+    "published": 1713170760,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Markforged Holding (MKFG) and Apple (AAPL)",
+    "published": 1713169860,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "AI Tiers And Taking Profits In Tech With Joe Albano, Tech Cache",
+    "published": 1713169800,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Notable open interest changes for April 15th",
+    "published": 1713167760,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Fly Intel: Pre-market Movers",
+    "published": 1713167640,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Morning Brew: Tech Giants Navigate Regulatory Hurdles",
+    "published": 1713166260,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "IDC says Q1 iPhone shipments slid worse-than-projected 9.6%, Bloomberg reports",
+    "published": 1713164820,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple call buyer realizes 13% same-day gains",
+    "published": 1713164460,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple\u2019s Cook to Raise Vietnam Commitment During Hanoi Visit",
+    "published": 1713163852,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Wall Street Breakfast Podcast: Samsung Overtakes Apple As Top Smartphone Maker",
+    "published": 1713163267,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "US CPI Means Less Chance on Fed Rate Cut, Investors Should Turn Into AI Opportunity",
+    "published": 1713163080,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "US Stocks Look Set To Start Week On Solid Note Despite Iran-Israel Conflict, Bitcoin Tops $66K: Why This Analyst Sees Another Tech Bull Run",
+    "published": 1713162600,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple's Smartphone Sales Slump as China Rivals Rise -- Update",
+    "published": 1713161906,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Asian Markets Set to Tumble After US Inflation Concerns",
+    "published": 1713161880,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Temu could see stricter rules under EU's Digital Services Act as users grow - report",
+    "published": 1713161520,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Unlocking Intrinsic Value: Analysis of Apple Inc",
+    "published": 1713160860,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple COO sells $10.19M in common stock",
+    "published": 1713159360,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple CFO sells $9.26M in common stock",
+    "published": 1713159360,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple\u2019s (NASDAQ:AAPL) Smartphone Shipments Take a Dip",
+    "published": 1713159180,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "US Stock Futures Rally as Markets Recover from Last Week's Losses",
+    "published": 1713158280,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Riding the AI Wave: Why Microsoft Stock Remains a Worthy Portfolio Play",
+    "published": 1713157320,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Dollar Reaching Key Break Point: Brace for Stock Market Impact?",
+    "published": 1713151920,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "What You Missed On Wall Street On Monday",
+    "published": 1713151440,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple loses top smartphone maker crown to Samsung",
+    "published": 1713150780,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Salesforce, Apple share losses lead Dow's nearly 250-point drop",
+    "published": 1713150000,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "China to Halt Real-Time Stock Flow Data via Hong Kong, Impacting Market Transparency",
+    "published": 1713147540,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple loses top phonemaker spot to Samsung as iPhone shipments drop, IDC says",
+    "published": 1713146073,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple loses top phonemaker spot to Samsung as iPhone shipments drop",
+    "published": 1713145934,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Samsung Overtakes Apple as Smartphone Leader, IDC Says",
+    "published": 1713144029,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Samsung grabs top spot from Apple in smartphone sales",
+    "published": 1713142140,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "Apple CEO Tim Cook arrives in Vietnam to meet users, boost supplier ties",
+    "published": 1713139504,
+    "posting_price": 174.53586805,
+    "close_price": 171.87841797,
+    "percent_change": -1.52258107
+  },
+  {
+    "title": "MEDIA-Apple's iPhone shipments plunge 10% as Android rivals rise - Bloomberg News",
+    "published": 1713125699
+  },
+  {
+    "title": "Antitrust fervor is gripping Washington and Silicon Valley. But lawsuits have been declining.",
+    "published": 1713106815
+  },
+  {
+    "title": "Big Tech will outperform in a high interest rate environment: Wall Street pros",
+    "published": 1713105011
+  },
+  {
+    "title": "Elon Musk Reacts To Old Clip Of Steve Jobs, Tesla Seeks Apple's Aid And Small Browsers Challenge Tech Giants: This Week In Appleverse",
+    "published": 1713099480
+  },
+  {
+    "title": "Why Nvidia's stock sell-off matters and what people are saying about it",
+    "published": 1713097844
+  },
+  {
+    "title": "AI Boom Can Lead To 'Potential Demand Growth' For This Metal, Wall Street Turns Bullish",
+    "published": 1713090360
+  },
+  {
+    "title": "Chinese Equities Rise Amid Regulatory Support, Bucking Asian Market Trend",
+    "published": 1713089880
+  },
+  {
+    "title": "1 Stock That Turned $1,000 Into More Than $1.7 Million",
+    "published": 1713088200
+  },
+  {
+    "title": "Market Briefing For Monday, April 15, 2024",
+    "published": 1713085800
+  },
+  {
+    "title": "Wall Street Favorites: 3 Magnificent 7 Stocks With Strong Buy Ratings for April 2024",
+    "published": 1713084360
+  },
+  {
+    "title": "VIX: Wall Street\u2019s \u2018Fear Signal\u2019 Says It\u2019s Buying Season",
+    "published": 1713083400
+  },
+  {
+    "title": "Market Turbulence Expected Following Iran's Strike on Israel",
+    "published": 1713082680
+  },
+  {
+    "title": "If You'd Invested $2,000 in Apple in 2011, This Is How Much You Would Have Today",
+    "published": 1713080400
+  },
+  {
+    "title": "1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",
+    "published": 1713078000
+  },
+  {
+    "title": "Apple denies violating court order in Epic Games suit, Reuters reports",
+    "published": 1713075060
+  },
+  {
+    "title": "Netflix stock deserves place in Magnificent Seven, Barron's says",
+    "published": 1713074160
+  },
+  {
+    "title": "Apple denies violating US court order in Epic Games lawsuit",
+    "published": 1713028343
+  },
+  {
+    "title": "New Masters Apple Vision Pro app gives golf fans whole new way to experience the tournament",
+    "published": 1713024306
+  },
+  {
+    "title": "3 Dow Jones Dividend Stocks That Are Within 6% of Their 52-Week Lows to Buy Now",
+    "published": 1713020460
+  },
+  {
+    "title": "QQQ: The Big Tech Is Fundamentally Vulnerable",
+    "published": 1713013314
+  },
+  {
+    "title": "Warren Buffett Bolsters Stake in Liberty SiriusXM Group",
+    "published": 1713009960
+  },
+  {
+    "title": "3 Red-Hot Stocks With Long-Term Growth Potential",
+    "published": 1713009780
+  },
+  {
+    "title": "London Metal Exchange Implements Ban on New Russian Metals Amid Sanctions",
+    "published": 1713007080
+  },
+  {
+    "title": "3 Reasons to Buy Your Next Smartphone at Costco",
+    "published": 1713004211
+  },
+  {
+    "title": "1 Unstoppable Stock That Could Join Nvidia, Microsoft, Apple, Amazon, Alphabet, and Meta in the $1 Trillion Club",
+    "published": 1713004140
+  },
+  {
+    "title": "Wedgewood Partners Q1 2024 Client Letter",
+    "published": 1712999400
+  },
+  {
+    "title": "AI Stocks: Growing Wealth in the Dot-Com Boom 2.0",
+    "published": 1712997000
+  },
+  {
+    "title": "Stocks I'm Buying The Third Week Of April",
+    "published": 1712997000
+  },
+  {
+    "title": "Got $3,000? 2 Tech Stocks to Buy and Hold for the Long Term",
+    "published": 1712992500
+  },
+  {
+    "title": "Wall Street Breakfast: What Moved Markets",
+    "published": 1712990543
+  },
+  {
+    "title": "Ensemble Capital Management Q1 2024 Letter",
+    "published": 1712988600
+  },
+  {
+    "title": "Chip Boom Champions: 3 Semiconductor Stocks to Quadruple Your Money",
+    "published": 1712986680
+  },
+  {
+    "title": "Warren Buffett Bolsters Holdings in Liberty SiriusXM Group",
+    "published": 1712972460
+  },
+  {
+    "title": "Analyst who correctly predicted Apple's stock drop reboots price target",
+    "published": 1712962980,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple Stock Rises On AI Mac News. Shares Look To Retake Key Level.",
+    "published": 1712954706,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Is Apple 'in stealth mode' while acquiring AI companies?",
+    "published": 1712951639,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "The iPhone suggests a Palestinian flag when some people type \u2018Jerusalem.\u2019 Apple is working on a fix",
+    "published": 1712946444,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Oil hits six-month high as Israel braces for Iran attack",
+    "published": 1712942185,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "S&P 500: How The Broadening Story Could Push Equities Higher",
+    "published": 1712941289,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Surge in Tech Giants' S&P 500 Influence Despite Mixed Performances",
+    "published": 1712935067,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple Stock Has 20% Upside, According to 1 Wall Street Analyst",
+    "published": 1712929452,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple to allow iPhone repairs with used parts",
+    "published": 1712929064,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Should You Invest in Apple (AAPL) Based on Bullish Wall Street Views?",
+    "published": 1712928609,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Why Am I Upgrading Apple Stock To 'Buy'",
+    "published": 1712926680,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Treasury Bill Supply Reduction Anticipated as Tax Receipts Increase",
+    "published": 1712924340,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple Q2 Earnings Preview: Analyst Sees 'Turning Point In Sentiment,' Catalysts Ahead In Second Half Of 2024 For Tech Giant",
+    "published": 1712922780,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Elliott Wave Insights: How To Navigate Microsoft Dips And Optimize Nasdaq Trades",
+    "published": 1712922600,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple Signal of AI Intent Unleashes $112 Billion Stock Surge",
+    "published": 1712922585,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Old West Investment Management Q1 2024 Investor Letter",
+    "published": 1712922300,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Trending tickers: BP, Gold, Samsung, Apple",
+    "published": 1712922263,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "UPDATE 1-Apple loses bid to throw out UK lawsuit over app store fees",
+    "published": 1712920788,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Revamping the Bank of England's Forecasting Approach: Bernanke's Recommendations",
+    "published": 1712920680,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "3 Giant Tech Stocks to Buy in April and Hold Forever",
+    "published": 1712919600,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Huawei teases launch of new high-end smartphone: Reuters",
+    "published": 1712919540,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Dozens of VIPs\u2019 phones targeted by spies, warns Apple",
+    "published": 1712919481,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Market Clubhouse Morning Memo - April 12th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)",
+    "published": 1712917140,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple\u2019s (NASDAQ:AAPL) Bid to Dismiss UK Lawsuit is Rejected",
+    "published": 1712916720,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "JP Morgan Kicks Off Earnings Season, Intel And AMD China Problem, Potential Iranian Attack",
+    "published": 1712916480,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "XLK And The Return Of Irrational Exuberance",
+    "published": 1712915853,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Google briefly eclipses $2T market cap during intraday trading",
+    "published": 1712914620,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple: Why I Sold All My Shares",
+    "published": 1712913465,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Amazon, Microsoft, and Other Tech Stocks in Focus Today",
+    "published": 1712913420,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Two Of America's Biggest Companies Have Made A 'Massive Bet' On China: 'They Can't Just Abandon...' Says Wedbush's Dan Ives",
+    "published": 1712913000,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Here Are All 27 of Warren Buffett's Billion-Dollar Bets in Berkshire Hathaway's $370 Billion Portfolio",
+    "published": 1712912760,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Moon Capital Management Q1 2024 Letter",
+    "published": 1712912400,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 12th",
+    "published": 1712912160,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Unusually active option classes on open April 12th",
+    "published": 1712911260,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Spotify Stock (NYSE:SPOT): Intriguing Innovations Could Power Growth",
+    "published": 1712911080,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "India's Stock Market Flourishes Under Modi's Leadership, Eyeing Further Growth",
+    "published": 1712909880,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple Inc. (AAPL) Sees Surge in Value After AI Mac Line Revamp Announcement",
+    "published": 1712909880,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Price-to-Earnings Perfection: 3 Stocks With Ideal P/E Ratios",
+    "published": 1712908980,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Notable open interest changes for April 12th",
+    "published": 1712908560,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Morning Brew: Tech Giants Lead Market Movements Amid Earnings Anticipation",
+    "published": 1712907060,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Wedbush's Dan Ives Says Apple Has 'Best Installed Base In The World' For Its AI Future: WWDC A 'Key Moment' For Cupertino",
+    "published": 1712906700,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple call buyer realizes 140% same-day gains",
+    "published": 1712905260,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple loses bid to throw out UK lawsuit over app store fees",
+    "published": 1712905024,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple loses attempt to have near $1B UK lawsuit over app fees thrown out: report",
+    "published": 1712904600,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "The Fab 5 Are Priced For Perfection Heading Into 1Q Earnings",
+    "published": 1712904240,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Epic Games Proposes to Open Up Google\u2019s (NASDAQ:GOOGL) Play Store",
+    "published": 1712903040,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Trump's Plan to Deregulate Financial Sector if Reelected",
+    "published": 1712902680,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple to launch new range of Macs in line with AI push: report",
+    "published": 1712902560,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "XLK: There Is Too Much Risk To Be Buying Now",
+    "published": 1712902021,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple\u2019s stock was the Dow\u2019s biggest winner this week \u2014 for the first time since November",
+    "published": 1712901720,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Huawei teases launch of new smartphone, high-end model anticipated",
+    "published": 1712901230,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Jeff Bezos' Successor Andy Jassy Touts Generative AI As Tech's Next Big Revolution In Amazon's Shareholder Letter",
+    "published": 1712900040,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Singapore's Central Bank Maintained Its Monetary Policy Settings",
+    "published": 1712899800,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Market Dynamics Shift as Powell Signals Economic Turn and Corporate Profits Soar",
+    "published": 1712899140,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Emerging Market Currencies Face Downturn Amidst Global Tensions and US Rate Shifts",
+    "published": 1712899080,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple to ease key restriction on iPhone repairs, Washington Post reports",
+    "published": 1712897820,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple alerts users in 92 nations about mercenary spyware attack, TechCrunch says",
+    "published": 1712897700,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Wall Street Analysts Are Bullish on Top Technology Picks",
+    "published": 1712895780,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "China Commits to Enhanced Equity Market Regulations and Corporate Governance",
+    "published": 1712895480,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "PRESS: Apple to overhaul entire Mac line with AI-focused M4 chips",
+    "published": 1712892540,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Enphase Energy, Super Micro most shorted S&P 500 information technology stocks in March",
+    "published": 1712889360,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple (NASDAQ:AAPL) Gears Up to Infuse AI in Mac Lineup, Stock Gains",
+    "published": 1712888820,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Intel, AMD lead chips lower on China worries; investors await earnings",
+    "published": 1712888340,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Notable Friday Option Activity: AAPL, OXY, GS",
+    "published": 1712888340,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Stock Market Pullback Proceeding On Schedule \u2013 Gold, Apple And Nvidia",
+    "published": 1712886180,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Unusual Fluctuation in U.S. Repo Market Rate Raises Eyebrows",
+    "published": 1712884680,
+    "posting_price": 173.44102962,
+    "close_price": 175.72027588,
+    "percent_change": 1.31413326
+  },
+  {
+    "title": "Apple to use new M4 chips in Mac products: Bloomberg",
+    "published": 1712867230,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "S&P 500, Nasdaq recover and close higher following March PPI",
+    "published": 1712866748,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple Plans to Overhaul Entire Mac Line With AI-Focused M4 Chips",
+    "published": 1712855721,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Tech Advances as Traders Chase Magnificent Seven -- Tech Roundup",
+    "published": 1712856272,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple plans Mac line overhaul with AI-focused M4 chips, Bloomberg News reports",
+    "published": 1712855838,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "UPDATE 2-Apple plans Mac line overhaul with AI-focused M4 chips, Bloomberg News reports",
+    "published": 1712855673,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple\u2019s Services business is a bright spot in the company\u2019s rough 2024: BofA",
+    "published": 1712854556,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Soft PPI spurs tech stocks ahead of earnings",
+    "published": 1712852280,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Selling Apple And Replacing It With SPY",
+    "published": 1712845399,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple's AI iPhone Could See 5G-Like Upgrade Cycle",
+    "published": 1712843218,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple\u2019s Moderating Valuation Draws in Hedge Funds, JPMorgan Says",
+    "published": 1712843103,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple to Overhaul Mac Line With New Processors, Bloomberg Reports",
+    "published": 1712842108,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "3 Fantastic Growth Stocks That Have Turned $10,000 Into $3 Million in 20 Years",
+    "published": 1712841060,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple readies M4 chips for Macs, Bloomberg News reports",
+    "published": 1712840787,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple Plans To Overhaul Entire Mac Line With Ai-Focused M4 Chips - Bloomberg News",
+    "published": 1712840360,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "10 Information Technology Stocks Whale Activity In Today's Session",
+    "published": 1712839320,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Surge in Repeat Debt Defaults Hits Second Highest Mark Since 2008",
+    "published": 1712837940,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Market Downturn as US Inflation Surges Affects Emerging Stocks and Currencies",
+    "published": 1712837880,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple to focus M4 chips on AI as tech giant looks to boost Mac sales: report",
+    "published": 1712837520,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple to revamp Mac line with AI-focused M4 chips, Bloomberg says",
+    "published": 1712836860,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Humane\u2019s Ai Pin considers life beyond the smartphone",
+    "published": 1712836850,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "This Dividend-Paying Cannabis Stock Had Higher 1-Year Return Than Tesla, Citigroup, Apple And Zillow",
+    "published": 1712836080,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "All-Time High Flyers: 7 Stocks to Buy as the Market Peaks",
+    "published": 1712834520,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "How to Profit From Elon Musk\u2019s $18 Billion AI Project",
+    "published": 1712832000,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "DGRO: A Broadening Into Cyclicals Helps, But Near-Term Caution Signs Rising",
+    "published": 1712831879,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Fuzzy Panda Slams Globe Life (GL) Stock in New Short Report",
+    "published": 1712831340,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Raymond James Just Raised Its Price Target on Nvidia (NVDA) Stock",
+    "published": 1712830140,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Why Apple\u2019s doubters might be getting the stock wrong again, according to BofA",
+    "published": 1712829960,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Buying In The Stock Market On Tamer Producer Price Index (PPI) And European Central Bank (ECB) Signal",
+    "published": 1712829840,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Time may be on your side, but not if you're always after the latest hot stock",
+    "published": 1712829638,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple's AI 'Upgrade Cycle To Be Driven By iPhone 17': Analyst Outlines 3 Reasons Why",
+    "published": 1712829180,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple Spyware Warning: What to Know About \u2018Mercenary Spyware Attack\u2019 Alerts",
+    "published": 1712828640,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Market Clubhouse Morning Memo - April 11th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)",
+    "published": 1712827740,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple to allow users to get their iPhones fixed with used parts",
+    "published": 1712825460,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "'Seeds' For Apple's Turnaround In China Are 'Being Planted,' Says Wedbush's Dan Ives: 'Some Patience Is Required To Navigate This Weakness'",
+    "published": 1712825400,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple sentiment improving despite relatively low growth outlook: JP Morgan",
+    "published": 1712825100,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple to expand repair options with support for used genuine parts",
+    "published": 1712822700,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Why You Should Wait for Some Dip Before Biting Into Apple Stock",
+    "published": 1712822640,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Notable open interest changes for April 11th",
+    "published": 1712822160,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Morning Brew: Tesla's New Model Sparks Investor Interest",
+    "published": 1712822100,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Joe Biden-Appointed Judge To Oversee DOJ Antitrust Lawsuit Against Apple After Farbiarz Steps Down Under Undisclosed Circumstances",
+    "published": 1712821740,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Meta's Instagram Takes Steps Against Sextortion of Teenage Users",
+    "published": 1712821740,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "NTSB investigating fatal Mustang Mach-E crash",
+    "published": 1712821260,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple To $210? Here Are 10 Top Analyst Forecasts For Thursday",
+    "published": 1712820780,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple Urged to Speak Out on Vietnam\u2019s Jailed Climate Activists",
+    "published": 1712820419,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "GLOBAL BROKER RATINGS: DZ Bank raises Henkel, Metzler raises Nordex",
+    "published": 1712818620,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "UPDATE 2-Apple drops term 'state-sponsored' attacks from its threat notification policy",
+    "published": 1712815326,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple (NASDAQ:AAPL) Warns of Mercenary Spyware Threat in 92 Countries",
+    "published": 1712814180,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple informs some users in India and 91 other nations of 'mercenary spyware attack' - report",
+    "published": 1712813520,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple informs some users in India, 91 other nations of 'mercenary spyware attack' - report",
+    "published": 1712812440,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Kishida invokes \u2018Star Trek\u2019 as he and Biden toast U.S.-Japan alliance at state dinner",
+    "published": 1712811780,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Datadog (DDOG) and Apple (AAPL)",
+    "published": 1712811780,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple price target lowered by $5 at JPMorgan, here's why",
+    "published": 1712811600,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Record Inflow of Foreign Investment in Japanese Stocks Signals Optimism",
+    "published": 1712809080,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple Issues Urgent Alert To Users In 92 Countries \u2014 Beware Of Sophisticated 'Mercenary Spyware Attack'",
+    "published": 1712809020,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Apple drops term 'state-sponsored' attacks from its threat notification policy",
+    "published": 1712808660,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "State AG Updates: March 21-27, 2024",
+    "published": 1712808611,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
+  },
+  {
+    "title": "Activists press Apple to oppose Vietnam's detainments of climate experts",
+    "published": 1712808000,
+    "posting_price": 167.54886701,
+    "close_price": 174.21737671,
+    "percent_change": 3.98003867
   }
 ]

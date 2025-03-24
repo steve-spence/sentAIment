@@ -1,30 +1,100 @@
 [
   {
+    "title": "Q4 Earnings Review: Surgical Equipment & Consumables - Specialty Stocks Led by Intuitive Surgical (NASDAQ:ISRG)",
+    "published": 1742807030,
+    "posting_price": 142.6000061,
+    "close_price": 141.5,
+    "percent_change": -0.77139274
+  },
+  {
     "title": "What Makes Teleflex Incorporated (TFX) a Cash-Generative Business?",
-    "published": 1742304581
+    "published": 1742304581,
+    "posting_price": 139.57000732,
+    "close_price": 139.96000671,
+    "percent_change": 0.27942923
   },
   {
     "title": "1 Healthcare Stock on Our Buy List and 2 to Ignore",
-    "published": 1742216456
+    "published": 1742216456,
+    "posting_price": 137.61999512,
+    "close_price": 139.75,
+    "percent_change": 1.54774375
   },
   {
     "title": "DoorDash, TKO, Williams-Sonoma Set to Join S&P 500",
-    "published": 1741601738
+    "published": 1741601738,
+    "posting_price": 139.1000061,
+    "close_price": 138.47000122,
+    "percent_change": -0.45291506
   },
   {
     "title": "Teleflex Stock Rises on Q4 Earnings Beat, Gross Margin Crashes",
-    "published": 1740753600
+    "published": 1740753600,
+    "posting_price": 135.11202212,
+    "close_price": 132.41876221,
+    "percent_change": -1.99335327
   },
   {
     "title": "S&P 500 Gains and Losses Today: Nvidia Leads Chip, AI Stocks Lower",
-    "published": 1740691996
+    "published": 1740691996,
+    "posting_price": 156.10950158,
+    "close_price": 138.76289368,
+    "percent_change": -11.11182069
   },
   {
     "title": "Equity Markets Drop Amid Tariffs Overhang",
-    "published": 1740691864
+    "published": 1740691864,
+    "posting_price": 156.10950158,
+    "close_price": 138.76289368,
+    "percent_change": -11.11182069
   },
   {
     "title": "Sector Update: Health Care Stocks Softer Late Afternoon",
-    "published": 1740689852
+    "published": 1740689852,
+    "posting_price": 156.10950158,
+    "close_price": 138.76289368,
+    "percent_change": -11.11182069
+  },
+  {
+    "title": "(TFX) - Analyzing Teleflex's Short Interest",
+    "published": 1713145800,
+    "posting_price": 214.62890065,
+    "close_price": 209.1098175,
+    "percent_change": -2.57145386
+  },
+  {
+    "title": "Teleflex (TFX) Debuts the New Unified UroLift 2 System With ATC",
+    "published": 1712578680,
+    "posting_price": 215.82999273,
+    "close_price": 215.30389404,
+    "percent_change": -0.24375606
+  },
+  {
+    "title": "Federal Circuit Upholds PTAB Finding Of Patentability In Medtronic v. Teleflex Life Sciences",
+    "published": 1712578277,
+    "posting_price": 215.82999273,
+    "close_price": 215.30389404,
+    "percent_change": -0.24375606
+  },
+  {
+    "title": "Teleflex catheterization kit recall linked to 10 injuries, 1 death",
+    "published": 1712222880,
+    "posting_price": 215.17484356,
+    "close_price": 210.33074951,
+    "percent_change": -2.25123624
+  },
+  {
+    "title": "Teleflex Incorporated Introduces the UroLift 2 System With Advanced Tissue Control, a Revolutionary Unified Platform Designed to Treat All Prostate Types",
+    "published": 1712137720,
+    "posting_price": 215.13515186,
+    "close_price": 213.1598053,
+    "percent_change": -0.91818866
+  },
+  {
+    "title": "Teleflex Incorporated Introduces the UroLift\u2122 2 System With Advanced Tissue Control, a Revolutionary Unified Platform Designed to Treat All Prostate Types",
+    "published": 1712053800,
+    "posting_price": 219.77076921,
+    "close_price": 215.7902832,
+    "percent_change": -1.81119902
   }
 ]

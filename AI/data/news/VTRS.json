@@ -1,26 +1,223 @@
 [
   {
     "title": "Q4 Earnings Roundup: Elanco (NYSE:ELAN) And The Rest Of The Pharmaceuticals Segment",
-    "published": 1742288480
+    "published": 1742288480,
+    "posting_price": 9.25,
+    "close_price": 9.52000046,
+    "percent_change": 2.91892389
   },
   {
     "title": "Q4 Earnings Highs And Lows: Amphastar Pharmaceuticals (NASDAQ:AMPH) Vs The Rest Of The Generic Pharmaceuticals Stocks",
-    "published": 1741856473
+    "published": 1741856473,
+    "posting_price": 9.27000046,
+    "close_price": 8.97999954,
+    "percent_change": -3.12838086
   },
   {
     "title": "1 Healthcare Stock to Target This Week and 2 to Turn Down",
-    "published": 1741698119
+    "published": 1741698119,
+    "posting_price": 9.48999977,
+    "close_price": 9.34000015,
+    "percent_change": -1.5806072
   },
   {
     "title": "Generic Pharmaceuticals Stocks Q4 In Review: Amneal (NASDAQ:AMRX) Vs Peers",
-    "published": 1741165429
+    "published": 1741165429,
+    "posting_price": 9.23373042,
+    "close_price": 9.362113,
+    "percent_change": 1.39036526
   },
   {
     "title": "S&P 500 Gains and Losses Today: Nvidia Leads Chip, AI Stocks Lower",
-    "published": 1740691996
+    "published": 1740691996,
+    "posting_price": 9.14484941,
+    "close_price": 9.41149139,
+    "percent_change": 2.9157613
   },
   {
     "title": "Viatris Q4 Earnings and Revenues Miss Estimates, Stock Plunges",
-    "published": 1740682560
+    "published": 1740682560,
+    "posting_price": 9.14484941,
+    "close_price": 9.41149139,
+    "percent_change": 2.9157613
+  },
+  {
+    "title": "Viatris Appoints Corinne Le Goff as Chief Commercial Officer",
+    "published": 1713182400,
+    "posting_price": 10.94880591,
+    "close_price": 10.84343624,
+    "percent_change": -0.96238504
+  },
+  {
+    "title": "Viatris Announces Launch of First Bioequivalent Generic Version of Copaxone\u00ae 20 mg/mL Once-Daily in Canada",
+    "published": 1713178740,
+    "posting_price": 10.94880591,
+    "close_price": 10.84343624,
+    "percent_change": -0.96238504
+  },
+  {
+    "title": "Viatris names Corinne Le Goff as Chief Commercial Officer",
+    "published": 1713164700,
+    "posting_price": 10.94880591,
+    "close_price": 10.84343624,
+    "percent_change": -0.96238504
+  },
+  {
+    "title": "BTIG Research Predicts Over 118% Rally for These 3 Stocks",
+    "published": 1713144300,
+    "posting_price": 10.94880591,
+    "close_price": 10.84343624,
+    "percent_change": -0.96238504
+  },
+  {
+    "title": "AbbVie keeps Humira market share near 100% despite biosimilars: report",
+    "published": 1713002160
+  },
+  {
+    "title": "Viatris Enters Oversold Territory",
+    "published": 1712918220,
+    "posting_price": 11.06375336,
+    "close_price": 10.85301495,
+    "percent_change": -1.90476417
+  },
+  {
+    "title": "New additions to Goldman\u2019s High Operating Leverage list",
+    "published": 1712746860,
+    "posting_price": 11.15954273,
+    "close_price": 11.21701717,
+    "percent_change": 0.51502505
+  },
+  {
+    "title": "Upcoming Catalysts Position Perrigo For Sustained Long-Term Dividend Growth",
+    "published": 1712641773,
+    "posting_price": 11.23617553,
+    "close_price": 11.32238674,
+    "percent_change": 0.76726471
+  },
+  {
+    "title": "Viatris Stock: Way Too Undervalued With $1 Billion Buyback Potential",
+    "published": 1712595676,
+    "posting_price": 11.2744914,
+    "close_price": 11.25533295,
+    "percent_change": -0.1699274
+  },
+  {
+    "title": "UK's Theramex sees no impact to HRT products supply after CMA probe",
+    "published": 1712324356,
+    "posting_price": 11.22659545,
+    "close_price": 11.30322742,
+    "percent_change": 0.68259314
+  },
+  {
+    "title": "Competition watchdog says HRT drug deal could raise prices",
+    "published": 1712231452,
+    "posting_price": 11.64807253,
+    "close_price": 11.26491261,
+    "percent_change": -3.28947059
+  },
+  {
+    "title": "UPDATE 1-UK watchdog says Theramex-Viatris deal raises competition concerns",
+    "published": 1712227948,
+    "posting_price": 11.64807253,
+    "close_price": 11.26491261,
+    "percent_change": -3.28947059
+  },
+  {
+    "title": "Pharma deal could reduce choice and lead to higher prices for HRT treatments",
+    "published": 1712220251,
+    "posting_price": 11.64807253,
+    "close_price": 11.26491261,
+    "percent_change": -3.28947059
+  },
+  {
+    "title": "Viatris- Theramex deal for women's care products raises antitrust concerns in U.K.",
+    "published": 1712217600,
+    "posting_price": 11.64807253,
+    "close_price": 11.26491261,
+    "percent_change": -3.28947059
+  },
+  {
+    "title": "UK watchdog says Theramex-Viatris deal raises competition concerns",
+    "published": 1712211983,
+    "posting_price": 11.64807253,
+    "close_price": 11.26491261,
+    "percent_change": -3.28947059
+  },
+  {
+    "title": "Is Viatris Inc (VTRS) Set to Underperform? Analyzing the Factors Limiting Growth",
+    "published": 1712138640,
+    "posting_price": 11.38943936,
+    "close_price": 11.51396656,
+    "percent_change": 1.09335671
+  },
+  {
+    "title": "Early notable gainers among liquid option names on April 3rd",
+    "published": 1712134560,
+    "posting_price": 11.38943936,
+    "close_price": 11.51396656,
+    "percent_change": 1.09335671
+  },
+  {
+    "title": "Steady Returns Ahead: 3 Dividend Stocks for Stable Income in Q2",
+    "published": 1712127840,
+    "posting_price": 11.38943936,
+    "close_price": 11.51396656,
+    "percent_change": 1.09335671
+  },
+  {
+    "title": "Viatris Announces the Launch of RYZUMVl 0.75% in the United States",
+    "published": 1712049641,
+    "posting_price": 11.36070208,
+    "close_price": 11.43733406,
+    "percent_change": 0.6745356
+  },
+  {
+    "title": "UPDATE 1-Teva, Viatris win new chance to challenge J&J schizophrenia drug patent",
+    "published": 1711994497,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
+  },
+  {
+    "title": "Teva, Viatris win new chance to challenge J&J schizophrenia drug patent",
+    "published": 1711986778,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
+  },
+  {
+    "title": "Teva and Viatris revives chance to dispute J&J's schizophrenia drug patent",
+    "published": 1711970340,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
+  },
+  {
+    "title": "Ocuphire Announces the U.S. Commercial Launch of RYZUMVl\u2122 (Phentolamine Ophthalmic Solution 0.75%) by its Partner Viatris",
+    "published": 1711970040,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
+  },
+  {
+    "title": "Viatris Announces the Launch of RYZUMVl\u2122 (Phentolamine Ophthalmic Solution) 0.75% in the United States",
+    "published": 1711969140,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
+  },
+  {
+    "title": "Ocuphire Pharma announces U.S. commercial launch of RYZUMVI",
+    "published": 1711952220,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
+  },
+  {
+    "title": "Viatris announces U.S. commercial launch of Ryzumvi",
+    "published": 1711951560,
+    "posting_price": 11.46607174,
+    "close_price": 11.43733406,
+    "percent_change": -0.25063231
   }
 ]

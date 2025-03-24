@@ -1,50 +1,188 @@
 [
   {
     "title": "Autodesk in proxy fight, General Mills reports mixed Q3: Morning Buzz",
-    "published": 1742486727
+    "published": 1742486727,
+    "posting_price": 167.80000305,
+    "close_price": 166.46000671,
+    "percent_change": -0.79856753
   },
   {
     "title": "Tap Billion-Dollar AI Opportunity in Oncology: Stocks in the Spotlight",
-    "published": 1742407980
+    "published": 1742407980,
+    "posting_price": 168.72999573,
+    "close_price": 168.00999451,
+    "percent_change": -0.42671797
   },
   {
     "title": "Aveanna (AVAH) Surges 6.2%: Is This an Indication of Further Gains?",
-    "published": 1742302380
+    "published": 1742302380,
+    "posting_price": 172.80999756,
+    "close_price": 172.44999695,
+    "percent_change": -0.20832163
   },
   {
     "title": "Testing & Diagnostics Services Stocks Q4 Recap: Benchmarking Quest (NYSE:DGX)",
-    "published": 1741943328
+    "published": 1741943328,
+    "posting_price": 168.27999878,
+    "close_price": 170.16000366,
+    "percent_change": 1.11718855
   },
   {
     "title": "Quest Diagnostics Stock Jumps 38% in a Year: What's Behind the Surge?",
-    "published": 1741014780
+    "published": 1741014780,
+    "posting_price": 173.63999939,
+    "close_price": 176.94999695,
+    "percent_change": 1.9062414
   },
   {
     "title": "Fresenius Medical Care divests workforce by 8,200; sells Spectra assets",
-    "published": 1740505961
+    "published": 1740505961,
+    "posting_price": 174.0,
+    "close_price": 175.41000366,
+    "percent_change": 0.81034693
   },
   {
     "title": "Is it Apt to Hold Quest Diagnostics Stock in Your Portfolio Now?",
-    "published": 1740491460
+    "published": 1740491460,
+    "posting_price": 174.0,
+    "close_price": 175.41000366,
+    "percent_change": 0.81034693
   },
   {
     "title": "Quest to buy Fresenius Medical Care kidney testing assets",
-    "published": 1740457315
+    "published": 1740457315,
+    "posting_price": 174.0,
+    "close_price": 175.41000366,
+    "percent_change": 0.81034693
   },
   {
     "title": "Take the Zacks Approach to Beat the Markets: Nomura, Wells Fargo, Primo Brands in Focus",
-    "published": 1740403200
+    "published": 1740403200,
+    "posting_price": 171.74000549,
+    "close_price": 174.05999756,
+    "percent_change": 1.35087458
   },
   {
     "title": "PODD Stock Falls Despite Q4 Earnings and Revenue Beat, Margins Rise",
-    "published": 1740145140
+    "published": 1740145140,
+    "posting_price": 171.27000427,
+    "close_price": 172.24000549,
+    "percent_change": 0.56635791
   },
   {
     "title": "GRAIL Inc (GRAL) Q4 2024 Earnings Call Highlights: Revenue Surge and Strategic Partnerships ...",
-    "published": 1740122135
+    "published": 1740122135,
+    "posting_price": 171.27000427,
+    "close_price": 172.24000549,
+    "percent_change": 0.56635791
   },
   {
-    "title": "ICLR Q4 Earnings and Revenues Beat, Stock Rises at After-Market",
-    "published": 1740061440
+    "title": "Quest Diagnostics (DGX) to Post Q1 Earnings: What's in Store?",
+    "published": 1713188820,
+    "posting_price": 127.33260646,
+    "close_price": 126.70224762,
+    "percent_change": -0.49504904
+  },
+  {
+    "title": "Q4HE Initiative Recognized for Efforts To Reduce Health Disparities",
+    "published": 1713186900,
+    "posting_price": 127.33260646,
+    "close_price": 126.70224762,
+    "percent_change": -0.49504904
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 14",
+    "published": 1712998575
+  },
+  {
+    "title": "Quest Diagnostics Inc. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 127.68719053,
+    "close_price": 126.59391022,
+    "percent_change": -0.85621769
+  },
+  {
+    "title": "Myriad Genetics (MYGN) Announces Favorable Research Results",
+    "published": 1712844000,
+    "posting_price": 130.28741373,
+    "close_price": 128.0614624,
+    "percent_change": -1.70849299
+  },
+  {
+    "title": "My Quest Story - Jessica Clow",
+    "published": 1712678400,
+    "posting_price": 128.76077455,
+    "close_price": 130.75035095,
+    "percent_change": 1.54517275
+  },
+  {
+    "title": "Quest Diagnostics price target raised by $3 at Baird, here's why",
+    "published": 1712641680,
+    "posting_price": 128.76077455,
+    "close_price": 130.75035095,
+    "percent_change": 1.54517275
+  },
+  {
+    "title": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors",
+    "published": 1712549940,
+    "posting_price": 128.66228557,
+    "close_price": 128.0811615,
+    "percent_change": -0.45166621
+  },
+  {
+    "title": "Quest Diagnostics' (NYSE:DGX) investors will be pleased with their respectable 62% return over the last five years",
+    "published": 1712312860,
+    "posting_price": 128.28799649,
+    "close_price": 128.66227722,
+    "percent_change": 0.29175039
+  },
+  {
+    "title": "Quest Diagnostics Inc's Dividend Analysis",
+    "published": 1712228755,
+    "posting_price": 130.34738846,
+    "close_price": 128.7804718,
+    "percent_change": -1.20210821
+  },
+  {
+    "title": "Quest Diagnostics (DGX) Collaborates With Broad Clinical Labs",
+    "published": 1712157720,
+    "posting_price": 129.3680731,
+    "close_price": 129.65206909,
+    "percent_change": 0.21952556
+  },
+  {
+    "title": "Quest Diagnostics and Broad Clinical Labs to Evaluate Whole Genome Sequencing as First-Line Genetic Test for Developmental Delay",
+    "published": 1712141383,
+    "posting_price": 129.3680731,
+    "close_price": 129.65206909,
+    "percent_change": 0.21952556
+  },
+  {
+    "title": "Ex-Dividend Reminder: Quest Diagnostics, Chimera Investment and Sylvamo",
+    "published": 1712134620,
+    "posting_price": 129.3680731,
+    "close_price": 129.65206909,
+    "percent_change": 0.21952556
+  },
+  {
+    "title": "Quest Diagnostics Inc. stock rises Wednesday, still underperforms market",
+    "published": 1712118120,
+    "posting_price": 129.3680731,
+    "close_price": 129.65206909,
+    "percent_change": 0.21952556
+  },
+  {
+    "title": "Quest Diagnostics and Broad Clinical Labs announce collaboration",
+    "published": 1712041200,
+    "posting_price": 131.81637822,
+    "close_price": 129.55413818,
+    "percent_change": -1.71620558
+  },
+  {
+    "title": "My Quest Story - Pauline Chaves",
+    "published": 1711996200,
+    "posting_price": 129.98501461,
+    "close_price": 131.98283386,
+    "percent_change": 1.53696121
   }
 ]

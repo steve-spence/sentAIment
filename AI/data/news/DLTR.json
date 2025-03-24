@@ -1,34 +1,342 @@
 [
   {
-    "title": "Stocks to watch next week: GameStop, Lululemon, Kingfisher, Bellway and Fevertree",
-    "published": 1742563740
+    "title": "Lululemon, Dollar Tree, Inflation, Home Prices, and More to Watch This Week",
+    "published": 1742752800
+  },
+  {
+    "title": "The Fed's preferred inflation gauge and tariff talk: What to know this week",
+    "published": 1742729407
+  },
+  {
+    "title": "Are Pop-Tarts on the Chopping Block With GOP Cuts?",
+    "published": 1742722200
+  },
+  {
+    "title": "What To Expect in the Markets This Week",
+    "published": 1742720400
+  },
+  {
+    "title": "Stocks to watch this week: GameStop, Lululemon, Kingfisher, Bellway and Fevertree",
+    "published": 1742563740,
+    "posting_price": 64.11000061,
+    "close_price": 66.75,
+    "percent_change": 4.11792133
   },
   {
     "title": "3 Value Stocks in Hot Water",
-    "published": 1742475764
+    "published": 1742475764,
+    "posting_price": 64.27999878,
+    "close_price": 64.58999634,
+    "percent_change": 0.4822613
   },
   {
     "title": "Dollar Tree Q4 Earnings on Deck: What Surprise Awaits Investors?",
-    "published": 1742401320
+    "published": 1742401320,
+    "posting_price": 64.75,
+    "close_price": 64.30000305,
+    "percent_change": -0.69497598
   },
   {
     "title": "Dollar General, Dollar Tree stocks rise as penny-pinching consumers look for low-cost options",
-    "published": 1741902483
+    "published": 1741902483,
+    "posting_price": 62.47000122,
+    "close_price": 66.0,
+    "percent_change": 5.65071028
   },
   {
     "title": "The Weekly Closeout: Trade groups sound the alarm on tariffs, L\u2019Or\u00e9al sells Carol\u2019s Daughter",
-    "published": 1741351200
+    "published": 1741351200,
+    "posting_price": 68.16000366,
+    "close_price": 68.98999786,
+    "percent_change": 1.21771443
   },
   {
-    "title": "Earnings Preview: Dollar General (DG) Q4 Earnings Expected to Decline",
-    "published": 1741273211
+    "title": "Retail rallies after consumers keep spending at a solid pace in March",
+    "published": 1713171660,
+    "posting_price": 127.19000244,
+    "close_price": 125.36000061,
+    "percent_change": -1.43879377
   },
   {
-    "title": "Dollar Tree names Express vet CFO",
-    "published": 1741263480
+    "title": "Dollar Tree price target raised by $8 at JPMorgan, here's why",
+    "published": 1713159240,
+    "posting_price": 127.19000244,
+    "close_price": 125.36000061,
+    "percent_change": -1.43879377
   },
   {
-    "title": "Dollar Tree names new CFO, Stewart Glendinning",
-    "published": 1741200682
+    "title": "Insiders are Amassing These 10 Stocks in April",
+    "published": 1713109069
+  },
+  {
+    "title": "3 Must-Buy International Stocks for a Diversified Portfolio",
+    "published": 1713058800
+  },
+  {
+    "title": "Why Is Dollar Tree (DLTR) Up 4% Since Last Earnings Report?",
+    "published": 1712935804,
+    "posting_price": 129.1499939,
+    "close_price": 125.19000244,
+    "percent_change": -3.06619562
+  },
+  {
+    "title": "Shrink Contributed to 99 Cents\u2019 Demise, And So Did An\u00a0LBO",
+    "published": 1712925000,
+    "posting_price": 129.1499939,
+    "close_price": 125.19000244,
+    "percent_change": -3.06619562
+  },
+  {
+    "title": "Pennies From Heaven: Dollar Tree, Dollar General Boosted by 99 Cents Bankruptcy",
+    "published": 1712859600,
+    "posting_price": 130.0,
+    "close_price": 130.25,
+    "percent_change": 0.19230769
+  },
+  {
+    "title": "Dollar stores are shutting down across America. They did this to themselves",
+    "published": 1712839237,
+    "posting_price": 130.0,
+    "close_price": 130.25,
+    "percent_change": 0.19230769
+  },
+  {
+    "title": "Dollar Tree seen as the biggest beneficiary of the shutdown of 99 Cents Only",
+    "published": 1712815320,
+    "posting_price": 130.0,
+    "close_price": 130.25,
+    "percent_change": 0.19230769
+  },
+  {
+    "title": "Peering Into Dollar Tree's Recent Short Interest",
+    "published": 1712800020,
+    "posting_price": 130.0,
+    "close_price": 130.25,
+    "percent_change": 0.19230769
+  },
+  {
+    "title": "99 Cents Only Stores Latest Victim Of Retail Crime, Forced To Close All Locations As Retail Theft Grows By 16%",
+    "published": 1712768416,
+    "posting_price": 125.45999908,
+    "close_price": 128.72999573,
+    "percent_change": 2.60640577
+  },
+  {
+    "title": "Dollar General Stock Has Risen 49% Over the Last 6 Months. Can This Bull Run Continue?",
+    "published": 1712745060,
+    "posting_price": 125.45999908,
+    "close_price": 128.72999573,
+    "percent_change": 2.60640577
+  },
+  {
+    "title": "The Boulder Group Arranges Sale of Net Leased Dollar Tree in Chicago",
+    "published": 1712721912,
+    "posting_price": 125.45999908,
+    "close_price": 128.72999573,
+    "percent_change": 2.60640577
+  },
+  {
+    "title": "Dollar Tree Inc. stock outperforms competitors on strong trading day",
+    "published": 1712720100,
+    "posting_price": 125.45999908,
+    "close_price": 128.72999573,
+    "percent_change": 2.60640577
+  },
+  {
+    "title": "Dollar Tree (DLTR) Trends Up the Charts: Will It Continue?",
+    "published": 1712681040,
+    "posting_price": 128.00999451,
+    "close_price": 127.33000183,
+    "percent_change": -0.5312028
+  },
+  {
+    "title": "Insiders Bullish on Certain Holdings of RSPS",
+    "published": 1712652420,
+    "posting_price": 128.00999451,
+    "close_price": 127.33000183,
+    "percent_change": -0.5312028
+  },
+  {
+    "title": "Wall Street Breakfast Podcast: Samsung Reportedly Secures $6B Grant For U.S. Chip Expansion",
+    "published": 1712645770,
+    "posting_price": 128.00999451,
+    "close_price": 127.33000183,
+    "percent_change": -0.5312028
+  },
+  {
+    "title": "How food companies like Coke and Kraft-Heinz are targeting low-income Americans",
+    "published": 1712587726,
+    "posting_price": 129.77000427,
+    "close_price": 128.22000122,
+    "percent_change": -1.19442321
+  },
+  {
+    "title": "Food Giants Pivot To Discounts And New Sizes Amid Decreased Spending by Low-Income Americans",
+    "published": 1712565720,
+    "posting_price": 129.77000427,
+    "close_price": 128.22000122,
+    "percent_change": -1.19442321
+  },
+  {
+    "title": "Dollar stores weighed down by 99 Cents Only bankruptcy",
+    "published": 1712542920,
+    "posting_price": 129.77000427,
+    "close_price": 128.22000122,
+    "percent_change": -1.19442321
+  },
+  {
+    "title": "Dollar Tree, Walgreens CFOs Snap Up the Stocks",
+    "published": 1712473200
+  },
+  {
+    "title": "When Should You Buy Dollar Tree, Inc. (NASDAQ:DLTR)?",
+    "published": 1712412821
+  },
+  {
+    "title": "California-based 99 Cents Only Stores is closing down, citing COVID, inflation and product theft",
+    "published": 1712343360,
+    "posting_price": 129.75999451,
+    "close_price": 130.71000671,
+    "percent_change": 0.73213027
+  },
+  {
+    "title": "What 99 Cents Shutdown Says About the Retail\u00a0Landscape",
+    "published": 1712331900,
+    "posting_price": 129.75999451,
+    "close_price": 130.71000671,
+    "percent_change": 0.73213027
+  },
+  {
+    "title": "Dollar Tree Is Raising Prices Again -- and You Won't Believe How Much Some Items Will Cost",
+    "published": 1712327414,
+    "posting_price": 129.75999451,
+    "close_price": 130.71000671,
+    "percent_change": 0.73213027
+  },
+  {
+    "title": "Insiders Are Buying These 5 Stocks",
+    "published": 1712264640,
+    "posting_price": 134.58999634,
+    "close_price": 129.74000549,
+    "percent_change": -3.60352997
+  },
+  {
+    "title": "Costco vs. Dollar Tree: One Is Lowering Prices, the Other Is Raising Them. Which Strategy Could Pay Off for Investors?",
+    "published": 1712231100,
+    "posting_price": 134.58999634,
+    "close_price": 129.74000549,
+    "percent_change": -3.60352997
+  },
+  {
+    "title": "DLTR Crosses Below Key Moving Average Level",
+    "published": 1712201340,
+    "posting_price": 134.58999634,
+    "close_price": 129.74000549,
+    "percent_change": -3.60352997
+  },
+  {
+    "title": "Walmart, Dollar Tree, and auto and home retailers stand to benefit from higher tax refunds",
+    "published": 1712175179,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Costco Stock Has Been a Long-Term Winner. Why One Analyst Just Downgraded.",
+    "published": 1712159160,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "5 Reasons to Buy Realty Income Stock Like There's No Tomorrow",
+    "published": 1712148300,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Costco, Lowe\u2019s, Five Below, Dollar Tree downgraded due to \u2018extreme\u2019 valuations",
+    "published": 1712137080,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "UPS upgraded, PepsiCo downgraded: Wall Street's top analyst calls",
+    "published": 1712134500,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Shopify To Rally Around 12%? Here Are 10 Top Analyst Forecasts For Wednesday",
+    "published": 1712129400,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Gordon Haskett waves 'yellow flag,' downgrades four retailers after rally",
+    "published": 1712122560,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Gordon Haskett gets more bearish on Dollar Tree, downgrades shares",
+    "published": 1712121840,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Top buy-rated stocks in consumer staples - Citi",
+    "published": 1712108040,
+    "posting_price": 134.63000488,
+    "close_price": 134.19000244,
+    "percent_change": -0.32682346
+  },
+  {
+    "title": "Insider Buying: CFO Jeffrey Davis Acquires 1,800 Shares of Dollar Tree Inc (DLTR)",
+    "published": 1712098864,
+    "posting_price": 135.88000488,
+    "close_price": 134.72999573,
+    "percent_change": -0.8463417
+  },
+  {
+    "title": "Critical Insights From Dollar Tree Analyst Ratings: What You Need To Know",
+    "published": 1712059500,
+    "posting_price": 135.88000488,
+    "close_price": 134.72999573,
+    "percent_change": -0.8463417
+  },
+  {
+    "title": "The Dollar-Store Showdown Comes Down to Real Estate",
+    "published": 1712050200,
+    "posting_price": 135.88000488,
+    "close_price": 134.72999573,
+    "percent_change": -0.8463417
+  },
+  {
+    "title": "Dollar Tree CFO buys $244.8K in common stock",
+    "published": 1712037480,
+    "posting_price": 135.88000488,
+    "close_price": 134.72999573,
+    "percent_change": -0.8463417
+  },
+  {
+    "title": "Top 20 S&P 500 stocks by hedge fund net exposure - BofA",
+    "published": 1711966320,
+    "posting_price": 133.66999817,
+    "close_price": 135.91000366,
+    "percent_change": 1.67577281
+  },
+  {
+    "title": "Dollar Tree (DLTR) Gets a Buy from Loop Capital Markets",
+    "published": 1711953420,
+    "posting_price": 133.66999817,
+    "close_price": 135.91000366,
+    "percent_change": 1.67577281
   }
 ]

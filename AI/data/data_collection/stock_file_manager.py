@@ -6,6 +6,12 @@ class StockNewsManager:
         self.directory = directory
         os.makedirs(self.directory, exist_ok=True)
 
+    def load_news(self, symbol: str):
+        file_path = os.path.join(self.directory, f"{symbol}.json")
+        with open(file_path, 'r') as file:
+            news_data = json.load(file)
+        return news_data
+
     def save_news(self, symbol: str, news_list: list):
         file_path = os.path.join(self.directory, f"{symbol}.json")
 

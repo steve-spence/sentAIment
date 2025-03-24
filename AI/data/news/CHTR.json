@@ -1,15 +1,24 @@
 [
   {
     "title": "Charter and Comcast Launch Satellite Connectivity for Mobile Devices",
-    "published": 1742493600
+    "published": 1742493600,
+    "posting_price": 351.89001465,
+    "close_price": 362.57998657,
+    "percent_change": 3.03787305
   },
   {
     "title": "Burke Wealth Management Repurchased Charter Communications (CHTR) Due to its Improving Visibility And Business Trends",
-    "published": 1742472458
+    "published": 1742472458,
+    "posting_price": 351.89001465,
+    "close_price": 362.57998657,
+    "percent_change": 3.03787305
   },
   {
     "title": "SPECTRUM'S FREE TUITION PROGRAM IS BUILDING A STRONGER WORKFORCE",
-    "published": 1742405400
+    "published": 1742405400,
+    "posting_price": 353.6499939,
+    "close_price": 353.01998901,
+    "percent_change": -0.17814362
   },
   {
     "title": "Chipotle upgraded, Charter initiated: Wall Street\u2019s top analyst calls",
@@ -17,34 +26,454 @@
   },
   {
     "title": "Why Charter Communications (CHTR) is a Top Momentum Stock for the Long-Term",
-    "published": 1741787405
+    "published": 1741787405,
+    "posting_price": 353.73001099,
+    "close_price": 349.75,
+    "percent_change": -1.12515502
   },
   {
     "title": "SPECTRUM AND TEAMSNAP ANNOUNCE EXPANDED SPONSORSHIP TO TRIPLE INVESTMENT IN YOUTH SPORTS",
-    "published": 1741786200
+    "published": 1741786200,
+    "posting_price": 353.73001099,
+    "close_price": 349.75,
+    "percent_change": -1.12515502
   },
   {
     "title": "Here\u2019s Why Conventum \u2013 Alluvium Global Fund Trimmed Liberty Broadband Corporation (LBRDA)",
-    "published": 1741605853
+    "published": 1741605853,
+    "posting_price": 378.5,
+    "close_price": 373.51998901,
+    "percent_change": -1.31572285
   },
   {
     "title": "Conventum \u2013 Alluvium Global Fund Increased its Position in Charter Communications (CHTR)",
-    "published": 1741605172
+    "published": 1741605172,
+    "posting_price": 378.5,
+    "close_price": 373.51998901,
+    "percent_change": -1.31572285
   },
   {
     "title": "3 Reasons CHTR is Risky and 1 Stock to Buy Instead",
-    "published": 1741338072
+    "published": 1741338072,
+    "posting_price": 381.95001221,
+    "close_price": 379.51998901,
+    "percent_change": -0.63621498
   },
   {
     "title": "SPECTRUM ELEVATES KEITH DARDIS TO EXECUTIVE VICE PRESIDENT, SPECTRUM BUSINESS",
-    "published": 1741271400
+    "published": 1741271400,
+    "posting_price": 378.89001465,
+    "close_price": 382.94000244,
+    "percent_change": 1.06890856
   },
   {
     "title": "SPECTRUM TO AWARD $1 MILLION IN 2025 SPECTRUM DIGITAL EDUCATION GRANTS",
-    "published": 1740409200
+    "published": 1740409200,
+    "posting_price": 365.83999634,
+    "close_price": 365.79998779,
+    "percent_change": -0.01093608
   },
   {
     "title": "Comcast Is a Complicated Company. Its Stock Presents a Clear and Simple Opportunity.",
-    "published": 1740179160
+    "published": 1740179160,
+    "posting_price": 364.48001099,
+    "close_price": 361.0,
+    "percent_change": -0.95478789
+  },
+  {
+    "title": "Charter Communications (NASDAQ:CHTR) Is Experiencing Growth In Returns On Capital",
+    "published": 1713203139,
+    "posting_price": 261.89001465,
+    "close_price": 256.8999939,
+    "percent_change": -1.90538794
+  },
+  {
+    "title": "Paramount, Etsy, Albemarle among most shorted S&P 500 stocks in March",
+    "published": 1713183540,
+    "posting_price": 261.89001465,
+    "close_price": 256.8999939,
+    "percent_change": -1.90538794
+  },
+  {
+    "title": "Cisco To Rally Around 24%? Here Are 10 Top Analyst Forecasts For Monday",
+    "published": 1713167100,
+    "posting_price": 261.89001465,
+    "close_price": 256.8999939,
+    "percent_change": -1.90538794
+  },
+  {
+    "title": "10 Most Undervalued Value Stocks To Buy Now",
+    "published": 1713024733
+  },
+  {
+    "title": "Interesting CHTR Put And Call Options For May 31st",
+    "published": 1712917140,
+    "posting_price": 263.6000061,
+    "close_price": 260.5,
+    "percent_change": -1.17602657
+  },
+  {
+    "title": "ClearBridge Large Cap Value Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712913300,
+    "posting_price": 263.6000061,
+    "close_price": 260.5,
+    "percent_change": -1.17602657
+  },
+  {
+    "title": "Paramount most shorted S&P 500 communications stock in March; Alphabet least shorted",
+    "published": 1712911500,
+    "posting_price": 263.6000061,
+    "close_price": 260.5,
+    "percent_change": -1.17602657
+  },
+  {
+    "title": "No More Hidden Internet Fees \u2014 FCC Forces ISPs To Show True Costs Like 'Nutrition Labels'",
+    "published": 1712838780,
+    "posting_price": 264.98001099,
+    "close_price": 266.52999878,
+    "percent_change": 0.58494518
+  },
+  {
+    "title": "QQQ ETF Update, 4/11/2024",
+    "published": 1712816580,
+    "posting_price": 264.98001099,
+    "close_price": 266.52999878,
+    "percent_change": 0.58494518
+  },
+  {
+    "title": "Parnassus Value Equity Fund's Strategic Moves: Spotlight on Amdocs Ltd with a -1.7% Impact",
+    "published": 1712808120,
+    "posting_price": 264.98001099,
+    "close_price": 266.52999878,
+    "percent_change": 0.58494518
+  },
+  {
+    "title": "12 Best Depressed Stocks To Buy in 2024",
+    "published": 1712786947,
+    "posting_price": 266.04000854,
+    "close_price": 262.8500061,
+    "percent_change": -1.19906869
+  },
+  {
+    "title": "AT&T, Comcast, Verizon Challenge: Subsidy Slash Threatens Internet for 23M Households",
+    "published": 1712745300,
+    "posting_price": 266.04000854,
+    "close_price": 262.8500061,
+    "percent_change": -1.19906869
+  },
+  {
+    "title": "SPY ETF Update, 4/10/2024",
+    "published": 1712727420,
+    "posting_price": 266.04000854,
+    "close_price": 262.8500061,
+    "percent_change": -1.19906869
+  },
+  {
+    "title": "FCC to slash broadband subsidy payouts in May, Washington Post reports",
+    "published": 1712727240,
+    "posting_price": 266.04000854,
+    "close_price": 262.8500061,
+    "percent_change": -1.19906869
+  },
+  {
+    "title": "Oakmark Equity And Income Fund: First Calendar Quarter 2024 Commentary",
+    "published": 1712724900,
+    "posting_price": 266.04000854,
+    "close_price": 262.8500061,
+    "percent_change": -1.19906869
+  },
+  {
+    "title": "Oakmark Global Select Fund: First Calendar Quarter 2024",
+    "published": 1712715600,
+    "posting_price": 266.04000854,
+    "close_price": 262.8500061,
+    "percent_change": -1.19906869
+  },
+  {
+    "title": "SPECTRUM MOBILE LAUNCHES INNOVATIVE ANYTIME UPGRADE AND NEW LOW-COST DEVICE PROTECTION PLAN",
+    "published": 1712683800,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Warren Buffett\u2019s Portfolio: 15 Longest Held Stocks",
+    "published": 1712675681,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Oakmark Global Fund: First Calendar Quarter 2024 Commentary",
+    "published": 1712658300,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Oakmark Select Fund: First Calendar Quarter 2024 Commentary",
+    "published": 1712655900,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Robinhood To Rally Around 51%? Here Are 10 Top Analyst Forecasts For Tuesday",
+    "published": 1712648640,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Altice USA downgraded to Underperform at Exane BNP Paribas with $1 target",
+    "published": 1712646720,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Citi cuts Charter target, opens 'negative catalyst watch'",
+    "published": 1712643480,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Charter price target lowered by $35 at BofA, here's why",
+    "published": 1712642160,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Charter Communications Faces Subscriber Churn and Financial Headwinds as ACP Ends: Maintaining Hold Rating",
+    "published": 1712639820,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "David Herro's Oakmark Global Select Fund 1st-Quarter Commentary: A Recap",
+    "published": 1712630340,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "David Herro's Oakmark Global Fund 1st-Quarter Commentary: A Review",
+    "published": 1712629680,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Bill Nygren's Oakmark Select Fund 1st-Quarter Commentary: Looking Back",
+    "published": 1712628540,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Bill Nygren's Oakmark Fund 1st-Quarter Commentary: A Recap",
+    "published": 1712627820,
+    "posting_price": 270.1499939,
+    "close_price": 271.45999146,
+    "percent_change": 0.4849149
+  },
+  {
+    "title": "Charter Communications (CHTR) Fell on a 0.2% Sequential Decline in Subscribers",
+    "published": 1712584405,
+    "posting_price": 266.17001343,
+    "close_price": 273.04998779,
+    "percent_change": 2.58480445
+  },
+  {
+    "title": "SPY ETF Update, 4/8/2024",
+    "published": 1712554200,
+    "posting_price": 266.17001343,
+    "close_price": 273.04998779,
+    "percent_change": 2.58480445
+  },
+  {
+    "title": "QQQ ETF Update, 4/5/2024",
+    "published": 1712321220,
+    "posting_price": 269.17001343,
+    "close_price": 267.48999023,
+    "percent_change": -0.62414947
+  },
+  {
+    "title": "Wondering Where To Find An Over 7% Annual Return? Check Out These 10 Investment-Grade Corporate Bonds",
+    "published": 1712316540,
+    "posting_price": 269.17001343,
+    "close_price": 267.48999023,
+    "percent_change": -0.62414947
+  },
+  {
+    "title": "Assessing Charter Communications: Insights From 11 Financial Analysts",
+    "published": 1712314800,
+    "posting_price": 269.17001343,
+    "close_price": 267.48999023,
+    "percent_change": -0.62414947
+  },
+  {
+    "title": "Altice slips as Wells Fargo cuts estimates, downgrades amid fiber competition worries",
+    "published": 1712301540,
+    "posting_price": 269.17001343,
+    "close_price": 267.48999023,
+    "percent_change": -0.62414947
+  },
+  {
+    "title": "Charter price target lowered by $50 at Wells Fargo, here's why",
+    "published": 1712293740,
+    "posting_price": 269.17001343,
+    "close_price": 267.48999023,
+    "percent_change": -0.62414947
+  },
+  {
+    "title": "Wells Fargo Remains a Hold on Charter Communications (CHTR)",
+    "published": 1712293560,
+    "posting_price": 269.17001343,
+    "close_price": 267.48999023,
+    "percent_change": -0.62414947
+  },
+  {
+    "title": "CHTR May 24th Options Begin Trading",
+    "published": 1712224620,
+    "posting_price": 276.52999878,
+    "close_price": 271.23001099,
+    "percent_change": -1.916605
+  },
+  {
+    "title": "Goldman Sachs spotlights Q1 winners and losers, naming: Bitcoin, NVDA, BA, TSLA, and more",
+    "published": 1712221380,
+    "posting_price": 276.52999878,
+    "close_price": 271.23001099,
+    "percent_change": -1.916605
+  },
+  {
+    "title": "Charter Communications Inc. Cl A stock outperforms competitors despite losses on the day",
+    "published": 1712202960,
+    "posting_price": 276.52999878,
+    "close_price": 271.23001099,
+    "percent_change": -1.916605
+  },
+  {
+    "title": "Diamond Sports Group Reaches Multi-Year Distribution Agreement with Charter",
+    "published": 1712165460,
+    "posting_price": 278.47000122,
+    "close_price": 275.69000244,
+    "percent_change": -0.99831176
+  },
+  {
+    "title": "The Bottom 3 S&P 500 Stocks Of Q1 2024",
+    "published": 1712141024,
+    "posting_price": 278.47000122,
+    "close_price": 275.69000244,
+    "percent_change": -0.99831176
+  },
+  {
+    "title": "Sinclair\u2019s Diamond Sports extends distribution deal with Charter Communications",
+    "published": 1712130240,
+    "posting_price": 278.47000122,
+    "close_price": 275.69000244,
+    "percent_change": -0.99831176
+  },
+  {
+    "title": "QQQ ETF Update, 4/3/2024",
+    "published": 1712123160,
+    "posting_price": 278.47000122,
+    "close_price": 275.69000244,
+    "percent_change": -0.99831176
+  },
+  {
+    "title": "Charter Communications: Navigating Short-term Challenges with Long-term Growth Prospects",
+    "published": 1712119020,
+    "posting_price": 278.47000122,
+    "close_price": 275.69000244,
+    "percent_change": -0.99831176
+  },
+  {
+    "title": "Diamond Sports Group renews distribution agreement with Charter",
+    "published": 1712118780,
+    "posting_price": 278.47000122,
+    "close_price": 275.69000244,
+    "percent_change": -0.99831176
+  },
+  {
+    "title": "Stock Stinkers: 3 Warren Buffett Holdings Disappointing Investors in 2024",
+    "published": 1712084400,
+    "posting_price": 284.0,
+    "close_price": 278.01998901,
+    "percent_change": -2.10563767
+  },
+  {
+    "title": "Warner Bros. Discovery board members resigned amid antitrust probe, NYT reports",
+    "published": 1712034480,
+    "posting_price": 284.0,
+    "close_price": 278.01998901,
+    "percent_change": -2.10563767
+  },
+  {
+    "title": "Charter price target lowered by $30 at Barclays, here's why",
+    "published": 1712032020,
+    "posting_price": 284.0,
+    "close_price": 278.01998901,
+    "percent_change": -2.10563767
+  },
+  {
+    "title": "Charter Communications (CHTR) Gets a Sell from Barclays",
+    "published": 1712025420,
+    "posting_price": 284.0,
+    "close_price": 278.01998901,
+    "percent_change": -2.10563767
+  },
+  {
+    "title": "Two directors of Warner Bros resign over possible antitrust violation",
+    "published": 1712018700,
+    "posting_price": 284.0,
+    "close_price": 278.01998901,
+    "percent_change": -2.10563767
+  },
+  {
+    "title": "GLOBAL BRIEFING: Stocks to edge lower; gold and oil push higher",
+    "published": 1712017920,
+    "posting_price": 284.0,
+    "close_price": 278.01998901,
+    "percent_change": -2.10563767
+  },
+  {
+    "title": "Two Members of Warner Bros. Discovery\u2019s Board Resign to Resolve Antitrust Concerns",
+    "published": 1712010480,
+    "posting_price": 290.33999634,
+    "close_price": 284.1499939,
+    "percent_change": -2.13198406
+  },
+  {
+    "title": "S&P 500 stocks with the lowest hedge fund net exposure - BofA",
+    "published": 1711966980,
+    "posting_price": 290.33999634,
+    "close_price": 284.1499939,
+    "percent_change": -2.13198406
+  },
+  {
+    "title": "The most shorted S&P 500 stocks as a percentage of float - BofA",
+    "published": 1711963200,
+    "posting_price": 290.33999634,
+    "close_price": 284.1499939,
+    "percent_change": -2.13198406
+  },
+  {
+    "title": "Charter price target lowered by $35 at JPMorgan, here's why",
+    "published": 1711957920,
+    "posting_price": 290.33999634,
+    "close_price": 284.1499939,
+    "percent_change": -2.13198406
+  },
+  {
+    "title": "Two Warner Bros. Discovery directors resign over antitrust concerns",
+    "published": 1711954680,
+    "posting_price": 290.33999634,
+    "close_price": 284.1499939,
+    "percent_change": -2.13198406
   }
 ]

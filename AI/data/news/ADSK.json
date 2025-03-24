@@ -1,30 +1,287 @@
 [
   {
     "title": "Autodesk in proxy fight, General Mills reports mixed Q3: Morning Buzz",
-    "published": 1742486727
+    "published": 1742486727,
+    "posting_price": 268.04998779,
+    "close_price": 267.82000732,
+    "percent_change": -0.08579761
   },
   {
     "title": "These Stocks Moved the Most Today: Nvidia, Tesla, Boeing, Autodesk, Gilead, Signet, Williams-Sonoma, and More",
-    "published": 1742417220
+    "published": 1742417220,
+    "posting_price": 263.07000732,
+    "close_price": 268.29998779,
+    "percent_change": 1.98805653
   },
   {
     "title": "Stocks to Watch Wednesday: Nvidia, Shopify, Williams-Sonoma, Tesla",
-    "published": 1742399117
+    "published": 1742399117,
+    "posting_price": 263.07000732,
+    "close_price": 268.29998779,
+    "percent_change": 1.98805653
   },
   {
     "title": "Boeing, Nvidia, Tesla, BYD, Tencent, Gilead, General Mills, Autodesk: Stocks in view today",
-    "published": 1742396100
+    "published": 1742396100,
+    "posting_price": 263.07000732,
+    "close_price": 268.29998779,
+    "percent_change": 1.98805653
   },
   {
     "title": "Exploring US High Growth Tech Stocks With Promising Potential",
-    "published": 1742317699
+    "published": 1742317699,
+    "posting_price": 259.95001221,
+    "close_price": 259.95001221,
+    "percent_change": 0.0
   },
   {
     "title": "March 2025's Estimated Undervalued Stocks For Value Seekers",
-    "published": 1742231283
+    "published": 1742231283,
+    "posting_price": 252.96000671,
+    "close_price": 260.61999512,
+    "percent_change": 3.02814208
   },
   {
-    "title": "How to Find Strong Computer and Technology Stocks Slated for Positive Earnings Surprises",
-    "published": 1742216405
+    "title": "Noteworthy Monday Option Activity: ADSK, AFRM, VIRT",
+    "published": 1713147480,
+    "posting_price": 239.94999695,
+    "close_price": 229.61999512,
+    "percent_change": -4.30506437
+  },
+  {
+    "title": "Autodesk (ADSK): New Buy Recommendation for This Technology Giant",
+    "published": 1713059160
+  },
+  {
+    "title": "AI Surge Has Ended: All 7 AI Stock Categories Declined This Week",
+    "published": 1712985960
+  },
+  {
+    "title": "Autodesk : and James Cameron discuss how to design and make a better world",
+    "published": 1712919008,
+    "posting_price": 236.58000183,
+    "close_price": 236.97999573,
+    "percent_change": 0.16907342
+  },
+  {
+    "title": "Pomerantz Law Firm Investigates Claims On Behalf of Investors of Autodesk, Inc. - ADSK",
+    "published": 1712915468,
+    "posting_price": 236.58000183,
+    "close_price": 236.97999573,
+    "percent_change": 0.16907342
+  },
+  {
+    "title": "ClearBridge Aggressive Growth Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712906400,
+    "posting_price": 236.58000183,
+    "close_price": 236.97999573,
+    "percent_change": 0.16907342
+  },
+  {
+    "title": "Autodesk CEO says we need AI to support a world of 10 billion people",
+    "published": 1712904163,
+    "posting_price": 236.58000183,
+    "close_price": 236.97999573,
+    "percent_change": 0.16907342
+  },
+  {
+    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
+    "published": 1712898708,
+    "posting_price": 236.58000183,
+    "close_price": 236.97999573,
+    "percent_change": 0.16907342
+  },
+  {
+    "title": "AI is becoming 'a business imperative': Autodesk CEO",
+    "published": 1712850311,
+    "posting_price": 239.05999756,
+    "close_price": 241.05999756,
+    "percent_change": 0.83661006
+  },
+  {
+    "title": "May 31st Options Now Available For Autodesk (ADSK)",
+    "published": 1712831760,
+    "posting_price": 239.05999756,
+    "close_price": 241.05999756,
+    "percent_change": 0.83661006
+  },
+  {
+    "title": "How a \u2018rebel\u2019 hire at Autodesk ascended to the company\u2019s top job",
+    "published": 1712783386,
+    "posting_price": 243.58999634,
+    "close_price": 239.00999451,
+    "percent_change": -1.88020933
+  },
+  {
+    "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Autodesk, Inc. Investors to Inquire About Securities Class Action Investigation - ADSK",
+    "published": 1712765409,
+    "posting_price": 243.58999634,
+    "close_price": 239.00999451,
+    "percent_change": -1.88020933
+  },
+  {
+    "title": "2024 State of Design & Make Report from Autodesk Finds Growing Confidence in Resilience, Optimism Toward AI",
+    "published": 1712743200,
+    "posting_price": 243.58999634,
+    "close_price": 239.00999451,
+    "percent_change": -1.88020933
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Smart Global Holdings (SGH), WNS (WNS) and Autodesk (ADSK)",
+    "published": 1712713920,
+    "posting_price": 243.58999634,
+    "close_price": 239.00999451,
+    "percent_change": -1.88020933
+  },
+  {
+    "title": "AUTODESK INVESTOR NEWS: ROSEN, SKILLED INVESTOR COUNSEL, Encourages Autodesk, Inc. Investors to Inquire About Securities Class Action Investigation \u2013 ADSK",
+    "published": 1712686385,
+    "posting_price": 246.86000061,
+    "close_price": 247.92999268,
+    "percent_change": 0.43344084
+  },
+  {
+    "title": "MarketMasterAI\u2019s Top 500 Stocks: April 2024",
+    "published": 1712633160,
+    "posting_price": 246.86000061,
+    "close_price": 247.92999268,
+    "percent_change": 0.43344084
+  },
+  {
+    "title": "Glancy Prongay & Murray LLP, a Leading Securities Fraud Law Firm, Announces Investigation of Autodesk, Inc. (ADSK) on Behalf of Investors",
+    "published": 1712581146,
+    "posting_price": 244.75999451,
+    "close_price": 245.88999939,
+    "percent_change": 0.46167875
+  },
+  {
+    "title": "Procore Technologies: A Promising Founder-Led Company With Large Opportunity",
+    "published": 1712379768
+  },
+  {
+    "title": "Law Offices of Howard G. Smith Announces Investigation of Autodesk, Inc. (ADSK) on Behalf of Investors",
+    "published": 1712338386,
+    "posting_price": 246.0,
+    "close_price": 244.74000549,
+    "percent_change": -0.51219289
+  },
+  {
+    "title": "The Law Offices of Frank R. Cruz Announces Investigation of Autodesk, Inc. (ADSK) on Behalf of Investors",
+    "published": 1712328786,
+    "posting_price": 246.0,
+    "close_price": 244.74000549,
+    "percent_change": -0.51219289
+  },
+  {
+    "title": "11 Overvalued Stocks Insiders are Dumping Now",
+    "published": 1712265363,
+    "posting_price": 248.53999329,
+    "close_price": 244.80999756,
+    "percent_change": -1.50076279
+  },
+  {
+    "title": "Autodesk's Options Frenzy: What You Need to Know",
+    "published": 1712226840,
+    "posting_price": 248.53999329,
+    "close_price": 244.80999756,
+    "percent_change": -1.50076279
+  },
+  {
+    "title": "May 24th Options Now Available For Autodesk (ADSK)",
+    "published": 1712225220,
+    "posting_price": 248.53999329,
+    "close_price": 244.80999756,
+    "percent_change": -1.50076279
+  },
+  {
+    "title": "Autodesk Inc. stock outperforms competitors despite losses on the day",
+    "published": 1712202960,
+    "posting_price": 248.53999329,
+    "close_price": 244.80999756,
+    "percent_change": -1.50076279
+  },
+  {
+    "title": "Analysts Conflicted on These Technology Names: Autodesk (ADSK), Ciena (CIEN) and Sage Group plc (GB:SGE)",
+    "published": 1712117640,
+    "posting_price": 247.58999634,
+    "close_price": 246.38000488,
+    "percent_change": -0.48870773
+  },
+  {
+    "title": "Autodesk Stock Drops On Accounting Investigation",
+    "published": 1712089842,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Print Your Way to Profits: A Trio of 3D Printing Stocks to Own Now",
+    "published": 1712085578,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Autodesk Finds Accounting Issues. The Stock Is Slipping.",
+    "published": 1712069280,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Autodesk Is Probing Its Own Accounting Practices, Shares Decline",
+    "published": 1712067851,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Autodesk : introduces Total Carbon Analysis for a more sustainable built environment",
+    "published": 1712056087,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Autodesk investigation could keep stock range-bound, says RBC Capital",
+    "published": 1712046360,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Autodesk delays annual report on internal investigation into cash flow",
+    "published": 1712041380,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Here's How Much You Would Have Made Owning Autodesk Stock In The Last 10 Years",
+    "published": 1712028660,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Taiwan Semiconductor Manufacturing (TSM), Autodesk (ADSK) and Zebra Tech (ZBRA)",
+    "published": 1712025840,
+    "posting_price": 249.55000305,
+    "close_price": 248.71000671,
+    "percent_change": -0.33660442
+  },
+  {
+    "title": "Key Takeaways From Autodesk Analyst Ratings",
+    "published": 1711965780,
+    "posting_price": 259.8999939,
+    "close_price": 259.44000244,
+    "percent_change": -0.17698787
+  },
+  {
+    "title": "RBC Capital Reaffirms Their Buy Rating on Autodesk (ADSK)",
+    "published": 1711949760,
+    "posting_price": 259.8999939,
+    "close_price": 259.44000244,
+    "percent_change": -0.17698787
   }
 ]

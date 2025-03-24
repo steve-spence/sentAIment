@@ -1,35 +1,59 @@
 [
   {
     "title": "PTC (NasdaqGS:PTC) Welcomes Ex-Synopsys CFO Trac Pham to Board of Directors as Audit Committee Member",
-    "published": 1741973445
+    "published": 1741973445,
+    "posting_price": 155.13000488,
+    "close_price": 155.80000305,
+    "percent_change": 0.43189464
   },
   {
     "title": "PTC Appoints Trac Pham to Board of Directors",
-    "published": 1741896000
+    "published": 1741896000,
+    "posting_price": 155.78999329,
+    "close_price": 153.30000305,
+    "percent_change": -1.59829922
   },
   {
     "title": "Reflecting On Design Software Stocks\u2019 Q4 Earnings: PTC (NASDAQ:PTC)",
-    "published": 1741856515
+    "published": 1741856515,
+    "posting_price": 155.78999329,
+    "close_price": 153.30000305,
+    "percent_change": -1.59829922
   },
   {
     "title": "PTC (PTC): Buy, Sell, or Hold Post Q4 Earnings?",
-    "published": 1741683751
+    "published": 1741683751,
+    "posting_price": 160.33000183,
+    "close_price": 157.27999878,
+    "percent_change": -1.90232833
   },
   {
     "title": "Design Software Q4 Earnings: Autodesk (NASDAQ:ADSK) is the Best in the Biz",
-    "published": 1741597581
+    "published": 1741597581,
+    "posting_price": 160.77000427,
+    "close_price": 161.02000427,
+    "percent_change": 0.15550164
   },
   {
     "title": "Looking for Sneaky Growth? These 2 Stocks Are Low-Key Buys for 2025.",
-    "published": 1741186380
+    "published": 1741186380,
+    "posting_price": 158.02000427,
+    "close_price": 161.16000366,
+    "percent_change": 1.9870898
   },
   {
     "title": "Design Software Stocks Q4 Results: Benchmarking Procore (NYSE:PCOR)",
-    "published": 1741165263
+    "published": 1741165263,
+    "posting_price": 158.02000427,
+    "close_price": 161.16000366,
+    "percent_change": 1.9870898
   },
   {
     "title": "Design Software Stocks Q4 Teardown: Adobe (NASDAQ:ADBE) Vs The Rest",
-    "published": 1740992673
+    "published": 1740992673,
+    "posting_price": 165.0,
+    "close_price": 160.55999756,
+    "percent_change": -2.69091057
   },
   {
     "title": "Declining Stock and Solid Fundamentals: Is The Market Wrong About PTC Inc. (NASDAQ:PTC)?",
@@ -37,7 +61,10 @@
   },
   {
     "title": "PTC Will Participate in Upcoming Investor Conferences",
-    "published": 1740690060
+    "published": 1740690060,
+    "posting_price": 163.63000488,
+    "close_price": 162.75,
+    "percent_change": -0.53780166
   },
   {
     "title": "Undiscovered Gems To Watch This February 2025",
@@ -49,18 +76,177 @@
   },
   {
     "title": "3 Monster Stocks to Hold for the Next 10 Years",
-    "published": 1739520840
+    "published": 1739520840,
+    "posting_price": 168.0,
+    "close_price": 171.1000061,
+    "percent_change": 1.84524173
   },
   {
     "title": "PTC Launches ServiceMax AI, a Generative AI-Powered Field Service Assistant",
-    "published": 1739367000
+    "published": 1739367000,
+    "posting_price": 166.3999939,
+    "close_price": 166.57000732,
+    "percent_change": 0.10217153
   },
   {
     "title": "Onto Innovation's Q4 Earnings & Revenues Top, Up Y/Y on AI Innovations",
-    "published": 1738938240
+    "published": 1738938240,
+    "posting_price": 172.75,
+    "close_price": 169.02000427,
+    "percent_change": -2.15918711
   },
   {
-    "title": "PTC First Quarter 2025 Earnings: Beats Expectations",
-    "published": 1738927409
+    "title": "PTC: Valuations Look Stretched",
+    "published": 1713209111,
+    "posting_price": 182.19999695,
+    "close_price": 177.8500061,
+    "percent_change": -2.3874813
+  },
+  {
+    "title": "PTC & Trax to Transform Aircraft MRO Maintenance Activities",
+    "published": 1712926320,
+    "posting_price": 180.21000671,
+    "close_price": 180.05999756,
+    "percent_change": -0.0832413
+  },
+  {
+    "title": "Ansys (ANSS) Teams Up With BAE Systems to Boost MBSE Adoption",
+    "published": 1712842800,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "AAR - Trax and PTC partner to enhance aviation maintenance operations through innovative joint solutions",
+    "published": 1712827957,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "Gen Digital downgraded; Intapp, others unchanged as earnings approach: Barclays",
+    "published": 1712823300,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "Parnassus Mid Cap Growth Fund's Strategic Exits and New Positions Highlight Q1 2024 Moves",
+    "published": 1712811480,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "PTC price target raised by $17 at Barclays, here's why",
+    "published": 1712810040,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "Jerome Dodson's Strategic Exits and New Positions Highlight Q1 2024 Moves",
+    "published": 1712808120,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "PTC (PTC): New Buy Recommendation for This Technology Giant",
+    "published": 1712801220,
+    "posting_price": 182.63000488,
+    "close_price": 182.27000427,
+    "percent_change": -0.19712019
+  },
+  {
+    "title": "PTC to Announce Fiscal Q2'24 Results on Wednesday, May 1st, 2024",
+    "published": 1712787360,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "Trax and PTC partner to enhance aviation maintenance operations through innovative joint solutions",
+    "published": 1712779500,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "ClearBridge Mid Cap Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712750400,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "Commit To Purchase PTC At $175, Earn 7.9% Annualized Using Options",
+    "published": 1712750280,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "$1000 Invested In This Stock 10 Years Ago Would Be Worth $5,500 Today",
+    "published": 1712748780,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "New additions to Goldman\u2019s High Operating Leverage list",
+    "published": 1712746860,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "Trax and PTC partner to enhance aviation maintenance operations",
+    "published": 1712719560,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "PTC, Trax announce partnership",
+    "published": 1712718420,
+    "posting_price": 185.33999634,
+    "close_price": 181.91999817,
+    "percent_change": -1.84525641
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Intel (INTC), PTC (PTC) and Garmin (GRMN)",
+    "published": 1712116920,
+    "posting_price": 185.53999329,
+    "close_price": 185.3500061,
+    "percent_change": -0.10239689
+  },
+  {
+    "title": "PTC should benefit from rising PMI readings, Baird says",
+    "published": 1712060580,
+    "posting_price": 186.38000488,
+    "close_price": 186.61000061,
+    "percent_change": 0.1234015
+  },
+  {
+    "title": "Assessing PTC: Insights From 12 Financial Analysts",
+    "published": 1712041500,
+    "posting_price": 186.38000488,
+    "close_price": 186.61000061,
+    "percent_change": 0.1234015
+  },
+  {
+    "title": "PTC usually sees positive sentiment when manufacturing gains, says Baird",
+    "published": 1712037060,
+    "posting_price": 186.38000488,
+    "close_price": 186.61000061,
+    "percent_change": 0.1234015
+  },
+  {
+    "title": "Top 20 S&P 500 stocks by hedge fund net exposure - BofA",
+    "published": 1711966320,
+    "posting_price": 189.08999634,
+    "close_price": 188.11999512,
+    "percent_change": -0.51298389
   }
 ]

@@ -1,38 +1,231 @@
 [
   {
     "title": "Should You Retain Essex Property Stock in Your Portfolio Now?",
-    "published": 1741955340
+    "published": 1741955340,
+    "posting_price": 290.33999634,
+    "close_price": 295.01000977,
+    "percent_change": 1.60846369
   },
   {
     "title": "UDR (UDR) Up 2.9% Since Last Earnings Report: Can It Continue?",
-    "published": 1741365064
+    "published": 1741365064,
+    "posting_price": 302.23999023,
+    "close_price": 301.73999023,
+    "percent_change": -0.16543145
   },
   {
     "title": "Prologis Rewards Its Investors With a Dividend Increase of 5%",
-    "published": 1740157320
+    "published": 1740157320,
+    "posting_price": 295.23001099,
+    "close_price": 294.73999023,
+    "percent_change": -0.16597932
   },
   {
     "title": "Essex Property Rewards Investors With Another Annual Dividend Hike",
-    "published": 1740151380
+    "published": 1740151380,
+    "posting_price": 295.23001099,
+    "close_price": 294.73999023,
+    "percent_change": -0.16597932
   },
   {
     "title": "Seattle, San Jose lead Essex\u2019s portfolio",
-    "published": 1739289240
+    "published": 1739289240,
+    "posting_price": 287.92999268,
+    "close_price": 291.58999634,
+    "percent_change": 1.27114359
   },
   {
     "title": "Should Essex Property Stock Be Retained in Your Portfolio Now?",
-    "published": 1738942440
+    "published": 1738942440,
+    "posting_price": 298.04998779,
+    "close_price": 292.14001465,
+    "percent_change": -1.98287985
   },
   {
     "title": "Essex Property Q4 FFO Beats Estimates, Revenues Increase Y/Y",
-    "published": 1738764120
+    "published": 1738764120,
+    "posting_price": 283.0,
+    "close_price": 295.79000854,
+    "percent_change": 4.51943765
   },
   {
     "title": "Essex Property Trust: Q4 Earnings Snapshot",
-    "published": 1738705902
+    "published": 1738705902,
+    "posting_price": 284.01998901,
+    "close_price": 287.14001465,
+    "percent_change": 1.09852326
   },
   {
     "title": "What's in Store for Essex Property This Earnings Season?",
-    "published": 1738342680
+    "published": 1738342680,
+    "posting_price": 280.79998779,
+    "close_price": 284.57000732,
+    "percent_change": 1.34259961
+  },
+  {
+    "title": "CSR vs. ESS: Which Stock Is the Better Value Option?",
+    "published": 1713195611,
+    "posting_price": 234.64556967,
+    "close_price": 229.5496521,
+    "percent_change": -2.17175103
+  },
+  {
+    "title": "Short interest on S&P 500 real estate stocks advance in March",
+    "published": 1713177900,
+    "posting_price": 234.64556967,
+    "close_price": 229.5496521,
+    "percent_change": -2.17175103
+  },
+  {
+    "title": "Essex Property (ESS) Gets a Hold from Wells Fargo",
+    "published": 1713158760,
+    "posting_price": 234.64556967,
+    "close_price": 229.5496521,
+    "percent_change": -2.17175103
+  },
+  {
+    "title": "Real estate stocks continue to dip as earnings season kicks off",
+    "published": 1713006060
+  },
+  {
+    "title": "Essex Property Trust Inc. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 236.99375351,
+    "close_price": 233.1547699,
+    "percent_change": -1.619867
+  },
+  {
+    "title": "Analyst Drops Price Targets On 8 Residential REITs In One Day",
+    "published": 1712856600,
+    "posting_price": 239.72197078,
+    "close_price": 237.98760986,
+    "percent_change": -0.72348851
+  },
+  {
+    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
+    "published": 1712838960,
+    "posting_price": 239.72197078,
+    "close_price": 237.98760986,
+    "percent_change": -0.72348851
+  },
+  {
+    "title": "ESS Crosses Above Average Analyst Target",
+    "published": 1712742900,
+    "posting_price": 236.94504769,
+    "close_price": 237.75376892,
+    "percent_change": 0.34131173
+  },
+  {
+    "title": "RBC Capital Keeps Their Buy Rating on Essex Property (ESS)",
+    "published": 1712739000,
+    "posting_price": 236.94504769,
+    "close_price": 237.75376892,
+    "percent_change": 0.34131173
+  },
+  {
+    "title": "UDR upgraded to Neutral at Piper on strength of Northeast presence",
+    "published": 1712733660,
+    "posting_price": 236.94504769,
+    "close_price": 237.75376892,
+    "percent_change": 0.34131173
+  },
+  {
+    "title": "Analysts Conflicted on These Real Estate Names: China Jinmao Holdings Group Limited (HK:0817), Essex Property (ESS) and CoStar Group (CSGP)",
+    "published": 1712721900,
+    "posting_price": 236.94504769,
+    "close_price": 237.75376892,
+    "percent_change": 0.34131173
+  },
+  {
+    "title": "Essex Property Trust price target lowered by $4 at Truist, here's why",
+    "published": 1712644380,
+    "posting_price": 238.06557198,
+    "close_price": 243.19070435,
+    "percent_change": 2.15282383
+  },
+  {
+    "title": "What 13 Analyst Ratings Have To Say About Essex Property Trust",
+    "published": 1712624640,
+    "posting_price": 238.06557198,
+    "close_price": 243.19070435,
+    "percent_change": 2.15282383
+  },
+  {
+    "title": "Analysts Just Upgraded These 4 REITs",
+    "published": 1712597567,
+    "posting_price": 233.41785231,
+    "close_price": 237.25683594,
+    "percent_change": 1.64468295
+  },
+  {
+    "title": "Essex Announces Release and Conference Call Dates for Its First Quarter 2024 Earnings",
+    "published": 1712560057,
+    "posting_price": 233.41785231,
+    "close_price": 237.25683594,
+    "percent_change": 1.64468295
+  },
+  {
+    "title": "Essex Property Trust Inc. stock underperforms Monday when compared to competitors despite daily gains",
+    "published": 1712549940,
+    "posting_price": 233.41785231,
+    "close_price": 237.25683594,
+    "percent_change": 1.64468295
+  },
+  {
+    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
+    "published": 1712401620
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "4 Dividend Aristocrats Signal Buy In April Plus 6 To Watch",
+    "published": 1712324215,
+    "posting_price": 228.43887846,
+    "close_price": 231.58605957,
+    "percent_change": 1.37769067
+  },
+  {
+    "title": "Essex Property Trust: A Dividend Aristocrat Worth Buying Now",
+    "published": 1712300400,
+    "posting_price": 228.43887846,
+    "close_price": 231.58605957,
+    "percent_change": 1.37769067
+  },
+  {
+    "title": "Investing In Real Estate Through REITs",
+    "published": 1712288400,
+    "posting_price": 228.43887846,
+    "close_price": 231.58605957,
+    "percent_change": 1.37769067
+  },
+  {
+    "title": "Essex Property Trust Inc. stock outperforms competitors on strong trading day",
+    "published": 1712118120,
+    "posting_price": 228.62400275,
+    "close_price": 231.41067505,
+    "percent_change": 1.21888877
+  },
+  {
+    "title": "B of A Securities Upgrades Essex Property Trust (ESS)",
+    "published": 1712016787,
+    "posting_price": 231.92707596,
+    "close_price": 229.46194458,
+    "percent_change": -1.06289073
+  },
+  {
+    "title": "Essex Property Trust upgraded to Buy at Bofa on northern California outlook",
+    "published": 1711964940,
+    "posting_price": 240.16043402,
+    "close_price": 233.52503967,
+    "percent_change": -2.76290072
+  },
+  {
+    "title": "Essex Property Trust just upgraded at BofA, here's why",
+    "published": 1711960140,
+    "posting_price": 240.16043402,
+    "close_price": 233.52503967,
+    "percent_change": -2.76290072
   }
 ]

@@ -1,23 +1,38 @@
 [
   {
     "title": "Buy 5 Low-Beta High-Yielding Stocks Amid Sagging Consumer Sentiment",
-    "published": 1742213160
+    "published": 1742213160,
+    "posting_price": 84.98999786,
+    "close_price": 85.44999695,
+    "percent_change": 0.54123909
   },
   {
     "title": "Is Entergy (NYSE:ETR) A Risky Investment?",
-    "published": 1741950018
+    "published": 1741950018,
+    "posting_price": 82.88999939,
+    "close_price": 84.98999786,
+    "percent_change": 2.53347628
   },
   {
     "title": "FirstEnergy's Unit Starts $5.1M Grid Upgrade Project in Northern N.J.",
-    "published": 1741782240
+    "published": 1741782240,
+    "posting_price": 83.27999878,
+    "close_price": 82.63999939,
+    "percent_change": -0.76849111
   },
   {
     "title": "Should You Be Worried About Entergy Corporation's (NYSE:ETR) 6.9% Return On Equity?",
-    "published": 1741258828
+    "published": 1741258828,
+    "posting_price": 83.83000183,
+    "close_price": 81.18000031,
+    "percent_change": -3.16116123
   },
   {
     "title": "Southern's Unit to Build State's First Large-Scale Energy Storage",
-    "published": 1741088280
+    "published": 1741088280,
+    "posting_price": 87.59999847,
+    "close_price": 85.08000183,
+    "percent_change": -2.87670854
   },
   {
     "title": "Investing in Entergy (NYSE:ETR) a year ago would have delivered you a 80% gain",
@@ -25,10 +40,228 @@
   },
   {
     "title": "Entergy Wins 50th EEI Emergency Response Award",
-    "published": 1740768300
+    "published": 1740768300,
+    "posting_price": 85.41000366,
+    "close_price": 87.30999756,
+    "percent_change": 2.22455663
   },
   {
     "title": "4 Low-Beta Utility Stocks to Buy Amid Sinking Consumer Confidence",
-    "published": 1740753900
+    "published": 1740753900,
+    "posting_price": 85.41000366,
+    "close_price": 87.30999756,
+    "percent_change": 2.22455663
+  },
+  {
+    "title": "Entergy price target lowered by $1 at Barclays, here's why",
+    "published": 1713156960,
+    "posting_price": 49.10187251,
+    "close_price": 48.47631073,
+    "percent_change": -1.27400799
+  },
+  {
+    "title": "Entergy : Mississippi storm update \u2013 4/14/24, 9 a.m.",
+    "published": 1713116287
+  },
+  {
+    "title": "Barclays Remains a Hold on Entergy (ETR)",
+    "published": 1713082560
+  },
+  {
+    "title": "Entergy : Insights",
+    "published": 1713019568
+  },
+  {
+    "title": "Duke Energy least shorted utility stock in March",
+    "published": 1712921580,
+    "posting_price": 49.3198683,
+    "close_price": 48.77013397,
+    "percent_change": -1.11463057
+  },
+  {
+    "title": "Entergy : Louisiana storm update \u2013 4/12/24, 10 a.m.",
+    "published": 1712920568,
+    "posting_price": 49.3198683,
+    "close_price": 48.77013397,
+    "percent_change": -1.11463057
+  },
+  {
+    "title": "Entergy : Mississippi storm update \u2013 4/11/24, 8 p.m.",
+    "published": 1712873228,
+    "posting_price": 49.83643671,
+    "close_price": 49.2061348,
+    "percent_change": -1.26474112
+  },
+  {
+    "title": "Energy for a Better Future: Entergy\u2019s Corporate Citizenship Impact",
+    "published": 1712844900,
+    "posting_price": 49.83643671,
+    "close_price": 49.2061348,
+    "percent_change": -1.26474112
+  },
+  {
+    "title": "SMID-Cap Moat Companies Shine In March",
+    "published": 1712835300,
+    "posting_price": 49.83643671,
+    "close_price": 49.2061348,
+    "percent_change": -1.26474112
+  },
+  {
+    "title": "Entergy : Mississippi storm update \u2013 April 10, 2024, 9 p.m.",
+    "published": 1712789946,
+    "posting_price": 49.61369656,
+    "close_price": 49.55208588,
+    "percent_change": -0.12418079
+  },
+  {
+    "title": "Entergy to report first-quarter 2024 financial results on April 24",
+    "published": 1712779920,
+    "posting_price": 49.61369656,
+    "close_price": 49.55208588,
+    "percent_change": -0.12418079
+  },
+  {
+    "title": "Entergy : Mississippi storm update \u2013 4/10/24, 2 p.m.",
+    "published": 1712766610,
+    "posting_price": 49.61369656,
+    "close_price": 49.55208588,
+    "percent_change": -0.12418079
+  },
+  {
+    "title": "Entergy : New Orleans and Entergy Louisiana storm update \u2013 04/10/24, 11 a.m.",
+    "published": 1712753827,
+    "posting_price": 49.61369656,
+    "close_price": 49.55208588,
+    "percent_change": -0.12418079
+  },
+  {
+    "title": "Free Tax Prep Services Secures Nearly $43M in Tax Refunds for Entergy Customers in 2023",
+    "published": 1712661300,
+    "posting_price": 50.35299584,
+    "close_price": 50.38616943,
+    "percent_change": 0.06588206
+  },
+  {
+    "title": "Entergy : Free tax prep services secures nearly $43M in tax refunds for Entergy customers in 2023",
+    "published": 1712656387,
+    "posting_price": 50.35299584,
+    "close_price": 50.38616943,
+    "percent_change": 0.06588206
+  },
+  {
+    "title": "Entergy : Reduce your environmental impact with Entergy Solutions",
+    "published": 1712592608,
+    "posting_price": 49.35778842,
+    "close_price": 50.12078476,
+    "percent_change": 1.54584791
+  },
+  {
+    "title": "Entergy : Get paid to recycle your working fridge or freezer",
+    "published": 1712592608,
+    "posting_price": 49.35778842,
+    "close_price": 50.12078476,
+    "percent_change": 1.54584791
+  },
+  {
+    "title": "Entergy : Test press release",
+    "published": 1712591527,
+    "posting_price": 49.35778842,
+    "close_price": 50.12078476,
+    "percent_change": 1.54584791
+  },
+  {
+    "title": "Entergy announces quarterly dividend payment to shareholders",
+    "published": 1712590200,
+    "posting_price": 49.35778842,
+    "close_price": 50.12078476,
+    "percent_change": 1.54584791
+  },
+  {
+    "title": "Video: Daily Dividend Report: ETR,CFBK,MVO,GE",
+    "published": 1712574360,
+    "posting_price": 49.35778842,
+    "close_price": 50.12078476,
+    "percent_change": 1.54584791
+  },
+  {
+    "title": "Entergy declares $1.13 dividend",
+    "published": 1712572620,
+    "posting_price": 49.35778842,
+    "close_price": 50.12078476,
+    "percent_change": 1.54584791
+  },
+  {
+    "title": "Wonder over worry: Electricity and the 2024 solar eclipse",
+    "published": 1712486766
+  },
+  {
+    "title": "Meet the pros: Entergy Nuclear\u2019s Laura Greer",
+    "published": 1712232431,
+    "posting_price": 49.92173402,
+    "close_price": 49.43834686,
+    "percent_change": -0.96829
+  },
+  {
+    "title": "Entergy Arkansas Helps Keep Customers Connected During the Solar Eclipse",
+    "published": 1712229300,
+    "posting_price": 49.92173402,
+    "close_price": 49.43834686,
+    "percent_change": -0.96829
+  },
+  {
+    "title": "Top buy-rated stocks and sell-rated stocks within Financials - Citi",
+    "published": 1712224800,
+    "posting_price": 49.92173402,
+    "close_price": 49.43834686,
+    "percent_change": -0.96829
+  },
+  {
+    "title": "Energy for a Better Future: Entergy Releases 2023 Performance Report",
+    "published": 1712154600,
+    "posting_price": 49.90751785,
+    "close_price": 49.47626114,
+    "percent_change": -0.86411172
+  },
+  {
+    "title": "ETR Added as Top 10 Utility Dividend Stock With 4.29% Yield",
+    "published": 1712125380,
+    "posting_price": 49.90751785,
+    "close_price": 49.47626114,
+    "percent_change": -0.86411172
+  },
+  {
+    "title": "Entergy Helps Protect the Environment Through $1M in Grants to Community Partners",
+    "published": 1712097600,
+    "posting_price": 49.68004687,
+    "close_price": 49.88856506,
+    "percent_change": 0.41972221
+  },
+  {
+    "title": "Entergy : helps protect the environment through $1M in grants to community partners",
+    "published": 1712079190,
+    "posting_price": 49.68004687,
+    "close_price": 49.88856506,
+    "percent_change": 0.41972221
+  },
+  {
+    "title": "Entergy : Finance professionals take on new roles for Entergy Mississippi",
+    "published": 1712050929,
+    "posting_price": 49.68004687,
+    "close_price": 49.88856506,
+    "percent_change": 0.41972221
+  },
+  {
+    "title": "Breaking ground, building safety: Entergy Louisiana and Entergy New Orleans recognize National Safe",
+    "published": 1711968846,
+    "posting_price": 50.00230329,
+    "close_price": 49.63739014,
+    "percent_change": -0.72979268
+  },
+  {
+    "title": "Entergy : Embrace energy efficiency for instant and long-term savings",
+    "published": 1711960630,
+    "posting_price": 50.00230329,
+    "close_price": 49.63739014,
+    "percent_change": -0.72979268
   }
 ]

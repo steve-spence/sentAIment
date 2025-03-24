@@ -1,31 +1,52 @@
 [
   {
     "title": "Ransomware attacks surged 50% in February: NCC",
-    "published": 1742485816
+    "published": 1742485816,
+    "posting_price": 260.63000488,
+    "close_price": 259.54000854,
+    "percent_change": -0.41821598
   },
   {
     "title": "TRV Stock Trades Near 52-Week High: Buy or Wait for a Pullback?",
-    "published": 1742312700
+    "published": 1742312700,
+    "posting_price": 264.35998535,
+    "close_price": 260.5,
+    "percent_change": -1.46012466
   },
   {
     "title": "Travelers Schedules Conference Call to Review First Quarter 2025 Results",
-    "published": 1742302800
+    "published": 1742302800,
+    "posting_price": 264.35998535,
+    "close_price": 260.5,
+    "percent_change": -1.46012466
   },
   {
     "title": "The Travelers Companies, Inc. (NYSE:TRV): Among the Most Undervalued Insurance Stocks to Buy Now",
-    "published": 1741964525
+    "published": 1741964525,
+    "posting_price": 256.54998779,
+    "close_price": 260.91000366,
+    "percent_change": 1.69948005
   },
   {
     "title": "Travelers Companies (NYSE:TRV) Launches Synergy Product Liability Coverage for Life Sciences Sector",
-    "published": 1741715645
+    "published": 1741715645,
+    "posting_price": 255.67999268,
+    "close_price": 254.55999756,
+    "percent_change": -0.43804566
   },
   {
     "title": "Travelers Offers New Product Liability Insurance for Life Sciences Companies",
-    "published": 1741698480
+    "published": 1741698480,
+    "posting_price": 255.67999268,
+    "close_price": 254.55999756,
+    "percent_change": -0.43804566
   },
   {
     "title": "Travelers Publishes Cyber Threat Report Highlighting an Increase in Ransomware Activity",
-    "published": 1741269600
+    "published": 1741269600,
+    "posting_price": 255.70387372,
+    "close_price": 254.97683716,
+    "percent_change": -0.28432755
   },
   {
     "title": "Here's Why We Think Travelers Companies (NYSE:TRV) Is Well Worth Watching",
@@ -33,19 +54,31 @@
   },
   {
     "title": "Travelers Institute Announces Spring 2025 Wednesdays with Woodward\u00ae Webinar Schedule",
-    "published": 1740405600
+    "published": 1740405600,
+    "posting_price": 240.37657399,
+    "close_price": 247.22854614,
+    "percent_change": 2.85051577
   },
   {
     "title": "Why Is Travelers (TRV) Down 0.1% Since Last Earnings Report?",
-    "published": 1740155427
+    "published": 1740155427,
+    "posting_price": 241.44220172,
+    "close_price": 239.05198669,
+    "percent_change": -0.989974
   },
   {
     "title": "Travelers Companies' Scale And Analytical Advantages Make It Attractive, Analyst Says",
-    "published": 1739997190
+    "published": 1739997190,
+    "posting_price": 240.35665436,
+    "close_price": 241.36254883,
+    "percent_change": 0.41850078
   },
   {
     "title": "TRV Stock Lags Industry, Trades at a Premium: Will You Still Buy It?",
-    "published": 1739981160
+    "published": 1739981160,
+    "posting_price": 240.35665436,
+    "close_price": 241.36254883,
+    "percent_change": 0.41850078
   },
   {
     "title": "Travelers Europe appoints new COO",
@@ -61,22 +94,276 @@
   },
   {
     "title": "Is The Travelers Companies Inc.\u00a0(TRV) the Best Property & Casualty Insurance Stock to Buy Now?",
-    "published": 1739387319
+    "published": 1739387319,
+    "posting_price": 238.5241509,
+    "close_price": 239.6794281,
+    "percent_change": 0.48434391
   },
   {
     "title": "AIG Q4 Earnings Top Estimates on Strong International Commercial Unit",
-    "published": 1739385000
+    "published": 1739385000,
+    "posting_price": 238.5241509,
+    "close_price": 239.6794281,
+    "percent_change": 0.48434391
   },
   {
     "title": "Why Tariffs Will Make Car Insurance Even More Expensive",
-    "published": 1739373900
+    "published": 1739373900,
+    "posting_price": 238.5241509,
+    "close_price": 239.6794281,
+    "percent_change": 0.48434391
   },
   {
     "title": "Travelers Sees $1.7 Billion Pretax Catastrophe Losses From California Wildfires",
-    "published": 1739281800
+    "published": 1739281800,
+    "posting_price": 241.6712833,
+    "close_price": 241.36254883,
+    "percent_change": -0.12774975
   },
   {
     "title": "Travelers Announces Preliminary Catastrophe Loss Estimate for January 2025 California Wildfires",
-    "published": 1739274300
+    "published": 1739274300,
+    "posting_price": 241.6712833,
+    "close_price": 241.36254883,
+    "percent_change": -0.12774975
+  },
+  {
+    "title": "Travelers (TRV) Set to Report Q1 Earnings: What's in Store?",
+    "published": 1713202980,
+    "posting_price": 219.93232467,
+    "close_price": 217.21055603,
+    "percent_change": -1.23754825
+  },
+  {
+    "title": "Sysco And Grainger Among 10 Companies To Announce Annual Dividend Increases In Second Half Of April",
+    "published": 1713200870,
+    "posting_price": 219.93232467,
+    "close_price": 217.21055603,
+    "percent_change": -1.23754825
+  },
+  {
+    "title": "Video: Dow Analyst Moves: TRV",
+    "published": 1713179520,
+    "posting_price": 219.93232467,
+    "close_price": 217.21055603,
+    "percent_change": -1.23754825
+  },
+  {
+    "title": "See How Travelers Companies Ranks Among Analysts' Top Dow 30 Picks",
+    "published": 1713178380,
+    "posting_price": 219.93232467,
+    "close_price": 217.21055603,
+    "percent_change": -1.23754825
+  },
+  {
+    "title": "Travelers price target raised by $11 at Citi, here's why",
+    "published": 1713167640,
+    "posting_price": 219.93232467,
+    "close_price": 217.21055603,
+    "percent_change": -1.23754825
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1713081061
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "Global company events calendar",
+    "published": 1712918340,
+    "posting_price": 216.83716318,
+    "close_price": 217.24986267,
+    "percent_change": 0.19032692
+  },
+  {
+    "title": "ClearBridge Large Cap Value Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712913300,
+    "posting_price": 216.83716318,
+    "close_price": 217.24986267,
+    "percent_change": 0.19032692
+  },
+  {
+    "title": "Travelers Risk Index Shows Rise in Distracted Driving",
+    "published": 1712840400,
+    "posting_price": 219.14624933,
+    "close_price": 216.56204224,
+    "percent_change": -1.17921575
+  },
+  {
+    "title": "Dow down 212 points on losses for Travelers, Chevron shares",
+    "published": 1712836020,
+    "posting_price": 219.14624933,
+    "close_price": 216.56204224,
+    "percent_change": -1.17921575
+  },
+  {
+    "title": "Dow's 100-point drop led by losses in shares of Travelers, Chevron",
+    "published": 1712836020,
+    "posting_price": 219.14624933,
+    "close_price": 216.56204224,
+    "percent_change": -1.17921575
+  },
+  {
+    "title": "Boeing, Travelers share losses contribute to Dow's 112-point fall",
+    "published": 1712829960,
+    "posting_price": 219.14624933,
+    "close_price": 216.56204224,
+    "percent_change": -1.17921575
+  },
+  {
+    "title": "Video: Dow Movers: TRV, NKE",
+    "published": 1712827680,
+    "posting_price": 219.14624933,
+    "close_price": 216.56204224,
+    "percent_change": -1.17921575
+  },
+  {
+    "title": "Top Seeking Alpha Quant picks in Financial sector as earnings kick off",
+    "published": 1712745780,
+    "posting_price": 219.25432006,
+    "close_price": 220.47273254,
+    "percent_change": 0.5557074
+  },
+  {
+    "title": "Bank of America Securities Sticks to Their Sell Rating for Travelers Companies (TRV)",
+    "published": 1712741940,
+    "posting_price": 219.25432006,
+    "close_price": 220.47273254,
+    "percent_change": 0.5557074
+  },
+  {
+    "title": "American Express, Travelers share losses contribute to Dow's 139-point drop",
+    "published": 1712660460,
+    "posting_price": 227.00693737,
+    "close_price": 219.94213867,
+    "percent_change": -3.11215101
+  },
+  {
+    "title": "Here's Why Travelers (TRV) Stock is an Investor Favorite Now",
+    "published": 1712591460,
+    "posting_price": 226.86937915,
+    "close_price": 226.57460022,
+    "percent_change": -0.12993333
+  },
+  {
+    "title": "Travelers price target raised by $19 at JPMorgan, here's why",
+    "published": 1712555040,
+    "posting_price": 226.86937915,
+    "close_price": 226.57460022,
+    "percent_change": -0.12993333
+  },
+  {
+    "title": "5 Blue-Chip Stocks to Buy Despite Dow's Recent Meltdown",
+    "published": 1712316720,
+    "posting_price": 226.44687979,
+    "close_price": 226.86938477,
+    "percent_change": 0.18658017
+  },
+  {
+    "title": "Travelers price target raised by $20 at RBC Capital, here's why",
+    "published": 1712300100,
+    "posting_price": 226.44687979,
+    "close_price": 226.86938477,
+    "percent_change": 0.18658017
+  },
+  {
+    "title": "Top 4 Insurers That Have Outperformed the S&P 500 in a Year",
+    "published": 1712239740,
+    "posting_price": 226.88903296,
+    "close_price": 224.52099609,
+    "percent_change": -1.04369825
+  },
+  {
+    "title": "Travelers price target raised by $22 at HSBC, here's why",
+    "published": 1712225880,
+    "posting_price": 226.88903296,
+    "close_price": 224.52099609,
+    "percent_change": -1.04369825
+  },
+  {
+    "title": "Travelers price target raised to $245 from $218 at HSBC",
+    "published": 1712204100,
+    "posting_price": 226.88903296,
+    "close_price": 224.52099609,
+    "percent_change": -1.04369825
+  },
+  {
+    "title": "Travelers Cos. Inc. stock outperforms competitors despite losses on the day",
+    "published": 1712202960,
+    "posting_price": 226.88903296,
+    "close_price": 224.52099609,
+    "percent_change": -1.04369825
+  },
+  {
+    "title": "Has The Travelers Companies, Inc.'s (NYSE:TRV) Impressive Stock Performance Got Anything to Do With Its Fundamentals?",
+    "published": 1712161215,
+    "posting_price": 223.53841087,
+    "close_price": 225.07124329,
+    "percent_change": 0.68571321
+  },
+  {
+    "title": "Travelers: Big 2024 EPS Growth Yields An Attractive Stock, Monitoring Technicals",
+    "published": 1712140195,
+    "posting_price": 223.53841087,
+    "close_price": 225.07124329,
+    "percent_change": 0.68571321
+  },
+  {
+    "title": "The Travelers Companies: Price Isn't Quite Right",
+    "published": 1712117410,
+    "posting_price": 223.53841087,
+    "close_price": 225.07124329,
+    "percent_change": 0.68571321
+  },
+  {
+    "title": "Travelers : 2023 Annual Report",
+    "published": 1712080867,
+    "posting_price": 225.15965924,
+    "close_price": 223.88230896,
+    "percent_change": -0.56730868
+  },
+  {
+    "title": "12 Dividend Increases Expected In April 2024",
+    "published": 1712065246,
+    "posting_price": 225.15965924,
+    "close_price": 223.88230896,
+    "percent_change": -0.56730868
+  },
+  {
+    "title": "Are Investors Undervaluing The Travelers Companies (TRV) Right Now?",
+    "published": 1712065209,
+    "posting_price": 225.15965924,
+    "close_price": 223.88230896,
+    "percent_change": -0.56730868
+  },
+  {
+    "title": "5 High Earnings Yield Value Stocks to Power Your Portfolio",
+    "published": 1712060280,
+    "posting_price": 225.15965924,
+    "close_price": 223.88230896,
+    "percent_change": -0.56730868
+  },
+  {
+    "title": "11 Dividend Increases Expected In April 2024",
+    "published": 1712021220,
+    "posting_price": 225.15965924,
+    "close_price": 223.88230896,
+    "percent_change": -0.56730868
+  },
+  {
+    "title": "Procter & Gamble, Johnson & Johnson Among 10 Dividend Growth Companies Announcing Increases In First Half Of April",
+    "published": 1711958567,
+    "posting_price": 225.80818175,
+    "close_price": 224.18692017,
+    "percent_change": -0.71798177
+  },
+  {
+    "title": "Travelers Companies (TRV) Receives a Hold from Piper Sandler",
+    "published": 1711951680,
+    "posting_price": 225.80818175,
+    "close_price": 224.18692017,
+    "percent_change": -0.71798177
   }
 ]

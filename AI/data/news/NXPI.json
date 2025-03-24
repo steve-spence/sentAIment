@@ -1,27 +1,45 @@
 [
   {
     "title": "Should We Be Delighted With NXP Semiconductors N.V.'s (NASDAQ:NXPI) ROE Of 27%?",
-    "published": 1742558419
+    "published": 1742558419,
+    "posting_price": 200.17999268,
+    "close_price": 200.63999939,
+    "percent_change": 0.22979655
   },
   {
     "title": "2 Large-Cap Stocks on Our Buy List and 1 to Brush Off",
-    "published": 1742389306
+    "published": 1742389306,
+    "posting_price": 206.17999268,
+    "close_price": 207.38000488,
+    "percent_change": 0.58202165
   },
   {
     "title": "New S32K5 microcontroller family advances zonal SDV architectures and extends the NXP CoreRide platform",
-    "published": 1741680000
+    "published": 1741680000,
+    "posting_price": 208.07621937,
+    "close_price": 204.79237366,
+    "percent_change": -1.57819366
   },
   {
     "title": "NXP Semiconductors (NASDAQ:NXPI) Shareholders Will Want The ROCE Trajectory To Continue",
-    "published": 1741266017
+    "published": 1741266017,
+    "posting_price": 211.74813953,
+    "close_price": 213.41992188,
+    "percent_change": 0.78951454
   },
   {
     "title": "NXP (NXPI) Up 4.3% Since Last Earnings Report: Can It Continue?",
-    "published": 1741192212
+    "published": 1741192212,
+    "posting_price": 212.2855043,
+    "close_price": 215.70866394,
+    "percent_change": 1.61252632
   },
   {
     "title": "NXP Semiconductors (NASDAQ:NXPI) sheds 6.9% this week, as yearly returns fall more in line with earnings growth",
-    "published": 1740578418
+    "published": 1740578418,
+    "posting_price": 228.39624142,
+    "close_price": 228.25692749,
+    "percent_change": -0.06099659
   },
   {
     "title": "Street Calls of the Week",
@@ -29,6 +47,262 @@
   },
   {
     "title": "Palantir initiated, Roku upgraded: Wall Street\u2019s top analyst calls",
-    "published": 1740148520
+    "published": 1740148520,
+    "posting_price": 245.99963168,
+    "close_price": 235.36196899,
+    "percent_change": -4.3242596
+  },
+  {
+    "title": "Is It Time To Consider Buying NXP Semiconductors N.V. (NASDAQ:NXPI)?",
+    "published": 1713191255,
+    "posting_price": 234.44616897,
+    "close_price": 227.16075134,
+    "percent_change": -3.10750125
+  },
+  {
+    "title": "NXP Semiconductors initiated with bullish view at Evercore ISI, here's why",
+    "published": 1713151380,
+    "posting_price": 234.44616897,
+    "close_price": 227.16075134,
+    "percent_change": -3.10750125
+  },
+  {
+    "title": "Interesting NXPI Put And Call Options For May 31st",
+    "published": 1712917140,
+    "posting_price": 236.54885669,
+    "close_price": 230.6158905,
+    "percent_change": -2.50813564
+  },
+  {
+    "title": "NXP Semiconductors Announces Conference Call to Review First Quarter 2024 Financial Results",
+    "published": 1712836800,
+    "posting_price": 239.73745933,
+    "close_price": 241.19848633,
+    "percent_change": 0.60942792
+  },
+  {
+    "title": "Q4 Rundown: NXP Semiconductors (NASDAQ:NXPI) Vs Other Analog Semiconductors Stocks",
+    "published": 1712825455,
+    "posting_price": 239.73745933,
+    "close_price": 241.19848633,
+    "percent_change": 0.60942792
+  },
+  {
+    "title": "Make Your ETF Portfolio AI-Rich in Buffett-Like Manner",
+    "published": 1712768400,
+    "posting_price": 243.56772223,
+    "close_price": 237.99014282,
+    "percent_change": -2.28995015
+  },
+  {
+    "title": "Is Trending Stock NXP Semiconductors N.V. (NXPI) a Buy Now?",
+    "published": 1712754012,
+    "posting_price": 243.56772223,
+    "close_price": 237.99014282,
+    "percent_change": -2.28995015
+  },
+  {
+    "title": "Here's How Much You Would Have Made Owning NXP Semiconductors Stock In The Last 10 Years",
+    "published": 1712716440,
+    "posting_price": 243.56772223,
+    "close_price": 237.99014282,
+    "percent_change": -2.28995015
+  },
+  {
+    "title": "Winners And Losers Of Q4: Skyworks Solutions (NASDAQ:SWKS) Vs The Rest Of The Analog Semiconductors Stocks",
+    "published": 1712653229,
+    "posting_price": 244.04158921,
+    "close_price": 248.60237122,
+    "percent_change": 1.86885441
+  },
+  {
+    "title": "IN BRIEF: NXP launches new processor for real-time vehicle control",
+    "published": 1712642760,
+    "posting_price": 244.04158921,
+    "close_price": 248.60237122,
+    "percent_change": 1.86885441
+  },
+  {
+    "title": "NXP Semiconductors N : Pioneers Real-Time Super-Integration for Central Vehicle Control with S32N55 Processor",
+    "published": 1712630052,
+    "posting_price": 244.04158921,
+    "close_price": 248.60237122,
+    "percent_change": 1.86885441
+  },
+  {
+    "title": "NXP Semiconductors (NXPI) Gains As Market Dips: What You Should Know",
+    "published": 1712613618,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "Applied Materials replaces GlobalFoundries in Cantor's top 5 list ahead of earnings season",
+    "published": 1712569500,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "Ferrari researching technology of lithium battery cells with Italian scientists",
+    "published": 1712566140,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "Nvidia and these other chip stocks named top plays into earnings season",
+    "published": 1712562780,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "Driving Innovation: Ferrari Teams Up with University of Bologna for Breakthrough Battery Research",
+    "published": 1712559600,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "NXP Earns 2024 Great Place To Work Certification",
+    "published": 1712555905,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "NXP Semiconductors price target raised by $20 at Cantor Fitzgerald, here's why",
+    "published": 1712554260,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "DGI For The DIY: 2023 Dividend Portfolio Review",
+    "published": 1712546542,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "NXP Semiconductors N : Extends Industry-Leading Edge Portfolio with New Advanced Connected MCX W Wireless MCU Series for Smart Industrial and IoT Devices",
+    "published": 1712536687,
+    "posting_price": 239.04641255,
+    "close_price": 241.78091431,
+    "percent_change": 1.14392085
+  },
+  {
+    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
+    "published": 1712395800
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "Buy-rated and sell-rated stocks within Technology - Citi",
+    "published": 1712313180,
+    "posting_price": 237.1707819,
+    "close_price": 237.92103577,
+    "percent_change": 0.31633486
+  },
+  {
+    "title": "Variscite Showcases i.MX 95-based System on Module for High-end Edge Computing with NXP at Embedded World 2024",
+    "published": 1712310335,
+    "posting_price": 237.1707819,
+    "close_price": 237.92103577,
+    "percent_change": 0.31633486
+  },
+  {
+    "title": "Axis Raises The Bar on Cybersecurity to Provide Wide-Ranging FIPS 140-Compliant Products to Government Customers",
+    "published": 1712310211,
+    "posting_price": 237.1707819,
+    "close_price": 237.92103577,
+    "percent_change": 0.31633486
+  },
+  {
+    "title": "Global semiconductor sales jump 16.3% in February: SIA",
+    "published": 1712234640,
+    "posting_price": 244.06130878,
+    "close_price": 236.10461426,
+    "percent_change": -3.26012122
+  },
+  {
+    "title": "Brokers Suggest Investing in NXP (NXPI): Read This Before Placing a Bet",
+    "published": 1712151011,
+    "posting_price": 236.02565593,
+    "close_price": 240.75427246,
+    "percent_change": 2.00343328
+  },
+  {
+    "title": "NXP Simplifies Security for IoT Devices with EdgeLock SE052F, the Industry's First Hardware Secure Element with Newest FIPS 140-3 Level 3 Certification",
+    "published": 1712124139,
+    "posting_price": 236.02565593,
+    "close_price": 240.75427246,
+    "percent_change": 2.00343328
+  },
+  {
+    "title": "NXP Semiconductors N : Simplifies Security for IoT Devices with EdgeLock SE052F, the Industry\u2019s First Hardware Secure Element with Newest FIPS 140-3 Level 3 Certification",
+    "published": 1712112190,
+    "posting_price": 236.02565593,
+    "close_price": 240.75427246,
+    "percent_change": 2.00343328
+  },
+  {
+    "title": "Semiconductors Winners And Losers Heading Into Q2 2024",
+    "published": 1712074851,
+    "posting_price": 240.69502444,
+    "close_price": 237.68411255,
+    "percent_change": -1.25092403
+  },
+  {
+    "title": "Analog Semiconductors Stocks Q4 Teardown: Impinj (NASDAQ:PI) Vs The Rest",
+    "published": 1712046609,
+    "posting_price": 240.69502444,
+    "close_price": 237.68411255,
+    "percent_change": -1.25092403
+  },
+  {
+    "title": "Seco announces collaboration with NXP Semiconductors.",
+    "published": 1712029818,
+    "posting_price": 240.69502444,
+    "close_price": 237.68411255,
+    "percent_change": -1.25092403
+  },
+  {
+    "title": "NXP Semiconductors (NXPI) Adds S32 CoreRide to Auto Portfolio",
+    "published": 1711987260,
+    "posting_price": 245.19659562,
+    "close_price": 243.12350464,
+    "percent_change": -0.84548114
+  },
+  {
+    "title": "Qualcomm's Expansion Into AI And IoT: Reasons To Consider Buying The Stock",
+    "published": 1711985974,
+    "posting_price": 245.19659562,
+    "close_price": 243.12350464,
+    "percent_change": -0.84548114
+  },
+  {
+    "title": "NXP Semiconductors: Category Leader But Demand Outlook Uncertain",
+    "published": 1711975245,
+    "posting_price": 245.19659562,
+    "close_price": 243.12350464,
+    "percent_change": -0.84548114
+  },
+  {
+    "title": "NXP Breaks Through Integration Barriers for Software-Defined Vehicle Development with Open S32 CoreRide Platform",
+    "published": 1711948458,
+    "posting_price": 245.19659562,
+    "close_price": 243.12350464,
+    "percent_change": -0.84548114
+  },
+  {
+    "title": "The 3 Best Mutual Funds to Buy in April 2024",
+    "published": 1711943520,
+    "posting_price": 245.19659562,
+    "close_price": 243.12350464,
+    "percent_change": -0.84548114
   }
 ]

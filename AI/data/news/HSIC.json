@@ -1,18 +1,114 @@
 [
   {
     "title": "Utah fluoride ban could be marginal tailwind to dental demand, says BofA",
-    "published": 1741793455
+    "published": 1741793455,
+    "posting_price": 72.73000336,
+    "close_price": 69.94000244,
+    "percent_change": -3.83610723
   },
   {
     "title": "Dental Equipment & Technology Stocks Q4 Earnings Review: Align Technology (NASDAQ:ALGN) Shines",
-    "published": 1741597384
+    "published": 1741597384,
+    "posting_price": 74.37000275,
+    "close_price": 75.44999695,
+    "percent_change": 1.45219061
   },
   {
     "title": "3 Small-Cap Stocks Walking a Fine Line",
-    "published": 1741093594
+    "published": 1741093594,
+    "posting_price": 70.30999756,
+    "close_price": 70.30999756,
+    "percent_change": 0.0
   },
   {
     "title": "Henry Schein: Q4 Earnings Snapshot",
-    "published": 1740482234
+    "published": 1740482234,
+    "posting_price": 80.55999756,
+    "close_price": 75.81999969,
+    "percent_change": -5.88381084
+  },
+  {
+    "title": "Stocks likely to beat and miss their earnings expectations - BofA",
+    "published": 1712889000,
+    "posting_price": 71.26000214,
+    "close_price": 71.01000214,
+    "percent_change": -0.35082794
+  },
+  {
+    "title": "Henry Schein to Webcast First Quarter 2024 Conference Call on Tuesday, May 7, 2024 at 10:00 A.M. ET",
+    "published": 1712831400,
+    "posting_price": 72.16999817,
+    "close_price": 71.80999756,
+    "percent_change": -0.49882308
+  },
+  {
+    "title": "Henry Schein to Webcast First Quarter 2024 Conference Call on Tuesday, May 7, 2024 at 10: 00 A.M. ET",
+    "published": 1712817066,
+    "posting_price": 72.16999817,
+    "close_price": 71.80999756,
+    "percent_change": -0.49882308
+  },
+  {
+    "title": "Henry Schein Announces Appointment of Three New Members to the Company\u2019s Executive Management Committee",
+    "published": 1712779500,
+    "posting_price": 72.27999878,
+    "close_price": 71.86000061,
+    "percent_change": -0.58107108
+  },
+  {
+    "title": "Henry Schein names three new members to Executive Management Committee",
+    "published": 1712718480,
+    "posting_price": 72.27999878,
+    "close_price": 71.86000061,
+    "percent_change": -0.58107108
+  },
+  {
+    "title": "HENRY SCHEIN : MEDICAL SHOWCASES EMERGENCY MEDICAL SERVICES SOLUTIONS FOR COMMUNITY-BASED MODELS OF CARE AT FDIC INTERNATIONAL",
+    "published": 1712570048,
+    "posting_price": 72.37000275,
+    "close_price": 72.47000122,
+    "percent_change": 0.13817668
+  },
+  {
+    "title": "Henry Schein (HSIC) Buys TriMed to Expand in Orthopedic Space",
+    "published": 1712315820,
+    "posting_price": 72.73999786,
+    "close_price": 72.51999664,
+    "percent_change": -0.30244876
+  },
+  {
+    "title": "Henry Schein Completes Acquisition of Majority Interest of TriMed, Inc.",
+    "published": 1712226600,
+    "posting_price": 73.91999817,
+    "close_price": 72.88999939,
+    "percent_change": -1.39339665
+  },
+  {
+    "title": "Henry Schein completes acquisition of majority interest in TriMed",
+    "published": 1712208840,
+    "posting_price": 73.91999817,
+    "close_price": 72.88999939,
+    "percent_change": -1.39339665
+  },
+  {
+    "title": "Henry Schein Presents THRIVELIVE 2024",
+    "published": 1712059260,
+    "posting_price": 73.83000183,
+    "close_price": 73.06999969,
+    "percent_change": -1.02939472
+  },
+  {
+    "title": "Viome Is Partnering with Henry Schein to Provide Better Access to Oral Health Pro\u2122 With CancerDetect\u2122",
+    "published": 1712052780,
+    "posting_price": 73.83000183,
+    "close_price": 73.06999969,
+    "percent_change": -1.02939472
+  },
+  {
+    "title": "Henry Schein (HSIC) Faced a Cyber Attack in Q4",
+    "published": 1711964047,
+    "posting_price": 75.16999817,
+    "close_price": 74.23999786,
+    "percent_change": -1.23719613
   }
 ]

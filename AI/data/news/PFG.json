@@ -1,43 +1,73 @@
 [
   {
     "title": "Nearly 80% of Retirement Savers Restart Contributions After Stopping Due to a Financial Setback",
-    "published": 1741271400
+    "published": 1741271400,
+    "posting_price": 85.59832298,
+    "close_price": 85.85597229,
+    "percent_change": 0.30099808
   },
   {
     "title": "Chubb Limited to Propose 6.5% Dividend Hike to Share More Profit",
-    "published": 1740759300
+    "published": 1740759300,
+    "posting_price": 87.5802294,
+    "close_price": 88.23426056,
+    "percent_change": 0.74677946
   },
   {
     "title": "Brant Wong Joins Principal Asset Management\u2120 as Head of Retirement Solutions",
-    "published": 1740666600
+    "published": 1740666600,
+    "posting_price": 85.41005222,
+    "close_price": 86.73792267,
+    "percent_change": 1.55470043
   },
   {
     "title": "Principal Financial (PFG) Could Be a Great Choice",
-    "published": 1740415512
+    "published": 1740415512,
+    "posting_price": 83.97316635,
+    "close_price": 84.33982086,
+    "percent_change": 0.43663295
   },
   {
     "title": "February 2025 US Dividend Stocks To Consider",
-    "published": 1739199714
+    "published": 1739199714,
+    "posting_price": 82.03090482,
+    "close_price": 83.61642456,
+    "percent_change": 1.9328322
   },
   {
     "title": "Principal Financial Q4 Earnings Miss, Revenues Up Y/Y, Dividend Raised",
-    "published": 1738937880
+    "published": 1738937880,
+    "posting_price": 82.15972944,
+    "close_price": 81.5849762,
+    "percent_change": -0.69955591
   },
   {
     "title": "Principal Financial: Q4 Earnings Snapshot",
-    "published": 1738878424
+    "published": 1738878424,
+    "posting_price": 80.42556854,
+    "close_price": 79.27606201,
+    "percent_change": -1.42927996
   },
   {
     "title": "The 401(k) Has Reached a Tipping Point in Its Takeover of American Retirement",
-    "published": 1738771200
+    "published": 1738771200,
+    "posting_price": 79.88054317,
+    "close_price": 79.84090424,
+    "percent_change": -0.04962276
   },
   {
     "title": "Q4 Showdown: Can These 4 Insurance Stocks Beat the Estimates?",
-    "published": 1738767540
+    "published": 1738767540,
+    "posting_price": 79.88054317,
+    "close_price": 79.84090424,
+    "percent_change": -0.04962276
   },
   {
     "title": "Principal Financial to Report Q4 Earnings: Is a Beat in Store?",
-    "published": 1738598220
+    "published": 1738598220,
+    "posting_price": 80.73275716,
+    "close_price": 80.2372818,
+    "percent_change": -0.61372283
   },
   {
     "title": "No One Knows How to Price AI Tools",
@@ -45,6 +75,142 @@
   },
   {
     "title": "Principal Financial (PFG) Earnings Expected to Grow: Should You Buy?",
-    "published": 1738249279
+    "published": 1738249279,
+    "posting_price": 83.32904869,
+    "close_price": 82.75430298,
+    "percent_change": -0.68973031
+  },
+  {
+    "title": "Principal\u00ae achieves sustainability goals in newly released report",
+    "published": 1713190920,
+    "posting_price": 77.66452066,
+    "close_price": 76.20661926,
+    "percent_change": -1.87717813
+  },
+  {
+    "title": "Reasons Why Investors Should Retain Principal Financial (PFG)",
+    "published": 1713186600,
+    "posting_price": 77.66452066,
+    "close_price": 76.20661926,
+    "percent_change": -1.87717813
+  },
+  {
+    "title": "SMALL-CAP WINNERS & LOSERS: Petrofac slides again after Friday plunge",
+    "published": 1713160440,
+    "posting_price": 77.66452066,
+    "close_price": 76.20661926,
+    "percent_change": -1.87717813
+  },
+  {
+    "title": "3 Brands That Should Sign Caitlin Clark After Her Viral March Madness Run",
+    "published": 1713146760,
+    "posting_price": 77.66452066,
+    "close_price": 76.20661926,
+    "percent_change": -1.87717813
+  },
+  {
+    "title": "UK dividends calendar - next 7 days",
+    "published": 1712830140,
+    "posting_price": 78.29208476,
+    "close_price": 77.48107147,
+    "percent_change": -1.03588159
+  },
+  {
+    "title": "Principal Financial (PFG) Receives a Hold from Wells Fargo",
+    "published": 1712814420,
+    "posting_price": 78.29208476,
+    "close_price": 77.48107147,
+    "percent_change": -1.03588159
+  },
+  {
+    "title": "Bank of America Securities Reaffirms Their Hold Rating on Principal Financial (PFG)",
+    "published": 1712741880,
+    "posting_price": 79.38311497,
+    "close_price": 78.46588898,
+    "percent_change": -1.15544217
+  },
+  {
+    "title": "Principal Financial: Asset Management Headwinds Make Shares Less Attractive (Rating Downgrade)",
+    "published": 1712616855,
+    "posting_price": 81.58443229,
+    "close_price": 81.70029449,
+    "percent_change": 0.14201508
+  },
+  {
+    "title": "Here's Why Principal Financial (PFG) is a Strong Momentum Stock",
+    "published": 1712584212,
+    "posting_price": 81.58443229,
+    "close_price": 81.70029449,
+    "percent_change": 0.14201508
+  },
+  {
+    "title": "UK shareholder meetings calendar - next 7 days",
+    "published": 1712568360,
+    "posting_price": 81.58443229,
+    "close_price": 81.70029449,
+    "percent_change": 0.14201508
+  },
+  {
+    "title": "Why Principal Financial (PFG) is a Top Value Stock for the Long-Term",
+    "published": 1712324412,
+    "posting_price": 81.37203354,
+    "close_price": 81.59410095,
+    "percent_change": 0.27290385
+  },
+  {
+    "title": "Principal Financial price target raised by $5 at Piper Sandler, here's why",
+    "published": 1712296200,
+    "posting_price": 81.37203354,
+    "close_price": 81.59410095,
+    "percent_change": 0.27290385
+  },
+  {
+    "title": "Piper Sandler Reaffirms Their Hold Rating on Principal Financial (PFG)",
+    "published": 1712296080,
+    "posting_price": 81.37203354,
+    "close_price": 81.59410095,
+    "percent_change": 0.27290385
+  },
+  {
+    "title": "Top 26 Tax Friendly States for Retirees in 2024",
+    "published": 1712234035,
+    "posting_price": 83.25474038,
+    "close_price": 81.68097687,
+    "percent_change": -1.89029898
+  },
+  {
+    "title": "Principal to Announce First Quarter 2024 Financial Results",
+    "published": 1712232000,
+    "posting_price": 83.25474038,
+    "close_price": 81.68097687,
+    "percent_change": -1.89029898
+  },
+  {
+    "title": "Top buy-rated stocks and sell-rated stocks within Financials - Citi",
+    "published": 1712224800,
+    "posting_price": 83.25474038,
+    "close_price": 81.68097687,
+    "percent_change": -1.89029898
+  },
+  {
+    "title": "UK dividends calendar",
+    "published": 1712218080,
+    "posting_price": 83.25474038,
+    "close_price": 81.68097687,
+    "percent_change": -1.89029898
+  },
+  {
+    "title": "Principal Financial Group, Inc. (NASDAQ:PFG) is favoured by institutional owners who hold 72% of the company",
+    "published": 1712149371,
+    "posting_price": 82.28925401,
+    "close_price": 82.81061554,
+    "percent_change": 0.63357183
+  },
+  {
+    "title": "IN BRIEF: Vanquis Banking Chair Peter Estlin buys GBP110,000 in shares",
+    "published": 1712131380,
+    "posting_price": 82.28925401,
+    "close_price": 82.81061554,
+    "percent_change": 0.63357183
   }
 ]

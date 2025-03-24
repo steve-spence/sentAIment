@@ -1,26 +1,171 @@
 [
   {
     "title": "SoCalGas Announces First Renewable Natural Gas Contract Approved Under California Program",
-    "published": 1742301900
+    "published": 1742301900,
+    "posting_price": 69.80090068,
+    "close_price": 70.10808563,
+    "percent_change": 0.44008737
   },
   {
     "title": "SDG&E Expands Energy Storage Capabilities to Enhance Grid Resiliency and Affordability for Customers",
-    "published": 1741953600
+    "published": 1741953600,
+    "posting_price": 67.87849855,
+    "close_price": 69.57298279,
+    "percent_change": 2.49634903
   },
   {
     "title": "Company News for Feb 26, 2025",
-    "published": 1740580440
+    "published": 1740580440,
+    "posting_price": 69.39461222,
+    "close_price": 72.18902588,
+    "percent_change": 4.02684527
   },
   {
     "title": "Sempra announces $56B capital plan amid rapid Texas growth",
-    "published": 1740560400
+    "published": 1740560400,
+    "posting_price": 69.39461222,
+    "close_price": 72.18902588,
+    "percent_change": 4.02684527
   },
   {
     "title": "S&P 500 Gains and Losses Today: Stocks Fall for Fourth Day, Led by Weak Sempra Earnings",
-    "published": 1740521449
+    "published": 1740521449,
+    "posting_price": 71.72329538,
+    "close_price": 69.99908447,
+    "percent_change": -2.40397614
   },
   {
     "title": "Top Midday Decliners",
-    "published": 1740510979
+    "published": 1740510979,
+    "posting_price": 71.72329538,
+    "close_price": 69.99908447,
+    "percent_change": -2.40397614
+  },
+  {
+    "title": "Sirius Real Estate hails \"strong\" year as eyes more acquisitions",
+    "published": 1713149880,
+    "posting_price": 66.96088447,
+    "close_price": 65.99198151,
+    "percent_change": -1.44696858
+  },
+  {
+    "title": "Sempra (NYSE:SRE) shareholders have endured a 7.2% loss from investing in the stock a year ago",
+    "published": 1713096074
+  },
+  {
+    "title": "Peering Into Sempra's Recent Short Interest",
+    "published": 1712918940,
+    "posting_price": 67.23216886,
+    "close_price": 66.55393982,
+    "percent_change": -1.0087865
+  },
+  {
+    "title": "ClearBridge Large Cap Value Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712913300,
+    "posting_price": 67.23216886,
+    "close_price": 66.55393982,
+    "percent_change": -1.0087865
+  },
+  {
+    "title": "FIRST CLASS 8 HEAVY-DUTY ELECTRIC FREIGHT TRUCK MAKES HISTORIC CROSSING OF U.S.-MEXICO BORDER",
+    "published": 1712873460,
+    "posting_price": 68.30764798,
+    "close_price": 67.09651947,
+    "percent_change": -1.77304964
+  },
+  {
+    "title": "KYN: Decent, But Maybe Not The Best Fund In The Sector",
+    "published": 1712858062,
+    "posting_price": 68.30764798,
+    "close_price": 67.09651947,
+    "percent_change": -1.77304964
+  },
+  {
+    "title": "7 Boring Stocks to Buy as Inflation Crimps Sentiment",
+    "published": 1712855328,
+    "posting_price": 68.30764798,
+    "close_price": 67.09651947,
+    "percent_change": -1.77304964
+  },
+  {
+    "title": "SDG&E RECOGNIZED FOR PUBLIC SAFETY PARTNER PORTAL",
+    "published": 1712780100,
+    "posting_price": 68.31734409,
+    "close_price": 67.99760437,
+    "percent_change": -0.4680213
+  },
+  {
+    "title": "7 Stocks That Should Outperform on the Next Fed Rate Cut",
+    "published": 1712679120,
+    "posting_price": 68.85992691,
+    "close_price": 69.45095825,
+    "percent_change": 0.85830957
+  },
+  {
+    "title": "No Rate Cuts in \u201924? I\u2019m Not Buying It (Here\u2019s Why and How to Profit)",
+    "published": 1712635260,
+    "posting_price": 68.85992691,
+    "close_price": 69.45095825,
+    "percent_change": 0.85830957
+  },
+  {
+    "title": "DGI For The DIY: 2023 Dividend Portfolio Review",
+    "published": 1712546542,
+    "posting_price": 68.47235559,
+    "close_price": 68.56924438,
+    "percent_change": 0.14150059
+  },
+  {
+    "title": "Sirius Real Estate ties up four acquisitions for EUR100 million",
+    "published": 1712544660,
+    "posting_price": 68.47235559,
+    "close_price": 68.56924438,
+    "percent_change": 0.14150059
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
+    "published": 1712394285
+  },
+  {
+    "title": "Sempra stock underperforms Thursday when compared to competitors",
+    "published": 1712202960,
+    "posting_price": 69.27655679,
+    "close_price": 68.63707733,
+    "percent_change": -0.92308205
+  },
+  {
+    "title": "Excelerate Energy Decelerates",
+    "published": 1712142758,
+    "posting_price": 69.61567051,
+    "close_price": 68.76303864,
+    "percent_change": -1.22477003
+  },
+  {
+    "title": "The 3 Best Stocks to Buy in April 2024",
+    "published": 1712085886,
+    "posting_price": 69.16998408,
+    "close_price": 69.56723785,
+    "percent_change": 0.57431525
+  },
+  {
+    "title": "Does Sempra (NYSE:SRE) Deserve A Spot On Your Watchlist?",
+    "published": 1712055637,
+    "posting_price": 69.16998408,
+    "close_price": 69.56723785,
+    "percent_change": 0.57431525
+  },
+  {
+    "title": "More than $150 in credits coming to Southern Californians' utility bills this month",
+    "published": 1712014155,
+    "posting_price": 69.59629281,
+    "close_price": 69.14090729,
+    "percent_change": -0.65432439
+  },
+  {
+    "title": "10 Dividend Growth Stocks: March 2024",
+    "published": 1711943087,
+    "posting_price": 69.59629281,
+    "close_price": 69.14090729,
+    "percent_change": -0.65432439
   }
 ]

@@ -1,15 +1,24 @@
 [
   {
     "title": "S&P 500 Gains and Losses Today: Index Ticks Higher Ahead of This Week's Fed Decision",
-    "published": 1742243527
+    "published": 1742243527,
+    "posting_price": 12.43999958,
+    "close_price": 13.05000019,
+    "percent_change": 4.90354205
   },
   {
     "title": "Energy Stocks Power S&P 500 Upside; Amazon, Google Make Nuclear Pledge",
-    "published": 1741962278
+    "published": 1741962278,
+    "posting_price": 12.40999985,
+    "close_price": 12.31000042,
+    "percent_change": -0.80579719
   },
   {
     "title": "AES to Gain From Renewable Expansion & Rising Presence in LNG Space",
-    "published": 1741614660
+    "published": 1741614660,
+    "posting_price": 11.15999985,
+    "close_price": 11.77999973,
+    "percent_change": 5.55555455
   },
   {
     "title": "3 Magnificent S&P 500 Dividend Stocks Down 20% to 63% to Buy and Hold Forever",
@@ -17,18 +26,150 @@
   },
   {
     "title": "BofA upgrades Vistra, AES stock ratings on growth outlook",
-    "published": 1741109668
+    "published": 1741109668,
+    "posting_price": 11.26000023,
+    "close_price": 10.81999969,
+    "percent_change": -3.90764237
   },
   {
     "title": "AES Corp.'s Q4 Earnings Beat Estimates, Revenues Decline Y/Y",
-    "published": 1741019400
+    "published": 1741019400,
+    "posting_price": 11.14999962,
+    "close_price": 11.18999958,
+    "percent_change": 0.35874405
   },
   {
     "title": "Company News for Mar 3, 2025",
-    "published": 1740991500
+    "published": 1740991500,
+    "posting_price": 11.14999962,
+    "close_price": 11.18999958,
+    "percent_change": 0.35874405
   },
   {
     "title": "Should We Be Delighted With The AES Corporation's (NYSE:AES) ROE Of 9.2%?",
     "published": 1740836410
+  },
+  {
+    "title": "Video: S&P 500 Analyst Moves: AES",
+    "published": 1713179580,
+    "posting_price": 16.14356029,
+    "close_price": 15.4366827,
+    "percent_change": -4.378697
+  },
+  {
+    "title": "AES Achieves #92 Analyst Rank, Surpassing Marathon Oil",
+    "published": 1713178380,
+    "posting_price": 16.14356029,
+    "close_price": 15.4366827,
+    "percent_change": -4.378697
+  },
+  {
+    "title": "Seaport Global Remains a Buy on AES (AES)",
+    "published": 1713166560,
+    "posting_price": 16.14356029,
+    "close_price": 15.4366827,
+    "percent_change": -4.378697
+  },
+  {
+    "title": "Hydrogen Hype: 3 Value Stock Picks in the Trillion-Dollar Market",
+    "published": 1713100222
+  },
+  {
+    "title": "Duke Energy least shorted utility stock in March",
+    "published": 1712921580,
+    "posting_price": 16.92685849,
+    "close_price": 16.0958004,
+    "percent_change": -4.9097007
+  },
+  {
+    "title": "AES Corp. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 16.92685849,
+    "close_price": 16.0958004,
+    "percent_change": -4.9097007
+  },
+  {
+    "title": "AES Shares Cross 4% Yield Mark",
+    "published": 1712887800,
+    "posting_price": 16.92685849,
+    "close_price": 16.0958004,
+    "percent_change": -4.9097007
+  },
+  {
+    "title": "AES: A Value Play With An Upside",
+    "published": 1712703741,
+    "posting_price": 17.54776505,
+    "close_price": 17.4713459,
+    "percent_change": -0.43549221
+  },
+  {
+    "title": "AES : Hawai\u02bbi Launches Company\u2019s First Solar plus Storage Facility on O\u2018ahu",
+    "published": 1712682559,
+    "posting_price": 17.54776505,
+    "close_price": 17.4713459,
+    "percent_change": -0.43549221
+  },
+  {
+    "title": "AES Corp. management to meet virtually with Seaport Research",
+    "published": 1712651100,
+    "posting_price": 17.54776505,
+    "close_price": 17.4713459,
+    "percent_change": -0.43549221
+  },
+  {
+    "title": "AES Added as Top 10 Utility Dividend Stock With 3.77% Yield",
+    "published": 1712650800,
+    "posting_price": 17.54776505,
+    "close_price": 17.4713459,
+    "percent_change": -0.43549221
+  },
+  {
+    "title": "AES (AES) Receives a Buy from RBC Capital",
+    "published": 1712641560,
+    "posting_price": 17.54776505,
+    "close_price": 17.4713459,
+    "percent_change": -0.43549221
+  },
+  {
+    "title": "Buy-rated and sell-rated stocks within the Utilities sector - Citi",
+    "published": 1712320500,
+    "posting_price": 17.19432707,
+    "close_price": 17.27074623,
+    "percent_change": 0.44444403
+  },
+  {
+    "title": "Top 3 Utilities Stocks That May Collapse in April",
+    "published": 1712302740,
+    "posting_price": 17.19432707,
+    "close_price": 17.27074623,
+    "percent_change": 0.44444403
+  },
+  {
+    "title": "AES Announces First Quarter 2024 Financial Review Conference Call to be Held on Friday, May 3, 2024 at 10:00 a.m. ET",
+    "published": 1712142000,
+    "posting_price": 16.94596236,
+    "close_price": 17.09880066,
+    "percent_change": 0.90191573
+  },
+  {
+    "title": "AES Announces First Quarter 2024 Financial Review Conference Call to be Held on Friday, May 3, 2024 at 10: 00 a.m. ET",
+    "published": 1712127672,
+    "posting_price": 16.94596236,
+    "close_price": 17.09880066,
+    "percent_change": 0.90191573
+  },
+  {
+    "title": "AES Corp. stock outperforms competitors on strong trading day",
+    "published": 1712118120,
+    "posting_price": 16.94596236,
+    "close_price": 17.09880066,
+    "percent_change": 0.90191573
+  },
+  {
+    "title": "AES Corp. price target lowered by $1 at UBS, here's why",
+    "published": 1712040480,
+    "posting_price": 17.14656308,
+    "close_price": 17.02238083,
+    "percent_change": -0.72423989
   }
 ]

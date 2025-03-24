@@ -1,42 +1,590 @@
 [
   {
+    "title": "United Hikes Card, Lounge Fees. Airline Stocks Are Rising.",
+    "published": 1742828760,
+    "posting_price": 34.79999924,
+    "close_price": 34.81999969,
+    "percent_change": 0.05747256
+  },
+  {
+    "title": "Street Calls of the Week",
+    "published": 1742725768
+  },
+  {
     "title": "Why Southwest Airlines Finally Soured on Jet Fuel Hedging",
-    "published": 1742586540
+    "published": 1742586540,
+    "posting_price": 33.77000046,
+    "close_price": 34.83000183,
+    "percent_change": 3.13888468
   },
   {
     "title": "Heathrow Airport shuts down after fire, traffic snarled",
-    "published": 1742558624
+    "published": 1742558624,
+    "posting_price": 33.77000046,
+    "close_price": 34.83000183,
+    "percent_change": 3.13888468
   },
   {
     "title": "Frontier Airlines makes a play for customers upset by Southwest\u2019s bag policy",
-    "published": 1742484509
+    "published": 1742484509,
+    "posting_price": 33.68999863,
+    "close_price": 34.15000153,
+    "percent_change": 1.36539899
   },
   {
     "title": "Airline Stocks Are Burning Investors. It\u2019s Not the First Time.",
-    "published": 1742454000
+    "published": 1742454000,
+    "posting_price": 33.68999863,
+    "close_price": 34.15000153,
+    "percent_change": 1.36539899
   },
   {
     "title": "Can Southwest make investors and its most loyal customers happy?",
-    "published": 1742406346
+    "published": 1742406346,
+    "posting_price": 32.41999817,
+    "close_price": 33.59999847,
+    "percent_change": 3.63972969
   },
   {
     "title": "Fliers Who Hauled Kitchen Sinks, Tire Rims Mourn Southwest\u2019s Free Baggage Policy",
-    "published": 1742376600
+    "published": 1742376600,
+    "posting_price": 32.41999817,
+    "close_price": 33.59999847,
+    "percent_change": 3.63972969
   },
   {
     "title": "Frontier Wants You to 'Divorce Your Old Airline' After Southwest Changes",
-    "published": 1742320210
+    "published": 1742320210,
+    "posting_price": 32.31999969,
+    "close_price": 32.38999939,
+    "percent_change": 0.21658323
   },
   {
     "title": "Frontier Airlines Parent Allows Free Checked Bag After Southwest's Policy Change",
-    "published": 1742311771
+    "published": 1742311771,
+    "posting_price": 32.31999969,
+    "close_price": 32.38999939,
+    "percent_change": 0.21658323
   },
   {
     "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1742218809
+    "published": 1742218809,
+    "posting_price": 31.70000076,
+    "close_price": 32.13000107,
+    "percent_change": 1.35646782
   },
   {
-    "title": "13 things that should bother you about the stock market right now",
-    "published": 1742128257
+    "title": "JPMorgan Chase, Advanced Micro Devices fall; Progressive, State Street rise, 4/12/2024",
+    "published": 1712924760,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Delta Navigated The Industry Turbulence Better Than Expected",
+    "published": 1712919960,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1712919660,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Southwest put volume heavy and directionally bearish",
+    "published": 1712916960,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Global airline stocks trade lower as investors brace for earnings",
+    "published": 1712916300,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Southwest Airlines (LUV) Gets a Hold from Bank of America Securities",
+    "published": 1712910960,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Southwest Faces Further Reductions In Expected Boeing Jet Deliveries: Report",
+    "published": 1712910840,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Southwest price target lowered by $4 at BofA, here's why",
+    "published": 1712902680,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Southwest Airlines expects even fewer Boeing deliveries this year",
+    "published": 1712902140,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Southwest Airlines Co. stock underperforms Friday when compared to competitors",
+    "published": 1712895660,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "What You Missed On Wall Street On Friday",
+    "published": 1712892060,
+    "posting_price": 27.37768048,
+    "close_price": 26.89908409,
+    "percent_change": -1.74812614
+  },
+  {
+    "title": "Exclusive-Southwest's expected 2024 Boeing jet deliveries keep shrinking, sources say",
+    "published": 1712872011,
+    "posting_price": 27.20186976,
+    "close_price": 27.85627747,
+    "percent_change": 2.40574532
+  },
+  {
+    "title": "Airlines, unions urge Biden to halt approval of more China flights, Reuters says",
+    "published": 1712839980,
+    "posting_price": 27.20186976,
+    "close_price": 27.85627747,
+    "percent_change": 2.40574532
+  },
+  {
+    "title": "LUV May 31st Options Begin Trading",
+    "published": 1712828520,
+    "posting_price": 27.20186976,
+    "close_price": 27.85627747,
+    "percent_change": 2.40574532
+  },
+  {
+    "title": "Joby\u2019s $3.5B Air Taxi Dream Worth Less Than Trump\u2019s Truth Social Nightmare?",
+    "published": 1712814840,
+    "posting_price": 27.20186976,
+    "close_price": 27.85627747,
+    "percent_change": 2.40574532
+  },
+  {
+    "title": "Southwest Airlines now expects only 20 Boeing aircraft deliveries, Reuters says",
+    "published": 1712812620,
+    "posting_price": 27.20186976,
+    "close_price": 27.85627747,
+    "percent_change": 2.40574532
+  },
+  {
+    "title": "Consistent air travel demand is 'a new normal': Expert",
+    "published": 1712781245,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "UPDATE 1-NTSB says Southwest engine cover loss caused by maintenance issue",
+    "published": 1712778088,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "NTSB says Southwest engine cover loss caused by maintenance issue",
+    "published": 1712775540,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Delta Air Lines (DAL) Surpasses Q1 Expectations, Signals Strong Industry Outlook",
+    "published": 1712747700,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Delta Air Lines Stock Soars Over 50% In Under 6 Months - Can It Fly Higher?",
+    "published": 1712747280,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Spirit Airlines: A Terrible Addition To A Portfolio",
+    "published": 1712742397,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Airfares fall during March in the U.S. as the normalization trend continues",
+    "published": 1712736060,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Air fares fall during March in the U.S. as the normalization trend continues",
+    "published": 1712735340,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Fitch Rates Burbank-Glendale-Pasadena Airport Auth (CA) Rev Bonds 'A-'; Downgrades Outstanding Revs",
+    "published": 1712731995,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Delta leads the airline sector higher after record Q1 earnings",
+    "published": 1712728980,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Spirit Airlines: Beyond Merger, Turnaround Potential Exists",
+    "published": 1712720574,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Airlines ask for extension to minimum flight requirements waiver at NYC airports - report",
+    "published": 1712712540,
+    "posting_price": 28.20789868,
+    "close_price": 27.30930901,
+    "percent_change": -3.18559592
+  },
+  {
+    "title": "Airlines may struggle to keep pace with demand: Analyst",
+    "published": 1712678867,
+    "posting_price": 27.99301818,
+    "close_price": 28.37394142,
+    "percent_change": 1.36077945
+  },
+  {
+    "title": "Boeing first-quarter deliveries sink as grapples with safety issues",
+    "published": 1712665560,
+    "posting_price": 27.99301818,
+    "close_price": 28.37394142,
+    "percent_change": 1.36077945
+  },
+  {
+    "title": "Southwest Airlines Stock (NYSE:LUV): Set to Fly as Travel Trends Shift",
+    "published": 1712664900,
+    "posting_price": 27.99301818,
+    "close_price": 28.37394142,
+    "percent_change": 1.36077945
+  },
+  {
+    "title": "Southwest Airlines hosts a Solarbration in honor of the total eclipse",
+    "published": 1712662695,
+    "posting_price": 27.99301818,
+    "close_price": 28.37394142,
+    "percent_change": 1.36077945
+  },
+  {
+    "title": "Southwest price target lowered by $3 at Susquehanna, here's why",
+    "published": 1712642040,
+    "posting_price": 27.99301818,
+    "close_price": 28.37394142,
+    "percent_change": 1.36077945
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Stocks flat ahead of pivotal inflation print",
+    "published": 1712592900,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Southwest, Boeing Stocks in Focus After Plane Engine Part Detaches on Takeoff",
+    "published": 1712588940,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Southwest Airlines Announces Board of Directors Nominees",
+    "published": 1712575634,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Southwest Airlines Launches Interest-Free Financing On Select Flights With Buy Now Pay Later Leader, Uplift",
+    "published": 1712575633,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Trending : FAA Investigates Loss of Engine Cover on Southwest Flight",
+    "published": 1712571549,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Best Buy Layoffs 2024: What to Know About the Latest Geek Squad Job Cuts",
+    "published": 1712565660,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Trending tickers: Bitcoin, Tesla, Microsoft and Boeing",
+    "published": 1712564925,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "LUV Stock Alert: The FAA Will Probe Southwest Airlines Flight Over Engine Cover Mishap",
+    "published": 1712564400,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "RPT-REFILE-EXPLAINER-What do we know about the Southwest engine cover incident?",
+    "published": 1712559935,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Fitch Affirms Southwest Airlines at 'BBB+'; Outlook Stable",
+    "published": 1712555905,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "US regulators probe engine cover incident involving a Boeing plane",
+    "published": 1712554080,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Southwest Airlines Co. stock underperforms Monday when compared to competitors despite daily gains",
+    "published": 1712549940,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Boeing (NYSE:BA): Another Mishap, Another Investigation",
+    "published": 1712548740,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "What You Missed On Wall Street On Monday",
+    "published": 1712546820,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "REFILE-EXPLAINER-What do we know about the Southwest engine cover incident?",
+    "published": 1712541719,
+    "posting_price": 27.83674087,
+    "close_price": 27.98324966,
+    "percent_change": 0.52631445
+  },
+  {
+    "title": "Southwest Boeing 737-800 flight from Denver loses engine cover, FAA investigating",
+    "published": 1712525537
+  },
+  {
+    "title": "UPDATE 3-US FAA to investigate loss of engine cowling on Southwest Boeing 737-800",
+    "published": 1712522073
+  },
+  {
+    "title": "An engine cover on a Southwest Airlines plane rips off, forcing the flight to return to Denver",
+    "published": 1712516862
+  },
+  {
+    "title": "Southwest Plane Returns to Denver After Engine Part Detaches on Takeoff: FAA",
+    "published": 1712514000
+  },
+  {
+    "title": "FAA to investigate loss of engine cowling on Southwest Boeing 737-800",
+    "published": 1712512738
+  },
+  {
+    "title": "The 3 Best Travel Stocks to Buy in April 2024",
+    "published": 1712512569
+  },
+  {
+    "title": "Southwest Airlines flight makes emergency landing after engine cover detaches",
+    "published": 1712511660
+  },
+  {
+    "title": "Southwest Airlines 737 returns to airport after engine cover falls off",
+    "published": 1712494620
+  },
+  {
+    "title": "Engine cover rips off Southwest Airlines plane, forcing flight to return to Denver",
+    "published": 1712477160
+  },
+  {
+    "title": "Boeing 737-800 Loses Engine Cover During Takeoff, Southwest Airlines Says Its Maintenance Teams Are 'Reviewing The Aircraft'",
+    "published": 1712475120
+  },
+  {
+    "title": "Fly Intel: Top five weekend stock stories",
+    "published": 1712473620
+  },
+  {
+    "title": "FAA to investigate engine cowling loss on Southwest Boeing 737-800, Reuters says",
+    "published": 1712463120
+  },
+  {
+    "title": "Boeing CEO paid USD33 million in 2023, gave up bonus over jet incident",
+    "published": 1712380320
+  },
+  {
+    "title": "Why Southwest Airlines Stock Lost Altitude in March",
+    "published": 1712349829,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "Southwest Airlines : Launches Interest-Free Financing On Select Flights With Buy Now Pay Later Leader, Uplift",
+    "published": 1712334670,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "An engine on a Southwest Airlines jet caught fire before taking off from Texas. FAA is investigating",
+    "published": 1712332804,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "Engine fire halts Southwest flight to Las Vegas",
+    "published": 1712325909,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "Southwest nominates 14 candidates to stand for election for board",
+    "published": 1712311560,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "The Latest Analyst Ratings For Southwest Airlines",
+    "published": 1712304120,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "Southwest price target lowered by $2 at Morgan Stanley, here's why",
+    "published": 1712301720,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "Catalyst Watch: CPI reveal, big bank earnings & AI talk from Intel and Marvell",
+    "published": 1712282520,
+    "posting_price": 27.1921018,
+    "close_price": 27.6804657,
+    "percent_change": 1.79597702
+  },
+  {
+    "title": "FAA is investigating a Southwest Airlines flight that came close to the tower at LaGuardia Airport",
+    "published": 1712250628,
+    "posting_price": 27.50465343,
+    "close_price": 27.31907463,
+    "percent_change": -0.67471783
+  },
+  {
+    "title": "Is United Airlines Undervalued?",
+    "published": 1712217660,
+    "posting_price": 27.50465343,
+    "close_price": 27.31907463,
+    "percent_change": -0.67471783
+  },
+  {
+    "title": "Southwest price target lowered by $2 at Barclays, here's why",
+    "published": 1712206020,
+    "posting_price": 27.50465343,
+    "close_price": 27.31907463,
+    "percent_change": -0.67471783
+  },
+  {
+    "title": "Southwest Airlines (LUV) Stock Drops Despite Market Gains: Important Facts to Note",
+    "published": 1712182518,
+    "posting_price": 27.57302618,
+    "close_price": 27.37768173,
+    "percent_change": -0.70846214
+  },
+  {
+    "title": "Southwest Airlines Acquires SAFFiRE Renewables and Strengthens Focus on Sustainability",
+    "published": 1712144233,
+    "posting_price": 27.57302618,
+    "close_price": 27.37768173,
+    "percent_change": -0.70846214
+  },
+  {
+    "title": "Frontier Airlines plans to take on legacy carriers in bid to boost profitability",
+    "published": 1712038320,
+    "posting_price": 28.1492965,
+    "close_price": 27.67070007,
+    "percent_change": -1.70020743
+  },
+  {
+    "title": "From Krispy Kreme to Frito-Lay, companies are rolling out solar-eclipse promotions",
+    "published": 1712021280,
+    "posting_price": 28.1492965,
+    "close_price": 27.67070007,
+    "percent_change": -1.70020743
+  },
+  {
+    "title": "United (NASDAQ:UAL) Gains Amid Latest Pilot Troubles",
+    "published": 1711976220,
+    "posting_price": 28.62789123,
+    "close_price": 28.50091743,
+    "percent_change": -0.4435318
+  },
+  {
+    "title": "Is It Time to Buy the S&P 500's 3 Worst-Performing Stocks of March?",
+    "published": 1711955400,
+    "posting_price": 28.62789123,
+    "close_price": 28.50091743,
+    "percent_change": -0.4435318
+  },
+  {
+    "title": "Southwest Airlines: Hold Rating Affirmed Amid Modest Gains from SAFFiRE Renewables Acquisition",
+    "published": 1711945560,
+    "posting_price": 28.62789123,
+    "close_price": 28.50091743,
+    "percent_change": -0.4435318
   }
 ]

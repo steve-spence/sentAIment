@@ -1,22 +1,283 @@
 [
   {
     "title": "Allstate Reports $73M After-Tax Catastrophe Losses in February 2025",
-    "published": 1742576040
+    "published": 1742576040,
+    "posting_price": 208.46000671,
+    "close_price": 206.47000122,
+    "percent_change": -0.95462219
   },
   {
     "title": "Seven Insurance Stocks Swarm Wall Street \u2014 Including This 'Perfect' One",
-    "published": 1742397815
+    "published": 1742397815,
+    "posting_price": 204.57000732,
+    "close_price": 204.86999512,
+    "percent_change": 0.1466431
   },
   {
     "title": "Hagerty CEO speaks: From changes in the classic car market to being the industry's 'Bloomberg'",
-    "published": 1741641423
+    "published": 1741641423,
+    "posting_price": 198.63000488,
+    "close_price": 198.74000549,
+    "percent_change": 0.05537965
   },
   {
     "title": "AMERISAFE's Q4 Earnings Beat on Higher Premiums Earned",
-    "published": 1740673680
+    "published": 1740673680,
+    "posting_price": 189.52111183,
+    "close_price": 194.08824158,
+    "percent_change": 2.40982638
   },
   {
     "title": "Allstate Sweetens the Deal With a Dividend Hike: Should You Bite?",
-    "published": 1740670740
+    "published": 1740670740,
+    "posting_price": 189.52111183,
+    "close_price": 194.08824158,
+    "percent_change": 2.40982638
+  },
+  {
+    "title": "Here's Why Allstate (ALL) is a Strong Value Stock",
+    "published": 1713188410,
+    "posting_price": 165.45256192,
+    "close_price": 162.49209595,
+    "percent_change": -1.78931407
+  },
+  {
+    "title": "Atlantic Lithium Pioneers Ghana\u2019s Lithium Production",
+    "published": 1713172740,
+    "posting_price": 165.45256192,
+    "close_price": 162.49209595,
+    "percent_change": -1.78931407
+  },
+  {
+    "title": "Aristocrat Leisure Limited (ARLUF) Gets a Sell from Jefferies",
+    "published": 1713079020
+  },
+  {
+    "title": "Allstate (ALL) Rises As Market Takes a Dip: Key Facts",
+    "published": 1712960121,
+    "posting_price": 162.72737929,
+    "close_price": 163.52140808,
+    "percent_change": 0.48795033
+  },
+  {
+    "title": "Here's How Much $100 Invested In Allstate 15 Years Ago Would Be Worth Today",
+    "published": 1712919960,
+    "posting_price": 162.72737929,
+    "close_price": 163.52140808,
+    "percent_change": 0.48795033
+  },
+  {
+    "title": "Stocks likely to beat and miss their earnings expectations - BofA",
+    "published": 1712889000,
+    "posting_price": 162.72737929,
+    "close_price": 163.52140808,
+    "percent_change": 0.48795033
+  },
+  {
+    "title": "Aristocrat Leisure Issues New Equity Securities",
+    "published": 1712836740,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Aristocrat Shares Cease After Conditions Lapse",
+    "published": 1712836740,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Aristocrat Issues New Employee Incentive Shares",
+    "published": 1712836680,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Aristocrat Leisure Issues Employee Incentive Shares",
+    "published": 1712836680,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Aristocrat Leisure Issues New Employee Shares",
+    "published": 1712836680,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Aristocrat Leisure Issues Employee Share Rights",
+    "published": 1712836080,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Applied Materials, BHP Group, Allstate And More On CNBC's 'Final Trades'",
+    "published": 1712822100,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Wells Fargo Remains a Sell on Allstate (ALL)",
+    "published": 1712814420,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "The Latest Analyst Ratings For Allstate",
+    "published": 1712797440,
+    "posting_price": 165.55061519,
+    "close_price": 162.34507751,
+    "percent_change": -1.93628859
+  },
+  {
+    "title": "Top Seeking Alpha Quant picks in Financial sector as earnings kick off",
+    "published": 1712745780,
+    "posting_price": 164.41349442,
+    "close_price": 166.4034729,
+    "percent_change": 1.21034985
+  },
+  {
+    "title": "Bank of America Securities Sticks to Their Buy Rating for Allstate (ALL)",
+    "published": 1712741940,
+    "posting_price": 164.41349442,
+    "close_price": 166.4034729,
+    "percent_change": 1.21034985
+  },
+  {
+    "title": "Allstate Corp's Fixed Rate Noncumulative Perpetual Preferred Stock, Series J Shares Cross 7% Yield Mark",
+    "published": 1712711160,
+    "posting_price": 164.41349442,
+    "close_price": 166.4034729,
+    "percent_change": 1.21034985
+  },
+  {
+    "title": "Here's Why Allstate (ALL) is a Strong Momentum Stock",
+    "published": 1712584211,
+    "posting_price": 169.89327383,
+    "close_price": 168.96200562,
+    "percent_change": -0.54814896
+  },
+  {
+    "title": "Allstate price target raised by $13 at JPMorgan, here's why",
+    "published": 1712554860,
+    "posting_price": 169.89327383,
+    "close_price": 168.96200562,
+    "percent_change": -0.54814896
+  },
+  {
+    "title": "Atlantic Lithium Directors Bolster Shareholdings",
+    "published": 1712483880
+  },
+  {
+    "title": "Allstate to discuss first quarter 2024 earnings with investors",
+    "published": 1712297000,
+    "posting_price": 168.54046497,
+    "close_price": 169.41293335,
+    "percent_change": 0.51766107
+  },
+  {
+    "title": "Markets broaden out as all-time highs are seen across ALL, CAT, DELL, RJF, and more",
+    "published": 1712231700,
+    "posting_price": 170.6186908,
+    "close_price": 167.85427856,
+    "percent_change": -1.62022826
+  },
+  {
+    "title": "Allstate Corp. stock underperforms Thursday when compared to competitors",
+    "published": 1712202960,
+    "posting_price": 170.6186908,
+    "close_price": 167.85427856,
+    "percent_change": -1.62022826
+  },
+  {
+    "title": "Top 10 Alternatives to Aflac",
+    "published": 1712170001,
+    "posting_price": 169.23649238,
+    "close_price": 170.00111389,
+    "percent_change": 0.45180652
+  },
+  {
+    "title": "Will Allstate (ALL) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712160616,
+    "posting_price": 169.23649238,
+    "close_price": 170.00111389,
+    "percent_change": 0.45180652
+  },
+  {
+    "title": "See How Allstate Ranks Among Analysts' Top Picks With Strong Buyback Activity",
+    "published": 1712146560,
+    "posting_price": 169.23649238,
+    "close_price": 170.00111389,
+    "percent_change": 0.45180652
+  },
+  {
+    "title": "The Fed-Proof Portfolio: 3 Overlooked Stocks Built for Long-Term Success",
+    "published": 1712140200,
+    "posting_price": 169.23649238,
+    "close_price": 170.00111389,
+    "percent_change": 0.45180652
+  },
+  {
+    "title": "Travelers: Big 2024 EPS Growth Yields An Attractive Stock, Monitoring Technicals",
+    "published": 1712140195,
+    "posting_price": 169.23649238,
+    "close_price": 170.00111389,
+    "percent_change": 0.45180652
+  },
+  {
+    "title": "If You Invested $100 In This Stock 10 Years Ago, You Would Have $300 Today",
+    "published": 1712119020,
+    "posting_price": 169.23649238,
+    "close_price": 170.00111389,
+    "percent_change": 0.45180652
+  },
+  {
+    "title": "Allstate (ALL): Strong Industry, Solid Earnings Estimate Revisions",
+    "published": 1712061720,
+    "posting_price": 169.59919365,
+    "close_price": 169.13845825,
+    "percent_change": -0.27166132
+  },
+  {
+    "title": "9 Financials Stocks Whale Activity In Today's Session",
+    "published": 1711975140,
+    "posting_price": 169.66780212,
+    "close_price": 169.16786194,
+    "percent_change": -0.29465825
+  },
+  {
+    "title": "Improvement in Auto Business Pushed The Allstate Corporation (ALL)",
+    "published": 1711973320,
+    "posting_price": 169.66780212,
+    "close_price": 169.16786194,
+    "percent_change": -0.29465825
+  },
+  {
+    "title": "Alarming Rise In Home Insurance Costs Expected To Continue Into 2024: Insurance Stock ETF Soars To All-Time Highs",
+    "published": 1711969200,
+    "posting_price": 169.66780212,
+    "close_price": 169.16786194,
+    "percent_change": -0.29465825
+  },
+  {
+    "title": "Analysts Offer Insights on Financial Companies: Sagicor Financial (OtherSGCFF), Veritex (VBTX) and Allstate (ALL)",
+    "published": 1711951800,
+    "posting_price": 169.66780212,
+    "close_price": 169.16786194,
+    "percent_change": -0.29465825
+  },
+  {
+    "title": "Allstate price target raised by $16 at Piper Sandler, here's why",
+    "published": 1711951140,
+    "posting_price": 169.66780212,
+    "close_price": 169.16786194,
+    "percent_change": -0.29465825
   }
 ]

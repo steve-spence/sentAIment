@@ -1,34 +1,107 @@
 [
   {
     "title": "3 Mid-Cap Stocks Walking a Fine Line",
-    "published": 1741007111
+    "published": 1741007111,
+    "posting_price": 188.2121593,
+    "close_price": 185.01773071,
+    "percent_change": -1.69724879
   },
   {
     "title": "Industrial Packaging Stocks Q4 Earnings: Sealed Air (NYSE:SEE) Best of the Bunch",
-    "published": 1740647076
+    "published": 1740647076,
+    "posting_price": 184.16189215,
+    "close_price": 184.58981323,
+    "percent_change": 0.23236136
   },
   {
     "title": "Q4 Industrial Packaging Earnings Review: First Prize Goes to Crown Holdings (NYSE:CCK)",
-    "published": 1740474159
+    "published": 1740474159,
+    "posting_price": 184.69928097,
+    "close_price": 185.47549438,
+    "percent_change": 0.42025795
   },
   {
     "title": "Investing in Avery Dennison (NYSE:AVY) five years ago would have delivered you a 67% gain",
-    "published": 1740401891
+    "published": 1740401891,
+    "posting_price": 183.67429282,
+    "close_price": 183.64442444,
+    "percent_change": -0.0162616
   },
   {
     "title": "Q4 Earnings Roundup: Ball (NYSE:BALL) And The Rest Of The Industrial Packaging Segment",
-    "published": 1738918900
+    "published": 1738918900,
+    "posting_price": 181.20631322,
+    "close_price": 178.28057861,
+    "percent_change": -1.61458757
   },
   {
     "title": "Avery Dennison Corporation (AVY) Fell after the Release of Quarterly Results",
-    "published": 1738682704
+    "published": 1738682704,
+    "posting_price": 183.31602935,
+    "close_price": 181.73373413,
+    "percent_change": -0.86315159
   },
   {
     "title": "Avery Dennison Q4 Earnings Beat Estimates, Rise Y/Y on Higher Volumes",
-    "published": 1738259220
+    "published": 1738259220,
+    "posting_price": 186.13229217,
+    "close_price": 181.60438538,
+    "percent_change": -2.43262829
   },
   {
     "title": "Avery Dennison: Q4 Earnings Snapshot",
-    "published": 1738238232
+    "published": 1738238232,
+    "posting_price": 186.13229217,
+    "close_price": 181.60438538,
+    "percent_change": -2.43262829
+  },
+  {
+    "title": "Avery Dennison Corp. stock outperforms competitors despite losses on the day",
+    "published": 1712895660,
+    "posting_price": 209.15367291,
+    "close_price": 207.65936279,
+    "percent_change": -0.7144556
+  },
+  {
+    "title": "Avery Dennison's (NYSE:AVY) investors will be pleased with their solid 105% return over the last five years",
+    "published": 1712745058,
+    "posting_price": 213.01722623,
+    "close_price": 211.87684631,
+    "percent_change": -0.53534634
+  },
+  {
+    "title": "12 Best Packaging Stocks to Buy According to Hedge Funds",
+    "published": 1712674124,
+    "posting_price": 214.74748916,
+    "close_price": 215.80923462,
+    "percent_change": 0.49441577
+  },
+  {
+    "title": "Avery Dennison Corp. stock underperforms Monday when compared to competitors despite daily gains",
+    "published": 1712549940,
+    "posting_price": 214.92443415,
+    "close_price": 214.51153564,
+    "percent_change": -0.19211334
+  },
+  {
+    "title": "Avery Dennison price target raised by $11 at Citi, here's why",
+    "published": 1712208660,
+    "posting_price": 218.99444629,
+    "close_price": 213.4694519,
+    "percent_change": -2.52289247
+  },
+  {
+    "title": "Expert Outlook: Avery Dennison Through The Eyes Of 5 Analysts",
+    "published": 1712196420,
+    "posting_price": 218.99444629,
+    "close_price": 213.4694519,
+    "percent_change": -2.52289247
+  },
+  {
+    "title": "Avery Dennison to Webcast First Quarter 2024 Earnings Conference Call",
+    "published": 1711968300,
+    "posting_price": 219.63345728,
+    "close_price": 219.79075623,
+    "percent_change": 0.07161885
   }
 ]

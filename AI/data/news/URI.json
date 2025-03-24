@@ -1,50 +1,258 @@
 [
   {
     "title": "Specialty Equipment Distributors Stocks Q4 Highlights: SiteOne (NYSE:SITE)",
-    "published": 1742288803
+    "published": 1742288803,
+    "posting_price": 616.92999268,
+    "close_price": 609.05999756,
+    "percent_change": -1.27567069
   },
   {
     "title": "Strategic Business Plans Aid Armstrong World Amid High Costs",
-    "published": 1741957740
+    "published": 1741957740,
+    "posting_price": 607.09997559,
+    "close_price": 622.91998291,
+    "percent_change": 2.60583231
   },
   {
     "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 to Brush Off",
-    "published": 1741957279
+    "published": 1741957279,
+    "posting_price": 607.09997559,
+    "close_price": 622.91998291,
+    "percent_change": 2.60583231
   },
   {
     "title": "Karat Packaging (KRT) To Report Earnings Tomorrow: Here Is What To Expect",
-    "published": 1741780913
+    "published": 1741780913,
+    "posting_price": 610.08001709,
+    "close_price": 609.34997559,
+    "percent_change": -0.11966324
   },
   {
     "title": "3 Market-Beating Stocks to Target This Week",
-    "published": 1741352495
+    "published": 1741352495,
+    "posting_price": 623.59997559,
+    "close_price": 628.76000977,
+    "percent_change": 0.82745901
   },
   {
     "title": "This Beaten-Down Industrial Stock Wants to Call America Home. Why It\u2019s Time to Buy.",
-    "published": 1741268340
+    "published": 1741268340,
+    "posting_price": 624.92999268,
+    "close_price": 625.88000488,
+    "percent_change": 0.15201898
   },
   {
     "title": "Hudson Technologies (HDSN) Reports Q4: Everything You Need To Know Ahead Of Earnings",
-    "published": 1741179876
+    "published": 1741179876,
+    "posting_price": 600.75,
+    "close_price": 633.89001465,
+    "percent_change": 5.51644022
   },
   {
     "title": "Custom Truck One Source (CTOS) Reports Earnings Tomorrow: What To Expect",
-    "published": 1741006978
+    "published": 1741006978,
+    "posting_price": 647.0,
+    "close_price": 617.52001953,
+    "percent_change": -4.5564112
   },
   {
     "title": "Herc, H&E Equipment Services Sign Merger Agreement Following United Rentals Deal Termination",
-    "published": 1739996424
+    "published": 1739996424,
+    "posting_price": 709.26000977,
+    "close_price": 709.30999756,
+    "percent_change": 0.00704788
   },
   {
     "title": "Top Midday Stories: Medtronic Shares Tumble on Revenue Miss; CNBC's Faber Reportedly Says Walgreens-Sycamore Deal Talks 'Now Alive'",
-    "published": 1739897656
+    "published": 1739897656,
+    "posting_price": 727.0,
+    "close_price": 720.34997559,
+    "percent_change": -0.91472138
   },
   {
     "title": "H&E Receives Superior Acquisition Offer From Herc; United Rentals Drops $4.8 Billion Deal",
-    "published": 1739894368
+    "published": 1739894368,
+    "posting_price": 727.0,
+    "close_price": 720.34997559,
+    "percent_change": -0.91472138
   },
   {
     "title": "Herc Holdings Just Outplayed United Rentals--And It's About to Change the Rental Industry Forever",
-    "published": 1739886866
+    "published": 1739886866,
+    "posting_price": 727.0,
+    "close_price": 720.34997559,
+    "percent_change": -0.91472138
+  },
+  {
+    "title": "Interesting URI Put And Call Options For April 19th",
+    "published": 1713173640,
+    "posting_price": 681.96662088,
+    "close_price": 660.78741455,
+    "percent_change": -3.10560747
+  },
+  {
+    "title": "United Rentals price target raised by $178 at Morgan Stanley, here's why",
+    "published": 1713145620,
+    "posting_price": 681.96662088,
+    "close_price": 660.78741455,
+    "percent_change": -3.10560747
+  },
+  {
+    "title": "Can United Rentals, Inc.'s (NYSE:URI) ROE Continue To Surpass The Industry Average?",
+    "published": 1713006074
+  },
+  {
+    "title": "What Stocks Should You Buy Right Now?",
+    "published": 1712956200,
+    "posting_price": 668.32942443,
+    "close_price": 668.78533936,
+    "percent_change": 0.0682171
+  },
+  {
+    "title": "Here's Why United Rentals (URI) is a Strong Growth Stock",
+    "published": 1712929511,
+    "posting_price": 668.32942443,
+    "close_price": 668.78533936,
+    "percent_change": 0.0682171
+  },
+  {
+    "title": "United Rentals, Inc. First Quarter 2024 Conference Call and Audio Webcast Thursday, April 25, 2024 at 8: 30 a.m.",
+    "published": 1712908491,
+    "posting_price": 668.32942443,
+    "close_price": 668.78533936,
+    "percent_change": 0.0682171
+  },
+  {
+    "title": "Notable Friday Option Activity: URI, DVN, MAR",
+    "published": 1712888340,
+    "posting_price": 668.32942443,
+    "close_price": 668.78533936,
+    "percent_change": 0.0682171
+  },
+  {
+    "title": "United Rentals, Inc. First Quarter 2024 Conference Call and Audio Webcast Thursday, April 25, 2024 at 8:30 a.m. (ET)",
+    "published": 1712866500,
+    "posting_price": 675.36604058,
+    "close_price": 679.56817627,
+    "percent_change": 0.62220121
+  },
+  {
+    "title": "United Rentals, Inc. First Quarter 2024 Conference Call and Audio Webcast Thursday, April 25, 2024 at 8: 30 a.m. (ET)",
+    "published": 1712852286,
+    "posting_price": 675.36604058,
+    "close_price": 679.56817627,
+    "percent_change": 0.62220121
+  },
+  {
+    "title": "Sorry Campers, The Fed Is Not Riding To The Rescue",
+    "published": 1712848093,
+    "posting_price": 675.36604058,
+    "close_price": 679.56817627,
+    "percent_change": 0.62220121
+  },
+  {
+    "title": "Why This 1 Value Stock Could Be a Great Addition to Your Portfolio",
+    "published": 1712842806,
+    "posting_price": 675.36604058,
+    "close_price": 679.56817627,
+    "percent_change": 0.62220121
+  },
+  {
+    "title": "These 2 Construction Stocks Could Beat Earnings: Why They Should Be on Your Radar",
+    "published": 1712840410,
+    "posting_price": 675.36604058,
+    "close_price": 679.56817627,
+    "percent_change": 0.62220121
+  },
+  {
+    "title": "United Rentals: Take Profits While You Can",
+    "published": 1712750025,
+    "posting_price": 673.2649884,
+    "close_price": 676.03997803,
+    "percent_change": 0.41216901
+  },
+  {
+    "title": "S&P 500 Giant, IBD Stock Of The Day, Closes In On Buy Point After $1 Billion Acquisition",
+    "published": 1712595465,
+    "posting_price": 703.21515185,
+    "close_price": 696.684021,
+    "percent_change": -0.92875286
+  },
+  {
+    "title": "United Rentals Moves Up In Market Cap Rank, Passing Ross Stores",
+    "published": 1712549400,
+    "posting_price": 703.21515185,
+    "close_price": 696.684021,
+    "percent_change": -0.92875286
+  },
+  {
+    "title": "Here's Why United Rentals (URI) Fell More Than Broader Market",
+    "published": 1712268918,
+    "posting_price": 708.56693371,
+    "close_price": 687.63549805,
+    "percent_change": -2.954052
+  },
+  {
+    "title": "Are You Looking for a Top Momentum Pick? Why United Rentals (URI) is a Great Choice",
+    "published": 1712246410,
+    "posting_price": 708.56693371,
+    "close_price": 687.63549805,
+    "percent_change": -2.954052
+  },
+  {
+    "title": "Why United Rentals (URI) is a Top Momentum Stock for the Long-Term",
+    "published": 1712238609,
+    "posting_price": 708.56693371,
+    "close_price": 687.63549805,
+    "percent_change": -2.954052
+  },
+  {
+    "title": "United Rentals Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1712202960,
+    "posting_price": 708.56693371,
+    "close_price": 687.63549805,
+    "percent_change": -2.954052
+  },
+  {
+    "title": "SPY ETF Update, 4/4/2024\ufffd\ufffd\ufffd",
+    "published": 1712194620,
+    "posting_price": 708.56693371,
+    "close_price": 687.63549805,
+    "percent_change": -2.954052
+  },
+  {
+    "title": "United Rentals Insiders Sell US$10m Of Stock, Possibly Signalling Caution",
+    "published": 1712142025,
+    "posting_price": 686.40655827,
+    "close_price": 699.83557129,
+    "percent_change": 1.9564226
+  },
+  {
+    "title": "Will United Rentals (URI) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712074214,
+    "posting_price": 693.75037001,
+    "close_price": 685.61364746,
+    "percent_change": -1.17286028
+  },
+  {
+    "title": "United Rentals (URI) Receives a Sell from Bernstein",
+    "published": 1712039760,
+    "posting_price": 693.75037001,
+    "close_price": 685.61364746,
+    "percent_change": -1.17286028
+  },
+  {
+    "title": "SPY ETF Update, 4/2/2024",
+    "published": 1712039160,
+    "posting_price": 693.75037001,
+    "close_price": 685.61364746,
+    "percent_change": -1.17286028
+  },
+  {
+    "title": "S&P 500 stocks with the lowest hedge fund net exposure - BofA",
+    "published": 1711966980,
+    "posting_price": 714.67192501,
+    "close_price": 703.80981445,
+    "percent_change": -1.51987369
   }
 ]

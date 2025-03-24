@@ -1,34 +1,425 @@
 [
   {
     "title": "CrowdStrike Stock Plunges 6% in a Month: Time to Cut Losses?",
-    "published": 1742583600
+    "published": 1742583600,
+    "posting_price": 358.91000366,
+    "close_price": 362.23999023,
+    "percent_change": 0.92780545
   },
   {
     "title": "\u2018A Safe Haven in a Volatile Market\u2019: Morgan Stanley Picks 3 Top Cybersecurity Stocks to Buy",
-    "published": 1742555394
+    "published": 1742555394,
+    "posting_price": 358.91000366,
+    "close_price": 362.23999023,
+    "percent_change": 0.92780545
   },
   {
     "title": "Strong Management Lifted CrowdStrike Holdings (CRWD) During the Largest IT Outage Ever",
-    "published": 1742471878
+    "published": 1742471878,
+    "posting_price": 371.27999878,
+    "close_price": 369.02999878,
+    "percent_change": -0.60601164
   },
   {
     "title": "Q4 Earnings Highlights: Rapid7 (NASDAQ:RPD) Vs The Rest Of The Cybersecurity Stocks",
-    "published": 1742461828
+    "published": 1742461828,
+    "posting_price": 371.27999878,
+    "close_price": 369.02999878,
+    "percent_change": -0.60601164
   },
   {
     "title": "Google's $32B Wiz Acquisition Reshapes Cybersecurity, Analysts Weigh Impact",
-    "published": 1742404477
+    "published": 1742404477,
+    "posting_price": 366.22000122,
+    "close_price": 375.04998779,
+    "percent_change": 2.41111532
   },
   {
     "title": "Accenture (ACN) Joins Forces with CrowdStrike to Revolutionize Cybersecurity with AI",
-    "published": 1742283550
+    "published": 1742283550,
+    "posting_price": 362.1000061,
+    "close_price": 363.1499939,
+    "percent_change": 0.28997177
   },
   {
-    "title": "3 High Growth Tech Stocks to Watch in the US Market",
-    "published": 1742209814
+    "title": "3 Machine Learning Stocks to Turn $100,000 into $1 Million: April 2024",
+    "published": 1713194664,
+    "posting_price": 310.02999878,
+    "close_price": 299.5,
+    "percent_change": -3.39644513
   },
   {
-    "title": "Q4 Earnings Roundup: SentinelOne (NYSE:S) And The Rest Of The Cybersecurity Segment",
-    "published": 1741943214
+    "title": "CrowdStrike (CRWD) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1713186375,
+    "posting_price": 310.02999878,
+    "close_price": 299.5,
+    "percent_change": -3.39644513
+  },
+  {
+    "title": "Wall Street Favorites: 7 Nasdaq Stocks With Strong Buy Ratings for April 2024",
+    "published": 1713178800,
+    "posting_price": 310.02999878,
+    "close_price": 299.5,
+    "percent_change": -3.39644513
+  },
+  {
+    "title": "Why Microsoft, Alphabet, Amazon, Palantir, And Meta Could Rise 15% In 2024, According To Analyst",
+    "published": 1713178500,
+    "posting_price": 310.02999878,
+    "close_price": 299.5,
+    "percent_change": -3.39644513
+  },
+  {
+    "title": "Forget the \"Fab Four\": These 3 Artificial Intelligence (AI) Stocks Are Magnificent Buys Today",
+    "published": 1713099600
+  },
+  {
+    "title": "Palo Alto Stock (NASDAQ:PANW): Analysts Remain Bullish Despite Near-Term Pressures",
+    "published": 1713011100
+  },
+  {
+    "title": "My Top 9 Real Money Blue-Chip Ideas Yielding As Much As 10.2%",
+    "published": 1712991600
+  },
+  {
+    "title": "SentinelOne: Executing Well Toward Becoming A Best-Of-Breed In Cybersecurity",
+    "published": 1712920472,
+    "posting_price": 313.89001465,
+    "close_price": 309.04998779,
+    "percent_change": -1.54194993
+  },
+  {
+    "title": "First Week of CRWD May 31st Options Trading",
+    "published": 1712915100,
+    "posting_price": 313.89001465,
+    "close_price": 309.04998779,
+    "percent_change": -1.54194993
+  },
+  {
+    "title": "ClearBridge Aggressive Growth Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712906400,
+    "posting_price": 313.89001465,
+    "close_price": 309.04998779,
+    "percent_change": -1.54194993
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: CrowdStrike Holdings (CRWD), Marvell (MRVL) and DocuSign (DOCU)",
+    "published": 1712904720,
+    "posting_price": 313.89001465,
+    "close_price": 309.04998779,
+    "percent_change": -1.54194993
+  },
+  {
+    "title": "Notable Friday Option Activity: CRWD, PANW, LVS",
+    "published": 1712888340,
+    "posting_price": 313.89001465,
+    "close_price": 309.04998779,
+    "percent_change": -1.54194993
+  },
+  {
+    "title": "3 Long-Term Stocks to Turn $100,000 Into $1 Million: April 2024",
+    "published": 1712867160,
+    "posting_price": 313.54000854,
+    "close_price": 317.79998779,
+    "percent_change": 1.35867166
+  },
+  {
+    "title": "Is CrowdStrike Stock Gearing Up for Another Breakout?",
+    "published": 1712861292,
+    "posting_price": 313.54000854,
+    "close_price": 317.79998779,
+    "percent_change": 1.35867166
+  },
+  {
+    "title": "If You Can Only Buy One Stock in April, It Better Be One of These 7 Names",
+    "published": 1712841304,
+    "posting_price": 313.54000854,
+    "close_price": 317.79998779,
+    "percent_change": 1.35867166
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Shopify (SHOP) and CrowdStrike Holdings (CRWD)",
+    "published": 1712817060,
+    "posting_price": 313.54000854,
+    "close_price": 317.79998779,
+    "percent_change": 1.35867166
+  },
+  {
+    "title": "Wall Street Favorites: 3 AI Stocks With Strong Buy Ratings for April 2024",
+    "published": 1712770662,
+    "posting_price": 305.98999023,
+    "close_price": 312.52999878,
+    "percent_change": 2.13732761
+  },
+  {
+    "title": "If You Can Only Buy One Tech Stock in April, It Better Be One of These 3 Names",
+    "published": 1712746800,
+    "posting_price": 305.98999023,
+    "close_price": 312.52999878,
+    "percent_change": 2.13732761
+  },
+  {
+    "title": "3 Top AI Stocks Ready for a Bull Run",
+    "published": 1712741400,
+    "posting_price": 305.98999023,
+    "close_price": 312.52999878,
+    "percent_change": 2.13732761
+  },
+  {
+    "title": "CrowdStrike: Growth Trajectory And Sustainable Operational Performance Justify Valuation",
+    "published": 1712665860,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "CrowdStrike Extends Cloud Security Leadership at Google Cloud Next \u201824",
+    "published": 1712664000,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "Is It Too Late to Buy CrowdStrike Stock?",
+    "published": 1712661300,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "CrowdStrike Holdings's Options: A Look at What the Big Money is Thinking",
+    "published": 1712658900,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "Crowdstrike extends Cloud Security leadership at Google Cloud",
+    "published": 1712646600,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "Crowdstrike management to meet with Piper Sandler",
+    "published": 1712634900,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "New Cloud Computing (SaaS) Portfolio Down Slightly Last Week",
+    "published": 1712628540,
+    "posting_price": 314.98999023,
+    "close_price": 310.76998901,
+    "percent_change": -1.3397255
+  },
+  {
+    "title": "CrowdStrike Holdings (CRWD) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "published": 1712612721,
+    "posting_price": 316.17999268,
+    "close_price": 313.73001099,
+    "percent_change": -0.7748693
+  },
+  {
+    "title": "3 AI Stocks to Buy for Long-Term Growth in Q2 2024",
+    "published": 1712604737,
+    "posting_price": 316.17999268,
+    "close_price": 313.73001099,
+    "percent_change": -0.7748693
+  },
+  {
+    "title": "Investing in Digital Defense: 3 Cybersecurity Stocks Leading the Charge",
+    "published": 1712577360,
+    "posting_price": 316.17999268,
+    "close_price": 313.73001099,
+    "percent_change": -0.7748693
+  },
+  {
+    "title": "Spotting Winners: Rapid7 (NASDAQ:RPD) And Cybersecurity Stocks In Q4",
+    "published": 1712574364,
+    "posting_price": 316.17999268,
+    "close_price": 313.73001099,
+    "percent_change": -0.7748693
+  },
+  {
+    "title": "Analyst Expectations For CrowdStrike Holdings's Future",
+    "published": 1712559960,
+    "posting_price": 316.17999268,
+    "close_price": 313.73001099,
+    "percent_change": -0.7748693
+  },
+  {
+    "title": "Smart Money Is Betting Big In CRWD Options",
+    "published": 1712543760,
+    "posting_price": 316.17999268,
+    "close_price": 313.73001099,
+    "percent_change": -0.7748693
+  },
+  {
+    "title": "3 Hypergrowth Stocks to Buy in 2024 and Beyond",
+    "published": 1712513880
+  },
+  {
+    "title": "Is It Too Late to Buy Zscaler Stock?",
+    "published": 1712480700
+  },
+  {
+    "title": "Tech earnings season awaits. AI monetization has likely hit its 'next gear.'",
+    "published": 1712469720
+  },
+  {
+    "title": "CrowdStrike Stock (NASDAQ:CRWD): Skyrocketing ARR, Strategic Alliances Fuel Growth",
+    "published": 1712320620,
+    "posting_price": 309.72000122,
+    "close_price": 315.5,
+    "percent_change": 1.86620133
+  },
+  {
+    "title": "Exploring The Competitive Space: CrowdStrike Holdings Versus Industry Peers In Software",
+    "published": 1712311440,
+    "posting_price": 309.72000122,
+    "close_price": 315.5,
+    "percent_change": 1.86620133
+  },
+  {
+    "title": "Qualcomm, Broadcom And 2 Other Stocks Insiders Are Selling",
+    "published": 1712302140,
+    "posting_price": 309.72000122,
+    "close_price": 315.5,
+    "percent_change": 1.86620133
+  },
+  {
+    "title": "Got $1,000? These Hot Growth Stocks Are Screaming Buys Right Now.",
+    "published": 1712296800,
+    "posting_price": 309.72000122,
+    "close_price": 315.5,
+    "percent_change": 1.86620133
+  },
+  {
+    "title": "11 Overvalued Stocks Insiders are Dumping Now",
+    "published": 1712265363,
+    "posting_price": 324.29998779,
+    "close_price": 309.19000244,
+    "percent_change": -4.65926177
+  },
+  {
+    "title": "CrowdStrike (CRWD) Down 2.9% Since Last Earnings Report: Can It Rebound?",
+    "published": 1712244606,
+    "posting_price": 324.29998779,
+    "close_price": 309.19000244,
+    "percent_change": -4.65926177
+  },
+  {
+    "title": "Noteworthy Thursday Option Activity: CRWD, F, PYPL",
+    "published": 1712204520,
+    "posting_price": 324.29998779,
+    "close_price": 309.19000244,
+    "percent_change": -4.65926177
+  },
+  {
+    "title": "CrowdStrike's revenue isn't stopping anytime soon: Strategist",
+    "published": 1712178326,
+    "posting_price": 316.57000732,
+    "close_price": 320.04000854,
+    "percent_change": 1.09612444
+  },
+  {
+    "title": "Cybersecurity Stocks Q4 Results: Benchmarking CrowdStrike (NASDAQ:CRWD)",
+    "published": 1712155852,
+    "posting_price": 316.57000732,
+    "close_price": 320.04000854,
+    "percent_change": 1.09612444
+  },
+  {
+    "title": "Beyond Chatbots: 3 Stocks Harnessing AI in Extraordinary Ways",
+    "published": 1712076094,
+    "posting_price": 312.92001343,
+    "close_price": 319.54998779,
+    "percent_change": 2.11874411
+  },
+  {
+    "title": "How CrowdStrike (CRWD) Stock Stands Out in a Strong Industry",
+    "published": 1712065500,
+    "posting_price": 312.92001343,
+    "close_price": 319.54998779,
+    "percent_change": 2.11874411
+  },
+  {
+    "title": "The 3 Best Cybersecurity Stocks to Buy in April 2024",
+    "published": 1712063580,
+    "posting_price": 312.92001343,
+    "close_price": 319.54998779,
+    "percent_change": 2.11874411
+  },
+  {
+    "title": "CrowdStrike (CRWD) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712062817,
+    "posting_price": 312.92001343,
+    "close_price": 319.54998779,
+    "percent_change": 2.11874411
+  },
+  {
+    "title": "Meta Platforms, AMD Lead 10 Stocks Showing This Bullish Action",
+    "published": 1712058354,
+    "posting_price": 312.92001343,
+    "close_price": 319.54998779,
+    "percent_change": 2.11874411
+  },
+  {
+    "title": "The 3 Best Cybersecurity Stocks to Buy in Q2 2024",
+    "published": 1712002273,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
+    "published": 1711979411,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "Dow Jones Futures Rise After 'Good' Inflation Data; Nvidia AI Chip Peer Works On Base",
+    "published": 1711937427,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "7 Tech Stocks to Buy on the Dip: April 2024",
+    "published": 1711972380,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "Peering Into CrowdStrike Holdings's Recent Short Interest",
+    "published": 1711967760,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "Forget Nvidia: Billionaires Are Selling It and Buying These 2 Hypergrowth Artificial Intelligence (AI) Stocks Instead",
+    "published": 1711960860,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "7 Tech Stocks to Buy on the Dip: March 2024",
+    "published": 1711954620,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
+  },
+  {
+    "title": "MSFT and AMZN Among Jefferies\u2019 Top AI Stock Picks",
+    "published": 1711949580,
+    "posting_price": 321.0,
+    "close_price": 319.58999634,
+    "percent_change": -0.43925348
   }
 ]

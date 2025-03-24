@@ -1,34 +1,408 @@
 [
   {
     "title": "Oil Rig Count Falls by 1; Crude Prices Rise Amid Fresh US Sanctions Against Iran",
-    "published": 1742587589
+    "published": 1742587589,
+    "posting_price": 44.20000076,
+    "close_price": 44.11000061,
+    "percent_change": -0.20362025
   },
   {
     "title": "Energy stocks outperform year to date amid inflation, tariff uncertainty",
-    "published": 1742580372
+    "published": 1742580372,
+    "posting_price": 44.20000076,
+    "close_price": 44.11000061,
+    "percent_change": -0.20362025
   },
   {
     "title": "These 4 Measures Indicate That Baker Hughes (NASDAQ:BKR) Is Using Debt Reasonably Well",
-    "published": 1742468422
+    "published": 1742468422,
+    "posting_price": 44.61999893,
+    "close_price": 44.68999863,
+    "percent_change": 0.15687965
   },
   {
     "title": "Here's Why Baker Hughes (BKR) is a Strong Value Stock",
-    "published": 1742305213
+    "published": 1742305213,
+    "posting_price": 44.0,
+    "close_price": 43.70000076,
+    "percent_change": -0.68181645
   },
   {
     "title": "Here's Why Baker Hughes (NASDAQ:BKR) Has Caught The Eye Of Investors",
-    "published": 1741780811
+    "published": 1741780811,
+    "posting_price": 41.88000107,
+    "close_price": 42.47999954,
+    "percent_change": 1.43266107
   },
   {
     "title": "Baker Hughes Secures Key Role in NextDecade's LNG Expansion Plans",
-    "published": 1741777260
+    "published": 1741777260,
+    "posting_price": 41.88000107,
+    "close_price": 42.47999954,
+    "percent_change": 1.43266107
   },
   {
     "title": "Baker Hughes, NextDecade sign framework agreement for Rio Grande LNG project",
-    "published": 1741774221
+    "published": 1741774221,
+    "posting_price": 41.88000107,
+    "close_price": 42.47999954,
+    "percent_change": 1.43266107
   },
   {
     "title": "Q4 2024 NET Power Inc Earnings Call",
-    "published": 1741667115
+    "published": 1741667115,
+    "posting_price": 41.74000168,
+    "close_price": 41.84999847,
+    "percent_change": 0.26352848
+  },
+  {
+    "title": "Halliburton, Baker Hughes may see deal pressure after SLB's buying spree, industry experts say",
+    "published": 1713193294,
+    "posting_price": 32.47023776,
+    "close_price": 31.70807266,
+    "percent_change": -2.34727293
+  },
+  {
+    "title": "Baker Hughes price target raised by $2.50 at BofA, here's why",
+    "published": 1713166680,
+    "posting_price": 32.47023776,
+    "close_price": 31.70807266,
+    "percent_change": -2.34727293
+  },
+  {
+    "title": "3 Best Energy Stocks to Buy in April 2024, According to Analysts",
+    "published": 1713159660,
+    "posting_price": 32.47023776,
+    "close_price": 31.70807266,
+    "percent_change": -2.34727293
+  },
+  {
+    "title": "Oil seen opening up after Iran's attack on Israel",
+    "published": 1713107622
+  },
+  {
+    "title": "If You Like This High-Yield Vanguard Fund, Then You'll Love These Two Dividend Stocks",
+    "published": 1713089700
+  },
+  {
+    "title": "Oil seen opening up after Iran's attack on Israel, but further gains may depend on response",
+    "published": 1713081720
+  },
+  {
+    "title": "Baker Hughes Company (BKR) Receives a Rating Update from a Top Analyst",
+    "published": 1713058620
+  },
+  {
+    "title": "The stock market is testing the bulls to see if they have what it takes",
+    "published": 1713011580
+  },
+  {
+    "title": "US drillers cut oil and gas rigs for fourth week in a row - Baker Hughes",
+    "published": 1712927051,
+    "posting_price": 33.31057612,
+    "close_price": 32.29435349,
+    "percent_change": -3.05075069
+  },
+  {
+    "title": "Baker Hughes reports U.S. rig count down 3 to 617 rigs",
+    "published": 1712923380,
+    "posting_price": 33.31057612,
+    "close_price": 32.29435349,
+    "percent_change": -3.05075069
+  },
+  {
+    "title": "BKR Makes Notable Cross Below Critical Moving Average",
+    "published": 1712893380,
+    "posting_price": 33.31057612,
+    "close_price": 32.29435349,
+    "percent_change": -3.05075069
+  },
+  {
+    "title": "Market Turmoil Resumes As Inflation Rises More Than Expected, Oil Prices Spike, Gold At Record Highs: This Week In The Markets",
+    "published": 1712892480,
+    "posting_price": 33.31057612,
+    "close_price": 32.29435349,
+    "percent_change": -3.05075069
+  },
+  {
+    "title": "Oil & Gas Stock Roundup: ExxonMobil's Q1 Update & SLB's Acquisition in Focus",
+    "published": 1712841000,
+    "posting_price": 33.48646089,
+    "close_price": 33.21286392,
+    "percent_change": -0.81703758
+  },
+  {
+    "title": "Peering Into Baker Hughes's Recent Short Interest",
+    "published": 1712832540,
+    "posting_price": 33.48646089,
+    "close_price": 33.21286392,
+    "percent_change": -0.81703758
+  },
+  {
+    "title": "Wells Fargo Sticks to Their Hold Rating for Baker Hughes Company (BKR)",
+    "published": 1712810100,
+    "posting_price": 33.48646089,
+    "close_price": 33.21286392,
+    "percent_change": -0.81703758
+  },
+  {
+    "title": "ClearBridge Value Equity Strategy Q1 2024 Portfolio Manager Commentary",
+    "published": 1712753400,
+    "posting_price": 33.11514417,
+    "close_price": 33.36920166,
+    "percent_change": 0.76719427
+  },
+  {
+    "title": "Seeking Alpha's top Quant picks in Energy and Utilities as Q1 earnings approaches",
+    "published": 1712753340,
+    "posting_price": 33.11514417,
+    "close_price": 33.36920166,
+    "percent_change": 0.76719427
+  },
+  {
+    "title": "Baker Hughes (NASDAQ:BKR): Analysts Consider This SPX Stock to Be Undervalued",
+    "published": 1712732940,
+    "posting_price": 33.11514417,
+    "close_price": 33.36920166,
+    "percent_change": 0.76719427
+  },
+  {
+    "title": "Baker Hughes (BKR) Fuels Cedar LNG With Electric-driven Tech",
+    "published": 1712662200,
+    "posting_price": 33.59394149,
+    "close_price": 33.40828323,
+    "percent_change": -0.552654
+  },
+  {
+    "title": "Baker Hughes Co. stock outperforms competitors despite losses on the day",
+    "published": 1712635440,
+    "posting_price": 33.59394149,
+    "close_price": 33.40828323,
+    "percent_change": -0.552654
+  },
+  {
+    "title": "US Oil Drilling Rig Tally Rises, Natural Gas Count Declines",
+    "published": 1712579760,
+    "posting_price": 33.61348705,
+    "close_price": 33.46691513,
+    "percent_change": -0.43605092
+  },
+  {
+    "title": "The Analyst Verdict: Baker Hughes In The Eyes Of 5 Experts",
+    "published": 1712574180,
+    "posting_price": 33.61348705,
+    "close_price": 33.46691513,
+    "percent_change": -0.43605092
+  },
+  {
+    "title": "Seaport Global Sticks to Their Buy Rating for Baker Hughes Company (BKR)",
+    "published": 1712562960,
+    "posting_price": 33.61348705,
+    "close_price": 33.46691513,
+    "percent_change": -0.43605092
+  },
+  {
+    "title": "Baker Hughes Company (BKR) Gets a Buy from Piper Sandler",
+    "published": 1712554680,
+    "posting_price": 33.61348705,
+    "close_price": 33.46691513,
+    "percent_change": -0.43605092
+  },
+  {
+    "title": "Schlumberger Is Thinking 10 Years Ahead With The ChampionX Acquisition",
+    "published": 1712553617,
+    "posting_price": 33.61348705,
+    "close_price": 33.46691513,
+    "percent_change": -0.43605092
+  },
+  {
+    "title": "Transocean hiked to Buy at Susquehanna with ultra-deepwater drilling in demand recovery",
+    "published": 1712539680,
+    "posting_price": 33.61348705,
+    "close_price": 33.46691513,
+    "percent_change": -0.43605092
+  },
+  {
+    "title": "Oil prices lost ground as Mideast geopolitical tension eases",
+    "published": 1712517199
+  },
+  {
+    "title": "Why Oil Stocks ExxonMobil, Pioneer Natural Resources, and Baker Hughes Rallied in March",
+    "published": 1712500500
+  },
+  {
+    "title": "US drillers cut oil and gas rigs for third week in a row - Baker Hughes",
+    "published": 1712322737,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes to supply liquefaction technology for Cedar LNG project",
+    "published": 1712322598,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "15 Best Energy Stocks To Buy Now",
+    "published": 1712320975,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes reports U.S. rig count down 1 to 620 rigs",
+    "published": 1712318580,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes to Supply Electric-driven Liquefaction Technology for Cedar LNG Project",
+    "published": 1712318400,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes (BKR) Partners With Snam for Hydrogen-Ready Tech",
+    "published": 1712315760,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes Lands Contract For Cedar LNG Project, Setting New Standards In Green Energy",
+    "published": 1712314800,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Pembina Pipeline raises Cedar LNG cost estimate to $3.4B",
+    "published": 1712312040,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes wins liquefaction technology order for Cedar facility",
+    "published": 1712307000,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "Baker Hughes awarded order for electric-driven liquefaction technologies",
+    "published": 1712301480,
+    "posting_price": 33.10537813,
+    "close_price": 33.52554703,
+    "percent_change": 1.26918623
+  },
+  {
+    "title": "The bulls still have what it takes to pull stocks back up",
+    "published": 1712256780,
+    "posting_price": 33.14445496,
+    "close_price": 33.14445496,
+    "percent_change": 0.0
+  },
+  {
+    "title": "Baker Hughes (BKR) Backs Green Hydrogen Producer Elcogen",
+    "published": 1712234280,
+    "posting_price": 33.14445496,
+    "close_price": 33.14445496,
+    "percent_change": 0.0
+  },
+  {
+    "title": "Top buy-rated stocks and sell-rated stocks within Energy - Citi",
+    "published": 1712223840,
+    "posting_price": 33.14445496,
+    "close_price": 33.14445496,
+    "percent_change": 0.0
+  },
+  {
+    "title": "Backing Fracking: 3 Shale Stocks to Buy Before the 2024 Election",
+    "published": 1712166923,
+    "posting_price": 33.01743859,
+    "close_price": 33.10538101,
+    "percent_change": 0.26635143
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Baker Hughes, Diamondback Energy and Matador Resources",
+    "published": 1712147520,
+    "posting_price": 33.01743859,
+    "close_price": 33.10538101,
+    "percent_change": 0.26635143
+  },
+  {
+    "title": "Baker Hughes to Supply Snam with Hydrogen-Ready Technology to Support Decarbonization and Resilience of the Italian Gas Network",
+    "published": 1712145600,
+    "posting_price": 33.01743859,
+    "close_price": 33.10538101,
+    "percent_change": 0.26635143
+  },
+  {
+    "title": "Baker Hughes And Snam Collaborate On Hydrogen-Ready Pipeline",
+    "published": 1712139180,
+    "posting_price": 33.01743859,
+    "close_price": 33.10538101,
+    "percent_change": 0.26635143
+  },
+  {
+    "title": "Baker Hughes: awarded contract by Snam in Italy",
+    "published": 1712134700,
+    "posting_price": 33.01743859,
+    "close_price": 33.10538101,
+    "percent_change": 0.26635143
+  },
+  {
+    "title": "Baker Hughes to supply Europe's Snam with hydrogen-ready technology",
+    "published": 1712128260,
+    "posting_price": 33.01743859,
+    "close_price": 33.10538101,
+    "percent_change": 0.26635143
+  },
+  {
+    "title": "Permian Oil Rig Count Increases in 4 of Prior 6 Weeks",
+    "published": 1712059620,
+    "posting_price": 32.9392577,
+    "close_price": 32.82200241,
+    "percent_change": -0.35597429
+  },
+  {
+    "title": "SLB to Buy ChampionX, Boost Capital Returns to Stockholders",
+    "published": 1712026740,
+    "posting_price": 32.9392577,
+    "close_price": 32.82200241,
+    "percent_change": -0.35597429
+  },
+  {
+    "title": "A Look At The Fair Value Of Baker Hughes Company (NASDAQ:BKR)",
+    "published": 1711979279,
+    "posting_price": 32.90994845,
+    "close_price": 32.67543411,
+    "percent_change": -0.71259407
+  },
+  {
+    "title": "Oil prices supported by stronger demand in Europe: Goldman Sachs",
+    "published": 1711973220,
+    "posting_price": 32.90994845,
+    "close_price": 32.67543411,
+    "percent_change": -0.71259407
+  },
+  {
+    "title": "Baker Hughes: A Buy Rating on Solid Performance and Promising Industry Engagement",
+    "published": 1711952760,
+    "posting_price": 32.90994845,
+    "close_price": 32.67543411,
+    "percent_change": -0.71259407
+  },
+  {
+    "title": "Mexico said to cut some oil exports as global supplies tighten",
+    "published": 1711941960,
+    "posting_price": 32.90994845,
+    "close_price": 32.67543411,
+    "percent_change": -0.71259407
   }
 ]

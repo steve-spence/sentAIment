@@ -1,26 +1,358 @@
 [
   {
     "title": "Steris Stock Gets Relative Strength Rating Lift",
-    "published": 1742324640
+    "published": 1742324640,
+    "posting_price": 487.33999634,
+    "close_price": 483.95001221,
+    "percent_change": -0.69560967
   },
   {
     "title": "Prediction: These 2 Stocks Will Outperform the Market Through 2030",
-    "published": 1742305980
+    "published": 1742305980,
+    "posting_price": 487.33999634,
+    "close_price": 483.95001221,
+    "percent_change": -0.69560967
   },
   {
     "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 to Avoid",
-    "published": 1741870854
+    "published": 1741870854,
+    "posting_price": 498.70999146,
+    "close_price": 476.77999878,
+    "percent_change": -4.39734376
   },
   {
     "title": "3 Unparalleled Growth Stocks You'll Regret Not Buying During the Nasdaq Stock Correction",
-    "published": 1741856760
+    "published": 1741856760,
+    "posting_price": 498.70999146,
+    "close_price": 476.77999878,
+    "percent_change": -4.39734376
   },
   {
     "title": "2 Top Growth Stocks to Buy Hand Over Fist in the Nasdaq Correction",
-    "published": 1741596000
+    "published": 1741596000,
+    "posting_price": 503.91000366,
+    "close_price": 482.60998535,
+    "percent_change": -4.22694889
   },
   {
     "title": "Astera Labs Appoints Dr. Craig Barratt to Board of Directors",
-    "published": 1741035900
+    "published": 1741035900,
+    "posting_price": 573.7800293,
+    "close_price": 566.97998047,
+    "percent_change": -1.18513167
+  },
+  {
+    "title": "Q1 '24 S&P 500 Earnings (And Johnson & Johnson): Expecting Another Normal Earnings Season",
+    "published": 1713213300,
+    "posting_price": 392.25,
+    "close_price": 377.35998535,
+    "percent_change": -3.79605217
+  },
+  {
+    "title": "Intuitive Surgical (ISRG) Q1 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+    "published": 1713187157,
+    "posting_price": 392.25,
+    "close_price": 377.35998535,
+    "percent_change": -3.79605217
+  },
+  {
+    "title": "Intuitive Surgical Readies For Robotic Resurgence In Upcoming Earnings",
+    "published": 1713182118,
+    "posting_price": 392.25,
+    "close_price": 377.35998535,
+    "percent_change": -3.79605217
+  },
+  {
+    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
+    "published": 1713178620,
+    "posting_price": 392.25,
+    "close_price": 377.35998535,
+    "percent_change": -3.79605217
+  },
+  {
+    "title": "Intuitive Surgical Inc (ISRG)'s Winning Formula: Financial Metrics and Competitive Strengths",
+    "published": 1713175500,
+    "posting_price": 392.25,
+    "close_price": 377.35998535,
+    "percent_change": -3.79605217
+  },
+  {
+    "title": "ROBO ETF: A Diversified Investment Into The Future",
+    "published": 1713132012
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1713081061
+  },
+  {
+    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
+    "published": 1713078360
+  },
+  {
+    "title": "Needham sees BSX, CNMD, RMD beating Street, despite medtech slow down",
+    "published": 1713070860
+  },
+  {
+    "title": "Intuitive Surgical : 2024 Annual Meeting Rules of Conduct",
+    "published": 1712947627,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "Intuitive Surgical: Growth And Margins Will Be Challenged In 2024",
+    "published": 1712920434,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "Global company events calendar",
+    "published": 1712918340,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "Wall Street Favorites: 3 Robotics Stocks with Strong Buy Ratings for April 2024",
+    "published": 1712917800,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "First Week of May 31st Options Trading For Intuitive Surgical (ISRG)",
+    "published": 1712914740,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "$1000 Invested In Intuitive Surgical 5 Years Ago Would Be Worth This Much Today",
+    "published": 1712896500,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
+    "published": 1712887200,
+    "posting_price": 387.0,
+    "close_price": 384.79998779,
+    "percent_change": -0.56847861
+  },
+  {
+    "title": "The 3 Most Promising MedTech Stocks to Invest In Now",
+    "published": 1712861700,
+    "posting_price": 387.57998657,
+    "close_price": 392.26000977,
+    "percent_change": 1.20749867
+  },
+  {
+    "title": "Intuitive Surgical, Inc. (ISRG) Reports Next Week: Wall Street Expects Earnings Growth",
+    "published": 1712844021,
+    "posting_price": 387.57998657,
+    "close_price": 392.26000977,
+    "percent_change": 1.20749867
+  },
+  {
+    "title": "Market Whales and Their Recent Bets on ISRG Options",
+    "published": 1712798580,
+    "posting_price": 387.57998657,
+    "close_price": 392.26000977,
+    "percent_change": 1.20749867
+  },
+  {
+    "title": "If You Can Only Buy One Robotics Stock in April, It Better Be One of These 3 Names",
+    "published": 1712784600,
+    "posting_price": 387.16000366,
+    "close_price": 388.45999146,
+    "percent_change": 0.33577534
+  },
+  {
+    "title": "Is Intuitive Surgical Stock Going to $430? 1 Wall Street Analyst Thinks So.",
+    "published": 1712755292,
+    "posting_price": 387.16000366,
+    "close_price": 388.45999146,
+    "percent_change": 0.33577534
+  },
+  {
+    "title": "Intuitive Surgical, Inc. (ISRG) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1712754010,
+    "posting_price": 387.16000366,
+    "close_price": 388.45999146,
+    "percent_change": 0.33577534
+  },
+  {
+    "title": "2 Monster Growth Stocks to Buy in 2024 Before They Surge Even Higher",
+    "published": 1712738100,
+    "posting_price": 387.16000366,
+    "close_price": 388.45999146,
+    "percent_change": 0.33577534
+  },
+  {
+    "title": "Intuitive Surgical added to 'US 1 List' at BofA, Lowe's removed",
+    "published": 1712728020,
+    "posting_price": 387.16000366,
+    "close_price": 388.45999146,
+    "percent_change": 0.33577534
+  },
+  {
+    "title": "AI\u2019s $15.7 Trillion Revolution",
+    "published": 1712713620,
+    "posting_price": 387.16000366,
+    "close_price": 388.45999146,
+    "percent_change": 0.33577534
+  },
+  {
+    "title": "Why Intuitive Surgical, Inc. (ISRG) Outpaced the Stock Market Today",
+    "published": 1712700021,
+    "posting_price": 389.95001221,
+    "close_price": 390.95999146,
+    "percent_change": 0.25900224
+  },
+  {
+    "title": "Analysts Are Bullish on Top Healthcare Stocks: Ionis Pharmaceuticals (IONS), Intuitive Surgical (ISRG)",
+    "published": 1712642460,
+    "posting_price": 389.95001221,
+    "close_price": 390.95999146,
+    "percent_change": 0.25900224
+  },
+  {
+    "title": "Intuitive Surgical price target raised by $10 at Stifel, here's why",
+    "published": 1712562000,
+    "posting_price": 388.39001465,
+    "close_price": 386.92999268,
+    "percent_change": -0.37591645
+  },
+  {
+    "title": "Analysts Conflicted on These Healthcare Names: Legend Biotech (LEGN), Intuitive Surgical (ISRG) and Disc Medicine (IRON)",
+    "published": 1712557200,
+    "posting_price": 388.39001465,
+    "close_price": 386.92999268,
+    "percent_change": -0.37591645
+  },
+  {
+    "title": "Citi's top recommended large-cap stocks",
+    "published": 1712452440
+  },
+  {
+    "title": "BME: Trading At A Historical Discount To NAV",
+    "published": 1712317631,
+    "posting_price": 381.11999512,
+    "close_price": 388.39001465,
+    "percent_change": 1.90754083
+  },
+  {
+    "title": "Showcasing Seeking Alpha's March 2024 New Analysts",
+    "published": 1712316600,
+    "posting_price": 381.11999512,
+    "close_price": 388.39001465,
+    "percent_change": 1.90754083
+  },
+  {
+    "title": "Intuitive Surgical Inc. stock outperforms competitors on strong trading day",
+    "published": 1712288700,
+    "posting_price": 381.11999512,
+    "close_price": 388.39001465,
+    "percent_change": 1.90754083
+  },
+  {
+    "title": "Intuitive Surgical Stock Has 20% Upside, According to 1 Wall Street Analyst. Is the Stock a Buy Near Its All-Time High?",
+    "published": 1712242325,
+    "posting_price": 387.76000977,
+    "close_price": 378.92001343,
+    "percent_change": -2.27975968
+  },
+  {
+    "title": "The 3 Most Undervalued Robotics Stocks to Buy in April 2024",
+    "published": 1712241041,
+    "posting_price": 387.76000977,
+    "close_price": 378.92001343,
+    "percent_change": -2.27975968
+  },
+  {
+    "title": "ISRG May 24th Options Begin Trading",
+    "published": 1712224740,
+    "posting_price": 387.76000977,
+    "close_price": 378.92001343,
+    "percent_change": -2.27975968
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Intuitive Surgical (ISRG) and Sanofi (OtherSNYNF)",
+    "published": 1712205300,
+    "posting_price": 387.76000977,
+    "close_price": 378.92001343,
+    "percent_change": -2.27975968
+  },
+  {
+    "title": "Intuitive Surgical, Inc. (ISRG) Outperforms Broader Market: What You Need to Know",
+    "published": 1712181618,
+    "posting_price": 383.76998901,
+    "close_price": 383.42001343,
+    "percent_change": -0.0911941
+  },
+  {
+    "title": "Intuitive Surgical price target raised by $34 at Citi, here's why",
+    "published": 1712119980,
+    "posting_price": 383.76998901,
+    "close_price": 383.42001343,
+    "percent_change": -0.0911941
+  },
+  {
+    "title": "If You Invested $5000 In Intuitive Surgical 10 Years Ago, This Is How Rich You Would Be Today",
+    "published": 1712058360,
+    "posting_price": 391.98999023,
+    "close_price": 382.35998535,
+    "percent_change": -2.45669663
+  },
+  {
+    "title": "Meta Platforms, AMD Lead 10 Stocks Showing This Bullish Action",
+    "published": 1712058354,
+    "posting_price": 391.98999023,
+    "close_price": 382.35998535,
+    "percent_change": -2.45669663
+  },
+  {
+    "title": "Outperforming ETF manager names a potential \u201850-bagger\u2019 in the stock market",
+    "published": 1712055840,
+    "posting_price": 391.98999023,
+    "close_price": 382.35998535,
+    "percent_change": -2.45669663
+  },
+  {
+    "title": "Sonder Capital Appoints Kate Garrett as Managing Partner to Lead Next Generation of Growth",
+    "published": 1712044800,
+    "posting_price": 391.98999023,
+    "close_price": 382.35998535,
+    "percent_change": -2.45669663
+  },
+  {
+    "title": "The 3 Best Robotics Stocks to Buy in April 2024",
+    "published": 1711996673,
+    "posting_price": 399.0,
+    "close_price": 394.86999512,
+    "percent_change": -1.03508894
+  },
+  {
+    "title": "Will Intuitive Surgical (ISRG) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1711987814,
+    "posting_price": 399.0,
+    "close_price": 394.86999512,
+    "percent_change": -1.03508894
+  },
+  {
+    "title": "The 3 Best Robotics Stocks to Buy in Q2 2024",
+    "published": 1711966920,
+    "posting_price": 399.0,
+    "close_price": 394.86999512,
+    "percent_change": -1.03508894
+  },
+  {
+    "title": "Meet The \"Magnificent Seven\" of Healthcare Stocks",
+    "published": 1711960200,
+    "posting_price": 399.0,
+    "close_price": 394.86999512,
+    "percent_change": -1.03508894
   }
 ]
