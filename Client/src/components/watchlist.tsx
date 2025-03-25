@@ -15,9 +15,7 @@ interface User {
     id: string;
     username: string;
     email: string;
-    watchlist: {
-      symbol: string[];
-    };
+    watchlist: string[];
   };
 }
 
@@ -35,9 +33,9 @@ export function Watchlist({ userData }: WatchlistProps) {
     console.log('Raw userData in Watchlist:', userData);
     console.log('userData?.data?.watchlist:', userData?.data?.watchlist);
     
-    if (userData?.data?.watchlist?.symbol) {
-      console.log('Setting watchlist from symbol array:', userData.data.watchlist.symbol);
-      setWatchlist(userData.data.watchlist.symbol);
+    if (userData?.data?.watchlist) {
+      console.log('Setting watchlist from symbol array:', userData.data.watchlist);
+      setWatchlist(userData.data.watchlist);
     } else {
       console.log('Setting empty watchlist');
       setWatchlist([]);
@@ -68,7 +66,7 @@ export function Watchlist({ userData }: WatchlistProps) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ symbol: updatedWatchlist })
+        body: JSON.stringify([watchlist])
       });
 
       if (response.ok) {
