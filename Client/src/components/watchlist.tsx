@@ -10,19 +10,34 @@ import { toast } from "sonner";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL
 
+interface User {
+  data: {
+    id: string;
+    username: string;
+    email: string;
+    watchlist: {
+      symbol: string[];
+    };
+  };
+}
 
+interface WatchlistProps {
+  userData: User | null;
+}
 
-export function Watchlist({ userData }) {
+export function Watchlist({ userData }: WatchlistProps) {
   const [watchlist, setWatchlist] = useState<string[]>([]);
   const [newSymbol, setNewSymbol] = useState("");
   const [isAdding, setIsAdding] = useState(false);
 
   // Update watchlist when userData changes
   useEffect(() => {
-
-    if (userData?.data?.watchlist) {
-      console.log('Setting watchlist to:', userData.data.watchlist);
-      setWatchlist(userData.data.watchlist);
+    console.log('Raw userData in Watchlist:', userData);
+    console.log('userData?.data?.watchlist:', userData?.data?.watchlist);
+    
+    if (userData?.data?.watchlist?.symbol) {
+      console.log('Setting watchlist from symbol array:', userData.data.watchlist.symbol);
+      setWatchlist(userData.data.watchlist.symbol);
     } else {
       console.log('Setting empty watchlist');
       setWatchlist([]);
@@ -39,10 +54,7 @@ export function Watchlist({ userData }) {
       console.error('Cannot add to watchlist:', { newSymbol, userId: userData?.data?.id });
       return;
     }
-    if (watchlist.length >= 5) {
-      toast.error('Watchlist is full');
-      return;
-    }
+    
     setIsAdding(true);
     try {
       const symbol = newSymbol.toUpperCase();
@@ -56,11 +68,12 @@ export function Watchlist({ userData }) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify( updatedWatchlist )
+        body: JSON.stringify({ symbol: updatedWatchlist })
       });
 
       if (response.ok) {
         setWatchlist(updatedWatchlist);
+        setNewSymbol('');
         toast.success(`Added ${symbol} to watchlist`);
       } else {
         const errorText = await response.text();
@@ -90,7 +103,7 @@ export function Watchlist({ userData }) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify( updatedWatchlist )
+        body: JSON.stringify({ symbol: updatedWatchlist })
       });
 
       if (response.ok) {
@@ -123,11 +136,11 @@ export function Watchlist({ userData }) {
                 addToWatchlist();
               }
             }}
-            disabled={isAdding || !userData?.data}
+            disabled={isAdding || !userData}
           />
           <Button 
             onClick={addToWatchlist}
-            disabled={isAdding || !newSymbol.trim() || !userData?.data}
+            disabled={isAdding || !newSymbol.trim() || !userData}
           >
             {isAdding ? (
               <Loader2 className="h-4 w-4 animate-spin" />
@@ -138,7 +151,7 @@ export function Watchlist({ userData }) {
         </div>
 
         <div className="space-y-2">
-          {!userData?.data ? (
+          {!userData ? (
             <div className="text-center text-muted-foreground p-4">
               Error loading user data
             </div>
