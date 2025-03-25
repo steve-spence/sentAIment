@@ -44,7 +44,7 @@ class FinnhubNews(NewsSource):
         news_data = {}
         for symbol in tqdm(self.accepted_stocks.keys(), desc=f'Getting finnhub company news from {start_date} to {end_date}'):
             news_data[symbol] = self._load_news(symbol, start_date, end_date)
-            time.sleep(1) # api limits
+            time.sleep(.75) # api limits
         return news_data
 
 
