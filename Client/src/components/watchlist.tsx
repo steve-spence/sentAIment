@@ -52,6 +52,12 @@ export function Watchlist({ userData }: WatchlistProps) {
       console.error('Cannot add to watchlist:', { newSymbol, userId: userData?.data?.id });
       return;
     }
+
+    // Check if adding would exceed the limit
+    if (watchlist.length >= 5) {
+      toast.error('Watchlist cannot contain more than 5 stocks');
+      return;
+    }
     
     setIsAdding(true);
     try {
@@ -74,9 +80,9 @@ export function Watchlist({ userData }: WatchlistProps) {
         setNewSymbol('');
         toast.success(`Added ${symbol} to watchlist`);
       } else {
-        const errorText = await response.text();
-        console.error('Failed to update watchlist:', errorText);
-        toast.error('Failed to update watchlist');
+        const errorData = await response.json();
+        console.error('Failed to update watchlist:', errorData);
+        toast.error(errorData.error || 'Failed to update watchlist');
       }
     } catch (error) {
       console.error('Error adding to watchlist:', error);

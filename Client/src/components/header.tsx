@@ -73,7 +73,7 @@ export function Header() {
   return (
     <header className="border-b">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
-        <Link href="/" className="text-xl font-bold">
+        <Link href="/dashboard" className="text-xl font-bold">
           Investment AI
         </Link>
         
@@ -86,7 +86,7 @@ export function Header() {
         </div>
         
         <nav className="flex items-center gap-4">
-          <Link href="/" className="text-sm hover:text-primary">
+          <Link href="/dashboard" className="text-sm hover:text-primary">
             Dashboard
           </Link>
           <Link href="/portfolio" className="text-sm hover:text-primary">
