@@ -15,7 +15,7 @@ interface User {
     id: string;
     username: string;
     email: string;
-    watchlist: string[];
+    watchlist: string[];  // Simple array of strings
   };
 }
 
@@ -69,7 +69,7 @@ export default function Dashboard() {
   // Fetch stock quotes for watchlist
   useEffect(() => {
     async function fetchStockQuotes() {
-      if (!userData?.data?.watchlist || userData.data.watchlist.length === 0) {
+      if (!userData?.data?.watchlist || !Array.isArray(userData.data.watchlist) || userData.data.watchlist.length === 0) {
         return;
       }
 
@@ -77,6 +77,7 @@ export default function Dashboard() {
       const quotes: StockQuotes = {};
 
       try {
+        // Use forEach instead of for...in to iterate over array
         for (const symbol of userData.data.watchlist) {
           const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/quote/${symbol}`);
           if (response.ok) {
@@ -128,14 +129,17 @@ export default function Dashboard() {
               <div className="col-span-full flex justify-center py-8">
                 <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
               </div>
-            ) : !userData?.data?.watchlist ? (
+            ) : !userData?.data?.watchlist || !Array.isArray(userData.data.watchlist) || userData.data.watchlist.length === 0 ? (
               <div className="col-span-full text-center text-muted-foreground p-4">
                 No stocks in watchlist
               </div>
             ) : (
               userData.data.watchlist.map((symbol) => {
                 const quote = stockQuotes[symbol];
-                return quote ? (
+                if (!quote) {
+                  return null;
+                }
+                return (
                   <StockCard
                     key={symbol}
                     symbol={symbol}
@@ -143,7 +147,7 @@ export default function Dashboard() {
                     currentValue={quote.c}
                     percentChange={quote.dp}
                   />
-                ) : null;
+                );
               })
             )}
           </div>

@@ -66,7 +66,7 @@ export function Watchlist({ userData }: WatchlistProps) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify([watchlist])
+        body: JSON.stringify(updatedWatchlist)
       });
 
       if (response.ok) {
@@ -101,7 +101,7 @@ export function Watchlist({ userData }: WatchlistProps) {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ symbol: updatedWatchlist })
+        body: JSON.stringify(updatedWatchlist)
       });
 
       if (response.ok) {
