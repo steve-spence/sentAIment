@@ -1,0 +1,926 @@
+[
+  {
+    "title": "Sharpen Your Defense: 3 Military Stocks Guarding Your Wealth",
+    "published": 1713196320,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "Lockheed Martin Upgraded, Defense Stocks Rise After Missile-Heavy Weekend Over Israel",
+    "published": 1713194001,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "General Dynamics (GD) Wins Deal to Support Its Abrams Battle Tank",
+    "published": 1713183600,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "Congress Members Invest In Defense Stocks As Middle East Tensions Mount: How Pelosi, Gottheimer, Hern And Others Could Benefit",
+    "published": 1713183300,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "Interesting NOC Put And Call Options For December 20th",
+    "published": 1713173880,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "Analysts Conflicted on These Industrial Goods Names: Johnson Controls (JCI), Northrop Grumman (NOC) and Airbus Group SE (OtherEADSF)",
+    "published": 1713151260,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "Lockheed selected for NGI awarded over Northrop Grumman, says Jefferies",
+    "published": 1713150000,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "The Trillion-Dollar Space Race: 3 of the Best Space Stocks to Buy Leading the Charge",
+    "published": 1713148440,
+    "posting_price": 454.14977555,
+    "close_price": 443.66018677,
+    "percent_change": -2.30972013
+  },
+  {
+    "title": "Here's Why Northrop Grumman (NOC) is a Strong Value Stock",
+    "published": 1712929211,
+    "posting_price": 454.21860732,
+    "close_price": 448.39868164,
+    "percent_change": -1.28130499
+  },
+  {
+    "title": "Northrop (NOC) Wins Deal to Supply GQM-163A Coyote SSST Systems",
+    "published": 1712928060,
+    "posting_price": 454.21860732,
+    "close_price": 448.39868164,
+    "percent_change": -1.28130499
+  },
+  {
+    "title": "Lockheed (LMT) Wins $4.1B Contract to Upgrade C2BMC System",
+    "published": 1712928060,
+    "posting_price": 454.21860732,
+    "close_price": 448.39868164,
+    "percent_change": -1.28130499
+  },
+  {
+    "title": "Here It Is! My 20-Stock 6-Figure Market-Beating Dividend Portfolio",
+    "published": 1712905200,
+    "posting_price": 454.21860732,
+    "close_price": 448.39868164,
+    "percent_change": -1.28130499
+  },
+  {
+    "title": "Stocks likely to beat and miss their earnings expectations - BofA",
+    "published": 1712889000,
+    "posting_price": 454.21860732,
+    "close_price": 448.39868164,
+    "percent_change": -1.28130499
+  },
+  {
+    "title": "Noteworthy Friday Option Activity: NOC, OSCR, RIOT",
+    "published": 1712888400,
+    "posting_price": 454.21860732,
+    "close_price": 448.39868164,
+    "percent_change": -1.28130499
+  },
+  {
+    "title": "RTX Secures a Contract to Support Tomahawk Missile Program",
+    "published": 1712844000,
+    "posting_price": 448.8705735,
+    "close_price": 450.08959961,
+    "percent_change": 0.2715763
+  },
+  {
+    "title": "How to Find Strong Aerospace Stocks Slated for Positive Earnings Surprises",
+    "published": 1712840409,
+    "posting_price": 448.8705735,
+    "close_price": 450.08959961,
+    "percent_change": 0.2715763
+  },
+  {
+    "title": "Northrop Grumman Gifts James Webb Space Telescope Full-Scale Model to the Space Foundation",
+    "published": 1712661798,
+    "posting_price": 445.17415841,
+    "close_price": 446.97323608,
+    "percent_change": 0.40412895
+  },
+  {
+    "title": "General Dynamics (GD) Wins Contract to Support Abrams Battle Tank",
+    "published": 1712580600,
+    "posting_price": 448.40850691,
+    "close_price": 448.6444397,
+    "percent_change": 0.05261559
+  },
+  {
+    "title": "Northrop Grumman : Completes Assembly of Manta Ray Uncrewed Underwater Vehicle",
+    "published": 1712569927,
+    "posting_price": 448.40850691,
+    "close_price": 448.6444397,
+    "percent_change": 0.05261559
+  },
+  {
+    "title": "TRIVAD Recognized by Northrop Grumman for Quality Excellence",
+    "published": 1712563200,
+    "posting_price": 448.40850691,
+    "close_price": 448.6444397,
+    "percent_change": 0.05261559
+  },
+  {
+    "title": "Cosmic Profits: 3 Space Stocks With Sky-High Potential",
+    "published": 1712412000,
+    "posting_price": 448.40853741,
+    "close_price": 448.64447021,
+    "percent_change": 0.05261559
+  },
+  {
+    "title": "What To Expect After March's Hot Inflation Report",
+    "published": 1712328356,
+    "posting_price": 449.77503849,
+    "close_price": 446.81591797,
+    "percent_change": -0.65791124
+  },
+  {
+    "title": "Why Northrop Grumman (NOC) is a Top Momentum Stock for the Long-Term",
+    "published": 1712325010,
+    "posting_price": 449.77503849,
+    "close_price": 446.81591797,
+    "percent_change": -0.65791124
+  },
+  {
+    "title": "Northrop Grumman's Integrated Battle Command System Demonstrates Another Successful LTAMDS and Patriot Live-Fire Integration",
+    "published": 1712310338,
+    "posting_price": 449.77503849,
+    "close_price": 446.81591797,
+    "percent_change": -0.65791124
+  },
+  {
+    "title": "Stock losers of Republican policy if Trump wins - GS",
+    "published": 1712310060,
+    "posting_price": 449.77503849,
+    "close_price": 446.81591797,
+    "percent_change": -0.65791124
+  },
+  {
+    "title": "Will Northrop Grumman (NOC) Beat Estimates Again in Its Next Earnings Report?",
+    "published": 1712247015,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "How to Boost Your Portfolio with Top Aerospace Stocks Set to Beat Earnings",
+    "published": 1712235611,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Exclusive: Shield AI Buying Drone-Sensor Specialist",
+    "published": 1712235469,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Lockheed (LMT) Wins $181M Contract to Aid F-35 Jet Program",
+    "published": 1712234400,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "General Dynamics (GD) to Support Littoral Combat Ship System",
+    "published": 1712234340,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "LUNR Stock Alert: Intuitive Machines Nabs NASA Contract",
+    "published": 1712224680,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Northrop Grumman : Integrated Battle Command System Demonstrates Another Successful LTAMDS and Patriot Live-Fire Integration",
+    "published": 1712224509,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Northrop Grumman (NOC) Receives a Hold from Wells Fargo",
+    "published": 1712210820,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Northrop Grumman May Take The Year Off To Navigate Headwinds",
+    "published": 1712210631,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Fear And Loathing Ahead Of Payroll Numbers",
+    "published": 1712207100,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "Moon Stock Intuitive Machines Has a New NASA Contract Win",
+    "published": 1712191740,
+    "posting_price": 450.25674204,
+    "close_price": 451.71173096,
+    "percent_change": 0.3231465
+  },
+  {
+    "title": "General Dynamics (GD) Wins a $922M Deal to Modernize CENTCOM",
+    "published": 1712154600,
+    "posting_price": 457.4628223,
+    "close_price": 449.2835083,
+    "percent_change": -1.78797349
+  },
+  {
+    "title": "Northrop Grumman : and EpiSci to Collaborate on Advanced Autonomy Capabilities",
+    "published": 1712137688,
+    "posting_price": 457.4628223,
+    "close_price": 449.2835083,
+    "percent_change": -1.78797349
+  },
+  {
+    "title": "Lockheed (LMT) Secures Contract to Aid F-16 Jet Program",
+    "published": 1712060100,
+    "posting_price": 464.10850767,
+    "close_price": 458.47537231,
+    "percent_change": -1.21375395
+  },
+  {
+    "title": "RTX Secures a $287M Contract to Modernize 166 Tomahawk Missiles",
+    "published": 1712055360,
+    "posting_price": 464.10850767,
+    "close_price": 458.47537231,
+    "percent_change": -1.21375395
+  },
+  {
+    "title": "Aerospace & Defense ETFs to Watch Amid Q1 Earnings",
+    "published": 1714511880,
+    "posting_price": 478.22574812,
+    "close_price": 476.82974243,
+    "percent_change": -0.29191354
+  },
+  {
+    "title": "Northrop Grumman Corporation (NYSE:NOC) Q1 2024 Earnings Call Transcript",
+    "published": 1714490168,
+    "posting_price": 478.22574812,
+    "close_price": 476.82974243,
+    "percent_change": -0.29191354
+  },
+  {
+    "title": "How to Find Strong Aerospace Stocks Slated for Positive Earnings Surprises",
+    "published": 1714482009,
+    "posting_price": 478.22574812,
+    "close_price": 476.82974243,
+    "percent_change": -0.29191354
+  },
+  {
+    "title": "Northrop Grumman price target raised by $35 at Wells Fargo, here's why",
+    "published": 1714454880,
+    "posting_price": 478.22574812,
+    "close_price": 476.82974243,
+    "percent_change": -0.29191354
+  },
+  {
+    "title": "Barclays Keeps Their Hold Rating on Northrop Grumman (NOC)",
+    "published": 1714451580,
+    "posting_price": 478.22574812,
+    "close_price": 476.82974243,
+    "percent_change": -0.29191354
+  },
+  {
+    "title": "Here's Why Northrop Grumman (NOC) is a Strong Momentum Stock",
+    "published": 1714398611,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Top 50 stocks with the highest sensitivity to interest rates changes - GS",
+    "published": 1714390920,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Northrop Grumman (NOC) Gets a Hold from Wells Fargo",
+    "published": 1714385760,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Firefly CEO sees 'enough demand' for fully commercial lunar missions independent of NASA",
+    "published": 1714384815,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "An inside look at one company driving the new space economy",
+    "published": 1714384548,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Apple, Cardinal Health Among 12 Companies To Announce Dividend Increases In First Half Of May",
+    "published": 1714379505,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Ukraine Aid Lifts Defense Industry as Debate Over Profits Reignites",
+    "published": 1714312800,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Space startup lays the path for humans to return to the moon",
+    "published": 1714305609,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "How Stock Markets Will Likely React After FOMC Announcement",
+    "published": 1714294800,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Northrop\u2019s Rocket Fuel Factory Is Slow to Take Off",
+    "published": 1714226400,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Earnings Beat: Northrop Grumman Corporation Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+    "published": 1714220806,
+    "posting_price": 473.35943213,
+    "close_price": 477.99963379,
+    "percent_change": 0.98027024
+  },
+  {
+    "title": "Northrop Grumman's Q1 Results Highlight Favorable Margins, International Growth Prospects, RBC Says",
+    "published": 1714147634,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Company News for Apr 26, 2024",
+    "published": 1714138860,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "US announces purchase of $6 bln in weapons for Ukraine",
+    "published": 1714136141,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Roundtable Discussion On Gold, Tech, Bitcoin, Country ETFs And Ignored Stocks",
+    "published": 1714131000,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman Reports First Quarter 2024 Financial Results",
+    "published": 1714129407,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Decoding Northrop Grumman Corp (NOC): A Strategic SWOT Insight",
+    "published": 1714118474,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman Corp (NOC) Q1 2024 Earnings Call Transcript Highlights: Strong Performance and ...",
+    "published": 1714115564,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman price target raised by $25 at RBC Capital, here's why",
+    "published": 1714114920,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman price target raised by $20 at Susquehanna, here's why",
+    "published": 1714113240,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman price target raised by $6 at UBS, here's why",
+    "published": 1714111740,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman price target raised by $30 at Baird, here's why",
+    "published": 1714111380,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman (NOC) Receives a Rating Update from a Top Analyst",
+    "published": 1714109940,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman: A Strong Buy on Defense Sector Leadership and Growth Prospects",
+    "published": 1714107960,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Northrop Grumman: A Balanced Hold Rating Amidst Mixed Performance Signals",
+    "published": 1714105140,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "Is Northrop Grumman A Good Defense Stock To Buy?",
+    "published": 1714095000,
+    "posting_price": 479.31698875,
+    "close_price": 472.32720947,
+    "percent_change": -1.45827906
+  },
+  {
+    "title": "L3Harris Stock Rises. Its Earnings Cap a Strong Week For Defense Contractors.",
+    "published": 1714077540,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman (NOC) Q1 2024 Earnings Call Transcript",
+    "published": 1714066236,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop (NOC) Q1 Earnings Beat Estimates, Sales Rise Y/Y",
+    "published": 1714055040,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman (NOC) Reports Q1 Earnings: What Key Metrics Have to Say",
+    "published": 1714051836,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman Corporation. (NOC) Q1 2024 Earnings Call Transcript",
+    "published": 1714049163,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman Surpasses Analyst Expectations with Strong Q1 2024 Earnings",
+    "published": 1714046538,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman (NOC) Q1 Earnings and Revenues Top Estimates",
+    "published": 1714046104,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman Reaffirms 2024 Guidance Post Double-Digit Earnings Growth In Q1: Details",
+    "published": 1714044420,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "NOC Stock Earnings: Northrop Grumman Beats EPS, Beats Revenue for Q1 2024",
+    "published": 1714042920,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman Releases First Quarter 2024 Financial Results",
+    "published": 1714042260,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Goldman Sachs Reaffirms Their Sell Rating on Northrop Grumman (NOC)",
+    "published": 1714038960,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman says 'no concerns about our portfolio'",
+    "published": 1714035420,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman Corporation 2024 Q1 - Results - Earnings Call Presentation",
+    "published": 1714033425,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman expects 'gradual ramp' of sales through 2024",
+    "published": 1714033380,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman says demand for products 'continues to be robust'",
+    "published": 1714032720,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman provides 2024 sector guidance",
+    "published": 1714032240,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman 1Q Sales Top Estimates on Strong Defense Demand",
+    "published": 1714029983,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman backs FY24 CapEx view about $1.8B",
+    "published": 1714029960,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman: Q1 Earnings Snapshot",
+    "published": 1714028230,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman : Q1 2024 Earnings Announcement",
+    "published": 1714027932,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman : Reports First Quarter 2024 Financial Results - Form 8-K",
+    "published": 1714027758,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop quarterly profit rose on strong global defense spending",
+    "published": 1714027715,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman beats top-line and bottom-line estimates; reaffirms FY24 outlook",
+    "published": 1714024620,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman backs FY24 adjusted EPS view $24.45-$24.85",
+    "published": 1714024320,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman reports Q1 EPS $6.32, consensus $5.79",
+    "published": 1714024200,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman\u2019s stock hits 6-month high on earnings beat",
+    "published": 1714009680,
+    "posting_price": 460.84462449,
+    "close_price": 479.8085022,
+    "percent_change": 4.11502635
+  },
+  {
+    "title": "Northrop Grumman to report Q1 earnings, here's what to expect?",
+    "published": 1713957660,
+    "posting_price": 467.05782861,
+    "close_price": 466.54663086,
+    "percent_change": -0.10945063
+  },
+  {
+    "title": "Notable earnings before Thursday's open",
+    "published": 1713953820,
+    "posting_price": 467.05782861,
+    "close_price": 466.54663086,
+    "percent_change": -0.10945063
+  },
+  {
+    "title": "GE Aerospace: Shares Have Flown Too High (Rating Downgrade)",
+    "published": 1713900532,
+    "posting_price": 465.57331548,
+    "close_price": 466.65472412,
+    "percent_change": 0.23227462
+  },
+  {
+    "title": "Boeing Bid for Spirit AeroSystems Hits Snag Over Airbus Assets",
+    "published": 1713879836,
+    "posting_price": 465.57331548,
+    "close_price": 466.65472412,
+    "percent_change": 0.23227462
+  },
+  {
+    "title": "Boeing\u2019s bid for Spirit AeroSystems is said to face Airbus hurdle",
+    "published": 1713863340,
+    "posting_price": 465.57331548,
+    "close_price": 466.65472412,
+    "percent_change": 0.23227462
+  },
+  {
+    "title": "Boeing, Spirit not close to merger completion, Bloomberg reports",
+    "published": 1713862320,
+    "posting_price": 465.57331548,
+    "close_price": 466.65472412,
+    "percent_change": 0.23227462
+  },
+  {
+    "title": "M&A News: Boeing (NYSE:BA) Falls as Spirit AeroSystems Buy Faces Hurdles",
+    "published": 1713840600,
+    "posting_price": 465.57331548,
+    "close_price": 466.65472412,
+    "percent_change": 0.23227462
+  },
+  {
+    "title": "Boeing (NYSE:BA) Down as Spirit AeroSystems (NYSE:SPR) Buy Faces Hurdles",
+    "published": 1713836280,
+    "posting_price": 465.57331548,
+    "close_price": 466.65472412,
+    "percent_change": 0.23227462
+  },
+  {
+    "title": "Alembic Global Upgrades Northrop Grumman (NOC)",
+    "published": 1713821209,
+    "posting_price": 457.06954074,
+    "close_price": 463.01727295,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Curious about Northrop Grumman (NOC) Q1 Performance? Explore Wall Street Estimates for Key Metrics",
+    "published": 1713791770,
+    "posting_price": 457.06954074,
+    "close_price": 463.01727295,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Will Solid Segment Sales Growth Aid Northrop's (NOC) Q1 Earnings?",
+    "published": 1713789720,
+    "posting_price": 457.06954074,
+    "close_price": 463.01727295,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Wall Street Favorites: 3 Space Stocks With Strong Buy Ratings for April 2024",
+    "published": 1713783600,
+    "posting_price": 457.06954074,
+    "close_price": 463.01727295,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Alembic Global gets more bullish on Northrop Grumman, upgrades shares",
+    "published": 1713765300,
+    "posting_price": 457.06954074,
+    "close_price": 463.01727295,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Northrop Grumman awarded $167.11M Navy contract modification",
+    "published": 1713759540,
+    "posting_price": 457.06954074,
+    "close_price": 463.01727295,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Earnings week ahead: Tesla, Meta Platforms, Google, Microsoft, Intel, Exxon Mobil, and more",
+    "published": 1713683100,
+    "posting_price": 457.06957087,
+    "close_price": 463.01730347,
+    "percent_change": 1.30127512
+  },
+  {
+    "title": "Northrop Grumman Unusual Options Activity For April 19",
+    "published": 1713528420,
+    "posting_price": 447.8874649,
+    "close_price": 454.75927734,
+    "percent_change": 1.53427211
+  },
+  {
+    "title": "Will Solid Service Revenues Aid Boeing (BA) in Q1 Earnings?",
+    "published": 1713527880,
+    "posting_price": 447.8874649,
+    "close_price": 454.75927734,
+    "percent_change": 1.53427211
+  },
+  {
+    "title": "Will Solid Segmental Performance Aid Teledyne (TDY) Q1 Earnings?",
+    "published": 1713527820,
+    "posting_price": 447.8874649,
+    "close_price": 454.75927734,
+    "percent_change": 1.53427211
+  },
+  {
+    "title": "General Dynamics, Northrop Grumman Set for Gains After Israel Strike on Iran",
+    "published": 1713517055,
+    "posting_price": 447.8874649,
+    "close_price": 454.75927734,
+    "percent_change": 1.53427211
+  },
+  {
+    "title": "Bernstein Keeps Their Buy Rating on Northrop Grumman (NOC)",
+    "published": 1713490560,
+    "posting_price": 447.8874649,
+    "close_price": 454.75927734,
+    "percent_change": 1.53427211
+  },
+  {
+    "title": "Exclusive-Northrop Grumman working with Musk's SpaceX on U.S. spy satellite system",
+    "published": 1713451295,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "Northrop Grumman (NOC) Reports Next Week: Wall Street Expects Earnings Growth",
+    "published": 1713448914,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "Northrop Grumman And Elon Musk's SpaceX Forge Alliance for US Spy Satellite Initiative",
+    "published": 1713444660,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "AeroVironment (AVAV) Partners Parry Labs for UAS for Army",
+    "published": 1713444060,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "Boeing (BA) Secures Deal to Aid F/A-18 & EA-18G Aircraft",
+    "published": 1713442440,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1713438060,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "Northrop Grumman working with Musk's SpaceX on U.S. spy satellite system",
+    "published": 1713436464,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "Northrop Grumman working with SpaceX on U.S. spy satellite system, Reuters says",
+    "published": 1713433860,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "What You Missed On Wall Street On Thursday",
+    "published": 1713410760,
+    "posting_price": 442.27403172,
+    "close_price": 444.84973145,
+    "percent_change": 0.58237643
+  },
+  {
+    "title": "Will Solid Segmental Performance Aid Lockheed (LMT) Q1 Earnings?",
+    "published": 1713377700,
+    "posting_price": 445.2626345,
+    "close_price": 444.40731812,
+    "percent_change": -0.19209256
+  },
+  {
+    "title": "Zacks Investment Ideas feature highlights: Raytheon, Northrop Grumman, Gold ETF, Silver ETF and Russell 2000",
+    "published": 1713348000,
+    "posting_price": 445.2626345,
+    "close_price": 444.40731812,
+    "percent_change": -0.19209256
+  },
+  {
+    "title": "RTX Is Heading to a Healthy Correction After Outperforming the Competition",
+    "published": 1713340800,
+    "posting_price": 445.2626345,
+    "close_price": 444.40731812,
+    "percent_change": -0.19209256
+  },
+  {
+    "title": "Low Risk, High Return? The Power Of The 15-Stock Dividend Growth Portfolio",
+    "published": 1713337200,
+    "posting_price": 445.2626345,
+    "close_price": 444.40731812,
+    "percent_change": -0.19209256
+  },
+  {
+    "title": "Northrop Grumman : Expands Australia MQ-4C Triton Support Team",
+    "published": 1713287949,
+    "posting_price": 445.41990955,
+    "close_price": 442.73608398,
+    "percent_change": -0.6025383
+  },
+  {
+    "title": "Defense spending and defense stocks: Why they don't always reflect each other",
+    "published": 1713249180,
+    "posting_price": 445.41990955,
+    "close_price": 442.73608398,
+    "percent_change": -0.6025383
+  }
+]
