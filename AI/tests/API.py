@@ -2,25 +2,21 @@
 from flask import Flask, request, jsonify
 import os
 
-# Initiating a Flask application
 app = Flask(__name__)
 
 # The endpoint of our flask app
 @app.route(rule="/", methods=["GET", "POST"])
 def handle_request():
-    # The GET endpoint
     if request.method == "GET":
+        # we will put our model response here I think
         return "This is the GET Endpoint of flask API."
     
-    # The POST endpoint
     if request.method == "POST":
         # accesing the passed payload
         payload = request.get_json()
         
-        # capitalizing the text
         cap_text = payload['text'].upper()
         
-        # Creating a proper response
         response = {'cap-text': cap_text}
         
         # return the response as JSON
