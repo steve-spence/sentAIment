@@ -9,6 +9,9 @@ import { PortfolioChart } from "@/components/portfolio-chart";
 import { MarketSnapshot } from "@/components/market-snapshot";
 import { Watchlist } from "@/components/watchlist";
 import { stocks, portfolioData, marketSnapshot } from "@/lib/data";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 interface User {
   data: {

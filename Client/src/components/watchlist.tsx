@@ -156,11 +156,11 @@ export function Watchlist({ userData }: WatchlistProps) {
 
         <div className="space-y-2">
 
-          {isLoading ? (
+          {isAdding ? (
             <div className="flex justify-center py-4">
               <Loader2 className="h-6 w-6 animate-spin" />
             </div>
-          ) : !user ? (            
+          ) : !userData ? (            
               
               <div className="text-center text-muted-foreground p-4">
 

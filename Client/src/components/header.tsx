@@ -8,6 +8,7 @@ import { supabase } from "@/lib/supabase";
 import { useEffect, useState } from "react";
 import { useAuth } from "@/components/auth-Provider";
 
+
 interface User {
   id: string;
   username: string;
