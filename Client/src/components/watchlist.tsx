@@ -155,8 +155,15 @@ export function Watchlist({ userData }: WatchlistProps) {
         </div>
 
         <div className="space-y-2">
-          {!userData ? (
-            <div className="text-center text-muted-foreground p-4">
+
+          {isLoading ? (
+            <div className="flex justify-center py-4">
+              <Loader2 className="h-6 w-6 animate-spin" />
+            </div>
+          ) : !user ? (            
+              
+              <div className="text-center text-muted-foreground p-4">
+
               Error loading user data
             </div>
           ) : watchlist.length === 0 ? (
