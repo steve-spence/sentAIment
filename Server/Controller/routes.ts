@@ -1,6 +1,8 @@
 import express, { Request, Response } from "express";
 import * as service from '../Service/service'
+import dotenv from 'dotenv';
 
+dotenv.config({ path:  '../../.env' });
 
 export const router = express.Router();
 
@@ -16,10 +18,17 @@ router.get('/users/:userId', async (req: Request, res: Response) => {
     }
 });
 
+router.get('/quote/:symbol', async (req: Request, res: Response) => {
+    const symbol = req.params.symbol;
+    const quote = await fetch(`https://finnhub.io/api/v1/quote?symbol=${symbol}&token=${process.env.FINNHUB_API_KEY}`);
+    const data = await quote.json();
+    res.json(data);
+});
+
 router.post('/users/:userId', async (req: Request, res: Response) => {
     try {
         const userId = req.params.userId;
-        const {username, email, watchlist } = req.body;
+        const {username, email } = req.body;
         
         const result = await service.createUser(userId, username, email);
 
@@ -33,19 +42,20 @@ router.post('/users/:userId', async (req: Request, res: Response) => {
 router.get('/stocks/:userId', async (req: Request, res: Response) => {
     const userId = req.params.userId;
     const data = await service.getUser(userId);
-    res.json({"list of stocks": data?.watchlist});
+    res.json({"watchlist": data?.watchlist});
 });
 
 router.post('/stocks/:userId', async (req: Request, res: Response) => {
-    const userId = req.params.userId;
-    const symbol = req.body
-    const watchlist = await service.updateStocks(userId, symbol);
-    res.json(watchlist);
-});
+    try {
+        const userId = req.params.userId;
+        const symbol = req.body;
 
-router.delete('/stocks/:userId', async (req: Request, res: Response) => {
-    const userId = req.params.userId;
-    const symbol = req.body;
-    const watchlist = await service.deleteStocks(userId, symbol);
-    res.json(watchlist);
+        // Validate that symbol is an array
+      
+        const watchlist = await service.updateStocks(userId, symbol);
+        res.json(watchlist);
+    } catch (error) {
+        console.error('Error updating watchlist:', error);
+        res.status(500).json({ error: 'Failed to update watchlist' });
+    }
 });

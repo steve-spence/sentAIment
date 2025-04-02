@@ -26,7 +26,7 @@ export function Sidebar({ className }: SidebarProps) {
       
       
       <nav className="space-y-2 px-2 flex-1">
-        <SidebarItem href="/" icon={LayoutDashboard} label="Dashboard" active />
+        <SidebarItem href="/dashboard" icon={LayoutDashboard} label="Dashboard" active />
         <SidebarItem href="/portfolio" icon={BarChart3} label="Portfolio" />
         <SidebarItem href="/trading" icon={LineChart} label="Trading & Market" />
         <SidebarItem href="/research" icon={FileText} label="Research Portal" />
