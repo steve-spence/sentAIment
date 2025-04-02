@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "PCAR",
+    "security": "paccar",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+    "Headquarters Location": "Bellevue, Washington",
+    "Date added": "1980-12-31",
+    "CIK": 75362,
+    "Founded": 1905
+  },
+  {
+    "symbol": "PKG",
+    "security": "packaging corporation of america",
+    "GICS Sector": "Materials",
+    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+    "Headquarters Location": "Lake Forest, Illinois",
+    "Date added": "2017-07-26",
+    "CIK": 75677,
+    "Founded": 1959
+  },
+  {
+    "symbol": "PLTR",
+    "security": "palantir technologies",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Internet Services & Infrastructure",
+    "Headquarters Location": "Denver, Colorado",
+    "Date added": "2024-09-23",
+    "CIK": 1321655,
+    "Founded": 2003
+  }
+]

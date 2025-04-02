@@ -9,9 +9,11 @@
   {
     "title": "Globe Life (GL) Earnings Expected to Grow: Should You Buy?",
     "published": 1713189620,
-    "posting_price": 220.13690081,
+    "open_price": 220.13690081,
     "close_price": 216.67446899,
-    "percent_change": -1.5728539
+    "percent_change": -1.5728539,
+    "current_price": 0.00,
+    
   },
   {
     "title": "With 65% institutional ownership, American Express Company (NYSE:AXP) is a favorite amongst the big guns",
