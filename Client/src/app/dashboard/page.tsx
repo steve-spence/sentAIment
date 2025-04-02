@@ -1,69 +1,107 @@
 "use client";
 
-import { DashboardLayout } from "../../components/dashboard";
+import { useEffect, useState } from "react";
+import { useAuth } from '@/components/auth-Provider';
+import { DashboardLayout } from "@/components/dashboard";
 import { StockCard } from "@/components/stock-card";
 import { PortfolioBalance } from "@/components/portfolio-balance";
 import { PortfolioChart } from "@/components/portfolio-chart";
 import { MarketSnapshot } from "@/components/market-snapshot";
 import { Watchlist } from "@/components/watchlist";
 import { stocks, portfolioData, marketSnapshot } from "@/lib/data";
-import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
-import { supabase } from "@/lib/supabase";
-import { useAuth } from '@/components/auth-Provider';
 
 interface User {
-  id: string;
-  username: string;
-  email: string;
-  watchlist: string[];
+  data: {
+    id: string;
+    username: string;
+    email: string;
+    watchlist: string[];  // Simple array of strings
+  };
+}
+
+interface Quote {
+  c: number;  // Current price
+  d: number;  // Change
+  dp: number; // Percent change
+  h: number;  // High price of the day
+  l: number;  // Low price of the day
+  o: number;  // Open price of the day
+  pc: number; // Previous close price
+}
+
+interface StockQuotes {
+  [symbol: string]: Quote;
 }
 
 export default function Dashboard() {
-  const { user: authUser, loading: authLoading } = useAuth();
+  const { user: authUser } = useAuth();
   const [userData, setUserData] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
-  const router = useRouter();
+  const [stockQuotes, setStockQuotes] = useState<StockQuotes>({});
+  const [quotesLoading, setQuotesLoading] = useState(false);
 
   useEffect(() => {
-    async function loadUserData() {
-      if (!authUser) {
+    async function fetchUserData() {
+      if (!authUser?.id) {
+        console.log('No authUser.id available');
         setLoading(false);
         return;
       }
 
+      console.log('Fetching user data for ID:', authUser.id);
       try {
-        const { data: { user } } = await supabase.auth.getUser();
-        if (user) {
-          const response = await fetch(`http://localhost:3003/api/users/${user.id}`);
-          const data = await response.json();
-          console.log(data);
-          setUserData(data);
-        } else {
-          console.error('Failed to fetch user data');
-        }
+        const response = await fetch(`http://localhost:8080/api/users/${authUser.id}`);
+        if (!response.ok) throw new Error('Failed to fetch user data');
+        
+        const data = await response.json();
+        console.log('Received user data:', data);
+        setUserData(data);
       } catch (error) {
-        console.error('Error loading user data:', error);
+        console.error('Error fetching user data:', error);
       } finally {
         setLoading(false);
       }
     }
 
-    if (!authLoading) {
-      loadUserData();
-    }
-  }, [authUser, authLoading]);
+    fetchUserData();
+  }, [authUser?.id]);
 
-  // Redirect to login if not authenticated
+  // Fetch stock quotes for watchlist
   useEffect(() => {
-    if (!authLoading && !authUser) {
-      console.log('No authenticated user found, redirecting to login');
-      router.push('/login');
-    }
-  }, [authUser, authLoading, router]);
+    async function fetchStockQuotes() {
+      if (!userData?.data?.watchlist || !Array.isArray(userData.data.watchlist) || userData.data.watchlist.length === 0) {
+        return;
+      }
 
-  // Show loading state
-  if (loading || authLoading) {
+      setQuotesLoading(true);
+      const quotes: StockQuotes = {};
+
+      try {
+        // Use forEach instead of for...in to iterate over array
+        for (const symbol of userData.data.watchlist) {
+          const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/quote/${symbol}`);
+          if (response.ok) {
+            const quote = await response.json();
+            quotes[symbol] = quote;
+          }
+        }
+        setStockQuotes(quotes);
+      } catch (error) {
+        console.error('Error fetching stock quotes:', error);
+      } finally {
+        setQuotesLoading(false);
+      }
+    }
+
+    fetchStockQuotes();
+  }, [userData?.data?.watchlist]);
+
+  // Log whenever userData changes
+  useEffect(() => {
+    console.log('Dashboard userData state:', userData);
+  }, [userData]);
+
+  if (loading) {
     return (
       <DashboardLayout>
         <div className="flex items-center justify-center min-h-screen">
@@ -73,38 +111,48 @@ export default function Dashboard() {
     );
   }
 
-  // If not authenticated or no user data, return null (redirect will happen)
-  if (!authUser || !userData) {
+  if (!userData) {
     return null;
   }
 
   return (
     <DashboardLayout>
       <div className="space-y-8">
-        {/* User welcome message */}
         <div className="mb-8">
-          <h1 className="text-2xl font-bold">Hello, {userData.username}!</h1>
+          <h1 className="text-2xl font-bold">Hello, {userData?.data?.username}!</h1>
         </div>
 
-        {/* Rest of your dashboard content */}
         <div>
           <h2 className="text-lg font-medium mb-4">My Stocks</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
-            {stocks.map((stock) => (
-              <StockCard
-                key={stock.id}
-                name={stock.name}
-                symbol={stock.symbol}
-                currentValue={stock.currentValue}
-                percentChange={stock.percentChange}
-                chartData={stock.chartData}
-                logo={stock.logo}
-              />
-            ))}
+            {quotesLoading ? (
+              <div className="col-span-full flex justify-center py-8">
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
+              </div>
+            ) : !userData?.data?.watchlist || !Array.isArray(userData.data.watchlist) || userData.data.watchlist.length === 0 ? (
+              <div className="col-span-full text-center text-muted-foreground p-4">
+                No stocks in watchlist
+              </div>
+            ) : (
+              userData.data.watchlist.map((symbol) => {
+                const quote = stockQuotes[symbol];
+                if (!quote) {
+                  return null;
+                }
+                return (
+                  <StockCard
+                    key={symbol}
+                    symbol={symbol}
+                    name={symbol}
+                    currentValue={quote.c}
+                    percentChange={quote.dp}
+                  />
+                );
+              })
+            )}
           </div>
         </div>
         
-        {/* Balance and Analytics */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-1">
             <PortfolioBalance 
@@ -121,7 +169,6 @@ export default function Dashboard() {
           </div>
         </div>
         
-        {/* Market Data and Watchlist */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-1">
             <MarketSnapshot 
@@ -136,7 +183,7 @@ export default function Dashboard() {
             />
           </div>
           <div className="lg:col-span-2">
-            <Watchlist />
+            <Watchlist userData={userData} />
           </div>
         </div>
       </div>

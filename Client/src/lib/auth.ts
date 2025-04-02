@@ -35,36 +35,30 @@ export const signup = async (username: string, email: string, password: string) 
         }
       }
     });
-    const { data: userData, error: userError } = await supabase.from('users').insert({
-      id: data.user?.id,
-      username,
-      email,
-      watchlist: []
-    });
 
     if (authError) throw authError;
-    
     authData = data;
 
     // If auth signup was successful, create user in public schema
     if (authData?.user) {
-      const response = await fetch(`${API_URL}/users`, {
+      // Create user in our backend
+      const response = await fetch(`${API_URL}/users/${authData.user.id}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          id: authData.user.id,
           username,
-          email,
-          watchlist: []
+          email
         })
       });
 
       if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.error || 'Failed to create user in database');
+        throw new Error('Failed to create user in database');
       }
+
+      const responseData = await response.json();
+      console.log('User created in database:', responseData);
     }
 
     return authData;

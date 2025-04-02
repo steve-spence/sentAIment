@@ -2,13 +2,13 @@
 
 import React from "react";
 import { Card, CardContent } from "@/components/ui/card";
+import { ArrowDownIcon, ArrowUpIcon } from "lucide-react";
 
 interface StockCardProps {
   name: string;
   symbol: string;
   currentValue: number;
   percentChange: number;
-  chartData: { value: number }[];
   logo?: string;
 }
 
@@ -17,14 +17,13 @@ export function StockCard({
   symbol,
   currentValue,
   percentChange,
-  chartData,
   logo
 }: StockCardProps) {
   const isPositive = percentChange >= 0;
   const bgColor = getBackgroundColor(symbol);
   
   return (
-    <Card className={`${bgColor} border-none overflow-hidden`}>
+    <Card className={`${bgColor} border-none shadow-xl overflow-hidden hover:scale-105 transition-all duration-200 cursor-pointer`}>
       <CardContent className="p-4">
         <div className="flex justify-between items-start">
           <div className="flex items-center space-x-2">
@@ -32,7 +31,7 @@ export function StockCard({
               <img src={logo} alt={name} className="w-6 h-6 rounded-full" />
             ) : (
               <div className="w-6 h-6 rounded-full bg-white bg-opacity-30 flex items-center justify-center text-white text-xs">
-                {symbol.charAt(0)}
+                {symbol.charAt(0)} 
               </div>
             )}
             <div>
@@ -55,64 +54,45 @@ export function StockCard({
         </div>
         
         <div className="h-12 mt-3">
-          <SimpleChart data={chartData} color="rgba(255, 255, 255, 0.8)" />
+
+
+          {isPositive ? (
+            <div className="text-xs flex justify-center text-green-100 hover:text-green-500 text-opacity-50">
+              <ArrowUpIcon className="w-8 h-8" />
+            </div>
+          ) : (
+            <div className="text-xs text-red-100  flex justify-center hover:text-red-500 text-opacity-80">
+              <ArrowDownIcon className="w-8 h-8 justify-self-center"  />
+            </div>
+          )}
         </div>
       </CardContent>
     </Card>
   );
 }
 
-// Simple SVG chart component (no external dependencies)
-function SimpleChart({ data, color }: { data: { value: number }[], color: string }) {
-  // Extract just the values
-  const values = data.map(item => item.value);
-  const min = Math.min(...values);
-  const max = Math.max(...values);
-  const range = max - min;
-  
-  // Generate points for the path
-  const points = values.map((value, index) => {
-    const x = (index / (values.length - 1)) * 100;
-    const y = 100 - ((value - min) / (range || 1)) * 100;
-    return `${x},${y}`;
-  }).join(' ');
-  
-  return (
-    <div className="w-full h-full">
-      <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
-        {/* Line */}
-        <polyline
-          points={points}
-          fill="none"
-          stroke={color}
-          strokeWidth="2"
-        />
-        
-        {/* Gradient fill */}
-        <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="rgba(255, 255, 255, 0.6)" stopOpacity="0.8" />
-          <stop offset="100%" stopColor="rgba(255, 255, 255, 0.1)" stopOpacity="0.1" />
-        </linearGradient>
-        
-        {/* Area under the line */}
-        <polygon
-          points={`0,100 ${points} 100,100`}
-          fill="url(#gradient)"
-        />
-      </svg>
-    </div>
-  );
-}
 
 // Helper function to get background color based on stock symbol
 function getBackgroundColor(symbol: string) {
-  const colors: Record<string, string> = {
-    'NVDA': 'bg-emerald-500',
-    'META': 'bg-indigo-500',
-    'TSLA': 'bg-amber-500', 
-    'AAPL': 'bg-green-500',
-    'AMD': 'bg-purple-500'
-  };
+  const colors = [
+    'bg-blue-500',
+    'bg-red-500',
+    'bg-green-500',
+    'bg-yellow-500',
+    'bg-purple-500',
+    'bg-pink-500',
+    'bg-indigo-500',
+    'bg-teal-500',
+    'bg-orange-500',
+    'bg-cyan-500'
+  ];
+
+  // Use the symbol to generate a consistent index for the same symbol
+  let total = 0;
+  for (let i = 0; i < symbol.length; i++) {
+    total += symbol.charCodeAt(i);
+  }
   
-  return colors[symbol] || 'bg-blue-500';
+  const index = total % colors.length;
+  return colors[index];
 } 
