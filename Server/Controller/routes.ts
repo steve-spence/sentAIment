@@ -25,6 +25,27 @@ router.get('/quote/:symbol', async (req: Request, res: Response) => {
     res.json(data);
 });
 
+router.get('/candle/:symbol', async (req: Request, res: Response) => {
+    const { symbol } = req.params;
+    const { resolution, from, to } = req.query;
+    
+    try {
+        const response = await fetch(
+            `https://finnhub.io/api/v1/stock/candle?symbol=${symbol}&resolution=${resolution}&from=${from}&to=${to}&token=${process.env.FINNHUB_API_KEY}`
+        );
+        
+        if (!response.ok) {
+            throw new Error('Failed to fetch candle data');
+        }
+        
+        const data = await response.json();
+        res.json(data);
+    } catch (error) {
+        console.error('Error fetching candle data:', error);
+        res.status(500).json({ error: 'Failed to fetch candle data' });
+    }
+});
+
 router.post('/users/:userId', async (req: Request, res: Response) => {
     try {
         const userId = req.params.userId;

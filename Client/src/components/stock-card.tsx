@@ -3,7 +3,7 @@
 import React from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { ArrowDownIcon, ArrowUpIcon } from "lucide-react";
-
+import Image from "next/image";
 interface StockCardProps {
   name: string;
   symbol: string;
@@ -28,7 +28,7 @@ export function StockCard({
         <div className="flex justify-between items-start">
           <div className="flex items-center space-x-2">
             {logo ? (
-              <img src={logo} alt={name} className="w-6 h-6 rounded-full" />
+              <Image src={logo} className="w-6 h-6 rounded-full" alt={name} />
             ) : (
               <div className="w-6 h-6 rounded-full bg-white bg-opacity-30 flex items-center justify-center text-white text-xs">
                 {symbol.charAt(0)} 

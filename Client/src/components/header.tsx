@@ -7,6 +7,7 @@ import { Bell } from "lucide-react";
 import { supabase } from "@/lib/supabase";
 import { useEffect, useState } from "react";
 import { useAuth } from "@/components/auth-Provider";
+import { useRouter } from "next/navigation";
 
 interface User {
   id: string;
@@ -15,15 +16,33 @@ interface User {
   watchlist: string[];
 }
 
-
 const handleLogout = async () => {
   await supabase.auth.signOut();
 };
 
 export function Header() {
+  const router = useRouter();
   const { user: authUser, loading: authLoading } = useAuth();
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
+  const [searchQuery, setSearchQuery] = useState("");
+
+  // Handle search submission
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      // Encode the search query for the URL
+      const encodedQuery = encodeURIComponent(searchQuery.trim());
+      router.push(`/research?q=${encodedQuery}`);
+    }
+  };
+
+  // Handle enter key press
+  const handleKeyPress = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') {
+      handleSearch(e);
+    }
+  };
 
   useEffect(() => {
     const fetchUserData = async () => {
@@ -48,18 +67,14 @@ export function Header() {
         const data = await response.json();
         console.log('Raw API response:', data);
 
-        if (data.data) {  // Changed from data.user to data.data based on your server response
+        if (data.data) {
           console.log('Setting user data:', data.data);
           setUser(data.data);
         } else {
           console.error('User data not found in response. Full response:', data);
         }
       } catch (error) {
-        console.error('Error fetching user data:', {
-          error,
-          message: error.message,
-          stack: error.stack
-        });
+        console.error('Error fetching user data:', error);
       } finally {
         setLoading(false);
       }
@@ -77,13 +92,16 @@ export function Header() {
           Investment AI
         </Link>
         
-        <div className="flex-1 mx-10 max-w-md">
+        <form onSubmit={handleSearch} className="flex-1 mx-10 max-w-md">
           <Input 
             type="search" 
-            placeholder="Search for stocks and more" 
+            placeholder="Search for stocks (e.g., AAPL, GOOGL)" 
             className="w-full"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            onKeyPress={handleKeyPress}
           />
-        </div>
+        </form>
         
         <nav className="flex items-center gap-4">
           <Link href="/dashboard" className="text-sm hover:text-primary">
@@ -91,9 +109,6 @@ export function Header() {
           </Link>
           <Link href="/portfolio" className="text-sm hover:text-primary">
             Portfolio
-          </Link>
-          <Link href="/watchlist" className="text-sm hover:text-primary">
-            Watchlist
           </Link>
           
           {user ? (
@@ -108,11 +123,7 @@ export function Header() {
               <span className="text-sm font-medium">{user.username}</span>
             </div>
           ) : (
-            <Button 
-              variant="outline" 
-              size="sm" 
-      
-            >
+            <Button variant="outline" size="sm">
               Sign In
             </Button>
           )}
@@ -120,4 +131,4 @@ export function Header() {
       </div>
     </header>
   );
-} 
+}
