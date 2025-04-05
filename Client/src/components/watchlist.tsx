@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { PlusCircle, Loader2, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { toast } from "sonner";
-
+import dataStorage from "@/lib/dataStorage";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL
 
@@ -28,6 +28,11 @@ export function Watchlist({ userData }: WatchlistProps) {
   const [newSymbol, setNewSymbol] = useState("");
   const [isAdding, setIsAdding] = useState(false);
 
+  // Initialize stocks data in localStorage when component mounts
+  useEffect(() => {
+    dataStorage();
+  }, []);
+
   // Update watchlist when userData changes
   useEffect(() => {
     console.log('Raw userData in Watchlist:', userData);
@@ -42,14 +47,23 @@ export function Watchlist({ userData }: WatchlistProps) {
     }
   }, [userData]);
 
-  // Log whenever watchlist state changes
-  useEffect(() => {
-    console.log('Current watchlist state:', watchlist);
-  }, [watchlist]);
+  // Validate stock symbol against localStorage data
+  const isValidStockSymbol = (symbol: string): boolean => {
+    const stockData = localStorage.getItem(symbol.toUpperCase());
+    return stockData !== null;
+  };
 
   const addToWatchlist = async () => {
     if (!newSymbol.trim() || !userData?.data?.id) {
       console.error('Cannot add to watchlist:', { newSymbol, userId: userData?.data?.id });
+      return;
+    }
+
+    const symbol = newSymbol.toUpperCase();
+
+    // Validate symbol before making request
+    if (!isValidStockSymbol(symbol)) {
+      toast.error(`Invalid stock symbol: ${symbol}`);
       return;
     }
 
@@ -58,10 +72,15 @@ export function Watchlist({ userData }: WatchlistProps) {
       toast.error('Watchlist cannot contain more than 5 stocks');
       return;
     }
+
+    // Check if stock is already in watchlist
+    if (watchlist.includes(symbol)) {
+      toast.error(`${symbol} is already in your watchlist`);
+      return;
+    }
     
     setIsAdding(true);
     try {
-      const symbol = newSymbol.toUpperCase();
       console.log('Adding symbol:', symbol, 'for user:', userData.data.id);
 
       // Create new watchlist with added symbol
@@ -78,7 +97,10 @@ export function Watchlist({ userData }: WatchlistProps) {
       if (response.ok) {
         setWatchlist(updatedWatchlist);
         setNewSymbol('');
-        toast.success(`Added ${symbol} to watchlist`);
+        // Get company name from localStorage for better user feedback
+        const stockData = JSON.parse(localStorage.getItem(symbol) || '{}');
+        const companyName = stockData.title || symbol;
+        toast.success(`Added ${companyName} (${symbol}) to watchlist`);
       } else {
         const errorData = await response.json();
         console.error('Failed to update watchlist:', errorData);
