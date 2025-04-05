@@ -1,415 +1,442 @@
 [
   {
-    "title": "UBS Upgrades Gartner (IT)",
-    "published": 1712884119,
-    "posting_price": 469.95999146,
-    "close_price": 465.45001221,
-    "percent_change": -0.95965174
+    "title": "Gartner : Supply Chain Symposium/Xpo Orlando Day 1 Highlights",
+    "published": 1714993747,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 430.510009765625,
+      "2024-05-06T14:30:00+00:00": 432.68499755859375,
+      "2024-05-06T15:30:00+00:00": 433.6300048828125,
+      "2024-05-06T16:30:00+00:00": 435.43719482421875,
+      "2024-05-06T17:30:00+00:00": 435.9200134277344,
+      "2024-05-06T18:30:00+00:00": 435.9049987792969,
+      "2024-05-06T19:30:00+00:00": 435.1499938964844
+    },
+    "sentiment": 0.9432780742645264
   },
   {
-    "title": "Gartner (IT) Gains From Domain Expertise Amid Talent Cost",
-    "published": 1712842500,
-    "posting_price": 472.1499939,
-    "close_price": 474.72000122,
-    "percent_change": 0.5443201
+    "title": "CRAI vs. IT: Which Stock Is the Better Value Option?",
+    "published": 1714750811,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 425.05999755859375,
+      "2024-05-03T14:30:00+00:00": 427.69000244140625,
+      "2024-05-03T15:30:00+00:00": 426.8500061035156,
+      "2024-05-03T16:30:00+00:00": 429.010009765625,
+      "2024-05-03T17:30:00+00:00": 428.739990234375,
+      "2024-05-03T18:30:00+00:00": 429.8900146484375,
+      "2024-05-03T19:30:00+00:00": 428.489990234375
+    },
+    "sentiment": 0.9272831678390503
   },
   {
-    "title": "Gartner rises after UBS upgrades to Buy on margin upside",
-    "published": 1712829360,
-    "posting_price": 472.1499939,
-    "close_price": 474.72000122,
-    "percent_change": 0.5443201
+    "title": "Gartner : HR Survey Finds Australian Employees Are Seeking Better Job Opportunities Due to Stabilized Conditions",
+    "published": 1714689669,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 424.239990234375,
+      "2024-05-02T14:30:00+00:00": 417.1600036621094,
+      "2024-05-02T15:30:00+00:00": 423.05499267578125,
+      "2024-05-02T16:30:00+00:00": 419.9200134277344,
+      "2024-05-02T17:30:00+00:00": 420.55999755859375,
+      "2024-05-02T18:30:00+00:00": 421.0,
+      "2024-05-02T19:30:00+00:00": 419.80999755859375
+    },
+    "sentiment": 0.8648571968078613
   },
   {
-    "title": "Gartner Says 75% of Enterprise Software Engineers Will Use AI Code Assistants by 2028",
-    "published": 1712810840,
-    "posting_price": 472.1499939,
-    "close_price": 474.72000122,
-    "percent_change": 0.5443201
+    "title": "Gartner Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1714622580,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 424.239990234375,
+      "2024-05-02T14:30:00+00:00": 417.1600036621094,
+      "2024-05-02T15:30:00+00:00": 423.05499267578125,
+      "2024-05-02T16:30:00+00:00": 419.9200134277344,
+      "2024-05-02T17:30:00+00:00": 420.55999755859375,
+      "2024-05-02T18:30:00+00:00": 421.0,
+      "2024-05-02T19:30:00+00:00": 419.80999755859375
+    },
+    "sentiment": 0.9427469968795776
   },
   {
-    "title": "Gartner just upgraded at UBS, here's why",
-    "published": 1712808120,
-    "posting_price": 472.1499939,
-    "close_price": 474.72000122,
-    "percent_change": 0.5443201
+    "title": "Gartner, Inc. (NYSE:IT) Q1 2024 Earnings Call Transcript",
+    "published": 1714578145,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 412.1600036621094,
+      "2024-05-01T14:30:00+00:00": 416.05999755859375,
+      "2024-05-01T15:30:00+00:00": 417.0950012207031,
+      "2024-05-01T16:30:00+00:00": 415.18499755859375,
+      "2024-05-01T17:30:00+00:00": 422.9150085449219,
+      "2024-05-01T18:30:00+00:00": 421.75,
+      "2024-05-01T19:30:00+00:00": 427.7099914550781
+    },
+    "sentiment": 0.9343802332878113
   },
   {
-    "title": "Gartner Announces the Gartner CFO & Finance Executive Conference 2024 in National Harbor",
-    "published": 1712755800,
-    "posting_price": 465.26998901,
-    "close_price": 463.77999878,
-    "percent_change": -0.32024207
+    "title": "Gartner price target lowered by $40 at UBS, here's why",
+    "published": 1714550520,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 412.1600036621094,
+      "2024-05-01T14:30:00+00:00": 416.05999755859375,
+      "2024-05-01T15:30:00+00:00": 417.0950012207031,
+      "2024-05-01T16:30:00+00:00": 415.18499755859375,
+      "2024-05-01T17:30:00+00:00": 422.9150085449219,
+      "2024-05-01T18:30:00+00:00": 421.75,
+      "2024-05-01T19:30:00+00:00": 427.7099914550781
+    },
+    "sentiment": 0.8023868799209595
   },
   {
-    "title": "Gartner-Customer Service Leaders Must Invest in AI to Enable, Not Replace, Employees",
-    "published": 1712728831,
-    "posting_price": 465.26998901,
-    "close_price": 463.77999878,
-    "percent_change": -0.32024207
+    "title": "Gartner Inc (IT) (Q1 2024) Earnings Call Transcript Highlights: Steady Growth Amid Economic ...",
+    "published": 1714546905,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 412.1600036621094,
+      "2024-05-01T14:30:00+00:00": 416.05999755859375,
+      "2024-05-01T15:30:00+00:00": 417.0950012207031,
+      "2024-05-01T16:30:00+00:00": 415.18499755859375,
+      "2024-05-01T17:30:00+00:00": 422.9150085449219,
+      "2024-05-01T18:30:00+00:00": 421.75,
+      "2024-05-01T19:30:00+00:00": 427.7099914550781
+    },
+    "sentiment": 0.9354287385940552
   },
   {
-    "title": "$1000 Invested In This Stock 5 Years Ago Would Be Worth $2,900 Today",
-    "published": 1712718300,
-    "posting_price": 465.26998901,
-    "close_price": 463.77999878,
-    "percent_change": -0.32024207
+    "title": "Analysts Offer Insights on Technology Companies: Gartner (IT) and CCC Intelligent Solutions Holdings (CCCS)",
+    "published": 1714542660,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 412.1600036621094,
+      "2024-05-01T14:30:00+00:00": 416.05999755859375,
+      "2024-05-01T15:30:00+00:00": 417.0950012207031,
+      "2024-05-01T16:30:00+00:00": 415.18499755859375,
+      "2024-05-01T17:30:00+00:00": 422.9150085449219,
+      "2024-05-01T18:30:00+00:00": 421.75,
+      "2024-05-01T19:30:00+00:00": 427.7099914550781
+    },
+    "sentiment": 0.9208136796951294
   },
   {
-    "title": "Gartner Inc. stock underperforms Tuesday when compared to competitors",
-    "published": 1712635440,
-    "posting_price": 474.5,
-    "close_price": 469.89001465,
-    "percent_change": -0.97154591
+    "title": "Critical Insights From Gartner Analyst Ratings: What You Need To Know",
+    "published": 1714532580,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 412.1600036621094,
+      "2024-05-01T14:30:00+00:00": 416.05999755859375,
+      "2024-05-01T15:30:00+00:00": 417.0950012207031,
+      "2024-05-01T16:30:00+00:00": 415.18499755859375,
+      "2024-05-01T17:30:00+00:00": 422.9150085449219,
+      "2024-05-01T18:30:00+00:00": 421.75,
+      "2024-05-01T19:30:00+00:00": 427.7099914550781
+    },
+    "sentiment": 0.9375051856040955
   },
   {
-    "title": "Gartner : Customer Service Leaders Must Invest in AI to Enable, Not Replace, Employees",
-    "published": 1712634013,
-    "posting_price": 474.5,
-    "close_price": 469.89001465,
-    "percent_change": -0.97154591
+    "title": "Q1 2024 Gartner Inc Earnings Call",
+    "published": 1714528445,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 412.1600036621094,
+      "2024-05-01T14:30:00+00:00": 416.05999755859375,
+      "2024-05-01T15:30:00+00:00": 417.0950012207031,
+      "2024-05-01T16:30:00+00:00": 415.18499755859375,
+      "2024-05-01T17:30:00+00:00": 422.9150085449219,
+      "2024-05-01T18:30:00+00:00": 421.75,
+      "2024-05-01T19:30:00+00:00": 427.7099914550781
+    },
+    "sentiment": 0.7459341287612915
   },
   {
-    "title": "MercuryGate Named As A Challenger In The 2024 Gartner Magic Quadrant For Transportation Management Systems",
-    "published": 1712310337,
-    "posting_price": 465.41000366,
-    "close_price": 470.35998535,
-    "percent_change": 1.06357441
+    "title": "Sumo Logic Named a Challenger in the 2024 Gartner Magic Quadrant for Security Information and Event Management (SIEM)",
+    "published": 1715672539,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 441.1499938964844,
+      "2024-05-14T14:30:00+00:00": 443.7699890136719,
+      "2024-05-14T15:30:00+00:00": 436.4750061035156,
+      "2024-05-14T16:30:00+00:00": 435.0249938964844,
+      "2024-05-14T17:30:00+00:00": 435.7799987792969,
+      "2024-05-14T18:30:00+00:00": 436.1549987792969,
+      "2024-05-14T19:30:00+00:00": 436.94000244140625
+    },
+    "sentiment": 0.8241210579872131
   },
   {
-    "title": "Barclays Sticks to Their Hold Rating for Gartner (IT)",
-    "published": 1712284020,
-    "posting_price": 465.41000366,
-    "close_price": 470.35998535,
-    "percent_change": 1.06357441
+    "title": "Gartner : HR Research Finds One-Third of Executives Given a Return-to-Office Mandate Plan to Leave Their Employer",
+    "published": 1715326945,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 438.55999755859375,
+      "2024-05-10T14:30:00+00:00": 438.92999267578125,
+      "2024-05-10T15:30:00+00:00": 438.9200134277344,
+      "2024-05-10T16:30:00+00:00": 439.2200012207031,
+      "2024-05-10T17:30:00+00:00": 436.9649963378906,
+      "2024-05-10T18:30:00+00:00": 438.885009765625,
+      "2024-05-10T19:30:00+00:00": 438.32000732421875
+    },
+    "sentiment": 0.8776912689208984
   },
   {
-    "title": "Sirion Recognized as a Customers' Choice in 2024 Gartner Peer Insights Voice of the Customer for Contract Life Cycle Management Report",
-    "published": 1712229710,
-    "posting_price": 475.42999268,
-    "close_price": 464.33999634,
-    "percent_change": -2.33262447
+    "title": "Gartner Survey Identifies the Top 5 Attraction Drivers for Finance Function Employees",
+    "published": 1715231539,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 434.3299865722656,
+      "2024-05-09T14:30:00+00:00": 430.70001220703125,
+      "2024-05-09T15:30:00+00:00": 433.0,
+      "2024-05-09T16:30:00+00:00": 433.4599914550781,
+      "2024-05-09T17:30:00+00:00": 434.7799987792969,
+      "2024-05-09T18:30:00+00:00": 434.30999755859375,
+      "2024-05-09T19:30:00+00:00": 435.875
+    },
+    "sentiment": 0.7358517646789551
   },
   {
-    "title": "Gartner : Autonomous Finance Requires a New Finance Operating Model",
-    "published": 1712223787,
-    "posting_price": 475.42999268,
-    "close_price": 464.33999634,
-    "percent_change": -2.33262447
+    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Trade Desk (TTD), BlackLine (BL) and Gartner (IT)",
+    "published": 1715231520,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 434.3299865722656,
+      "2024-05-09T14:30:00+00:00": 430.70001220703125,
+      "2024-05-09T15:30:00+00:00": 433.0,
+      "2024-05-09T16:30:00+00:00": 433.4599914550781,
+      "2024-05-09T17:30:00+00:00": 434.7799987792969,
+      "2024-05-09T18:30:00+00:00": 434.30999755859375,
+      "2024-05-09T19:30:00+00:00": 435.875
+    },
+    "sentiment": 0.9203089475631714
   },
   {
-    "title": "Gartner : Announces Gartner Security & Risk Management Summit 2024",
-    "published": 1712219947,
-    "posting_price": 475.42999268,
-    "close_price": 464.33999634,
-    "percent_change": -2.33262447
+    "title": "Insider Sale: Director James Smith Sells 10,000 Shares of Gartner Inc (IT)",
+    "published": 1716495351,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 453.8500061035156,
+      "2024-05-23T14:30:00+00:00": 450.0299987792969,
+      "2024-05-23T15:30:00+00:00": 448.8900146484375,
+      "2024-05-23T16:30:00+00:00": 447.3450012207031,
+      "2024-05-23T17:30:00+00:00": 445.760009765625,
+      "2024-05-23T18:30:00+00:00": 444.2799987792969,
+      "2024-05-23T19:30:00+00:00": 444.6400146484375
+    },
+    "sentiment": 0.9196581244468689
   },
   {
-    "title": "Nvidia Stock\u2019s Hype Cycle: Why the AI Bubble May Burst Sooner Than You Think",
-    "published": 1712207340,
-    "posting_price": 475.42999268,
-    "close_price": 464.33999634,
-    "percent_change": -2.33262447
+    "title": "Gartner Says Harnessing Sales Culture Can Drive Sales Performance",
+    "published": 1716469200,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 453.8500061035156,
+      "2024-05-23T14:30:00+00:00": 450.0299987792969,
+      "2024-05-23T15:30:00+00:00": 448.8900146484375,
+      "2024-05-23T16:30:00+00:00": 447.3450012207031,
+      "2024-05-23T17:30:00+00:00": 445.760009765625,
+      "2024-05-23T18:30:00+00:00": 444.2799987792969,
+      "2024-05-23T19:30:00+00:00": 444.6400146484375
+    },
+    "sentiment": 0.6684595942497253
   },
   {
-    "title": "Gartner : Organizations Should Evaluate Four AI Deployment Classes in Preparing for the EU Artificial Intelligence Act",
-    "published": 1712116027,
-    "posting_price": 466.91000366,
-    "close_price": 472.08999634,
-    "percent_change": 1.10941994
+    "title": "Gartner CEO Survey Finds Growth is the Top Business Priority for 2024, Reaching Highest Level in 10 Years",
+    "published": 1716440177,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 453.8500061035156,
+      "2024-05-23T14:30:00+00:00": 450.0299987792969,
+      "2024-05-23T15:30:00+00:00": 448.8900146484375,
+      "2024-05-23T16:30:00+00:00": 447.3450012207031,
+      "2024-05-23T17:30:00+00:00": 445.760009765625,
+      "2024-05-23T18:30:00+00:00": 444.2799987792969,
+      "2024-05-23T19:30:00+00:00": 444.6400146484375
+    },
+    "sentiment": 0.915671169757843
   },
   {
-    "title": "Gartner : Humanoid Robots Have Potential to Fully Automate Warehouse Processes",
-    "published": 1712048648,
-    "posting_price": 473.82998657,
-    "close_price": 469.48001099,
-    "percent_change": -0.91804565
+    "title": "Gartner Survey Shows AI-Enhanced Malicious Attacks Are a New Top Emerging Risk for Enterprises",
+    "published": 1716440176,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 453.8500061035156,
+      "2024-05-23T14:30:00+00:00": 450.0299987792969,
+      "2024-05-23T15:30:00+00:00": 448.8900146484375,
+      "2024-05-23T16:30:00+00:00": 447.3450012207031,
+      "2024-05-23T17:30:00+00:00": 445.760009765625,
+      "2024-05-23T18:30:00+00:00": 444.2799987792969,
+      "2024-05-23T19:30:00+00:00": 444.6400146484375
+    },
+    "sentiment": 0.7207797765731812
   },
   {
-    "title": "Powered by AI, UiPath (NYSE:PATH) Is Gaining Strength",
-    "published": 1712041140,
-    "posting_price": 473.82998657,
-    "close_price": 469.48001099,
-    "percent_change": -0.91804565
+    "title": "Gartner CFO & Finance Executive Conference: Day 2 Highlights",
+    "published": 1716356170,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 451.67999267578125,
+      "2024-05-22T14:30:00+00:00": 456.5899963378906,
+      "2024-05-22T15:30:00+00:00": 454.7250061035156,
+      "2024-05-22T16:30:00+00:00": 455.375,
+      "2024-05-22T17:30:00+00:00": 453.20001220703125,
+      "2024-05-22T18:30:00+00:00": 450.8500061035156,
+      "2024-05-22T19:30:00+00:00": 452.0
+    },
+    "sentiment": 0.9429082870483398
   },
   {
-    "title": "Powered by AI, UiPath (NYSE:PATH) Is Becoming Stronger",
-    "published": 1712041080,
-    "posting_price": 473.82998657,
-    "close_price": 469.48001099,
-    "percent_change": -0.91804565
+    "title": "IFS ranked #1 for EAM market share in the 2024 Gartner[\u00ae\u00a0]Market Share: All Software Markets, Worldwide, 2023 report for third consecutive year",
+    "published": 1716346874,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 451.67999267578125,
+      "2024-05-22T14:30:00+00:00": 456.5899963378906,
+      "2024-05-22T15:30:00+00:00": 454.7250061035156,
+      "2024-05-22T16:30:00+00:00": 455.375,
+      "2024-05-22T17:30:00+00:00": 453.20001220703125,
+      "2024-05-22T18:30:00+00:00": 450.8500061035156,
+      "2024-05-22T19:30:00+00:00": 452.0
+    },
+    "sentiment": 0.8184325695037842
   },
   {
-    "title": "Gartner : CMOs Must Protect Consumer Trust in the AI Age",
-    "published": 1712028908,
-    "posting_price": 473.82998657,
-    "close_price": 469.48001099,
-    "percent_change": -0.91804565
-  },
-  {
-    "title": "Gartner (IT) Surpasses Q1 Earnings and Revenue Estimates",
-    "published": 1714493160,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner (IT) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1714483824,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner, Inc. (IT) Q1 2024 Earnings Call Transcript",
-    "published": 1714481129,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner Inc (IT) Q1 2024 Earnings: Mixed Results Amidst Rising Revenues and Falling Net Income",
-    "published": 1714476706,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner (IT) Tops Q1 Earnings and Revenue Estimates",
-    "published": 1714475405,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner raises annual profit forecast on steady demand for IT services",
-    "published": 1714475244,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Decoding Gartner Inc (IT): A Strategic SWOT Insight",
-    "published": 1714475040,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner Reports First Quarter 2024 Financial Results",
-    "published": 1714471200,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "IT Stock Earnings: Gartner Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714471200,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner: Q1 Earnings Snapshot",
-    "published": 1714457290,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner Announces Q1 Earnings Webcast for Investors",
-    "published": 1714454640,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner reports mixed Q1 results; updates FY24 outlook",
-    "published": 1714453800,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner reports Q1 adjusted EPS $2.93, consensus $2.53",
-    "published": 1714453260,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "New Buy Rating for Gartner (IT), the Technology Giant",
-    "published": 1714448160,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Gartner (IT) and ACI Worldwide (ACIW)",
-    "published": 1714441320,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Gartner price target lowered by $7 at Morgan Stanley, here's why",
-    "published": 1714439940,
-    "posting_price": 458.05999756,
-    "close_price": 412.58999634,
-    "percent_change": -9.92664748
-  },
-  {
-    "title": "Exploring Analyst Estimates for Gartner (IT) Q1 Earnings, Beyond Revenue and EPS",
-    "published": 1714396568,
-    "posting_price": 448.8999939,
-    "close_price": 448.6499939,
-    "percent_change": -0.05569169
-  },
-  {
-    "title": "Gartner Q1 2024 Earnings Preview",
-    "published": 1714391580,
-    "posting_price": 448.8999939,
-    "close_price": 448.6499939,
-    "percent_change": -0.05569169
-  },
-  {
-    "title": "Ron Baron and Bill Ackman Are Performance Leaders",
-    "published": 1714384920,
-    "posting_price": 448.8999939,
-    "close_price": 448.6499939,
-    "percent_change": -0.05569169
-  },
-  {
-    "title": "Gartner Predicts the Global Legal Technology Market Will Reach $50 Billion by 2027 as a Result of GenAI",
-    "published": 1714111931,
-    "posting_price": 447.45001221,
-    "close_price": 448.77999878,
-    "percent_change": 0.29723691
-  },
-  {
-    "title": "Weitz Multi Cap Equity Fund Q1 2024 Commentary",
-    "published": 1714110000,
-    "posting_price": 447.45001221,
-    "close_price": 448.77999878,
-    "percent_change": 0.29723691
-  },
-  {
-    "title": "Gartner (IT) to Report Q1 Earnings: What's in the Offing?",
-    "published": 1714058340,
-    "posting_price": 447.72000122,
-    "close_price": 446.30999756,
-    "percent_change": -0.31492979
-  },
-  {
-    "title": "CRA International (CRAI) Reports Next Week: Wall Street Expects Earnings Growth",
-    "published": 1714053710,
-    "posting_price": 447.72000122,
-    "close_price": 446.30999756,
-    "percent_change": -0.31492979
-  },
-  {
-    "title": "Gartner Identifies Three GenAI Misconceptions Impacting Supply Chain Talent",
-    "published": 1714022906,
-    "posting_price": 447.72000122,
-    "close_price": 446.30999756,
-    "percent_change": -0.31492979
-  },
-  {
-    "title": "Gartner Identifies the Top Trends in Data and Analytics for 2024",
-    "published": 1714022904,
-    "posting_price": 447.72000122,
-    "close_price": 446.30999756,
-    "percent_change": -0.31492979
-  },
-  {
-    "title": "Gartner Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713931560,
-    "posting_price": 450.32000732,
-    "close_price": 451.05999756,
-    "percent_change": 0.16432542
-  },
-  {
-    "title": "Earnings Preview: Gartner (IT) Q1 Earnings Expected to Decline",
-    "published": 1713880871,
-    "posting_price": 446.32998657,
-    "close_price": 450.26000977,
-    "percent_change": 0.88051964
-  },
-  {
-    "title": "Is Gartner, Inc. (NYSE:IT) Worth US$440 Based On Its Intrinsic Value?",
-    "published": 1713619467,
-    "posting_price": 442.94000244,
-    "close_price": 443.05999756,
-    "percent_change": 0.0270906
-  },
-  {
-    "title": "FreightTech Friday: Gartner critiques real-time-visibility market players",
-    "published": 1713524400,
-    "posting_price": 450.52999878,
-    "close_price": 440.38000488,
-    "percent_change": -2.25290079
-  },
-  {
-    "title": "Gartner Survey Shows a Strong Ethical Culture Isn't Enough to Stop Noncompliance",
-    "published": 1713416842,
-    "posting_price": 449.92001343,
-    "close_price": 449.60998535,
-    "percent_change": -0.06890738
-  },
-  {
-    "title": "Gartner Forecasts Worldwide IT Spending to Grow 8% in 2024",
-    "published": 1713416841,
-    "posting_price": 449.92001343,
-    "close_price": 449.60998535,
-    "percent_change": -0.06890738
-  },
-  {
-    "title": "BT placed furthest for \"Completeness of Vision\" in the 2024 Gartner\u00ae Magic Quadrant(TM) for Global WAN Services",
-    "published": 1713414611,
-    "posting_price": 449.92001343,
-    "close_price": 449.60998535,
-    "percent_change": -0.06890738
-  },
-  {
-    "title": "The AI Hype Cycle",
-    "published": 1713411600,
-    "posting_price": 449.92001343,
-    "close_price": 449.60998535,
-    "percent_change": -0.06890738
+    "title": "Gartner Says Sales Organizations That Use an Adaptive Approach Are Three Times More Likely to Grow",
+    "published": 1716311700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 455.6600036621094,
+      "2024-05-21T14:30:00+00:00": 451.4150085449219,
+      "2024-05-21T15:30:00+00:00": 450.9800109863281,
+      "2024-05-21T16:30:00+00:00": 448.7900085449219,
+      "2024-05-21T17:30:00+00:00": 448.1700134277344,
+      "2024-05-21T18:30:00+00:00": 448.1000061035156,
+      "2024-05-21T19:30:00+00:00": 447.5799865722656
+    },
+    "sentiment": 0.43195003271102905
   },
   {
     "title": "CRAI or IT: Which Is the Better Value Stock Right Now?",
-    "published": 1713368414,
-    "posting_price": 460.70001221,
-    "close_price": 449.30999756,
-    "percent_change": -2.47232784
+    "published": 1716219612,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 450.7699890136719,
+      "2024-05-20T14:30:00+00:00": 455.0400085449219,
+      "2024-05-20T15:30:00+00:00": 457.17999267578125,
+      "2024-05-20T16:30:00+00:00": 456.04998779296875,
+      "2024-05-20T17:30:00+00:00": 456.5,
+      "2024-05-20T18:30:00+00:00": 455.95001220703125,
+      "2024-05-20T19:30:00+00:00": 455.25
+    },
+    "sentiment": 0.9137259125709534
   },
   {
-    "title": "Gartner to Report First Quarter 2024 Financial Results on April 30, 2024",
-    "published": 1713268800,
-    "posting_price": 462.33999634,
-    "close_price": 458.13000488,
-    "percent_change": -0.91058344
+    "title": "Gurucul Named a Visionary for the Third Consecutive Year and Positioned Furthest to the Right for Completeness of Vision for the Second Time in 2024 Gartner Magic Quadrant for SIEM",
+    "published": 1716202703,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 450.7699890136719,
+      "2024-05-20T14:30:00+00:00": 455.0400085449219,
+      "2024-05-20T15:30:00+00:00": 457.17999267578125,
+      "2024-05-20T16:30:00+00:00": 456.04998779296875,
+      "2024-05-20T17:30:00+00:00": 456.5,
+      "2024-05-20T18:30:00+00:00": 455.95001220703125,
+      "2024-05-20T19:30:00+00:00": 455.25
+    },
+    "sentiment": 0.6865241527557373
   },
   {
-    "title": "Gartner Announces the Top Government Technology Trends for 2024",
-    "published": 1713244628,
-    "posting_price": 462.33999634,
-    "close_price": 458.13000488,
-    "percent_change": -0.91058344
+    "title": "Gartner Forecasts Australian Public Cloud End-User Spending to Reach $23.3 Billion in 2024",
+    "published": 1716179480,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 450.7699890136719,
+      "2024-05-20T14:30:00+00:00": 455.0400085449219,
+      "2024-05-20T15:30:00+00:00": 457.17999267578125,
+      "2024-05-20T16:30:00+00:00": 456.04998779296875,
+      "2024-05-20T17:30:00+00:00": 456.5,
+      "2024-05-20T18:30:00+00:00": 455.95001220703125,
+      "2024-05-20T19:30:00+00:00": 455.25
+    },
+    "sentiment": 0.8630410432815552
   },
   {
-    "title": "Gartner: Navigating Near-Term Uncertainties with a Hold Rating and $507 Price Target",
-    "published": 1713241620,
-    "posting_price": 462.33999634,
-    "close_price": 458.13000488,
-    "percent_change": -0.91058344
+    "title": "FPT Software Named A Representative Vendor In the 2024 Gartner Market Guide For Public Cloud Managed And Professional Services, Asia/Pacific",
+    "published": 1715927064,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 450.20001220703125,
+      "2024-05-17T14:30:00+00:00": 449.8999938964844,
+      "2024-05-17T15:30:00+00:00": 449.7699890136719,
+      "2024-05-17T16:30:00+00:00": 450.3800048828125,
+      "2024-05-17T17:30:00+00:00": 449.8699951171875,
+      "2024-05-17T18:30:00+00:00": 449.2200012207031,
+      "2024-05-17T19:30:00+00:00": 451.57000732421875
+    },
+    "sentiment": 0.5931013226509094
   },
   {
-    "title": "Gartner initiated with neutral view at Detwiler Fenton, here's why",
-    "published": 1713240780,
-    "posting_price": 462.33999634,
-    "close_price": 458.13000488,
-    "percent_change": -0.91058344
+    "title": "Gartner Q1: Remains Buy Rated As Growth Should Accelerate",
+    "published": 1715881024,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 443.0,
+      "2024-05-16T14:30:00+00:00": 446.0199890136719,
+      "2024-05-16T15:30:00+00:00": 448.6700134277344,
+      "2024-05-16T16:30:00+00:00": 447.80999755859375,
+      "2024-05-16T17:30:00+00:00": 446.5400085449219,
+      "2024-05-16T18:30:00+00:00": 447.2200012207031,
+      "2024-05-16T19:30:00+00:00": 448.5799865722656
+    },
+    "sentiment": 0.9166816473007202
+  },
+  {
+    "title": "Gartner Inc. stock underperforms Thursday when compared to competitors despite daily gains",
+    "published": 1715832060,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 443.0,
+      "2024-05-16T14:30:00+00:00": 446.0199890136719,
+      "2024-05-16T15:30:00+00:00": 448.6700134277344,
+      "2024-05-16T16:30:00+00:00": 447.80999755859375,
+      "2024-05-16T17:30:00+00:00": 446.5400085449219,
+      "2024-05-16T18:30:00+00:00": 447.2200012207031,
+      "2024-05-16T19:30:00+00:00": 448.5799865722656
+    },
+    "sentiment": 0.8830171227455139
+  },
+  {
+    "title": "Why Is Gartner (IT) Up 1.3% Since Last Earnings Report?",
+    "published": 1717083067,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 422.0199890136719,
+      "2024-05-30T14:30:00+00:00": 417.5899963378906,
+      "2024-05-30T15:30:00+00:00": 418.875,
+      "2024-05-30T16:30:00+00:00": 418.1000061035156,
+      "2024-05-30T17:30:00+00:00": 417.7049865722656,
+      "2024-05-30T18:30:00+00:00": 416.0,
+      "2024-05-30T19:30:00+00:00": 414.42498779296875
+    },
+    "sentiment": 0.818610429763794
+  },
+  {
+    "title": "Harding Loevner Global Developed Markets Equity Composite Q1 2024 Report",
+    "published": 1716973500,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 430.7900085449219,
+      "2024-05-29T14:30:00+00:00": 432.69000244140625,
+      "2024-05-29T15:30:00+00:00": 431.6099853515625,
+      "2024-05-29T16:30:00+00:00": 430.5899963378906,
+      "2024-05-29T17:30:00+00:00": 431.2149963378906,
+      "2024-05-29T18:30:00+00:00": 429.92999267578125,
+      "2024-05-29T19:30:00+00:00": 428.4599914550781
+    },
+    "sentiment": 0.930746853351593
+  },
+  {
+    "title": "Harding Loevner Global Equity Composite Q1 2024 Report",
+    "published": 1716960000,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 430.7900085449219,
+      "2024-05-29T14:30:00+00:00": 432.69000244140625,
+      "2024-05-29T15:30:00+00:00": 431.6099853515625,
+      "2024-05-29T16:30:00+00:00": 430.5899963378906,
+      "2024-05-29T17:30:00+00:00": 431.2149963378906,
+      "2024-05-29T18:30:00+00:00": 429.92999267578125,
+      "2024-05-29T19:30:00+00:00": 428.4599914550781
+    },
+    "sentiment": 0.9247323870658875
+  },
+  {
+    "title": "Application Software is a major concern within Tech - Roth MKM",
+    "published": 1716865080,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 438.67999267578125,
+      "2024-05-28T14:30:00+00:00": 438.9200134277344,
+      "2024-05-28T15:30:00+00:00": 436.2900085449219,
+      "2024-05-28T16:30:00+00:00": 434.19000244140625,
+      "2024-05-28T17:30:00+00:00": 433.7200012207031,
+      "2024-05-28T18:30:00+00:00": 432.864990234375,
+      "2024-05-28T19:30:00+00:00": 433.25
+    },
+    "sentiment": 0.9203003644943237
+  },
+  {
+    "title": "Insider Sale: EVP Alwyn Dawkins Sells Shares of Gartner Inc (IT)",
+    "published": 1716641040,
+    "day_prices": {},
+    "sentiment": 0.9328221082687378
   }
 ]

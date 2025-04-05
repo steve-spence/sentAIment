@@ -1,429 +1,128 @@
 [
   {
-    "title": "Willis launches AdWrap, a comprehensive insurance solution for marketing and advertising production in the U.S.",
-    "published": 1742990400,
-    "posting_price": 339.69000244,
-    "close_price": 338.58999634,
-    "percent_change": -0.32382646
+    "title": "Willis Towers Watson Public : \u2018Cross border\u2019 pension plans continue to grow as global instability rises",
+    "published": 1715771306,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 253.3300018310547,
+      "2024-05-15T14:30:00+00:00": 254.7100067138672,
+      "2024-05-15T15:30:00+00:00": 255.00999450683594,
+      "2024-05-15T16:30:00+00:00": 255.39999389648438,
+      "2024-05-15T17:30:00+00:00": 255.68499755859375,
+      "2024-05-15T18:30:00+00:00": 255.2100067138672,
+      "2024-05-15T19:30:00+00:00": 255.22000122070312
+    },
+    "sentiment": 0.7098515033721924
   },
   {
-    "title": "Willis report reveals construction sector challenged by uptick in data centers for AI while facing labor shortages",
-    "published": 1742808360,
-    "posting_price": 334.82998657,
-    "close_price": 337.22000122,
-    "percent_change": 0.71379946
+    "title": "WTW announces market first facility for cargo and war-on-land risks in Ukraine",
+    "published": 1715593800,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 256.6199951171875,
+      "2024-05-13T14:30:00+00:00": 255.9600067138672,
+      "2024-05-13T15:30:00+00:00": 256.0299987792969,
+      "2024-05-13T16:30:00+00:00": 254.82000732421875,
+      "2024-05-13T17:30:00+00:00": 255.13499450683594,
+      "2024-05-13T18:30:00+00:00": 255.1649932861328,
+      "2024-05-13T19:30:00+00:00": 254.39999389648438
+    },
+    "sentiment": 0.530600905418396
   },
   {
-    "title": "Willis accelerates investment in data and analytics with appointment of Global Data Strategy Leader and Global Digital Platforms Leader",
-    "published": 1742479140,
-    "posting_price": 334.38000488,
-    "close_price": 334.51000977,
-    "percent_change": 0.03887939
+    "title": "WTW boosts global cyber facility with increased capacity and broader coverage options",
+    "published": 1715166960,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 254.8699951171875,
+      "2024-05-08T14:30:00+00:00": 254.55499267578125,
+      "2024-05-08T15:30:00+00:00": 254.24000549316406,
+      "2024-05-08T16:30:00+00:00": 254.6199951171875,
+      "2024-05-08T17:30:00+00:00": 255.0399932861328,
+      "2024-05-08T18:30:00+00:00": 255.24000549316406,
+      "2024-05-08T19:30:00+00:00": 254.85000610351562
+    },
+    "sentiment": 0.954243540763855
   },
   {
-    "title": "Health and safety remains top concern for directors and officers worldwide, according to Willis",
-    "published": 1742463000,
-    "posting_price": 334.38000488,
-    "close_price": 334.51000977,
-    "percent_change": 0.03887939
+    "title": "Insurance Stocks Slip After Forecasters Predict Strong Hurricane Season",
+    "published": 1716482463,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 256.3599853515625,
+      "2024-05-23T14:30:00+00:00": 254.49000549316406,
+      "2024-05-23T15:30:00+00:00": 253.5050048828125,
+      "2024-05-23T16:30:00+00:00": 253.2949981689453,
+      "2024-05-23T17:30:00+00:00": 252.7899932861328,
+      "2024-05-23T18:30:00+00:00": 252.08999633789062,
+      "2024-05-23T19:30:00+00:00": 252.69000244140625
+    },
+    "sentiment": 0.9620426893234253
   },
   {
-    "title": "WTW\u2019s Radar Vision helps insurers tackle inflation and emerging risks",
-    "published": 1742234503,
-    "posting_price": 323.8999939,
-    "close_price": 328.32998657,
-    "percent_change": 1.36770384
+    "title": "Willis Towers Watson, Brown & Brown upgraded at BofA; RYAN started at Buy",
+    "published": 1716366480,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 255.25,
+      "2024-05-22T14:30:00+00:00": 256.69000244140625,
+      "2024-05-22T15:30:00+00:00": 256.3822937011719,
+      "2024-05-22T16:30:00+00:00": 257.1300048828125,
+      "2024-05-22T17:30:00+00:00": 257.0799865722656,
+      "2024-05-22T18:30:00+00:00": 256.2200012207031,
+      "2024-05-22T19:30:00+00:00": 256.2550048828125
+    },
+    "sentiment": 0.6268674731254578
   },
   {
-    "title": "WTW hires Munich Re executive in European analytics drive",
-    "published": 1741954161,
-    "posting_price": 320.75,
-    "close_price": 324.60998535,
-    "percent_change": 1.20342489
+    "title": "This Kraft Heinz Analyst Turns Bullish; Here Are Top 5 Upgrades For Wednesday",
+    "published": 1716363300,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 255.25,
+      "2024-05-22T14:30:00+00:00": 256.69000244140625,
+      "2024-05-22T15:30:00+00:00": 256.3822937011719,
+      "2024-05-22T16:30:00+00:00": 257.1300048828125,
+      "2024-05-22T17:30:00+00:00": 257.0799865722656,
+      "2024-05-22T18:30:00+00:00": 256.2200012207031,
+      "2024-05-22T19:30:00+00:00": 256.2550048828125
+    },
+    "sentiment": 0.866200864315033
   },
   {
-    "title": "WTW appoints Massimo Cavadini as Head of Product, Pricing, Claims and Underwriting for Continental Europe",
-    "published": 1741860180,
-    "posting_price": 321.14001465,
-    "close_price": 319.1000061,
-    "percent_change": -0.6352396
+    "title": "WTW just upgraded at BofA, here's why",
+    "published": 1716354600,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 255.25,
+      "2024-05-22T14:30:00+00:00": 256.69000244140625,
+      "2024-05-22T15:30:00+00:00": 256.3822937011719,
+      "2024-05-22T16:30:00+00:00": 257.1300048828125,
+      "2024-05-22T17:30:00+00:00": 257.0799865722656,
+      "2024-05-22T18:30:00+00:00": 256.2200012207031,
+      "2024-05-22T19:30:00+00:00": 256.2550048828125
+    },
+    "sentiment": 0.8186171054840088
   },
   {
-    "title": "Natural resources industry committed to clean energy strategies despite growing investment in fossil fuels",
-    "published": 1741789200,
-    "posting_price": 326.20001221,
-    "close_price": 321.1000061,
-    "percent_change": -1.56345982
+    "title": "Tracking David Abrams' Abrams Capital Management Portfolio - Q1 2024 Update",
+    "published": 1716274428,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 252.4199981689453,
+      "2024-05-21T14:30:00+00:00": 254.50999450683594,
+      "2024-05-21T15:30:00+00:00": 255.1649932861328,
+      "2024-05-21T16:30:00+00:00": 254.4499969482422,
+      "2024-05-21T17:30:00+00:00": 254.30499267578125,
+      "2024-05-21T18:30:00+00:00": 254.11000061035156,
+      "2024-05-21T19:30:00+00:00": 254.11000061035156
+    },
+    "sentiment": 0.9422289729118347
   },
   {
-    "title": "U.S. commercial insurance rates continue to rise, moderating to 5.6% increase",
-    "published": 1741608000,
-    "posting_price": 330.5,
-    "close_price": 332.0,
-    "percent_change": 0.45385779
-  },
-  {
-    "title": "WTW expands tie-up with KIT and NASA to improve hail risk assessment",
-    "published": 1741362467,
-    "posting_price": 330.45999146,
-    "close_price": 330.89001465,
-    "percent_change": 0.13012867
-  },
-  {
-    "title": "WTW appoints Paul Reilly as Non-Executive Chair of the Board",
-    "published": 1741008600,
-    "posting_price": 340.1000061,
-    "close_price": 340.35998535,
-    "percent_change": 0.076442
-  },
-  {
-    "title": "Threats, political repatriations and kidnap dominate the crisis management landscape, according to Willis",
-    "published": 1740651120,
-    "posting_price": 335.48999023,
-    "close_price": 335.29000854,
-    "percent_change": -0.05960884
-  },
-  {
-    "title": "Willis partners with Crowd Safety to augment support for Crisis Management clients",
-    "published": 1740574800,
-    "posting_price": 332.79000854,
-    "close_price": 336.33999634,
-    "percent_change": 1.06673509
-  },
-  {
-    "title": "Wells Fargo Sticks to Their Buy Rating for Willis Towers Watson (WTW)",
-    "published": 1712814420,
-    "posting_price": 259.54177835,
-    "close_price": 257.93655396,
-    "percent_change": -0.61848401
-  },
-  {
-    "title": "Willis Towers Watson Public : WTW\u2019s Engage platform adds generative AI feature to improve the employee experience",
-    "published": 1712656872,
-    "posting_price": 265.74471438,
-    "close_price": 262.68289185,
-    "percent_change": -1.15216686
-  },
-  {
-    "title": "Verita announces claims leadership team",
-    "published": 1712608800,
-    "posting_price": 267.47879488,
-    "close_price": 264.95205688,
-    "percent_change": -0.94464984
-  },
-  {
-    "title": "WTW announces appointment of Sean Plankey as Global Leader Cybersecurity Software",
-    "published": 1712559600,
-    "posting_price": 267.47879488,
-    "close_price": 264.95205688,
-    "percent_change": -0.94464984
-  },
-  {
-    "title": "WTW to Announce First Quarter Earnings on April 25, 2024",
-    "published": 1712322000,
-    "posting_price": 263.56475585,
-    "close_price": 268.46963501,
-    "percent_change": 1.86097688
-  },
-  {
-    "title": "Global M&A endures headwinds with pickup in first-quarter deal closures",
-    "published": 1712152920,
-    "posting_price": 264.37728688,
-    "close_price": 266.84457397,
-    "percent_change": 0.93324473
-  },
-  {
-    "title": "Willis Towers Watson Public : Global M&A endures headwinds with pick up in first quarter deal closures",
-    "published": 1712138410,
-    "posting_price": 264.37728688,
-    "close_price": 266.84457397,
-    "percent_change": 0.93324473
-  },
-  {
-    "title": "Willis Towers Watson Public Limited Company (NASDAQ:WTW) Q1 2024 Earnings Call Transcript",
-    "published": 1714500238,
-    "posting_price": 248.89972109,
-    "close_price": 248.85017395,
-    "percent_change": -0.01990647
-  },
-  {
-    "title": "Willis Towers Watson Public : Better employee experience proven to deliver superior financial performance",
-    "published": 1714466907,
-    "posting_price": 248.89972109,
-    "close_price": 248.85017395,
-    "percent_change": -0.01990647
-  },
-  {
-    "title": "Analysts Are Bullish on These Financial Stocks: Associated Banc-Corp (ASB), Willis Towers Watson (WTW)",
-    "published": 1714440840,
-    "posting_price": 248.89972109,
-    "close_price": 248.85017395,
-    "percent_change": -0.01990647
-  },
-  {
-    "title": "WTW appoints Alex deLaricheliere to strategic leadership role within Financial Institutions and Professional Services (FIPS)",
-    "published": 1714392000,
-    "posting_price": 248.45383954,
-    "close_price": 250.12841797,
-    "percent_change": 0.67399982
-  },
-  {
-    "title": "WTW and Riskonnect join forces to launch a new Risk Diagnostic Tool",
-    "published": 1714381200,
-    "posting_price": 248.45383954,
-    "close_price": 250.12841797,
-    "percent_change": 0.67399982
-  },
-  {
-    "title": "WTW price target lowered by $3 at Citi, here's why",
-    "published": 1714372440,
-    "posting_price": 248.45383954,
-    "close_price": 250.12841797,
-    "percent_change": 0.67399982
-  },
-  {
-    "title": "Willis Towers Watson First Quarter 2024 Earnings: Misses Expectations",
-    "published": 1714126787,
-    "posting_price": 253.47759961,
-    "close_price": 248.66191101,
-    "percent_change": -1.8998478
-  },
-  {
-    "title": "Stifel Nicolaus Reaffirms Their Hold Rating on Willis Towers Watson (WTW)",
-    "published": 1714114320,
-    "posting_price": 253.47759961,
-    "close_price": 248.66191101,
-    "percent_change": -1.8998478
-  },
-  {
-    "title": "Willis Towers Watson (WTW) Gets a Buy from Piper Sandler",
-    "published": 1714114320,
-    "posting_price": 253.47759961,
-    "close_price": 248.66191101,
-    "percent_change": -1.8998478
-  },
-  {
-    "title": "Willis Towers Watson (WTW) Receives a Rating Update from a Top Analyst",
-    "published": 1714112940,
-    "posting_price": 253.47759961,
-    "close_price": 248.66191101,
-    "percent_change": -1.8998478
-  },
-  {
-    "title": "Decoding Willis Towers Watson PLC (WTW): A Strategic SWOT Insight",
-    "published": 1714108014,
-    "posting_price": 253.47759961,
-    "close_price": 248.66191101,
-    "percent_change": -1.8998478
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Moelis (MC), First Interstate Bancsystem (FIBK) and Willis Towers Watson (WTW)",
-    "published": 1714105620,
-    "posting_price": 253.47759961,
-    "close_price": 248.66191101,
-    "percent_change": -1.8998478
-  },
-  {
-    "title": "Willis Towers Watson Public Limited Company (WTW) Q1 2024 Earnings Call Transcript",
-    "published": 1714058728,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers (WTW) Q1 Earnings Beat, Revenues Rise Y/Y",
-    "published": 1714053600,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers Watson (WTW) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1714051834,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights Marsh & McLennan, Aon, Arthur J. Gallagher, Willis Towers Watson and Brown and Brown",
-    "published": 1714048080,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers Watson PLC (WTW) Q1 2024 Earnings: Adjusted EPS Outperforms Analyst Expectations",
-    "published": 1714044725,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Commit To Purchase Willis Towers Watson Public Co At $165, Earn 0.6% Annualized Using Options",
-    "published": 1714043940,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers Watson: Underperform Rating Due to Organic Growth Shortfall and Unsustainable Margin Improvements",
-    "published": 1714042620,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "WTW Reports First Quarter 2024 Earnings",
-    "published": 1714039200,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "WTW Stock Earnings: Willis Towers Watson Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1714039140,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Insurance broker WTW beats profit estimates on strong demand",
-    "published": 1714029423,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers Watson Public : Q1 2024 Supplemental Slides",
-    "published": 1714027338,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "WTW sees FY24 adjusted EPS $15.40-$17.00, consensus $16.30",
-    "published": 1714021980,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers Watson Prepares for Results Call with New Presentation",
-    "published": 1714021980,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "WTW reports Q1 adjusted EPS $3.29, consensus $3.27",
-    "published": 1714021920,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "Willis Towers Watson reports mixed Q1 results; reaffirms FY24 outlook",
-    "published": 1714021740,
-    "posting_price": 248.91955468,
-    "close_price": 254.57749939,
-    "percent_change": 2.2730013
-  },
-  {
-    "title": "5 Stocks From the Thriving Insurance Brokerage Industry",
-    "published": 1713969660,
-    "posting_price": 259.71026818,
-    "close_price": 262.068573,
-    "percent_change": 0.90805221
-  },
-  {
-    "title": "Willis Towers Watson Q1 2024 Earnings Preview",
-    "published": 1713960060,
-    "posting_price": 259.71026818,
-    "close_price": 262.068573,
-    "percent_change": 0.90805221
-  },
-  {
-    "title": "Artisan International Value Fund Q1 2024 Commentary",
-    "published": 1713958200,
-    "posting_price": 259.71026818,
-    "close_price": 262.068573,
-    "percent_change": 0.90805221
-  },
-  {
-    "title": "Willis Towers Watson PLC stock outperforms competitors on strong trading day",
-    "published": 1713931560,
-    "posting_price": 259.71026818,
-    "close_price": 262.068573,
-    "percent_change": 0.90805221
-  },
-  {
-    "title": "Unveiling Willis Towers Watson (WTW) Q1 Outlook: Wall Street Estimates for Key Metrics",
-    "published": 1713791769,
-    "posting_price": 263.18821867,
-    "close_price": 262.7522583,
-    "percent_change": -0.16564585
-  },
-  {
-    "title": "WTW appoints Lombardo Chair of the Real Estate, Hospitality, and Leisure (REHL) Division, CRB NA",
-    "published": 1713787200,
-    "posting_price": 263.18821867,
-    "close_price": 262.7522583,
-    "percent_change": -0.16564585
-  },
-  {
-    "title": "WTW appoints Danielle Lombardo as chair, REHL division, CRB North America",
-    "published": 1713769620,
-    "posting_price": 263.18821867,
-    "close_price": 262.7522583,
-    "percent_change": -0.16564585
-  },
-  {
-    "title": "Will Willis Towers' (WTW) Beat Streak Continue in Q1 Earnings?",
-    "published": 1713537600,
-    "posting_price": 262.02892753,
-    "close_price": 262.10818481,
-    "percent_change": 0.03024753
-  },
-  {
-    "title": "Aon (AON) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713535227,
-    "posting_price": 262.02892753,
-    "close_price": 262.10818481,
-    "percent_change": 0.03024753
-  },
-  {
-    "title": "Willis Towers Watson (WTW) Reports Next Week: Wall Street Expects Earnings Growth",
-    "published": 1713448919,
-    "posting_price": 259.63097551,
-    "close_price": 260.59213257,
-    "percent_change": 0.37020123
-  },
-  {
-    "title": "Verita launches new Pandemic Protection Package Policy",
-    "published": 1713361800,
-    "posting_price": 254.86482131,
-    "close_price": 256.90603638,
-    "percent_change": 0.80090107
-  },
-  {
-    "title": "Companies enhancing M&A retention strategies, WTW survey finds",
-    "published": 1713278940,
-    "posting_price": 256.19260187,
-    "close_price": 254.84501648,
-    "percent_change": -0.5260048
-  },
-  {
-    "title": "WTW announces appointment of Nick Dussuyer as Head of France and Head of Corporate Risk & Broking France",
-    "published": 1713263760,
-    "posting_price": 256.19260187,
-    "close_price": 254.84501648,
-    "percent_change": -0.5260048
-  },
-  {
-    "title": "Energy market conditions creating \u201cstory of two halves\u201d with widening desirability gulf, according to latest WTW Energy Market Review",
-    "published": 1713260700,
-    "posting_price": 256.19260187,
-    "close_price": 254.84501648,
-    "percent_change": -0.5260048
+    "title": "Tracking Seth Klarman's Baupost Group Holdings - Q1 2024 Update",
+    "published": 1716187573,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 257.6300048828125,
+      "2024-05-20T14:30:00+00:00": 255.25,
+      "2024-05-20T15:30:00+00:00": 255.85009765625,
+      "2024-05-20T16:30:00+00:00": 255.5,
+      "2024-05-20T17:30:00+00:00": 254.9949951171875,
+      "2024-05-20T18:30:00+00:00": 254.28500366210938,
+      "2024-05-20T19:30:00+00:00": 254.08999633789062
+    },
+    "sentiment": 0.9481419324874878
   }
 ]

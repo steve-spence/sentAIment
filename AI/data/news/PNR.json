@@ -1,401 +1,134 @@
 [
   {
-    "title": "Northcoast Research Upgrades Pentair (PNR)",
-    "published": 1713196172,
-    "posting_price": 82.11216473,
-    "close_price": 79.47998047,
-    "percent_change": -3.20559599
+    "title": "Pantoro Director Sells Shares for Tax Liabilities",
+    "published": 1715053080,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 82.58999633789062,
+      "2024-05-07T14:30:00+00:00": 82.69999694824219,
+      "2024-05-07T15:30:00+00:00": 82.91999816894531,
+      "2024-05-07T16:30:00+00:00": 83.0,
+      "2024-05-07T17:30:00+00:00": 82.98999786376953,
+      "2024-05-07T18:30:00+00:00": 82.75499725341797,
+      "2024-05-07T19:30:00+00:00": 82.69000244140625
+    },
+    "sentiment": 0.9444859623908997
   },
   {
-    "title": "Analyst Scoreboard: 14 Ratings For Pentair",
-    "published": 1713171780,
-    "posting_price": 82.11216473,
-    "close_price": 79.47998047,
-    "percent_change": -3.20559599
+    "title": "Pentair: Good Growth Prospects, Conservative Margin Guidance",
+    "published": 1715007448,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 80.58999633789062,
+      "2024-05-06T14:30:00+00:00": 80.93000030517578,
+      "2024-05-06T15:30:00+00:00": 80.99500274658203,
+      "2024-05-06T16:30:00+00:00": 81.05999755859375,
+      "2024-05-06T17:30:00+00:00": 81.12529754638672,
+      "2024-05-06T18:30:00+00:00": 81.4000015258789,
+      "2024-05-06T19:30:00+00:00": 81.25499725341797
+    },
+    "sentiment": 0.9422314167022705
   },
   {
-    "title": "Pantoro Limited\u2019s Strong Quarterly Gold Production",
-    "published": 1713161340,
-    "posting_price": 82.11216473,
-    "close_price": 79.47998047,
-    "percent_change": -3.20559599
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Trex Company (TREX), ST Engineering (OtherSGGKF) and Pentair (PNR)",
+    "published": 1715667060,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 83.05000305175781,
+      "2024-05-14T14:30:00+00:00": 82.93000030517578,
+      "2024-05-14T15:30:00+00:00": 82.7300033569336,
+      "2024-05-14T16:30:00+00:00": 82.7699966430664,
+      "2024-05-14T17:30:00+00:00": 82.79000091552734,
+      "2024-05-14T18:30:00+00:00": 82.92500305175781,
+      "2024-05-14T19:30:00+00:00": 82.99500274658203
+    },
+    "sentiment": 0.9079329967498779
   },
   {
-    "title": "Northcoast gets more bullish on Pentair, upgrades shares",
-    "published": 1713160440,
-    "posting_price": 82.11216473,
-    "close_price": 79.47998047,
-    "percent_change": -3.20559599
+    "title": "Pantoro Limited Plans New Securities Issue",
+    "published": 1715584080,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 83.55000305175781,
+      "2024-05-13T14:30:00+00:00": 83.30000305175781,
+      "2024-05-13T15:30:00+00:00": 82.7300033569336,
+      "2024-05-13T16:30:00+00:00": 82.76499938964844,
+      "2024-05-13T17:30:00+00:00": 82.48999786376953,
+      "2024-05-13T18:30:00+00:00": 82.48999786376953,
+      "2024-05-13T19:30:00+00:00": 82.56749725341797
+    },
+    "sentiment": 0.9521738886833191
   },
   {
-    "title": "Pentair PLC stock underperforms Friday when compared to competitors",
-    "published": 1712895660,
-    "posting_price": 79.96484785,
-    "close_price": 80.2518158,
-    "percent_change": 0.35886762
+    "title": "Pantoro Limited Announces Trading Halt",
+    "published": 1715237820,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 83.37000274658203,
+      "2024-05-09T14:30:00+00:00": 83.52999877929688,
+      "2024-05-09T15:30:00+00:00": 83.41999816894531,
+      "2024-05-09T16:30:00+00:00": 83.5250015258789,
+      "2024-05-09T17:30:00+00:00": 83.69000244140625,
+      "2024-05-09T18:30:00+00:00": 83.62000274658203,
+      "2024-05-09T19:30:00+00:00": 83.92500305175781
+    },
+    "sentiment": 0.9074726104736328
   },
   {
-    "title": "Pentair to Release First Quarter 2024 Earnings and Host Investor Conference Call on April 23",
-    "published": 1712660100,
-    "posting_price": 83.02253153,
-    "close_price": 82.84441376,
-    "percent_change": -0.21454148
+    "title": "Pantoro Limited Calls Shareholders for General Meeting",
+    "published": 1716443280,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 84.33000183105469,
+      "2024-05-23T14:30:00+00:00": 82.9000015258789,
+      "2024-05-23T15:30:00+00:00": 83.13999938964844,
+      "2024-05-23T16:30:00+00:00": 83.28500366210938,
+      "2024-05-23T17:30:00+00:00": 83.04000091552734,
+      "2024-05-23T18:30:00+00:00": 82.7300033569336,
+      "2024-05-23T19:30:00+00:00": 82.62999725341797
+    },
+    "sentiment": 0.9461071491241455
   },
   {
-    "title": "Pentair price target raised by $16 at Citi, here's why",
-    "published": 1712557980,
-    "posting_price": 83.38866444,
-    "close_price": 82.43870544,
-    "percent_change": -1.13919441
+    "title": "Making an Impact: Carbon Footprint Reduction",
+    "published": 1716413707,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 84.27999877929688,
+      "2024-05-22T14:30:00+00:00": 84.08000183105469,
+      "2024-05-22T15:30:00+00:00": 84.22000122070312,
+      "2024-05-22T16:30:00+00:00": 84.38500213623047,
+      "2024-05-22T17:30:00+00:00": 84.2249984741211,
+      "2024-05-22T18:30:00+00:00": 83.4800033569336,
+      "2024-05-22T19:30:00+00:00": 83.7699966430664
+    },
+    "sentiment": 0.9221821427345276
   },
   {
-    "title": "Pentair PLC stock underperforms Monday when compared to competitors",
-    "published": 1712549940,
-    "posting_price": 83.38866444,
-    "close_price": 82.43870544,
-    "percent_change": -1.13919441
+    "title": "Pantoro Limited Outlines Company Prospects",
+    "published": 1716271140,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 84.55000305175781,
+      "2024-05-21T14:30:00+00:00": 84.62999725341797,
+      "2024-05-21T15:30:00+00:00": 84.62999725341797,
+      "2024-05-21T16:30:00+00:00": 84.55000305175781,
+      "2024-05-21T17:30:00+00:00": 84.43499755859375,
+      "2024-05-21T18:30:00+00:00": 84.40499877929688,
+      "2024-05-21T19:30:00+00:00": 84.22000122070312
+    },
+    "sentiment": 0.9429558515548706
   },
   {
-    "title": "Is Now An Opportune Moment To Examine Pentair plc (NYSE:PNR)?",
-    "published": 1712412629,
-    "posting_price": 83.38865672,
-    "close_price": 82.43869781,
-    "percent_change": -1.1391944
+    "title": "Pentair Pool Announces Partnership of the 2026 Special Olympics USA Games",
+    "published": 1716202651,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 84.16000366210938,
+      "2024-05-20T14:30:00+00:00": 84.72000122070312,
+      "2024-05-20T15:30:00+00:00": 84.80999755859375,
+      "2024-05-20T16:30:00+00:00": 84.8499984741211,
+      "2024-05-20T17:30:00+00:00": 84.62999725341797,
+      "2024-05-20T18:30:00+00:00": 84.72000122070312,
+      "2024-05-20T19:30:00+00:00": 84.66000366210938
+    },
+    "sentiment": 0.8230241537094116
   },
   {
-    "title": "Here's Why Pentair plc (PNR) is a Great Momentum Stock to Buy",
-    "published": 1712246409,
-    "posting_price": 83.41834845,
-    "close_price": 81.93403625,
-    "percent_change": -1.77935937
-  },
-  {
-    "title": "Pentair price target raised by $14 at RBC Capital, here's why",
-    "published": 1712205660,
-    "posting_price": 83.41834845,
-    "close_price": 81.93403625,
-    "percent_change": -1.77935937
-  },
-  {
-    "title": "Pentair PLC stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1712118120,
-    "posting_price": 81.93404183,
-    "close_price": 82.58713531,
-    "percent_change": 0.79709662
-  },
-  {
-    "title": "Pentair price target raised by $2 at Barclays, here's why",
-    "published": 1712031780,
-    "posting_price": 83.12149188,
-    "close_price": 82.36943817,
-    "percent_change": -0.90476445
-  },
-  {
-    "title": "Barclays Keeps Their Buy Rating on Pentair (PNR)",
-    "published": 1712025480,
-    "posting_price": 83.12149188,
-    "close_price": 82.36943817,
-    "percent_change": -0.90476445
-  },
-  {
-    "title": "Pantoro Limited Plans Major Securities Issue",
-    "published": 1714360680,
-    "posting_price": 79.41378994,
-    "close_price": 79.93978119,
-    "percent_change": 0.66234246
-  },
-  {
-    "title": "Pantoro Limited Announces Crucial General Meeting",
-    "published": 1714358280,
-    "posting_price": 79.41378994,
-    "close_price": 79.93978119,
-    "percent_change": 0.66234246
-  },
-  {
-    "title": "Decoding Pentair PLC (PNR): A Strategic SWOT Insight",
-    "published": 1714108138,
-    "posting_price": 78.79848527,
-    "close_price": 79.35424042,
-    "percent_change": 0.70528659
-  },
-  {
-    "title": "Pentair Poised for Positive Performance: Linzey Affirms Buy Rating Amid Strong Q1 and Strategic Growth Initiatives",
-    "published": 1714094040,
-    "posting_price": 78.79848527,
-    "close_price": 79.35424042,
-    "percent_change": 0.70528659
-  },
-  {
-    "title": "Pentair First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags",
-    "published": 1714046268,
-    "posting_price": 77.47856178,
-    "close_price": 78.59999847,
-    "percent_change": 1.44741547
-  },
-  {
-    "title": "Pentair plc (NYSE:PNR) Q1 2024 Earnings Call Transcript",
-    "published": 1713971179,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: JetBlue Airways (JBLU), Boeing (BA) and Pentair (PNR)",
-    "published": 1713947460,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair price target lowered by $3 at Deutsche Bank, here's why",
-    "published": 1713946140,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair price target raised by $2 at RBC Capital, here's why",
-    "published": 1713946020,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair price target raised by $11 at Oppenheimer, here's why",
-    "published": 1713941640,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: United Parcel (UPS) and Pentair (PNR)",
-    "published": 1713941460,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair price target raised by $5 at TD Cowen, here's why",
-    "published": 1713940200,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair (PNR) Receives a Buy from RBC Capital",
-    "published": 1713937680,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair: Hold Rating Affirmed Amid Market Pressures and Conservative Outlook",
-    "published": 1713933540,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair price target raised by $3 at Barclays, here's why",
-    "published": 1713933120,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: United Parcel (UPS) and Pentair (PNR)",
-    "published": 1713930720,
-    "posting_price": 78.3320509,
-    "close_price": 78.39159393,
-    "percent_change": 0.07601362
-  },
-  {
-    "title": "Pentair : First Quarter 2024 Q1 2024 Earnings Transcript",
-    "published": 1713906727,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair (PNR) Earnings Beat Estimates in Q1, Increase Y/Y",
-    "published": 1713890520,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair plc (PNR) Q1 2024 Earnings Call Transcript",
-    "published": 1713884729,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair (PNR) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1713879028,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair plc (PNR) Q1 Earnings and Revenues Surpass Estimates",
-    "published": 1713873905,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "UK's Pentair beats first-quarter profit estimates on price hikes",
-    "published": 1713873693,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "PNR Stock Earnings: Pentair Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713870000,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair Reports Strong First Quarter 2024 Results",
-    "published": 1713869700,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair's Q1 Performance: Margins Surge Despite Revenue Dip, CEO Confident In Future Growth",
-    "published": 1713869280,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Goldman Sachs Sticks to Its Hold Rating for Pentair (PNR)",
-    "published": 1713861960,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair : First Quarter 2024 Q1 2024 Earnings Presentation",
-    "published": 1713856270,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair : Investor Overview",
-    "published": 1713856149,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair : Q1 2024 Pentair plc Earnings Conference Call",
-    "published": 1713856149,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair reports mixed Q1 results; initiates Q2 and updates FY24 outlook",
-    "published": 1713852120,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair sees Q2 adjusted EPS $1.15-$1.17, consensus $1.16",
-    "published": 1713852000,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair still sees 2024 adjusted EPS $4.15-$4.25, consensus $4.20",
-    "published": 1713851940,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Pentair reports Q1 adjusted EPS 94c, consensus 90c",
-    "published": 1713851820,
-    "posting_price": 80.09857016,
-    "close_price": 77.87554169,
-    "percent_change": -2.77536598
-  },
-  {
-    "title": "Those who invested in Pentair (NYSE:PNR) five years ago are up 119%",
-    "published": 1713792054,
-    "posting_price": 78.24272513,
-    "close_price": 78.59999847,
-    "percent_change": 0.4566218
-  },
-  {
-    "title": "Unveiling Pentair (PNR) Q1 Outlook: Wall Street Estimates for Key Metrics",
-    "published": 1713791765,
-    "posting_price": 78.24272513,
-    "close_price": 78.59999847,
-    "percent_change": 0.4566218
-  },
-  {
-    "title": "Pentair Q1 2024 Earnings Preview",
-    "published": 1713756780,
-    "posting_price": 78.24272513,
-    "close_price": 78.59999847,
-    "percent_change": 0.4566218
-  },
-  {
-    "title": "Making Better Essential: Pentair Releases 2023 Corporate Responsibility Report Featuring Its Progress in Advancing Sustainability",
-    "published": 1713455100,
-    "posting_price": 78.86795781,
-    "close_price": 77.8854599,
-    "percent_change": -1.24575041
-  },
-  {
-    "title": "June 21st Options Now Available For Pentair (PNR)",
-    "published": 1713433980,
-    "posting_price": 78.86795781,
-    "close_price": 77.8854599,
-    "percent_change": -1.24575041
-  },
-  {
-    "title": "Pentair (PNR) to Report Q1 Earnings: What's in the Cards?",
-    "published": 1713369960,
-    "posting_price": 79.76693511,
-    "close_price": 78.35189056,
-    "percent_change": -1.77397383
-  },
-  {
-    "title": "Pentair PLC's Dividend Analysis",
-    "published": 1713351875,
-    "posting_price": 79.76693511,
-    "close_price": 78.35189056,
-    "percent_change": -1.77397383
-  },
-  {
-    "title": "Earnings Preview: Pentair plc (PNR) Q1 Earnings Expected to Decline",
-    "published": 1713276047,
-    "posting_price": 79.28205904,
-    "close_price": 79.21279144,
-    "percent_change": -0.08736857
-  },
-  {
-    "title": "Ex-Dividend Reminder: Pentair, Costamare and WD-40",
-    "published": 1713257820,
-    "posting_price": 79.28205904,
-    "close_price": 79.21279144,
-    "percent_change": -0.08736857
-  },
-  {
-    "title": "Pantoro Limited Issues Cautionary Overview",
-    "published": 1713249480,
-    "posting_price": 79.28205904,
-    "close_price": 79.21279144,
-    "percent_change": -0.08736857
+    "title": "Pantoro Limited Expands Market Presence",
+    "published": 1716104880,
+    "day_prices": {},
+    "sentiment": 0.9021385908126831
   }
 ]

@@ -1,387 +1,358 @@
 [
   {
-    "title": "Early notable gainers among liquid option names on April 15th",
-    "published": 1713171360,
-    "posting_price": 73.13723275,
-    "close_price": 71.51958466,
-    "percent_change": -2.21179833
+    "title": "NRG Energy, Inc. (NRG) Q1 2024 Earnings Call Transcript",
+    "published": 1715085126,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 77.8499984741211,
+      "2024-05-07T14:30:00+00:00": 81.86499786376953,
+      "2024-05-07T15:30:00+00:00": 80.18009948730469,
+      "2024-05-07T16:30:00+00:00": 77.16000366210938,
+      "2024-05-07T17:30:00+00:00": 75.07499694824219,
+      "2024-05-07T18:30:00+00:00": 73.24109649658203,
+      "2024-05-07T19:30:00+00:00": 73.68000030517578
+    },
+    "sentiment": 0.9155479073524475
   },
   {
-    "title": "NRG Energy (NRG) Receives a Buy from Seaport Global",
-    "published": 1713166560,
-    "posting_price": 73.13723275,
-    "close_price": 71.51958466,
-    "percent_change": -2.21179833
+    "title": "NRG Stock Earnings: NRG Energy Beats EPS, Misses Revenue for Q1 2024",
+    "published": 1715083020,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 77.8499984741211,
+      "2024-05-07T14:30:00+00:00": 81.86499786376953,
+      "2024-05-07T15:30:00+00:00": 80.18009948730469,
+      "2024-05-07T16:30:00+00:00": 77.16000366210938,
+      "2024-05-07T17:30:00+00:00": 75.07499694824219,
+      "2024-05-07T18:30:00+00:00": 73.24109649658203,
+      "2024-05-07T19:30:00+00:00": 73.68000030517578
+    },
+    "sentiment": 0.6016886234283447
   },
   {
-    "title": "Analyst Favorites With Strong Buyback Activity: NRG Energy Ranks As a Top Pick",
-    "published": 1712924220,
-    "posting_price": 72.86272179,
-    "close_price": 72.48036957,
-    "percent_change": -0.52475698
+    "title": "QMOM: Research-Based Momentum ETF",
+    "published": 1715077459,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 77.8499984741211,
+      "2024-05-07T14:30:00+00:00": 81.86499786376953,
+      "2024-05-07T15:30:00+00:00": 80.18009948730469,
+      "2024-05-07T16:30:00+00:00": 77.16000366210938,
+      "2024-05-07T17:30:00+00:00": 75.07499694824219,
+      "2024-05-07T18:30:00+00:00": 73.24109649658203,
+      "2024-05-07T19:30:00+00:00": 73.68000030517578
+    },
+    "sentiment": 0.9075115919113159
   },
   {
-    "title": "Duke Energy least shorted utility stock in March",
-    "published": 1712921580,
-    "posting_price": 72.86272179,
-    "close_price": 72.48036957,
-    "percent_change": -0.52475698
+    "title": "NRG Energy : First Quarter 2024 Earnings Presentation",
+    "published": 1715068270,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 77.8499984741211,
+      "2024-05-07T14:30:00+00:00": 81.86499786376953,
+      "2024-05-07T15:30:00+00:00": 80.18009948730469,
+      "2024-05-07T16:30:00+00:00": 77.16000366210938,
+      "2024-05-07T17:30:00+00:00": 75.07499694824219,
+      "2024-05-07T18:30:00+00:00": 73.24109649658203,
+      "2024-05-07T19:30:00+00:00": 73.68000030517578
+    },
+    "sentiment": 0.917084813117981
   },
   {
-    "title": "SPY ETF Update, 4/12/2024",
-    "published": 1712896500,
-    "posting_price": 72.86272179,
-    "close_price": 72.48036957,
-    "percent_change": -0.52475698
+    "title": "NRG Energy : Reports First Quarter Results and Reaffirms 2024 Financial Guidance - Form 8-K",
+    "published": 1715066017,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 77.8499984741211,
+      "2024-05-07T14:30:00+00:00": 81.86499786376953,
+      "2024-05-07T15:30:00+00:00": 80.18009948730469,
+      "2024-05-07T16:30:00+00:00": 77.16000366210938,
+      "2024-05-07T17:30:00+00:00": 75.07499694824219,
+      "2024-05-07T18:30:00+00:00": 73.24109649658203,
+      "2024-05-07T19:30:00+00:00": 73.68000030517578
+    },
+    "sentiment": 0.882572591304779
   },
   {
-    "title": "NRG Energy Inc. stock underperforms Friday when compared to competitors",
-    "published": 1712895660,
-    "posting_price": 72.86272179,
-    "close_price": 72.48036957,
-    "percent_change": -0.52475698
+    "title": "NRG Energy Q1 2024 Earnings Preview",
+    "published": 1714992000,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 77.7699966430664,
+      "2024-05-06T14:30:00+00:00": 77.76000213623047,
+      "2024-05-06T15:30:00+00:00": 78.18000030517578,
+      "2024-05-06T16:30:00+00:00": 78.25800323486328,
+      "2024-05-06T17:30:00+00:00": 77.83999633789062,
+      "2024-05-06T18:30:00+00:00": 77.95999908447266,
+      "2024-05-06T19:30:00+00:00": 78.0999984741211
+    },
+    "sentiment": 0.9115972518920898
   },
   {
-    "title": "Magnificent Misfits: 3 Non-Tech Stocks to Outshine the FAANG Gang in 2024",
-    "published": 1712839620,
-    "posting_price": 72.23527343,
-    "close_price": 73.12742615,
-    "percent_change": 1.23506519
+    "title": "NRG Energy (NRG) to Report Q1 Earnings: What's in Store?",
+    "published": 1714736580,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.5,
+      "2024-05-03T14:30:00+00:00": 76.72000122070312,
+      "2024-05-03T15:30:00+00:00": 76.73999786376953,
+      "2024-05-03T16:30:00+00:00": 77.0,
+      "2024-05-03T17:30:00+00:00": 77.3499984741211,
+      "2024-05-03T18:30:00+00:00": 77.38500213623047,
+      "2024-05-03T19:30:00+00:00": 76.97000122070312
+    },
+    "sentiment": 0.9111894965171814
   },
   {
-    "title": "Cheat Sheet: Those Other AI Beneficiaries",
-    "published": 1712836980,
-    "posting_price": 72.23527343,
-    "close_price": 73.12742615,
-    "percent_change": 1.23506519
+    "title": "Pinnacle West (PNW) Q1 Earnings & Sales Surpass Estimates",
+    "published": 1714658640,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 74.30000305175781,
+      "2024-05-02T14:30:00+00:00": 74.54000091552734,
+      "2024-05-02T15:30:00+00:00": 74.77999877929688,
+      "2024-05-02T16:30:00+00:00": 74.96099853515625,
+      "2024-05-02T17:30:00+00:00": 75.4800033569336,
+      "2024-05-02T18:30:00+00:00": 75.42859649658203,
+      "2024-05-02T19:30:00+00:00": 75.37999725341797
+    },
+    "sentiment": 0.8202346563339233
   },
   {
-    "title": "Electrical Utilities: AI Power Play",
-    "published": 1712833620,
-    "posting_price": 72.23527343,
-    "close_price": 73.12742615,
-    "percent_change": 1.23506519
+    "title": "Keeley Teton's Mid Cap Dividend Value Fund 1st-Quarter Commentary: A Recap",
+    "published": 1714616220,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 74.30000305175781,
+      "2024-05-02T14:30:00+00:00": 74.54000091552734,
+      "2024-05-02T15:30:00+00:00": 74.77999877929688,
+      "2024-05-02T16:30:00+00:00": 74.96099853515625,
+      "2024-05-02T17:30:00+00:00": 75.4800033569336,
+      "2024-05-02T18:30:00+00:00": 75.42859649658203,
+      "2024-05-02T19:30:00+00:00": 75.37999725341797
+    },
+    "sentiment": 0.9351550340652466
   },
   {
-    "title": "NRG Energy Inc (NRG)'s Uncertain Future: Understanding the Barriers to Outperformance",
-    "published": 1712829780,
-    "posting_price": 72.23527343,
-    "close_price": 73.12742615,
-    "percent_change": 1.23506519
+    "title": "Spotlighting Impact",
+    "published": 1715782500,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 83.01000213623047,
+      "2024-05-15T14:30:00+00:00": 85.97000122070312,
+      "2024-05-15T15:30:00+00:00": 84.55500030517578,
+      "2024-05-15T16:30:00+00:00": 83.44000244140625,
+      "2024-05-15T17:30:00+00:00": 83.77999877929688,
+      "2024-05-15T18:30:00+00:00": 84.05000305175781,
+      "2024-05-15T19:30:00+00:00": 84.22000122070312
+    },
+    "sentiment": 0.9152542352676392
   },
   {
-    "title": "NRG Energy Now #404 Largest Company, Surpassing Everest Group",
-    "published": 1712806620,
-    "posting_price": 72.23527343,
-    "close_price": 73.12742615,
-    "percent_change": 1.23506519
+    "title": "5 Utility Stocks at the Forefront of the Recent Rally",
+    "published": 1715609760,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 84.08999633789062,
+      "2024-05-13T14:30:00+00:00": 82.88999938964844,
+      "2024-05-13T15:30:00+00:00": 82.94999694824219,
+      "2024-05-13T16:30:00+00:00": 83.01000213623047,
+      "2024-05-13T17:30:00+00:00": 82.88999938964844,
+      "2024-05-13T18:30:00+00:00": 82.6500015258789,
+      "2024-05-13T19:30:00+00:00": 82.8550033569336
+    },
+    "sentiment": 0.7408493757247925
   },
   {
-    "title": "Powering Success: Explore How NRG's Unique Company Culture Drives Innovation",
-    "published": 1712755800,
-    "posting_price": 70.52938769,
-    "close_price": 71.74507141,
-    "percent_change": 1.72365557
+    "title": "Clearway Energy: Q1 Earnings Snapshot",
+    "published": 1715236260,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 75.97000122070312,
+      "2024-05-09T14:30:00+00:00": 80.04000091552734,
+      "2024-05-09T15:30:00+00:00": 81.5250015258789,
+      "2024-05-09T16:30:00+00:00": 82.21499633789062,
+      "2024-05-09T17:30:00+00:00": 81.78160095214844,
+      "2024-05-09T18:30:00+00:00": 81.45999908447266,
+      "2024-05-09T19:30:00+00:00": 81.11000061035156
+    },
+    "sentiment": 0.5230478048324585
   },
   {
-    "title": "Video: Wednesday's ETF Movers: QVML, KRE",
-    "published": 1712750700,
-    "posting_price": 70.52938769,
-    "close_price": 71.74507141,
-    "percent_change": 1.72365557
+    "title": "Thursday Sector Leaders: Utilities, Services",
+    "published": 1715218500,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 75.97000122070312,
+      "2024-05-09T14:30:00+00:00": 80.04000091552734,
+      "2024-05-09T15:30:00+00:00": 81.5250015258789,
+      "2024-05-09T16:30:00+00:00": 82.21499633789062,
+      "2024-05-09T17:30:00+00:00": 81.78160095214844,
+      "2024-05-09T18:30:00+00:00": 81.45999908447266,
+      "2024-05-09T19:30:00+00:00": 81.11000061035156
+    },
+    "sentiment": 0.8974102735519409
   },
   {
-    "title": "NRG Energy management to meet virtually with Seaport Research",
-    "published": 1712741100,
-    "posting_price": 70.52938769,
-    "close_price": 71.74507141,
-    "percent_change": 1.72365557
+    "title": "These stocks were making big moves on Thursday",
+    "published": 1715213893,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 75.97000122070312,
+      "2024-05-09T14:30:00+00:00": 80.04000091552734,
+      "2024-05-09T15:30:00+00:00": 81.5250015258789,
+      "2024-05-09T16:30:00+00:00": 82.21499633789062,
+      "2024-05-09T17:30:00+00:00": 81.78160095214844,
+      "2024-05-09T18:30:00+00:00": 81.45999908447266,
+      "2024-05-09T19:30:00+00:00": 81.11000061035156
+    },
+    "sentiment": 0.5563246607780457
   },
   {
-    "title": "3 Energy Stocks Stand Among S&P 500's Top 10 Performers In 2024 As Oil Prices Reach $90",
-    "published": 1712632860,
-    "posting_price": 72.73527897,
-    "close_price": 71.34311676,
-    "percent_change": -1.91401233
+    "title": "NRG Energy, Inc. (NYSE:NRG) Q1 2024 Earnings Call Transcript",
+    "published": 1715191287,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 74.08000183105469,
+      "2024-05-08T14:30:00+00:00": 76.68000030517578,
+      "2024-05-08T15:30:00+00:00": 76.23999786376953,
+      "2024-05-08T16:30:00+00:00": 75.12999725341797,
+      "2024-05-08T17:30:00+00:00": 75.63999938964844,
+      "2024-05-08T18:30:00+00:00": 75.87000274658203,
+      "2024-05-08T19:30:00+00:00": 76.36000061035156
+    },
+    "sentiment": 0.9219138026237488
   },
   {
-    "title": "Nuclear Reactors to the Rescue: 3 Atomic Stocks to Power the AI Boom",
-    "published": 1712628360,
-    "posting_price": 72.73527897,
-    "close_price": 71.34311676,
-    "percent_change": -1.91401233
+    "title": "Can NRG Energy, Inc.'s (NYSE:NRG) ROE Continue To Surpass The Industry Average?",
+    "published": 1715163275,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 74.08000183105469,
+      "2024-05-08T14:30:00+00:00": 76.68000030517578,
+      "2024-05-08T15:30:00+00:00": 76.23999786376953,
+      "2024-05-08T16:30:00+00:00": 75.12999725341797,
+      "2024-05-08T17:30:00+00:00": 75.63999938964844,
+      "2024-05-08T18:30:00+00:00": 75.87000274658203,
+      "2024-05-08T19:30:00+00:00": 76.36000061035156
+    },
+    "sentiment": 0.8834714889526367
   },
   {
-    "title": "NRG Energy Inc. stock outperforms competitors on strong trading day",
-    "published": 1712549940,
-    "posting_price": 70.88233791,
-    "close_price": 72.3627243,
-    "percent_change": 2.08851236
+    "title": "NRG Energy price target raised by $9 at BMO Capital, here's why",
+    "published": 1715155200,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 74.08000183105469,
+      "2024-05-08T14:30:00+00:00": 76.68000030517578,
+      "2024-05-08T15:30:00+00:00": 76.23999786376953,
+      "2024-05-08T16:30:00+00:00": 75.12999725341797,
+      "2024-05-08T17:30:00+00:00": 75.63999938964844,
+      "2024-05-08T18:30:00+00:00": 75.87000274658203,
+      "2024-05-08T19:30:00+00:00": 76.36000061035156
+    },
+    "sentiment": 0.7581294178962708
   },
   {
-    "title": "The biggest S&P stocks have to do the heavy earnings lifting (again) - Goldman",
-    "published": 1712484600,
-    "posting_price": 70.88233791,
-    "close_price": 72.3627243,
-    "percent_change": 2.08851236
+    "title": "NRG Energy: Balancing Solid Performance with Market Uncertainties \u2013 A Hold Recommendation",
+    "published": 1715149260,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 74.08000183105469,
+      "2024-05-08T14:30:00+00:00": 76.68000030517578,
+      "2024-05-08T15:30:00+00:00": 76.23999786376953,
+      "2024-05-08T16:30:00+00:00": 75.12999725341797,
+      "2024-05-08T17:30:00+00:00": 75.63999938964844,
+      "2024-05-08T18:30:00+00:00": 75.87000274658203,
+      "2024-05-08T19:30:00+00:00": 76.36000061035156
+    },
+    "sentiment": 0.9146835803985596
   },
   {
-    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
-    "published": 1712395800,
-    "posting_price": 70.88233791,
-    "close_price": 72.3627243,
-    "percent_change": 2.08851236
+    "title": "Strong Start and Strategic Initiatives Underpin Buy Rating for NRG Energy",
+    "published": 1715144160,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 74.08000183105469,
+      "2024-05-08T14:30:00+00:00": 76.68000030517578,
+      "2024-05-08T15:30:00+00:00": 76.23999786376953,
+      "2024-05-08T16:30:00+00:00": 75.12999725341797,
+      "2024-05-08T17:30:00+00:00": 75.63999938964844,
+      "2024-05-08T18:30:00+00:00": 75.87000274658203,
+      "2024-05-08T19:30:00+00:00": 76.36000061035156
+    },
+    "sentiment": 0.944619357585907
   },
   {
-    "title": "Buy-rated and sell-rated stocks within the Utilities sector - Citi",
-    "published": 1712320500,
-    "posting_price": 69.60782635,
-    "close_price": 71.34311676,
-    "percent_change": 2.49295302
+    "title": "Wednesday Sector Leaders: Utilities, Industrial",
+    "published": 1715132520,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 74.08000183105469,
+      "2024-05-08T14:30:00+00:00": 76.68000030517578,
+      "2024-05-08T15:30:00+00:00": 76.23999786376953,
+      "2024-05-08T16:30:00+00:00": 75.12999725341797,
+      "2024-05-08T17:30:00+00:00": 75.63999938964844,
+      "2024-05-08T18:30:00+00:00": 75.87000274658203,
+      "2024-05-08T19:30:00+00:00": 76.36000061035156
+    },
+    "sentiment": 0.9103649854660034
   },
   {
-    "title": "Top 3 Utilities Stocks That May Collapse in April",
-    "published": 1712302740,
-    "posting_price": 69.60782635,
-    "close_price": 71.34311676,
-    "percent_change": 2.49295302
+    "title": "Parallel Universes? AI, Energy And Chips",
+    "published": 1716301593,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 81.29000091552734,
+      "2024-05-21T14:30:00+00:00": 82.19000244140625,
+      "2024-05-21T15:30:00+00:00": 82.08999633789062,
+      "2024-05-21T16:30:00+00:00": 81.98999786376953,
+      "2024-05-21T17:30:00+00:00": 82.37999725341797,
+      "2024-05-21T18:30:00+00:00": 82.1353988647461,
+      "2024-05-21T19:30:00+00:00": 82.4800033569336
+    },
+    "sentiment": 0.9234459400177002
   },
   {
-    "title": "Newrange Gold Transforms into Pinnacle Silver and Gold",
-    "published": 1712302680,
-    "posting_price": 69.60782635,
-    "close_price": 71.34311676,
-    "percent_change": 2.49295302
+    "title": "Parallel Universes? AI, Energy, And Chips",
+    "published": 1716256440,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 81.29000091552734,
+      "2024-05-21T14:30:00+00:00": 82.19000244140625,
+      "2024-05-21T15:30:00+00:00": 82.08999633789062,
+      "2024-05-21T16:30:00+00:00": 81.98999786376953,
+      "2024-05-21T17:30:00+00:00": 82.37999725341797,
+      "2024-05-21T18:30:00+00:00": 82.1353988647461,
+      "2024-05-21T19:30:00+00:00": 82.4800033569336
+    },
+    "sentiment": 0.9170815348625183
   },
   {
-    "title": "Gold Shines Above $2,300, Ends Another Week At Record High: Mining Stocks Rally To 11-Month Peak",
-    "published": 1712287200,
-    "posting_price": 69.60782635,
-    "close_price": 71.34311676,
-    "percent_change": 2.49295302
+    "title": "Activist Investor Elliott Acquires Major Stake In Johnson Controls: Report",
+    "published": 1716182940,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 82.73999786376953,
+      "2024-05-20T14:30:00+00:00": 82.12000274658203,
+      "2024-05-20T15:30:00+00:00": 82.0199966430664,
+      "2024-05-20T16:30:00+00:00": 81.22000122070312,
+      "2024-05-20T17:30:00+00:00": 81.51499938964844,
+      "2024-05-20T18:30:00+00:00": 81.44000244140625,
+      "2024-05-20T19:30:00+00:00": 81.44000244140625
+    },
+    "sentiment": 0.9230570793151855
   },
   {
-    "title": "NRG Receives A- Scores in Climate Change and Water Security from CDP",
-    "published": 1712249100,
-    "posting_price": 71.00978675,
-    "close_price": 69.31370544,
-    "percent_change": -2.38851768
+    "title": "Utility stocks an AI play? Up 8% in May alone, third-best S&P sector performer YTD",
+    "published": 1716004260,
+    "day_prices": {},
+    "sentiment": 0.9456485509872437
   },
   {
-    "title": "11 Value Stocks Are Dirt Cheap \u2014 But Won't Stay That Way For Long",
-    "published": 1712232034,
-    "posting_price": 71.00978675,
-    "close_price": 69.31370544,
-    "percent_change": -2.38851768
+    "title": "NRG Energy: Fundamentals Remain Strong, Staying With The Buy Rating Despite Recent Rally",
+    "published": 1715854345,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 85.0,
+      "2024-05-16T14:30:00+00:00": 84.87000274658203,
+      "2024-05-16T15:30:00+00:00": 85.31999969482422,
+      "2024-05-16T16:30:00+00:00": 84.83000183105469,
+      "2024-05-16T17:30:00+00:00": 84.80000305175781,
+      "2024-05-16T18:30:00+00:00": 83.9000015258789,
+      "2024-05-16T19:30:00+00:00": 83.7699966430664
+    },
+    "sentiment": 0.954597532749176
   },
   {
-    "title": "Markets broaden out as all-time highs are seen across ALL, CAT, DELL, RJF, and more",
-    "published": 1712231700,
-    "posting_price": 71.00978675,
-    "close_price": 69.31370544,
-    "percent_change": -2.38851768
-  },
-  {
-    "title": "NRG Energy, Inc. Announces Repurchases with Holders of 2.75% Convertible Senior Notes due 2048",
-    "published": 1712147400,
-    "posting_price": 67.81371292,
-    "close_price": 70.59803009,
-    "percent_change": 4.10583207
-  },
-  {
-    "title": "Early notable gainers among liquid option names on April 3rd",
-    "published": 1712134560,
-    "posting_price": 67.81371292,
-    "close_price": 70.59803009,
-    "percent_change": 4.10583207
-  },
-  {
-    "title": "NRG Energy to buy back ~$251M convertible notes from certain holders",
-    "published": 1712130660,
-    "posting_price": 67.81371292,
-    "close_price": 70.59803009,
-    "percent_change": 4.10583207
-  },
-  {
-    "title": "NRG Energy to buy back up ~$251M convertible notes from certain holders",
-    "published": 1712130240,
-    "posting_price": 67.81371292,
-    "close_price": 70.59803009,
-    "percent_change": 4.10583207
-  },
-  {
-    "title": "Crude oil pushes higher on global tensions, signs of strong U.S. gasoline demand",
-    "published": 1712123760,
-    "posting_price": 67.81371292,
-    "close_price": 70.59803009,
-    "percent_change": 4.10583207
-  },
-  {
-    "title": "NRG, NRGV, and HTOO are among utility movers",
-    "published": 1712106360,
-    "posting_price": 67.81371292,
-    "close_price": 70.59803009,
-    "percent_change": 4.10583207
-  },
-  {
-    "title": "PNM Resources (PNM) Q1 Earnings & Revenues Miss Estimates",
-    "published": 1714477740,
-    "posting_price": 72.2515453,
-    "close_price": 71.64032745,
-    "percent_change": -0.84595817
-  },
-  {
-    "title": "April Showers On Wall Street:  Miners, Utilities Emerge As Bright Spots In Gloomy Market",
-    "published": 1714448460,
-    "posting_price": 72.2515453,
-    "close_price": 71.64032745,
-    "percent_change": -0.84595817
-  },
-  {
-    "title": "NRG Energy (NRG) Surpasses Market Returns: Some Facts Worth Knowing",
-    "published": 1714428911,
-    "posting_price": 71.56860781,
-    "close_price": 72.49997711,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "Top 50 stocks with the highest sensitivity to interest rates changes - GS",
-    "published": 1714390920,
-    "posting_price": 71.56860781,
-    "close_price": 72.49997711,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "NRG Energy Inc's Dividend Analysis",
-    "published": 1714388772,
-    "posting_price": 71.56860781,
-    "close_price": 72.49997711,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "NRG Energy call volume above normal and directionally bullish",
-    "published": 1714357500,
-    "posting_price": 71.56860781,
-    "close_price": 72.49997711,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "Monthly Options Series: Earn A Potentially Consistent 10% Income (May 2024)",
-    "published": 1714296600,
-    "posting_price": 71.56860781,
-    "close_price": 72.49997711,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 28",
-    "published": 1714210198,
-    "posting_price": 71.56860028,
-    "close_price": 72.49996948,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "The Top 3 Infrastructure Stocks to Buy in April 2024",
-    "published": 1714194420,
-    "posting_price": 71.56860028,
-    "close_price": 72.49996948,
-    "percent_change": 1.30136568
-  },
-  {
-    "title": "NRG Energy (NRG) Outpaces Stock Market Gains: What You Should Know",
-    "published": 1713910518,
-    "posting_price": 69.46076088,
-    "close_price": 70.08821106,
-    "percent_change": 0.90331602
-  },
-  {
-    "title": "NRG Energy Reaches Analyst Target Price",
-    "published": 1713853080,
-    "posting_price": 69.46076088,
-    "close_price": 70.08821106,
-    "percent_change": 0.90331602
-  },
-  {
-    "title": "Goldman\u2019s buybacks basket: Buyback growth will be 13% in 2024",
-    "published": 1713788940,
-    "posting_price": 69.12743824,
-    "close_price": 69.00978851,
-    "percent_change": -0.17019252
-  },
-  {
-    "title": "Stocks Muted As Oil Prices Take A Breather",
-    "published": 1713785220,
-    "posting_price": 69.12743824,
-    "close_price": 69.00978851,
-    "percent_change": -0.17019252
-  },
-  {
-    "title": "NRG Added as Top 10 Utility Dividend Stock With 2.33% Yield",
-    "published": 1713773520,
-    "posting_price": 69.12743824,
-    "close_price": 69.00978851,
-    "percent_change": -0.17019252
-  },
-  {
-    "title": "Our Top 10 Dividend Growth Stocks - April 2024",
-    "published": 1713603600,
-    "posting_price": 69.12743824,
-    "close_price": 69.00978851,
-    "percent_change": -0.17019252
-  },
-  {
-    "title": "Zacks Investment Ideas feature highlights: Winnebago Industries, Nvidia, Vista Energy, Constellation Energy and NRG Energy",
-    "published": 1713520800,
-    "posting_price": 68.90194922,
-    "close_price": 68.59803009,
-    "percent_change": -0.44108931
-  },
-  {
-    "title": "December 20th Options Now Available For NRG Energy",
-    "published": 1713434940,
-    "posting_price": 72.20586119,
-    "close_price": 69.13722992,
-    "percent_change": -4.24983681
-  },
-  {
-    "title": "NRG Energy (NRG) Falls More Steeply Than Broader Market: What Investors Need to Know",
-    "published": 1713392120,
-    "posting_price": 72.87252976,
-    "close_price": 71.98036957,
-    "percent_change": -1.22427504
-  },
-  {
-    "title": "NRG Energy, Inc. Announces Quarterly Dividend",
-    "published": 1713386880,
-    "posting_price": 72.87252976,
-    "close_price": 71.98036957,
-    "percent_change": -1.22427504
-  },
-  {
-    "title": "NRG Energy, Inc. to Report First Quarter 2024 Financial Results on May 7, 2024",
-    "published": 1713353400,
-    "posting_price": 72.87252976,
-    "close_price": 71.98036957,
-    "percent_change": -1.22427504
-  },
-  {
-    "title": "NRG Energy : Material Agreement - Form 8-K",
-    "published": 1713333857,
-    "posting_price": 72.87252976,
-    "close_price": 71.98036957,
-    "percent_change": -1.22427504
-  },
-  {
-    "title": "NRG Energy declares $0.4075 dividend",
-    "published": 1713326220,
-    "posting_price": 72.87252976,
-    "close_price": 71.98036957,
-    "percent_change": -1.22427504
-  },
-  {
-    "title": "NRG Energy Inc (NRG)'s Uncertain Future: Understanding the Barriers to Outperformance",
-    "published": 1713261780,
-    "posting_price": 71.64704052,
-    "close_price": 73.05879974,
-    "percent_change": 1.9704362
+    "title": "Top Stocks By Sector (SA Quant)",
+    "published": 1715842800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 85.0,
+      "2024-05-16T14:30:00+00:00": 84.87000274658203,
+      "2024-05-16T15:30:00+00:00": 85.31999969482422,
+      "2024-05-16T16:30:00+00:00": 84.83000183105469,
+      "2024-05-16T17:30:00+00:00": 84.80000305175781,
+      "2024-05-16T18:30:00+00:00": 83.9000015258789,
+      "2024-05-16T19:30:00+00:00": 83.7699966430664
+    },
+    "sentiment": 0.9263513684272766
   }
 ]

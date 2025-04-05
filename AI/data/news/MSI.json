@@ -1,198 +1,316 @@
 [
   {
-    "title": "St. Thomas Aquinas College Secures Grant From Motorola Solutions Foundation",
-    "published": 1713205800,
-    "posting_price": 344.24212394,
-    "close_price": 335.28030396,
-    "percent_change": -2.60334786
+    "title": "Motorola : Helps Rescue Volunteers in New South Wales to Communicate with Clarity in the Harshest Conditions",
+    "published": 1715023746,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 355.260009765625,
+      "2024-05-06T14:30:00+00:00": 347.92498779296875,
+      "2024-05-06T15:30:00+00:00": 346.0299987792969,
+      "2024-05-06T16:30:00+00:00": 346.0249938964844,
+      "2024-05-06T17:30:00+00:00": 346.2699890136719,
+      "2024-05-06T18:30:00+00:00": 346.6050109863281,
+      "2024-05-06T19:30:00+00:00": 347.2850036621094
+    },
+    "sentiment": 0.8098936676979065
   },
   {
-    "title": "Multistack International Unveils Annual Financials",
-    "published": 1713091080,
-    "posting_price": 344.24212394,
-    "close_price": 335.28030396,
-    "percent_change": -2.60334786
+    "title": "Motorola Solutions First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags",
+    "published": 1714826772,
+    "day_prices": {},
+    "sentiment": 0.6798717379570007
   },
   {
-    "title": "Multistack International\u2019s Virtual AGM Set for May 2024",
-    "published": 1713090480,
-    "posting_price": 344.24212394,
-    "close_price": 335.28030396,
-    "percent_change": -2.60334786
+    "title": "Motorola (MSI) Q1 Earnings Beat Estimates on Record Revenues",
+    "published": 1714741680,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 352.1300048828125,
+      "2024-05-03T14:30:00+00:00": 351.9649963378906,
+      "2024-05-03T15:30:00+00:00": 352.4800109863281,
+      "2024-05-03T16:30:00+00:00": 353.5199890136719,
+      "2024-05-03T17:30:00+00:00": 352.6499938964844,
+      "2024-05-03T18:30:00+00:00": 353.4649963378906,
+      "2024-05-03T19:30:00+00:00": 351.7099914550781
+    },
+    "sentiment": 0.9322842359542847
   },
   {
-    "title": "Embracing the Inclusive Core Value With Motorola Solutions",
-    "published": 1712844600,
-    "posting_price": 345.35125133,
-    "close_price": 345.34133911,
-    "percent_change": -0.00287019
+    "title": "Q1 2024 Motorola Solutions Inc Earnings Call",
+    "published": 1714735454,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 352.1300048828125,
+      "2024-05-03T14:30:00+00:00": 351.9649963378906,
+      "2024-05-03T15:30:00+00:00": 352.4800109863281,
+      "2024-05-03T16:30:00+00:00": 353.5199890136719,
+      "2024-05-03T17:30:00+00:00": 352.6499938964844,
+      "2024-05-03T18:30:00+00:00": 353.4649963378906,
+      "2024-05-03T19:30:00+00:00": 351.7099914550781
+    },
+    "sentiment": 0.7715478539466858
   },
   {
-    "title": "Motorola Solutions price target raised by $40 at JPMorgan, here's why",
-    "published": 1712811120,
-    "posting_price": 345.35125133,
-    "close_price": 345.34133911,
-    "percent_change": -0.00287019
+    "title": "Unveiling Motorola Solutions (MSI)'s Value: Is It Really Priced Right?",
+    "published": 1714720320,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 352.1300048828125,
+      "2024-05-03T14:30:00+00:00": 351.9649963378906,
+      "2024-05-03T15:30:00+00:00": 352.4800109863281,
+      "2024-05-03T16:30:00+00:00": 353.5199890136719,
+      "2024-05-03T17:30:00+00:00": 352.6499938964844,
+      "2024-05-03T18:30:00+00:00": 353.4649963378906,
+      "2024-05-03T19:30:00+00:00": 351.7099914550781
+    },
+    "sentiment": 0.8750062584877014
   },
   {
-    "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1712756710,
-    "posting_price": 346.67819046,
-    "close_price": 344.06393433,
-    "percent_change": -0.75408728
+    "title": "Motorola Solutions: Strong Q1 Performance and Positive Growth Outlook Justify Buy Rating",
+    "published": 1714713540,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 352.1300048828125,
+      "2024-05-03T14:30:00+00:00": 351.9649963378906,
+      "2024-05-03T15:30:00+00:00": 352.4800109863281,
+      "2024-05-03T16:30:00+00:00": 353.5199890136719,
+      "2024-05-03T17:30:00+00:00": 352.6499938964844,
+      "2024-05-03T18:30:00+00:00": 353.4649963378906,
+      "2024-05-03T19:30:00+00:00": 351.7099914550781
+    },
+    "sentiment": 0.9469242691993713
   },
   {
-    "title": "Motorola : Presents Innovations to Strengthen Defence and Disaster Management at FIDAE",
-    "published": 1712653395,
-    "posting_price": 349.02507541,
-    "close_price": 349.52020264,
-    "percent_change": 0.14186007
+    "title": "Motorola Solutions price target raised by $10 at Barclays, here's why",
+    "published": 1714711800,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 352.1300048828125,
+      "2024-05-03T14:30:00+00:00": 351.9649963378906,
+      "2024-05-03T15:30:00+00:00": 352.4800109863281,
+      "2024-05-03T16:30:00+00:00": 353.5199890136719,
+      "2024-05-03T17:30:00+00:00": 352.6499938964844,
+      "2024-05-03T18:30:00+00:00": 353.4649963378906,
+      "2024-05-03T19:30:00+00:00": 351.7099914550781
+    },
+    "sentiment": 0.620400607585907
   },
   {
-    "title": "Motorola Solutions Presents Enterprise Security Innovation and Integration at ISC West",
-    "published": 1712584800,
-    "posting_price": 348.55968556,
-    "close_price": 348.5993042,
-    "percent_change": 0.01136639
+    "title": "Motorola Solutions Inc. (MSI) Q1 2024 Earnings: Surpasses Revenue Estimates and Raises ...",
+    "published": 1714685566,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 336.80999755859375,
+      "2024-05-02T14:30:00+00:00": 334.8999938964844,
+      "2024-05-02T15:30:00+00:00": 335.31500244140625,
+      "2024-05-02T16:30:00+00:00": 335.1400146484375,
+      "2024-05-02T17:30:00+00:00": 335.45001220703125,
+      "2024-05-02T18:30:00+00:00": 336.1400146484375,
+      "2024-05-02T19:30:00+00:00": 336.32000732421875
+    },
+    "sentiment": 0.9490262269973755
   },
   {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
-    "published": 1712394285,
-    "posting_price": 348.55965504,
-    "close_price": 348.59927368,
-    "percent_change": 0.01136639
+    "title": "Motorola Solutions Reports First-Quarter 2024 Financial Results",
+    "published": 1714680600,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 336.80999755859375,
+      "2024-05-02T14:30:00+00:00": 334.8999938964844,
+      "2024-05-02T15:30:00+00:00": 335.31500244140625,
+      "2024-05-02T16:30:00+00:00": 335.1400146484375,
+      "2024-05-02T17:30:00+00:00": 335.45001220703125,
+      "2024-05-02T18:30:00+00:00": 336.1400146484375,
+      "2024-05-02T19:30:00+00:00": 336.32000732421875
+    },
+    "sentiment": 0.9005799889564514
   },
   {
-    "title": "Motorola (MSI) Deploys P25 Radio System in Oakland County",
-    "published": 1712245860,
-    "posting_price": 349.8172881,
-    "close_price": 344.53921509,
-    "percent_change": -1.50880851
+    "title": "Motorola Solutions raises full-year revenue view after strong quarter, shares rise",
+    "published": 1714670341,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 336.80999755859375,
+      "2024-05-02T14:30:00+00:00": 334.8999938964844,
+      "2024-05-02T15:30:00+00:00": 335.31500244140625,
+      "2024-05-02T16:30:00+00:00": 335.1400146484375,
+      "2024-05-02T17:30:00+00:00": 335.45001220703125,
+      "2024-05-02T18:30:00+00:00": 336.1400146484375,
+      "2024-05-02T19:30:00+00:00": 336.32000732421875
+    },
+    "sentiment": 0.8632135391235352
   },
   {
-    "title": "Motorola Solutions Inc. stock falls Thursday, still outperforms market",
-    "published": 1712202960,
-    "posting_price": 349.8172881,
-    "close_price": 344.53921509,
-    "percent_change": -1.50880851
+    "title": "Motorola: Q1 Earnings Snapshot",
+    "published": 1714667482,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 336.80999755859375,
+      "2024-05-02T14:30:00+00:00": 334.8999938964844,
+      "2024-05-02T15:30:00+00:00": 335.31500244140625,
+      "2024-05-02T16:30:00+00:00": 335.1400146484375,
+      "2024-05-02T17:30:00+00:00": 335.45001220703125,
+      "2024-05-02T18:30:00+00:00": 336.1400146484375,
+      "2024-05-02T19:30:00+00:00": 336.32000732421875
+    },
+    "sentiment": 0.5987138748168945
   },
   {
-    "title": "Motorola : Oakland County Celebrates Enhanced Public Safety with New Radio System",
-    "published": 1712166256,
-    "posting_price": 348.35169498,
-    "close_price": 346.93563843,
-    "percent_change": -0.40650198
+    "title": "Motorola Solutions Non-GAAP EPS of $2.81 beats by $0.29, revenue of $2.4B beats by $60M",
+    "published": 1714620000,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 336.80999755859375,
+      "2024-05-02T14:30:00+00:00": 334.8999938964844,
+      "2024-05-02T15:30:00+00:00": 335.31500244140625,
+      "2024-05-02T16:30:00+00:00": 335.1400146484375,
+      "2024-05-02T17:30:00+00:00": 335.45001220703125,
+      "2024-05-02T18:30:00+00:00": 336.1400146484375,
+      "2024-05-02T19:30:00+00:00": 336.32000732421875
+    },
+    "sentiment": 0.51720130443573
   },
   {
-    "title": "Is Motorola (MSI) a Good Investment Bet Ahead of Q1 Earnings?",
-    "published": 1714479180,
-    "posting_price": 343.32122676,
-    "close_price": 335.8447876,
-    "percent_change": -2.17768043
+    "title": "Motorola Solutions sees Q2 adjusted EPS $2.97-$3.02, consensus $2.91",
+    "published": 1714619520,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 336.80999755859375,
+      "2024-05-02T14:30:00+00:00": 334.8999938964844,
+      "2024-05-02T15:30:00+00:00": 335.31500244140625,
+      "2024-05-02T16:30:00+00:00": 335.1400146484375,
+      "2024-05-02T17:30:00+00:00": 335.45001220703125,
+      "2024-05-02T18:30:00+00:00": 336.1400146484375,
+      "2024-05-02T19:30:00+00:00": 336.32000732421875
+    },
+    "sentiment": 0.5188947916030884
   },
   {
-    "title": "MS International Sees Minor Shift in Share Ownership",
-    "published": 1714472940,
-    "posting_price": 343.32122676,
-    "close_price": 335.8447876,
-    "percent_change": -2.17768043
+    "title": "Can These 3 Wireless Equipment Stocks Hit Earnings Targets?",
+    "published": 1714565340,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 338.0400085449219,
+      "2024-05-01T14:30:00+00:00": 338.70001220703125,
+      "2024-05-01T15:30:00+00:00": 338.8349914550781,
+      "2024-05-01T16:30:00+00:00": 338.7449951171875,
+      "2024-05-01T17:30:00+00:00": 338.5400085449219,
+      "2024-05-01T18:30:00+00:00": 338.5400085449219,
+      "2024-05-01T19:30:00+00:00": 338.7449951171875
+    },
+    "sentiment": 0.7992956042289734
   },
   {
-    "title": "Here's How Much $100 Invested In Motorola Solns 20 Years Ago Would Be Worth Today",
-    "published": 1714440840,
-    "posting_price": 343.32122676,
-    "close_price": 335.8447876,
-    "percent_change": -2.17768043
+    "title": "Motorola Solutions Named to Women in Tech Council's 2024 Shatter List",
+    "published": 1715722860,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 359.6600036621094,
+      "2024-05-14T14:30:00+00:00": 361.010009765625,
+      "2024-05-14T15:30:00+00:00": 362.6400146484375,
+      "2024-05-14T16:30:00+00:00": 360.5299987792969,
+      "2024-05-14T17:30:00+00:00": 359.8299865722656,
+      "2024-05-14T18:30:00+00:00": 360.7300109863281,
+      "2024-05-14T19:30:00+00:00": 361.3900146484375
+    },
+    "sentiment": 0.8754799365997314
   },
   {
-    "title": "Motorola Solutions Summit Showcases How AI and Human-Centered Technologies Simplify and Strengthen Emergency Response",
-    "published": 1714409820,
-    "posting_price": 343.62817847,
-    "close_price": 344.30154419,
-    "percent_change": 0.19595765
+    "title": "Motorola : Announces Broadband Innovations for Mission-Critical TETRA Radio",
+    "published": 1715655982,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 359.6600036621094,
+      "2024-05-14T14:30:00+00:00": 361.010009765625,
+      "2024-05-14T15:30:00+00:00": 362.6400146484375,
+      "2024-05-14T16:30:00+00:00": 360.5299987792969,
+      "2024-05-14T17:30:00+00:00": 359.8299865722656,
+      "2024-05-14T18:30:00+00:00": 360.7300109863281,
+      "2024-05-14T19:30:00+00:00": 361.3900146484375
+    },
+    "sentiment": 0.6648008227348328
   },
   {
-    "title": "Motorola (MSI) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-    "published": 1714396569,
-    "posting_price": 343.62817847,
-    "close_price": 344.30154419,
-    "percent_change": 0.19595765
+    "title": "Multistack Shareholders Approve AGM Resolutions",
+    "published": 1715649480,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 359.6600036621094,
+      "2024-05-14T14:30:00+00:00": 361.010009765625,
+      "2024-05-14T15:30:00+00:00": 362.6400146484375,
+      "2024-05-14T16:30:00+00:00": 360.5299987792969,
+      "2024-05-14T17:30:00+00:00": 359.8299865722656,
+      "2024-05-14T18:30:00+00:00": 360.7300109863281,
+      "2024-05-14T19:30:00+00:00": 361.3900146484375
+    },
+    "sentiment": 0.9024327397346497
   },
   {
-    "title": "Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1714139108,
-    "posting_price": 345.123491,
-    "close_price": 343.10339355,
-    "percent_change": -0.58532598
+    "title": "Greg Brown, Chairman and CEO, Motorola Solutions to Participate in the J.P. Morgan 52nd Annual Global Technology, Media and Communications Conference",
+    "published": 1715631300,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 363.2099914550781,
+      "2024-05-13T14:30:00+00:00": 360.8399963378906,
+      "2024-05-13T15:30:00+00:00": 362.81500244140625,
+      "2024-05-13T16:30:00+00:00": 362.010009765625,
+      "2024-05-13T17:30:00+00:00": 360.3599853515625,
+      "2024-05-13T18:30:00+00:00": 359.42498779296875,
+      "2024-05-13T19:30:00+00:00": 356.7149963378906
+    },
+    "sentiment": 0.8347493410110474
   },
   {
-    "title": "Intel (INTC) Tops Q1 Earnings Estimates, Falters on Revenues",
-    "published": 1714136460,
-    "posting_price": 345.123491,
-    "close_price": 343.10339355,
-    "percent_change": -0.58532598
+    "title": "A Look At The Intrinsic Value Of Motorola Solutions, Inc. (NYSE:MSI)",
+    "published": 1715605222,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 363.2099914550781,
+      "2024-05-13T14:30:00+00:00": 360.8399963378906,
+      "2024-05-13T15:30:00+00:00": 362.81500244140625,
+      "2024-05-13T16:30:00+00:00": 362.010009765625,
+      "2024-05-13T17:30:00+00:00": 360.3599853515625,
+      "2024-05-13T18:30:00+00:00": 359.42498779296875,
+      "2024-05-13T19:30:00+00:00": 356.7149963378906
+    },
+    "sentiment": 0.9096184968948364
   },
   {
-    "title": "T-Mobile's (TMUS) Q1 Earnings Top on Industry-Leading Growth",
-    "published": 1714136400,
-    "posting_price": 345.123491,
-    "close_price": 343.10339355,
-    "percent_change": -0.58532598
+    "title": "Motorola Solutions, Inc. (NYSE:MSI) is a favorite amongst institutional investors who own 87%",
+    "published": 1716462020,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 369.8399963378906,
+      "2024-05-23T14:30:00+00:00": 367.0150146484375,
+      "2024-05-23T15:30:00+00:00": 366.9429931640625,
+      "2024-05-23T16:30:00+00:00": 367.80999755859375,
+      "2024-05-23T17:30:00+00:00": 367.1099853515625,
+      "2024-05-23T18:30:00+00:00": 364.7699890136719,
+      "2024-05-23T19:30:00+00:00": 363.6499938964844
+    },
+    "sentiment": 0.8570641279220581
   },
   {
-    "title": "Motorola (MSI) Reports Next Week: Wall Street Expects Earnings Growth",
-    "published": 1714053736,
-    "posting_price": 341.83584234,
-    "close_price": 345.61859131,
-    "percent_change": 1.10659811
+    "title": "Motorola Solutions Inc. stock rises Monday, outperforms market",
+    "published": 1716177300,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 366.92999267578125,
+      "2024-05-20T14:30:00+00:00": 367.07000732421875,
+      "2024-05-20T15:30:00+00:00": 367.6300048828125,
+      "2024-05-20T16:30:00+00:00": 368.0299987792969,
+      "2024-05-20T17:30:00+00:00": 367.8800048828125,
+      "2024-05-20T18:30:00+00:00": 367.5199890136719,
+      "2024-05-20T19:30:00+00:00": 368.05999755859375
+    },
+    "sentiment": 0.8883490562438965
   },
   {
-    "title": "Motorola Solutions (NYSE:MSI) Could Become A Multi-Bagger",
-    "published": 1713870097,
-    "posting_price": 342.59832372,
-    "close_price": 342.18240356,
-    "percent_change": -0.12140169
+    "title": "Motorola Solutions Steers AI Innovation in Public Safety",
+    "published": 1715869680,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 366.07000732421875,
+      "2024-05-16T14:30:00+00:00": 365.8450012207031,
+      "2024-05-16T15:30:00+00:00": 367.3450012207031,
+      "2024-05-16T16:30:00+00:00": 366.3900146484375,
+      "2024-05-16T17:30:00+00:00": 365.5899963378906,
+      "2024-05-16T18:30:00+00:00": 365.9599914550781,
+      "2024-05-16T19:30:00+00:00": 366.93499755859375
+    },
+    "sentiment": 0.758101761341095
   },
   {
-    "title": "Multistack International Sees Positive Cash Flow",
-    "published": 1713869280,
-    "posting_price": 342.59832372,
-    "close_price": 342.18240356,
-    "percent_change": -0.12140169
-  },
-  {
-    "title": "20 Best Cheap Phones for 2024",
-    "published": 1713536397,
-    "posting_price": 337.74607935,
-    "close_price": 336.33990479,
-    "percent_change": -0.41634075
-  },
-  {
-    "title": "Motorola Solutions to Issue First-Quarter 2024 Earnings Results on May 2",
-    "published": 1713471000,
-    "posting_price": 338.44916147,
-    "close_price": 336.15176392,
-    "percent_change": -0.67880137
-  },
-  {
-    "title": "Motorola (MSI) to Boost Portfolio With Innovative Launches",
-    "published": 1713368880,
-    "posting_price": 338.86512198,
-    "close_price": 337.19158936,
-    "percent_change": -0.49386393
-  },
-  {
-    "title": "Here's How Much $100 Invested In Motorola Solns 10 Years Ago Would Be Worth Today",
-    "published": 1713263520,
-    "posting_price": 336.62711433,
-    "close_price": 336.79544067,
-    "percent_change": 0.0500038
-  },
-  {
-    "title": "St. Thomas Aquinas College Secures Grant From Motorola Solutions Foundation",
-    "published": 1713239648,
-    "posting_price": 336.62711433,
-    "close_price": 336.79544067,
-    "percent_change": 0.0500038
+    "title": "Here's How Much You Would Have Made Owning Motorola Solns Stock In The Last 10 Years",
+    "published": 1715833980,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 366.07000732421875,
+      "2024-05-16T14:30:00+00:00": 365.8450012207031,
+      "2024-05-16T15:30:00+00:00": 367.3450012207031,
+      "2024-05-16T16:30:00+00:00": 366.3900146484375,
+      "2024-05-16T17:30:00+00:00": 365.5899963378906,
+      "2024-05-16T18:30:00+00:00": 365.9599914550781,
+      "2024-05-16T19:30:00+00:00": 366.93499755859375
+    },
+    "sentiment": 0.9311741590499878
   }
 ]

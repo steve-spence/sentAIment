@@ -1,394 +1,156 @@
 [
   {
-    "title": "5 Beaten-Down Top-Ranked Stocks to Buy in S&P 500 ETF",
-    "published": 1713197700,
-    "posting_price": 14.76837802,
-    "close_price": 14.47301006,
-    "percent_change": -2.00000271
+    "title": "3 Stocks to Watch as Bitcoin Spot ETFs Witness Large Outflows",
+    "published": 1714737780,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 14.829999923706055,
+      "2024-05-03T14:30:00+00:00": 15.010100364685059,
+      "2024-05-03T15:30:00+00:00": 14.869999885559082,
+      "2024-05-03T16:30:00+00:00": 14.839099884033203,
+      "2024-05-03T17:30:00+00:00": 14.850000381469727,
+      "2024-05-03T18:30:00+00:00": 14.854999542236328,
+      "2024-05-03T19:30:00+00:00": 14.824999809265137
+    },
+    "sentiment": 0.8777352571487427
   },
   {
-    "title": "3 Invesco Mutual Funds for Solid Returns",
-    "published": 1713178620,
-    "posting_price": 14.76837802,
-    "close_price": 14.47301006,
-    "percent_change": -2.00000271
+    "title": "Invesco High Income Trust II, and Invesco Senior Income Trust Declare Dividends",
+    "published": 1714580100,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 14.199999809265137,
+      "2024-05-01T14:30:00+00:00": 14.255000114440918,
+      "2024-05-01T15:30:00+00:00": 14.364999771118164,
+      "2024-05-01T16:30:00+00:00": 14.3100004196167,
+      "2024-05-01T17:30:00+00:00": 14.255000114440918,
+      "2024-05-01T18:30:00+00:00": 14.359999656677246,
+      "2024-05-01T19:30:00+00:00": 14.479999542236328
+    },
+    "sentiment": 0.9483212828636169
   },
   {
-    "title": "Invesco (IVZ) Shares Cross Below 200 DMA",
-    "published": 1712916840,
-    "posting_price": 14.8731857,
-    "close_price": 14.61593056,
-    "percent_change": -1.72965729
+    "title": "TD Cowen Keeps Their Buy Rating on Invesco (IVZ)",
+    "published": 1715753820,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 16.270000457763672,
+      "2024-05-15T14:30:00+00:00": 16.2450008392334,
+      "2024-05-15T15:30:00+00:00": 16.309999465942383,
+      "2024-05-15T16:30:00+00:00": 16.25,
+      "2024-05-15T17:30:00+00:00": 16.290000915527344,
+      "2024-05-15T18:30:00+00:00": 16.290000915527344,
+      "2024-05-15T19:30:00+00:00": 16.270000457763672
+    },
+    "sentiment": 0.9206972718238831
   },
   {
-    "title": "Invesco Ltd. Files Key SEC Report",
-    "published": 1712821020,
-    "posting_price": 15.15902631,
-    "close_price": 14.96846676,
-    "percent_change": -1.25706985
+    "title": "Invesco Commercial Real Estate Finance Trust, Inc. (\"INCREF\") Announces Six Loan Originations Totaling $499.2 Million",
+    "published": 1715695200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 16.0,
+      "2024-05-14T14:30:00+00:00": 16.18000030517578,
+      "2024-05-14T15:30:00+00:00": 16.020000457763672,
+      "2024-05-14T16:30:00+00:00": 16.0,
+      "2024-05-14T17:30:00+00:00": 15.899999618530273,
+      "2024-05-14T18:30:00+00:00": 15.869999885559082,
+      "2024-05-14T19:30:00+00:00": 15.960000038146973
+    },
+    "sentiment": 0.7973609566688538
   },
   {
-    "title": "Invesco (IVZ) Receives a Rating Update from a Top Analyst",
-    "published": 1712738760,
-    "posting_price": 15.67353752,
-    "close_price": 15.12091351,
-    "percent_change": -3.52584099
+    "title": "Invictus Energy Strikes Gas in African Frontier",
+    "published": 1715589480,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 15.489999771118164,
+      "2024-05-13T14:30:00+00:00": 15.550000190734863,
+      "2024-05-13T15:30:00+00:00": 15.555000305175781,
+      "2024-05-13T16:30:00+00:00": 15.654999732971191,
+      "2024-05-13T17:30:00+00:00": 15.720000267028809,
+      "2024-05-13T18:30:00+00:00": 15.770000457763672,
+      "2024-05-13T19:30:00+00:00": 15.770000457763672
+    },
+    "sentiment": 0.4855498671531677
   },
   {
-    "title": "Invesco Ltd. Announces March 31, 2024 Assets Under Management",
-    "published": 1712693700,
-    "posting_price": 16.2356897,
-    "close_price": 16.14040947,
-    "percent_change": -0.58685668
+    "title": "Invesco Ltd. Issues Unreadable News Release",
+    "published": 1715332020,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 15.300000190734863,
+      "2024-05-10T14:30:00+00:00": 15.4399995803833,
+      "2024-05-10T15:30:00+00:00": 15.305000305175781,
+      "2024-05-10T16:30:00+00:00": 15.34000015258789,
+      "2024-05-10T17:30:00+00:00": 15.425000190734863,
+      "2024-05-10T18:30:00+00:00": 15.484999656677246,
+      "2024-05-10T19:30:00+00:00": 15.524999618530273
+    },
+    "sentiment": 0.8545273542404175
   },
   {
-    "title": "Invesco Announces Preliminary AUM Figures for March 2024",
-    "published": 1712635380,
-    "posting_price": 16.2356897,
-    "close_price": 16.14040947,
-    "percent_change": -0.58685668
+    "title": "A Financial stock addition to the S&P 500 Index may be unlikely - analyst",
+    "published": 1715249880,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 14.960000038146973,
+      "2024-05-09T14:30:00+00:00": 15.25,
+      "2024-05-09T15:30:00+00:00": 15.210000038146973,
+      "2024-05-09T16:30:00+00:00": 15.079999923706055,
+      "2024-05-09T17:30:00+00:00": 15.15999984741211,
+      "2024-05-09T18:30:00+00:00": 15.114999771118164,
+      "2024-05-09T19:30:00+00:00": 15.180000305175781
+    },
+    "sentiment": 0.8756021857261658
   },
   {
-    "title": "Invesco March AUM gains 2% M/M, driven by market strength",
-    "published": 1712633340,
-    "posting_price": 16.2356897,
-    "close_price": 16.14040947,
-    "percent_change": -0.58685668
+    "title": "Invesco Reports Preliminary Assets for April 2024",
+    "published": 1715227440,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 14.960000038146973,
+      "2024-05-09T14:30:00+00:00": 15.25,
+      "2024-05-09T15:30:00+00:00": 15.210000038146973,
+      "2024-05-09T16:30:00+00:00": 15.079999923706055,
+      "2024-05-09T17:30:00+00:00": 15.15999984741211,
+      "2024-05-09T18:30:00+00:00": 15.114999771118164,
+      "2024-05-09T19:30:00+00:00": 15.180000305175781
+    },
+    "sentiment": 0.9473233819007874
   },
   {
-    "title": "Invesco reports preliminary AUM $1.66T as of March 31",
-    "published": 1712632680,
-    "posting_price": 16.2356897,
-    "close_price": 16.14040947,
-    "percent_change": -0.58685668
+    "title": "Invesco Ltd. to Participate in the Bernstein Strategic Decisions Conference",
+    "published": 1716495300,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 15.770000457763672,
+      "2024-05-23T14:30:00+00:00": 15.53499984741211,
+      "2024-05-23T15:30:00+00:00": 15.625,
+      "2024-05-23T16:30:00+00:00": 15.654999732971191,
+      "2024-05-23T17:30:00+00:00": 15.585000038146973,
+      "2024-05-23T18:30:00+00:00": 15.369999885559082,
+      "2024-05-23T19:30:00+00:00": 15.385000228881836
+    },
+    "sentiment": 0.8881153464317322
   },
   {
-    "title": "Bitcoin ETFs Are a Hit. But Wall Street Might Have a Long Wait for the Next Crypto Funds.",
-    "published": 1712525520,
-    "posting_price": 15.95937731,
-    "close_price": 16.12135315,
-    "percent_change": 1.01492581
+    "title": "Invesco Closed-End Funds Announce Increased Distribution Rates for All Investment Grade Municipal Bond Closed-End Funds and Declare Dividends",
+    "published": 1716480900,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 15.770000457763672,
+      "2024-05-23T14:30:00+00:00": 15.53499984741211,
+      "2024-05-23T15:30:00+00:00": 15.625,
+      "2024-05-23T16:30:00+00:00": 15.654999732971191,
+      "2024-05-23T17:30:00+00:00": 15.585000038146973,
+      "2024-05-23T18:30:00+00:00": 15.369999885559082,
+      "2024-05-23T19:30:00+00:00": 15.385000228881836
+    },
+    "sentiment": 0.9271960854530334
   },
   {
-    "title": "SMA Solar Technology: Solid Earnings And Attractive Valuation Compared To Peers",
-    "published": 1712506141,
-    "posting_price": 15.95937731,
-    "close_price": 16.12135315,
-    "percent_change": 1.01492581
-  },
-  {
-    "title": "Why Invesco (IVZ) is a Top Momentum Stock for the Long-Term",
-    "published": 1712238609,
-    "posting_price": 16.13088261,
-    "close_price": 15.74976349,
-    "percent_change": -2.36266749
-  },
-  {
-    "title": "Small-cap and Mid-cap Factors Offer Unique Advantages",
-    "published": 1712235600,
-    "posting_price": 16.13088261,
-    "close_price": 15.74976349,
-    "percent_change": -2.36266749
-  },
-  {
-    "title": "Billionaire Steve Cohen Predicts AI Will Lead To 4-Day Work Week",
-    "published": 1712226840,
-    "posting_price": 16.13088261,
-    "close_price": 15.74976349,
-    "percent_change": -2.36266749
-  },
-  {
-    "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1712151911,
-    "posting_price": 15.65448241,
-    "close_price": 15.89268208,
-    "percent_change": 1.52160681
-  },
-  {
-    "title": "What's Driving Blue Owl Capital Inc's Surprising 28% Stock Rally?",
-    "published": 1712135520,
-    "posting_price": 15.65448241,
-    "close_price": 15.89268208,
-    "percent_change": 1.52160681
-  },
-  {
-    "title": "Invesco Ltd. To Announce First Quarter 2024 Results",
-    "published": 1712062800,
-    "posting_price": 15.57825591,
-    "close_price": 15.69259071,
-    "percent_change": 0.73393839
-  },
-  {
-    "title": "Invesco Closed-End Funds Pay Dividends",
-    "published": 1714485780,
-    "posting_price": 13.57737967,
-    "close_price": 13.50115585,
-    "percent_change": -0.56140302
-  },
-  {
-    "title": "Invictus Energy\u2019s Major Gas Discovery in Zimbabwe",
-    "published": 1714444140,
-    "posting_price": 13.57737967,
-    "close_price": 13.50115585,
-    "percent_change": -0.56140302
-  },
-  {
-    "title": "Invesco (NYSE:IVZ) Is Increasing Its Dividend To $0.205",
-    "published": 1714129318,
-    "posting_price": 13.83463491,
-    "close_price": 13.97755432,
-    "percent_change": 1.03305516
-  },
-  {
-    "title": "Dividend Roundup: MetLife, General Motors, Pfizer, Citigroup, and more",
-    "published": 1714115220,
-    "posting_price": 13.83463491,
-    "close_price": 13.97755432,
-    "percent_change": 1.03305516
-  },
-  {
-    "title": "Keefe, Bruyette & Woods Downgrades Invesco (IVZ)",
-    "published": 1714035362,
-    "posting_price": 13.65360354,
-    "close_price": 13.82510757,
-    "percent_change": 1.25610817
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Chubb (CB), Bok Financial (BOKF) and Invesco (IVZ)",
-    "published": 1714025100,
-    "posting_price": 13.65360354,
-    "close_price": 13.82510757,
-    "percent_change": 1.25610817
-  },
-  {
-    "title": "Invesco Ltd. (NYSE:IVZ) Q1 2024 Earnings Call Transcript",
-    "published": 1713970971,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Company News for Apr 24, 2024",
-    "published": 1713965760,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "KBW downgrades Invesco (IVZ) to a Hold",
-    "published": 1713961680,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Goldman Sachs Remains a Hold on Invesco (IVZ)",
-    "published": 1713957960,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Relative Strength Alert For Invesco Ltd",
-    "published": 1713956700,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco First Quarter 2024 Earnings: Misses Expectations",
-    "published": 1713955850,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Where Invesco Stands With Analysts",
-    "published": 1713949620,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco's India arm settles charges of rule violation with markets regulator",
-    "published": 1713946767,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco price target lowered by $2 at Deutsche Bank, here's why",
-    "published": 1713946200,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco Ltd (IVZ) Q1 2024 Earnings Call Transcript Highlights: Strategic Growth and Robust ...",
-    "published": 1713942322,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco price target lowered by $1.50 at TD Cowen, here's why",
-    "published": 1713940080,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco\u2019s Hold Rating Maintained Amid Fee Rate Challenges and Mixed Financials",
-    "published": 1713933960,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Q1 2024 Invesco Ltd Earnings Call",
-    "published": 1713932470,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco just downgraded at Keefe Bruyette, here's why",
-    "published": 1713929220,
-    "posting_price": 13.69171635,
-    "close_price": 13.83463669,
-    "percent_change": 1.04384532
-  },
-  {
-    "title": "Invesco Ltd (IVZ) Q1 Earnings: Misses on EPS, Surpasses Revenue Expectations",
-    "published": 1713877882,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco Ltd. (IVZ) Q1 2024 Earnings Call Transcript",
-    "published": 1713873663,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco Ltd. Files Current SEC Form 8-K",
-    "published": 1713870480,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco Reports Results for the Three Months Ended March 31, 2024",
-    "published": 1713869700,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "IVZ Stock Earnings: Invesco Misses EPS, Misses Revenue for Q1 2024",
-    "published": 1713869640,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco raises dividend by 2.5% to $0.205",
-    "published": 1713859980,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco Ltd. 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713858916,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco increases quarterly dividend to 20.5c per share",
-    "published": 1713852660,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco reports Q1 adjusted EPS 33c, consensus 40c",
-    "published": 1713852540,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco misses Q1 top and bottom line estimates",
-    "published": 1713852120,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Earnings Scheduled For April 23, 2024",
-    "published": 1713852120,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "INVESCO Ltd. stock underperforms Tuesday when compared to competitors",
-    "published": 1713846720,
-    "posting_price": 13.94897206,
-    "close_price": 13.89180374,
-    "percent_change": -0.40983895
-  },
-  {
-    "title": "Invesco Canada announces cash distributions for its ETFs",
-    "published": 1713816000,
-    "posting_price": 14.73979412,
-    "close_price": 14.84460163,
-    "percent_change": 0.71105138
-  },
-  {
-    "title": "Invesco Q1 2024 Earnings Preview",
-    "published": 1713786420,
-    "posting_price": 14.73979412,
-    "close_price": 14.84460163,
-    "percent_change": 0.71105138
-  },
-  {
-    "title": "Dividend yield and growth stock list by Goldman",
-    "published": 1713780600,
-    "posting_price": 14.73979412,
-    "close_price": 14.84460163,
-    "percent_change": 0.71105138
-  },
-  {
-    "title": "Catalyst Watch: Tesla, Boeing and General Motors brace for earnings fireworks",
-    "published": 1713492120,
-    "posting_price": 14.56829027,
-    "close_price": 14.64451408,
-    "percent_change": 0.52321727
-  },
-  {
-    "title": "Invesco (IVZ) Gets a Hold from RBC Capital",
-    "published": 1713418680,
-    "posting_price": 14.61593096,
-    "close_price": 14.54923534,
-    "percent_change": -0.45632139
-  },
-  {
-    "title": "RSP and OMFL: 2 Invesco ETFs with More Room to Run, According to Analysts",
-    "published": 1713330960,
-    "posting_price": 14.63498659,
-    "close_price": 14.52065086,
-    "percent_change": -0.7812493
-  },
-  {
-    "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1713274805,
-    "posting_price": 14.3872599,
-    "close_price": 14.47301102,
-    "percent_change": 0.59602121
+    "title": "Buy Invesco For Its 5% Dividend Yield",
+    "published": 1715845666,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 16.25,
+      "2024-05-16T14:30:00+00:00": 16.020000457763672,
+      "2024-05-16T15:30:00+00:00": 16.155000686645508,
+      "2024-05-16T16:30:00+00:00": 16.209999084472656,
+      "2024-05-16T17:30:00+00:00": 16.170000076293945,
+      "2024-05-16T18:30:00+00:00": 16.209999084472656,
+      "2024-05-16T19:30:00+00:00": 16.15999984741211
+    },
+    "sentiment": 0.9481292963027954
   }
 ]

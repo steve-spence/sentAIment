@@ -1,548 +1,78 @@
 [
   {
-    "title": "A Look Back at Maintenance and Repair Distributors Stocks\u2019 Q4 Earnings: W.W. Grainger (NYSE:GWW) Vs The Rest Of The Pack",
-    "published": 1742979843,
-    "posting_price": 992.65997314,
-    "close_price": 988.19000244,
-    "percent_change": -0.4503023
-  },
-  {
-    "title": "Here's Why We Think W.W. Grainger (NYSE:GWW) Is Well Worth Watching",
-    "published": 1742904023,
-    "posting_price": 993.09997559,
-    "close_price": 990.20001221,
-    "percent_change": -0.29201122
-  },
-  {
-    "title": "W.W. Grainger (NYSE:GWW) Could Become A Multi-Bagger",
-    "published": 1742479217,
-    "posting_price": 974.95001221,
-    "close_price": 973.65997314,
-    "percent_change": -0.13231848
-  },
-  {
-    "title": "W.W. Grainger (GWW): Among Stocks to Buy That May Be Splitting Soon",
-    "published": 1742330733,
-    "posting_price": 973.34002686,
-    "close_price": 974.77001953,
-    "percent_change": 0.14691604
-  },
-  {
-    "title": "Q4 Earnings Roundup: Transcat (NASDAQ:TRNS) And The Rest Of The Maintenance and Repair Distributors Segment",
-    "published": 1742202523,
-    "posting_price": 965.0300293,
-    "close_price": 977.40997314,
-    "percent_change": 1.28285581
-  },
-  {
-    "title": "W.W. Grainger (NYSE:GWW) sheds 4.0% this week, as yearly returns fall more in line with earnings growth",
-    "published": 1742126420,
-    "posting_price": 965.0300293,
-    "close_price": 977.40997314,
-    "percent_change": 1.28285581
-  },
-  {
-    "title": "ClearSign Technologies Receives Purchase Order for New Process Burner",
-    "published": 1741961880,
-    "posting_price": 964.51000977,
-    "close_price": 967.82000732,
-    "percent_change": 0.34317918
-  },
-  {
-    "title": "Is It Time To Consider Buying W.W. Grainger, Inc. (NYSE:GWW)?",
-    "published": 1741777219,
-    "posting_price": 984.79998779,
-    "close_price": 968.28997803,
-    "percent_change": -1.67648355
-  },
-  {
-    "title": "ETHISPHERE NAMES GRAINGER AS ONE OF THE 2025 WORLD'S MOST ETHICAL COMPANIES\u00ae",
-    "published": 1741698000,
-    "posting_price": 1005.01000977,
-    "close_price": 981.53997803,
-    "percent_change": -2.33530328
-  },
-  {
-    "title": "W.W. Grainger, Inc. (NYSE:GWW) Stock Has Shown Weakness Lately But Financials Look Strong: Should Prospective Shareholders Make The Leap?",
-    "published": 1741431624,
-    "posting_price": 1009.23999023,
-    "close_price": 1015.84002686,
-    "percent_change": 0.65396107
-  },
-  {
-    "title": "Hudson Earnings Miss Estimates in Q4, Revenues Decrease 23% Y/Y",
-    "published": 1741365840,
-    "posting_price": 991.40997314,
-    "close_price": 1007.71002197,
-    "percent_change": 1.64412799
-  },
-  {
-    "title": "Eos Energy Earnings Miss Estimates in Q4, Revenues Rise 10% Y/Y",
-    "published": 1741193940,
-    "posting_price": 989.28997803,
-    "close_price": 985.05999756,
-    "percent_change": -0.42757741
-  },
-  {
-    "title": "W.W. Grainger, Inc. (NYSE:GWW) is a favorite amongst institutional investors who own 74%",
-    "published": 1741086014,
-    "posting_price": 992.30999756,
-    "close_price": 988.7800293,
-    "percent_change": -0.35573241
-  },
-  {
-    "title": "ASHTY or GWW: Which Is the Better Value Stock Right Now?",
-    "published": 1741020024,
-    "posting_price": 1021.0,
-    "close_price": 999.5,
-    "percent_change": -2.10577865
-  },
-  {
-    "title": "Does This Valuation Of W.W. Grainger, Inc. (NYSE:GWW) Imply Investors Are Overpaying?",
-    "published": 1740751214,
-    "posting_price": 1020.0,
-    "close_price": 1021.21002197,
-    "percent_change": 0.1186296
-  },
-  {
-    "title": "Global Industrial Q4 Earnings Miss Estimates, Sales Decrease Y/Y",
-    "published": 1740586080,
-    "posting_price": 1007.20001221,
-    "close_price": 1008.08001709,
-    "percent_change": 0.08737141
-  },
-  {
-    "title": "Is the Options Market Predicting a Spike in Grainger (GWW) Stock?",
-    "published": 1740577680,
-    "posting_price": 1007.20001221,
-    "close_price": 1008.08001709,
-    "percent_change": 0.08737141
-  },
-  {
-    "title": "W.W. Grainger Full Year 2024 Earnings: In Line With Expectations",
-    "published": 1740393787,
-    "posting_price": 1005.17999268,
-    "close_price": 998.02001953,
-    "percent_change": -0.71230757
-  },
-  {
-    "title": "/C O R R E C T I O N -- W.W. Grainger, Inc./",
-    "published": 1740155760,
-    "posting_price": 1023.4699707,
-    "close_price": 1007.90002441,
-    "percent_change": -1.52129
-  },
-  {
-    "title": "ASHTY vs. GWW: Which Stock Is the Better Value Option?",
-    "published": 1739551214,
-    "posting_price": 1028.26000977,
-    "close_price": 1027.72998047,
-    "percent_change": -0.05154623
-  },
-  {
-    "title": "Sysco And Grainger Among 10 Companies To Announce Annual Dividend Increases In Second Half Of April",
-    "published": 1713200870,
-    "posting_price": 972.29096705,
-    "close_price": 947.85595703,
-    "percent_change": -2.51313761
-  },
-  {
-    "title": "The total return for W.W. Grainger (NYSE:GWW) investors has risen faster than earnings growth over the last five years",
-    "published": 1713189627,
-    "posting_price": 972.29096705,
-    "close_price": 947.85595703,
-    "percent_change": -2.51313761
-  },
-  {
-    "title": "Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1712929512,
-    "posting_price": 953.57041022,
-    "close_price": 957.3303833,
-    "percent_change": 0.39430471
-  },
-  {
-    "title": "ClearBridge Aggressive Growth Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712906400,
-    "posting_price": 953.57041022,
-    "close_price": 957.3303833,
-    "percent_change": 0.39430471
-  },
-  {
-    "title": "With 74% institutional ownership, W.W. Grainger, Inc. (NYSE:GWW) is a favorite amongst the big guns",
-    "published": 1712754014,
-    "posting_price": 994.27560958,
-    "close_price": 992.92633057,
-    "percent_change": -0.13570473
-  },
-  {
-    "title": "If You Invested $1000 in W.W. Grainger a Decade Ago, This is How Much It'd Be Worth Now",
-    "published": 1712665809,
-    "posting_price": 1007.86708842,
-    "close_price": 999.73205566,
-    "percent_change": -0.80715333
-  },
-  {
-    "title": "W.W. Grainger Made Strategic Finetuning But Valuation Stretches (Rating Downgrade)",
-    "published": 1712567533,
-    "posting_price": 1007.53969983,
-    "close_price": 1006.6864624,
-    "percent_change": -0.08468524
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: WillScot Mobile Mini Holdings (WSC), WW Grainger (GWW) and Qantas Airways Limited (OtherQUBSF)",
-    "published": 1712567460,
-    "posting_price": 1007.53969983,
-    "close_price": 1006.6864624,
-    "percent_change": -0.08468524
-  },
-  {
-    "title": "W.W Grainger: Seriously Overvalued Here",
-    "published": 1712321173,
-    "posting_price": 991.83508514,
-    "close_price": 1006.79571533,
-    "percent_change": 1.5083788
-  },
-  {
-    "title": "Carvana, Vroom, BuzzFeed, Encore Wire - Getting Paid To Take Risks With Courage & Conviction Investing",
-    "published": 1712233800,
-    "posting_price": 1004.47411893,
-    "close_price": 985.30706787,
-    "percent_change": -1.90816774
-  },
-  {
-    "title": "Grainger price target raised by $149 at RBC Capital, here's why",
-    "published": 1712206380,
-    "posting_price": 1004.47411893,
-    "close_price": 985.30706787,
-    "percent_change": -1.90816774
-  },
-  {
-    "title": "W.W. Grainger Inc. stock underperforms Thursday when compared to competitors",
-    "published": 1712202960,
-    "posting_price": 1004.47411893,
-    "close_price": 985.30706787,
-    "percent_change": -1.90816774
-  },
-  {
-    "title": "Nose-Bleed Section: 3 Stocks Priced Above $1,000\u00a0(and Worth It)",
-    "published": 1712175130,
-    "posting_price": 990.12869822,
-    "close_price": 998.7300415,
-    "percent_change": 0.86870962
-  },
-  {
-    "title": "Is W.W. Grainger, Inc.'s (NYSE:GWW) Recent Stock Performance Tethered To Its Strong Fundamentals?",
-    "published": 1712145624,
-    "posting_price": 990.12869822,
-    "close_price": 998.7300415,
-    "percent_change": 0.86870962
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Amazon, Deckers Outdoor, W.W. Grainger and NVIDIA",
-    "published": 1712049720,
-    "posting_price": 1002.09314313,
-    "close_price": 992.57904053,
-    "percent_change": -0.94942298
-  },
-  {
-    "title": "W.W. Grainger, Inc. (NYSE:GWW) Q1 2024 Earnings Call Transcript",
-    "published": 1714485810,
-    "posting_price": 924.38328219,
-    "close_price": 914.05566406,
-    "percent_change": -1.11724415
-  },
-  {
-    "title": "Why W.W. Grainger (GWW) is a Top Growth Stock for the Long-Term",
-    "published": 1714484709,
-    "posting_price": 924.38328219,
-    "close_price": 914.05566406,
-    "percent_change": -1.11724415
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: WW Grainger (GWW), Allegion (ALLE) and Union Pacific (UNP)",
-    "published": 1714441080,
-    "posting_price": 924.38328219,
-    "close_price": 914.05566406,
-    "percent_change": -1.11724415
-  },
-  {
-    "title": "Stephens & Co. Upgrades W.W. Grainger (GWW)",
-    "published": 1714434279,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "Here's What Analysts Are Forecasting For W.W. Grainger, Inc. (NYSE:GWW) After Its First-Quarter Results",
-    "published": 1714419315,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: SQL Technologies (SKYX), V2X (VVX) and WW Grainger (GWW)",
-    "published": 1714374960,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "Analyst Expectations For W.W. Grainger's Future",
-    "published": 1714374300,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "Grainger price target lowered by $25 at Loop Capital, here's why",
-    "published": 1714373640,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "Grainger just upgraded at Stephens, here's why",
-    "published": 1714370400,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "10 Stocks with Latest Dividend Increases",
-    "published": 1714312655,
-    "posting_price": 932.63740259,
-    "close_price": 927.1015625,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "W.W. Grainger (NYSE:GWW) Is Paying Out A Larger Dividend Than Last Year",
-    "published": 1714221078,
-    "posting_price": 932.63746399,
-    "close_price": 927.10162354,
-    "percent_change": -0.59356831
-  },
-  {
-    "title": "Graco (GGG) Q1 Earnings & Sales Miss Estimates, Decrease Y/Y",
-    "published": 1714149960,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "W.W. Grainger Inc (GWW) Q1 2024 Earnings Call Transcript Highlights: Key Financial Metrics and ...",
-    "published": 1714116374,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "Q1 2024 WW Grainger Inc Earnings Call",
-    "published": 1714112166,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "RBC Capital Sticks to Their Hold Rating for WW Grainger (GWW)",
-    "published": 1714109940,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "Decoding W.W. Grainger Inc (GWW): A Strategic SWOT Insight",
-    "published": 1714108023,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "W.W. Grainger (GWW) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1714098602,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "WW Grainger (GWW) Gets a Hold from KeyBanc",
-    "published": 1714095300,
-    "posting_price": 927.73652917,
-    "close_price": 921.90307617,
-    "percent_change": -0.62878337
-  },
-  {
-    "title": "Grainger (GWW) Q1 Earnings Beat Estimates, Revenues Rise Y/Y",
-    "published": 1714058520,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "W.W. Grainger, Inc. 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1714056619,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "W.W. Grainger, Inc. (GWW) Q1 2024 Earnings Call Transcript",
-    "published": 1714056544,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "W.W. Grainger Inc (GWW) Q1 2024 Earnings: Aligns with EPS Projections, Revenue Growth Exceeds ...",
-    "published": 1714053147,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "GRAINGER REPORTS RESULTS FOR THE FIRST QUARTER 2024",
-    "published": 1714046400,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "GWW Stock Earnings: W.W. Grainger Meets EPS, Misses Revenue for Q1 2024",
-    "published": 1714046040,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "Toolmaker W.W. Grainger quarterly revenue rises on industrial demand",
-    "published": 1714037871,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "W W Grainger : Q1 2024 Earnings Call",
-    "published": 1714033633,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "W.W. Grainger: Q1 Earnings Snapshot",
-    "published": 1714032614,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "W.W. Grainger GAAP EPS of $9.62 beats by $0.04, revenue of $4.24B misses by $20M",
-    "published": 1714032420,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "Grainger still sees 2024 EPS $38.00-$40.50, consensus $39.36",
-    "published": 1714028580,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "Grainger reports Q1 EPS $9.62, consensus $9.62",
-    "published": 1714028520,
-    "posting_price": 928.17305099,
-    "close_price": 940.33599854,
-    "percent_change": 1.31041809
-  },
-  {
-    "title": "GRAINGER'S SHAREHOLDERS ELECT 13 DIRECTORS AND OTHER ANNUAL MEETING HIGHLIGHTS",
-    "published": 1713972360,
-    "posting_price": 946.258728,
-    "close_price": 950.73303223,
-    "percent_change": 0.47284153
-  },
-  {
-    "title": "GRAINGER INCREASES QUARTERLY DIVIDEND BY 10%; REFRESHES SHARE REPURCHASE AUTHORIZATION",
-    "published": 1713967560,
-    "posting_price": 946.258728,
-    "close_price": 950.73303223,
-    "percent_change": 0.47284153
-  },
-  {
-    "title": "At US$956, Is W.W. Grainger, Inc. (NYSE:GWW) Worth Looking At Closely?",
-    "published": 1713967217,
-    "posting_price": 946.258728,
-    "close_price": 950.73303223,
-    "percent_change": 0.47284153
-  },
-  {
-    "title": "Grainger boosts quarterly dividend by 10%, buyback to 5M shares",
-    "published": 1713949800,
-    "posting_price": 946.258728,
-    "close_price": 950.73303223,
-    "percent_change": 0.47284153
-  },
-  {
-    "title": "W.W. Grainger Q1 2024 Earnings Preview",
-    "published": 1713921900,
-    "posting_price": 946.258728,
-    "close_price": 950.73303223,
-    "percent_change": 0.47284153
-  },
-  {
-    "title": "Grainger (GWW) Set to Report Q1 Earnings: What's in Store?",
-    "published": 1713800820,
-    "posting_price": 940.97085865,
-    "close_price": 934.6116333,
-    "percent_change": -0.67581533
-  },
-  {
-    "title": "Countdown to W.W. Grainger (GWW) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS",
-    "published": 1713791767,
-    "posting_price": 940.97085865,
-    "close_price": 934.6116333,
-    "percent_change": -0.67581533
-  },
-  {
-    "title": "RBC Capital Reaffirms Their Hold Rating on WW Grainger (GWW)",
-    "published": 1713775860,
-    "posting_price": 940.97085865,
-    "close_price": 934.6116333,
-    "percent_change": -0.67581533
-  },
-  {
-    "title": "These 4 Measures Indicate That W.W. Grainger (NYSE:GWW) Is Using Debt Reasonably Well",
-    "published": 1713524420,
-    "posting_price": 933.073992,
-    "close_price": 935.18713379,
-    "percent_change": 0.22647098
-  },
-  {
-    "title": "5 Industrial Product Stocks to Buy on Stable Demand in March",
-    "published": 1713443880,
-    "posting_price": 948.4214365,
-    "close_price": 930.11749268,
-    "percent_change": -1.9299378
-  },
-  {
-    "title": "Is W.W. Grainger (GWW) Stock Outpacing Its Industrial Products Peers This Year?",
-    "published": 1713361210,
-    "posting_price": 954.86009711,
-    "close_price": 942.39953613,
-    "percent_change": -1.30496195
-  },
-  {
-    "title": "Bet on Winning DuPont Analysis & Pick 5 Top Stocks",
-    "published": 1713356760,
-    "posting_price": 954.86009711,
-    "close_price": 942.39953613,
-    "percent_change": -1.30496195
-  },
-  {
-    "title": "ClearBridge Multi Cap Growth Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1713340800,
-    "posting_price": 954.86009711,
-    "close_price": 942.39953613,
-    "percent_change": -1.30496195
+    "title": "W.W. Grainger, Inc. (NYSE:GWW) Looks Interesting, And It's About To Pay A Dividend",
+    "published": 1714911079,
+    "day_prices": {},
+    "sentiment": 0.5696775317192078
+  },
+  {
+    "title": "$1000 Invested In This Stock 5 Years Ago Would Be Worth $3,500 Today",
+    "published": 1715740320,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 953.6699829101562,
+      "2024-05-15T14:30:00+00:00": 955.030029296875,
+      "2024-05-15T15:30:00+00:00": 959.6099853515625,
+      "2024-05-15T16:30:00+00:00": 957.64501953125,
+      "2024-05-15T17:30:00+00:00": 955.9099731445312,
+      "2024-05-15T18:30:00+00:00": 956.3300170898438,
+      "2024-05-15T19:30:00+00:00": 953.4650268554688
+    },
+    "sentiment": 0.9521733522415161
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds W.W. Grainger",
+    "published": 1715341620,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 957.4099731445312,
+      "2024-05-10T14:30:00+00:00": 954.0999755859375,
+      "2024-05-10T15:30:00+00:00": 955.469970703125,
+      "2024-05-10T16:30:00+00:00": 958.1699829101562,
+      "2024-05-10T17:30:00+00:00": 959.489990234375,
+      "2024-05-10T18:30:00+00:00": 958.1900024414062,
+      "2024-05-10T19:30:00+00:00": 958.1649780273438
+    },
+    "sentiment": 0.9490646719932556
+  },
+  {
+    "title": "W.W. Grainger Inc. stock outperforms competitors on strong trading day",
+    "published": 1716263940,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 956.7999877929688,
+      "2024-05-21T14:30:00+00:00": 951.8900146484375,
+      "2024-05-21T15:30:00+00:00": 952.0,
+      "2024-05-21T16:30:00+00:00": 951.75,
+      "2024-05-21T17:30:00+00:00": 952.6199951171875,
+      "2024-05-21T18:30:00+00:00": 953.1300048828125,
+      "2024-05-21T19:30:00+00:00": 953.5999755859375
+    },
+    "sentiment": 0.9302965998649597
+  },
+  {
+    "title": "W.W. Grainger Inc. stock underperforms Friday when compared to competitors",
+    "published": 1715918400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 949.0999755859375,
+      "2024-05-17T14:30:00+00:00": 946.0999755859375,
+      "2024-05-17T15:30:00+00:00": 940.1400146484375,
+      "2024-05-17T16:30:00+00:00": 939.0900268554688,
+      "2024-05-17T17:30:00+00:00": 938.6649780273438,
+      "2024-05-17T18:30:00+00:00": 941.0,
+      "2024-05-17T19:30:00+00:00": 943.4450073242188
+    },
+    "sentiment": 0.9534685611724854
+  },
+  {
+    "title": "Here's Why W.W. Grainger (GWW) is a Strong Growth Stock",
+    "published": 1715867108,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 954.52001953125,
+      "2024-05-16T14:30:00+00:00": 950.385009765625,
+      "2024-05-16T15:30:00+00:00": 954.2000122070312,
+      "2024-05-16T16:30:00+00:00": 951.3499755859375,
+      "2024-05-16T17:30:00+00:00": 952.6199951171875,
+      "2024-05-16T18:30:00+00:00": 947.4381713867188,
+      "2024-05-16T19:30:00+00:00": 948.7999877929688
+    },
+    "sentiment": 0.6267458200454712
   }
 ]

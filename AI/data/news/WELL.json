@@ -1,345 +1,162 @@
 [
   {
-    "title": "Bet on These 3 Equity REIT Stocks Despite Industry Challenges",
-    "published": 1742314800,
-    "posting_price": 151.0,
-    "close_price": 149.97000122,
-    "percent_change": -0.6821184
+    "title": "WELL Health to Announce First Quarter 2024 Financial Results on May 8, 2024",
+    "published": 1715013000,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 96.5,
+      "2024-05-06T14:30:00+00:00": 96.19999694824219,
+      "2024-05-06T15:30:00+00:00": 96.04000091552734,
+      "2024-05-06T16:30:00+00:00": 96.27999877929688,
+      "2024-05-06T17:30:00+00:00": 96.58999633789062,
+      "2024-05-06T18:30:00+00:00": 96.68000030517578,
+      "2024-05-06T19:30:00+00:00": 96.58000183105469
+    },
+    "sentiment": 0.941771388053894
   },
   {
-    "title": "Welltower Stock Gains 14.5% in 3 Months: Will it Continue to Rise?",
-    "published": 1741798560,
-    "posting_price": 148.17999268,
-    "close_price": 147.38000488,
-    "percent_change": -0.53987572
+    "title": "Welltower price target raised by $2 at Wedbush, here's why",
+    "published": 1714723200,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 96.95999908447266,
+      "2024-05-03T14:30:00+00:00": 95.20999908447266,
+      "2024-05-03T15:30:00+00:00": 95.70500183105469,
+      "2024-05-03T16:30:00+00:00": 95.77999877929688,
+      "2024-05-03T17:30:00+00:00": 95.75,
+      "2024-05-03T18:30:00+00:00": 95.99500274658203,
+      "2024-05-03T19:30:00+00:00": 96.16999816894531
+    },
+    "sentiment": 0.7134883403778076
   },
   {
-    "title": "4 Reasons to Add Welltower Stock to Your Portfolio Right Now",
-    "published": 1741281420,
-    "posting_price": 153.72000122,
-    "close_price": 148.97000122,
-    "percent_change": -3.0900338
+    "title": "WELL Launches its Second-Generation AI powered Physician Co-pilot with Chronic Disease Detection Powered by HEALWELL AI",
+    "published": 1714636800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 95.0,
+      "2024-05-02T14:30:00+00:00": 94.45999908447266,
+      "2024-05-02T15:30:00+00:00": 94.38999938964844,
+      "2024-05-02T16:30:00+00:00": 94.58999633789062,
+      "2024-05-02T17:30:00+00:00": 95.20500183105469,
+      "2024-05-02T18:30:00+00:00": 95.70999908447266,
+      "2024-05-02T19:30:00+00:00": 95.94000244140625
+    },
+    "sentiment": 0.49532756209373474
   },
   {
-    "title": "Welltower to Acquire Amica Senior Lifestyles Portfolio in Canada",
-    "published": 1741026060,
-    "posting_price": 153.49000549,
-    "close_price": 156.86000061,
-    "percent_change": 2.19557952
+    "title": "Analysts\u2019 Opinions Are Mixed on These Real Estate Stocks: Macerich (MAC) and Welltower (WELL)",
+    "published": 1714616520,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 95.0,
+      "2024-05-02T14:30:00+00:00": 94.45999908447266,
+      "2024-05-02T15:30:00+00:00": 94.38999938964844,
+      "2024-05-02T16:30:00+00:00": 94.58999633789062,
+      "2024-05-02T17:30:00+00:00": 95.20500183105469,
+      "2024-05-02T18:30:00+00:00": 95.70999908447266,
+      "2024-05-02T19:30:00+00:00": 95.94000244140625
+    },
+    "sentiment": 0.7364891171455383
   },
   {
-    "title": "Ventas Q4 FFO and Revenues Top Estimates, Same-Store Cash NOI Rises",
-    "published": 1739462340,
-    "posting_price": 146.19686737,
-    "close_price": 150.76644897,
-    "percent_change": 3.12563578
+    "title": "Q1 2024 Welltower Inc Earnings Call",
+    "published": 1714542130,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 95.0199966430664,
+      "2024-05-01T14:30:00+00:00": 95.29000091552734,
+      "2024-05-01T15:30:00+00:00": 95.62999725341797,
+      "2024-05-01T16:30:00+00:00": 95.33599853515625,
+      "2024-05-01T17:30:00+00:00": 95.08999633789062,
+      "2024-05-01T18:30:00+00:00": 95.18000030517578,
+      "2024-05-01T19:30:00+00:00": 95.1500015258789
+    },
+    "sentiment": 0.7304301261901855
   },
   {
-    "title": "Here's Why You Should Retain BXP Stock in Your Portfolio Now",
-    "published": 1739461620,
-    "posting_price": 146.19686737,
-    "close_price": 150.76644897,
-    "percent_change": 3.12563578
+    "title": "HEALWELL AI Reports Q1-2024 Financial Results",
+    "published": 1715704980,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 99.7699966430664,
+      "2024-05-14T14:30:00+00:00": 100.08999633789062,
+      "2024-05-14T15:30:00+00:00": 99.44999694824219,
+      "2024-05-14T16:30:00+00:00": 99.16999816894531,
+      "2024-05-14T17:30:00+00:00": 98.94000244140625,
+      "2024-05-14T18:30:00+00:00": 99.1500015258789,
+      "2024-05-14T19:30:00+00:00": 99.19000244140625
+    },
+    "sentiment": 0.8651654720306396
   },
   {
-    "title": "Welltower's Q4 FFO & Revenues Beat Estimates, Same Store NOI Rises",
-    "published": 1739376360,
-    "posting_price": 143.90709515,
-    "close_price": 145.84841919,
-    "percent_change": 1.34901204
+    "title": "Welltower Valuation Analysis: A Hold Rating Amid Strong Fundamentals and Premium Pricing",
+    "published": 1715593560,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 99.08999633789062,
+      "2024-05-13T14:30:00+00:00": 98.93000030517578,
+      "2024-05-13T15:30:00+00:00": 98.91000366210938,
+      "2024-05-13T16:30:00+00:00": 99.16000366210938,
+      "2024-05-13T17:30:00+00:00": 99.16000366210938,
+      "2024-05-13T18:30:00+00:00": 99.23500061035156,
+      "2024-05-13T19:30:00+00:00": 99.42500305175781
+    },
+    "sentiment": 0.923017680644989
   },
   {
-    "title": "My Biggest Losses And Lessons",
-    "published": 1712993400,
-    "posting_price": 88.5249446,
-    "close_price": 87.22296143,
-    "percent_change": -1.47075288
+    "title": "WELL Health Reports Record Quarterly Revenue and Record Net Income for a first quarter in Q1-2024 and Increases Both Revenue and Adjusted EBITDA Guidance for 2024",
+    "published": 1715151600,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 97.80000305175781,
+      "2024-05-08T14:30:00+00:00": 97.9800033569336,
+      "2024-05-08T15:30:00+00:00": 98.19499969482422,
+      "2024-05-08T16:30:00+00:00": 98.13999938964844,
+      "2024-05-08T17:30:00+00:00": 97.96499633789062,
+      "2024-05-08T18:30:00+00:00": 98.06999969482422,
+      "2024-05-08T19:30:00+00:00": 98.5199966430664
+    },
+    "sentiment": 0.9514637589454651
   },
   {
-    "title": "Welltower Announces Date of First Quarter 2024 Earnings Release, Conference Call and Webcast",
-    "published": 1712779560,
-    "posting_price": 88.02568167,
-    "close_price": 88.2997818,
-    "percent_change": 0.31138655
+    "title": "Welltower price target raised by $7 at Mizuho, here's why",
+    "published": 1715148240,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 97.80000305175781,
+      "2024-05-08T14:30:00+00:00": 97.9800033569336,
+      "2024-05-08T15:30:00+00:00": 98.19499969482422,
+      "2024-05-08T16:30:00+00:00": 98.13999938964844,
+      "2024-05-08T17:30:00+00:00": 97.96499633789062,
+      "2024-05-08T18:30:00+00:00": 98.06999969482422,
+      "2024-05-08T19:30:00+00:00": 98.5199966430664
+    },
+    "sentiment": 0.6330832839012146
   },
   {
-    "title": "Welltower: High Quality Comes At A Full Price",
-    "published": 1712650200,
-    "posting_price": 89.84650784,
-    "close_price": 90.06187439,
-    "percent_change": 0.23970498
+    "title": "Surprise Spring Slowdown",
+    "published": 1716109200,
+    "day_prices": {},
+    "sentiment": 0.8884537816047668
   },
   {
-    "title": "Bank of America Securities Keeps Their Buy Rating on Welltower (WELL)",
-    "published": 1712566020,
-    "posting_price": 89.55282578,
-    "close_price": 89.85629272,
-    "percent_change": 0.3388692
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 101.43000030517578,
+      "2024-05-16T14:30:00+00:00": 101.23999786376953,
+      "2024-05-16T15:30:00+00:00": 101.51499938964844,
+      "2024-05-16T16:30:00+00:00": 101.29000091552734,
+      "2024-05-16T17:30:00+00:00": 101.0250015258789,
+      "2024-05-16T18:30:00+00:00": 101.1500015258789,
+      "2024-05-16T19:30:00+00:00": 101.08999633789062
+    },
+    "sentiment": 0.8883899450302124
   },
   {
-    "title": "Here's Why Welltower (WELL) is an Apt Portfolio Pick for Now",
-    "published": 1712248740,
-    "posting_price": 90.17933723,
-    "close_price": 88.534729,
-    "percent_change": -1.82370849
-  },
-  {
-    "title": "Welltower Inc. stock outperforms competitors despite losses on the day",
-    "published": 1712202960,
-    "posting_price": 90.17933723,
-    "close_price": 88.534729,
-    "percent_change": -1.82370849
-  },
-  {
-    "title": "Welltower (WELL) Q1 FFO Beat Estimates, Same Store NOI Rises",
-    "published": 1714494240,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "Welltower Inc. (WELL) Q1 2024 Earnings Call Transcript",
-    "published": 1714482326,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "Decoding Welltower Inc (WELL): A Strategic SWOT Insight",
-    "published": 1714475160,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "Welltower : Proxy Statement Supplement",
-    "published": 1714471936,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "WELL Health Technologies Announces Collaboration with Microsoft to Accelerate Healthcare's Digital Transformation",
-    "published": 1714460400,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "WELL Health\u2019s Strategic Alliance with Microsoft",
-    "published": 1714459740,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "Analysts\u2019 Top Real Estate Picks: Welltower (WELL), Brixmor Property (BRX)",
-    "published": 1714458660,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "Welltower declares $0.61 dividend",
-    "published": 1714441080,
-    "posting_price": 92.52877469,
-    "close_price": 93.27276611,
-    "percent_change": 0.80406492
-  },
-  {
-    "title": "Compared to Estimates, Welltower (WELL) Q1 Earnings: A Look at Key Metrics",
-    "published": 1714428005,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower Inc. Reports Q1 2024 Earnings: A Detailed Analysis",
-    "published": 1714427517,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower (WELL) Q1 FFO and Revenues Beat Estimates",
-    "published": 1714426202,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower Issues Business Update",
-    "published": 1714422360,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower Reports First Quarter 2024 Results",
-    "published": 1714422060,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower raises annual FFO forecast on senior housing strength",
-    "published": 1714411981,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower: Q1 Earnings Snapshot",
-    "published": 1714408090,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower: A Strong Buy on Robust Financials and Positive Growth Outlook",
-    "published": 1714379880,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Buy Rating Affirmed: Welltower\u2019s Strong Q1 Performance and Raised FFO Guidance Signal Robust Growth Potential",
-    "published": 1714372560,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "WELL Stock Earnings: Welltower Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1714370160,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower boosts full-year guidance after senior housing propels Q1 earnings",
-    "published": 1714362300,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower FFO of $1.01 beats by $0.06, revenue of $1.86B in-line",
-    "published": 1714361280,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower raises FY24 normalized FFO view to $4.02-$4.15 from $3.94-$4.10",
-    "published": 1714361160,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower reports Q1 FFO $1.01, consensus 94c",
-    "published": 1714361100,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Welltower options imply 2.9% move in share price post-earnings",
-    "published": 1714357560,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Compound Your Wealth With These Undervalued Dividends",
-    "published": 1714210200,
-    "posting_price": 93.08676356,
-    "close_price": 93.76222992,
-    "percent_change": 0.72563094
-  },
-  {
-    "title": "Is a Surprise Coming for Welltower (WELL) This Earnings Season?",
-    "published": 1714048920,
-    "posting_price": 91.21701217,
-    "close_price": 92.01973724,
-    "percent_change": 0.88001684
-  },
-  {
-    "title": "Welltower (WELL) to Report Q1 Earnings: What's in the Cards?",
-    "published": 1713977040,
-    "posting_price": 90.25765131,
-    "close_price": 91.72605133,
-    "percent_change": 1.62689811
-  },
-  {
-    "title": "Highwoods (HIW) Q1 FFO Miss Estimates, '24 View Revised",
-    "published": 1713976800,
-    "posting_price": 90.25765131,
-    "close_price": 91.72605133,
-    "percent_change": 1.62689811
-  },
-  {
-    "title": "Unlocking Q1 Potential of Welltower (WELL): Exploring Wall Street Estimates for Key Metrics",
-    "published": 1713964525,
-    "posting_price": 90.25765131,
-    "close_price": 91.72605133,
-    "percent_change": 1.62689811
-  },
-  {
-    "title": "Best Canadian Penny Stocks to Buy in April 2024, According to Analysts",
-    "published": 1713939660,
-    "posting_price": 90.25765131,
-    "close_price": 91.72605133,
-    "percent_change": 1.62689811
-  },
-  {
-    "title": "My Biggest REIT Wins And Lessons",
-    "published": 1713598200,
-    "posting_price": 89.79755892,
-    "close_price": 89.68008423,
-    "percent_change": -0.1308217
-  },
-  {
-    "title": "WELL December 20th Options Begin Trading",
-    "published": 1713432960,
-    "posting_price": 87.85926756,
-    "close_price": 88.89693451,
-    "percent_change": 1.18105577
-  },
-  {
-    "title": "10 Best Alternatives to Nursing Homes and Assisted Living",
-    "published": 1713412708,
-    "posting_price": 87.85926756,
-    "close_price": 88.89693451,
-    "percent_change": 1.18105577
-  },
-  {
-    "title": "WELL Health to Expand its Canadian Clinic Network with Acquisition from Shoppers Drug Mart Inc. of Medical Clinics operating as \"The Health Clinic by Shoppers\u2122\"",
-    "published": 1713285000,
-    "posting_price": 86.83138362,
-    "close_price": 86.44960022,
-    "percent_change": -0.43968365
-  },
-  {
-    "title": "Analysts Offer Insights on Real Estate Companies: Rexford Industrial Realty (REXR), Welltower (WELL) and Crown Castle (CCI)",
-    "published": 1713270060,
-    "posting_price": 86.83138362,
-    "close_price": 86.44960022,
-    "percent_change": -0.43968365
-  },
-  {
-    "title": "WELL Health Boosts Network with Shoppers Clinic Acquisition",
-    "published": 1713240540,
-    "posting_price": 86.83138362,
-    "close_price": 86.44960022,
-    "percent_change": -0.43968365
-  },
-  {
-    "title": "Peering Into Welltower's Recent Short Interest",
-    "published": 1713239340,
-    "posting_price": 86.83138362,
-    "close_price": 86.44960022,
-    "percent_change": -0.43968365
+    "title": "HEALWELL AI Participates in Leading-Edge Research on Chronic Kidney Disease Highlighting the Potential of its AI Powered Clinical Co-Pilot",
+    "published": 1715844540,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 101.43000030517578,
+      "2024-05-16T14:30:00+00:00": 101.23999786376953,
+      "2024-05-16T15:30:00+00:00": 101.51499938964844,
+      "2024-05-16T16:30:00+00:00": 101.29000091552734,
+      "2024-05-16T17:30:00+00:00": 101.0250015258789,
+      "2024-05-16T18:30:00+00:00": 101.1500015258789,
+      "2024-05-16T19:30:00+00:00": 101.08999633789062
+    },
+    "sentiment": 0.8382165431976318
   }
 ]

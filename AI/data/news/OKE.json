@@ -1,394 +1,288 @@
 [
   {
-    "title": "Kinder Morgan: Let The Past Be The Past",
-    "published": 1713220648,
-    "posting_price": 75.76377707,
-    "close_price": 74.41596985,
-    "percent_change": -1.77895991
+    "title": "Discussing Energy In America\u2019s Heartland",
+    "published": 1714887840,
+    "day_prices": {},
+    "sentiment": 0.8929606676101685
   },
   {
-    "title": "Oneok Inc. (OKE) Stock Moves -1.08%: What You Should Know",
-    "published": 1713219317,
-    "posting_price": 75.76377707,
-    "close_price": 74.41596985,
-    "percent_change": -1.77895991
+    "title": "ONEOK, Inc. Just Missed Revenue By 16%: Here's What Analysts Think Will Happen Next",
+    "published": 1714736928,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 77.04000091552734,
+      "2024-05-03T14:30:00+00:00": 76.47000122070312,
+      "2024-05-03T15:30:00+00:00": 76.61000061035156,
+      "2024-05-03T16:30:00+00:00": 76.87000274658203,
+      "2024-05-03T17:30:00+00:00": 76.97000122070312,
+      "2024-05-03T18:30:00+00:00": 77.0,
+      "2024-05-03T19:30:00+00:00": 77.07499694824219
+    },
+    "sentiment": 0.8563944697380066
   },
   {
-    "title": "Barclays Reaffirms Their Hold Rating on Oneok (OKE)",
-    "published": 1713151560,
-    "posting_price": 75.76377707,
-    "close_price": 74.41596985,
-    "percent_change": -1.77895991
+    "title": "Analysts Conflicted on These Energy Names: Oneok (OKE), Marathon Oil (MRO) and Comstock Resources (CRK)",
+    "published": 1714635240,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.9800033569336,
+      "2024-05-02T14:30:00+00:00": 76.95999908447266,
+      "2024-05-02T15:30:00+00:00": 77.0,
+      "2024-05-02T16:30:00+00:00": 76.9800033569336,
+      "2024-05-02T17:30:00+00:00": 77.55999755859375,
+      "2024-05-02T18:30:00+00:00": 77.47000122070312,
+      "2024-05-02T19:30:00+00:00": 77.2699966430664
+    },
+    "sentiment": 0.5886144638061523
   },
   {
-    "title": "What Ever Happened To Master Limited Partnerships?",
-    "published": 1712973600,
-    "posting_price": 75.76377707,
-    "close_price": 74.41596985,
-    "percent_change": -1.77895991
+    "title": "ONEOK Inc (OKE) (Q1 2024) Earnings Call Transcript Highlights: Strong Start with Enhanced ...",
+    "published": 1714634910,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.9800033569336,
+      "2024-05-02T14:30:00+00:00": 76.95999908447266,
+      "2024-05-02T15:30:00+00:00": 77.0,
+      "2024-05-02T16:30:00+00:00": 76.9800033569336,
+      "2024-05-02T17:30:00+00:00": 77.55999755859375,
+      "2024-05-02T18:30:00+00:00": 77.47000122070312,
+      "2024-05-02T19:30:00+00:00": 77.2699966430664
+    },
+    "sentiment": 0.9431775808334351
   },
   {
-    "title": "ONEOK: I'm Collecting Tolls From This Reliable Dividend Payer",
-    "published": 1712769616,
-    "posting_price": 75.7924667,
-    "close_price": 75.57260895,
-    "percent_change": -0.29007863
+    "title": "Oneok price target raised by $4 at Wells Fargo, here's why",
+    "published": 1714627800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.9800033569336,
+      "2024-05-02T14:30:00+00:00": 76.95999908447266,
+      "2024-05-02T15:30:00+00:00": 77.0,
+      "2024-05-02T16:30:00+00:00": 76.9800033569336,
+      "2024-05-02T17:30:00+00:00": 77.55999755859375,
+      "2024-05-02T18:30:00+00:00": 77.47000122070312,
+      "2024-05-02T19:30:00+00:00": 77.2699966430664
+    },
+    "sentiment": 0.7448806762695312
   },
   {
-    "title": "OKE and F: The only 5% dividend stocks within the S&P 500 that are beating the index YTD",
-    "published": 1712753340,
-    "posting_price": 75.7924667,
-    "close_price": 75.57260895,
-    "percent_change": -0.29007863
+    "title": "What Analysts Are Saying About ONEOK Stock",
+    "published": 1714622760,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.9800033569336,
+      "2024-05-02T14:30:00+00:00": 76.95999908447266,
+      "2024-05-02T15:30:00+00:00": 77.0,
+      "2024-05-02T16:30:00+00:00": 76.9800033569336,
+      "2024-05-02T17:30:00+00:00": 77.55999755859375,
+      "2024-05-02T18:30:00+00:00": 77.47000122070312,
+      "2024-05-02T19:30:00+00:00": 77.2699966430664
+    },
+    "sentiment": 0.9264309406280518
   },
   {
-    "title": "A Safe, Profitable Bet on the Green Transition",
-    "published": 1712741400,
-    "posting_price": 75.7924667,
-    "close_price": 75.57260895,
-    "percent_change": -0.29007863
+    "title": "ONEOK, Inc. 2024 Q1 - Results - Earnings Call Presentation",
+    "published": 1714583691,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 77.58999633789062,
+      "2024-05-01T14:30:00+00:00": 77.5199966430664,
+      "2024-05-01T15:30:00+00:00": 77.08999633789062,
+      "2024-05-01T16:30:00+00:00": 77.08000183105469,
+      "2024-05-01T17:30:00+00:00": 77.33999633789062,
+      "2024-05-01T18:30:00+00:00": 77.41999816894531,
+      "2024-05-01T19:30:00+00:00": 77.23999786376953
+    },
+    "sentiment": 0.9255391359329224
   },
   {
-    "title": "Midstream Investing In NGLs Amid Record Exports",
-    "published": 1712736600,
-    "posting_price": 75.7924667,
-    "close_price": 75.57260895,
-    "percent_change": -0.29007863
+    "title": "ONEOK (OKE) Q1 Earnings & Revenues Fall Shy of Estimates",
+    "published": 1714566420,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 77.58999633789062,
+      "2024-05-01T14:30:00+00:00": 77.5199966430664,
+      "2024-05-01T15:30:00+00:00": 77.08999633789062,
+      "2024-05-01T16:30:00+00:00": 77.08000183105469,
+      "2024-05-01T17:30:00+00:00": 77.33999633789062,
+      "2024-05-01T18:30:00+00:00": 77.41999816894531,
+      "2024-05-01T19:30:00+00:00": 77.23999786376953
+    },
+    "sentiment": 0.9712982773780823
   },
   {
-    "title": "ONEOK: A Solid Distribution Play With A 5% Yield",
-    "published": 1712702734,
-    "posting_price": 76.71967428,
-    "close_price": 76.34687805,
-    "percent_change": -0.48591999
+    "title": "Seaport Global Keeps Their Buy Rating on Oneok (OKE)",
+    "published": 1714549560,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 77.58999633789062,
+      "2024-05-01T14:30:00+00:00": 77.5199966430664,
+      "2024-05-01T15:30:00+00:00": 77.08999633789062,
+      "2024-05-01T16:30:00+00:00": 77.08000183105469,
+      "2024-05-01T17:30:00+00:00": 77.33999633789062,
+      "2024-05-01T18:30:00+00:00": 77.41999816894531,
+      "2024-05-01T19:30:00+00:00": 77.23999786376953
+    },
+    "sentiment": 0.9069920182228088
   },
   {
-    "title": "3 Energy Stocks Stand Among S&P 500's Top 10 Performers In 2024 As Oil Prices Reach $90",
-    "published": 1712632860,
-    "posting_price": 76.71967428,
-    "close_price": 76.34687805,
-    "percent_change": -0.48591999
+    "title": "Analysts\u2019 Top Energy Picks: Oneok (OKE), Helmerich & Payne (HP)",
+    "published": 1714531260,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 77.58999633789062,
+      "2024-05-01T14:30:00+00:00": 77.5199966430664,
+      "2024-05-01T15:30:00+00:00": 77.08999633789062,
+      "2024-05-01T16:30:00+00:00": 77.08000183105469,
+      "2024-05-01T17:30:00+00:00": 77.33999633789062,
+      "2024-05-01T18:30:00+00:00": 77.41999816894531,
+      "2024-05-01T19:30:00+00:00": 77.23999786376953
+    },
+    "sentiment": 0.7012152075767517
   },
   {
-    "title": "ONEOK Insiders Placed Bullish Bets Worth US$2.00m",
-    "published": 1712587262,
-    "posting_price": 76.42334356,
-    "close_price": 76.45202637,
-    "percent_change": 0.03753148
+    "title": "This 4.9%-Yielding Dividend Stock Is Adding Fuel to Accelerate Growth",
+    "published": 1715681640,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 80.62000274658203,
+      "2024-05-14T14:30:00+00:00": 80.7699966430664,
+      "2024-05-14T15:30:00+00:00": 81.23999786376953,
+      "2024-05-14T16:30:00+00:00": 80.97029876708984,
+      "2024-05-14T17:30:00+00:00": 80.9800033569336,
+      "2024-05-14T18:30:00+00:00": 81.16000366210938,
+      "2024-05-14T19:30:00+00:00": 81.51000213623047
+    },
+    "sentiment": 0.8744012117385864
   },
   {
-    "title": "Upside Isn't Over For MPLX LP Yet",
-    "published": 1712575467,
-    "posting_price": 76.42334356,
-    "close_price": 76.45202637,
-    "percent_change": 0.03753148
+    "title": "Analysts Are Bullish on These Energy Stocks: Western Midstream Partners (WES), Oneok (OKE)",
+    "published": 1715667060,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 80.62000274658203,
+      "2024-05-14T14:30:00+00:00": 80.7699966430664,
+      "2024-05-14T15:30:00+00:00": 81.23999786376953,
+      "2024-05-14T16:30:00+00:00": 80.97029876708984,
+      "2024-05-14T17:30:00+00:00": 80.9800033569336,
+      "2024-05-14T18:30:00+00:00": 81.16000366210938,
+      "2024-05-14T19:30:00+00:00": 81.51000213623047
+    },
+    "sentiment": 0.7887161374092102
   },
   {
-    "title": "Fitch Affirms ONEOK's IDR at 'BBB'; Outlook Stable",
-    "published": 1712555903,
-    "posting_price": 76.42334356,
-    "close_price": 76.45202637,
-    "percent_change": 0.03753148
+    "title": "ONEOK to Participate in Citi Energy and Climate Technology Conference",
+    "published": 1715631300,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 80.25,
+      "2024-05-13T14:30:00+00:00": 80.40499877929688,
+      "2024-05-13T15:30:00+00:00": 80.30999755859375,
+      "2024-05-13T16:30:00+00:00": 81.0,
+      "2024-05-13T17:30:00+00:00": 80.86000061035156,
+      "2024-05-13T18:30:00+00:00": 80.92500305175781,
+      "2024-05-13T19:30:00+00:00": 80.93499755859375
+    },
+    "sentiment": 0.8772743344306946
   },
   {
-    "title": "Markets broaden out as all-time highs are seen across ALL, CAT, DELL, RJF, and more",
-    "published": 1712231700,
-    "posting_price": 76.90128749,
-    "close_price": 75.72554779,
-    "percent_change": -1.52889469
+    "title": "Easton Energy Enters Agreement to Sell its Gulf Coast Liquids Pipeline System",
+    "published": 1715587200,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 80.25,
+      "2024-05-13T14:30:00+00:00": 80.40499877929688,
+      "2024-05-13T15:30:00+00:00": 80.30999755859375,
+      "2024-05-13T16:30:00+00:00": 81.0,
+      "2024-05-13T17:30:00+00:00": 80.86000061035156,
+      "2024-05-13T18:30:00+00:00": 80.92500305175781,
+      "2024-05-13T19:30:00+00:00": 80.93499755859375
+    },
+    "sentiment": 0.7770022749900818
   },
   {
-    "title": "Stock winners of Republican policy if Trump wins - GS",
-    "published": 1712111100,
-    "posting_price": 76.62409341,
-    "close_price": 76.61453247,
-    "percent_change": -0.01247772
+    "title": "Oneok to acquire NGL pipelines from Easton Energy for $280M",
+    "published": 1715583780,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 80.25,
+      "2024-05-13T14:30:00+00:00": 80.40499877929688,
+      "2024-05-13T15:30:00+00:00": 80.30999755859375,
+      "2024-05-13T16:30:00+00:00": 81.0,
+      "2024-05-13T17:30:00+00:00": 80.86000061035156,
+      "2024-05-13T18:30:00+00:00": 80.92500305175781,
+      "2024-05-13T19:30:00+00:00": 80.93499755859375
+    },
+    "sentiment": 0.8769436478614807
   },
   {
-    "title": "Energy Transfer: Moving America's Energy At ~40% Discount To Peers",
-    "published": 1712030177,
-    "posting_price": 76.42334825,
-    "close_price": 76.47114563,
-    "percent_change": 0.0625429
+    "title": "EPD vs. OKE: Which Stock Should Value Investors Buy Now?",
+    "published": 1716392411,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 82.72000122070312,
+      "2024-05-22T14:30:00+00:00": 81.71749877929688,
+      "2024-05-22T15:30:00+00:00": 81.96499633789062,
+      "2024-05-22T16:30:00+00:00": 81.9800033569336,
+      "2024-05-22T17:30:00+00:00": 82.08000183105469,
+      "2024-05-22T18:30:00+00:00": 81.54000091552734,
+      "2024-05-22T19:30:00+00:00": 81.38999938964844
+    },
+    "sentiment": 0.9283730387687683
   },
   {
-    "title": "ONEOK's first-quarter profit falls on higher operating costs",
-    "published": 1714516220,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
+    "title": "Energy Transfer: Surging Profits Meet Discounted Valuation",
+    "published": 1716363400,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 82.72000122070312,
+      "2024-05-22T14:30:00+00:00": 81.71749877929688,
+      "2024-05-22T15:30:00+00:00": 81.96499633789062,
+      "2024-05-22T16:30:00+00:00": 81.9800033569336,
+      "2024-05-22T17:30:00+00:00": 82.08000183105469,
+      "2024-05-22T18:30:00+00:00": 81.54000091552734,
+      "2024-05-22T19:30:00+00:00": 81.38999938964844
+    },
+    "sentiment": 0.5337640047073364
   },
   {
-    "title": "ONEOK Inc. Reports Q1 2024 Earnings: Misses EPS Estimates but Raises Full-Year Guidance",
-    "published": 1714513962,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
+    "title": "The AI Boom Is Powering Gas-Pipeline Stocks",
+    "published": 1716314160,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 82.70999908447266,
+      "2024-05-21T14:30:00+00:00": 83.19499969482422,
+      "2024-05-21T15:30:00+00:00": 83.12000274658203,
+      "2024-05-21T16:30:00+00:00": 82.88999938964844,
+      "2024-05-21T17:30:00+00:00": 83.0,
+      "2024-05-21T18:30:00+00:00": 83.00499725341797,
+      "2024-05-21T19:30:00+00:00": 83.04000091552734
+    },
+    "sentiment": 0.8697683811187744
   },
   {
-    "title": "Oneok Inc. (OKE) Misses Q1 Earnings and Revenue Estimates",
-    "published": 1714512611,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
+    "title": "$1000 Invested In This Stock 20 Years Ago Would Be Worth $7,800 Today",
+    "published": 1716282360,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 82.70999908447266,
+      "2024-05-21T14:30:00+00:00": 83.19499969482422,
+      "2024-05-21T15:30:00+00:00": 83.12000274658203,
+      "2024-05-21T16:30:00+00:00": 82.88999938964844,
+      "2024-05-21T17:30:00+00:00": 83.0,
+      "2024-05-21T18:30:00+00:00": 83.00499725341797,
+      "2024-05-21T19:30:00+00:00": 83.04000091552734
+    },
+    "sentiment": 0.9513402581214905
   },
   {
-    "title": "ONEOK Announces First Quarter 2024 Earnings; Increases 2024 Financial Guidance",
-    "published": 1714508100,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
+    "title": "Where Is Oil Going? You Won't Care if You Own These 3 Energy Stocks.",
+    "published": 1716201060,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 83.0,
+      "2024-05-20T14:30:00+00:00": 82.66999816894531,
+      "2024-05-20T15:30:00+00:00": 82.88760375976562,
+      "2024-05-20T16:30:00+00:00": 82.68499755859375,
+      "2024-05-20T17:30:00+00:00": 82.5999984741211,
+      "2024-05-20T18:30:00+00:00": 82.6500015258789,
+      "2024-05-20T19:30:00+00:00": 82.55000305175781
+    },
+    "sentiment": 0.9308924674987793
   },
   {
-    "title": "3 Stocks Ted Cruz Is Buying and Selling in 2024",
-    "published": 1714501474,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Oneok: Q1 Earnings Snapshot",
-    "published": 1714494622,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Stocks Dive On Fears Of Hawkish Fed; Treasury Yields Rise, Bitcoin Tumbles To $60,000: What's Driving Markets Tuesday?",
-    "published": 1714480560,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "5 Winners of Q1 Set to Beat on Earnings After Closing Bell",
-    "published": 1714476420,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "OKE Stock Earnings: ONEOK Misses EPS, Misses Revenue for Q1 2024",
-    "published": 1714463820,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Wall Street On Edge Ahead Of Fed Decision, Spotlight Falls On Amazon And AMD Earnings: Analyst Says Stocks Survive 'Fragility Test' As April Ends",
-    "published": 1714456920,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Oneok Inc Enhances Yearly Financial Outlook After Strong Quarter",
-    "published": 1714448700,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "ONEOK GAAP EPS of $1.09 misses by $0.07",
-    "published": 1714447260,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Oneok raises FY24 guidance",
-    "published": 1714447080,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Oneok reports Q1 EPS $1.09, consensus $1.15",
-    "published": 1714447020,
-    "posting_price": 77.76077296,
-    "close_price": 76.56088257,
-    "percent_change": -1.54305358
-  },
-  {
-    "title": "Will Earnings Cheer Continue To Buoy Markets? Apple, Amazon, Pfizer, Coinbase Lead Flurry Of Q1 Reports This Week",
-    "published": 1714395360,
-    "posting_price": 77.27408134,
-    "close_price": 77.82849884,
-    "percent_change": 0.7174689
-  },
-  {
-    "title": "ONEOK Inc's Dividend Analysis",
-    "published": 1714388626,
-    "posting_price": 77.27408134,
-    "close_price": 77.82849884,
-    "percent_change": 0.7174689
-  },
-  {
-    "title": "ONEOK Q1 2024 Earnings Preview",
-    "published": 1714365720,
-    "posting_price": 77.27408134,
-    "close_price": 77.82849884,
-    "percent_change": 0.7174689
-  },
-  {
-    "title": "Republicans are Buying These 10 Oil and Gas Stocks",
-    "published": 1714316258,
-    "posting_price": 77.27408134,
-    "close_price": 77.82849884,
-    "percent_change": 0.7174689
-  },
-  {
-    "title": "ONEOK (OKE) to Report Q1 Earnings: What's in the Offing?",
-    "published": 1714132200,
-    "posting_price": 77.71380131,
-    "close_price": 77.48438263,
-    "percent_change": -0.2952097
-  },
-  {
-    "title": "OKE Ex-Dividend Reminder",
-    "published": 1714123260,
-    "posting_price": 77.71380131,
-    "close_price": 77.48438263,
-    "percent_change": -0.2952097
-  },
-  {
-    "title": "ONEOK, Inc. (NYSE:OKE) Is About To Go Ex-Dividend, And It Pays A 4.9% Yield",
-    "published": 1714039983,
-    "posting_price": 77.30276966,
-    "close_price": 77.79026794,
-    "percent_change": 0.63063495
-  },
-  {
-    "title": "Top 10 S&P 500 energy stocks of 2024, with earnings from XOM and CVX on deck",
-    "published": 1714011420,
-    "posting_price": 77.30276966,
-    "close_price": 77.79026794,
-    "percent_change": 0.63063495
-  },
-  {
-    "title": "Dividend Investing: Only 14 S&P stocks have a 3% yield and have climbed over 10% YTD",
-    "published": 1713956280,
-    "posting_price": 76.47114241,
-    "close_price": 77.37923431,
-    "percent_change": 1.18749619
-  },
-  {
-    "title": "Oneok Inc. (OKE) Expected to Beat Earnings Estimates: Should You Buy?",
-    "published": 1713880862,
-    "posting_price": 76.15568964,
-    "close_price": 76.80569458,
-    "percent_change": 0.85352118
-  },
-  {
-    "title": "VOE: Ahead Of Peers In 2024, But Average In The Long Term",
-    "published": 1713865679,
-    "posting_price": 76.15568964,
-    "close_price": 76.80569458,
-    "percent_change": 0.85352118
-  },
-  {
-    "title": "Dive Into Dividends: Top 10 Yield Stocks (SA Quant)",
-    "published": 1713855600,
-    "posting_price": 76.15568964,
-    "close_price": 76.80569458,
-    "percent_change": 0.85352118
-  },
-  {
-    "title": "Oneok Inc. (OKE) Advances But Underperforms Market: Key Facts",
-    "published": 1713824117,
-    "posting_price": 76.05054949,
-    "close_price": 76.38511658,
-    "percent_change": 0.43992725
-  },
-  {
-    "title": "Calculating The Intrinsic Value Of ONEOK, Inc. (NYSE:OKE)",
-    "published": 1713800797,
-    "posting_price": 76.05054949,
-    "close_price": 76.38511658,
-    "percent_change": 0.43992725
-  },
-  {
-    "title": "Goldman\u2019s debt issuers stocks basket",
-    "published": 1713787140,
-    "posting_price": 76.05054949,
-    "close_price": 76.38511658,
-    "percent_change": 0.43992725
-  },
-  {
-    "title": "EMO: Very Strong Recent Performance, But Higher Risks Than Peers",
-    "published": 1713778096,
-    "posting_price": 76.05054949,
-    "close_price": 76.38511658,
-    "percent_change": 0.43992725
-  },
-  {
-    "title": "RBC Capital Sticks to Their Hold Rating for Oneok (OKE)",
-    "published": 1713775920,
-    "posting_price": 76.05054949,
-    "close_price": 76.38511658,
-    "percent_change": 0.43992725
-  },
-  {
-    "title": "What's Driving Kinder Morgan Inc's Surprising 10% Stock Rally?",
-    "published": 1713521880,
-    "posting_price": 74.65494522,
-    "close_price": 76.11745453,
-    "percent_change": 1.95902536
-  },
-  {
-    "title": "Dividend Roundup: Johnson & Johnson, Dell, Lowe\u2019s, Qualcomm and more",
-    "published": 1713511140,
-    "posting_price": 74.65494522,
-    "close_price": 76.11745453,
-    "percent_change": 1.95902536
-  },
-  {
-    "title": "Oneok Inc Announces Steady Dividend Payout for Shareholders",
-    "published": 1713497580,
-    "posting_price": 74.65494522,
-    "close_price": 76.11745453,
-    "percent_change": 1.95902536
-  },
-  {
-    "title": "ONEOK Declares Quarterly Dividend",
-    "published": 1713456974,
-    "posting_price": 74.29171788,
-    "close_price": 74.44465637,
-    "percent_change": 0.2058621
-  },
-  {
-    "title": "ONEOK declares $0.99 dividend",
-    "published": 1713410460,
-    "posting_price": 74.29171788,
-    "close_price": 74.44465637,
-    "percent_change": 0.2058621
-  },
-  {
-    "title": "Protecting Our Retirement Portfolios During Times of War",
-    "published": 1713326460,
-    "posting_price": 74.03362126,
-    "close_price": 74.253479,
-    "percent_change": 0.29697013
-  },
-  {
-    "title": "Key Takeaways From ONEOK Analyst Ratings",
-    "published": 1713254520,
-    "posting_price": 74.51155818,
-    "close_price": 73.67993927,
-    "percent_change": -1.11609384
-  },
-  {
-    "title": "Oneok price target raised by $7 at Stifel, here's why",
-    "published": 1713246960,
-    "posting_price": 74.51155818,
-    "close_price": 73.67993927,
-    "percent_change": -1.11609384
-  },
-  {
-    "title": "ONEOK Inc Should Remain Supported In Bullish Sequence",
-    "published": 1713239160,
-    "posting_price": 74.51155818,
-    "close_price": 73.67993927,
-    "percent_change": -1.11609384
+    "title": "The Zacks Analyst Blog Highlights Broadcom, Merck, Airbnb, ONEOK and PG&E",
+    "published": 1715856540,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 81.5,
+      "2024-05-16T14:30:00+00:00": 82.31749725341797,
+      "2024-05-16T15:30:00+00:00": 82.48999786376953,
+      "2024-05-16T16:30:00+00:00": 82.5999984741211,
+      "2024-05-16T17:30:00+00:00": 82.4800033569336,
+      "2024-05-16T18:30:00+00:00": 82.26000213623047,
+      "2024-05-16T19:30:00+00:00": 82.32499694824219
+    },
+    "sentiment": 0.9449161291122437
   }
 ]

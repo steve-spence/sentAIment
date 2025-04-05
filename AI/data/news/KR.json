@@ -1,856 +1,358 @@
 [
   {
-    "title": "Ranked: The Largest U.S. Corporations By Number Of Employees",
-    "published": 1713180420,
-    "posting_price": 54.43708509,
-    "close_price": 54.17287445,
-    "percent_change": -0.48535045
-  },
-  {
-    "title": "Retail rallies after consumers keep spending at a solid pace in March",
-    "published": 1713171660,
-    "posting_price": 54.43708509,
-    "close_price": 54.17287445,
-    "percent_change": -0.48535045
-  },
-  {
-    "title": "Large Fund Bets Big on Groceries in the Face of Persistent Inflation",
-    "published": 1713078000,
-    "posting_price": 54.43708892,
-    "close_price": 54.17287827,
-    "percent_change": -0.48535044
-  },
-  {
-    "title": "Wall Street's Top 10 Stock Calls This Week - Saturday, April 13",
-    "published": 1713008400,
-    "posting_price": 54.43708509,
-    "close_price": 54.17287445,
-    "percent_change": -0.48535045
-  },
-  {
-    "title": "Buy/Sell: Wall Street's top 10 stock calls this week",
-    "published": 1712925480,
-    "posting_price": 54.7110819,
-    "close_price": 54.01630783,
-    "percent_change": -1.26989642
-  },
-  {
-    "title": "Kroger: Refocus On Store Growth Supports Positive Growth Outlook",
-    "published": 1712917289,
-    "posting_price": 54.7110819,
-    "close_price": 54.01630783,
-    "percent_change": -1.26989642
-  },
-  {
-    "title": "Stocks with the highest swings in option premium price over 3 months - JPM",
-    "published": 1712915280,
-    "posting_price": 54.7110819,
-    "close_price": 54.01630783,
-    "percent_change": -1.26989642
-  },
-  {
-    "title": "Over 1,300 layoffs hit logistics companies across US",
-    "published": 1712870762,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Kroger Stock Thriving Despite Intense Competition From Online And Wholesale Giants",
-    "published": 1712862780,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Should Value Investors Buy The Kroger Co. (KR) Stock?",
-    "published": 1712842816,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Kroger Kicks Off a Latin Flavor Take Over Four-Week Event; Retailer celebrates Latin cuisine and culinary tradition leading up to Cinco de Mayo",
-    "published": 1712839528,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Top quant-rated consumer staples during Q1",
-    "published": 1712834460,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Pfizer unit to settle Effexor XR antitrust claims in $39M deal",
-    "published": 1712830680,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "KR May 31st Options Begin Trading",
-    "published": 1712829360,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Enthusiast Gaming's Luminosity partners with Kroger for Luminosity Invitational",
-    "published": 1712815620,
-    "posting_price": 55.5330704,
-    "close_price": 54.94593811,
-    "percent_change": -1.05726603
-  },
-  {
-    "title": "Plant-Based Profits: 3 Vegan Stocks for More Green in Your Portfolio",
-    "published": 1712770937,
-    "posting_price": 54.01630732,
-    "close_price": 55.38628387,
-    "percent_change": 2.5362277
-  },
-  {
-    "title": "Kroger Kicks Off a Latin Flavor Take Over Four-Week Event",
-    "published": 1712744100,
-    "posting_price": 54.01630732,
-    "close_price": 55.38628387,
-    "percent_change": 2.5362277
-  },
-  {
-    "title": "Why REITs Are A Better Buy In Today's Market",
-    "published": 1712732400,
-    "posting_price": 54.01630732,
-    "close_price": 55.38628387,
-    "percent_change": 2.5362277
-  },
-  {
-    "title": "Kroger and Walmart outperform as investors turn defensive",
-    "published": 1712710800,
-    "posting_price": 54.01630732,
-    "close_price": 55.38628387,
-    "percent_change": 2.5362277
-  },
-  {
-    "title": "Why Did Kroger Stock Rise 15% Last Month?",
-    "published": 1712695827,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "If You Can Only Buy One Warren Buffett Stock in April, It Better Be One of These 3 Names",
-    "published": 1712681737,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "7 Stocks That Should Outperform on the Next Fed Rate Cut",
-    "published": 1712679120,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "Kroger Zero Hunger | Zero Waste Foundation Sponsors National STEM Festival",
-    "published": 1712672100,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "Can Kroger's Rally Continue?",
-    "published": 1712671201,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "Ulta Beauty's (ULTA) Omnichannel Focus Aids, SG&A Costs Hurt",
-    "published": 1712670540,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "Walmart's (WMT) Success Story Painted by Omnichannel Strength",
-    "published": 1712670240,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "Is Costco Stock (NASDAQ:COST) a Bubble at 47x Earnings?",
-    "published": 1712645820,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "Bill Nygren's Oakmark Fund 1st-Quarter Commentary: A Recap",
-    "published": 1712627820,
-    "posting_price": 54.28052107,
-    "close_price": 54.23159027,
-    "percent_change": -0.09014431
-  },
-  {
-    "title": "MCoBeauty, Coveted Australian Beauty Brand, Expands to the U.S. Market Available Exclusively at Kroger",
-    "published": 1712575759,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "Exane BNP Paribas Downgrades Kroger (KR)",
-    "published": 1712573478,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
-    "published": 1712565900,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "Target Introduces TruScan Tech To Combat Self-Checkout Theft: Report",
-    "published": 1712565720,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "Yerbae Brands announces products now available in Kroger stores",
-    "published": 1712560500,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "Unveiling The Kroger Co (KR)'s Value: Is It Really Priced Right? A Comprehensive Guide",
-    "published": 1712557980,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "Kroger just downgraded at Exane BNP Paribas, here's why",
-    "published": 1712546940,
-    "posting_price": 54.6915127,
-    "close_price": 54.18266296,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "The 3 Best Vegan Stocks to Buy in April 2024",
-    "published": 1712512890,
-    "posting_price": 54.691505,
-    "close_price": 54.18265533,
-    "percent_change": -0.93039983
-  },
-  {
-    "title": "13 Best Warren Buffett Dividend Stocks To Invest In Right Now",
-    "published": 1712348531,
-    "posting_price": 56.25720657,
-    "close_price": 56.08106613,
-    "percent_change": -0.31309845
-  },
-  {
-    "title": "The Friday Checkout: Was Amazon\u2019s Just Walk Out tech a victim of inflation?",
-    "published": 1712332010,
-    "posting_price": 56.25720657,
-    "close_price": 56.08106613,
-    "percent_change": -0.31309845
-  },
-  {
-    "title": "Nutri-Grain\u00ae and King Soopers Join No Kid Hungry to Help End Summer Hunger for Colorado Kids and Families",
-    "published": 1712253480,
-    "posting_price": 56.6192666,
-    "close_price": 56.20827103,
-    "percent_change": -0.72589349
-  },
-  {
-    "title": "The\u00a0Kroger Co. Announces MCoBeauty Makes its United States Debut Exclusively at Kroger Family of Stores",
-    "published": 1712239200,
-    "posting_price": 56.6192666,
-    "close_price": 56.20827103,
-    "percent_change": -0.72589349
-  },
-  {
-    "title": "The 3 Most Undervalued Warren Buffett Stocks to Buy in April 2024",
-    "published": 1712213703,
-    "posting_price": 56.6192666,
-    "close_price": 56.20827103,
-    "percent_change": -0.72589349
-  },
-  {
-    "title": "Sell the Long Rally Now and Move to These 6 Warren Buffett Top Dividend Winners",
-    "published": 1712211480,
-    "posting_price": 56.6192666,
-    "close_price": 56.20827103,
-    "percent_change": -0.72589349
-  },
-  {
-    "title": "Walmart, Dollar Tree, and auto and home retailers stand to benefit from higher tax refunds",
-    "published": 1712175179,
-    "posting_price": 56.58991809,
-    "close_price": 56.52141571,
-    "percent_change": -0.1210505
-  },
-  {
-    "title": "Kroger Invites Customers to Join in Celebration of Earth Month; Retailer recognizing Earth Month by protecting wildlife, introduces new reusable bags",
-    "published": 1712145626,
-    "posting_price": 56.58991809,
-    "close_price": 56.52141571,
-    "percent_change": -0.1210505
-  },
-  {
-    "title": "Zacks Investment Ideas feature highlights: Energy Sector ETF, Marathon Petroleum, Kroger and Murphy USA",
-    "published": 1712136480,
-    "posting_price": 56.58991809,
-    "close_price": 56.52141571,
-    "percent_change": -0.1210505
-  },
-  {
-    "title": "Kroger Company (KR) Receives a Buy from Telsey Advisory",
-    "published": 1712130960,
-    "posting_price": 56.58991809,
-    "close_price": 56.52141571,
-    "percent_change": -0.1210505
-  },
-  {
-    "title": "The Hype Machine Trash Bin: 3 Overrated Stocks to Dump Immediately",
-    "published": 1712112420,
-    "posting_price": 56.58991809,
-    "close_price": 56.52141571,
-    "percent_change": -0.1210505
-  },
-  {
-    "title": "Volatility on the Rise: Rotate into these Top-Ranked Defensive Stocks",
-    "published": 1712076540,
-    "posting_price": 56.04191869,
-    "close_price": 56.5801239,
-    "percent_change": 0.96036186
-  },
-  {
-    "title": "Home Chef Launches New National Food Rescue Program",
-    "published": 1712068200,
-    "posting_price": 56.04191869,
-    "close_price": 56.5801239,
-    "percent_change": 0.96036186
-  },
-  {
-    "title": "Sell The Rally Now and Move To These 6 Warren Buffett Top Dividend Winners",
-    "published": 1712049360,
-    "posting_price": 56.04191869,
-    "close_price": 56.5801239,
-    "percent_change": 0.96036186
-  },
-  {
-    "title": "Kroger: It's Too Late (For Now) To Buy This Buffett-Owned Dividend Growth Stock",
-    "published": 1712041200,
-    "posting_price": 56.04191869,
-    "close_price": 56.5801239,
-    "percent_change": 0.96036186
-  },
-  {
-    "title": "Wall Street Analysts See Upside Potential for 10 Stocks with Rising Price Targets",
-    "published": 1712017457,
-    "posting_price": 56.04191869,
-    "close_price": 56.5801239,
-    "percent_change": 0.96036186
-  },
-  {
-    "title": "Walmart rolls out new affordable private-label food brand",
-    "published": 1714458240,
-    "posting_price": 54.16309225,
-    "close_price": 54.19245148,
-    "percent_change": 0.05420523
-  },
-  {
-    "title": "7 Dividend Aristocrats Paying Sky-High Yields: April 2024",
-    "published": 1714447980,
-    "posting_price": 54.16309225,
-    "close_price": 54.19245148,
-    "percent_change": 0.05420523
-  },
-  {
-    "title": "Celebrate Derby Day Traditions with Kroger",
-    "published": 1714399200,
-    "posting_price": 54.29030198,
-    "close_price": 54.37837219,
-    "percent_change": 0.16222089
-  },
-  {
-    "title": "Are Investors Undervaluing The Kroger Co. (KR) Right Now?",
-    "published": 1714398013,
-    "posting_price": 54.29030198,
-    "close_price": 54.37837219,
-    "percent_change": 0.16222089
-  },
-  {
-    "title": "Will Kroger and Albertsons\u2019 revised divestiture plan satisfy the FTC?",
-    "published": 1714385819,
-    "posting_price": 54.29030198,
-    "close_price": 54.37837219,
-    "percent_change": 0.16222089
-  },
-  {
-    "title": "Stock Market Sell-Off: 3 Bargain Stocks Worth Buying Now",
-    "published": 1714201620,
-    "posting_price": 54.29030579,
-    "close_price": 54.37837601,
-    "percent_change": 0.1622209
-  },
-  {
-    "title": "7 Stocks to Buy if Inflation Continues to Reign in 2024",
-    "published": 1714196580,
-    "posting_price": 54.29030579,
-    "close_price": 54.37837601,
-    "percent_change": 0.1622209
-  },
-  {
-    "title": "11 Best Retail Dividend Stocks to Buy",
-    "published": 1714142903,
-    "posting_price": 54.47622749,
-    "close_price": 54.30009079,
-    "percent_change": -0.32332764
-  },
-  {
-    "title": "The Top 3 Vegan Stocks to Buy in April 2024",
-    "published": 1714125600,
-    "posting_price": 54.47622749,
-    "close_price": 54.30009079,
-    "percent_change": -0.32332764
-  },
-  {
-    "title": "Senior Vice President Valerie Jabbar Sells 15,000 Shares of The Kroger Co (KR)",
-    "published": 1713992443,
-    "posting_price": 54.34901817,
-    "close_price": 54.94593811,
-    "percent_change": 1.0983086
-  },
-  {
-    "title": "Walmart, Kroger shares hint at concerns about Amazon's low-cost delivery plan, UBS says",
-    "published": 1713962940,
-    "posting_price": 54.34901817,
-    "close_price": 54.94593811,
-    "percent_change": 1.0983086
-  },
-  {
-    "title": "Two REITs That Just Crushed Earnings Estimates And Guidance",
-    "published": 1713960360,
-    "posting_price": 54.34901817,
-    "close_price": 54.94593811,
-    "percent_change": 1.0983086
-  },
-  {
-    "title": "14 Dividend Growth Stocks with Highest Growth Rates",
-    "published": 1713942152,
-    "posting_price": 54.34901817,
-    "close_price": 54.94593811,
-    "percent_change": 1.0983086
-  },
-  {
-    "title": "Kroger VP Mary Ellen Adcock sells over $4.6M in company shares",
-    "published": 1713924660,
-    "posting_price": 54.34901817,
-    "close_price": 54.94593811,
-    "percent_change": 1.0983086
-  },
-  {
-    "title": "Kroger (KR), Albertsons Revamp Divestiture Package Amid Concerns",
-    "published": 1713881820,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Kroger settles opioid lawsuit with Washington AG for $47.5M",
-    "published": 1713876600,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Albertsons Companies: As Merger Woes Mount, Things Get Interesting",
-    "published": 1713874200,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Kroger to pay Washington state $47.5M for fentanyl distribution",
-    "published": 1713868080,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "AP finds grueling conditions in Indian shrimp industry that report calls 'dangerous and abusive'",
-    "published": 1713867900,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Albertsons upped to buy at Roth MKM on improved Kroger deal likelihood",
-    "published": 1713859620,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Consumer Goods Stocks: Kroger Company (KR), Diageo (OtherDGEAF) and Mama\u2019s Creations (MAMA)",
-    "published": 1713859260,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Albertsons upgraded to Buy from Neutral at Roth MKM",
-    "published": 1713856800,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Albertsons price target lowered by $1 at RBC Capital, here's why",
-    "published": 1713853200,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "KR and ACI to Divest More Stores for Merger Completion",
-    "published": 1713850680,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Albertsons added to Analyst Focus List at JPMorgan",
-    "published": 1713847500,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Biden's Old '0% Inflation' Comment Comes Back To Bite As McKinsey Says New Biggest Splurge For US Consumers Is Groceries",
-    "published": 1713834300,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Kroger, Albertsons to sell 166 more stores with $25B merger in limbo",
-    "published": 1713831292,
-    "posting_price": 55.85599539,
-    "close_price": 54.43708801,
-    "percent_change": -2.54029558
-  },
-  {
-    "title": "Federal Trade Commission sues to block Tapestry's $8.5B acquisition of Capri",
-    "published": 1713810060,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "3 Defensive Investments to Make as the VIX Surges to 6-Month Highs",
-    "published": 1713808688,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Sally Beauty (SBH) Down 20% YTD: Macroeconomic Headwinds Hurt",
-    "published": 1713804480,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons to Sell More Stores, Looking to Appease Regulators",
-    "published": 1713798300,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons to Sell 166 More Stores, Looking to Appease Regulators",
-    "published": 1713797412,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger and Albertsons Have a New Plan. Albertsons Earnings Take a Back Seat.",
-    "published": 1713793860,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "UPDATE 2-Kroger, Albertsons to sell 166 more stores to gain regulatory approval for $25 bln merger",
-    "published": 1713789942,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons Companies and C&S Wholesale Grocers, LLC Announce an Updated and Expanded Divestiture Plan",
-    "published": 1713789000,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1713784560,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Albertsons Ends Fiscal Year with Modest Gains Amid Kroger Merger",
-    "published": 1713784500,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Gold Falls Sharply; Matterport Shares Spike Higher",
-    "published": 1713784140,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons -- still hoping to merge -- agree to sell more stores to satisfy regulators",
-    "published": 1713780130,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons \u2014 still hoping to merge \u2014 agree to sell more stores to satisfy regulators",
-    "published": 1713780000,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons amend asset sale agreement with C&S Wholesale",
-    "published": 1713774957,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Dividend Income Summary: Lanny's March 2024 Summary",
-    "published": 1713772800,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Grocery sector jolts: Albertsons reports earnings, clears way for Kroger merger with more divestitures",
-    "published": 1713772620,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Kroger, Albertsons and C&S Wholesale Grocers update divestiture plan",
-    "published": 1713771660,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "LONDON MARKET MIDDAY: Hipgnosis Songs and Tyman jump on takeover talk",
-    "published": 1713768720,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "FTC Blocks $8.5 Billion Deal Uniting Coach, Michael Kors",
-    "published": 1713768360,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "What You Missed On Wall Street On Monday",
-    "published": 1713756540,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Cardinal Health Faces Challenges as OptumRx Contracts Expire",
-    "published": 1713748500,
-    "posting_price": 55.58199608,
-    "close_price": 55.70920944,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "10 Best Soaps and Cleaning Materials Stocks to Buy",
-    "published": 1713698578,
-    "posting_price": 55.58199989,
-    "close_price": 55.70921326,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Goldman picks top capex and R&D stocks",
-    "published": 1713663840,
-    "posting_price": 55.58199989,
-    "close_price": 55.70921326,
-    "percent_change": 0.22887512
-  },
-  {
-    "title": "Ibotta: New IPO With Strong Growth",
-    "published": 1713520828,
-    "posting_price": 54.54472999,
-    "close_price": 55.35692978,
-    "percent_change": 1.48905273
-  },
-  {
-    "title": "Shares of Walmart-backed Ibotta soar on public debut",
-    "published": 1713446220,
-    "posting_price": 54.21202322,
-    "close_price": 54.37837601,
-    "percent_change": 0.3068559
-  },
-  {
-    "title": "Ibotta IPO jumps as investors continue to buy into AI hype",
-    "published": 1713441240,
-    "posting_price": 54.21202322,
-    "close_price": 54.37837601,
-    "percent_change": 0.3068559
-  },
-  {
-    "title": "Maintaining Buy Rating on Kroger: Growth, Strategic Investments, and Positive Financial Outlook",
-    "published": 1713416160,
-    "posting_price": 54.21202322,
-    "close_price": 54.37837601,
-    "percent_change": 0.3068559
-  },
-  {
-    "title": "Ibotta IPO jumps as investors continue to buy into AI hype (update)",
-    "published": 1713402480,
-    "posting_price": 54.21202322,
-    "close_price": 54.37837601,
-    "percent_change": 0.3068559
-  },
-  {
-    "title": "Kroger Invites Prospective Associates to Discover a Career",
-    "published": 1713379500,
-    "posting_price": 54.30987499,
-    "close_price": 54.07501984,
-    "percent_change": -0.43243545
-  },
-  {
-    "title": "Amazon expands its smart grocery cart initiative to third-party retailers",
-    "published": 1713352140,
-    "posting_price": 54.30987499,
-    "close_price": 54.07501984,
-    "percent_change": -0.43243545
-  },
-  {
-    "title": "Can Target's Recent Outperformance Continue?",
-    "published": 1713340800,
-    "posting_price": 54.30987499,
-    "close_price": 54.07501984,
-    "percent_change": -0.43243545
-  },
-  {
-    "title": "Kroger Company (KR) Receives a Buy from Evercore ISI",
-    "published": 1713322860,
-    "posting_price": 54.30987499,
-    "close_price": 54.07501984,
-    "percent_change": -0.43243545
-  },
-  {
-    "title": "Steady Income, Steady Growth: 7 Blue-Chip Dividend Stocks to Buy Now",
-    "published": 1713293776,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Sewing Down South for HD Designs Hits Kroger Stores Nationwide",
-    "published": 1713276000,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Is Most-Watched Stock The Kroger Co. (KR) Worth Betting on Now?",
-    "published": 1713272411,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Wells Fargo Upgrades Kroger (KR)",
-    "published": 1713271079,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Kroger could conduct 'huge' share repo if Albertsons merger shelved - analyst",
-    "published": 1713257580,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Kroger's could conduct 'huge' share repo if Albertson's merger shelved - analyst",
-    "published": 1713257280,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Nvidia initiated, AMD upgraded: Wall Street's top analyst calls",
-    "published": 1713257280,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Analyst Ratings For Kroger",
-    "published": 1713254520,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Ibotta boosts IPO size as investors eye the AI-enhanced digital marketing play",
-    "published": 1713253500,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Wells Fargo upgrades Kroger to Overweight on building catalysts",
-    "published": 1713243480,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
-  },
-  {
-    "title": "Wells Fargo gets more bullish on Kroger, upgrades shares",
-    "published": 1713240780,
-    "posting_price": 55.22971825,
-    "close_price": 54.09459305,
-    "percent_change": -2.05527972
+    "title": "Kroger Awarded 2024 Platinum Bell Seal for Workplace Mental Health",
+    "published": 1715014800,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 55.060001373291016,
+      "2024-05-06T14:30:00+00:00": 54.81999969482422,
+      "2024-05-06T15:30:00+00:00": 54.875,
+      "2024-05-06T16:30:00+00:00": 54.775001525878906,
+      "2024-05-06T17:30:00+00:00": 54.869998931884766,
+      "2024-05-06T18:30:00+00:00": 55.05500030517578,
+      "2024-05-06T19:30:00+00:00": 55.01499938964844
+    },
+    "sentiment": 0.7468484044075012
+  },
+  {
+    "title": "Target's Ambitious Growth Beyond Borders: Reportedly Broadens Sales Horizons Beyond Own Stores",
+    "published": 1714980300,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 55.060001373291016,
+      "2024-05-06T14:30:00+00:00": 54.81999969482422,
+      "2024-05-06T15:30:00+00:00": 54.875,
+      "2024-05-06T16:30:00+00:00": 54.775001525878906,
+      "2024-05-06T17:30:00+00:00": 54.869998931884766,
+      "2024-05-06T18:30:00+00:00": 55.05500030517578,
+      "2024-05-06T19:30:00+00:00": 55.01499938964844
+    },
+    "sentiment": 0.9205852746963501
+  },
+  {
+    "title": "Kroger considers Disney+ perk for grocery delivery members",
+    "published": 1714659793,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 54.93000030517578,
+      "2024-05-02T14:30:00+00:00": 54.935001373291016,
+      "2024-05-02T15:30:00+00:00": 54.90999984741211,
+      "2024-05-02T16:30:00+00:00": 54.869998931884766,
+      "2024-05-02T17:30:00+00:00": 54.91999816894531,
+      "2024-05-02T18:30:00+00:00": 55.10900115966797,
+      "2024-05-02T19:30:00+00:00": 55.1349983215332
+    },
+    "sentiment": 0.8684005737304688
+  },
+  {
+    "title": "Stock Market Crash Alert: 3 Must-Buy Restaurant Stocks When Prices Plunge",
+    "published": 1714614300,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 54.93000030517578,
+      "2024-05-02T14:30:00+00:00": 54.935001373291016,
+      "2024-05-02T15:30:00+00:00": 54.90999984741211,
+      "2024-05-02T16:30:00+00:00": 54.869998931884766,
+      "2024-05-02T17:30:00+00:00": 54.91999816894531,
+      "2024-05-02T18:30:00+00:00": 55.10900115966797,
+      "2024-05-02T19:30:00+00:00": 55.1349983215332
+    },
+    "sentiment": 0.7810609340667725
+  },
+  {
+    "title": "Kroger Rings in Sunny Season with Fresh Favorites",
+    "published": 1715778068,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 54.93000030517578,
+      "2024-05-15T14:30:00+00:00": 55.04999923706055,
+      "2024-05-15T15:30:00+00:00": 54.755001068115234,
+      "2024-05-15T16:30:00+00:00": 54.6349983215332,
+      "2024-05-15T17:30:00+00:00": 54.76499938964844,
+      "2024-05-15T18:30:00+00:00": 54.59000015258789,
+      "2024-05-15T19:30:00+00:00": 54.290000915527344
+    },
+    "sentiment": 0.6398619413375854
+  },
+  {
+    "title": "GoodRx enters agreement with Kroger for improved prescription pricing",
+    "published": 1715752440,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 54.93000030517578,
+      "2024-05-15T14:30:00+00:00": 55.04999923706055,
+      "2024-05-15T15:30:00+00:00": 54.755001068115234,
+      "2024-05-15T16:30:00+00:00": 54.6349983215332,
+      "2024-05-15T17:30:00+00:00": 54.76499938964844,
+      "2024-05-15T18:30:00+00:00": 54.59000015258789,
+      "2024-05-15T19:30:00+00:00": 54.290000915527344
+    },
+    "sentiment": 0.9524506330490112
+  },
+  {
+    "title": "GoodRx, Kroger sign direct contracting agreement",
+    "published": 1715749620,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 54.93000030517578,
+      "2024-05-15T14:30:00+00:00": 55.04999923706055,
+      "2024-05-15T15:30:00+00:00": 54.755001068115234,
+      "2024-05-15T16:30:00+00:00": 54.6349983215332,
+      "2024-05-15T17:30:00+00:00": 54.76499938964844,
+      "2024-05-15T18:30:00+00:00": 54.59000015258789,
+      "2024-05-15T19:30:00+00:00": 54.290000915527344
+    },
+    "sentiment": 0.5317333936691284
+  },
+  {
+    "title": "Winners and losers from the latest retail sales report",
+    "published": 1715737800,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 54.93000030517578,
+      "2024-05-15T14:30:00+00:00": 55.04999923706055,
+      "2024-05-15T15:30:00+00:00": 54.755001068115234,
+      "2024-05-15T16:30:00+00:00": 54.6349983215332,
+      "2024-05-15T17:30:00+00:00": 54.76499938964844,
+      "2024-05-15T18:30:00+00:00": 54.59000015258789,
+      "2024-05-15T19:30:00+00:00": 54.290000915527344
+    },
+    "sentiment": 0.9207244515419006
+  },
+  {
+    "title": "Kroger Health Launches New Senior-focused Primary Care in Eight Clinics in Atlanta",
+    "published": 1715698800,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 55.189998626708984,
+      "2024-05-14T14:30:00+00:00": 55.17499923706055,
+      "2024-05-14T15:30:00+00:00": 55.125,
+      "2024-05-14T16:30:00+00:00": 55.095001220703125,
+      "2024-05-14T17:30:00+00:00": 55.13750076293945,
+      "2024-05-14T18:30:00+00:00": 55.20000076293945,
+      "2024-05-14T19:30:00+00:00": 55.29499816894531
+    },
+    "sentiment": 0.5012668371200562
+  },
+  {
+    "title": "Dingdong Rings Back To Revenue Growth, Posts Quarterly Net Profit",
+    "published": 1715675040,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 55.189998626708984,
+      "2024-05-14T14:30:00+00:00": 55.17499923706055,
+      "2024-05-14T15:30:00+00:00": 55.125,
+      "2024-05-14T16:30:00+00:00": 55.095001220703125,
+      "2024-05-14T17:30:00+00:00": 55.13750076293945,
+      "2024-05-14T18:30:00+00:00": 55.20000076293945,
+      "2024-05-14T19:30:00+00:00": 55.29499816894531
+    },
+    "sentiment": 0.9243203401565552
+  },
+  {
+    "title": "Kroger Winning Food Fight? Near Buy Point Amid Intense Rivalry",
+    "published": 1715623200,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 55.939998626708984,
+      "2024-05-13T14:30:00+00:00": 56.0099983215332,
+      "2024-05-13T15:30:00+00:00": 55.779998779296875,
+      "2024-05-13T16:30:00+00:00": 55.595001220703125,
+      "2024-05-13T17:30:00+00:00": 55.38999938964844,
+      "2024-05-13T18:30:00+00:00": 55.31999969482422,
+      "2024-05-13T19:30:00+00:00": 55.279998779296875
+    },
+    "sentiment": 0.7077624201774597
+  },
+  {
+    "title": "What to expect from Walmart's earnings report later this week",
+    "published": 1715597100,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 55.939998626708984,
+      "2024-05-13T14:30:00+00:00": 56.0099983215332,
+      "2024-05-13T15:30:00+00:00": 55.779998779296875,
+      "2024-05-13T16:30:00+00:00": 55.595001220703125,
+      "2024-05-13T17:30:00+00:00": 55.38999938964844,
+      "2024-05-13T18:30:00+00:00": 55.31999969482422,
+      "2024-05-13T19:30:00+00:00": 55.279998779296875
+    },
+    "sentiment": 0.9016625881195068
+  },
+  {
+    "title": "Safeguard Your Future: Top 3 Stocks to Weather Any Market Downturn",
+    "published": 1715299934,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 54.93000030517578,
+      "2024-05-10T14:30:00+00:00": 55.1349983215332,
+      "2024-05-10T15:30:00+00:00": 55.314998626708984,
+      "2024-05-10T16:30:00+00:00": 55.45500183105469,
+      "2024-05-10T17:30:00+00:00": 55.69499969482422,
+      "2024-05-10T18:30:00+00:00": 55.779998779296875,
+      "2024-05-10T19:30:00+00:00": 55.84000015258789
+    },
+    "sentiment": 0.8061449527740479
+  },
+  {
+    "title": "Only Four Days Left To Cash In On Kroger's (NYSE:KR) Dividend",
+    "published": 1715250367,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 55.400001525878906,
+      "2024-05-09T14:30:00+00:00": 55.189998626708984,
+      "2024-05-09T15:30:00+00:00": 55.189998626708984,
+      "2024-05-09T16:30:00+00:00": 54.97999954223633,
+      "2024-05-09T17:30:00+00:00": 55.03499984741211,
+      "2024-05-09T18:30:00+00:00": 54.974998474121094,
+      "2024-05-09T19:30:00+00:00": 54.84000015258789
+    },
+    "sentiment": 0.9100995659828186
+  },
+  {
+    "title": "Rate Cut Central: 3 Stocks to Buy for Massive Gains Thanks to the Fed",
+    "published": 1715177640,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 55.380001068115234,
+      "2024-05-08T14:30:00+00:00": 55.310001373291016,
+      "2024-05-08T15:30:00+00:00": 55.290000915527344,
+      "2024-05-08T16:30:00+00:00": 55.244998931884766,
+      "2024-05-08T17:30:00+00:00": 55.36000061035156,
+      "2024-05-08T18:30:00+00:00": 55.345001220703125,
+      "2024-05-08T19:30:00+00:00": 55.279998779296875
+    },
+    "sentiment": 0.8887401223182678
+  },
+  {
+    "title": "Kroger Deserves More Love",
+    "published": 1716465179,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 53.7400016784668,
+      "2024-05-23T14:30:00+00:00": 53.189998626708984,
+      "2024-05-23T15:30:00+00:00": 53.185001373291016,
+      "2024-05-23T16:30:00+00:00": 53.04499816894531,
+      "2024-05-23T17:30:00+00:00": 52.974998474121094,
+      "2024-05-23T18:30:00+00:00": 52.880001068115234,
+      "2024-05-23T19:30:00+00:00": 52.779998779296875
+    },
+    "sentiment": 0.7277700304985046
+  },
+  {
+    "title": "Meme Stocks With Value: 7 Strong Buys that Can Rise Without Roaring Kitty",
+    "published": 1716458400,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 53.7400016784668,
+      "2024-05-23T14:30:00+00:00": 53.189998626708984,
+      "2024-05-23T15:30:00+00:00": 53.185001373291016,
+      "2024-05-23T16:30:00+00:00": 53.04499816894531,
+      "2024-05-23T17:30:00+00:00": 52.974998474121094,
+      "2024-05-23T18:30:00+00:00": 52.880001068115234,
+      "2024-05-23T19:30:00+00:00": 52.779998779296875
+    },
+    "sentiment": 0.6995020508766174
+  },
+  {
+    "title": "Target Misses The Mark And Pays A Price For It",
+    "published": 1716391354,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 53.459999084472656,
+      "2024-05-22T14:30:00+00:00": 53.900001525878906,
+      "2024-05-22T15:30:00+00:00": 53.619998931884766,
+      "2024-05-22T16:30:00+00:00": 53.71500015258789,
+      "2024-05-22T17:30:00+00:00": 53.81999969482422,
+      "2024-05-22T18:30:00+00:00": 53.70000076293945,
+      "2024-05-22T19:30:00+00:00": 53.8849983215332
+    },
+    "sentiment": 0.8286123275756836
+  },
+  {
+    "title": "Kroger e-commerce center workers vote to join Teamsters",
+    "published": 1716281757,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 54.02000045776367,
+      "2024-05-21T14:30:00+00:00": 53.869998931884766,
+      "2024-05-21T15:30:00+00:00": 53.834999084472656,
+      "2024-05-21T16:30:00+00:00": 53.744998931884766,
+      "2024-05-21T17:30:00+00:00": 53.779998779296875,
+      "2024-05-21T18:30:00+00:00": 53.724998474121094,
+      "2024-05-21T19:30:00+00:00": 53.7400016784668
+    },
+    "sentiment": 0.5419458150863647
+  },
+  {
+    "title": "Kroger (KR) Stock Drops Despite Market Gains: Important Facts to Note",
+    "published": 1716242405,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 54.34000015258789,
+      "2024-05-20T14:30:00+00:00": 54.32500076293945,
+      "2024-05-20T15:30:00+00:00": 54.31999969482422,
+      "2024-05-20T16:30:00+00:00": 53.84000015258789,
+      "2024-05-20T17:30:00+00:00": 53.8849983215332,
+      "2024-05-20T18:30:00+00:00": 53.82500076293945,
+      "2024-05-20T19:30:00+00:00": 53.86000061035156
+    },
+    "sentiment": 0.5414224863052368
+  },
+  {
+    "title": "Is Kroger Co (NYSE:KR) Warren Buffett\u2019s Best Dividend Stock to Buy Now?",
+    "published": 1716219670,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 54.34000015258789,
+      "2024-05-20T14:30:00+00:00": 54.32500076293945,
+      "2024-05-20T15:30:00+00:00": 54.31999969482422,
+      "2024-05-20T16:30:00+00:00": 53.84000015258789,
+      "2024-05-20T17:30:00+00:00": 53.8849983215332,
+      "2024-05-20T18:30:00+00:00": 53.82500076293945,
+      "2024-05-20T19:30:00+00:00": 53.86000061035156
+    },
+    "sentiment": 0.8873173594474792
+  },
+  {
+    "title": "Kroger cuts CEO\u2019s pay as company\u2019s performance weakens",
+    "published": 1716199642,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 54.34000015258789,
+      "2024-05-20T14:30:00+00:00": 54.32500076293945,
+      "2024-05-20T15:30:00+00:00": 54.31999969482422,
+      "2024-05-20T16:30:00+00:00": 53.84000015258789,
+      "2024-05-20T17:30:00+00:00": 53.8849983215332,
+      "2024-05-20T18:30:00+00:00": 53.82500076293945,
+      "2024-05-20T19:30:00+00:00": 53.86000061035156
+    },
+    "sentiment": 0.9653366208076477
+  },
+  {
+    "title": "Target lower prices on thousands of frequently shopped items",
+    "published": 1716184320,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 54.34000015258789,
+      "2024-05-20T14:30:00+00:00": 54.32500076293945,
+      "2024-05-20T15:30:00+00:00": 54.31999969482422,
+      "2024-05-20T16:30:00+00:00": 53.84000015258789,
+      "2024-05-20T17:30:00+00:00": 53.8849983215332,
+      "2024-05-20T18:30:00+00:00": 53.82500076293945,
+      "2024-05-20T19:30:00+00:00": 53.86000061035156
+    },
+    "sentiment": 0.7572636604309082
+  },
+  {
+    "title": "Albertsons May Be Win-Win Proposition, With Or Without Kroger Deal",
+    "published": 1716142251,
+    "day_prices": {},
+    "sentiment": 0.9137002229690552
+  },
+  {
+    "title": "Kroger Co. stock underperforms Friday when compared to competitors",
+    "published": 1715918400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 54.5099983215332,
+      "2024-05-17T14:30:00+00:00": 54.119998931884766,
+      "2024-05-17T15:30:00+00:00": 53.98500061035156,
+      "2024-05-17T16:30:00+00:00": 54.06999969482422,
+      "2024-05-17T17:30:00+00:00": 54.05500030517578,
+      "2024-05-17T18:30:00+00:00": 53.939998626708984,
+      "2024-05-17T19:30:00+00:00": 54.025001525878906
+    },
+    "sentiment": 0.9516323804855347
+  },
+  {
+    "title": "GoodRx rallies for second day amid Kroger deal, analyst upgrade",
+    "published": 1715859720,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 54.720001220703125,
+      "2024-05-16T14:30:00+00:00": 54.98500061035156,
+      "2024-05-16T15:30:00+00:00": 54.915000915527344,
+      "2024-05-16T16:30:00+00:00": 54.95000076293945,
+      "2024-05-16T17:30:00+00:00": 54.790000915527344,
+      "2024-05-16T18:30:00+00:00": 54.6150016784668,
+      "2024-05-16T19:30:00+00:00": 54.435001373291016
+    },
+    "sentiment": 0.8021882176399231
   }
 ]

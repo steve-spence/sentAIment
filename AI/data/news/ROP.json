@@ -1,359 +1,128 @@
 [
   {
-    "title": "Aderant and Vanderbilt Law School Forge Collaboration to Catalyze AI Legal Technology Innovation to Assist Law Firms and Future Lawyers",
-    "published": 1712754060,
-    "posting_price": 536.47852024,
-    "close_price": 533.67071533,
-    "percent_change": -0.52337695
+    "title": "DAT unveils DAT iQ Benchmark, an enhanced transportation rate and performance benchmarking tool for shippers",
+    "published": 1714665600,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 515.4400024414062,
+      "2024-05-02T14:30:00+00:00": 512.260009765625,
+      "2024-05-02T15:30:00+00:00": 510.760009765625,
+      "2024-05-02T16:30:00+00:00": 509.0,
+      "2024-05-02T17:30:00+00:00": 509.4599914550781,
+      "2024-05-02T18:30:00+00:00": 510.0255126953125,
+      "2024-05-02T19:30:00+00:00": 509.9200134277344
+    },
+    "sentiment": 0.6913959980010986
   },
   {
-    "title": "John F. Murphy joins Roper Technologies Board of Directors",
-    "published": 1712579400,
-    "posting_price": 538.9876524,
-    "close_price": 540.87939453,
-    "percent_change": 0.35098061
+    "title": "Roper Technologies, Inc. (NASDAQ:ROP) Q1 2024 Earnings Call Transcript",
+    "published": 1714582268,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 511.4599914550781,
+      "2024-05-01T14:30:00+00:00": 516.47998046875,
+      "2024-05-01T15:30:00+00:00": 518.3300170898438,
+      "2024-05-01T16:30:00+00:00": 518.8499755859375,
+      "2024-05-01T17:30:00+00:00": 520.2100219726562,
+      "2024-05-01T18:30:00+00:00": 519.3300170898438,
+      "2024-05-01T19:30:00+00:00": 521.75
+    },
+    "sentiment": 0.9223647713661194
   },
   {
-    "title": "Roper Technologies Elects John F. Murphy to Board",
-    "published": 1712563980,
-    "posting_price": 538.9876524,
-    "close_price": 540.87939453,
-    "percent_change": 0.35098061
+    "title": "Zacks Industry Outlook Highlights ServiceNow, Roper Technologies and Nutanix",
+    "published": 1715597880,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 526.8800048828125,
+      "2024-05-13T14:30:00+00:00": 526.0399780273438,
+      "2024-05-13T15:30:00+00:00": 525.3300170898438,
+      "2024-05-13T16:30:00+00:00": 523.35498046875,
+      "2024-05-13T17:30:00+00:00": 522.4000244140625,
+      "2024-05-13T18:30:00+00:00": 522.4099731445312,
+      "2024-05-13T19:30:00+00:00": 522.25
+    },
+    "sentiment": 0.922944962978363
   },
   {
-    "title": "Roper Technologies appoints John Murphy to board of directors",
-    "published": 1712562360,
-    "posting_price": 538.9876524,
-    "close_price": 540.87939453,
-    "percent_change": 0.35098061
+    "title": "Kent State University Steps into the Future with CBORD and Amazon Just Walk Out Technology",
+    "published": 1715261160,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 520.6400146484375,
+      "2024-05-09T14:30:00+00:00": 521.6199951171875,
+      "2024-05-09T15:30:00+00:00": 522.1699829101562,
+      "2024-05-09T16:30:00+00:00": 521.7100219726562,
+      "2024-05-09T17:30:00+00:00": 521.4149780273438,
+      "2024-05-09T18:30:00+00:00": 522.3699951171875,
+      "2024-05-09T19:30:00+00:00": 521.8800048828125
+    },
+    "sentiment": 0.8750993609428406
   },
   {
-    "title": "Roper Technologies price target raised by $11 at Wolfe Research, here's why",
-    "published": 1712554380,
-    "posting_price": 538.9876524,
-    "close_price": 540.87939453,
-    "percent_change": 0.35098061
+    "title": "CBORD announces integration with Amazon's JWO technology at Kent State",
+    "published": 1715243400,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 520.6400146484375,
+      "2024-05-09T14:30:00+00:00": 521.6199951171875,
+      "2024-05-09T15:30:00+00:00": 522.1699829101562,
+      "2024-05-09T16:30:00+00:00": 521.7100219726562,
+      "2024-05-09T17:30:00+00:00": 521.4149780273438,
+      "2024-05-09T18:30:00+00:00": 522.3699951171875,
+      "2024-05-09T19:30:00+00:00": 521.8800048828125
+    },
+    "sentiment": 0.5741205215454102
   },
   {
-    "title": "Roper Technologies price target raised by $74 at RBC Capital, here's why",
-    "published": 1712205900,
-    "posting_price": 547.67980661,
-    "close_price": 534.95513916,
-    "percent_change": -2.32337714
+    "title": "Roper Technologies, Inc. (NASDAQ:ROP) Has Fared Decently But Fundamentals Look Uncertain: What Lies Ahead For The Stock?",
+    "published": 1716310628,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 545.0499877929688,
+      "2024-05-21T14:30:00+00:00": 539.239990234375,
+      "2024-05-21T15:30:00+00:00": 539.1400146484375,
+      "2024-05-21T16:30:00+00:00": 539.5599975585938,
+      "2024-05-21T17:30:00+00:00": 540.5800170898438,
+      "2024-05-21T18:30:00+00:00": 540.0449829101562,
+      "2024-05-21T19:30:00+00:00": 540.6300048828125
+    },
+    "sentiment": 0.504831075668335
   },
   {
-    "title": "Roper Technologies schedules first quarter 2024 financial results conference call",
-    "published": 1712061000,
-    "posting_price": 548.85469118,
-    "close_price": 542.82922363,
-    "percent_change": -1.09782564
+    "title": "IntelliTrans Hires Jim Bell as Chief Technology Officer",
+    "published": 1716300000,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 545.0499877929688,
+      "2024-05-21T14:30:00+00:00": 539.239990234375,
+      "2024-05-21T15:30:00+00:00": 539.1400146484375,
+      "2024-05-21T16:30:00+00:00": 539.5599975585938,
+      "2024-05-21T17:30:00+00:00": 540.5800170898438,
+      "2024-05-21T18:30:00+00:00": 540.0449829101562,
+      "2024-05-21T19:30:00+00:00": 540.6300048828125
+    },
+    "sentiment": 0.9174043536186218
   },
   {
-    "title": "Ex-Dividend Reminder: Roper Technologies, NetApp and Encore Wire",
-    "published": 1712049540,
-    "posting_price": 548.85469118,
-    "close_price": 542.82922363,
-    "percent_change": -1.09782564
+    "title": "Interesting ROP Put And Call Options For July 19th",
+    "published": 1715942580,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 538.7999877929688,
+      "2024-05-17T14:30:00+00:00": 539.02001953125,
+      "2024-05-17T15:30:00+00:00": 539.5449829101562,
+      "2024-05-17T16:30:00+00:00": 539.9249877929688,
+      "2024-05-17T17:30:00+00:00": 541.989990234375,
+      "2024-05-17T18:30:00+00:00": 542.7949829101562,
+      "2024-05-17T19:30:00+00:00": 543.8200073242188
+    },
+    "sentiment": 0.9205875992774963
   },
   {
-    "title": "Roper Technologies price target raised by $4 at Barclays, here's why",
-    "published": 1712031780,
-    "posting_price": 548.85469118,
-    "close_price": 542.82922363,
-    "percent_change": -1.09782564
-  },
-  {
-    "title": "New Buy Rating for Roper Technologies (ROP), the Technology Giant",
-    "published": 1712025480,
-    "posting_price": 548.85469118,
-    "close_price": 542.82922363,
-    "percent_change": -1.09782564
-  },
-  {
-    "title": "Down -7.23% in 4 Weeks, Here's Why You Should You Buy the Dip in Roper Technologies (ROP)",
-    "published": 1714484105,
-    "posting_price": 510.66078679,
-    "close_price": 509.24691772,
-    "percent_change": -0.2768705
-  },
-  {
-    "title": "Roper Technologies, Inc. Just Recorded A 16% EPS Beat: Here's What Analysts Are Forecasting Next",
-    "published": 1714472164,
-    "posting_price": 510.66078679,
-    "close_price": 509.24691772,
-    "percent_change": -0.2768705
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Roper Technologies (ROP), Lattice Semiconductor (LSCC) and Teradyne (TER)",
-    "published": 1714457100,
-    "posting_price": 510.66078679,
-    "close_price": 509.24691772,
-    "percent_change": -0.2768705
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Roper Technologies (ROP), WEX (WEX) and Trade Desk (TTD)",
-    "published": 1714441380,
-    "posting_price": 510.66078679,
-    "close_price": 509.24691772,
-    "percent_change": -0.2768705
-  },
-  {
-    "title": "Buy Rating for Roper Technologies: Strong Q1 Performance and Strategic Growth Initiatives",
-    "published": 1714393560,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies (ROP) Shares Cross Below 200 DMA",
-    "published": 1714386240,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "The Latest Analyst Ratings For Roper Techs",
-    "published": 1714377780,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Unveiling Roper Technologies (ROP)'s Value: Is It Really Priced Right? A Comprehensive Guide",
-    "published": 1714374660,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies price target lowered by $16 at RBC Capital, here's why",
-    "published": 1714371960,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies price target raised by $5 at Mizuho, here's why",
-    "published": 1714370040,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies price target raised by $11 at Barclays, here's why",
-    "published": 1714306920,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies: Strong Buy on Robust M&A Outlook and Exceptional TEP Growth",
-    "published": 1714303620,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Baird reviews short interest in the vertical software space",
-    "published": 1714302540,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies: Quest For Quality Creating Uncertainty",
-    "published": 1714237200,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies First Quarter 2024 Earnings: Beats Expectations",
-    "published": 1714222911,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper Technologies Inc (ROP) Q1 2024 Earnings Call Transcript Highlights: Strong Growth and ...",
-    "published": 1714201263,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Q1 2024 Roper Technologies Inc Earnings Call",
-    "published": 1714190467,
-    "posting_price": 520.12963429,
-    "close_price": 511.35775757,
-    "percent_change": -1.68647894
-  },
-  {
-    "title": "Roper (ROP) Q1 Earnings Surpass Estimates, Revenues Rise Y/Y",
-    "published": 1714149180,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Software Provider Roper Tech Boosts Annual Outlook Following Q1 Performance: The Details",
-    "published": 1714148788,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies starts 2024 off strong with solid first quarter",
-    "published": 1714140780,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Compared to Estimates, Roper Technologies (ROP) Q1 Earnings: A Look at Key Metrics",
-    "published": 1714138218,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies Inc (ROP) Surpasses Q1 Revenue Estimates and Raises Full-Year Guidance",
-    "published": 1714134706,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies (ROP) Tops Q1 Earnings and Revenue Estimates",
-    "published": 1714133102,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "ROP Stock Earnings: Roper Techs Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714128900,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies announces first quarter financial results",
-    "published": 1714128900,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies, Inc. (ROP) Q1 2024 Earnings Call Transcript",
-    "published": 1714128326,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies: Q1 Earnings Snapshot",
-    "published": 1714115290,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies (ROP): New Buy Recommendation for This Technology Giant",
-    "published": 1714113180,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies sees Q2 EPS $4.42-$4.46, consensus $4.49",
-    "published": 1714111200,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Non-GAAP EPS of $4.41 beats by $0.07, revenue of $1.68B beats by $30M",
-    "published": 1714111080,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper raises FY24 adj. EPS view to  $18.05-$18.25 from $17.85-$18.15",
-    "published": 1714111080,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "Roper Technologies reports Q1 adjusted EPS $4.41, consensus $4.34",
-    "published": 1714111020,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "GLOBAL BRIEFING: Yen slumps to new multi-decade low as BoJ stands pat",
-    "published": 1714091700,
-    "posting_price": 528.08507001,
-    "close_price": 524.50067139,
-    "percent_change": -0.67875402
-  },
-  {
-    "title": "iPipeline Hires Technology Industry Veteran Adam Boone as New CFO to Accelerate Strategic Growth",
-    "published": 1714054260,
-    "posting_price": 534.7261477,
-    "close_price": 538.07159424,
-    "percent_change": 0.62563736
-  },
-  {
-    "title": "Roper Q1 2024 Earnings Preview",
-    "published": 1714046100,
-    "posting_price": 534.7261477,
-    "close_price": 538.07159424,
-    "percent_change": 0.62563736
-  },
-  {
-    "title": "Roper (ROP) Gears Up to Post Q1 Earnings: What to Expect?",
-    "published": 1713970200,
-    "posting_price": 533.93964003,
-    "close_price": 535.68206787,
-    "percent_change": 0.32633424
-  },
-  {
-    "title": "CDW (CDW) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1713967295,
-    "posting_price": 533.93964003,
-    "close_price": 535.68206787,
-    "percent_change": 0.32633424
-  },
-  {
-    "title": "Stay Ahead of the Game With Roper Technologies (ROP) Q1 Earnings: Wall Street's Insights on Key Metrics",
-    "published": 1713878122,
-    "posting_price": 537.61362327,
-    "close_price": 537.28503418,
-    "percent_change": -0.06111993
-  },
-  {
-    "title": "Lineage Announces Appointment of New Board Member",
-    "published": 1713859500,
-    "posting_price": 537.61362327,
-    "close_price": 537.28503418,
-    "percent_change": -0.06111993
-  },
-  {
-    "title": "IntelliTrans Named to Inbound Logistics Top 100 Logistics IT Providers Award 2024",
-    "published": 1713451260,
-    "posting_price": 528.21449621,
-    "close_price": 524.98852539,
-    "percent_change": -0.61073122
-  },
-  {
-    "title": "DAT Truckload Volume Index: March spot rates drop on modest volumes",
-    "published": 1713273600,
-    "posting_price": 528.7023317,
-    "close_price": 524.69970703,
-    "percent_change": -0.75706583
+    "title": "7 Explosive Tech Stocks Set to Dominate the Decade",
+    "published": 1715838540,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 532.3900146484375,
+      "2024-05-16T14:30:00+00:00": 534.4600219726562,
+      "2024-05-16T15:30:00+00:00": 537.02001953125,
+      "2024-05-16T16:30:00+00:00": 536.1901245117188,
+      "2024-05-16T17:30:00+00:00": 536.0750122070312,
+      "2024-05-16T18:30:00+00:00": 536.7449951171875,
+      "2024-05-16T19:30:00+00:00": 538.1699829101562
+    },
+    "sentiment": 0.5272470712661743
   }
 ]

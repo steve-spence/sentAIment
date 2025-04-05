@@ -1,380 +1,374 @@
 [
   {
-    "title": "Short interest on S&P 500 real estate stocks advance in March",
-    "published": 1713177900,
-    "posting_price": 95.94213684,
-    "close_price": 94.09185791,
-    "percent_change": -1.92853629
+    "title": "Piper Sandler Upgrades Camden Property Trust (CPT)",
+    "published": 1715079423,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 107.01000213623047,
+      "2024-05-07T14:30:00+00:00": 105.86000061035156,
+      "2024-05-07T15:30:00+00:00": 105.5199966430664,
+      "2024-05-07T16:30:00+00:00": 105.73999786376953,
+      "2024-05-07T17:30:00+00:00": 105.62000274658203,
+      "2024-05-07T18:30:00+00:00": 105.7300033569336,
+      "2024-05-07T19:30:00+00:00": 105.75
+    },
+    "sentiment": 0.9303578734397888
   },
   {
-    "title": "2 A-Rated Sun Belt REITs So You Can Sleep Well At Night",
-    "published": 1713164400,
-    "posting_price": 95.94213684,
-    "close_price": 94.09185791,
-    "percent_change": -1.92853629
+    "title": "Mid-America Apartment Communities raised to Outperform at Wedbush",
+    "published": 1714988940,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 106.66999816894531,
+      "2024-05-06T14:30:00+00:00": 106.70500183105469,
+      "2024-05-06T15:30:00+00:00": 106.18000030517578,
+      "2024-05-06T16:30:00+00:00": 105.69999694824219,
+      "2024-05-06T17:30:00+00:00": 105.66000366210938,
+      "2024-05-06T18:30:00+00:00": 105.5,
+      "2024-05-06T19:30:00+00:00": 105.62999725341797
+    },
+    "sentiment": 0.920300304889679
   },
   {
-    "title": "Real estate stocks continue to dip as earnings season kicks off",
-    "published": 1713006060,
-    "posting_price": 95.94213684,
-    "close_price": 94.09185791,
-    "percent_change": -1.92853629
+    "title": "Camden Property price target raised by $3 at RBC Capital, here's why",
+    "published": 1714980600,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 106.66999816894531,
+      "2024-05-06T14:30:00+00:00": 106.70500183105469,
+      "2024-05-06T15:30:00+00:00": 106.18000030517578,
+      "2024-05-06T16:30:00+00:00": 105.69999694824219,
+      "2024-05-06T17:30:00+00:00": 105.66000366210938,
+      "2024-05-06T18:30:00+00:00": 105.5,
+      "2024-05-06T19:30:00+00:00": 105.62999725341797
+    },
+    "sentiment": 0.7277474403381348
   },
   {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 14",
-    "published": 1712998575,
-    "posting_price": 95.94213684,
-    "close_price": 94.09185791,
-    "percent_change": -1.92853629
+    "title": "Camden Property price target raised by $12 at Mizuho, here's why",
+    "published": 1714974420,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 106.66999816894531,
+      "2024-05-06T14:30:00+00:00": 106.70500183105469,
+      "2024-05-06T15:30:00+00:00": 106.18000030517578,
+      "2024-05-06T16:30:00+00:00": 105.69999694824219,
+      "2024-05-06T17:30:00+00:00": 105.66000366210938,
+      "2024-05-06T18:30:00+00:00": 105.5,
+      "2024-05-06T19:30:00+00:00": 105.62999725341797
+    },
+    "sentiment": 0.6899272799491882
   },
   {
-    "title": "My Biggest Losses And Lessons",
-    "published": 1712993400,
-    "posting_price": 95.94213684,
-    "close_price": 94.09185791,
-    "percent_change": -1.92853629
+    "title": "Camden Property just upgraded at Piper Sandler, here's why",
+    "published": 1714967640,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 106.66999816894531,
+      "2024-05-06T14:30:00+00:00": 106.70500183105469,
+      "2024-05-06T15:30:00+00:00": 106.18000030517578,
+      "2024-05-06T16:30:00+00:00": 105.69999694824219,
+      "2024-05-06T17:30:00+00:00": 105.66000366210938,
+      "2024-05-06T18:30:00+00:00": 105.5,
+      "2024-05-06T19:30:00+00:00": 105.62999725341797
+    },
+    "sentiment": 0.8024237155914307
   },
   {
-    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
-    "published": 1712838960,
-    "posting_price": 99.00971827,
-    "close_price": 97.32498932,
-    "percent_change": -1.70157938
+    "title": "The Labor Downshift",
+    "published": 1714899600,
+    "day_prices": {},
+    "sentiment": 0.6808571815490723
   },
   {
-    "title": "Analyst Drops Price Targets On 8 Residential REITs In One Day",
-    "published": 1712831820,
-    "posting_price": 99.00971827,
-    "close_price": 97.32498932,
-    "percent_change": -1.70157938
+    "title": "Camden Property Trust (NYSE:CPT) Q1 2024 Earnings Call Transcript",
+    "published": 1714832959,
+    "day_prices": {},
+    "sentiment": 0.9346789717674255
   },
   {
-    "title": "3 Strong Buys For The Millionaire Next Door",
-    "published": 1712818800,
-    "posting_price": 99.00971827,
-    "close_price": 97.32498932,
-    "percent_change": -1.70157938
+    "title": "Q1 2024 Camden Property Trust Earnings Call",
+    "published": 1714808857,
+    "day_prices": {},
+    "sentiment": 0.7716697454452515
   },
   {
-    "title": "RBC Capital Keeps Their Buy Rating on Camden Property (CPT)",
-    "published": 1712739000,
-    "posting_price": 98.78573646,
-    "close_price": 98.16248322,
-    "percent_change": -0.6309142
+    "title": "Camden Property Trust (CPT) (Q1 2024) Earnings Call Transcript Highlights: Strategic Insights ...",
+    "published": 1714806731,
+    "day_prices": {},
+    "sentiment": 0.7788300514221191
   },
   {
-    "title": "10 Top REITs To Buy In 2024",
-    "published": 1712734200,
-    "posting_price": 98.78573646,
-    "close_price": 98.16248322,
-    "percent_change": -0.6309142
+    "title": "Camden Property Trust (CPT) Q1 2024 Earnings Call Transcript",
+    "published": 1714773613,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 102.02999877929688,
+      "2024-05-03T14:30:00+00:00": 104.0,
+      "2024-05-03T15:30:00+00:00": 104.5199966430664,
+      "2024-05-03T16:30:00+00:00": 104.82499694824219,
+      "2024-05-03T17:30:00+00:00": 105.0,
+      "2024-05-03T18:30:00+00:00": 105.02999877929688,
+      "2024-05-03T19:30:00+00:00": 104.66999816894531
+    },
+    "sentiment": 0.9223164916038513
   },
   {
-    "title": "Blackstone's Big Move Sparks REIT Rally: Mid-America Or Camden Properties, Who Wins?",
-    "published": 1712732400,
-    "posting_price": 98.78573646,
-    "close_price": 98.16248322,
-    "percent_change": -0.6309142
+    "title": "Analysts Are Neutral on These Real Estate Stocks: Diamondrock (DRH), Kimco Realty (KIM)",
+    "published": 1714718820,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 102.02999877929688,
+      "2024-05-03T14:30:00+00:00": 104.0,
+      "2024-05-03T15:30:00+00:00": 104.5199966430664,
+      "2024-05-03T16:30:00+00:00": 104.82499694824219,
+      "2024-05-03T17:30:00+00:00": 105.0,
+      "2024-05-03T18:30:00+00:00": 105.02999877929688,
+      "2024-05-03T19:30:00+00:00": 104.66999816894531
+    },
+    "sentiment": 0.6842030882835388
   },
   {
-    "title": "CPT Dividend Yield Pushes Past 4%",
-    "published": 1712716080,
-    "posting_price": 98.78573646,
-    "close_price": 98.16248322,
-    "percent_change": -0.6309142
+    "title": "Analyst Issues Sell Rating on Camden Property Amid Financial Uncertainty and Market Challenges",
+    "published": 1714714860,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 102.02999877929688,
+      "2024-05-03T14:30:00+00:00": 104.0,
+      "2024-05-03T15:30:00+00:00": 104.5199966430664,
+      "2024-05-03T16:30:00+00:00": 104.82499694824219,
+      "2024-05-03T17:30:00+00:00": 105.0,
+      "2024-05-03T18:30:00+00:00": 105.02999877929688,
+      "2024-05-03T19:30:00+00:00": 104.66999816894531
+    },
+    "sentiment": 0.6917586326599121
   },
   {
-    "title": "Camden Property, Mid-America best readthroughs from AIR Communities deal - analyst",
-    "published": 1712665800,
-    "posting_price": 100.09067305,
-    "close_price": 100.86974335,
-    "percent_change": 0.77836453
+    "title": "Camden Property Trust Announces First Quarter 2024 Operating Results",
+    "published": 1714680900,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 99.33999633789062,
+      "2024-05-02T14:30:00+00:00": 99.41000366210938,
+      "2024-05-02T15:30:00+00:00": 99.7300033569336,
+      "2024-05-02T16:30:00+00:00": 100.25,
+      "2024-05-02T17:30:00+00:00": 100.54499816894531,
+      "2024-05-02T18:30:00+00:00": 100.87000274658203,
+      "2024-05-02T19:30:00+00:00": 100.7750015258789
+    },
+    "sentiment": 0.7634877562522888
   },
   {
-    "title": "Heard on the Street: Blackstone Bets on Wealthy Renters",
-    "published": 1712660130,
-    "posting_price": 100.09067305,
-    "close_price": 100.86974335,
-    "percent_change": 0.77836453
+    "title": "Camden Property Trust : First Quarter 2024 Earnings Release and Supplemental",
+    "published": 1714669152,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 99.33999633789062,
+      "2024-05-02T14:30:00+00:00": 99.41000366210938,
+      "2024-05-02T15:30:00+00:00": 99.7300033569336,
+      "2024-05-02T16:30:00+00:00": 100.25,
+      "2024-05-02T17:30:00+00:00": 100.54499816894531,
+      "2024-05-02T18:30:00+00:00": 100.87000274658203,
+      "2024-05-02T19:30:00+00:00": 100.7750015258789
+    },
+    "sentiment": 0.915475070476532
   },
   {
-    "title": "Camden Property price target raised by $1 at Truist, here's why",
-    "published": 1712644320,
-    "posting_price": 100.09067305,
-    "close_price": 100.86974335,
-    "percent_change": 0.77836453
+    "title": "Analysts Offer Insights on Real Estate Companies: Camden Property (CPT) and Umh (UMH)",
+    "published": 1714632660,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 99.33999633789062,
+      "2024-05-02T14:30:00+00:00": 99.41000366210938,
+      "2024-05-02T15:30:00+00:00": 99.7300033569336,
+      "2024-05-02T16:30:00+00:00": 100.25,
+      "2024-05-02T17:30:00+00:00": 100.54499816894531,
+      "2024-05-02T18:30:00+00:00": 100.87000274658203,
+      "2024-05-02T19:30:00+00:00": 100.7750015258789
+    },
+    "sentiment": 0.9267677068710327
   },
   {
-    "title": "Critical Insights From Camden Prop Trust Analyst Ratings: What You Need To Know",
-    "published": 1712628360,
-    "posting_price": 100.09067305,
-    "close_price": 100.86974335,
-    "percent_change": 0.77836453
+    "title": "Camden Property reports Q1 core FFO $1.70, consensus $1.66",
+    "published": 1714620900,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 99.33999633789062,
+      "2024-05-02T14:30:00+00:00": 99.41000366210938,
+      "2024-05-02T15:30:00+00:00": 99.7300033569336,
+      "2024-05-02T16:30:00+00:00": 100.25,
+      "2024-05-02T17:30:00+00:00": 100.54499816894531,
+      "2024-05-02T18:30:00+00:00": 100.87000274658203,
+      "2024-05-02T19:30:00+00:00": 100.7750015258789
+    },
+    "sentiment": 0.8230498433113098
   },
   {
-    "title": "Tesla, Two Huge Spinoffs Among Big S&P 500 Stock Movers Monday",
-    "published": 1712607552,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Why I'm Steering Clear Of REIT ETFs",
+    "published": 1714548600,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 98.83999633789062,
+      "2024-05-01T14:30:00+00:00": 99.1050033569336,
+      "2024-05-01T15:30:00+00:00": 99.18000030517578,
+      "2024-05-01T16:30:00+00:00": 98.86000061035156,
+      "2024-05-01T17:30:00+00:00": 98.83999633789062,
+      "2024-05-01T18:30:00+00:00": 98.66000366210938,
+      "2024-05-01T19:30:00+00:00": 99.51499938964844
+    },
+    "sentiment": 0.8752550482749939
   },
   {
-    "title": "AIR Communities REIT Climbs on Blackstone Deal News; Other REITs Rise",
-    "published": 1712584800,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Eminence Capital's Q1 moves include adding MNDY, J, exiting SCHW, FROG",
+    "published": 1715746020,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 108.61000061035156,
+      "2024-05-15T14:30:00+00:00": 108.26499938964844,
+      "2024-05-15T15:30:00+00:00": 107.79499816894531,
+      "2024-05-15T16:30:00+00:00": 107.94000244140625,
+      "2024-05-15T17:30:00+00:00": 107.5199966430664,
+      "2024-05-15T18:30:00+00:00": 107.76000213623047,
+      "2024-05-15T19:30:00+00:00": 107.94000244140625
+    },
+    "sentiment": 0.9194112420082092
   },
   {
-    "title": "AIR Communities REIT on Blackstone Deal News; Other REITs Rise",
-    "published": 1712584800,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Camden Property price target raised by $7.50 at Morgan Stanley, here's why",
+    "published": 1715671500,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 107.30999755859375,
+      "2024-05-14T14:30:00+00:00": 107.33000183105469,
+      "2024-05-14T15:30:00+00:00": 107.25,
+      "2024-05-14T16:30:00+00:00": 106.86000061035156,
+      "2024-05-14T17:30:00+00:00": 106.68000030517578,
+      "2024-05-14T18:30:00+00:00": 106.98500061035156,
+      "2024-05-14T19:30:00+00:00": 107.02999877929688
+    },
+    "sentiment": 0.6982249021530151
   },
   {
-    "title": "Camden Property Trust, Sachem Capital among real estate movers",
-    "published": 1712574300,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "7 REITs Receive Analyst Upgrades In The First Week Of May",
+    "published": 1715218560,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 104.61000061035156,
+      "2024-05-09T14:30:00+00:00": 104.77999877929688,
+      "2024-05-09T15:30:00+00:00": 104.41999816894531,
+      "2024-05-09T16:30:00+00:00": 104.73999786376953,
+      "2024-05-09T17:30:00+00:00": 105.66500091552734,
+      "2024-05-09T18:30:00+00:00": 106.01399993896484,
+      "2024-05-09T19:30:00+00:00": 106.43499755859375
+    },
+    "sentiment": 0.9192390441894531
   },
   {
-    "title": "Bullish Two Hundred Day Moving Average Cross - CPT",
-    "published": 1712572860,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Camden Property Trust : First Quarter 2024 Earnings Transcript",
+    "published": 1715172550,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 105.87000274658203,
+      "2024-05-08T14:30:00+00:00": 104.8949966430664,
+      "2024-05-08T15:30:00+00:00": 104.4000015258789,
+      "2024-05-08T16:30:00+00:00": 104.20999908447266,
+      "2024-05-08T17:30:00+00:00": 103.68000030517578,
+      "2024-05-08T18:30:00+00:00": 104.1449966430664,
+      "2024-05-08T19:30:00+00:00": 104.1500015258789
+    },
+    "sentiment": 0.882941484451294
   },
   {
-    "title": "Apartment Income downgraded to Market Perform from Outperform at BMO Capital",
-    "published": 1712571240,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Why REITs Didn't Grow In 2023",
+    "published": 1716446100,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 105.04000091552734,
+      "2024-05-23T14:30:00+00:00": 104.6500015258789,
+      "2024-05-23T15:30:00+00:00": 104.63999938964844,
+      "2024-05-23T16:30:00+00:00": 104.79000091552734,
+      "2024-05-23T17:30:00+00:00": 104.2300033569336,
+      "2024-05-23T18:30:00+00:00": 103.91999816894531,
+      "2024-05-23T19:30:00+00:00": 104.0199966430664
+    },
+    "sentiment": 0.8948620557785034
   },
   {
-    "title": "Monday Sector Leaders: Financial, Utilities",
-    "published": 1712544180,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Apartment REITs see marginal increase in Q1 occupancy rates",
+    "published": 1716254700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 105.44999694824219,
+      "2024-05-21T14:30:00+00:00": 105.97000122070312,
+      "2024-05-21T15:30:00+00:00": 105.72000122070312,
+      "2024-05-21T16:30:00+00:00": 105.90499877929688,
+      "2024-05-21T17:30:00+00:00": 106.1500015258789,
+      "2024-05-21T18:30:00+00:00": 106.08999633789062,
+      "2024-05-21T19:30:00+00:00": 105.87000274658203
+    },
+    "sentiment": 0.7623062133789062
   },
   {
-    "title": "Apartment Income Stock Is Soaring on the Blackstone Buyout",
-    "published": 1712537940,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Real estate stocks continue to surge as soft inflation reports fuel rate cut hopes",
+    "published": 1716030420,
+    "day_prices": {},
+    "sentiment": 0.8221270442008972
   },
   {
-    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
-    "published": 1712401620,
-    "posting_price": 95.54286971,
-    "close_price": 99.45767975,
-    "percent_change": 4.0974382
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 108.13999938964844,
+      "2024-05-16T14:30:00+00:00": 107.94999694824219,
+      "2024-05-16T15:30:00+00:00": 108.01000213623047,
+      "2024-05-16T16:30:00+00:00": 107.75,
+      "2024-05-16T17:30:00+00:00": 107.48880004882812,
+      "2024-05-16T18:30:00+00:00": 107.44000244140625,
+      "2024-05-16T19:30:00+00:00": 107.2761001586914
+    },
+    "sentiment": 0.8883899450302124
   },
   {
-    "title": "Showcasing Seeking Alpha's March 2024 New Analysts",
-    "published": 1712316600,
-    "posting_price": 92.94273332,
-    "close_price": 94.09185791,
-    "percent_change": 1.23637916
+    "title": "A Major Market Reversal Is Increasingly Likely",
+    "published": 1717157070,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 101.80000305175781,
+      "2024-05-31T14:30:00+00:00": 101.47000122070312,
+      "2024-05-31T15:30:00+00:00": 101.91500091552734,
+      "2024-05-31T16:30:00+00:00": 101.5250015258789,
+      "2024-05-31T17:30:00+00:00": 101.79000091552734,
+      "2024-05-31T18:30:00+00:00": 102.08499908447266,
+      "2024-05-31T19:30:00+00:00": 102.04499816894531
+    },
+    "sentiment": 0.8557172417640686
   },
   {
-    "title": "Buy Rating Affirmed for Collplant Holdings on Strong Financials and Promising Product Pipeline Advancements",
-    "published": 1712294760,
-    "posting_price": 92.94273332,
-    "close_price": 94.09185791,
-    "percent_change": 1.23637916
+    "title": "Real estate plays: Camden Property vs. Essex Property Trust",
+    "published": 1717101743,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 100.18000030517578,
+      "2024-05-30T14:30:00+00:00": 100.6500015258789,
+      "2024-05-30T15:30:00+00:00": 100.54000091552734,
+      "2024-05-30T16:30:00+00:00": 100.37999725341797,
+      "2024-05-30T17:30:00+00:00": 100.4000015258789,
+      "2024-05-30T18:30:00+00:00": 100.58000183105469,
+      "2024-05-30T19:30:00+00:00": 100.9000015258789
+    },
+    "sentiment": 0.9269595742225647
   },
   {
-    "title": "Camden Property Trust Named One of Fortune\u2019s 100 Best Companies to Work For\u00ae",
-    "published": 1712262600,
-    "posting_price": 94.39374251,
-    "close_price": 93.36148071,
-    "percent_change": -1.09357016
+    "title": "Wells Fargo Keeps Their Sell Rating on Camden Property (CPT)",
+    "published": 1717063500,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 100.18000030517578,
+      "2024-05-30T14:30:00+00:00": 100.6500015258789,
+      "2024-05-30T15:30:00+00:00": 100.54000091552734,
+      "2024-05-30T16:30:00+00:00": 100.37999725341797,
+      "2024-05-30T17:30:00+00:00": 100.4000015258789,
+      "2024-05-30T18:30:00+00:00": 100.58000183105469,
+      "2024-05-30T19:30:00+00:00": 100.9000015258789
+    },
+    "sentiment": 0.9031763672828674
   },
   {
-    "title": "Camden Property Trust Announces First Quarter 2024 Earnings Release and Conference Call Dates",
-    "published": 1712261700,
-    "posting_price": 94.39374251,
-    "close_price": 93.36148071,
-    "percent_change": -1.09357016
+    "title": "CollPlant Highlights Innovation Amidst Q1 Financials",
+    "published": 1716969360,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 100.05999755859375,
+      "2024-05-29T14:30:00+00:00": 98.51000213623047,
+      "2024-05-29T15:30:00+00:00": 98.6500015258789,
+      "2024-05-29T16:30:00+00:00": 99.12999725341797,
+      "2024-05-29T17:30:00+00:00": 99.13999938964844,
+      "2024-05-29T18:30:00+00:00": 99.16999816894531,
+      "2024-05-29T19:30:00+00:00": 99.13999938964844
+    },
+    "sentiment": 0.769261360168457
   },
   {
-    "title": "CollPlant Biotechnologies\u2019 Strong Financial and R&D Progress",
-    "published": 1712213880,
-    "posting_price": 94.39374251,
-    "close_price": 93.36148071,
-    "percent_change": -1.09357016
-  },
-  {
-    "title": "Better Buy For Retiring With Dividends In April 2024: BDCs Or REITs",
-    "published": 1712128500,
-    "posting_price": 92.82587107,
-    "close_price": 93.37121582,
-    "percent_change": 0.5874922
-  },
-  {
-    "title": "Unlocking Wealth: Millennials' New Path to Prosperity with Real Estate",
-    "published": 1712071524,
-    "posting_price": 93.29330865,
-    "close_price": 93.14723206,
-    "percent_change": -0.15657778
-  },
-  {
-    "title": "3 High-Yield Dividend Stocks I'm Excited to Buy More of in May",
-    "published": 1714470360,
-    "posting_price": 97.26654882,
-    "close_price": 97.07178497,
-    "percent_change": -0.20023724
-  },
-  {
-    "title": "Looking Into Camden Prop Trust's Recent Short Interest",
-    "published": 1714465980,
-    "posting_price": 97.26654882,
-    "close_price": 97.07178497,
-    "percent_change": -0.20023724
-  },
-  {
-    "title": "Assessing Camden Prop Trust: Insights From 10 Financial Analysts",
-    "published": 1714388880,
-    "posting_price": 97.80216639,
-    "close_price": 97.65608978,
-    "percent_change": -0.14935928
-  },
-  {
-    "title": "Real estate stocks finish in green as analysts turn positive, earnings surprise to upside",
-    "published": 1714215840,
-    "posting_price": 97.80216639,
-    "close_price": 97.65608978,
-    "percent_change": -0.14935928
-  },
-  {
-    "title": "2 Big Dividend Stocks To Add: 7% Income Retirement Series - Part 3",
-    "published": 1714210200,
-    "posting_price": 97.80216639,
-    "close_price": 97.65608978,
-    "percent_change": -0.14935928
-  },
-  {
-    "title": "2 Once-In-A-Decade REIT Buying Opportunities",
-    "published": 1714208400,
-    "posting_price": 97.80216639,
-    "close_price": 97.65608978,
-    "percent_change": -0.14935928
-  },
-  {
-    "title": "Benchmark Your Portfolio:\u00a0The VNQ Challenge",
-    "published": 1714204800,
-    "posting_price": 97.80216639,
-    "close_price": 97.65608978,
-    "percent_change": -0.14935928
-  },
-  {
-    "title": "If I Had To Retire With Only 5 Stocks, It Would Be These",
-    "published": 1714115700,
-    "posting_price": 96.11742602,
-    "close_price": 97.01335907,
-    "percent_change": 0.93212343
-  },
-  {
-    "title": "These Residential REITs Have Yields Up to 4.2% and Track Records of Dividend Growth",
-    "published": 1713890438,
-    "posting_price": 95.79606473,
-    "close_price": 96.02004242,
-    "percent_change": 0.23380678
-  },
-  {
-    "title": "3 'Must Own' Fortress REITs",
-    "published": 1713682800,
-    "posting_price": 93.87761265,
-    "close_price": 95.50391388,
-    "percent_change": 1.73236322
-  },
-  {
-    "title": "Real estate stocks continue on downward trajectory as market's April pullback intensifies",
-    "published": 1713610980,
-    "posting_price": 93.87761265,
-    "close_price": 95.50391388,
-    "percent_change": 1.73236322
-  },
-  {
-    "title": "Buy The Dip: 2 Dividend Stocks Getting Way Too Cheap",
-    "published": 1713598200,
-    "posting_price": 93.87761265,
-    "close_price": 95.50391388,
-    "percent_change": 1.73236322
-  },
-  {
-    "title": "My Biggest REIT Wins And Lessons",
-    "published": 1713598200,
-    "posting_price": 93.87761265,
-    "close_price": 95.50391388,
-    "percent_change": 1.73236322
-  },
-  {
-    "title": "REIT Rally 2.0: Opportunity Awaits For Investment In High-Quality Gems",
-    "published": 1713596400,
-    "posting_price": 93.87761265,
-    "close_price": 95.50391388,
-    "percent_change": 1.73236322
-  },
-  {
-    "title": "BSR REIT: The Next Multifamily M&A Target?",
-    "published": 1713532431,
-    "posting_price": 93.20565937,
-    "close_price": 93.77048492,
-    "percent_change": 0.6059992
-  },
-  {
-    "title": "Camden Property Trust: My Favorite Sunbelt REIT",
-    "published": 1713498254,
-    "posting_price": 93.20565937,
-    "close_price": 93.77048492,
-    "percent_change": 0.6059992
-  },
-  {
-    "title": "Interesting CPT Put And Call Options For June 21st",
-    "published": 1713432840,
-    "posting_price": 93.03036421,
-    "close_price": 92.79664612,
-    "percent_change": -0.25122775
-  },
-  {
-    "title": "Blackstone Is Buying REITs Hand Over Fist",
-    "published": 1713425400,
-    "posting_price": 93.03036421,
-    "close_price": 92.79664612,
-    "percent_change": -0.25122775
-  },
-  {
-    "title": "Camden Property Trust Announces Executive Changes",
-    "published": 1713385800,
-    "posting_price": 92.77717202,
-    "close_price": 92.8258667,
-    "percent_change": 0.05248563
-  },
-  {
-    "title": "3 No-Brainer High-Yield Dividend Stocks to Buy Right Now for Less Than $1,000",
-    "published": 1713348840,
-    "posting_price": 92.77717202,
-    "close_price": 92.8258667,
-    "percent_change": 0.05248563
-  },
-  {
-    "title": "Camden Property Announces Executive Leadership Reshuffle",
-    "published": 1713327240,
-    "posting_price": 92.77717202,
-    "close_price": 92.8258667,
-    "percent_change": 0.05248563
-  },
-  {
-    "title": "Camden Property names Jessett president and CFO",
-    "published": 1713324720,
-    "posting_price": 92.77717202,
-    "close_price": 92.8258667,
-    "percent_change": 0.05248563
+    "title": "Real estate stocks fall after 4 weeks of gain as rate cut hopes dampen",
+    "published": 1716635040,
+    "day_prices": {},
+    "sentiment": 0.9494156837463379
   }
 ]

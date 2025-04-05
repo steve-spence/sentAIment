@@ -1,639 +1,296 @@
 [
   {
-    "title": "What's in Store for Thermo Fisher (TMO) in Q1 Earnings?",
-    "published": 1713200280,
-    "posting_price": 91.34999847,
-    "close_price": 89.19999695,
-    "percent_change": -2.35358682
-  },
-  {
-    "title": "Edwards Lifesciences price target raised by $6 at RBC Capital, here's why",
-    "published": 1713164940,
-    "posting_price": 91.34999847,
-    "close_price": 89.19999695,
-    "percent_change": -2.35358682
-  },
-  {
-    "title": "Wedgewood Partners Q1 2024 Client Letter",
-    "published": 1712999400,
-    "posting_price": 91.34999847,
-    "close_price": 89.19999695,
-    "percent_change": -2.35358682
-  },
-  {
-    "title": "What's in Store for Abbott Laboratories (ABT) in Q1 Earnings?",
-    "published": 1712929860,
-    "posting_price": 90.77999878,
-    "close_price": 90.27999878,
-    "percent_change": -0.55078212
-  },
-  {
-    "title": "How Is The Market Feeling About Edwards Lifesciences?",
-    "published": 1712918940,
-    "posting_price": 90.77999878,
-    "close_price": 90.27999878,
-    "percent_change": -0.55078212
-  },
-  {
-    "title": "Abbott\u2019s Nadim Geloo on Triclip\u2019s US launch, Edwards competition",
-    "published": 1712911020,
-    "posting_price": 90.77999878,
-    "close_price": 90.27999878,
-    "percent_change": -0.55078212
-  },
-  {
-    "title": "$1000 Invested In Edwards Lifesciences 15 Years Ago Would Be Worth This Much Today",
-    "published": 1712894760,
-    "posting_price": 90.77999878,
-    "close_price": 90.27999878,
-    "percent_change": -0.55078212
-  },
-  {
-    "title": "What Analysts Are Saying About Edwards Lifesciences Stock",
-    "published": 1712837160,
-    "posting_price": 92.83000183,
-    "close_price": 91.41000366,
-    "percent_change": -1.5296759
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Evogene (EVGN), Edwards Lifesciences (EW) and Nurix Therapeutics (NRIX)",
-    "published": 1712818200,
-    "posting_price": 92.83000183,
-    "close_price": 91.41000366,
-    "percent_change": -1.5296759
-  },
-  {
-    "title": "Edwards Lifesciences price target raised by $10 at Mizuho, here's why",
-    "published": 1712815260,
-    "posting_price": 92.83000183,
-    "close_price": 91.41000366,
-    "percent_change": -1.5296759
-  },
-  {
-    "title": "Will UnitedHealth's (UNH) UnitedHealthcare Unit Aid Q1 Earnings?",
-    "published": 1712767500,
-    "posting_price": 91.73000336,
-    "close_price": 91.51000214,
-    "percent_change": -0.23983562
-  },
-  {
-    "title": "Revising Edwards Lifesciences Price Target Post-Medtronic\u2019s SMART Study: A Hold Rating Amidst Competitive Pressures",
-    "published": 1712711940,
-    "posting_price": 91.73000336,
-    "close_price": 91.51000214,
-    "percent_change": -0.23983562
-  },
-  {
-    "title": "Edwards Lifesciences - Study of NFL Alumni Cohort Finds Majority Suffer From Heart Disease without Knowing It",
-    "published": 1712561352,
-    "posting_price": 92.61000061,
-    "close_price": 92.33999634,
-    "percent_change": -0.2915498
-  },
-  {
-    "title": "SMART data a 'modest win' for Medtronic, says Jefferies",
-    "published": 1712560800,
-    "posting_price": 92.61000061,
-    "close_price": 92.33999634,
-    "percent_change": -0.2915498
-  },
-  {
-    "title": "Study of NFL Alumni Cohort Finds Majority Suffer From Heart Disease Without Knowing It",
-    "published": 1712521800,
-    "posting_price": 92.61000061,
-    "close_price": 92.33999634,
-    "percent_change": -0.2915498
-  },
-  {
-    "title": "Evercore ISI Remains a Hold on Edwards Lifesciences (EW)",
-    "published": 1712229420,
-    "posting_price": 93.68000031,
-    "close_price": 91.19999695,
-    "percent_change": -2.64731357
-  },
-  {
-    "title": "Edwards Lifesciences Corp. stock underperforms Thursday when compared to competitors",
-    "published": 1712202960,
-    "posting_price": 93.68000031,
-    "close_price": 91.19999695,
-    "percent_change": -2.64731357
-  },
-  {
-    "title": "Tenet Healthcare (THC) Soars 76% in a Year: What Lies Ahead?",
-    "published": 1712162700,
-    "posting_price": 93.94999695,
-    "close_price": 93.01999664,
-    "percent_change": -0.9898886
-  },
-  {
-    "title": "Are Robust Financials Driving The Recent Rally In Edwards Lifesciences Corporation's (NYSE:EW) Stock?",
-    "published": 1712142029,
-    "posting_price": 93.94999695,
-    "close_price": 93.01999664,
-    "percent_change": -0.9898886
-  },
-  {
-    "title": "Precedential Federal Circuit Opinion Underscores Tension In Interpretation Of The Safe Harbor Of 35 U.S.C. \u00a7 271(e)(1)",
-    "published": 1712139131,
-    "posting_price": 93.94999695,
-    "close_price": 93.01999664,
-    "percent_change": -0.9898886
-  },
-  {
-    "title": "Edwards Lifesciences price target raised by $8 at Citi, here's why",
-    "published": 1712119920,
-    "posting_price": 93.94999695,
-    "close_price": 93.01999664,
-    "percent_change": -0.9898886
-  },
-  {
-    "title": "$100 Invested In Edwards Lifesciences 10 Years Ago Would Be Worth This Much Today",
-    "published": 1712061360,
-    "posting_price": 93.44999695,
-    "close_price": 94.30999756,
-    "percent_change": 0.92027891
-  },
-  {
-    "title": "Edwards Lifesciences Corporation (NYSE:EW) Q1 2024 Earnings Call Transcript",
-    "published": 1714486854,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "These 2 Medical Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-    "published": 1714482009,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "East West Petroleum Nears New Zealand Asset Sale Completion",
-    "published": 1714477080,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Edwards Lifesciences (EW), Bristol-Myers Squibb (BMY) and Laboratory (LH)",
-    "published": 1714443660,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "Hold Rating Justified for Edwards Lifesciences Amid TAVR Segment Uncertainties",
-    "published": 1714442160,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "Maintaining Buy Rating on Edwards Lifesciences Amid Mixed TAVR Performance and Strong TMTT Growth",
-    "published": 1714441800,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Edwards Lifesciences (EW), BioMarin Pharmaceutical (BMRN) and Hookipa Pharma (HOOK)",
-    "published": 1714439580,
-    "posting_price": 85.34999847,
-    "close_price": 84.66999817,
-    "percent_change": -0.79671976
-  },
-  {
-    "title": "Investing in Edwards Lifesciences (EW)? Don't Miss Assessing Its International Revenue Trends",
-    "published": 1714407480,
-    "posting_price": 86.43000031,
-    "close_price": 85.94999695,
-    "percent_change": -0.55536661
-  },
-  {
-    "title": "What's in Store for Cardinal Health (CAH) in Q3 Earnings?",
-    "published": 1714406820,
-    "posting_price": 86.43000031,
-    "close_price": 85.94999695,
-    "percent_change": -0.55536661
-  },
-  {
-    "title": "Truist Financial Reaffirms Their Buy Rating on Edwards Lifesciences (EW)",
-    "published": 1714373580,
-    "posting_price": 86.43000031,
-    "close_price": 85.94999695,
-    "percent_change": -0.55536661
-  },
-  {
-    "title": "Analysts\u2019 Top Healthcare Picks: AbbVie (ABBV), Wave Life Sciences (WVE)",
-    "published": 1714373580,
-    "posting_price": 86.43000031,
-    "close_price": 85.94999695,
-    "percent_change": -0.55536661
-  },
-  {
-    "title": "Edwards Lifesciences First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags",
-    "published": 1714222007,
-    "posting_price": 86.43000031,
-    "close_price": 85.94999695,
-    "percent_change": -0.55536661
-  },
-  {
-    "title": "This 'Critical' Business Helped Edwards Lifesciences Offset Its TAVR Miss",
-    "published": 1714162183,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Factors Setting the Tone For Lantheus' (LNTH) Q1 Earnings",
-    "published": 1714151520,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards Lifesciences (EW) Q1 Earnings Top, 2024 Sales View Up",
-    "published": 1714144140,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Q1 2024 Edwards Lifesciences Corp Earnings Call",
-    "published": 1714142319,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "$1000 Invested In This Stock 15 Years Ago Would Be Worth $16,000 Today",
-    "published": 1714134840,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards gets Q1 boost as Pascal valve repair sales ramp up",
-    "published": 1714134480,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Analysts Are Neutral on These Healthcare Stocks: Edwards Lifesciences (EW), Gilead Sciences (GILD)",
-    "published": 1714130460,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards Lifesciences Corp (EW) (Q1 2024) Earnings Call Transcript Highlights: Robust Growth and ...",
-    "published": 1714117240,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Strong Q1 Performance and Positive Market Trends Reinforce Buy Rating for Edwards Lifesciences",
-    "published": 1714115820,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Piper Sandler Sticks to Their Hold Rating for Edwards Lifesciences (EW)",
-    "published": 1714114380,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards Lifesciences (EW) Receives a Hold from Stifel Nicolaus",
-    "published": 1714114080,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards Lifesciences price target lowered by $1 at Canaccord, here's why",
-    "published": 1714114020,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards Lifesciences price target raised by $3 at UBS, here's why",
-    "published": 1714110840,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Edwards Lifesciences (EW) Receives a Buy from RBC Capital",
-    "published": 1714109820,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Buy Rating Justified: Edwards Lifesciences Exceeds Q1 Expectations with Strong Sales and Market Growth Prospects",
-    "published": 1714106820,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Barclays Reaffirms Their Buy Rating on Edwards Lifesciences (EW)",
-    "published": 1714103280,
-    "posting_price": 87.0,
-    "close_price": 86.43000031,
-    "percent_change": -0.65517206
-  },
-  {
-    "title": "Compared to Estimates, Edwards Lifesciences (EW) Q1 Earnings: A Look at Key Metrics",
-    "published": 1714082409,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences Q1 Earnings: Mixed Results with Adjusted EPS Beating Estimates",
-    "published": 1714081938,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences (EW) Q1 Earnings and Revenues Top Estimates",
-    "published": 1714080606,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences Corporation (EW) Q1 2024 Earnings Call Transcript",
-    "published": 1714079947,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences Nabs Quarterly Beat And Plans A 'Critical' Spinoff",
-    "published": 1714079083,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences Reports First Quarter Results",
-    "published": 1714076100,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences: Q1 Earnings Snapshot",
-    "published": 1714062491,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "EW Stock Earnings: Edwards Lifesciences Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714031700,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences backs FY24 EPS view $2.70-$2.80, consensus $2.75",
-    "published": 1714015440,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences sees Q2 adjusted EPS 67c-71c, consensus 70c",
-    "published": 1714015380,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences reports Q1 adjusted EPS 66c, consensus 64c",
-    "published": 1714015380,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences Non-GAAP EPS of $0.66 beats by $0.02, revenue of $1.6B beats by $30M",
-    "published": 1714015200,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Decoding Edwards Lifesciences's Options Activity: What's the Big Picture?",
-    "published": 1714012500,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Edwards Lifesciences options imply 4.8% move in share price post-earnings",
-    "published": 1714011900,
-    "posting_price": 88.0,
-    "close_price": 88.01000214,
-    "percent_change": 0.01136607
-  },
-  {
-    "title": "Watch These 3 MedTech Stocks This Earnings Season: Beat or Miss?",
-    "published": 1713981360,
-    "posting_price": 87.87999725,
-    "close_price": 88.61000061,
-    "percent_change": 0.83068205
-  },
-  {
-    "title": "Rising Demand Likely to Aid GE HealthCare's (GEHC) Q1 Earnings",
-    "published": 1713972840,
-    "posting_price": 87.87999725,
-    "close_price": 88.61000061,
-    "percent_change": 0.83068205
-  },
-  {
-    "title": "Ongoing Procedural Growth May Aid Stryker's (SYK) Q1 Earnings",
-    "published": 1713954300,
-    "posting_price": 87.87999725,
-    "close_price": 88.61000061,
-    "percent_change": 0.83068205
-  },
-  {
-    "title": "June 2025 Options Now Available For Edwards Lifesciences Corp (EW)",
-    "published": 1713953040,
-    "posting_price": 87.87999725,
-    "close_price": 88.61000061,
-    "percent_change": 0.83068205
-  },
-  {
-    "title": "Edwards Lifesciences Q1 2024 Earnings Preview",
-    "published": 1713932700,
-    "posting_price": 87.87999725,
-    "close_price": 88.61000061,
-    "percent_change": 0.83068205
-  },
-  {
-    "title": "Edwards Lifesciences Corporation: The story continues",
-    "published": 1713871533,
-    "posting_price": 87.40000153,
-    "close_price": 87.75,
-    "percent_change": 0.40045591
-  },
-  {
-    "title": "Is a Beat Likely for West Pharmaceutical (WST) in Q1 Earnings?",
-    "published": 1713793440,
-    "posting_price": 86.54000092,
-    "close_price": 86.95999908,
-    "percent_change": 0.48532257
-  },
-  {
-    "title": "Unveiling Edwards Lifesciences (EW) Q1 Outlook: Wall Street Estimates for Key Metrics",
-    "published": 1713791761,
-    "posting_price": 86.54000092,
-    "close_price": 86.95999908,
-    "percent_change": 0.48532257
-  },
-  {
-    "title": "A Look At The Fair Value Of Edwards Lifesciences Corporation (NYSE:EW)",
-    "published": 1713700812,
-    "posting_price": 86.54000092,
-    "close_price": 86.95999908,
-    "percent_change": 0.48532257
-  },
-  {
-    "title": "Will Acute Care Unit Aid Universal Health's (UHS) Q1 Earnings?",
-    "published": 1713549600,
-    "posting_price": 87.19999695,
-    "close_price": 85.94000244,
-    "percent_change": -1.44494788
-  },
-  {
-    "title": "Hologic (HOLX) Q2 Earnings Might Rise on GYN Surgical Growth",
-    "published": 1713540600,
-    "posting_price": 87.19999695,
-    "close_price": 85.94000244,
-    "percent_change": -1.44494788
-  },
-  {
-    "title": "David Rolfe's Wedgewood Partners 1st-Quarter Letter: 'The Magnificent Roaring '20s'",
-    "published": 1713527340,
-    "posting_price": 87.19999695,
-    "close_price": 85.94000244,
-    "percent_change": -1.44494788
-  },
-  {
-    "title": "5 Large-Cap Medical Stocks to Buy Ahead of Q1 Earnings",
-    "published": 1713527160,
-    "posting_price": 87.19999695,
-    "close_price": 85.94000244,
-    "percent_change": -1.44494788
-  },
-  {
-    "title": "Will High Medical Care Ratios Hurt Molina's (MOH) Q1 Earnings?",
-    "published": 1713526080,
-    "posting_price": 87.19999695,
-    "close_price": 85.94000244,
-    "percent_change": -1.44494788
-  },
-  {
-    "title": "Spin offs, sales and tuck-ins top medtech deal priorities: Moody\u2019s",
-    "published": 1713503305,
-    "posting_price": 87.19999695,
-    "close_price": 85.94000244,
-    "percent_change": -1.44494788
-  },
-  {
-    "title": "Will Low Patient Days Impact Community Health (CYH) Q1 Earnings?",
-    "published": 1713453240,
-    "posting_price": 87.34999847,
-    "close_price": 86.44999695,
-    "percent_change": -1.03033948
-  },
-  {
-    "title": "Bio-Rad Laboratories (BIO) to Post Q1 Earnings: What Awaits?",
-    "published": 1713448980,
-    "posting_price": 87.34999847,
-    "close_price": 86.44999695,
-    "percent_change": -1.03033948
-  },
-  {
-    "title": "Edwards Lifesciences (EW) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1713448911,
-    "posting_price": 87.34999847,
-    "close_price": 86.44999695,
-    "percent_change": -1.03033948
-  },
-  {
-    "title": "Edwards Lifesciences to Host Earnings Conference Call on April 25, 2024",
-    "published": 1713438600,
-    "posting_price": 87.34999847,
-    "close_price": 86.44999695,
-    "percent_change": -1.03033948
-  },
-  {
-    "title": "Behind the Scenes of Edwards Lifesciences's Latest Options Trends",
-    "published": 1713411240,
-    "posting_price": 87.34999847,
-    "close_price": 86.44999695,
-    "percent_change": -1.03033948
-  },
-  {
-    "title": "Hologic (HOLX) to Report Q2 Earnings: What's in the Cards?",
-    "published": 1713366060,
-    "posting_price": 89.88999939,
-    "close_price": 87.23999786,
-    "percent_change": -2.94804934
-  },
-  {
-    "title": "Is a Beat Likely for Edwards Lifesciences (EW) in Q1 Earnings?",
-    "published": 1713366060,
-    "posting_price": 89.88999939,
-    "close_price": 87.23999786,
-    "percent_change": -2.94804934
-  },
-  {
-    "title": "Is a Beat Likely for Intuitive Surgical (ISRG) in Q1 Earnings?",
-    "published": 1713290640,
-    "posting_price": 89.08999634,
-    "close_price": 90.05000305,
-    "percent_change": 1.07756959
-  },
-  {
-    "title": "UnitedHealth Group (UNH) Tops on Q1 Earnings, Reaffirms EPS View",
-    "published": 1713288300,
-    "posting_price": 89.08999634,
-    "close_price": 90.05000305,
-    "percent_change": 1.07756959
-  },
-  {
-    "title": "Align Technology (ALGN) to Post Q1 Earnings: What's in Store?",
-    "published": 1713282660,
-    "posting_price": 89.08999634,
-    "close_price": 90.05000305,
-    "percent_change": 1.07756959
-  },
-  {
-    "title": "ITGR vs. EW: Which Stock Should Value Investors Buy Now?",
-    "published": 1713282005,
-    "posting_price": 89.08999634,
-    "close_price": 90.05000305,
-    "percent_change": 1.07756959
-  },
-  {
-    "title": "What's in Store for Boston Scientific (BSX) in Q1 Earnings?",
-    "published": 1713278640,
-    "posting_price": 89.08999634,
-    "close_price": 90.05000305,
-    "percent_change": 1.07756959
+    "title": "Analysts Offer Insights on Healthcare Companies: Gossamer Bio (GOSS), RxSight (RXST) and Edwards Lifesciences (EW)",
+    "published": 1714980180,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 85.83000183105469,
+      "2024-05-06T14:30:00+00:00": 85.30999755859375,
+      "2024-05-06T15:30:00+00:00": 85.37999725341797,
+      "2024-05-06T16:30:00+00:00": 85.05500030517578,
+      "2024-05-06T17:30:00+00:00": 85.16000366210938,
+      "2024-05-06T18:30:00+00:00": 85.19999694824219,
+      "2024-05-06T19:30:00+00:00": 84.98999786376953
+    },
+    "sentiment": 0.9087926745414734
+  },
+  {
+    "title": "Down -10.22% in 4 Weeks, Here's Why You Should You Buy the Dip in Edwards Lifesciences (EW)",
+    "published": 1714570505,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 84.0999984741211,
+      "2024-05-01T14:30:00+00:00": 83.7750015258789,
+      "2024-05-01T15:30:00+00:00": 84.17500305175781,
+      "2024-05-01T16:30:00+00:00": 84.55999755859375,
+      "2024-05-01T17:30:00+00:00": 84.51000213623047,
+      "2024-05-01T18:30:00+00:00": 84.86000061035156,
+      "2024-05-01T19:30:00+00:00": 85.08999633789062
+    },
+    "sentiment": 0.9507176876068115
+  },
+  {
+    "title": "Here's How Much $1000 Invested In Edwards Lifesciences 15 Years Ago Would Be Worth Today",
+    "published": 1715767320,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 87.2300033569336,
+      "2024-05-15T14:30:00+00:00": 89.36000061035156,
+      "2024-05-15T15:30:00+00:00": 89.45500183105469,
+      "2024-05-15T16:30:00+00:00": 89.63999938964844,
+      "2024-05-15T17:30:00+00:00": 89.62000274658203,
+      "2024-05-15T18:30:00+00:00": 89.7300033569336,
+      "2024-05-15T19:30:00+00:00": 89.79000091552734
+    },
+    "sentiment": 0.9396781325340271
+  },
+  {
+    "title": "Edwards Lifesciences Moves Up In Market Cap Rank, Passing American International Group",
+    "published": 1715744400,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 87.2300033569336,
+      "2024-05-15T14:30:00+00:00": 89.36000061035156,
+      "2024-05-15T15:30:00+00:00": 89.45500183105469,
+      "2024-05-15T16:30:00+00:00": 89.63999938964844,
+      "2024-05-15T17:30:00+00:00": 89.62000274658203,
+      "2024-05-15T18:30:00+00:00": 89.7300033569336,
+      "2024-05-15T19:30:00+00:00": 89.79000091552734
+    },
+    "sentiment": 0.9486491084098816
+  },
+  {
+    "title": "Roblox downgraded, Western Digital initiated: Wall Street's top analyst calls",
+    "published": 1715676180,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 85.83999633789062,
+      "2024-05-14T14:30:00+00:00": 85.80999755859375,
+      "2024-05-14T15:30:00+00:00": 85.44000244140625,
+      "2024-05-14T16:30:00+00:00": 85.30999755859375,
+      "2024-05-14T17:30:00+00:00": 85.79389953613281,
+      "2024-05-14T18:30:00+00:00": 85.7699966430664,
+      "2024-05-14T19:30:00+00:00": 86.29000091552734
+    },
+    "sentiment": 0.8765751719474792
+  },
+  {
+    "title": "Edwards Lifesciences just upgraded at Deutsche Bank, here's why",
+    "published": 1715674080,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 85.83999633789062,
+      "2024-05-14T14:30:00+00:00": 85.80999755859375,
+      "2024-05-14T15:30:00+00:00": 85.44000244140625,
+      "2024-05-14T16:30:00+00:00": 85.30999755859375,
+      "2024-05-14T17:30:00+00:00": 85.79389953613281,
+      "2024-05-14T18:30:00+00:00": 85.7699966430664,
+      "2024-05-14T19:30:00+00:00": 86.29000091552734
+    },
+    "sentiment": 0.8720778822898865
+  },
+  {
+    "title": "India's Meril files EU antitrust complaint against Edwards: report",
+    "published": 1715595480,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 87.03500366210938,
+      "2024-05-13T14:30:00+00:00": 86.27999877929688,
+      "2024-05-13T15:30:00+00:00": 85.68000030517578,
+      "2024-05-13T16:30:00+00:00": 85.20999908447266,
+      "2024-05-13T17:30:00+00:00": 85.22000122070312,
+      "2024-05-13T18:30:00+00:00": 85.1500015258789,
+      "2024-05-13T19:30:00+00:00": 84.8550033569336
+    },
+    "sentiment": 0.6456819176673889
+  },
+  {
+    "title": "Is It Time To Get Defensive With Healthcare Stocks?",
+    "published": 1715576400,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 87.03500366210938,
+      "2024-05-13T14:30:00+00:00": 86.27999877929688,
+      "2024-05-13T15:30:00+00:00": 85.68000030517578,
+      "2024-05-13T16:30:00+00:00": 85.20999908447266,
+      "2024-05-13T17:30:00+00:00": 85.22000122070312,
+      "2024-05-13T18:30:00+00:00": 85.1500015258789,
+      "2024-05-13T19:30:00+00:00": 84.8550033569336
+    },
+    "sentiment": 0.5864237546920776
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Salesforce, BP,  The Southern, PayPal and Edwards Lifesciences",
+    "published": 1715252880,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 85.30999755859375,
+      "2024-05-09T14:30:00+00:00": 86.36499786376953,
+      "2024-05-09T15:30:00+00:00": 86.91999816894531,
+      "2024-05-09T16:30:00+00:00": 86.66999816894531,
+      "2024-05-09T17:30:00+00:00": 87.4000015258789,
+      "2024-05-09T18:30:00+00:00": 87.63999938964844,
+      "2024-05-09T19:30:00+00:00": 87.72000122070312
+    },
+    "sentiment": 0.9434176087379456
+  },
+  {
+    "title": "Edwards Launches the SAPIEN 3 Ultra RESILIA Valve in Europe With Technology to Enhance Durability",
+    "published": 1715210460,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 85.7300033569336,
+      "2024-05-08T14:30:00+00:00": 85.31999969482422,
+      "2024-05-08T15:30:00+00:00": 85.33999633789062,
+      "2024-05-08T16:30:00+00:00": 85.12999725341797,
+      "2024-05-08T17:30:00+00:00": 85.0199966430664,
+      "2024-05-08T18:30:00+00:00": 85.16999816894531,
+      "2024-05-08T19:30:00+00:00": 85.04000091552734
+    },
+    "sentiment": 0.7787908911705017
+  },
+  {
+    "title": "Edwards Lifesciences launches SAPIEN 3 Ultra RESILIA valve",
+    "published": 1715149320,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 85.7300033569336,
+      "2024-05-08T14:30:00+00:00": 85.31999969482422,
+      "2024-05-08T15:30:00+00:00": 85.33999633789062,
+      "2024-05-08T16:30:00+00:00": 85.12999725341797,
+      "2024-05-08T17:30:00+00:00": 85.0199966430664,
+      "2024-05-08T18:30:00+00:00": 85.16999816894531,
+      "2024-05-08T19:30:00+00:00": 85.04000091552734
+    },
+    "sentiment": 0.8046396970748901
+  },
+  {
+    "title": "Shopify, Kraft Heinz upgraded: Wall Street's top analyst calls",
+    "published": 1716367020,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 90.94999694824219,
+      "2024-05-22T14:30:00+00:00": 91.52999877929688,
+      "2024-05-22T15:30:00+00:00": 90.5999984741211,
+      "2024-05-22T16:30:00+00:00": 90.80999755859375,
+      "2024-05-22T17:30:00+00:00": 90.98999786376953,
+      "2024-05-22T18:30:00+00:00": 90.28130340576172,
+      "2024-05-22T19:30:00+00:00": 90.4000015258789
+    },
+    "sentiment": 0.855743944644928
+  },
+  {
+    "title": "Citi upgrades Edwards, Tandem; cuts Nevro, Establishment Labs",
+    "published": 1716339600,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 90.94999694824219,
+      "2024-05-22T14:30:00+00:00": 91.52999877929688,
+      "2024-05-22T15:30:00+00:00": 90.5999984741211,
+      "2024-05-22T16:30:00+00:00": 90.80999755859375,
+      "2024-05-22T17:30:00+00:00": 90.98999786376953,
+      "2024-05-22T18:30:00+00:00": 90.28130340576172,
+      "2024-05-22T19:30:00+00:00": 90.4000015258789
+    },
+    "sentiment": 0.7632618546485901
+  },
+  {
+    "title": "Why Investors Are Eyeing Edwards Lifesciences Corp (EW): The Key Drivers of Market ...",
+    "published": 1716199380,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 89.4000015258789,
+      "2024-05-20T14:30:00+00:00": 89.4749984741211,
+      "2024-05-20T15:30:00+00:00": 89.81999969482422,
+      "2024-05-20T16:30:00+00:00": 89.48999786376953,
+      "2024-05-20T17:30:00+00:00": 89.41000366210938,
+      "2024-05-20T18:30:00+00:00": 89.33999633789062,
+      "2024-05-20T19:30:00+00:00": 89.29499816894531
+    },
+    "sentiment": 0.9149547219276428
+  },
+  {
+    "title": "Edwards Lifesciences Corp. stock outperforms competitors on strong trading day",
+    "published": 1716177300,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 89.4000015258789,
+      "2024-05-20T14:30:00+00:00": 89.4749984741211,
+      "2024-05-20T15:30:00+00:00": 89.81999969482422,
+      "2024-05-20T16:30:00+00:00": 89.48999786376953,
+      "2024-05-20T17:30:00+00:00": 89.41000366210938,
+      "2024-05-20T18:30:00+00:00": 89.33999633789062,
+      "2024-05-20T19:30:00+00:00": 89.29499816894531
+    },
+    "sentiment": 0.9391514658927917
+  },
+  {
+    "title": "Wall Street Analysts Are Bullish on Top Healthcare Picks",
+    "published": 1717120320,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 87.68000030517578,
+      "2024-05-31T14:30:00+00:00": 86.7699966430664,
+      "2024-05-31T15:30:00+00:00": 86.87999725341797,
+      "2024-05-31T16:30:00+00:00": 86.87000274658203,
+      "2024-05-31T17:30:00+00:00": 86.53500366210938,
+      "2024-05-31T18:30:00+00:00": 85.91000366210938,
+      "2024-05-31T19:30:00+00:00": 85.91000366210938
+    },
+    "sentiment": 0.552166759967804
+  },
+  {
+    "title": "PayPal upgraded, UiPath downgraded: Wall Street's top analyst calls",
+    "published": 1717059600,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 87.68000030517578,
+      "2024-05-30T14:30:00+00:00": 88.1500015258789,
+      "2024-05-30T15:30:00+00:00": 88.5999984741211,
+      "2024-05-30T16:30:00+00:00": 88.2300033569336,
+      "2024-05-30T17:30:00+00:00": 88.33999633789062,
+      "2024-05-30T18:30:00+00:00": 88.11599731445312,
+      "2024-05-30T19:30:00+00:00": 88.11499786376953
+    },
+    "sentiment": 0.4873175323009491
+  },
+  {
+    "title": "If You Invested $100 In This Stock 20 Years Ago, You Would Have $2,900 Today",
+    "published": 1717043580,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 87.68000030517578,
+      "2024-05-30T14:30:00+00:00": 88.1500015258789,
+      "2024-05-30T15:30:00+00:00": 88.5999984741211,
+      "2024-05-30T16:30:00+00:00": 88.2300033569336,
+      "2024-05-30T17:30:00+00:00": 88.33999633789062,
+      "2024-05-30T18:30:00+00:00": 88.11599731445312,
+      "2024-05-30T19:30:00+00:00": 88.11499786376953
+    },
+    "sentiment": 0.9441755414009094
+  },
+  {
+    "title": "Buy Rating Affirmed for Edwards Lifesciences on Growth and Market Positioning Prospects",
+    "published": 1717039680,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 87.68000030517578,
+      "2024-05-30T14:30:00+00:00": 88.1500015258789,
+      "2024-05-30T15:30:00+00:00": 88.5999984741211,
+      "2024-05-30T16:30:00+00:00": 88.2300033569336,
+      "2024-05-30T17:30:00+00:00": 88.33999633789062,
+      "2024-05-30T18:30:00+00:00": 88.11599731445312,
+      "2024-05-30T19:30:00+00:00": 88.11499786376953
+    },
+    "sentiment": 0.7418429255485535
+  },
+  {
+    "title": "EQLS: AI-Powered Long-Short ETF",
+    "published": 1716917310,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 87.80000305175781,
+      "2024-05-28T14:30:00+00:00": 87.16000366210938,
+      "2024-05-28T15:30:00+00:00": 86.7699966430664,
+      "2024-05-28T16:30:00+00:00": 86.87999725341797,
+      "2024-05-28T17:30:00+00:00": 86.80999755859375,
+      "2024-05-28T18:30:00+00:00": 86.73999786376953,
+      "2024-05-28T19:30:00+00:00": 86.88500213623047
+    },
+    "sentiment": 0.9225150346755981
+  },
+  {
+    "title": "Here's Why You Should Retain Edward Lifesciences (EW) for Now",
+    "published": 1716562620,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 87.66000366210938,
+      "2024-05-24T14:30:00+00:00": 87.83999633789062,
+      "2024-05-24T15:30:00+00:00": 88.18000030517578,
+      "2024-05-24T16:30:00+00:00": 87.91999816894531,
+      "2024-05-24T17:30:00+00:00": 88.0,
+      "2024-05-24T18:30:00+00:00": 88.08000183105469,
+      "2024-05-24T19:30:00+00:00": 87.86000061035156
+    },
+    "sentiment": 0.9235977530479431
   }
 ]

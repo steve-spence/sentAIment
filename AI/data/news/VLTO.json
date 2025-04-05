@@ -1,191 +1,30 @@
 [
   {
-    "title": "Boasting A 41% Return On Equity, Is Veralto Corporation (NYSE:VLTO) A Top Quality Stock?",
-    "published": 1741170960,
-    "posting_price": 98.0,
-    "close_price": 98.62000275,
-    "percent_change": 0.63265587
+    "title": "Veralto declares $0.09 dividend",
+    "published": 1716361740,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 99.54000091552734,
+      "2024-05-22T14:30:00+00:00": 100.58999633789062,
+      "2024-05-22T15:30:00+00:00": 100.48500061035156,
+      "2024-05-22T16:30:00+00:00": 100.79000091552734,
+      "2024-05-22T17:30:00+00:00": 100.6500015258789,
+      "2024-05-22T18:30:00+00:00": 100.2699966430664,
+      "2024-05-22T19:30:00+00:00": 100.60399627685547
+    },
+    "sentiment": 0.9161297678947449
   },
   {
-    "title": "Logility Supply Chain Solutions (LGTY) Surges 24.7%: Is This an Indication of Further Gains?",
-    "published": 1738083480,
-    "posting_price": 103.31999969,
-    "close_price": 103.44999695,
-    "percent_change": 0.12582004
-  },
-  {
-    "title": "Veralto (NYSE:VLTO) Knows How To Allocate Capital",
-    "published": 1728311961,
-    "posting_price": 110.81038554,
-    "close_price": 111.00018311,
-    "percent_change": 0.17128139
-  },
-  {
-    "title": "Veralto price target raised by $5 at Citi, here's why",
-    "published": 1712557980,
-    "posting_price": 87.20457402,
-    "close_price": 87.42395782,
-    "percent_change": 0.25157373
-  },
-  {
-    "title": "Veralto price target raised by $8 at RBC Capital, here's why",
-    "published": 1712206200,
-    "posting_price": 87.87269572,
-    "close_price": 86.44670868,
-    "percent_change": -1.62278741
-  },
-  {
-    "title": "Veralto Schedules First Quarter 2024 Earnings Call",
-    "published": 1712147400,
-    "posting_price": 86.20736916,
-    "close_price": 87.00512695,
-    "percent_change": 0.92539396
-  },
-  {
-    "title": "Veralto Corporation (NYSE:VLTO) First-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year",
-    "published": 1714129257,
-    "posting_price": 93.29741671,
-    "close_price": 93.85585022,
-    "percent_change": 0.59855195
-  },
-  {
-    "title": "Veralto Corp (VLTO) Q1 2024 Earnings Call Transcript Highlights: Key Financial Metrics and ...",
-    "published": 1714028774,
-    "posting_price": 92.38000513,
-    "close_price": 93.52677917,
-    "percent_change": 1.24136607
-  },
-  {
-    "title": "Veralto price target raised by $4 at BMO Capital, here's why",
-    "published": 1714026660,
-    "posting_price": 92.38000513,
-    "close_price": 93.52677917,
-    "percent_change": 1.24136607
-  },
-  {
-    "title": "Goldman Sachs Keeps Their Buy Rating on Veralto Corporation (VLTO)",
-    "published": 1714024680,
-    "posting_price": 92.38000513,
-    "close_price": 93.52677917,
-    "percent_change": 1.24136607
-  },
-  {
-    "title": "RBC Capital Sticks to Their Hold Rating for Veralto Corporation (VLTO)",
-    "published": 1714024620,
-    "posting_price": 92.38000513,
-    "close_price": 93.52677917,
-    "percent_change": 1.24136607
-  },
-  {
-    "title": "Veralto price target raised by $8 at Baird, here's why",
-    "published": 1714023660,
-    "posting_price": 92.38000513,
-    "close_price": 93.52677917,
-    "percent_change": 1.24136607
-  },
-  {
-    "title": "Veralto Corporation (VLTO) Q1 2024 Earnings Call Transcript",
-    "published": 1713971762,
-    "posting_price": 93.17776053,
-    "close_price": 92.14067841,
-    "percent_change": -1.11301464
-  },
-  {
-    "title": "Decoding Veralto Corp (VLTO): A Strategic SWOT Insight",
-    "published": 1713956880,
-    "posting_price": 93.17776053,
-    "close_price": 92.14067841,
-    "percent_change": -1.11301464
-  },
-  {
-    "title": "Veralto Corporation (VLTO) Receives a Rating Update from a Top Analyst",
-    "published": 1713939360,
-    "posting_price": 93.17776053,
-    "close_price": 92.14067841,
-    "percent_change": -1.11301464
-  },
-  {
-    "title": "Veralto Corp (VLTO) Q1 Earnings: Aligns with Analyst Projections",
-    "published": 1713936840,
-    "posting_price": 93.17776053,
-    "close_price": 92.14067841,
-    "percent_change": -1.11301464
-  },
-  {
-    "title": "Teladoc Health Q1 Preview: Mental health segment could help earnings",
-    "published": 1713925380,
-    "posting_price": 93.17776053,
-    "close_price": 92.14067841,
-    "percent_change": -1.11301464
-  },
-  {
-    "title": "Veralto Reports First Quarter 2024 Results",
-    "published": 1713904200,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto beats Q1 results on strength in water quality unit",
-    "published": 1713894085,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto: Q1 Earnings Snapshot",
-    "published": 1713890363,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "VLTO Stock Earnings: Veralto Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713858840,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto Non-GAAP EPS of $0.84 beats by $0.08, revenue of $1.25B beats by $20M",
-    "published": 1713843480,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto raises FY24 adjusted EPS view to $3.25-$3.34 from $3.20-$3.30",
-    "published": 1713843360,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto sees Q2 adjusted EPS 75c-80c, consensus 80c",
-    "published": 1713843180,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto reports Q1 non-GAAP EPS 84c, consensus 76c",
-    "published": 1713843120,
-    "posting_price": 91.52241998,
-    "close_price": 93.45697784,
-    "percent_change": 2.11375296
-  },
-  {
-    "title": "Veralto price target raised by $5 at Stifel, here's why",
-    "published": 1713336240,
-    "posting_price": 91.32298365,
-    "close_price": 90.29587555,
-    "percent_change": -1.12469836
-  },
-  {
-    "title": "Forecasting The Future: 7 Analyst Projections For Veralto",
-    "published": 1713322980,
-    "posting_price": 91.32298365,
-    "close_price": 90.29587555,
-    "percent_change": -1.12469836
+    "title": "Veralto Reaches Analyst Target Price",
+    "published": 1715841720,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 98.68000030517578,
+      "2024-05-16T14:30:00+00:00": 98.56500244140625,
+      "2024-05-16T15:30:00+00:00": 98.72000122070312,
+      "2024-05-16T16:30:00+00:00": 98.86000061035156,
+      "2024-05-16T17:30:00+00:00": 98.8499984741211,
+      "2024-05-16T18:30:00+00:00": 98.7699966430664,
+      "2024-05-16T19:30:00+00:00": 98.87000274658203
+    },
+    "sentiment": 0.6965234279632568
   }
 ]

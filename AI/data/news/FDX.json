@@ -1,583 +1,718 @@
 [
   {
-    "title": "FedEx : Team Members Participate in Urban Tree Planting to Create a More Sustainable Future",
-    "published": 1713215288,
-    "posting_price": 265.26605888,
-    "close_price": 261.26971436,
-    "percent_change": -1.50654197
+    "title": "Federal judge sends FedEx contractor's racketeering claim to arbitration",
+    "published": 1715042143,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 261.2300109863281,
+      "2024-05-07T14:30:00+00:00": 260.6099853515625,
+      "2024-05-07T15:30:00+00:00": 259.4949951171875,
+      "2024-05-07T16:30:00+00:00": 260.56500244140625,
+      "2024-05-07T17:30:00+00:00": 259.80999755859375,
+      "2024-05-07T18:30:00+00:00": 258.92999267578125,
+      "2024-05-07T19:30:00+00:00": 259.010009765625
+    },
+    "sentiment": 0.48369744420051575
   },
   {
-    "title": "FedEx : \ud398\ub371\uc2a4, \uc9c0\uc18d\uac00\ub2a5\ud55c \ubbf8\ub798\ub97c \uc704\ud55c \ub3c4\uc2dc\uc232 \ub098\ubb34\uc2ec\uae30 \uc784\uc9c1\uc6d0 \ubd09\uc0ac\ud65c\ub3d9 \uc9c4\ud589",
-    "published": 1713215287,
-    "posting_price": 265.26605888,
-    "close_price": 261.26971436,
-    "percent_change": -1.50654197
+    "title": "FedEx Supports UNCF and HBCU Students",
+    "published": 1715016600,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 262.8399963378906,
+      "2024-05-06T14:30:00+00:00": 261.80999755859375,
+      "2024-05-06T15:30:00+00:00": 261.739990234375,
+      "2024-05-06T16:30:00+00:00": 261.42498779296875,
+      "2024-05-06T17:30:00+00:00": 261.2900085449219,
+      "2024-05-06T18:30:00+00:00": 261.8299865722656,
+      "2024-05-06T19:30:00+00:00": 260.8299865722656
+    },
+    "sentiment": 0.8738899827003479
   },
   {
-    "title": "If You Can Only Buy One Value Stock in April, It Better Be One of These 3 Names",
-    "published": 1713182400,
-    "posting_price": 265.26605888,
-    "close_price": 261.26971436,
-    "percent_change": -1.50654197
+    "title": "10 Best Trucking Stocks to Buy",
+    "published": 1714824168,
+    "day_prices": {},
+    "sentiment": 0.7875055074691772
   },
   {
-    "title": "New Vital Voices Global Fellowship - Social Entrepreneurship Pillar",
-    "published": 1712936700,
-    "posting_price": 265.5500691,
-    "close_price": 262.30795288,
-    "percent_change": -1.22090581
+    "title": "Top Analyst Reports for AstraZeneca, QUALCOMM & FedEx",
+    "published": 1714751580,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 263.5,
+      "2024-05-03T14:30:00+00:00": 262.7699890136719,
+      "2024-05-03T15:30:00+00:00": 262.6499938964844,
+      "2024-05-03T16:30:00+00:00": 262.32501220703125,
+      "2024-05-03T17:30:00+00:00": 261.4519958496094,
+      "2024-05-03T18:30:00+00:00": 261.07000732421875,
+      "2024-05-03T19:30:00+00:00": 261.1300048828125
+    },
+    "sentiment": 0.935421347618103
   },
   {
-    "title": "Here's Why FedEx (FDX) is a Strong Value Stock",
-    "published": 1712929210,
-    "posting_price": 265.5500691,
-    "close_price": 262.30795288,
-    "percent_change": -1.22090581
+    "title": "FedEx charges ahead with emission-reduction plan with 150 new EVs",
+    "published": 1714679089,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 263.2900085449219,
+      "2024-05-02T14:30:00+00:00": 261.489990234375,
+      "2024-05-02T15:30:00+00:00": 261.010009765625,
+      "2024-05-02T16:30:00+00:00": 261.2200012207031,
+      "2024-05-02T17:30:00+00:00": 261.6499938964844,
+      "2024-05-02T18:30:00+00:00": 262.0199890136719,
+      "2024-05-02T19:30:00+00:00": 261.2049865722656
+    },
+    "sentiment": 0.8529512882232666
   },
   {
-    "title": "Wall Street Favorites: 3 Transportation Stocks With Strong Buy Ratings for April 2024",
-    "published": 1712917800,
-    "posting_price": 265.5500691,
-    "close_price": 262.30795288,
-    "percent_change": -1.22090581
+    "title": "Noteworthy Thursday Option Activity: FDX, ABNB, CTAS",
+    "published": 1714654320,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 263.2900085449219,
+      "2024-05-02T14:30:00+00:00": 261.489990234375,
+      "2024-05-02T15:30:00+00:00": 261.010009765625,
+      "2024-05-02T16:30:00+00:00": 261.2200012207031,
+      "2024-05-02T17:30:00+00:00": 261.6499938964844,
+      "2024-05-02T18:30:00+00:00": 262.0199890136719,
+      "2024-05-02T19:30:00+00:00": 261.2049865722656
+    },
+    "sentiment": 0.9024806022644043
   },
   {
-    "title": "The Handoff To Normal?",
-    "published": 1712901600,
-    "posting_price": 265.5500691,
-    "close_price": 262.30795288,
-    "percent_change": -1.22090581
+    "title": "Why FedEx (FDX) Dipped More Than Broader Market Today",
+    "published": 1714601710,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 261.6499938964844,
+      "2024-05-01T14:30:00+00:00": 260.4800109863281,
+      "2024-05-01T15:30:00+00:00": 260.82501220703125,
+      "2024-05-01T16:30:00+00:00": 260.7900085449219,
+      "2024-05-01T17:30:00+00:00": 260.8349914550781,
+      "2024-05-01T18:30:00+00:00": 260.8599853515625,
+      "2024-05-01T19:30:00+00:00": 261.94000244140625
+    },
+    "sentiment": 0.8287876844406128
   },
   {
-    "title": "4 Sector ETFs & Stocks To Benefit From Hot Inflation",
-    "published": 1712885700,
-    "posting_price": 265.5500691,
-    "close_price": 262.30795288,
-    "percent_change": -1.22090581
+    "title": "Water Mission Saves Lives in Ukraine With Support From FedEx",
+    "published": 1715786100,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 260.0,
+      "2024-05-15T14:30:00+00:00": 259.9599914550781,
+      "2024-05-15T15:30:00+00:00": 260.239990234375,
+      "2024-05-15T16:30:00+00:00": 258.81500244140625,
+      "2024-05-15T17:30:00+00:00": 259.2699890136719,
+      "2024-05-15T18:30:00+00:00": 258.875,
+      "2024-05-15T19:30:00+00:00": 258.6499938964844
+    },
+    "sentiment": 0.5840365290641785
   },
   {
-    "title": "All-Time High Flyers: 7 Stocks to Buy as the Market Peaks",
-    "published": 1712834520,
-    "posting_price": 264.84487525,
-    "close_price": 266.59814453,
-    "percent_change": 0.66199857
+    "title": "Mason Hawkins' Strategic Moves in Q1 2024: A Closer Look at PayPal Holdings Inc",
+    "published": 1715745720,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 260.0,
+      "2024-05-15T14:30:00+00:00": 259.9599914550781,
+      "2024-05-15T15:30:00+00:00": 260.239990234375,
+      "2024-05-15T16:30:00+00:00": 258.81500244140625,
+      "2024-05-15T17:30:00+00:00": 259.2699890136719,
+      "2024-05-15T18:30:00+00:00": 258.875,
+      "2024-05-15T19:30:00+00:00": 258.6499938964844
+    },
+    "sentiment": 0.9040083289146423
   },
   {
-    "title": "Analysts Conflicted on These Industrial Goods Names: Louisiana-Pacific (LPX), Babcock & Wilcox Company (BW) and FedEx (FDX)",
-    "published": 1712821260,
-    "posting_price": 264.84487525,
-    "close_price": 266.59814453,
-    "percent_change": 0.66199857
+    "title": "Bank of America Securities Keeps Their Buy Rating on FedEx (FDX)",
+    "published": 1715673420,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 267.2200012207031,
+      "2024-05-14T14:30:00+00:00": 263.45001220703125,
+      "2024-05-14T15:30:00+00:00": 259.885009765625,
+      "2024-05-14T16:30:00+00:00": 259.32000732421875,
+      "2024-05-14T17:30:00+00:00": 258.8399963378906,
+      "2024-05-14T18:30:00+00:00": 259.3399963378906,
+      "2024-05-14T19:30:00+00:00": 259.69000244140625
+    },
+    "sentiment": 0.9192071557044983
   },
   {
-    "title": "FedEx Cares Purple Totes Grant Contest Winners",
-    "published": 1712771100,
-    "posting_price": 266.64712568,
-    "close_price": 264.75668335,
-    "percent_change": -0.70896783
+    "title": "FedEx Corporation (FDX) Presents at BofA Securities 31st Annual Transportation, Airlines, and Industrials Conference (Transcript)",
+    "published": 1715638150,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 266.0299987792969,
+      "2024-05-13T14:30:00+00:00": 267.4949951171875,
+      "2024-05-13T15:30:00+00:00": 266.9750061035156,
+      "2024-05-13T16:30:00+00:00": 265.8500061035156,
+      "2024-05-13T17:30:00+00:00": 265.5,
+      "2024-05-13T18:30:00+00:00": 265.6000061035156,
+      "2024-05-13T19:30:00+00:00": 266.260009765625
+    },
+    "sentiment": 0.932753324508667
   },
   {
-    "title": "FedEx Corporation (FDX) Is a Trending Stock: Facts to Know Before Betting on It",
-    "published": 1712754015,
-    "posting_price": 266.64712568,
-    "close_price": 264.75668335,
-    "percent_change": -0.70896783
+    "title": "FedEx : Express Tests eActros 300 Electric Tractor in Linehaul Operations in Eindhoven, Netherlands",
+    "published": 1715577607,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 266.0299987792969,
+      "2024-05-13T14:30:00+00:00": 267.4949951171875,
+      "2024-05-13T15:30:00+00:00": 266.9750061035156,
+      "2024-05-13T16:30:00+00:00": 265.8500061035156,
+      "2024-05-13T17:30:00+00:00": 265.5,
+      "2024-05-13T18:30:00+00:00": 265.6000061035156,
+      "2024-05-13T19:30:00+00:00": 266.260009765625
+    },
+    "sentiment": 0.899989128112793
   },
   {
-    "title": "Check Call: Baltimore mounts a comeback",
-    "published": 1712685600,
-    "posting_price": 269.3897241,
-    "close_price": 270.70223999,
-    "percent_change": 0.48721825
+    "title": "FedEx : Quality Logistics Services Recognized with Renewal of Authorized Economic Operator Certification with Class \u201cAA\u201d Accreditation by Korea Customs Service",
+    "published": 1715545208,
+    "day_prices": {},
+    "sentiment": 0.8883245587348938
   },
   {
-    "title": "UPS Hiring 170 More Pilots Ahead of USPS \u2018Volume\u00a0Surge\u2019",
-    "published": 1712613796,
-    "posting_price": 269.34071294,
-    "close_price": 269.91860962,
-    "percent_change": 0.21455972
+    "title": "Tweedy, Browne 2024 Client Letter",
+    "published": 1715410200,
+    "day_prices": {},
+    "sentiment": 0.9323031306266785
   },
   {
-    "title": "3 Stocks Soaring on Bullish Analyst Calls: Is It Time to Buy?",
-    "published": 1712599326,
-    "posting_price": 269.34071294,
-    "close_price": 269.91860962,
-    "percent_change": 0.21455972
+    "title": "AskSlim Market Week - Friday, May 10",
+    "published": 1715344200,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 262.05999755859375,
+      "2024-05-10T14:30:00+00:00": 265.2650146484375,
+      "2024-05-10T15:30:00+00:00": 265.0849914550781,
+      "2024-05-10T16:30:00+00:00": 264.760009765625,
+      "2024-05-10T17:30:00+00:00": 264.8299865722656,
+      "2024-05-10T18:30:00+00:00": 264.8399963378906,
+      "2024-05-10T19:30:00+00:00": 265.010009765625
+    },
+    "sentiment": 0.8999248147010803
   },
   {
-    "title": "How Mobility-as-a-Service Can Encourage Green Behavior and Low-Carbon Transport",
-    "published": 1712588400,
-    "posting_price": 269.34071294,
-    "close_price": 269.91860962,
-    "percent_change": 0.21455972
+    "title": "FedEx : Launches New Online Import Customs Declaration Tool",
+    "published": 1715313126,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 262.05999755859375,
+      "2024-05-10T14:30:00+00:00": 265.2650146484375,
+      "2024-05-10T15:30:00+00:00": 265.0849914550781,
+      "2024-05-10T16:30:00+00:00": 264.760009765625,
+      "2024-05-10T17:30:00+00:00": 264.8299865722656,
+      "2024-05-10T18:30:00+00:00": 264.8399963378906,
+      "2024-05-10T19:30:00+00:00": 265.010009765625
+    },
+    "sentiment": 0.8178519010543823
   },
   {
-    "title": "Wall Street Analysts Just Trimmed Price Targets for These 10 Stocks",
-    "published": 1712450564,
-    "posting_price": 269.3407434,
-    "close_price": 269.91864014,
-    "percent_change": 0.21455972
+    "title": "UPDATE 1-US to determine cause of Southwest, FedEx jetliners near-miss incident",
+    "published": 1715284645,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 258.17999267578125,
+      "2024-05-09T14:30:00+00:00": 261.3429870605469,
+      "2024-05-09T15:30:00+00:00": 261.3399963378906,
+      "2024-05-09T16:30:00+00:00": 260.5799865722656,
+      "2024-05-09T17:30:00+00:00": 261.06500244140625,
+      "2024-05-09T18:30:00+00:00": 261.55999755859375,
+      "2024-05-09T19:30:00+00:00": 261.19000244140625
+    },
+    "sentiment": 0.5475021004676819
   },
   {
-    "title": "UPS plans to hire 300 pilots to support Postal Service contract",
-    "published": 1712350845,
-    "posting_price": 269.36030347,
-    "close_price": 267.91064453,
-    "percent_change": -0.53818581
+    "title": "US to determine cause of Southwest, FedEx jetliners near miss incident",
+    "published": 1715281459,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 258.17999267578125,
+      "2024-05-09T14:30:00+00:00": 261.3429870605469,
+      "2024-05-09T15:30:00+00:00": 261.3399963378906,
+      "2024-05-09T16:30:00+00:00": 260.5799865722656,
+      "2024-05-09T17:30:00+00:00": 261.06500244140625,
+      "2024-05-09T18:30:00+00:00": 261.55999755859375,
+      "2024-05-09T19:30:00+00:00": 261.19000244140625
+    },
+    "sentiment": 0.5628439784049988
   },
   {
-    "title": "Why FedEx Stock Delivered for Investors in March",
-    "published": 1712331158,
-    "posting_price": 269.36030347,
-    "close_price": 267.91064453,
-    "percent_change": -0.53818581
+    "title": "FedEx management to meet with Stephens",
+    "published": 1715226900,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 258.17999267578125,
+      "2024-05-09T14:30:00+00:00": 261.3429870605469,
+      "2024-05-09T15:30:00+00:00": 261.3399963378906,
+      "2024-05-09T16:30:00+00:00": 260.5799865722656,
+      "2024-05-09T17:30:00+00:00": 261.06500244140625,
+      "2024-05-09T18:30:00+00:00": 261.55999755859375,
+      "2024-05-09T19:30:00+00:00": 261.19000244140625
+    },
+    "sentiment": 0.9391503930091858
   },
   {
-    "title": "How to Engage Your Customers and Employees in Your Sustainability Efforts",
-    "published": 1712328300,
-    "posting_price": 269.36030347,
-    "close_price": 267.91064453,
-    "percent_change": -0.53818581
+    "title": "FedEx : India to Benefit from FedEx\u2019s USD 2 Million Investment in Global Urban Conservation Efforts",
+    "published": 1715218028,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 258.17999267578125,
+      "2024-05-09T14:30:00+00:00": 261.3429870605469,
+      "2024-05-09T15:30:00+00:00": 261.3399963378906,
+      "2024-05-09T16:30:00+00:00": 260.5799865722656,
+      "2024-05-09T17:30:00+00:00": 261.06500244140625,
+      "2024-05-09T18:30:00+00:00": 261.55999755859375,
+      "2024-05-09T19:30:00+00:00": 261.19000244140625
+    },
+    "sentiment": 0.9258631467819214
   },
   {
-    "title": "Investors Heavily Search FedEx Corporation (FDX): Here is What You Need to Know",
-    "published": 1712322011,
-    "posting_price": 269.36030347,
-    "close_price": 267.91064453,
-    "percent_change": -0.53818581
+    "title": "FedEx and Marine Corps Scholarship Foundation Help Children of Veterans",
+    "published": 1715192100,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.7957082390785217
   },
   {
-    "title": "Contrarian\u2019s Delight: 3 Stocks to Scoop Up Amid the EV Demand Slump",
-    "published": 1712313180,
-    "posting_price": 269.36030347,
-    "close_price": 267.91064453,
-    "percent_change": -0.53818581
+    "title": "FedEx Freight to close 7 service centers nationwide in 2024",
+    "published": 1715183345,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.7046834230422974
   },
   {
-    "title": "The 3 Best Transportation Stocks to Buy in April 2024",
-    "published": 1712257932,
-    "posting_price": 274.67894741,
-    "close_price": 269.85986328,
-    "percent_change": -1.75444248
+    "title": "Q1 2024 Envestnet Inc Earnings Call",
+    "published": 1715166464,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.8554810881614685
   },
   {
-    "title": "EIT Climate-KIC Selects Five Cities To Receive Funding in FedEx-Backed Sustainable Cities Mobility Challenge",
-    "published": 1712247300,
-    "posting_price": 274.67894741,
-    "close_price": 269.85986328,
-    "percent_change": -1.75444248
+    "title": "FedEx Breaks Below 200-Day Moving Average - Notable for FDX",
+    "published": 1715162340,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.5396996140480042
   },
   {
-    "title": "Postal Service\u2019s air cargo shift to UPS makes everyone a winner",
-    "published": 1712228400,
-    "posting_price": 274.67894741,
-    "close_price": 269.85986328,
-    "percent_change": -1.75444248
+    "title": "Severe storms batter Midwest,  tornado shreds a FedEx facility",
+    "published": 1715160480,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.9132274985313416
   },
   {
-    "title": "FedEx : EIT Climate-KIC selects five cities to receive funding in FedEx-backed Sustainable Cities Mobility Challenge",
-    "published": 1712210418,
-    "posting_price": 274.67894741,
-    "close_price": 269.85986328,
-    "percent_change": -1.75444248
+    "title": "A FedEx cargo plane lands at Istanbul Airport without front landing gear",
+    "published": 1715158800,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.7319724559783936
   },
   {
-    "title": "Going Beyond Deliveries: FedEx Volunteers Spread Happiness with more than 2,300 Packages of Aid in MENA during Ramadan",
-    "published": 1712208974,
-    "posting_price": 274.67894741,
-    "close_price": 269.85986328,
-    "percent_change": -1.75444248
+    "title": "FedEx : Promotes Sustainability and Environmental Stewardship",
+    "published": 1715138947,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 257.7799987792969,
+      "2024-05-08T14:30:00+00:00": 256.4949951171875,
+      "2024-05-08T15:30:00+00:00": 257.44000244140625,
+      "2024-05-08T16:30:00+00:00": 256.9700012207031,
+      "2024-05-08T17:30:00+00:00": 256.2099914550781,
+      "2024-05-08T18:30:00+00:00": 256.7250061035156,
+      "2024-05-08T19:30:00+00:00": 258.05999755859375
+    },
+    "sentiment": 0.7275786995887756
   },
   {
-    "title": "Bridge Down, Spirits Up: Canteen Truck Delivers Kindness",
-    "published": 1712157300,
-    "posting_price": 271.00586923,
-    "close_price": 272.77874756,
-    "percent_change": 0.65418448
+    "title": "FedEx's Options: A Look at What the Big Money is Thinking",
+    "published": 1716464400,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 251.5500030517578,
+      "2024-05-23T14:30:00+00:00": 249.83999633789062,
+      "2024-05-23T15:30:00+00:00": 248.02999877929688,
+      "2024-05-23T16:30:00+00:00": 248.22000122070312,
+      "2024-05-23T17:30:00+00:00": 247.48500061035156,
+      "2024-05-23T18:30:00+00:00": 247.80499267578125,
+      "2024-05-23T19:30:00+00:00": 247.94000244140625
+    },
+    "sentiment": 0.9372084736824036
   },
   {
-    "title": "United Parcel Service gains after Redburn Atlantic flips to a bull rating",
-    "published": 1712130660,
-    "posting_price": 271.00586923,
-    "close_price": 272.77874756,
-    "percent_change": 0.65418448
+    "title": "Paccar: A Dividend Growth Stock Long-Term Investors Should Add To Their Watchlist",
+    "published": 1716449400,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 251.5500030517578,
+      "2024-05-23T14:30:00+00:00": 249.83999633789062,
+      "2024-05-23T15:30:00+00:00": 248.02999877929688,
+      "2024-05-23T16:30:00+00:00": 248.22000122070312,
+      "2024-05-23T17:30:00+00:00": 247.48500061035156,
+      "2024-05-23T18:30:00+00:00": 247.80499267578125,
+      "2024-05-23T19:30:00+00:00": 247.94000244140625
+    },
+    "sentiment": 0.8285510540008545
   },
   {
-    "title": "FedEx price target lowered by $3 at Stifel, here's why",
-    "published": 1712124480,
-    "posting_price": 271.00586923,
-    "close_price": 272.77874756,
-    "percent_change": 0.65418448
+    "title": "FedEx promised investors $4 billion savings by consolidating operating units\u2014the CTO had to figure out how tech would deliver",
+    "published": 1716408668,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 252.0,
+      "2024-05-22T14:30:00+00:00": 250.22999572753906,
+      "2024-05-22T15:30:00+00:00": 250.5,
+      "2024-05-22T16:30:00+00:00": 251.9149932861328,
+      "2024-05-22T17:30:00+00:00": 251.68820190429688,
+      "2024-05-22T18:30:00+00:00": 251.10000610351562,
+      "2024-05-22T19:30:00+00:00": 252.1999969482422
+    },
+    "sentiment": 0.6372216939926147
   },
   {
-    "title": "Drive Forward > Give Back With FedEx Picture Proof of Planting",
-    "published": 1712082600,
-    "posting_price": 270.83936018,
-    "close_price": 269.64437866,
-    "percent_change": -0.44121413
+    "title": "Steven Cohen's Strategic Acquisition of Rapid7 Inc Shares",
+    "published": 1716347580,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 252.0,
+      "2024-05-22T14:30:00+00:00": 250.22999572753906,
+      "2024-05-22T15:30:00+00:00": 250.5,
+      "2024-05-22T16:30:00+00:00": 251.9149932861328,
+      "2024-05-22T17:30:00+00:00": 251.68820190429688,
+      "2024-05-22T18:30:00+00:00": 251.10000610351562,
+      "2024-05-22T19:30:00+00:00": 252.1999969482422
+    },
+    "sentiment": 0.9391305446624756
   },
   {
-    "title": "FedEx (FDX) Stock Down in Yesterday's Trading: Here's Why",
-    "published": 1712055360,
-    "posting_price": 270.83936018,
-    "close_price": 269.64437866,
-    "percent_change": -0.44121413
+    "title": "FedEx Poised for 'Solid' Quarterly Earnings But Faces Headwinds in Fiscal 2025, UBS Says",
+    "published": 1716322253,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 254.0,
+      "2024-05-21T14:30:00+00:00": 253.24000549316406,
+      "2024-05-21T15:30:00+00:00": 253.0500030517578,
+      "2024-05-21T16:30:00+00:00": 252.35499572753906,
+      "2024-05-21T17:30:00+00:00": 251.32000732421875,
+      "2024-05-21T18:30:00+00:00": 251.9499969482422,
+      "2024-05-21T19:30:00+00:00": 252.51499938964844
+    },
+    "sentiment": 0.9029580950737
   },
   {
-    "title": "FedEx price target lowered by $6 at BofA, here's why",
-    "published": 1712035500,
-    "posting_price": 270.83936018,
-    "close_price": 269.64437866,
-    "percent_change": -0.44121413
+    "title": "FedEx Cares Recognizes Top Volunteers With the FedEx Founder's Fund Award",
+    "published": 1716304800,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 254.0,
+      "2024-05-21T14:30:00+00:00": 253.24000549316406,
+      "2024-05-21T15:30:00+00:00": 253.0500030517578,
+      "2024-05-21T16:30:00+00:00": 252.35499572753906,
+      "2024-05-21T17:30:00+00:00": 251.32000732421875,
+      "2024-05-21T18:30:00+00:00": 251.9499969482422,
+      "2024-05-21T19:30:00+00:00": 252.51499938964844
+    },
+    "sentiment": 0.5468956232070923
   },
   {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: FedEx (FDX), 3M (MMM) and Boeing (BA)",
-    "published": 1712032380,
-    "posting_price": 270.83936018,
-    "close_price": 269.64437866,
-    "percent_change": -0.44121413
+    "title": "FedEx price target lowered by $7 at UBS, here's why",
+    "published": 1716269460,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 254.0,
+      "2024-05-21T14:30:00+00:00": 253.24000549316406,
+      "2024-05-21T15:30:00+00:00": 253.0500030517578,
+      "2024-05-21T16:30:00+00:00": 252.35499572753906,
+      "2024-05-21T17:30:00+00:00": 251.32000732421875,
+      "2024-05-21T18:30:00+00:00": 251.9499969482422,
+      "2024-05-21T19:30:00+00:00": 252.51499938964844
+    },
+    "sentiment": 0.8212535381317139
   },
   {
-    "title": "Boosting Education and Employment for Young Women in India",
-    "published": 1714492800,
-    "posting_price": 259.40871227,
-    "close_price": 256.41146851,
-    "percent_change": -1.15541368
+    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Blink Charging Co (BLNK), FedEx (FDX) and RBC Bearings (RBC)",
+    "published": 1716181620,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 256.989990234375,
+      "2024-05-20T14:30:00+00:00": 256.79998779296875,
+      "2024-05-20T15:30:00+00:00": 256.7799987792969,
+      "2024-05-20T16:30:00+00:00": 255.6300048828125,
+      "2024-05-20T17:30:00+00:00": 255.8300018310547,
+      "2024-05-20T18:30:00+00:00": 255.55990600585938,
+      "2024-05-20T19:30:00+00:00": 254.72000122070312
+    },
+    "sentiment": 0.9393989443778992
   },
   {
-    "title": "Stock Market Crash Alert: 3 Must-Buy Transportation Stocks When Prices Plunge",
-    "published": 1714471200,
-    "posting_price": 259.40871227,
-    "close_price": 256.41146851,
-    "percent_change": -1.15541368
+    "title": "FedEx Cares Beautifies and Keeps Local Waterways Clean",
+    "published": 1715955300,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 260.0799865722656,
+      "2024-05-17T14:30:00+00:00": 256.94000244140625,
+      "2024-05-17T15:30:00+00:00": 256.5950012207031,
+      "2024-05-17T16:30:00+00:00": 256.4100036621094,
+      "2024-05-17T17:30:00+00:00": 256.68499755859375,
+      "2024-05-17T18:30:00+00:00": 256.8500061035156,
+      "2024-05-17T19:30:00+00:00": 256.7049865722656
+    },
+    "sentiment": 0.8171943426132202
   },
   {
-    "title": "Tractor-trailers with no one aboard? The future is near for self-driving trucks on US roads.",
-    "published": 1714374600,
-    "posting_price": 261.0640182,
-    "close_price": 260.40774536,
-    "percent_change": -0.25138387
+    "title": "FedEx Awards More Than $230,000 to 10 Small Businesses",
+    "published": 1715875200,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 258.55999755859375,
+      "2024-05-16T14:30:00+00:00": 258.0150146484375,
+      "2024-05-16T15:30:00+00:00": 259.56219482421875,
+      "2024-05-16T16:30:00+00:00": 259.81500244140625,
+      "2024-05-16T17:30:00+00:00": 260.2699890136719,
+      "2024-05-16T18:30:00+00:00": 260.6700134277344,
+      "2024-05-16T19:30:00+00:00": 259.82000732421875
+    },
+    "sentiment": 0.7840900421142578
   },
   {
-    "title": "Tractor-trailers with no one aboard? The future is near for self-driving trucks on US roads",
-    "published": 1714370460,
-    "posting_price": 261.0640182,
-    "close_price": 260.40774536,
-    "percent_change": -0.25138387
+    "title": "Inflation Cools in April: 5 Sector ETFs & Stocks to Thrive",
+    "published": 1715860800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 258.55999755859375,
+      "2024-05-16T14:30:00+00:00": 258.0150146484375,
+      "2024-05-16T15:30:00+00:00": 259.56219482421875,
+      "2024-05-16T16:30:00+00:00": 259.81500244140625,
+      "2024-05-16T17:30:00+00:00": 260.2699890136719,
+      "2024-05-16T18:30:00+00:00": 260.6700134277344,
+      "2024-05-16T19:30:00+00:00": 259.82000732421875
+    },
+    "sentiment": 0.8741239309310913
   },
   {
-    "title": "FedEx : Teams up with the World Peace Association to Safeguard Children for the Fourth Consecutive Year",
-    "published": 1714129701,
-    "posting_price": 258.7132301,
-    "close_price": 260.38815308,
-    "percent_change": 0.64740523
+    "title": "Maintaining Buy Rating on FedEx: Anticipated Recovery and Stable Q4 Earnings Outlook Despite Short-Term Challenges",
+    "published": 1715832960,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 258.55999755859375,
+      "2024-05-16T14:30:00+00:00": 258.0150146484375,
+      "2024-05-16T15:30:00+00:00": 259.56219482421875,
+      "2024-05-16T16:30:00+00:00": 259.81500244140625,
+      "2024-05-16T17:30:00+00:00": 260.2699890136719,
+      "2024-05-16T18:30:00+00:00": 260.6700134277344,
+      "2024-05-16T19:30:00+00:00": 259.82000732421875
+    },
+    "sentiment": 0.9567086696624756
   },
   {
-    "title": "UPS And FedEx Confront Obstacles In Going Electric: Report",
-    "published": 1714119900,
-    "posting_price": 258.7132301,
-    "close_price": 260.38815308,
-    "percent_change": 0.64740523
+    "title": "FedEx : Empowers African SMEs with its SME Connect Series in Lagos",
+    "published": 1717138026,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 250.0,
+      "2024-05-31T14:30:00+00:00": 249.24000549316406,
+      "2024-05-31T15:30:00+00:00": 249.25999450683594,
+      "2024-05-31T16:30:00+00:00": 249.4550018310547,
+      "2024-05-31T17:30:00+00:00": 249.7550048828125,
+      "2024-05-31T18:30:00+00:00": 250.5800018310547,
+      "2024-05-31T19:30:00+00:00": 251.3300018310547
+    },
+    "sentiment": 0.6339061856269836
   },
   {
-    "title": "Decoding FedEx's Options Activity: What's the Big Picture?",
-    "published": 1714100760,
-    "posting_price": 258.7132301,
-    "close_price": 260.38815308,
-    "percent_change": 0.64740523
-  },
-  {
-    "title": "FedEx (FDX) Stock Moves -0.21%: What You Should Know",
-    "published": 1714083318,
-    "posting_price": 258.52715315,
-    "close_price": 260.07473755,
-    "percent_change": 0.59861581
-  },
-  {
-    "title": "Market Chatter: UPS, FedEx Face Roadblocks in Electrification of Delivery Fleets",
-    "published": 1714062116,
-    "posting_price": 258.52715315,
-    "close_price": 260.07473755,
-    "percent_change": 0.59861581
-  },
-  {
-    "title": "FOCUS-UPS, FedEx transition to electric vans slowed by battery shortages, low supply",
-    "published": 1714058971,
-    "posting_price": 258.52715315,
-    "close_price": 260.07473755,
-    "percent_change": 0.59861581
-  },
-  {
-    "title": "UPS and FedEx find it harder to replace gas guzzlers than expected",
-    "published": 1714048860,
-    "posting_price": 258.52715315,
-    "close_price": 260.07473755,
-    "percent_change": 0.59861581
-  },
-  {
-    "title": "UPS, FedEx transition to electric vans slowed by battery shortages, low supply",
-    "published": 1714039676,
-    "posting_price": 258.52715315,
-    "close_price": 260.07473755,
-    "percent_change": 0.59861581
-  },
-  {
-    "title": "UPS Earnings Show The Weight Of $170,000 Compensation While It Learns To Navigate Shipping Slump (UPDATED)",
-    "published": 1714007880,
-    "posting_price": 258.52715315,
-    "close_price": 260.07473755,
-    "percent_change": 0.59861581
-  },
-  {
-    "title": "FedEx Shutters 4 Ship Centers, Cutting 220 Courier\u00a0Jobs",
-    "published": 1713979040,
-    "posting_price": 264.96241157,
-    "close_price": 260.61346436,
-    "percent_change": -1.64134497
-  },
-  {
-    "title": "15 Fastest Growing Cities in Tennessee",
-    "published": 1713972471,
-    "posting_price": 264.96241157,
-    "close_price": 260.61346436,
-    "percent_change": -1.64134497
-  },
-  {
-    "title": "Meet Terrand, the Inspiring Leader Behind the FedEx E-Commerce Learning Lab",
-    "published": 1713970800,
-    "posting_price": 264.96241157,
-    "close_price": 260.61346436,
-    "percent_change": -1.64134497
+    "title": "FedEx : Bank of America Transportation, Airlines and Industrials Conference Webcast with John Dietrich FedEx Corporation Executive Vice President and Chief Financial Officer Transcript",
+    "published": 1717102390,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 246.14999389648438,
+      "2024-05-30T14:30:00+00:00": 247.31500244140625,
+      "2024-05-30T15:30:00+00:00": 248.00999450683594,
+      "2024-05-30T16:30:00+00:00": 248.80999755859375,
+      "2024-05-30T17:30:00+00:00": 249.1999969482422,
+      "2024-05-30T18:30:00+00:00": 249.22500610351562,
+      "2024-05-30T19:30:00+00:00": 248.80999755859375
+    },
+    "sentiment": 0.9431272149085999
   },
   {
     "title": "Why Investors Need to Take Advantage of These 2 Transportation Stocks Now",
-    "published": 1713963610,
-    "posting_price": 264.96241157,
-    "close_price": 260.61346436,
-    "percent_change": -1.64134497
+    "published": 1717074003,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 246.14999389648438,
+      "2024-05-30T14:30:00+00:00": 247.31500244140625,
+      "2024-05-30T15:30:00+00:00": 248.00999450683594,
+      "2024-05-30T16:30:00+00:00": 248.80999755859375,
+      "2024-05-30T17:30:00+00:00": 249.1999969482422,
+      "2024-05-30T18:30:00+00:00": 249.22500610351562,
+      "2024-05-30T19:30:00+00:00": 248.80999755859375
+    },
+    "sentiment": 0.9188070297241211
   },
   {
-    "title": "US Postal Service to migrate air cargo to UPS during summer",
-    "published": 1713956400,
-    "posting_price": 264.96241157,
-    "close_price": 260.61346436,
-    "percent_change": -1.64134497
+    "title": "Bernstein Sticks to Their Buy Rating for FedEx (FDX)",
+    "published": 1717062960,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 246.14999389648438,
+      "2024-05-30T14:30:00+00:00": 247.31500244140625,
+      "2024-05-30T15:30:00+00:00": 248.00999450683594,
+      "2024-05-30T16:30:00+00:00": 248.80999755859375,
+      "2024-05-30T17:30:00+00:00": 249.1999969482422,
+      "2024-05-30T18:30:00+00:00": 249.22500610351562,
+      "2024-05-30T19:30:00+00:00": 248.80999755859375
+    },
+    "sentiment": 0.864337146282196
   },
   {
-    "title": "FedEx: Why This Dividend Growth Stock Remains A Buy Now",
-    "published": 1713943800,
-    "posting_price": 264.96241157,
-    "close_price": 260.61346436,
-    "percent_change": -1.64134497
+    "title": "Amazon Prime granted BVLOS flight certification to expand drone deliveries",
+    "published": 1717057800,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 246.14999389648438,
+      "2024-05-30T14:30:00+00:00": 247.31500244140625,
+      "2024-05-30T15:30:00+00:00": 248.00999450683594,
+      "2024-05-30T16:30:00+00:00": 248.80999755859375,
+      "2024-05-30T17:30:00+00:00": 249.1999969482422,
+      "2024-05-30T18:30:00+00:00": 249.22500610351562,
+      "2024-05-30T19:30:00+00:00": 248.80999755859375
+    },
+    "sentiment": 0.8349514007568359
   },
   {
-    "title": "FedEx: Cost Cuts Paying Off, Big EPS Growth Expected",
-    "published": 1713894755,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "FedEx Corporation (FDX) CEO Raj Subramaniam presents at Bernstein's 40th Annual Strategic Decisions Conference (Transcript)",
+    "published": 1717012263,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 245.83999633789062,
+      "2024-05-29T14:30:00+00:00": 245.13999938964844,
+      "2024-05-29T15:30:00+00:00": 245.27999877929688,
+      "2024-05-29T16:30:00+00:00": 246.0500030517578,
+      "2024-05-29T17:30:00+00:00": 245.52000427246094,
+      "2024-05-29T18:30:00+00:00": 245.06500244140625,
+      "2024-05-29T19:30:00+00:00": 245.40499877929688
+    },
+    "sentiment": 0.9296852946281433
   },
   {
-    "title": "UPS sees profit in U.S. Postal Service work that dragged down FedEx earnings",
-    "published": 1713886674,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "FedEx : Empowers Indian SMEs with its 23rd edition of Power Networking Meet in Roorkee",
+    "published": 1716974539,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 245.83999633789062,
+      "2024-05-29T14:30:00+00:00": 245.13999938964844,
+      "2024-05-29T15:30:00+00:00": 245.27999877929688,
+      "2024-05-29T16:30:00+00:00": 246.0500030517578,
+      "2024-05-29T17:30:00+00:00": 245.52000427246094,
+      "2024-05-29T18:30:00+00:00": 245.06500244140625,
+      "2024-05-29T19:30:00+00:00": 245.40499877929688
+    },
+    "sentiment": 0.5600287318229675
   },
   {
-    "title": "UPDATE 1-UPS sees profit in U.S. Postal Service work that dragged down FedEx earnings",
-    "published": 1713884958,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "These Paintings Are No Joke - Art by Talented Chimps on Display in New York",
+    "published": 1716921900,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 247.1999969482422,
+      "2024-05-28T14:30:00+00:00": 248.38499450683594,
+      "2024-05-28T15:30:00+00:00": 247.35499572753906,
+      "2024-05-28T16:30:00+00:00": 247.2100067138672,
+      "2024-05-28T17:30:00+00:00": 247.46499633789062,
+      "2024-05-28T18:30:00+00:00": 246.92999267578125,
+      "2024-05-28T19:30:00+00:00": 247.0
+    },
+    "sentiment": 0.9311670064926147
   },
   {
-    "title": "UPS Sees Fifth Consecutive Quarterly Earnings Decline As Delivery Giant Keeps 2024 View Steady",
-    "published": 1713879961,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "3 Sorry Overhyped Stocks to Sell in May While You Still Can",
+    "published": 1716826009,
+    "day_prices": {},
+    "sentiment": 0.7415413856506348
   },
   {
-    "title": "UPS\u2019 stock rises after profit extends long streak of beats as deliveries improve",
-    "published": 1713871740,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "What's open and closed on Memorial Day",
+    "published": 1716624900,
+    "day_prices": {},
+    "sentiment": 0.926215410232544
   },
   {
-    "title": "UPS\u2019s stock gives up gains after another revenue miss offset a profit beat",
-    "published": 1713859620,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "Former FedEx Ground contractor files for bankruptcy liquidation",
+    "published": 1716582311,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 250.0,
+      "2024-05-24T14:30:00+00:00": 248.25999450683594,
+      "2024-05-24T15:30:00+00:00": 247.75,
+      "2024-05-24T16:30:00+00:00": 248.05999755859375,
+      "2024-05-24T17:30:00+00:00": 247.39999389648438,
+      "2024-05-24T18:30:00+00:00": 247.3802032470703,
+      "2024-05-24T19:30:00+00:00": 246.63999938964844
+    },
+    "sentiment": 0.8109487295150757
   },
   {
-    "title": "UPS\u2019s stock rises after company reports profit beat despite lower-than-expected revenue",
-    "published": 1713853560,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "FedEx reinstates services in Ukraine after two-year suspension",
+    "published": 1716561093,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 250.0,
+      "2024-05-24T14:30:00+00:00": 248.25999450683594,
+      "2024-05-24T15:30:00+00:00": 247.75,
+      "2024-05-24T16:30:00+00:00": 248.05999755859375,
+      "2024-05-24T17:30:00+00:00": 247.39999389648438,
+      "2024-05-24T18:30:00+00:00": 247.3802032470703,
+      "2024-05-24T19:30:00+00:00": 246.63999938964844
+    },
+    "sentiment": 0.8212019205093384
   },
   {
-    "title": "UPS gains after efficiency improvement leads to profit beat",
-    "published": 1713852120,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "FedEx reinstates Ukraine services after two-year suspension",
+    "published": 1716547200,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 250.0,
+      "2024-05-24T14:30:00+00:00": 248.25999450683594,
+      "2024-05-24T15:30:00+00:00": 247.75,
+      "2024-05-24T16:30:00+00:00": 248.05999755859375,
+      "2024-05-24T17:30:00+00:00": 247.39999389648438,
+      "2024-05-24T18:30:00+00:00": 247.3802032470703,
+      "2024-05-24T19:30:00+00:00": 246.63999938964844
+    },
+    "sentiment": 0.8751813769340515
   },
   {
-    "title": "FedEx : Express Forms Strategic Alliance with Zonos to Tackle Customs Challenges for UK and EU Retailers",
-    "published": 1713849488,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
+    "title": "FedEx price target lowered by $5 at JPMorgan, here's why",
+    "published": 1716525720,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 250.0,
+      "2024-05-24T14:30:00+00:00": 248.25999450683594,
+      "2024-05-24T15:30:00+00:00": 247.75,
+      "2024-05-24T16:30:00+00:00": 248.05999755859375,
+      "2024-05-24T17:30:00+00:00": 247.39999389648438,
+      "2024-05-24T18:30:00+00:00": 247.3802032470703,
+      "2024-05-24T19:30:00+00:00": 246.63999938964844
+    },
+    "sentiment": 0.8532010912895203
   },
   {
-    "title": "UPS Earnings Show The Weight Of $170,000 Salaries While It Learns To Navigate Shipping Slump",
-    "published": 1713847440,
-    "posting_price": 264.87426013,
-    "close_price": 266.17697144,
-    "percent_change": 0.49182254
-  },
-  {
-    "title": "FedEx announces NIL program for University of Memphis student-athletes",
-    "published": 1713780636,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "FedEx : Commits to a Greener Future with Tree Planting Initiative in the UAE",
-    "published": 1713780612,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "FedEx : Collaborates to Plant Trees for a Sustainable Future",
-    "published": 1713759013,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "FedEx : Volunteers Help Create a Better World through Clean-Up Efforts",
-    "published": 1713757327,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "FedEx : Recycles Old Uniforms in China",
-    "published": 1713754327,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "3 Dividend Stocks to Buy Now: Q2 Edition",
-    "published": 1713708000,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "The Ultimate Real Estate Stock to Buy With $1,000 Right Now",
-    "published": 1713692520,
-    "posting_price": 263.16014262,
-    "close_price": 264.60977173,
-    "percent_change": 0.55085436
-  },
-  {
-    "title": "FedEx pledges $25 million over 5 years in NIL program for University of Memphis athletes",
-    "published": 1713538309,
-    "posting_price": 258.82098412,
-    "close_price": 261.5145874,
-    "percent_change": 1.04072059
-  },
-  {
-    "title": "Vacation Park for Children With Special Needs Gets Makeover From FedEx Netherlands",
-    "published": 1713464100,
-    "posting_price": 258.69362557,
-    "close_price": 257.96881104,
-    "percent_change": -0.2801826
-  },
-  {
-    "title": "15 Best Low Cost ETFs",
-    "published": 1713444593,
-    "posting_price": 258.69362557,
-    "close_price": 257.96881104,
-    "percent_change": -0.2801826
-  },
-  {
-    "title": "Amazon Surpasses UPS in Parcel Volume For First Time, Index\u00a0Says",
-    "published": 1713441600,
-    "posting_price": 258.69362557,
-    "close_price": 257.96881104,
-    "percent_change": -0.2801826
-  },
-  {
-    "title": "Top 15 Cities Where Gen Z is Moving in the US",
-    "published": 1713431021,
-    "posting_price": 258.69362557,
-    "close_price": 257.96881104,
-    "percent_change": -0.2801826
-  },
-  {
-    "title": "Amazon.com to benefit from expanding of delivery stations, says DA Davidson",
-    "published": 1713426000,
-    "posting_price": 258.69362557,
-    "close_price": 257.96881104,
-    "percent_change": -0.2801826
-  },
-  {
-    "title": "Beyond Microsoft and Google: 3 Stealth AI Software Stocks to Buy Now",
-    "published": 1713419100,
-    "posting_price": 258.69362557,
-    "close_price": 257.96881104,
-    "percent_change": -0.2801826
-  },
-  {
-    "title": "US parcel revenue sees first decline in 7 years, report finds",
-    "published": 1713351600,
-    "posting_price": 258.9776991,
-    "close_price": 257.67498779,
-    "percent_change": -0.50302065
-  },
-  {
-    "title": "Trucking stocks hit the brakes as earnings worries mount",
-    "published": 1713348360,
-    "posting_price": 258.9776991,
-    "close_price": 257.67498779,
-    "percent_change": -0.50302065
-  },
-  {
-    "title": "FedEx : Southeast Asia Emerges as Top Growth Market for APAC Region, According to New FedEx Survey",
-    "published": 1713317768,
-    "posting_price": 258.9776991,
-    "close_price": 257.67498779,
-    "percent_change": -0.50302065
-  },
-  {
-    "title": "FedEx Bolsters Community Support With Impactful Volunteering Efforts Across the Middle East and North Africa",
-    "published": 1713286800,
-    "posting_price": 261.11297371,
-    "close_price": 259.50662231,
-    "percent_change": -0.61519402
-  },
-  {
-    "title": "FedEx : Empowers Indian SMEs with its 19th edition of Power Networking Meet in Ludhiana",
-    "published": 1713237967,
-    "posting_price": 261.11297371,
-    "close_price": 259.50662231,
-    "percent_change": -0.61519402
-  },
-  {
-    "title": "FedEx : New FedEx Import Tool to Enhance Efficiency of Import Process for India Businesses",
-    "published": 1713235507,
-    "posting_price": 261.11297371,
-    "close_price": 259.50662231,
-    "percent_change": -0.61519402
+    "title": "FedEx ends in red for its seventh consecutive session",
+    "published": 1716520020,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 250.0,
+      "2024-05-24T14:30:00+00:00": 248.25999450683594,
+      "2024-05-24T15:30:00+00:00": 247.75,
+      "2024-05-24T16:30:00+00:00": 248.05999755859375,
+      "2024-05-24T17:30:00+00:00": 247.39999389648438,
+      "2024-05-24T18:30:00+00:00": 247.3802032470703,
+      "2024-05-24T19:30:00+00:00": 246.63999938964844
+    },
+    "sentiment": 0.8895910382270813
   }
 ]

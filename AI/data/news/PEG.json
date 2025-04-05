@@ -1,289 +1,232 @@
 [
   {
-    "title": "PSEG price target raised by $3 at Barclays, here's why",
-    "published": 1713157020,
-    "posting_price": 64.42646417,
-    "close_price": 63.24308014,
-    "percent_change": -1.83679804
+    "title": "Public Service : Q1 2024 Quarterly Update",
+    "published": 1715083392,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 71.98999786376953,
+      "2024-05-07T14:30:00+00:00": 71.58999633789062,
+      "2024-05-07T15:30:00+00:00": 71.69000244140625,
+      "2024-05-07T16:30:00+00:00": 71.83219909667969,
+      "2024-05-07T17:30:00+00:00": 71.88999938964844,
+      "2024-05-07T18:30:00+00:00": 71.80999755859375,
+      "2024-05-07T19:30:00+00:00": 71.6500015258789
+    },
+    "sentiment": 0.8821451663970947
   },
   {
-    "title": "Barclays Keeps Their Buy Rating on Public Service Enterprise (PEG)",
-    "published": 1713082560,
-    "posting_price": 64.42646805,
-    "close_price": 63.24308395,
-    "percent_change": -1.83679804
+    "title": "Public Service : PSE&G, Montclair First Responders Conduct Gas Emergency Response Exercise",
+    "published": 1714989791,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 70.6500015258789,
+      "2024-05-06T14:30:00+00:00": 70.66000366210938,
+      "2024-05-06T15:30:00+00:00": 70.83999633789062,
+      "2024-05-06T16:30:00+00:00": 70.94000244140625,
+      "2024-05-06T17:30:00+00:00": 70.94000244140625,
+      "2024-05-06T18:30:00+00:00": 71.08000183105469,
+      "2024-05-06T19:30:00+00:00": 71.20999908447266
+    },
+    "sentiment": 0.9396213889122009
   },
   {
-    "title": "PSEG To Announce First Quarter 2024 Financial Results On April 30",
-    "published": 1712665800,
-    "posting_price": 65.0666661,
-    "close_price": 65.18305969,
-    "percent_change": 0.17888359
+    "title": "Public Service Enterprise Group (NYSE:PEG) Is Due To Pay A Dividend Of $0.60",
+    "published": 1714828575,
+    "day_prices": {},
+    "sentiment": 0.9508837461471558
   },
   {
-    "title": "PEG Crosses Above Average Analyst Target",
-    "published": 1712650140,
-    "posting_price": 65.0666661,
-    "close_price": 65.18305969,
-    "percent_change": 0.17888359
+    "title": "PNM or PEG: Which Is the Better Value Stock Right Now?",
+    "published": 1714750811,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 70.4800033569336,
+      "2024-05-03T14:30:00+00:00": 70.1500015258789,
+      "2024-05-03T15:30:00+00:00": 70.06999969482422,
+      "2024-05-03T16:30:00+00:00": 70.20999908447266,
+      "2024-05-03T17:30:00+00:00": 70.22000122070312,
+      "2024-05-03T18:30:00+00:00": 70.37999725341797,
+      "2024-05-03T19:30:00+00:00": 70.33000183105469
+    },
+    "sentiment": 0.9209638237953186
   },
   {
-    "title": "Public Service Enterprise Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
-    "published": 1712635440,
-    "posting_price": 65.0666661,
-    "close_price": 65.18305969,
-    "percent_change": 0.17888359
+    "title": "Earnings Miss: Public Service Enterprise Group Incorporated Missed EPS By 16% And Analysts Are Revising Their Forecasts",
+    "published": 1714733502,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 70.4800033569336,
+      "2024-05-03T14:30:00+00:00": 70.1500015258789,
+      "2024-05-03T15:30:00+00:00": 70.06999969482422,
+      "2024-05-03T16:30:00+00:00": 70.20999908447266,
+      "2024-05-03T17:30:00+00:00": 70.22000122070312,
+      "2024-05-03T18:30:00+00:00": 70.37999725341797,
+      "2024-05-03T19:30:00+00:00": 70.33000183105469
+    },
+    "sentiment": 0.9726809859275818
   },
   {
-    "title": "Key Takeaways From Public Service Enterprise Analyst Ratings",
-    "published": 1712232300,
-    "posting_price": 65.13456458,
-    "close_price": 64.1257782,
-    "percent_change": -1.54877274
+    "title": "Decoding Public Service Enterprise Group Inc (PEG): A Strategic SWOT Insight",
+    "published": 1714713087,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 70.4800033569336,
+      "2024-05-03T14:30:00+00:00": 70.1500015258789,
+      "2024-05-03T15:30:00+00:00": 70.06999969482422,
+      "2024-05-03T16:30:00+00:00": 70.20999908447266,
+      "2024-05-03T17:30:00+00:00": 70.22000122070312,
+      "2024-05-03T18:30:00+00:00": 70.37999725341797,
+      "2024-05-03T19:30:00+00:00": 70.33000183105469
+    },
+    "sentiment": 0.8674381971359253
   },
   {
-    "title": "Public Service Enterprise (PEG) Receives a Buy from Evercore ISI",
-    "published": 1712229360,
-    "posting_price": 65.13456458,
-    "close_price": 64.1257782,
-    "percent_change": -1.54877274
+    "title": "Public Service Enterprise Group First Quarter 2024 Earnings: Misses Expectations",
+    "published": 1714647017,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 69.91000366210938,
+      "2024-05-02T14:30:00+00:00": 70.1050033569336,
+      "2024-05-02T15:30:00+00:00": 69.56999969482422,
+      "2024-05-02T16:30:00+00:00": 69.58999633789062,
+      "2024-05-02T17:30:00+00:00": 69.86669921875,
+      "2024-05-02T18:30:00+00:00": 69.97000122070312,
+      "2024-05-02T19:30:00+00:00": 69.72000122070312
+    },
+    "sentiment": 0.5834242105484009
   },
   {
-    "title": "PSEG seeks to extend licenses for New Jersey's three nuclear power plants",
-    "published": 1712226240,
-    "posting_price": 65.13456458,
-    "close_price": 64.1257782,
-    "percent_change": -1.54877274
+    "title": "Public Service Enterprise Group Inc. stock rises Thursday, still underperforms market",
+    "published": 1714622580,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 69.91000366210938,
+      "2024-05-02T14:30:00+00:00": 70.1050033569336,
+      "2024-05-02T15:30:00+00:00": 69.56999969482422,
+      "2024-05-02T16:30:00+00:00": 69.58999633789062,
+      "2024-05-02T17:30:00+00:00": 69.86669921875,
+      "2024-05-02T18:30:00+00:00": 69.97000122070312,
+      "2024-05-02T19:30:00+00:00": 69.72000122070312
+    },
+    "sentiment": 0.7235638499259949
   },
   {
-    "title": "Public Service : PSEG Notifies NRC of Intention to Seek 20-Year License Renewals for South Jersey Nuclear Plants",
-    "published": 1712219409,
-    "posting_price": 65.13456458,
-    "close_price": 64.1257782,
-    "percent_change": -1.54877274
+    "title": "Pactiv Evergreen Announces Q1 2024 Dividend Payout",
+    "published": 1714620180,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 69.91000366210938,
+      "2024-05-02T14:30:00+00:00": 70.1050033569336,
+      "2024-05-02T15:30:00+00:00": 69.56999969482422,
+      "2024-05-02T16:30:00+00:00": 69.58999633789062,
+      "2024-05-02T17:30:00+00:00": 69.86669921875,
+      "2024-05-02T18:30:00+00:00": 69.97000122070312,
+      "2024-05-02T19:30:00+00:00": 69.72000122070312
+    },
+    "sentiment": 0.8807106018066406
   },
   {
-    "title": "PSE&G's Energy Efficiency Programs Projected to Save $445M and Avoid Approximately 1.5M Metric Tons of Carbon Emissions Annually",
-    "published": 1712217600,
-    "posting_price": 65.13456458,
-    "close_price": 64.1257782,
-    "percent_change": -1.54877274
+    "title": "Public Service Enterprise Group Incorporated (NYSE:PEG) Q1 2024 Earnings Call Transcript",
+    "published": 1714568733,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 68.87000274658203,
+      "2024-05-01T14:30:00+00:00": 69.07499694824219,
+      "2024-05-01T15:30:00+00:00": 69.06999969482422,
+      "2024-05-01T16:30:00+00:00": 69.55000305175781,
+      "2024-05-01T17:30:00+00:00": 69.66500091552734,
+      "2024-05-01T18:30:00+00:00": 69.83499908447266,
+      "2024-05-01T19:30:00+00:00": 70.1500015258789
+    },
+    "sentiment": 0.9151421785354614
   },
   {
-    "title": "New Jersey's 3 nuclear power plants seek to extend licenses for another 20 years",
-    "published": 1712168020,
-    "posting_price": 64.42646397,
-    "close_price": 64.63986206,
-    "percent_change": 0.33122738
+    "title": "Public Service Enterprise (PEG) Gets a Hold from Scotiabank",
+    "published": 1714550160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 68.87000274658203,
+      "2024-05-01T14:30:00+00:00": 69.07499694824219,
+      "2024-05-01T15:30:00+00:00": 69.06999969482422,
+      "2024-05-01T16:30:00+00:00": 69.55000305175781,
+      "2024-05-01T17:30:00+00:00": 69.66500091552734,
+      "2024-05-01T18:30:00+00:00": 69.83499908447266,
+      "2024-05-01T19:30:00+00:00": 70.1500015258789
+    },
+    "sentiment": 0.8284239768981934
   },
   {
-    "title": "Public Service Enterprise Group Incorporated (PEG) Q1 2024 Earnings Call Transcript",
-    "published": 1714492090,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
+    "title": "Q1 2024 Public Service Enterprise Group Inc Earnings Call",
+    "published": 1714545785,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 68.87000274658203,
+      "2024-05-01T14:30:00+00:00": 69.07499694824219,
+      "2024-05-01T15:30:00+00:00": 69.06999969482422,
+      "2024-05-01T16:30:00+00:00": 69.55000305175781,
+      "2024-05-01T17:30:00+00:00": 69.66500091552734,
+      "2024-05-01T18:30:00+00:00": 69.83499908447266,
+      "2024-05-01T19:30:00+00:00": 70.1500015258789
+    },
+    "sentiment": 0.7770640254020691
   },
   {
-    "title": "Public Service Enterprise Group (PEG) Q1 Earnings: Aligns with EPS Projections, Reveals ...",
-    "published": 1714487536,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
+    "title": "PSEG price target raised by $15 at Mizuho, here's why",
+    "published": 1716443880,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 74.1500015258789,
+      "2024-05-23T14:30:00+00:00": 73.88999938964844,
+      "2024-05-23T15:30:00+00:00": 73.98999786376953,
+      "2024-05-23T16:30:00+00:00": 73.88999938964844,
+      "2024-05-23T17:30:00+00:00": 73.76000213623047,
+      "2024-05-23T18:30:00+00:00": 73.43000030517578,
+      "2024-05-23T19:30:00+00:00": 73.31500244140625
+    },
+    "sentiment": 0.6510088443756104
   },
   {
-    "title": "PSEG (PEG) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1714485608,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
+    "title": "Public Service : PSE&G, Harrison First Responders Conduct Gas Emergency Response Exercise",
+    "published": 1716294792,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 74.31999969482422,
+      "2024-05-21T14:30:00+00:00": 74.8949966430664,
+      "2024-05-21T15:30:00+00:00": 74.45999908447266,
+      "2024-05-21T16:30:00+00:00": 74.52999877929688,
+      "2024-05-21T17:30:00+00:00": 74.69000244140625,
+      "2024-05-21T18:30:00+00:00": 74.69999694824219,
+      "2024-05-21T19:30:00+00:00": 74.80000305175781
+    },
+    "sentiment": 0.9393184781074524
   },
   {
-    "title": "PSEG ANNOUNCES FIRST QUARTER 2024 RESULTS",
-    "published": 1714476600,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
+    "title": "AI-Driven Rally Set To Expand To Power, Commodities, Utilities: 'It's Not Just About Nvidia Anymore'",
+    "published": 1716177360,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 74.54000091552734,
+      "2024-05-20T14:30:00+00:00": 74.19499969482422,
+      "2024-05-20T15:30:00+00:00": 74.30999755859375,
+      "2024-05-20T16:30:00+00:00": 74.27999877929688,
+      "2024-05-20T17:30:00+00:00": 74.34519958496094,
+      "2024-05-20T18:30:00+00:00": 74.41000366210938,
+      "2024-05-20T19:30:00+00:00": 74.22000122070312
+    },
+    "sentiment": 0.8324816823005676
   },
   {
-    "title": "PEG Stock Earnings: Public Service Enterprise Meets EPS, Misses Revenue for Q1 2024",
-    "published": 1714474740,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
+    "title": "Utilities have surged in the past 3 months but are now flashing overbought signals",
+    "published": 1715939040,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 74.38999938964844,
+      "2024-05-17T14:30:00+00:00": 74.62000274658203,
+      "2024-05-17T15:30:00+00:00": 74.63999938964844,
+      "2024-05-17T16:30:00+00:00": 74.44000244140625,
+      "2024-05-17T17:30:00+00:00": 74.4000015258789,
+      "2024-05-17T18:30:00+00:00": 74.29000091552734,
+      "2024-05-17T19:30:00+00:00": 74.55149841308594
+    },
+    "sentiment": 0.4984106421470642
   },
   {
-    "title": "Public Service : PSEG Q1 2024 Earnings Webcast PSEG Announces Q1 2024 Results",
-    "published": 1714472894,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "Public Service : Q1 2024 PSEG Earnings Conference Call Presentation",
-    "published": 1714469833,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "Public Service Enterprise Q1 2024 Earnings Call Overview",
-    "published": 1714464780,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "PSEG: Q1 Earnings Snapshot",
-    "published": 1714462629,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "Public Service Enterprise Group reports mixed Q1 results; reaffirms FY24 outlook",
-    "published": 1714459260,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "Public Service reports mixed Q1 results; reaffirms FY24 outlook",
-    "published": 1714458900,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "PSEG backs FY24 adjusted EPS view $3.60-$3.70, consensus $3.67",
-    "published": 1714458780,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "PSEG reports Q1 adjusted EPS $1.31, consensus $1.31",
-    "published": 1714458660,
-    "posting_price": 65.51285818,
-    "close_price": 67.00663757,
-    "percent_change": 2.28013161
-  },
-  {
-    "title": "Public Service Q1 2024 Earnings Preview",
-    "published": 1714392900,
-    "posting_price": 66.06574262,
-    "close_price": 66.57983398,
-    "percent_change": 0.77815119
-  },
-  {
-    "title": "Why PSEG (PEG) is Poised to Beat Earnings Estimates Again",
-    "published": 1714147808,
-    "posting_price": 66.08513999,
-    "close_price": 65.78444672,
-    "percent_change": -0.4550089
-  },
-  {
-    "title": "Southern Co. (SO) Earnings Expected to Grow: Should You Buy?",
-    "published": 1714053708,
-    "posting_price": 64.99876923,
-    "close_price": 66.04634857,
-    "percent_change": 1.61169104
-  },
-  {
-    "title": "RBC Capital Keeps Their Buy Rating on Pactiv Evergreen (PTVE)",
-    "published": 1713948420,
-    "posting_price": 63.94147907,
-    "close_price": 65.21216583,
-    "percent_change": 1.9872652
-  },
-  {
-    "title": "Public Service Enterprise Group Inc. stock outperforms competitors on strong trading day",
-    "published": 1713931560,
-    "posting_price": 63.94147907,
-    "close_price": 65.21216583,
-    "percent_change": 1.9872652
-  },
-  {
-    "title": "Analysts Offer Insights on Utilities Companies: Public Service Enterprise (PEG), EDP Energias de Portugal (GB:0OF7) and National Grid (GB:NG)",
-    "published": 1713931560,
-    "posting_price": 63.94147907,
-    "close_price": 65.21216583,
-    "percent_change": 1.9872652
-  },
-  {
-    "title": "The Magnificent Seven Are Struggling- What Might It Mean?",
-    "published": 1713859980,
-    "posting_price": 64.53316984,
-    "close_price": 64.49436951,
-    "percent_change": -0.06012463
-  },
-  {
-    "title": "Public Service : PSE&G Shares Tips for Customers and Communities to Become Earth Heroes",
-    "published": 1713776407,
-    "posting_price": 63.80566889,
-    "close_price": 64.70775604,
-    "percent_change": 1.41380408
-  },
-  {
-    "title": "Public Service Enterprise (PEG) Gets a Buy from RBC Capital",
-    "published": 1713775740,
-    "posting_price": 63.80566889,
-    "close_price": 64.70775604,
-    "percent_change": 1.41380408
-  },
-  {
-    "title": "PSEG price target lowered by $2 at Scotiabank, here's why",
-    "published": 1713774540,
-    "posting_price": 63.80566889,
-    "close_price": 64.70775604,
-    "percent_change": 1.41380408
-  },
-  {
-    "title": "Hidden AI stock plays: Here are the companies powering the next revolution",
-    "published": 1713713424,
-    "posting_price": 63.80567642,
-    "close_price": 64.70776367,
-    "percent_change": 1.41380407
-  },
-  {
-    "title": "Public Service Enterprise Group (NYSE:PEG) Will Pay A Dividend Of $0.60",
-    "published": 1713618808,
-    "posting_price": 63.80567642,
-    "close_price": 64.70776367,
-    "percent_change": 1.41380407
-  },
-  {
-    "title": "Interesting PEG Put And Call Options For December 20th",
-    "published": 1713433320,
-    "posting_price": 63.27218674,
-    "close_price": 63.14608383,
-    "percent_change": -0.19930228
-  },
-  {
-    "title": "Public Service Enterprise Updates Executive Severance Plan",
-    "published": 1713411780,
-    "posting_price": 63.27218674,
-    "close_price": 63.14608383,
-    "percent_change": -0.19930228
-  },
-  {
-    "title": "Public Service Enterprise Group Takes Over #255 Spot From CDW",
-    "published": 1713325200,
-    "posting_price": 62.80659495,
-    "close_price": 63.07818985,
-    "percent_change": 0.43243054
-  },
-  {
-    "title": "PSEG Declares Regular Quarterly Dividend for the Second Quarter of 2024",
-    "published": 1713294900,
-    "posting_price": 63.07818604,
-    "close_price": 62.35069656,
-    "percent_change": -1.15331389
-  },
-  {
-    "title": "Public Service declares $0.60 dividend",
-    "published": 1713236580,
-    "posting_price": 63.07818604,
-    "close_price": 62.35069656,
-    "percent_change": -1.15331389
+    "title": "Public Service Enterprise Group Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1715832060,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 74.5199966430664,
+      "2024-05-16T14:30:00+00:00": 74.83000183105469,
+      "2024-05-16T15:30:00+00:00": 74.87999725341797,
+      "2024-05-16T16:30:00+00:00": 74.7750015258789,
+      "2024-05-16T17:30:00+00:00": 74.73999786376953,
+      "2024-05-16T18:30:00+00:00": 74.66999816894531,
+      "2024-05-16T19:30:00+00:00": 74.45999908447266
+    },
+    "sentiment": 0.937425971031189
   }
 ]

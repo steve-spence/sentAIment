@@ -1,569 +1,140 @@
 [
   {
-    "title": "5 Beaten-Down Top-Ranked Stocks to Buy in S&P 500 ETF",
-    "published": 1713197700,
-    "posting_price": 69.73187794,
-    "close_price": 67.85437012,
-    "percent_change": -2.69246703
-  },
-  {
-    "title": "Fastenal price target lowered by $5 at Loop Capital, here's why",
-    "published": 1713166200,
-    "posting_price": 69.73187794,
-    "close_price": 67.85437012,
-    "percent_change": -2.69246703
-  },
-  {
-    "title": "Loop Capital Markets Remains a Hold on Fastenal Company (FAST)",
-    "published": 1713163560,
-    "posting_price": 69.73187794,
-    "close_price": 67.85437012,
-    "percent_change": -2.69246703
-  },
-  {
-    "title": "Fastenal price target raised by $5 at HSBC, here's why",
-    "published": 1713163140,
-    "posting_price": 69.73187794,
-    "close_price": 67.85437012,
-    "percent_change": -2.69246703
-  },
-  {
-    "title": "Fastenal Company (NASDAQ:FAST) First-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year",
-    "published": 1713013621,
-    "posting_price": 69.73187794,
-    "close_price": 67.85437012,
-    "percent_change": -2.69246703
-  },
-  {
-    "title": "Fastenal (FAST) Loses -7.16% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner",
-    "published": 1712928905,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Major banks deliver EPS beat this week to kick off Q1 earnings; JPMorgan FY interest margin guidance unchanged - Earnings Scorecard",
-    "published": 1712923380,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Tesla To $180? Here Are 10 Top Analyst Forecasts For Friday",
-    "published": 1712909460,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Beyond The Numbers: 5 Analysts Discuss Fastenal Stock",
-    "published": 1712909160,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Fastenal Co (FAST) Q1 2024 Earnings Call Transcript Highlights: Navigating Market Headwinds ...",
-    "published": 1712905381,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: Fastenal Company (FAST) and Schneider National (SNDR)",
-    "published": 1712902920,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Fastenal price target lowered by $6 at Baird, here's why",
-    "published": 1712900040,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Q1 2024 Fastenal Co Earnings Call",
-    "published": 1712896256,
-    "posting_price": 68.00104987,
-    "close_price": 68.89090729,
-    "percent_change": 1.30859365
-  },
-  {
-    "title": "Why Fastenal Stock Fell Today",
-    "published": 1712864640,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal Stock Drops After Earnings. The Issue Is \u2018Poor Demand.\u2019",
-    "published": 1712846520,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal (FAST) Q1 Earnings & Sales Miss Estimates, Shares Down",
-    "published": 1712844540,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "These Stocks Are Moving the Most Today",
-    "published": 1712843263,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Here's What Key Metrics Tell Us About Fastenal (FAST) Q1 Earnings",
-    "published": 1712842204,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Noteworthy Thursday Option Activity: FAST, NKE, FICO",
-    "published": 1712838900,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Why Fastenal Shares Are Trading Lower By Around 7%? Here Are Other Stocks Moving In Thursday's Mid-Day Session",
-    "published": 1712838840,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal, CarMax fall; Alpine Immune Sciences, Arvinas rise, Thursday, 4/11/2024",
-    "published": 1712838300,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal misses quarterly estimates on lower fasteners demand",
-    "published": 1712838168,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal (FAST) Q1 Earnings and Revenues Lag Estimates",
-    "published": 1712836802,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal hits 2-month low after quarterly earnings, revenue miss",
-    "published": 1712835120,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal Company (FAST) Q1 2024 Earnings Call Transcript",
-    "published": 1712834347,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "FAST Stock Earnings: Fastenal Misses EPS, Misses Revenue for Q1 2024",
-    "published": 1712832960,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal Company Reports 2024 First Quarter Earnings",
-    "published": 1712832600,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal Q1 Earnings: Subdued Demand Despite Improving Manufacturing Outlook",
-    "published": 1712831072,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal (FAST) Q1 Earnings: Misses on EPS Despite Revenue Growth",
-    "published": 1712830500,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Video: Nasdaq 100 Movers: FAST, TEAM",
-    "published": 1712828280,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal falls as bad weather holds back first quarter sales",
-    "published": 1712827380,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "FAST Earnings: Fastenal (NASDAQ:FAST) Slides After Q1 Earnings Miss Estimates",
-    "published": 1712824080,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "4 stocks to watch on Thursday: STZ, MRNA and more",
-    "published": 1712823000,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal Company 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1712822729,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "FAST Earnings: Fastenal (NASDAQ:FAST) Slides After its Q1 Earnings Miss Estimates",
-    "published": 1712822340,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "FAST Earnings: Fastenal (NASDAQ:FAST) Slides as Q1 Earnings Miss Estimates",
-    "published": 1712822220,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "CarMax Reports Downbeat Earnings, Joins Lovesac And Other Big Stocks Moving Lower In Thursday's Pre-Market Session",
-    "published": 1712819400,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal: Q1 Earnings Snapshot",
-    "published": 1712818748,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Nvidia Triggers New Buy Point As Nasdaq Leads Nifty Rebound; Why Morgan Stanley Got Hammered",
-    "published": 1712817639,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Wall Street Braces For Another Red Day Ahead Of More Inflation Data While Bitcoin Holds Above $70K: Analyst Sees Any Pullback As 'Phenomenal Buying Opportunity'",
-    "published": 1712817240,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "QQQ ETF Update, 4/11/2024",
-    "published": 1712816580,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves Today, April 11, 2024",
-    "published": 1712815560,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal GAAP EPS of $0.52 misses by $0.01, revenue of $1.89B misses by $20M",
-    "published": 1712814960,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal reports Q1 EPS 52c, consensus 53c",
-    "published": 1712814720,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "These Stocks Moved the Most Today: CarMax, Apple, Fastenal, Rivian, Alpine Immune, Nike, Robinhood, Constellation Brands, and More",
-    "published": 1712814180,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Earnings Scheduled For April 11, 2024",
-    "published": 1712812680,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Constellation Brands, Costco And 3 Stocks To Watch Heading Into Thursday",
-    "published": 1712812380,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fear & Greed Index In 'Neutral' Zone Following Inflation Data; Dow Dips Over 400 Points",
-    "published": 1712812380,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Relative Strength Alert For Fastenal",
-    "published": 1712804040,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "5 Earnings Charts to Kick Off Earnings Season",
-    "published": 1712801640,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "GLOBAL BRIEFING: Chinese inflation cooler than expected in March",
-    "published": 1712795400,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Market Volatility Is Back. These Stocks Can Provide Shelter and Returns.",
-    "published": 1712795040,
-    "posting_price": 70.72930377,
-    "close_price": 68.33351898,
-    "percent_change": -3.38725912
-  },
-  {
-    "title": "Fastenal Company Announces Cash Dividend",
-    "published": 1712780100,
-    "posting_price": 73.89760153,
-    "close_price": 73.08596802,
-    "percent_change": -1.09832186
-  },
-  {
-    "title": "Fastenal Q1 2024 Earnings Preview",
-    "published": 1712745420,
-    "posting_price": 73.89760153,
-    "close_price": 73.08596802,
-    "percent_change": -1.09832186
-  },
-  {
-    "title": "Fastenal declares $0.39 dividend",
-    "published": 1712721900,
-    "posting_price": 73.89760153,
-    "close_price": 73.08596802,
-    "percent_change": -1.09832186
-  },
-  {
-    "title": "MSC Industrial Feeling Some Friction From Weakness Among Smaller Manufacturers",
-    "published": 1712612007,
-    "posting_price": 74.63100208,
-    "close_price": 74.21051788,
-    "percent_change": -0.5634176
-  },
-  {
-    "title": "Fastenal (FAST) to Post Q1 Earnings: What's in the Cards?",
-    "published": 1712586540,
-    "posting_price": 74.63100208,
-    "close_price": 74.21051788,
-    "percent_change": -0.5634176
-  },
-  {
-    "title": "Curious about Fastenal (FAST) Q1 Performance? Explore Wall Street Estimates for Key Metrics",
-    "published": 1712582106,
-    "posting_price": 74.63100208,
-    "close_price": 74.21051788,
-    "percent_change": -0.5634176
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 08 \u2013 April 12, 2024",
-    "published": 1712556060,
-    "posting_price": 74.63100208,
-    "close_price": 74.21051788,
-    "percent_change": -0.5634176
-  },
-  {
-    "title": "Fastenal price target raised by $7 at Wolfe Research, here's why",
-    "published": 1712554200,
-    "posting_price": 74.63100208,
-    "close_price": 74.21051788,
-    "percent_change": -0.5634176
-  },
-  {
-    "title": "Forget Rate Cuts. Here\u2019s What the Stock Market Really Needs Now.",
-    "published": 1712535840,
-    "posting_price": 74.63100208,
-    "close_price": 74.21051788,
-    "percent_change": -0.5634176
-  },
-  {
-    "title": "Fastenal Company (NASDAQ:FAST) is a favorite amongst institutional investors who own 83%",
-    "published": 1712491297,
-    "posting_price": 74.63100975,
-    "close_price": 74.21052551,
-    "percent_change": -0.56341759
-  },
-  {
-    "title": "Stocks Poised for Higher Open",
-    "published": 1712474880,
-    "posting_price": 74.63100975,
-    "close_price": 74.21052551,
-    "percent_change": -0.56341759
-  },
-  {
-    "title": "Delta, Wells Fargo, JPMorgan Chase, Inflation, and More to Watch This Week",
-    "published": 1712458800,
-    "posting_price": 74.63100975,
-    "close_price": 74.21052551,
-    "percent_change": -0.56341759
-  },
-  {
-    "title": "Catalyst Watch: CPI reveal, big bank earnings & AI talk from Intel and Marvell",
-    "published": 1712282520,
-    "posting_price": 73.88782292,
-    "close_price": 74.93414307,
-    "percent_change": 1.41609281
-  },
-  {
-    "title": "Fastenal (FAST) Earnings Expected to Grow: Should You Buy?",
-    "published": 1712239206,
-    "posting_price": 75.18839134,
-    "close_price": 73.50645447,
-    "percent_change": -2.2369635
-  },
-  {
-    "title": "Is Fastenal (FAST) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-    "published": 1712162704,
-    "posting_price": 74.45498003,
-    "close_price": 74.66033173,
-    "percent_change": 0.27580653
-  },
-  {
-    "title": "Are Retail-Wholesale Stocks Lagging  The Gap (GPS) This Year?",
-    "published": 1712151612,
-    "posting_price": 74.45498003,
-    "close_price": 74.66033173,
-    "percent_change": 0.27580653
-  },
-  {
-    "title": "Why Fastenal (FAST) is a Top Momentum Stock for the Long-Term",
-    "published": 1712065810,
-    "posting_price": 74.85591758,
-    "close_price": 74.6114502,
-    "percent_change": -0.32658391
-  },
-  {
-    "title": "Investing in Fastenal (NASDAQ:FAST) five years ago would have delivered you a 123% gain",
-    "published": 1714140020,
-    "posting_price": 66.63560863,
-    "close_price": 67.04869843,
-    "percent_change": 0.6199235
-  },
-  {
-    "title": "Fastenal Stock Tumbled After Earnings. A Director Bought the Dip.",
-    "published": 1714073460,
-    "posting_price": 66.6356035,
-    "close_price": 67.01918793,
-    "percent_change": 0.57564487
-  },
-  {
-    "title": "Most preferred stocks in industrial distribution and building products - Baird",
-    "published": 1713953460,
-    "posting_price": 65.77009317,
-    "close_price": 66.6257782,
-    "percent_change": 1.30102451
-  },
-  {
-    "title": "Understanding Fastenal (FAST) Reliance on International Revenue",
-    "published": 1713802320,
-    "posting_price": 66.30933191,
-    "close_price": 65.95729828,
-    "percent_change": -0.53089606
-  },
-  {
-    "title": "Is Now The Time To Look At Buying Fastenal Company (NASDAQ:FAST)?",
-    "published": 1713794423,
-    "posting_price": 66.30933191,
-    "close_price": 65.95729828,
-    "percent_change": -0.53089606
-  },
-  {
-    "title": "Ex-Dividend Reminder: Fastenal, Lakeland Financial and Royal Bank of Canada",
-    "published": 1713778920,
-    "posting_price": 66.30933191,
-    "close_price": 65.95729828,
-    "percent_change": -0.53089606
-  },
-  {
-    "title": "Director Daniel Johnson Acquires 3,350 Shares of Fastenal Co (FAST)",
-    "published": 1713481245,
-    "posting_price": 67.37521394,
-    "close_price": 66.00619507,
-    "percent_change": -2.0319325
-  },
-  {
-    "title": "Is Fastenal Company (NASDAQ:FAST) Expensive For A Reason? A Look At Its Intrinsic Value",
-    "published": 1713448810,
-    "posting_price": 67.37521394,
-    "close_price": 66.00619507,
-    "percent_change": -2.0319325
-  },
-  {
-    "title": "Fastenal Company (FAST) Is a Trending Stock: Facts to Know Before Betting on It",
-    "published": 1713445210,
-    "posting_price": 67.37521394,
-    "close_price": 66.00619507,
-    "percent_change": -2.0319325
-  },
-  {
-    "title": "Decoding Fastenal Co (FAST): A Strategic SWOT Insight",
-    "published": 1713330065,
-    "posting_price": 67.6979102,
-    "close_price": 66.96450806,
-    "percent_change": -1.08334532
-  },
-  {
-    "title": "Fastenal Company (NASDAQ:FAST) Q1 2024 Earnings Call Transcript",
-    "published": 1713274656,
-    "posting_price": 68.06949952,
-    "close_price": 67.26764679,
-    "percent_change": -1.17799122
-  },
-  {
-    "title": "Analysts Are Neutral on These Industrial Goods Stocks: Fastenal Company (FAST), Archer Daniels Midland (ADM)",
-    "published": 1713251460,
-    "posting_price": 68.06949952,
-    "close_price": 67.26764679,
-    "percent_change": -1.17799122
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Energizer Holdings (ENR), Fastenal Company (FAST) and Lilium (LILM)",
+    "published": 1715064840,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 67.05999755859375,
+      "2024-05-07T14:30:00+00:00": 66.94000244140625,
+      "2024-05-07T15:30:00+00:00": 67.0250015258789,
+      "2024-05-07T16:30:00+00:00": 67.19000244140625,
+      "2024-05-07T17:30:00+00:00": 67.2750015258789,
+      "2024-05-07T18:30:00+00:00": 66.97000122070312,
+      "2024-05-07T19:30:00+00:00": 66.70999908447266
+    },
+    "sentiment": 0.9102912545204163
+  },
+  {
+    "title": "Breaking Down Fastenal: 6 Analysts Share Their Views",
+    "published": 1715050980,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 67.05999755859375,
+      "2024-05-07T14:30:00+00:00": 66.94000244140625,
+      "2024-05-07T15:30:00+00:00": 67.0250015258789,
+      "2024-05-07T16:30:00+00:00": 67.19000244140625,
+      "2024-05-07T17:30:00+00:00": 67.2750015258789,
+      "2024-05-07T18:30:00+00:00": 66.97000122070312,
+      "2024-05-07T19:30:00+00:00": 66.70999908447266
+    },
+    "sentiment": 0.8920716047286987
+  },
+  {
+    "title": "Fastenal is Oversold",
+    "published": 1714991400,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 68.19000244140625,
+      "2024-05-06T14:30:00+00:00": 67.20999908447266,
+      "2024-05-06T15:30:00+00:00": 67.15499877929688,
+      "2024-05-06T16:30:00+00:00": 67.09500122070312,
+      "2024-05-06T17:30:00+00:00": 67.23999786376953,
+      "2024-05-06T18:30:00+00:00": 67.26000213623047,
+      "2024-05-06T19:30:00+00:00": 66.91999816894531
+    },
+    "sentiment": 0.7294968366622925
+  },
+  {
+    "title": "Fastenal : April 2024 Sales Information",
+    "published": 1714978627,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 68.19000244140625,
+      "2024-05-06T14:30:00+00:00": 67.20999908447266,
+      "2024-05-06T15:30:00+00:00": 67.15499877929688,
+      "2024-05-06T16:30:00+00:00": 67.09500122070312,
+      "2024-05-06T17:30:00+00:00": 67.23999786376953,
+      "2024-05-06T18:30:00+00:00": 67.26000213623047,
+      "2024-05-06T19:30:00+00:00": 66.91999816894531
+    },
+    "sentiment": 0.9484241604804993
+  },
+  {
+    "title": "Capital Investments At Fastenal (NASDAQ:FAST) Point To A Promising Future",
+    "published": 1714906827,
+    "day_prices": {},
+    "sentiment": 0.9312715530395508
+  },
+  {
+    "title": "Fastenal Co. stock underperforms Thursday when compared to competitors",
+    "published": 1714622580,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 68.56999969482422,
+      "2024-05-02T14:30:00+00:00": 67.69000244140625,
+      "2024-05-02T15:30:00+00:00": 67.93000030517578,
+      "2024-05-02T16:30:00+00:00": 67.92500305175781,
+      "2024-05-02T17:30:00+00:00": 67.79499816894531,
+      "2024-05-02T18:30:00+00:00": 67.91999816894531,
+      "2024-05-02T19:30:00+00:00": 68.19999694824219
+    },
+    "sentiment": 0.9492045044898987
+  },
+  {
+    "title": "Applied Industrial Technologies: Growth Should Accelerate",
+    "published": 1716311603,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 66.41000366210938,
+      "2024-05-21T14:30:00+00:00": 66.27999877929688,
+      "2024-05-21T15:30:00+00:00": 66.33000183105469,
+      "2024-05-21T16:30:00+00:00": 66.04000091552734,
+      "2024-05-21T17:30:00+00:00": 66.04000091552734,
+      "2024-05-21T18:30:00+00:00": 65.93000030517578,
+      "2024-05-21T19:30:00+00:00": 66.05500030517578
+    },
+    "sentiment": 0.8980699181556702
+  },
+  {
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 19",
+    "published": 1716021130,
+    "day_prices": {},
+    "sentiment": 0.9063739776611328
+  },
+  {
+    "title": "Fastenal Co. stock outperforms competitors despite losses on the day",
+    "published": 1715832060,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 66.93000030517578,
+      "2024-05-16T14:30:00+00:00": 66.52999877929688,
+      "2024-05-16T15:30:00+00:00": 66.73999786376953,
+      "2024-05-16T16:30:00+00:00": 66.7249984741211,
+      "2024-05-16T17:30:00+00:00": 66.82499694824219,
+      "2024-05-16T18:30:00+00:00": 66.88500213623047,
+      "2024-05-16T19:30:00+00:00": 66.80000305175781
+    },
+    "sentiment": 0.9343568086624146
+  },
+  {
+    "title": "Fastenal: Why I'm Keeping A Close Eye On This New Dividend Aristocrat",
+    "published": 1717086342,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 64.6500015258789,
+      "2024-05-30T14:30:00+00:00": 64.36499786376953,
+      "2024-05-30T15:30:00+00:00": 64.58000183105469,
+      "2024-05-30T16:30:00+00:00": 64.61000061035156,
+      "2024-05-30T17:30:00+00:00": 64.63999938964844,
+      "2024-05-30T18:30:00+00:00": 64.62000274658203,
+      "2024-05-30T19:30:00+00:00": 64.69000244140625
+    },
+    "sentiment": 0.8978350758552551
+  },
+  {
+    "title": "Fastenal Becomes Oversold",
+    "published": 1716866280,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 65.76000213623047,
+      "2024-05-28T14:30:00+00:00": 65.50499725341797,
+      "2024-05-28T15:30:00+00:00": 65.19999694824219,
+      "2024-05-28T16:30:00+00:00": 65.21499633789062,
+      "2024-05-28T17:30:00+00:00": 65.08999633789062,
+      "2024-05-28T18:30:00+00:00": 64.76000213623047,
+      "2024-05-28T19:30:00+00:00": 64.73249816894531
+    },
+    "sentiment": 0.9480885863304138
   }
 ]

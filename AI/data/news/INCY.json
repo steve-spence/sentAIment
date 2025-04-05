@@ -1,401 +1,274 @@
 [
   {
-    "title": "The past three years for Incyte (NASDAQ:INCY) investors has not been profitable",
-    "published": 1713186886,
-    "posting_price": 53.90999985,
-    "close_price": 53.43000031,
-    "percent_change": -0.89037199
+    "title": "Incyte First Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
+    "published": 1714833361,
+    "day_prices": {},
+    "sentiment": 0.8663451075553894
   },
   {
-    "title": "Certain\u00a0Biotech Investors Get an Early Look at Results. Is That Fair?",
-    "published": 1713173400,
-    "posting_price": 53.90999985,
-    "close_price": 53.43000031,
-    "percent_change": -0.89037199
+    "title": "Incyte to Present at Upcoming Investor Conference",
+    "published": 1714651200,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 53.02000045776367,
+      "2024-05-02T14:30:00+00:00": 52.720001220703125,
+      "2024-05-02T15:30:00+00:00": 52.95000076293945,
+      "2024-05-02T16:30:00+00:00": 53.150001525878906,
+      "2024-05-02T17:30:00+00:00": 53.290000915527344,
+      "2024-05-02T18:30:00+00:00": 53.040000915527344,
+      "2024-05-02T19:30:00+00:00": 53.060001373291016
+    },
+    "sentiment": 0.9380808472633362
   },
   {
-    "title": "Want Better Returns? Don't Ignore These 2 Medical Stocks Set to Beat Earnings",
-    "published": 1712926811,
-    "posting_price": 54.72000122,
-    "close_price": 53.84999847,
-    "percent_change": -1.58991727
+    "title": "Incyte Corporation (NASDAQ:INCY) Q1 2024 Earnings Call Transcript",
+    "published": 1714576377,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 51.9900016784668,
+      "2024-05-01T14:30:00+00:00": 53.89500045776367,
+      "2024-05-01T15:30:00+00:00": 53.209999084472656,
+      "2024-05-01T16:30:00+00:00": 52.45000076293945,
+      "2024-05-01T17:30:00+00:00": 52.25,
+      "2024-05-01T18:30:00+00:00": 52.45000076293945,
+      "2024-05-01T19:30:00+00:00": 53.279998779296875
+    },
+    "sentiment": 0.9347323775291443
   },
   {
-    "title": "Incyte Corp. stock outperforms competitors despite losses on the day",
-    "published": 1712895660,
-    "posting_price": 54.72000122,
-    "close_price": 53.84999847,
-    "percent_change": -1.58991727
+    "title": "Incyte price target lowered by $8 at TD Cowen, here's why",
+    "published": 1714545420,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 51.9900016784668,
+      "2024-05-01T14:30:00+00:00": 53.89500045776367,
+      "2024-05-01T15:30:00+00:00": 53.209999084472656,
+      "2024-05-01T16:30:00+00:00": 52.45000076293945,
+      "2024-05-01T17:30:00+00:00": 52.25,
+      "2024-05-01T18:30:00+00:00": 52.45000076293945,
+      "2024-05-01T19:30:00+00:00": 53.279998779296875
+    },
+    "sentiment": 0.7964009046554565
   },
   {
-    "title": "Incyte to Report First Quarter Financial Results",
-    "published": 1712836800,
-    "posting_price": 55.34000015,
-    "close_price": 54.91999817,
-    "percent_change": -0.75894828
+    "title": "RBC Capital Reaffirms Their Hold Rating on Incyte (INCY)",
+    "published": 1714541940,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 51.9900016784668,
+      "2024-05-01T14:30:00+00:00": 53.89500045776367,
+      "2024-05-01T15:30:00+00:00": 53.209999084472656,
+      "2024-05-01T16:30:00+00:00": 52.45000076293945,
+      "2024-05-01T17:30:00+00:00": 52.25,
+      "2024-05-01T18:30:00+00:00": 52.45000076293945,
+      "2024-05-01T19:30:00+00:00": 53.279998779296875
+    },
+    "sentiment": 0.8489096760749817
   },
   {
-    "title": "Analysts Offer Insights on Healthcare Companies: Incyte (INCY), BioMarin Pharmaceutical (BMRN) and ACADIA Pharmaceuticals (ACAD)",
-    "published": 1712569260,
-    "posting_price": 54.97000122,
-    "close_price": 55.04999924,
-    "percent_change": 0.14553032
+    "title": "Biotech Alert: Searches spiking for these stocks today",
+    "published": 1715766060,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 57.43000030517578,
+      "2024-05-15T14:30:00+00:00": 57.060001373291016,
+      "2024-05-15T15:30:00+00:00": 56.994998931884766,
+      "2024-05-15T16:30:00+00:00": 57.09000015258789,
+      "2024-05-15T17:30:00+00:00": 57.334999084472656,
+      "2024-05-15T18:30:00+00:00": 57.209999084472656,
+      "2024-05-15T19:30:00+00:00": 57.18000030517578
+    },
+    "sentiment": 0.7777091860771179
   },
   {
-    "title": "Week In Review: ProfoundBio, A Seattle-Suzhou ADC Biotech, Acquired By Genmab For $1.8 Billion",
-    "published": 1712471400,
-    "posting_price": 54.97000122,
-    "close_price": 55.04999924,
-    "percent_change": 0.14553032
+    "title": "Health Care Roundup: Market Talk",
+    "published": 1715635440,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.919344425201416
   },
   {
-    "title": "Biotech Executive Who Bet on Rival\u2019s Stock Committed Insider Trading, Jury Says",
-    "published": 1712408160,
-    "posting_price": 54.97000122,
-    "close_price": 55.04999924,
-    "percent_change": 0.14553032
+    "title": "Incyte Launches $1.67 Billion Share Repurchase 'Dutch Auction' Tender Offer; to Buy Back $328 Million of Baker Entities' Shares",
+    "published": 1715603069,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.8528287410736084
   },
   {
-    "title": "Jury sides with SEC in trial over insider trading charges against former pharma executive",
-    "published": 1712401200,
-    "posting_price": 54.97000122,
-    "close_price": 55.04999924,
-    "percent_change": 0.14553032
+    "title": "Incyte Announces Intention to Buy Back up to $2.0 Billion of its Common Stock",
+    "published": 1715598000,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.8140183687210083
   },
   {
-    "title": "Top buy-rated stocks and sell-rated stocks within Health Care - Citi",
-    "published": 1712225880,
-    "posting_price": 55.54999924,
-    "close_price": 54.99000168,
-    "percent_change": -1.00809643
+    "title": "Unveiling Incyte (INCY)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1715592720,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.8820518851280212
   },
   {
-    "title": "Incyte Corp. stock underperforms Wednesday when compared to competitors",
-    "published": 1712118120,
-    "posting_price": 55.84000015,
-    "close_price": 55.31000137,
-    "percent_change": -0.94913821
+    "title": "Early notable gainers among liquid option names on May 13th",
+    "published": 1715590500,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.8949373960494995
   },
   {
-    "title": "Incyte's (INCY) Q1 Earnings & Revenues Fall Shy of Estimates",
-    "published": 1714492200,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Incyte jumps 6%, intends to buy back $2B stock",
+    "published": 1715584200,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.7418080568313599
   },
   {
-    "title": "Incyte misses quarterly profit on weak sales of lead drug",
-    "published": 1714486208,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Incyte announces intention to repurchase up to $2B common stock",
+    "published": 1715581620,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.86984783411026
   },
   {
-    "title": "Incyte (INCY) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates",
-    "published": 1714483825,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Stock market today: Wall Street barely budges as S&P 500 remains just shy of its record",
+    "published": 1715561700,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 57.11000061035156,
+      "2024-05-13T14:30:00+00:00": 57.25,
+      "2024-05-13T15:30:00+00:00": 57.25,
+      "2024-05-13T16:30:00+00:00": 57.18000030517578,
+      "2024-05-13T17:30:00+00:00": 57.060001373291016,
+      "2024-05-13T18:30:00+00:00": 57.275001525878906,
+      "2024-05-13T19:30:00+00:00": 57.38999938964844
+    },
+    "sentiment": 0.9564318060874939
   },
   {
-    "title": "Incyte Corp (INCY) Q1 2024 Earnings: Misses Revenue Estimates but Shows Strong Growth in ...",
-    "published": 1714480467,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Analysts Offer Insights on Healthcare Companies: Sanofi (OtherSNYNF), Incyte (INCY) and Ventyx Biosciences (VTYX)",
+    "published": 1715322660,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 53.38999938964844,
+      "2024-05-10T14:30:00+00:00": 53.470001220703125,
+      "2024-05-10T15:30:00+00:00": 53.25,
+      "2024-05-10T16:30:00+00:00": 53.165000915527344,
+      "2024-05-10T17:30:00+00:00": 53.084999084472656,
+      "2024-05-10T18:30:00+00:00": 53.0,
+      "2024-05-10T19:30:00+00:00": 53.209999084472656
+    },
+    "sentiment": 0.8984269499778748
   },
   {
-    "title": "Incyte Corporation (INCY) Q1 2024 Earnings Call Transcript",
-    "published": 1714477382,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "9 Analysts Have This To Say About Incyte",
+    "published": 1716447840,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 57.869998931884766,
+      "2024-05-23T14:30:00+00:00": 57.84000015258789,
+      "2024-05-23T15:30:00+00:00": 57.849998474121094,
+      "2024-05-23T16:30:00+00:00": 58.029998779296875,
+      "2024-05-23T17:30:00+00:00": 58.040000915527344,
+      "2024-05-23T18:30:00+00:00": 57.709999084472656,
+      "2024-05-23T19:30:00+00:00": 57.70000076293945
+    },
+    "sentiment": 0.9266036748886108
   },
   {
-    "title": "Analysts Offer Insights on Healthcare Companies: Incyte (INCY) and Exelixis (EXEL)",
-    "published": 1714477260,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Incyte initiated with neutral view at Deutsche Bank, here's why",
+    "published": 1716443700,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 57.869998931884766,
+      "2024-05-23T14:30:00+00:00": 57.84000015258789,
+      "2024-05-23T15:30:00+00:00": 57.849998474121094,
+      "2024-05-23T16:30:00+00:00": 58.029998779296875,
+      "2024-05-23T17:30:00+00:00": 58.040000915527344,
+      "2024-05-23T18:30:00+00:00": 57.709999084472656,
+      "2024-05-23T19:30:00+00:00": 57.70000076293945
+    },
+    "sentiment": 0.92005854845047
   },
   {
-    "title": "Incyte Reports 2024 First Quarter Financial Results and Provides Updates on Key Clinical Programs",
-    "published": 1714474800,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Incyte to Present at Upcoming Investor Conference",
+    "published": 1716292800,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 57.11000061035156,
+      "2024-05-21T14:30:00+00:00": 57.31999969482422,
+      "2024-05-21T15:30:00+00:00": 57.060001373291016,
+      "2024-05-21T16:30:00+00:00": 57.08000183105469,
+      "2024-05-21T17:30:00+00:00": 57.185001373291016,
+      "2024-05-21T18:30:00+00:00": 57.290000915527344,
+      "2024-05-21T19:30:00+00:00": 57.380001068115234
+    },
+    "sentiment": 0.9380808472633362
   },
   {
-    "title": "INCY Stock Earnings: Incyte Misses EPS, Misses Revenue for Q1 2024",
-    "published": 1714474740,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
+    "title": "Largest borrow rate increases among liquid names",
+    "published": 1715931900,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 56.83000183105469,
+      "2024-05-17T14:30:00+00:00": 56.72999954223633,
+      "2024-05-17T15:30:00+00:00": 56.779998779296875,
+      "2024-05-17T16:30:00+00:00": 57.125,
+      "2024-05-17T17:30:00+00:00": 57.130001068115234,
+      "2024-05-17T18:30:00+00:00": 57.150001525878906,
+      "2024-05-17T19:30:00+00:00": 57.209999084472656
+    },
+    "sentiment": 0.7579150199890137
   },
   {
-    "title": "Incyte Corporation 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1714464689,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
-  },
-  {
-    "title": "Incyte: Q1 Earnings Snapshot",
-    "published": 1714461075,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
-  },
-  {
-    "title": "Incyte  sees FY24 Jakafi net product revenue $2.7B-$2.8B",
-    "published": 1714459140,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
-  },
-  {
-    "title": "Incyte reports Q1 EPS 64c, consensus 84c",
-    "published": 1714458960,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
-  },
-  {
-    "title": "Incyte Non-GAAP EPS of $0.64 misses by $0.19, revenue of $880.89M misses by $43.75M",
-    "published": 1714457160,
-    "posting_price": 50.40000153,
-    "close_price": 52.04999924,
-    "percent_change": 3.27380488
-  },
-  {
-    "title": "Incyte Q1 2024 Earnings Preview",
-    "published": 1714387800,
-    "posting_price": 51.75,
-    "close_price": 52.56000137,
-    "percent_change": 1.56522004
-  },
-  {
-    "title": "Notable earnings before Tuesday's open",
-    "published": 1714386060,
-    "posting_price": 51.75,
-    "close_price": 52.56000137,
-    "percent_change": 1.56522004
-  },
-  {
-    "title": "Truist Financial Reaffirms Their Buy Rating on Incyte (INCY)",
-    "published": 1714373580,
-    "posting_price": 51.75,
-    "close_price": 52.56000137,
-    "percent_change": 1.56522004
-  },
-  {
-    "title": "'Shadow Trading' Verdict A Reminder For Companies To Review Insider Trading Policies And Train Insiders",
-    "published": 1714371010,
-    "posting_price": 51.75,
-    "close_price": 52.56000137,
-    "percent_change": 1.56522004
-  },
-  {
-    "title": "Incyte Pharmaceuticals: Cheap Enough Now (Rating Upgrade)",
-    "published": 1714139112,
-    "posting_price": 50.99000168,
-    "close_price": 51.68000031,
-    "percent_change": 1.35320378
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Biogen, Bristol Myers Squibb, Incyte and Vertex Pharmaceuticals",
-    "published": 1714134300,
-    "posting_price": 50.99000168,
-    "close_price": 51.68000031,
-    "percent_change": 1.35320378
-  },
-  {
-    "title": "Repare Therapeutics appoints Steven Stein to its board of directors",
-    "published": 1714101660,
-    "posting_price": 50.99000168,
-    "close_price": 51.68000031,
-    "percent_change": 1.35320378
-  },
-  {
-    "title": "Incyte\u2019s Strategic Acquisition and Promising Pipeline Secure Buy Rating",
-    "published": 1714094220,
-    "posting_price": 50.99000168,
-    "close_price": 51.68000031,
-    "percent_change": 1.35320378
-  },
-  {
-    "title": "Biotech Stock Roundup: BIIB, BMY's Q1 Earnings, INCY's Acquisition & Updates from VRTX",
-    "published": 1714069680,
-    "posting_price": 51.58000183,
-    "close_price": 51.18000031,
-    "percent_change": -0.7754973
-  },
-  {
-    "title": "These Are The Biotechs Showing Up At The Biggest Cancer Meeting Of The Year (Oral Presentations)",
-    "published": 1714067356,
-    "posting_price": 51.58000183,
-    "close_price": 51.18000031,
-    "percent_change": -0.7754973
-  },
-  {
-    "title": "Incyte price target lowered by $10 at Argus, here's why",
-    "published": 1714033680,
-    "posting_price": 51.58000183,
-    "close_price": 51.18000031,
-    "percent_change": -0.7754973
-  },
-  {
-    "title": "Allogene Therapeutics (ALLO) Expected to Beat Earnings Estimates: Should You Buy?",
-    "published": 1713967300,
-    "posting_price": 51.65000153,
-    "close_price": 51.74000168,
-    "percent_change": 0.17425004
-  },
-  {
-    "title": "\"Shadow Trading\" Is Insider Trading: Jury Establishes Liability In Historic Shadow Trading Case",
-    "published": 1713960673,
-    "posting_price": 51.65000153,
-    "close_price": 51.74000168,
-    "percent_change": 0.17425004
-  },
-  {
-    "title": "Incyte price target lowered by $8 at Oppenheimer, here's why",
-    "published": 1713941820,
-    "posting_price": 51.65000153,
-    "close_price": 51.74000168,
-    "percent_change": 0.17425004
-  },
-  {
-    "title": "Oppenheimer Sticks to Its Buy Rating for Incyte (INCY)",
-    "published": 1713941220,
-    "posting_price": 51.65000153,
-    "close_price": 51.74000168,
-    "percent_change": 0.17425004
-  },
-  {
-    "title": "Truist Financial Keeps Their Buy Rating on Incyte (INCY)",
-    "published": 1713939480,
-    "posting_price": 51.65000153,
-    "close_price": 51.74000168,
-    "percent_change": 0.17425004
-  },
-  {
-    "title": "Incyte Acquisition Strategy and Drug Pipeline Evaluation: A Hold Recommendation",
-    "published": 1713933360,
-    "posting_price": 51.65000153,
-    "close_price": 51.74000168,
-    "percent_change": 0.17425004
-  },
-  {
-    "title": "Incyte (INCY) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713880863,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte (INCY) to Report Q1 Earnings: What's in the Cards?",
-    "published": 1713879840,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Peeling Back The Layers: Exploring Incyte Through Analyst Insights",
-    "published": 1713873900,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte Announces Acquisition of Escient Pharmaceuticals and its Pipeline of First-in-Class Oral MRGPR Antagonists",
-    "published": 1713870000,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Roblox upgraded, Qualcomm initiated: Wall Street's top analyst calls",
-    "published": 1713865020,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte to acquire immune-focused drug developer Escient",
-    "published": 1713854280,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte to acquire Escient Pharmaceuticals for $750M",
-    "published": 1713852960,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte initiated with a Neutral at Cantor on 'lukewarm view' of pipeline",
-    "published": 1713852480,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte\u2019s Strategic Acquisition: A Premature and Costly Move Amid Patent Cliff Concerns",
-    "published": 1713852360,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte initiated with neutral view at Cantor Fitzgerald",
-    "published": 1713849180,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte (INCY) Gets a Buy from Piper Sandler",
-    "published": 1713839160,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Piper likes Incyte's Escient acquisition, looking for more deals",
-    "published": 1713838380,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Incyte Should Consider Significant Stock Buyback And Prioritize R&D, Analyst Recommends",
-    "published": 1713837960,
-    "posting_price": 52.0,
-    "close_price": 51.65000153,
-    "percent_change": -0.67307398
-  },
-  {
-    "title": "Top high growth investment ratio stocks from each sector - GS",
-    "published": 1713756360,
-    "posting_price": 52.43000031,
-    "close_price": 51.91999817,
-    "percent_change": -0.97272961
-  },
-  {
-    "title": "Goldman picks top capex and R&D stocks",
-    "published": 1713663840,
-    "posting_price": 52.43000031,
-    "close_price": 51.91999817,
-    "percent_change": -0.97272961
-  },
-  {
-    "title": "Top 10 most oversold S&P 500 stocks",
-    "published": 1713524580,
-    "posting_price": 52.97000122,
-    "close_price": 52.34999847,
-    "percent_change": -1.17047902
+    "title": "Incyte\u2019s Share Buyback Program: A Buy Rating and Fundamental Value Increase",
+    "published": 1715828880,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 56.86000061035156,
+      "2024-05-16T14:30:00+00:00": 56.939998626708984,
+      "2024-05-16T15:30:00+00:00": 56.66999816894531,
+      "2024-05-16T16:30:00+00:00": 56.5,
+      "2024-05-16T17:30:00+00:00": 56.81999969482422,
+      "2024-05-16T18:30:00+00:00": 56.869998931884766,
+      "2024-05-16T19:30:00+00:00": 56.790000915527344
+    },
+    "sentiment": 0.8877170085906982
   }
 ]

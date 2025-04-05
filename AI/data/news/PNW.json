@@ -1,177 +1,190 @@
 [
   {
-    "title": "With 89% ownership, Pinnacle West Capital Corporation (NYSE:PNW) boasts of strong institutional backing",
-    "published": 1713204860,
-    "posting_price": 69.49790039,
-    "close_price": 69.07640839,
-    "percent_change": -0.60648163
+    "title": "NRG Energy (NRG) Q1 Earnings Beat Estimates, Sales Decline Y/Y",
+    "published": 1715085000,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 76.48999786376953,
+      "2024-05-07T14:30:00+00:00": 76.22000122070312,
+      "2024-05-07T15:30:00+00:00": 76.11000061035156,
+      "2024-05-07T16:30:00+00:00": 76.12999725341797,
+      "2024-05-07T17:30:00+00:00": 76.31999969482422,
+      "2024-05-07T18:30:00+00:00": 76.52999877929688,
+      "2024-05-07T19:30:00+00:00": 76.38999938964844
+    },
+    "sentiment": 0.9618052840232849
   },
   {
-    "title": "Pinnacle West price target raised by $1 at Barclays, here's why",
-    "published": 1713157020,
-    "posting_price": 69.49790039,
-    "close_price": 69.07640839,
-    "percent_change": -0.60648163
+    "title": "Pinnacle West Capital\u2019s Upcoming Investor Meetings in May 2024",
+    "published": 1715051700,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 76.48999786376953,
+      "2024-05-07T14:30:00+00:00": 76.22000122070312,
+      "2024-05-07T15:30:00+00:00": 76.11000061035156,
+      "2024-05-07T16:30:00+00:00": 76.12999725341797,
+      "2024-05-07T17:30:00+00:00": 76.31999969482422,
+      "2024-05-07T18:30:00+00:00": 76.52999877929688,
+      "2024-05-07T19:30:00+00:00": 76.38999938964844
+    },
+    "sentiment": 0.9488881826400757
   },
   {
-    "title": "Barclays Keeps Their Buy Rating on Pinnacle West Capital (PNW)",
-    "published": 1713082560,
-    "posting_price": 69.49790039,
-    "close_price": 69.07640839,
-    "percent_change": -0.60648163
+    "title": "Pinnacle West Capital Corporation (NYSE:PNW) Q1 2024 Earnings Call Transcript",
+    "published": 1714828031,
+    "day_prices": {},
+    "sentiment": 0.936086893081665
   },
   {
-    "title": "Wells Fargo Sticks to Their Hold Rating for Pinnacle West Capital (PNW)",
-    "published": 1712894820,
-    "posting_price": 69.4021,
-    "close_price": 69.20093536,
-    "percent_change": -0.28985382
+    "title": "Taiwan Semiconductor\u2019s $65B Arizona investment, data centers key drivers of APS sales growth: CFO",
+    "published": 1714726560,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.72000122070312,
+      "2024-05-03T14:30:00+00:00": 75.52999877929688,
+      "2024-05-03T15:30:00+00:00": 75.43000030517578,
+      "2024-05-03T16:30:00+00:00": 75.55999755859375,
+      "2024-05-03T17:30:00+00:00": 75.44999694824219,
+      "2024-05-03T18:30:00+00:00": 75.63400268554688,
+      "2024-05-03T19:30:00+00:00": 75.73999786376953
+    },
+    "sentiment": 0.6984884738922119
   },
   {
-    "title": "PNW vs. NEE: Which Stock Is the Better Value Option?",
-    "published": 1712850010,
-    "posting_price": 69.61284281,
-    "close_price": 69.17219543,
-    "percent_change": -0.63299725
+    "title": "Pinnacle West Capital (PNW) Receives a Hold from KeyBanc",
+    "published": 1714706220,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.72000122070312,
+      "2024-05-03T14:30:00+00:00": 75.52999877929688,
+      "2024-05-03T15:30:00+00:00": 75.43000030517578,
+      "2024-05-03T16:30:00+00:00": 75.55999755859375,
+      "2024-05-03T17:30:00+00:00": 75.44999694824219,
+      "2024-05-03T18:30:00+00:00": 75.63400268554688,
+      "2024-05-03T19:30:00+00:00": 75.73999786376953
+    },
+    "sentiment": 0.8297981023788452
   },
   {
-    "title": "Cheat Sheet: Those Other AI Beneficiaries",
-    "published": 1712836980,
-    "posting_price": 69.61284281,
-    "close_price": 69.17219543,
-    "percent_change": -0.63299725
+    "title": "Pinnacle West Capital Corp (PNW) Reports Q1 2024 Earnings, Exceeds Revenue Expectations",
+    "published": 1714655555,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.0,
+      "2024-05-02T14:30:00+00:00": 76.02999877929688,
+      "2024-05-02T15:30:00+00:00": 75.08000183105469,
+      "2024-05-02T16:30:00+00:00": 75.05999755859375,
+      "2024-05-02T17:30:00+00:00": 75.37000274658203,
+      "2024-05-02T18:30:00+00:00": 75.62000274658203,
+      "2024-05-02T19:30:00+00:00": 75.63999938964844
+    },
+    "sentiment": 0.5838924646377563
   },
   {
-    "title": "Electrical Utilities: AI Power Play",
-    "published": 1712833620,
-    "posting_price": 69.61284281,
-    "close_price": 69.17219543,
-    "percent_change": -0.63299725
+    "title": "Pinnacle West Reports 2024 First-quarter Financial Results",
+    "published": 1714651800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.0,
+      "2024-05-02T14:30:00+00:00": 76.02999877929688,
+      "2024-05-02T15:30:00+00:00": 75.08000183105469,
+      "2024-05-02T16:30:00+00:00": 75.05999755859375,
+      "2024-05-02T17:30:00+00:00": 75.37000274658203,
+      "2024-05-02T18:30:00+00:00": 75.62000274658203,
+      "2024-05-02T19:30:00+00:00": 75.63999938964844
+    },
+    "sentiment": 0.8144420385360718
   },
   {
-    "title": "Pinnacle West Capital Corp\u2019s April 2024 Investor Engagement Series",
-    "published": 1712546700,
-    "posting_price": 69.80442834,
-    "close_price": 70.96352386,
-    "percent_change": 1.66048995
+    "title": "Pinnacle West: Q1 Earnings Snapshot",
+    "published": 1714638078,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.0,
+      "2024-05-02T14:30:00+00:00": 76.02999877929688,
+      "2024-05-02T15:30:00+00:00": 75.08000183105469,
+      "2024-05-02T16:30:00+00:00": 75.05999755859375,
+      "2024-05-02T17:30:00+00:00": 75.37000274658203,
+      "2024-05-02T18:30:00+00:00": 75.62000274658203,
+      "2024-05-02T19:30:00+00:00": 75.63999938964844
+    },
+    "sentiment": 0.5162766575813293
   },
   {
-    "title": "Pinnacle West Sets Date for 2024 First-Quarter Financial Results, Webcast/Conference Call",
-    "published": 1712089800,
-    "posting_price": 70.9539458,
-    "close_price": 70.92520905,
-    "percent_change": -0.04050057
+    "title": "Pinnacle West Capital GAAP EPS of $0.15, revenue of $951.71M misses by $30.84M",
+    "published": 1714634400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.0,
+      "2024-05-02T14:30:00+00:00": 76.02999877929688,
+      "2024-05-02T15:30:00+00:00": 75.08000183105469,
+      "2024-05-02T16:30:00+00:00": 75.05999755859375,
+      "2024-05-02T17:30:00+00:00": 75.37000274658203,
+      "2024-05-02T18:30:00+00:00": 75.62000274658203,
+      "2024-05-02T19:30:00+00:00": 75.63999938964844
+    },
+    "sentiment": 0.8198196887969971
   },
   {
-    "title": "What's in Store for Pinnacle West Capital (PNW) in Q1 Earnings?",
-    "published": 1714480380,
-    "posting_price": 71.62290065,
-    "close_price": 71.39026642,
-    "percent_change": -0.32480426
+    "title": "Pinnacle West Capital : 1st Quarter 2024 Earnings",
+    "published": 1714628343,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.0,
+      "2024-05-02T14:30:00+00:00": 76.02999877929688,
+      "2024-05-02T15:30:00+00:00": 75.08000183105469,
+      "2024-05-02T16:30:00+00:00": 75.05999755859375,
+      "2024-05-02T17:30:00+00:00": 75.37000274658203,
+      "2024-05-02T18:30:00+00:00": 75.62000274658203,
+      "2024-05-02T19:30:00+00:00": 75.63999938964844
+    },
+    "sentiment": 0.9448556303977966
   },
   {
-    "title": "Citigroup Initiates Coverage of Pinnacle West Capital (PNW) with Neutral Recommendation",
-    "published": 1714452351,
-    "posting_price": 71.62290065,
-    "close_price": 71.39026642,
-    "percent_change": -0.32480426
+    "title": "Why Pinnacle West (PNW) is a Top Momentum Stock for the Long-Term",
+    "published": 1715608211,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 77.37000274658203,
+      "2024-05-13T14:30:00+00:00": 77.19000244140625,
+      "2024-05-13T15:30:00+00:00": 76.93000030517578,
+      "2024-05-13T16:30:00+00:00": 76.7249984741211,
+      "2024-05-13T17:30:00+00:00": 76.69999694824219,
+      "2024-05-13T18:30:00+00:00": 76.83999633789062,
+      "2024-05-13T19:30:00+00:00": 76.8499984741211
+    },
+    "sentiment": 0.7237256169319153
   },
   {
-    "title": "PNW or OGE: Which Is the Better Value Stock Right Now?",
-    "published": 1714405216,
-    "posting_price": 70.87731153,
-    "close_price": 71.75861359,
-    "percent_change": 1.24341914
+    "title": "Analysts Offer Insights on Utilities Companies: Ormat Techno (ORA) and Pinnacle West Capital (PNW)",
+    "published": 1715568720,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 77.37000274658203,
+      "2024-05-13T14:30:00+00:00": 77.19000244140625,
+      "2024-05-13T15:30:00+00:00": 76.93000030517578,
+      "2024-05-13T16:30:00+00:00": 76.7249984741211,
+      "2024-05-13T17:30:00+00:00": 76.69999694824219,
+      "2024-05-13T18:30:00+00:00": 76.83999633789062,
+      "2024-05-13T19:30:00+00:00": 76.8499984741211
+    },
+    "sentiment": 0.9227257966995239
   },
   {
-    "title": "Pinnacle West initiated with neutral view at Citi, here's why",
-    "published": 1714362900,
-    "posting_price": 70.87731153,
-    "close_price": 71.75861359,
-    "percent_change": 1.24341914
+    "title": "Why Pinnacle West (PNW) is a Top Growth Stock for the Long-Term",
+    "published": 1716471909,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 77.4000015258789,
+      "2024-05-23T14:30:00+00:00": 76.99500274658203,
+      "2024-05-23T15:30:00+00:00": 76.73999786376953,
+      "2024-05-23T16:30:00+00:00": 76.94999694824219,
+      "2024-05-23T17:30:00+00:00": 76.875,
+      "2024-05-23T18:30:00+00:00": 76.73999786376953,
+      "2024-05-23T19:30:00+00:00": 76.73500061035156
+    },
+    "sentiment": 0.8273656368255615
   },
   {
-    "title": "Hold Rating on Pinnacle West Capital Amid Regulatory and Financial Headwinds",
-    "published": 1714361880,
-    "posting_price": 70.87731153,
-    "close_price": 71.75861359,
-    "percent_change": 1.24341914
-  },
-  {
-    "title": "Ex-Dividend Reminder: Pinnacle West Capital Corp, NRG Energy and AES Corp",
-    "published": 1714123140,
-    "posting_price": 71.03058267,
-    "close_price": 70.5899353,
-    "percent_change": -0.62036288
-  },
-  {
-    "title": "Pinnacle West (PNW) Earnings Expected to Grow: Should You Buy?",
-    "published": 1714053710,
-    "posting_price": 71.21259335,
-    "close_price": 71.07848358,
-    "percent_change": -0.18832311
-  },
-  {
-    "title": "AVANGRID (AGR) Q1 Earnings Top Estimates, Sales Decline Y/Y",
-    "published": 1713954780,
-    "posting_price": 70.54203548,
-    "close_price": 71.4041748,
-    "percent_change": 1.22216394
-  },
-  {
-    "title": "Avangrid (AGR) Surpasses Q1 Earnings Estimates",
-    "published": 1713910206,
-    "posting_price": 71.41375946,
-    "close_price": 71.36585999,
-    "percent_change": -0.06707317
-  },
-  {
-    "title": "Pinnacle West Capital : April Investor Meetings",
-    "published": 1713868991,
-    "posting_price": 71.41375946,
-    "close_price": 71.36585999,
-    "percent_change": -0.06707317
-  },
-  {
-    "title": "RBC Capital Keeps Their Hold Rating on Pinnacle West Capital (PNW)",
-    "published": 1713775800,
-    "posting_price": 71.00183972,
-    "close_price": 71.55743408,
-    "percent_change": 0.78250699
-  },
-  {
-    "title": "PNW Makes Bullish Cross Above Critical Moving Average",
-    "published": 1713495360,
-    "posting_price": 69.95770474,
-    "close_price": 71.27007294,
-    "percent_change": 1.87594519
-  },
-  {
-    "title": "Reasons to Add Pinnacle West Capital (PNW) to Your Portfolio Now",
-    "published": 1713443160,
-    "posting_price": 69.21051132,
-    "close_price": 69.90022278,
-    "percent_change": 0.99654149
-  },
-  {
-    "title": "June 21st Options Now Available For Pinnacle West Capital (PNW)",
-    "published": 1713433260,
-    "posting_price": 69.21051132,
-    "close_price": 69.90022278,
-    "percent_change": 0.99654149
-  },
-  {
-    "title": "Pinnacle West Declares Quarterly Dividend",
-    "published": 1713387660,
-    "posting_price": 68.76987101,
-    "close_price": 68.94229889,
-    "percent_change": 0.25073172
-  },
-  {
-    "title": "Pinnacle West Capital declares $0.88 dividend",
-    "published": 1713326880,
-    "posting_price": 68.76987101,
-    "close_price": 68.94229889,
-    "percent_change": 0.25073172
+    "title": "Reasons to Buy Pinnacle West Capital (PNW) Stock Right Away",
+    "published": 1716291960,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 78.08999633789062,
+      "2024-05-21T14:30:00+00:00": 78.7300033569336,
+      "2024-05-21T15:30:00+00:00": 78.06999969482422,
+      "2024-05-21T16:30:00+00:00": 78.16000366210938,
+      "2024-05-21T17:30:00+00:00": 78.37000274658203,
+      "2024-05-21T18:30:00+00:00": 78.36000061035156,
+      "2024-05-21T19:30:00+00:00": 78.43000030517578
+    },
+    "sentiment": 0.9216151833534241
   }
 ]

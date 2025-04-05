@@ -1,527 +1,1194 @@
 [
   {
-    "title": "3 Solar Stocks to Buy Now: Q2 Edition",
-    "published": 1713214800,
-    "posting_price": 181.38000488,
-    "close_price": 175.96000671,
-    "percent_change": -2.98820048
+    "title": "Notable Tuesday Option Activity: FSLR, TRIP, OSCR",
+    "published": 1715049000,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 194.1999969482422,
+      "2024-05-07T14:30:00+00:00": 195.84979248046875,
+      "2024-05-07T15:30:00+00:00": 196.82000732421875,
+      "2024-05-07T16:30:00+00:00": 197.23500061035156,
+      "2024-05-07T17:30:00+00:00": 196.23500061035156,
+      "2024-05-07T18:30:00+00:00": 195.74000549316406,
+      "2024-05-07T19:30:00+00:00": 195.6300048828125
+    },
+    "sentiment": 0.9344489574432373
   },
   {
-    "title": "First Solar put volume heavy and directionally bearish",
-    "published": 1713184560,
-    "posting_price": 181.38000488,
-    "close_price": 175.96000671,
-    "percent_change": -2.98820048
+    "title": "$100 Invested In First Solar 5 Years Ago Would Be Worth This Much Today",
+    "published": 1714991580,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 192.5399932861328,
+      "2024-05-06T14:30:00+00:00": 196.00259399414062,
+      "2024-05-06T15:30:00+00:00": 194.64999389648438,
+      "2024-05-06T16:30:00+00:00": 195.3300018310547,
+      "2024-05-06T17:30:00+00:00": 194.60000610351562,
+      "2024-05-06T18:30:00+00:00": 194.65469360351562,
+      "2024-05-06T19:30:00+00:00": 193.74000549316406
+    },
+    "sentiment": 0.903747022151947
   },
   {
-    "title": "Analysts Conflicted on These Technology Names: First Solar (FSLR), Toast Inc (TOST) and Marvell (MRVL)",
-    "published": 1713059460,
-    "posting_price": 181.38000488,
-    "close_price": 175.96000671,
-    "percent_change": -2.98820048
+    "title": "3 Best Renewable Energy Stocks to Buy in May 2024, According to Analysts",
+    "published": 1714973280,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 192.5399932861328,
+      "2024-05-06T14:30:00+00:00": 196.00259399414062,
+      "2024-05-06T15:30:00+00:00": 194.64999389648438,
+      "2024-05-06T16:30:00+00:00": 195.3300018310547,
+      "2024-05-06T17:30:00+00:00": 194.60000610351562,
+      "2024-05-06T18:30:00+00:00": 194.65469360351562,
+      "2024-05-06T19:30:00+00:00": 193.74000549316406
+    },
+    "sentiment": 0.8056962490081787
   },
   {
-    "title": "3 Renewable Energy Stocks to Ride the Mega Trend Higher",
-    "published": 1712918400,
-    "posting_price": 185.66000366,
-    "close_price": 182.47999573,
-    "percent_change": -1.7128126
+    "title": "3 Renewable Energy Stocks That Will Make Other Investors Green With Envy",
+    "published": 1714732560,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 185.0,
+      "2024-05-03T14:30:00+00:00": 190.64999389648438,
+      "2024-05-03T15:30:00+00:00": 189.13999938964844,
+      "2024-05-03T16:30:00+00:00": 187.92999267578125,
+      "2024-05-03T17:30:00+00:00": 187.8699951171875,
+      "2024-05-03T18:30:00+00:00": 188.63999938964844,
+      "2024-05-03T19:30:00+00:00": 190.8699951171875
+    },
+    "sentiment": 0.741592288017273
   },
   {
-    "title": "Janney starts First Solar at Buy with $236 fair value estimate",
-    "published": 1712906460,
-    "posting_price": 185.66000366,
-    "close_price": 182.47999573,
-    "percent_change": -1.7128126
+    "title": "Unveiling First Solar (FSLR)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1714728720,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 185.0,
+      "2024-05-03T14:30:00+00:00": 190.64999389648438,
+      "2024-05-03T15:30:00+00:00": 189.13999938964844,
+      "2024-05-03T16:30:00+00:00": 187.92999267578125,
+      "2024-05-03T17:30:00+00:00": 187.8699951171875,
+      "2024-05-03T18:30:00+00:00": 188.63999938964844,
+      "2024-05-03T19:30:00+00:00": 190.8699951171875
+    },
+    "sentiment": 0.8132442831993103
   },
   {
-    "title": "First Solar initiated with bullish view at Janney Montgomery Scott",
-    "published": 1712899200,
-    "posting_price": 185.66000366,
-    "close_price": 182.47999573,
-    "percent_change": -1.7128126
+    "title": "First Solar (FSLR) Q1 Earnings Beat Estimates, Sales Rise Y/Y",
+    "published": 1714658340,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.9458146691322327
   },
   {
-    "title": "First Solar: In The Early Stages Of Potentially Massive EPS Growth",
-    "published": 1712894462,
-    "posting_price": 185.66000366,
-    "close_price": 182.47999573,
-    "percent_change": -1.7128126
+    "title": "QUALCOMM To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Thursday",
+    "published": 1714635840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.92523193359375
   },
   {
-    "title": "Noteworthy Friday Option Activity: FSLR, ZS, FDX",
-    "published": 1712888460,
-    "posting_price": 185.66000366,
-    "close_price": 182.47999573,
-    "percent_change": -1.7128126
+    "title": "First Solar (FSLR) Receives a Rating Update from a Top Analyst",
+    "published": 1714634400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.8506052494049072
   },
   {
-    "title": "First Solar: Still My Top Risk-Adjusted Pick In Green Energy",
-    "published": 1712844484,
-    "posting_price": 188.0,
-    "close_price": 184.44000244,
-    "percent_change": -1.89361572
+    "title": "First Solar price target raised by $5 at Evercore ISI, here's why",
+    "published": 1714632960,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.7973175048828125
   },
   {
-    "title": "Piper Sandler Remains a Buy on First Solar (FSLR)",
-    "published": 1712816760,
-    "posting_price": 188.0,
-    "close_price": 184.44000244,
-    "percent_change": -1.89361572
+    "title": "First Solar price target raised by $3 at Morgan Stanley, here's why",
+    "published": 1714628460,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.8037933707237244
   },
   {
-    "title": "Analysts Offer Insights on Technology Companies: First Solar (FSLR), Chanjet Information Technology Co., Ltd. Class H (HK:1588) and Spectris (GB:SXS)",
-    "published": 1712808540,
-    "posting_price": 188.0,
-    "close_price": 184.44000244,
-    "percent_change": -1.89361572
+    "title": "RBC Capital Reaffirms Their Buy Rating on First Solar (FSLR)",
+    "published": 1714628160,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.7879874110221863
   },
   {
-    "title": "Why the Market Dipped But First Solar (FSLR) Gained Today",
-    "published": 1712785820,
-    "posting_price": 179.13000488,
-    "close_price": 185.28999329,
-    "percent_change": 3.43883673
+    "title": "First Solar price target raised by $1.50 at Jefferies, here's why",
+    "published": 1714627560,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.7796728610992432
   },
   {
-    "title": "Julien Dumoulin Smith Reaffirms Buy Rating for First Solar (FSLR) with Increased Price Target Amid Positive Revenue and EPS Forecasts",
-    "published": 1712741760,
-    "posting_price": 179.13000488,
-    "close_price": 185.28999329,
-    "percent_change": 3.43883673
+    "title": "First Solar price target raised by $3 at Goldman Sachs, here's why",
+    "published": 1714623960,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.8202224969863892
   },
   {
-    "title": "First Solar price target raised by $7 at BofA, here's why",
-    "published": 1712741640,
-    "posting_price": 179.13000488,
-    "close_price": 185.28999329,
-    "percent_change": 3.43883673
+    "title": "First Solar\u2019s Hold Rating: Balancing Earnings Growth and Market Saturation Risks Amid Geopolitical Concerns",
+    "published": 1714623240,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.8226913213729858
   },
   {
-    "title": "Maintaining Hold on First Solar Amid Q1 Revenue Adjustment and Solid Financial Health",
-    "published": 1712721360,
-    "posting_price": 179.13000488,
-    "close_price": 185.28999329,
-    "percent_change": 3.43883673
+    "title": "Analysts\u2019 Top Technology Picks: First Solar (FSLR), Qualcomm (QCOM)",
+    "published": 1714623060,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.4962705373764038
   },
   {
-    "title": "Wall Street Favorites: 3 Solar Stocks With Strong Buy Ratings for April 2024",
-    "published": 1712610364,
-    "posting_price": 176.52000427,
-    "close_price": 179.22000122,
-    "percent_change": 1.52956996
+    "title": "James West Reaffirms Buy Rating for First Solar Citing Strategic Growth and Strong Financial Performance",
+    "published": 1714622940,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.9369826316833496
   },
   {
-    "title": "Is Trending Stock First Solar, Inc. (FSLR) a Buy Now?",
-    "published": 1712581211,
-    "posting_price": 176.52000427,
-    "close_price": 179.22000122,
-    "percent_change": 1.52956996
+    "title": "Buy Rating Affirmed for First Solar Amid Strong Financial Performance and Strategic Market Positioning",
+    "published": 1714622820,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.9502336978912354
   },
   {
-    "title": "Looking At First Solar's Recent Unusual Options Activity",
-    "published": 1712544480,
-    "posting_price": 176.52000427,
-    "close_price": 179.22000122,
-    "percent_change": 1.52956996
+    "title": "Hold Rating on First Solar Amidst Higher ASPs and Strategic Cautiousness",
+    "published": 1714622820,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.5297093391418457
   },
   {
-    "title": "First Solar, Inc. (NASDAQ:FSLR) Shares Could Be 46% Below Their Intrinsic Value Estimate",
-    "published": 1712408228,
-    "posting_price": 176.52000427,
-    "close_price": 179.22000122,
-    "percent_change": 1.52956996
+    "title": "First Solar (FSLR) Q1 2024 Earnings Call Transcript",
+    "published": 1714615222,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 177.5,
+      "2024-05-02T14:30:00+00:00": 176.9149932861328,
+      "2024-05-02T15:30:00+00:00": 176.5124969482422,
+      "2024-05-02T16:30:00+00:00": 174.39999389648438,
+      "2024-05-02T17:30:00+00:00": 177.5,
+      "2024-05-02T18:30:00+00:00": 177.21499633789062,
+      "2024-05-02T19:30:00+00:00": 179.0399932861328
+    },
+    "sentiment": 0.9166683554649353
   },
   {
-    "title": "2 Stocks You Should Have on Your Radar Right Now",
-    "published": 1712394000,
-    "posting_price": 176.52000427,
-    "close_price": 179.22000122,
-    "percent_change": 1.52956996
+    "title": "First Solar Inc (FSLR) Surpasses Analyst Earnings and Revenue Estimates in Q1 2024",
+    "published": 1714599136,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.9485995173454285
   },
   {
-    "title": "First Solar Inc's Chief Technology Officer Markus Gloeckler Sells Company Shares",
-    "published": 1712381535,
-    "posting_price": 176.52000427,
-    "close_price": 179.22000122,
-    "percent_change": 1.52956996
+    "title": "First Solar, Inc. (FSLR) Q1 2024 Earnings Call Transcript",
+    "published": 1714595224,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.88636314868927
   },
   {
-    "title": "Will First Solar (FSLR) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1712333413,
-    "posting_price": 167.3500061,
-    "close_price": 174.6000061,
-    "percent_change": 4.33223767
+    "title": "MN8 Energy Sources 457 MW of American Solar Modules from First Solar",
+    "published": 1714564800,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.9060903191566467
   },
   {
-    "title": "Why First Solar (FSLR) is a Top Value Stock for the Long-Term",
-    "published": 1712324412,
-    "posting_price": 167.3500061,
-    "close_price": 174.6000061,
-    "percent_change": 4.33223767
+    "title": "First Solar Shines with Strong Quarterly Performance and Growth Prospects: Analyst Issues Buy Rating",
+    "published": 1714560360,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.8980973362922668
   },
   {
-    "title": "Noteworthy Friday Option Activity: FSLR, RTX, DVN",
-    "published": 1712319780,
-    "posting_price": 167.3500061,
-    "close_price": 174.6000061,
-    "percent_change": 4.33223767
+    "title": "FSLR Stock Earnings: First Solar Beats EPS, Beats Revenue for Q1 2024",
+    "published": 1714550460,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.7280294299125671
   },
   {
-    "title": "First Solar Inc's Chief Commercial Officer Georges Antoun Sells 2,400 Shares",
-    "published": 1712316780,
-    "posting_price": 167.3500061,
-    "close_price": 174.6000061,
-    "percent_change": 4.33223767
+    "title": "First Solar beats top-line and bottom-line estimates; updates FY24 capex outlook",
+    "published": 1714532940,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.8757915496826172
   },
   {
-    "title": "5 Best Solar Stocks to Buy in April 2024, According to Analysts",
-    "published": 1712302620,
-    "posting_price": 167.3500061,
-    "close_price": 174.6000061,
-    "percent_change": 4.33223767
+    "title": "First Solar reports Q1 EPS $2.20, consensus $1.99",
+    "published": 1714532640,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 176.61000061035156,
+      "2024-05-01T14:30:00+00:00": 176.13999938964844,
+      "2024-05-01T15:30:00+00:00": 175.9199981689453,
+      "2024-05-01T16:30:00+00:00": 176.72000122070312,
+      "2024-05-01T17:30:00+00:00": 176.4199981689453,
+      "2024-05-01T18:30:00+00:00": 178.72999572753906,
+      "2024-05-01T19:30:00+00:00": 180.22000122070312
+    },
+    "sentiment": 0.7945111989974976
   },
   {
-    "title": "First Solar, Inc. to Announce First Quarter 2024 Financial Results on May 1, 2024",
-    "published": 1712266500,
-    "posting_price": 170.1000061,
-    "close_price": 171.46000671,
-    "percent_change": 0.79953002
+    "title": "Burry's Scion Asset adds Cigna, BP, exits Oracle, CVS, among Q1 buys, sells",
+    "published": 1715776620,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 192.22999572753906,
+      "2024-05-15T14:30:00+00:00": 188.02499389648438,
+      "2024-05-15T15:30:00+00:00": 190.2899932861328,
+      "2024-05-15T16:30:00+00:00": 191.75,
+      "2024-05-15T17:30:00+00:00": 193.63999938964844,
+      "2024-05-15T18:30:00+00:00": 191.77999877929688,
+      "2024-05-15T19:30:00+00:00": 191.77999877929688
+    },
+    "sentiment": 0.7993935346603394
   },
   {
-    "title": "The 3 Most Undervalued Renewable Energy Stocks to Buy in April 2024",
-    "published": 1712252932,
-    "posting_price": 170.1000061,
-    "close_price": 171.46000671,
-    "percent_change": 0.79953002
+    "title": "U.S. initiates investigations of solar imports from four Asian nations",
+    "published": 1715773920,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 192.22999572753906,
+      "2024-05-15T14:30:00+00:00": 188.02499389648438,
+      "2024-05-15T15:30:00+00:00": 190.2899932861328,
+      "2024-05-15T16:30:00+00:00": 191.75,
+      "2024-05-15T17:30:00+00:00": 193.63999938964844,
+      "2024-05-15T18:30:00+00:00": 191.77999877929688,
+      "2024-05-15T19:30:00+00:00": 191.77999877929688
+    },
+    "sentiment": 0.7998494505882263
   },
   {
-    "title": "How First Solar Crushed Its Solar Energy Rivals",
-    "published": 1712236500,
-    "posting_price": 170.1000061,
-    "close_price": 171.46000671,
-    "percent_change": 0.79953002
+    "title": "Analysts Offer Insights on Technology Companies: First Solar (FSLR), DLocal (DLO) and Datadog (DDOG)",
+    "published": 1715747460,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 192.22999572753906,
+      "2024-05-15T14:30:00+00:00": 188.02499389648438,
+      "2024-05-15T15:30:00+00:00": 190.2899932861328,
+      "2024-05-15T16:30:00+00:00": 191.75,
+      "2024-05-15T17:30:00+00:00": 193.63999938964844,
+      "2024-05-15T18:30:00+00:00": 191.77999877929688,
+      "2024-05-15T19:30:00+00:00": 191.77999877929688
+    },
+    "sentiment": 0.9117865562438965
   },
   {
-    "title": "California Supreme Court Clarifies The Scope Of \"Hours Worked\" Under California Law",
-    "published": 1712225411,
-    "posting_price": 170.1000061,
-    "close_price": 171.46000671,
-    "percent_change": 0.79953002
+    "title": "First Solar (NASDAQ:FSLR) Gets a Boost amid Asian Solar Probes",
+    "published": 1715740080,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 192.22999572753906,
+      "2024-05-15T14:30:00+00:00": 188.02499389648438,
+      "2024-05-15T15:30:00+00:00": 190.2899932861328,
+      "2024-05-15T16:30:00+00:00": 191.75,
+      "2024-05-15T17:30:00+00:00": 193.63999938964844,
+      "2024-05-15T18:30:00+00:00": 191.77999877929688,
+      "2024-05-15T19:30:00+00:00": 191.77999877929688
+    },
+    "sentiment": 0.9487046599388123
   },
   {
-    "title": "First Solar (FSLR) Stock Sinks As Market Gains: What You Should Know",
-    "published": 1712181620,
-    "posting_price": 166.22999573,
-    "close_price": 166.72999573,
-    "percent_change": 0.30078807
+    "title": "First Solar (NASDAQ:FSLR) Makes Upward Play on Solar Probes",
+    "published": 1715738460,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 192.22999572753906,
+      "2024-05-15T14:30:00+00:00": 188.02499389648438,
+      "2024-05-15T15:30:00+00:00": 190.2899932861328,
+      "2024-05-15T16:30:00+00:00": 191.75,
+      "2024-05-15T17:30:00+00:00": 193.63999938964844,
+      "2024-05-15T18:30:00+00:00": 191.77999877929688,
+      "2024-05-15T19:30:00+00:00": 191.77999877929688
+    },
+    "sentiment": 0.8368797302246094
   },
   {
-    "title": "The 3 Best Solar Stocks to Buy in April 2024",
-    "published": 1712156220,
-    "posting_price": 166.22999573,
-    "close_price": 166.72999573,
-    "percent_change": 0.30078807
+    "title": "First Solar: The Market Finally Realized Its Pessimistic Folly",
+    "published": 1715706631,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 194.5,
+      "2024-05-14T14:30:00+00:00": 186.59530639648438,
+      "2024-05-14T15:30:00+00:00": 186.8699951171875,
+      "2024-05-14T16:30:00+00:00": 184.50999450683594,
+      "2024-05-14T17:30:00+00:00": 184.44000244140625,
+      "2024-05-14T18:30:00+00:00": 184.8699951171875,
+      "2024-05-14T19:30:00+00:00": 186.0399932861328
+    },
+    "sentiment": 0.6294890642166138
   },
   {
-    "title": "First Solar Remains A Viable Solar Investment, Despite The Silicon Headwinds",
-    "published": 1712154377,
-    "posting_price": 166.22999573,
-    "close_price": 166.72999573,
-    "percent_change": 0.30078807
+    "title": "Morgan Stanley Predicts Double-Digit Surges for These 3 Stocks",
+    "published": 1715682000,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 194.5,
+      "2024-05-14T14:30:00+00:00": 186.59530639648438,
+      "2024-05-14T15:30:00+00:00": 186.8699951171875,
+      "2024-05-14T16:30:00+00:00": 184.50999450683594,
+      "2024-05-14T17:30:00+00:00": 184.44000244140625,
+      "2024-05-14T18:30:00+00:00": 184.8699951171875,
+      "2024-05-14T19:30:00+00:00": 186.0399932861328
+    },
+    "sentiment": 0.9301695823669434
   },
   {
-    "title": "Insider Sell: Chief Commercial Officer Georges Antoun Sells 2,400 Shares of First Solar Inc (FSLR)",
-    "published": 1712122148,
-    "posting_price": 166.22999573,
-    "close_price": 166.72999573,
-    "percent_change": 0.30078807
+    "title": "Green Energy Gambles: 7 Speculative Plays for the Planet-Conscious Investor",
+    "published": 1715630398,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 192.52000427246094,
+      "2024-05-13T14:30:00+00:00": 193.94000244140625,
+      "2024-05-13T15:30:00+00:00": 190.5,
+      "2024-05-13T16:30:00+00:00": 190.4199981689453,
+      "2024-05-13T17:30:00+00:00": 188.61000061035156,
+      "2024-05-13T18:30:00+00:00": 188.97000122070312,
+      "2024-05-13T19:30:00+00:00": 188.89500427246094
+    },
+    "sentiment": 0.9176868200302124
   },
   {
-    "title": "Green Titans: 3 Top Green Energy Stocks to Buy in April",
-    "published": 1712052000,
-    "posting_price": 169.75999451,
-    "close_price": 167.16999817,
-    "percent_change": -1.52568121
+    "title": "3 Renewable Energy Stocks to Capitalize on the Sustainability Surge",
+    "published": 1715370012,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 197.0,
+      "2024-05-10T14:30:00+00:00": 196.69000244140625,
+      "2024-05-10T15:30:00+00:00": 194.58999633789062,
+      "2024-05-10T16:30:00+00:00": 193.86500549316406,
+      "2024-05-10T17:30:00+00:00": 192.14999389648438,
+      "2024-05-10T18:30:00+00:00": 192.1699981689453,
+      "2024-05-10T19:30:00+00:00": 192.60000610351562
+    },
+    "sentiment": 0.6125724911689758
   },
   {
-    "title": "Unusually active option classes on open April 2nd",
-    "published": 1712047260,
-    "posting_price": 169.75999451,
-    "close_price": 167.16999817,
-    "percent_change": -1.52568121
+    "title": "3 Clean Energy Stocks Poised to Surge in the Next Market Upswing",
+    "published": 1715255100,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 190.8699951171875,
+      "2024-05-09T14:30:00+00:00": 190.2899932861328,
+      "2024-05-09T15:30:00+00:00": 191.08999633789062,
+      "2024-05-09T16:30:00+00:00": 190.47999572753906,
+      "2024-05-09T17:30:00+00:00": 191.02999877929688,
+      "2024-05-09T18:30:00+00:00": 192.1199951171875,
+      "2024-05-09T19:30:00+00:00": 193.22000122070312
+    },
+    "sentiment": 0.9054883718490601
   },
   {
-    "title": "American Solar: Birch Creek Energy Orders 547 MW of First Solar Modules",
-    "published": 1714478400,
-    "posting_price": 178.3500061,
-    "close_price": 176.30000305,
-    "percent_change": -1.14942696
+    "title": "Renewable Risers: 3 Stocks Set to Soar Amid the Electricity Demand Surge",
+    "published": 1715252400,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 190.8699951171875,
+      "2024-05-09T14:30:00+00:00": 190.2899932861328,
+      "2024-05-09T15:30:00+00:00": 191.08999633789062,
+      "2024-05-09T16:30:00+00:00": 190.47999572753906,
+      "2024-05-09T17:30:00+00:00": 191.02999877929688,
+      "2024-05-09T18:30:00+00:00": 192.1199951171875,
+      "2024-05-09T19:30:00+00:00": 193.22000122070312
+    },
+    "sentiment": 0.8039469718933105
   },
   {
-    "title": "What's in the Cards for First Solar (FSLR) in Q1 Earnings?",
-    "published": 1714477800,
-    "posting_price": 178.3500061,
-    "close_price": 176.30000305,
-    "percent_change": -1.14942696
+    "title": "Commodity Markets Setting Up For Powerful Multi-Week Uptrend (Technical Analysis)",
+    "published": 1715212007,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 192.0,
+      "2024-05-08T14:30:00+00:00": 192.07000732421875,
+      "2024-05-08T15:30:00+00:00": 190.80999755859375,
+      "2024-05-08T16:30:00+00:00": 191.42999267578125,
+      "2024-05-08T17:30:00+00:00": 192.52999877929688,
+      "2024-05-08T18:30:00+00:00": 192.36180114746094,
+      "2024-05-08T19:30:00+00:00": 191.97000122070312
+    },
+    "sentiment": 0.8833022713661194
   },
   {
-    "title": "4 Top Green Energy Stocks To Consider For Long-Term Investment In May",
-    "published": 1714464000,
-    "posting_price": 178.3500061,
-    "close_price": 176.30000305,
-    "percent_change": -1.14942696
+    "title": "Should You Be Adding First Solar (NASDAQ:FSLR) To Your Watchlist Today?",
+    "published": 1715184257,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 192.0,
+      "2024-05-08T14:30:00+00:00": 192.07000732421875,
+      "2024-05-08T15:30:00+00:00": 190.80999755859375,
+      "2024-05-08T16:30:00+00:00": 191.42999267578125,
+      "2024-05-08T17:30:00+00:00": 192.52999877929688,
+      "2024-05-08T18:30:00+00:00": 192.36180114746094,
+      "2024-05-08T19:30:00+00:00": 191.97000122070312
+    },
+    "sentiment": 0.9422609210014343
   },
   {
-    "title": "Masters In Trading - Saturday, April 27",
-    "published": 1714218060,
-    "posting_price": 180.1499939,
-    "close_price": 180.83000183,
-    "percent_change": 0.37746764
-  },
-  {
-    "title": "3 Growth Stock Landmines to Avoid Amid Rising Interest Rate Fears",
-    "published": 1714050000,
-    "posting_price": 176.8999939,
-    "close_price": 175.02000427,
-    "percent_change": -1.06274149
-  },
-  {
-    "title": "Video: S&P 500 Analyst Moves: FSLR",
-    "published": 1714044240,
-    "posting_price": 176.8999939,
-    "close_price": 175.02000427,
-    "percent_change": -1.06274149
-  },
-  {
-    "title": "First Solar Takes Over #52 Spot From SBA Communications Corp",
-    "published": 1714044180,
-    "posting_price": 176.8999939,
-    "close_price": 175.02000427,
-    "percent_change": -1.06274149
-  },
-  {
-    "title": "Jim Cramer: You're 'Dice Rolling' With This Biopharma Stock, But Vista Energy Is 'A Good Situation'",
-    "published": 1714029600,
-    "posting_price": 176.8999939,
-    "close_price": 175.02000427,
-    "percent_change": -1.06274149
-  },
-  {
-    "title": "Why First Solar, Inc. (NASDAQ:FSLR) Could Be Worth Watching",
-    "published": 1713974442,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "First Solar (FSLR) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713967306,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "Why First Solar (FSLR) is a Top Growth Stock for the Long-Term",
-    "published": 1713966310,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "Canadian Solar: Overstated Tariff Fears Offer Excellent Pay-Off",
-    "published": 1713960954,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "The Power of the Sun: 3 Solar Energy Stocks Primed for 5X Gains",
-    "published": 1713956400,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "New solar AD/CVD petitions positive for First Solar, says Wells Fargo",
-    "published": 1713952920,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "First Solar, others seek additional tariffs on panel imports from Asia",
-    "published": 1713952440,
-    "posting_price": 181.19999695,
-    "close_price": 177.47999573,
-    "percent_change": -2.05298084
-  },
-  {
-    "title": "First Solar just upgraded at Evercore ISI, here's why",
-    "published": 1713849120,
-    "posting_price": 177.25,
-    "close_price": 180.1000061,
-    "percent_change": 1.60790189
-  },
-  {
-    "title": "Evercore ISI gets more bullish on First Solar, upgrades shares",
-    "published": 1713848880,
-    "posting_price": 177.25,
-    "close_price": 180.1000061,
-    "percent_change": 1.60790189
-  },
-  {
-    "title": "Here's How Much You Would Have Made Owning First Solar Stock In The Last 5 Years",
-    "published": 1713837960,
-    "posting_price": 177.25,
-    "close_price": 180.1000061,
-    "percent_change": 1.60790189
-  },
-  {
-    "title": "First Solar upgraded, SunPower downgraded at Evercore ISI",
-    "published": 1713837600,
-    "posting_price": 177.25,
-    "close_price": 180.1000061,
-    "percent_change": 1.60790189
-  },
-  {
-    "title": "First Solar (FSLR) Ascends But Remains Behind Market: Some Facts to Note",
-    "published": 1713822619,
-    "posting_price": 175.38999939,
-    "close_price": 176.27999878,
-    "percent_change": 0.50744022
-  },
-  {
-    "title": "7 Alternative Energy Stocks to Buy on the Fossil Fuel Fallout",
-    "published": 1713807669,
-    "posting_price": 175.38999939,
-    "close_price": 176.27999878,
-    "percent_change": 0.50744022
-  },
-  {
-    "title": "Here's Why First Solar (FSLR) is a Strong Value Stock",
-    "published": 1713793210,
-    "posting_price": 175.38999939,
-    "close_price": 176.27999878,
-    "percent_change": 0.50744022
+    "title": "3 Solar Stocks Positioned to Outperform This Year",
+    "published": 1715163360,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 192.0,
+      "2024-05-08T14:30:00+00:00": 192.07000732421875,
+      "2024-05-08T15:30:00+00:00": 190.80999755859375,
+      "2024-05-08T16:30:00+00:00": 191.42999267578125,
+      "2024-05-08T17:30:00+00:00": 192.52999877929688,
+      "2024-05-08T18:30:00+00:00": 192.36180114746094,
+      "2024-05-08T19:30:00+00:00": 191.97000122070312
+    },
+    "sentiment": 0.9350307583808899
   },
   {
     "title": "Here is What to Know Beyond Why First Solar, Inc. (FSLR) is a Trending Stock",
-    "published": 1713531610,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "published": 1716469217,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 244.97000122070312,
+      "2024-05-23T14:30:00+00:00": 244.92999267578125,
+      "2024-05-23T15:30:00+00:00": 248.5050048828125,
+      "2024-05-23T16:30:00+00:00": 248.24000549316406,
+      "2024-05-23T17:30:00+00:00": 250.50999450683594,
+      "2024-05-23T18:30:00+00:00": 248.55999755859375,
+      "2024-05-23T19:30:00+00:00": 249.25
+    },
+    "sentiment": 0.7996028661727905
   },
   {
-    "title": "Interesting FSLR Put And Call Options For December 20th",
-    "published": 1713523440,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "title": "Unusually active option classes on open May 23rd",
+    "published": 1716453600,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 244.97000122070312,
+      "2024-05-23T14:30:00+00:00": 244.92999267578125,
+      "2024-05-23T15:30:00+00:00": 248.5050048828125,
+      "2024-05-23T16:30:00+00:00": 248.24000549316406,
+      "2024-05-23T17:30:00+00:00": 250.50999450683594,
+      "2024-05-23T18:30:00+00:00": 248.55999755859375,
+      "2024-05-23T19:30:00+00:00": 249.25
+    },
+    "sentiment": 0.7750740051269531
   },
   {
-    "title": "Wells Fargo upgrades First Solar on more defensive solar stance",
-    "published": 1713501180,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "title": "SLB, First Solar And 2 Other Stocks Insiders Are Selling",
+    "published": 1716449580,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 244.97000122070312,
+      "2024-05-23T14:30:00+00:00": 244.92999267578125,
+      "2024-05-23T15:30:00+00:00": 248.5050048828125,
+      "2024-05-23T16:30:00+00:00": 248.24000549316406,
+      "2024-05-23T17:30:00+00:00": 250.50999450683594,
+      "2024-05-23T18:30:00+00:00": 248.55999755859375,
+      "2024-05-23T19:30:00+00:00": 249.25
+    },
+    "sentiment": 0.9310404062271118
   },
   {
-    "title": "First Solar price target raised by $3 at Barclays, here's why",
-    "published": 1713500400,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "title": "10 Super FAST Growth Stocks At A Reasonable Price (GARP)",
+    "published": 1716439980,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 244.97000122070312,
+      "2024-05-23T14:30:00+00:00": 244.92999267578125,
+      "2024-05-23T15:30:00+00:00": 248.5050048828125,
+      "2024-05-23T16:30:00+00:00": 248.24000549316406,
+      "2024-05-23T17:30:00+00:00": 250.50999450683594,
+      "2024-05-23T18:30:00+00:00": 248.55999755859375,
+      "2024-05-23T19:30:00+00:00": 249.25
+    },
+    "sentiment": 0.8723887205123901
   },
   {
-    "title": "Wells Fargo gets more bullish on First Solar, upgrades shares",
-    "published": 1713499740,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "title": "Insider Sale: Caroline Stockdale Sells 12,406 Shares of First Solar Inc (FSLR)",
+    "published": 1716434640,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 244.97000122070312,
+      "2024-05-23T14:30:00+00:00": 244.92999267578125,
+      "2024-05-23T15:30:00+00:00": 248.5050048828125,
+      "2024-05-23T16:30:00+00:00": 248.24000549316406,
+      "2024-05-23T17:30:00+00:00": 250.50999450683594,
+      "2024-05-23T18:30:00+00:00": 248.55999755859375,
+      "2024-05-23T19:30:00+00:00": 249.25
+    },
+    "sentiment": 0.9347870349884033
   },
   {
-    "title": "Analysts Offer Insights on Technology Companies: Taiwan Semiconductor Manufacturing (TSM), Flex (FLEX) and First Solar (FSLR)",
-    "published": 1713496860,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "title": "First Solar Breaks Out As Solar Stocks Rally",
+    "published": 1716408357,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.7875321507453918
   },
   {
-    "title": "First Solar upgraded at Wells Fargo on relative stability, potential catalysts",
-    "published": 1713492120,
-    "posting_price": 179.41999817,
-    "close_price": 175.03999329,
-    "percent_change": -2.44120217
+    "title": "Victor Dergunov Talks Amazing AI Run, Rolling Corrections, EV Space And Gold",
+    "published": 1716382800,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.9335361123085022
   },
   {
-    "title": "Analysts Offer Insights on Technology Companies: International Business Machines (IBM), Microsoft (MSFT) and First Solar (FSLR)",
-    "published": 1713414720,
-    "posting_price": 178.47999573,
-    "close_price": 174.28999329,
-    "percent_change": -2.3476034
+    "title": "12 Information Technology Stocks Moving In Wednesday's Intraday Session",
+    "published": 1716377820,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.5256571173667908
   },
   {
-    "title": "3 Renewable Energy Stocks to Buy Now: Q2 Edition",
-    "published": 1713387799,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "China's solar names in the spotlight amid plan to halt slump, Bloomberg reports",
+    "published": 1716372720,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.8751776814460754
   },
   {
-    "title": "US plans to restore tariffs on dominant solar technology, sources say",
-    "published": 1713376683,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "Early notable gainers among liquid option names on May 22nd",
+    "published": 1716368100,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.8963726758956909
   },
   {
-    "title": "U.S. planning to restore tariffs on dominant solar technology, Reuters reports",
-    "published": 1713358380,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "First Solar exec Stockdale sells 12,406 common shares",
+    "published": 1716358380,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.9521489143371582
   },
   {
-    "title": "Interesting FSLR Put And Call Options For May 31st",
-    "published": 1713346560,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "Is First Solar (FSLR) Stock the Next Big AI Play?",
+    "published": 1716346080,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.9251549243927002
   },
   {
-    "title": "First Solar initiated with bullish view at DZ Bank",
-    "published": 1713342900,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "Wednesday Sector Leaders: Technology & Communications, Healthcare",
+    "published": 1716341700,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 213.19000244140625,
+      "2024-05-22T14:30:00+00:00": 231.0,
+      "2024-05-22T15:30:00+00:00": 240.27000427246094,
+      "2024-05-22T16:30:00+00:00": 249.72999572753906,
+      "2024-05-22T17:30:00+00:00": 250.90310668945312,
+      "2024-05-22T18:30:00+00:00": 245.80499267578125,
+      "2024-05-22T19:30:00+00:00": 249.35000610351562
+    },
+    "sentiment": 0.918141782283783
   },
   {
-    "title": "First Solar Is One Of America's Best Green Energy Investments",
-    "published": 1713325685,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "First Solar gets price target lift from Piper Sandler, UBS",
+    "published": 1716323315,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 197.7100067138672,
+      "2024-05-21T14:30:00+00:00": 203.8990936279297,
+      "2024-05-21T15:30:00+00:00": 205.32000732421875,
+      "2024-05-21T16:30:00+00:00": 207.5050048828125,
+      "2024-05-21T17:30:00+00:00": 209.55999755859375,
+      "2024-05-21T18:30:00+00:00": 208.48500061035156,
+      "2024-05-21T19:30:00+00:00": 209.75
+    },
+    "sentiment": 0.7635975480079651
   },
   {
-    "title": "RBC says bifacial panel exemption removal would be positive for First Solar",
-    "published": 1713320220,
-    "posting_price": 175.52999878,
-    "close_price": 178.00999451,
-    "percent_change": 1.41286148
+    "title": "First Solar Is an AI Play. The Stock Is Climbing.",
+    "published": 1716316320,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 197.7100067138672,
+      "2024-05-21T14:30:00+00:00": 203.8990936279297,
+      "2024-05-21T15:30:00+00:00": 205.32000732421875,
+      "2024-05-21T16:30:00+00:00": 207.5050048828125,
+      "2024-05-21T17:30:00+00:00": 209.55999755859375,
+      "2024-05-21T18:30:00+00:00": 208.48500061035156,
+      "2024-05-21T19:30:00+00:00": 209.75
+    },
+    "sentiment": 0.6224509477615356
   },
   {
-    "title": "First Solar (FSLR) Stock Dips While Market Gains: Key Facts",
-    "published": 1713304219,
-    "posting_price": 174.22000122,
-    "close_price": 173.08000183,
-    "percent_change": -0.65434473
+    "title": "Now or Never: 3 Growth Stocks to Snap Up Before Wall Street Takes Notice",
+    "published": 1716287880,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 197.7100067138672,
+      "2024-05-21T14:30:00+00:00": 203.8990936279297,
+      "2024-05-21T15:30:00+00:00": 205.32000732421875,
+      "2024-05-21T16:30:00+00:00": 207.5050048828125,
+      "2024-05-21T17:30:00+00:00": 209.55999755859375,
+      "2024-05-21T18:30:00+00:00": 208.48500061035156,
+      "2024-05-21T19:30:00+00:00": 209.75
+    },
+    "sentiment": 0.8274307250976562
   },
   {
-    "title": "Made in the USA: 3 Stocks Poised to Profit From the Reshoring Boom",
-    "published": 1713294000,
-    "posting_price": 174.22000122,
-    "close_price": 173.08000183,
-    "percent_change": -0.65434473
+    "title": "First Solar price target raised by $24 at Piper Sandler, here's why",
+    "published": 1716271800,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 197.7100067138672,
+      "2024-05-21T14:30:00+00:00": 203.8990936279297,
+      "2024-05-21T15:30:00+00:00": 205.32000732421875,
+      "2024-05-21T16:30:00+00:00": 207.5050048828125,
+      "2024-05-21T17:30:00+00:00": 209.55999755859375,
+      "2024-05-21T18:30:00+00:00": 208.48500061035156,
+      "2024-05-21T19:30:00+00:00": 209.75
+    },
+    "sentiment": 0.8146795034408569
+  },
+  {
+    "title": "First Solar price target raised by $18 at UBS, here's why",
+    "published": 1716269040,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 197.7100067138672,
+      "2024-05-21T14:30:00+00:00": 203.8990936279297,
+      "2024-05-21T15:30:00+00:00": 205.32000732421875,
+      "2024-05-21T16:30:00+00:00": 207.5050048828125,
+      "2024-05-21T17:30:00+00:00": 209.55999755859375,
+      "2024-05-21T18:30:00+00:00": 208.48500061035156,
+      "2024-05-21T19:30:00+00:00": 209.75
+    },
+    "sentiment": 0.8365539312362671
+  },
+  {
+    "title": "First Solar soars as UBS touts 'straight line' from AI-driven electricity demand",
+    "published": 1716260580,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 197.7100067138672,
+      "2024-05-21T14:30:00+00:00": 203.8990936279297,
+      "2024-05-21T15:30:00+00:00": 205.32000732421875,
+      "2024-05-21T16:30:00+00:00": 207.5050048828125,
+      "2024-05-21T17:30:00+00:00": 209.55999755859375,
+      "2024-05-21T18:30:00+00:00": 208.48500061035156,
+      "2024-05-21T19:30:00+00:00": 209.75
+    },
+    "sentiment": 0.8719669580459595
+  },
+  {
+    "title": "JPMorgan investor day, benefits of Biden tariffs on solar: Market Domination",
+    "published": 1716243630,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 198.75,
+      "2024-05-20T14:30:00+00:00": 195.99000549316406,
+      "2024-05-20T15:30:00+00:00": 196.25880432128906,
+      "2024-05-20T16:30:00+00:00": 196.5399932861328,
+      "2024-05-20T17:30:00+00:00": 195.7899932861328,
+      "2024-05-20T18:30:00+00:00": 195.22410583496094,
+      "2024-05-20T19:30:00+00:00": 194.64999389648438
+    },
+    "sentiment": 0.7418118715286255
+  },
+  {
+    "title": "7 Solar Stocks That Could Be Millionaire-Makers: May Edition",
+    "published": 1716237000,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 198.75,
+      "2024-05-20T14:30:00+00:00": 195.99000549316406,
+      "2024-05-20T15:30:00+00:00": 196.25880432128906,
+      "2024-05-20T16:30:00+00:00": 196.5399932861328,
+      "2024-05-20T17:30:00+00:00": 195.7899932861328,
+      "2024-05-20T18:30:00+00:00": 195.22410583496094,
+      "2024-05-20T19:30:00+00:00": 194.64999389648438
+    },
+    "sentiment": 0.9181640148162842
+  },
+  {
+    "title": "First Solar: Emerging As A Leader By Playing The Long Game",
+    "published": 1716201648,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 198.75,
+      "2024-05-20T14:30:00+00:00": 195.99000549316406,
+      "2024-05-20T15:30:00+00:00": 196.25880432128906,
+      "2024-05-20T16:30:00+00:00": 196.5399932861328,
+      "2024-05-20T17:30:00+00:00": 195.7899932861328,
+      "2024-05-20T18:30:00+00:00": 195.22410583496094,
+      "2024-05-20T19:30:00+00:00": 194.64999389648438
+    },
+    "sentiment": 0.6300606727600098
+  },
+  {
+    "title": "First Solar: Growing Opportunities And Regulatory Tailwinds Ensure A Shining Future",
+    "published": 1716185660,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 198.75,
+      "2024-05-20T14:30:00+00:00": 195.99000549316406,
+      "2024-05-20T15:30:00+00:00": 196.25880432128906,
+      "2024-05-20T16:30:00+00:00": 196.5399932861328,
+      "2024-05-20T17:30:00+00:00": 195.7899932861328,
+      "2024-05-20T18:30:00+00:00": 195.22410583496094,
+      "2024-05-20T19:30:00+00:00": 194.64999389648438
+    },
+    "sentiment": 0.9122903347015381
+  },
+  {
+    "title": "Shell, Constellation, First Solar among Barron's roundtable energy picks",
+    "published": 1716116100,
+    "day_prices": {},
+    "sentiment": 0.92171710729599
+  },
+  {
+    "title": "Why Exxon Stock Can Rise More. Plus Netflix, Home Depot, and More.",
+    "published": 1715985000,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 195.72000122070312,
+      "2024-05-17T14:30:00+00:00": 197.10000610351562,
+      "2024-05-17T15:30:00+00:00": 197.58999633789062,
+      "2024-05-17T16:30:00+00:00": 198.2100067138672,
+      "2024-05-17T17:30:00+00:00": 198.5500030517578,
+      "2024-05-17T18:30:00+00:00": 198.57000732421875,
+      "2024-05-17T19:30:00+00:00": 197.9499969482422
+    },
+    "sentiment": 0.7368738651275635
+  },
+  {
+    "title": "First Solar Stock Today: How To Capture Profits With A Double Butterfly Trade In Options",
+    "published": 1715973683,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 195.72000122070312,
+      "2024-05-17T14:30:00+00:00": 197.10000610351562,
+      "2024-05-17T15:30:00+00:00": 197.58999633789062,
+      "2024-05-17T16:30:00+00:00": 198.2100067138672,
+      "2024-05-17T17:30:00+00:00": 198.5500030517578,
+      "2024-05-17T18:30:00+00:00": 198.57000732421875,
+      "2024-05-17T19:30:00+00:00": 197.9499969482422
+    },
+    "sentiment": 0.8695412874221802
+  },
+  {
+    "title": "First Solar remains key beneficiary of new content guidance, says Roth MKM",
+    "published": 1715859660,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 193.30999755859375,
+      "2024-05-16T14:30:00+00:00": 194.43499755859375,
+      "2024-05-16T15:30:00+00:00": 192.5850067138672,
+      "2024-05-16T16:30:00+00:00": 194.4149932861328,
+      "2024-05-16T17:30:00+00:00": 195.49000549316406,
+      "2024-05-16T18:30:00+00:00": 193.86500549316406,
+      "2024-05-16T19:30:00+00:00": 194.3000030517578
+    },
+    "sentiment": 0.8648087978363037
+  },
+  {
+    "title": "First Solar key beneficiary as Biden ends solar tariff exemption, RothMKM says",
+    "published": 1715827080,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 193.30999755859375,
+      "2024-05-16T14:30:00+00:00": 194.43499755859375,
+      "2024-05-16T15:30:00+00:00": 192.5850067138672,
+      "2024-05-16T16:30:00+00:00": 194.4149932861328,
+      "2024-05-16T17:30:00+00:00": 195.49000549316406,
+      "2024-05-16T18:30:00+00:00": 193.86500549316406,
+      "2024-05-16T19:30:00+00:00": 194.3000030517578
+    },
+    "sentiment": 0.7611543536186218
+  },
+  {
+    "title": "Why Is First Solar (FSLR) Up 53.3% Since Last Earnings Report?",
+    "published": 1717169500,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 279.0,
+      "2024-05-31T14:30:00+00:00": 265.3999938964844,
+      "2024-05-31T15:30:00+00:00": 262.0400085449219,
+      "2024-05-31T16:30:00+00:00": 262.3299865722656,
+      "2024-05-31T17:30:00+00:00": 266.8450012207031,
+      "2024-05-31T18:30:00+00:00": 266.9700012207031,
+      "2024-05-31T19:30:00+00:00": 267.8550109863281
+    },
+    "sentiment": 0.8426049947738647
+  },
+  {
+    "title": "5 Stocks Turn $10,000 Into $40,427 In 5 Months",
+    "published": 1717156803,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 279.0,
+      "2024-05-31T14:30:00+00:00": 265.3999938964844,
+      "2024-05-31T15:30:00+00:00": 262.0400085449219,
+      "2024-05-31T16:30:00+00:00": 262.3299865722656,
+      "2024-05-31T17:30:00+00:00": 266.8450012207031,
+      "2024-05-31T18:30:00+00:00": 266.9700012207031,
+      "2024-05-31T19:30:00+00:00": 267.8550109863281
+    },
+    "sentiment": 0.6357031464576721
+  },
+  {
+    "title": "SPY ETF Update, 5/31/2024\ufffd\ufffd\ufffd",
+    "published": 1717121700,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 279.0,
+      "2024-05-31T14:30:00+00:00": 265.3999938964844,
+      "2024-05-31T15:30:00+00:00": 262.0400085449219,
+      "2024-05-31T16:30:00+00:00": 262.3299865722656,
+      "2024-05-31T17:30:00+00:00": 266.8450012207031,
+      "2024-05-31T18:30:00+00:00": 266.9700012207031,
+      "2024-05-31T19:30:00+00:00": 267.8550109863281
+    },
+    "sentiment": 0.942401111125946
+  },
+  {
+    "title": "First Solar: Major Winner In AI Boom",
+    "published": 1717090640,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 272.7300109863281,
+      "2024-05-30T14:30:00+00:00": 271.6549987792969,
+      "2024-05-30T15:30:00+00:00": 277.464599609375,
+      "2024-05-30T16:30:00+00:00": 275.1099853515625,
+      "2024-05-30T17:30:00+00:00": 276.3800048828125,
+      "2024-05-30T18:30:00+00:00": 274.3450012207031,
+      "2024-05-30T19:30:00+00:00": 274.7699890136719
+    },
+    "sentiment": 0.7735001444816589
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1717066500,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 272.7300109863281,
+      "2024-05-30T14:30:00+00:00": 271.6549987792969,
+      "2024-05-30T15:30:00+00:00": 277.464599609375,
+      "2024-05-30T16:30:00+00:00": 275.1099853515625,
+      "2024-05-30T17:30:00+00:00": 276.3800048828125,
+      "2024-05-30T18:30:00+00:00": 274.3450012207031,
+      "2024-05-30T19:30:00+00:00": 274.7699890136719
+    },
+    "sentiment": 0.9132178425788879
+  },
+  {
+    "title": "Unusually active option classes on open May 30th",
+    "published": 1717058400,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 272.7300109863281,
+      "2024-05-30T14:30:00+00:00": 271.6549987792969,
+      "2024-05-30T15:30:00+00:00": 277.464599609375,
+      "2024-05-30T16:30:00+00:00": 275.1099853515625,
+      "2024-05-30T17:30:00+00:00": 276.3800048828125,
+      "2024-05-30T18:30:00+00:00": 274.3450012207031,
+      "2024-05-30T19:30:00+00:00": 274.7699890136719
+    },
+    "sentiment": 0.7999831438064575
+  },
+  {
+    "title": "First Solar Hold Rating: Balancing Robust Pricing Power Against Valuation Concerns",
+    "published": 1717040760,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 272.7300109863281,
+      "2024-05-30T14:30:00+00:00": 271.6549987792969,
+      "2024-05-30T15:30:00+00:00": 277.464599609375,
+      "2024-05-30T16:30:00+00:00": 275.1099853515625,
+      "2024-05-30T17:30:00+00:00": 276.3800048828125,
+      "2024-05-30T18:30:00+00:00": 274.3450012207031,
+      "2024-05-30T19:30:00+00:00": 274.7699890136719
+    },
+    "sentiment": 0.9055988192558289
+  },
+  {
+    "title": "CA regulators reject proposal to incentivize solar developers, Bloomberg reports",
+    "published": 1717037760,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 272.7300109863281,
+      "2024-05-30T14:30:00+00:00": 271.6549987792969,
+      "2024-05-30T15:30:00+00:00": 277.464599609375,
+      "2024-05-30T16:30:00+00:00": 275.1099853515625,
+      "2024-05-30T17:30:00+00:00": 276.3800048828125,
+      "2024-05-30T18:30:00+00:00": 274.3450012207031,
+      "2024-05-30T19:30:00+00:00": 274.7699890136719
+    },
+    "sentiment": 0.5744608640670776
+  },
+  {
+    "title": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+    "published": 1716986280,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 274.0299987792969,
+      "2024-05-29T14:30:00+00:00": 281.32000732421875,
+      "2024-05-29T15:30:00+00:00": 281.239990234375,
+      "2024-05-29T16:30:00+00:00": 283.5299987792969,
+      "2024-05-29T17:30:00+00:00": 285.7300109863281,
+      "2024-05-29T18:30:00+00:00": 282.0,
+      "2024-05-29T19:30:00+00:00": 281.4700012207031
+    },
+    "sentiment": 0.8861554265022278
+  },
+  {
+    "title": "First Solar price target raised by $80 at UBS, here's why",
+    "published": 1716960360,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 274.0299987792969,
+      "2024-05-29T14:30:00+00:00": 281.32000732421875,
+      "2024-05-29T15:30:00+00:00": 281.239990234375,
+      "2024-05-29T16:30:00+00:00": 283.5299987792969,
+      "2024-05-29T17:30:00+00:00": 285.7300109863281,
+      "2024-05-29T18:30:00+00:00": 282.0,
+      "2024-05-29T19:30:00+00:00": 281.4700012207031
+    },
+    "sentiment": 0.8064484000205994
+  },
+  {
+    "title": "DZ Bank gets more bearish on First Solar, downgrades shares",
+    "published": 1716956220,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 274.0299987792969,
+      "2024-05-29T14:30:00+00:00": 281.32000732421875,
+      "2024-05-29T15:30:00+00:00": 281.239990234375,
+      "2024-05-29T16:30:00+00:00": 283.5299987792969,
+      "2024-05-29T17:30:00+00:00": 285.7300109863281,
+      "2024-05-29T18:30:00+00:00": 282.0,
+      "2024-05-29T19:30:00+00:00": 281.4700012207031
+    },
+    "sentiment": 0.943034827709198
+  },
+  {
+    "title": "First Solar Stock (NASDAQ:FSLR): Cheaply Valued and Benefiting from AI",
+    "published": 1716937269,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 277.0,
+      "2024-05-28T14:30:00+00:00": 273.54998779296875,
+      "2024-05-28T15:30:00+00:00": 282.27081298828125,
+      "2024-05-28T16:30:00+00:00": 282.56500244140625,
+      "2024-05-28T17:30:00+00:00": 279.80999755859375,
+      "2024-05-28T18:30:00+00:00": 278.3900146484375,
+      "2024-05-28T19:30:00+00:00": 278.9849853515625
+    },
+    "sentiment": 0.9057161211967468
+  },
+  {
+    "title": "First Solar Options Trading: A Deep Dive into Market Sentiment",
+    "published": 1716886200,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 277.0,
+      "2024-05-28T14:30:00+00:00": 273.54998779296875,
+      "2024-05-28T15:30:00+00:00": 282.27081298828125,
+      "2024-05-28T16:30:00+00:00": 282.56500244140625,
+      "2024-05-28T17:30:00+00:00": 279.80999755859375,
+      "2024-05-28T18:30:00+00:00": 278.3900146484375,
+      "2024-05-28T19:30:00+00:00": 278.9849853515625
+    },
+    "sentiment": 0.8842616081237793
+  },
+  {
+    "title": "3 Renewable Energy Stocks to Buy Now: May 2024",
+    "published": 1716821926,
+    "day_prices": {},
+    "sentiment": 0.9364853501319885
+  },
+  {
+    "title": "Why First Solar Is A Must-Watch Stock In The AI Era",
+    "published": 1716778500,
+    "day_prices": {},
+    "sentiment": 0.9170249104499817
+  },
+  {
+    "title": "Is First Solar, Inc. (NASDAQ:FSLR) the Best Alternative Energy Stock to Buy Now?",
+    "published": 1716744683,
+    "day_prices": {},
+    "sentiment": 0.8913007378578186
+  },
+  {
+    "title": "3 Solar Stocks to Buy Now: May 2024",
+    "published": 1716634800,
+    "day_prices": {},
+    "sentiment": 0.9383853673934937
+  },
+  {
+    "title": "Why First Solar Stock Skyrocketed This Week",
+    "published": 1716585490,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 253.8800048828125,
+      "2024-05-24T14:30:00+00:00": 267.6300964355469,
+      "2024-05-24T15:30:00+00:00": 273.4599914550781,
+      "2024-05-24T16:30:00+00:00": 273.135009765625,
+      "2024-05-24T17:30:00+00:00": 273.7799987792969,
+      "2024-05-24T18:30:00+00:00": 274.7099914550781,
+      "2024-05-24T19:30:00+00:00": 273.3999938964844
+    },
+    "sentiment": 0.5768059492111206
+  },
+  {
+    "title": "NOAA Meteorologists Predict Aggressive Hurricane Season: What It Means For Home Depot, Generac, Other Storm-Related Stocks",
+    "published": 1716554040,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 253.8800048828125,
+      "2024-05-24T14:30:00+00:00": 267.6300964355469,
+      "2024-05-24T15:30:00+00:00": 273.4599914550781,
+      "2024-05-24T16:30:00+00:00": 273.135009765625,
+      "2024-05-24T17:30:00+00:00": 273.7799987792969,
+      "2024-05-24T18:30:00+00:00": 274.7099914550781,
+      "2024-05-24T19:30:00+00:00": 273.3999938964844
+    },
+    "sentiment": 0.9123242497444153
+  },
+  {
+    "title": "Early notable gainers among liquid option names on May 24th",
+    "published": 1716540900,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 253.8800048828125,
+      "2024-05-24T14:30:00+00:00": 267.6300964355469,
+      "2024-05-24T15:30:00+00:00": 273.4599914550781,
+      "2024-05-24T16:30:00+00:00": 273.135009765625,
+      "2024-05-24T17:30:00+00:00": 273.7799987792969,
+      "2024-05-24T18:30:00+00:00": 274.7099914550781,
+      "2024-05-24T19:30:00+00:00": 273.3999938964844
+    },
+    "sentiment": 0.9018518328666687
   }
 ]

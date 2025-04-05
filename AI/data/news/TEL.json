@@ -1,366 +1,50 @@
 [
   {
-    "title": "PLDT Files 2024 Annual Report on Form 20-F With the U. S. Securities and Exchange Commission",
-    "published": 1741986420,
-    "posting_price": 143.11999512,
-    "close_price": 145.88000488,
-    "percent_change": 1.92845853
+    "title": "TE Connectivity Ltd. stock underperforms Tuesday when compared to competitors despite daily gains",
+    "published": 1715659200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 148.5,
+      "2024-05-14T14:30:00+00:00": 148.80999755859375,
+      "2024-05-14T15:30:00+00:00": 148.38999938964844,
+      "2024-05-14T16:30:00+00:00": 148.3249969482422,
+      "2024-05-14T17:30:00+00:00": 148.13999938964844,
+      "2024-05-14T18:30:00+00:00": 148.5800018310547,
+      "2024-05-14T19:30:00+00:00": 149.05999755859375
+    },
+    "sentiment": 0.8182510733604431
   },
   {
-    "title": "Does TE Connectivity (TEL) Have a Sustainable Competitive Advantage?",
-    "published": 1739798976,
-    "posting_price": 152.5,
-    "close_price": 154.41999817,
-    "percent_change": 1.25901519
+    "title": "TE Connectivity goes ex dividend tomorrow",
+    "published": 1716341040,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 151.49000549316406,
+      "2024-05-22T14:30:00+00:00": 151.72000122070312,
+      "2024-05-22T15:30:00+00:00": 152.1199951171875,
+      "2024-05-22T16:30:00+00:00": 152.55999755859375,
+      "2024-05-22T17:30:00+00:00": 152.4600067138672,
+      "2024-05-22T18:30:00+00:00": 151.55999755859375,
+      "2024-05-22T19:30:00+00:00": 151.55999755859375
+    },
+    "sentiment": 0.8545405268669128
   },
   {
-    "title": "TE Connectivity to Acquire Richards Manufacturing for $2.3 Billion",
-    "published": 1739474424,
-    "posting_price": 148.0,
-    "close_price": 153.22000122,
-    "percent_change": 3.52702785
+    "title": "TE Connectivity Ltd. stock rises Tuesday, still underperforms market",
+    "published": 1716263940,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 151.02000427246094,
+      "2024-05-21T14:30:00+00:00": 151.72000122070312,
+      "2024-05-21T15:30:00+00:00": 151.83999633789062,
+      "2024-05-21T16:30:00+00:00": 152.0399932861328,
+      "2024-05-21T17:30:00+00:00": 151.99000549316406,
+      "2024-05-21T18:30:00+00:00": 152.13999938964844,
+      "2024-05-21T19:30:00+00:00": 151.97000122070312
+    },
+    "sentiment": 0.5816606283187866
   },
   {
-    "title": "TE Connectivity to buy Richards Manufacturing for $2.3bn",
-    "published": 1739457736,
-    "posting_price": 148.0,
-    "close_price": 153.22000122,
-    "percent_change": 3.52702785
-  },
-  {
-    "title": "TE Connectivity to buy Richards Manufacturing in $2.3B deal",
-    "published": 1739444512,
-    "posting_price": 148.0,
-    "close_price": 153.22000122,
-    "percent_change": 3.52702785
-  },
-  {
-    "title": "TE Connectivity details sustainability progress in corporate responsibility report",
-    "published": 1712835120,
-    "posting_price": 144.52908316,
-    "close_price": 145.45111084,
-    "percent_change": 0.63795304
-  },
-  {
-    "title": "TE Connectivity price target raised by $1 at JPMorgan, here's why",
-    "published": 1712810640,
-    "posting_price": 144.52908316,
-    "close_price": 145.45111084,
-    "percent_change": 0.63795304
-  },
-  {
-    "title": "Jefferies Initiates Coverage of TE Connectivity (TEL) with Buy Recommendation",
-    "published": 1712742931,
-    "posting_price": 144.39026409,
-    "close_price": 143.6962738,
-    "percent_change": -0.4806351
-  },
-  {
-    "title": "Bill Nygren's 1st-Quarter US Equity Market Commentary- Navigating Market Highs and (Avoiding) ...",
-    "published": 1712660520,
-    "posting_price": 145.97655152,
-    "close_price": 146.60113525,
-    "percent_change": 0.42786579
-  },
-  {
-    "title": "TE Connectivity initiated with bullish view at Jefferies, here's why",
-    "published": 1712635560,
-    "posting_price": 145.97655152,
-    "close_price": 146.60113525,
-    "percent_change": 0.42786579
-  },
-  {
-    "title": "Buy 5 S&P 500 Laggards of Q1 Likely to Gather Pace in Q2",
-    "published": 1712577900,
-    "posting_price": 144.28122303,
-    "close_price": 143.53765869,
-    "percent_change": -0.51535766
-  },
-  {
-    "title": "TE Connectivity (NYSE:TEL) Will Pay A Larger Dividend Than Last Year At $0.65",
-    "published": 1712259115,
-    "posting_price": 146.60112907,
-    "close_price": 143.24021912,
-    "percent_change": -2.29255393
-  },
-  {
-    "title": "TE Connectivity, Laird External Antennas Tri-Band V-Pol Omni Antenna, Now at Mouser, Enables Wi-Fi 6E/7 Connectivity",
-    "published": 1712229708,
-    "posting_price": 146.60112907,
-    "close_price": 143.24021912,
-    "percent_change": -2.29255393
-  },
-  {
-    "title": "TE Connectivity: A Neutral Hold Amidst EV Market Softness and Mixed Segment Performance",
-    "published": 1712204400,
-    "posting_price": 146.60112907,
-    "close_price": 143.24021912,
-    "percent_change": -2.29255393
-  },
-  {
-    "title": "TE Connectivity to report second quarter financial results on April 24, 2024",
-    "published": 1712147400,
-    "posting_price": 141.59448745,
-    "close_price": 144.42993164,
-    "percent_change": 2.0025103
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights TE Connectivity, BWX Technologies and Novanta",
-    "published": 1712048760,
-    "posting_price": 141.06901472,
-    "close_price": 141.46559143,
-    "percent_change": 0.28112248
-  },
-  {
-    "title": "TE Connectivity Ltd Director Mark Trudeau Sells Company Shares",
-    "published": 1714479900,
-    "posting_price": 141.38628442,
-    "close_price": 140.26597595,
-    "percent_change": -0.79237422
-  },
-  {
-    "title": "TE Connectivity: Secular Trends Underlying Its Sustainable Growth",
-    "published": 1714475263,
-    "posting_price": 141.38628442,
-    "close_price": 140.26597595,
-    "percent_change": -0.79237422
-  },
-  {
-    "title": "TE Connectivity (TEL) International Revenue Performance Explored",
-    "published": 1714396200,
-    "posting_price": 140.2957107,
-    "close_price": 141.59448242,
-    "percent_change": 0.92573872
-  },
-  {
-    "title": "Tech industry survey reveals disconnect between aspirations and proper planning for AI and sustainability",
-    "published": 1714395660,
-    "posting_price": 140.2957107,
-    "close_price": 141.59448242,
-    "percent_change": 0.92573872
-  },
-  {
-    "title": "TE Connectivity Ltd. (NYSE:TEL) Q2 2024 Earnings Call Transcript",
-    "published": 1714064770,
-    "posting_price": 140.14700504,
-    "close_price": 139.27455139,
-    "percent_change": -0.6225275
-  },
-  {
-    "title": "TE Connectivity price target raised by $6 at BofA, here's why",
-    "published": 1714033620,
-    "posting_price": 140.14700504,
-    "close_price": 139.27455139,
-    "percent_change": -0.6225275
-  },
-  {
-    "title": "Oppenheimer Sticks to Their Hold Rating for TE Connectivity (TEL)",
-    "published": 1714028220,
-    "posting_price": 140.14700504,
-    "close_price": 139.27455139,
-    "percent_change": -0.6225275
-  },
-  {
-    "title": "TE Connectivity price target lowered by $1 at Baird, here's why",
-    "published": 1714023600,
-    "posting_price": 140.14700504,
-    "close_price": 139.27455139,
-    "percent_change": -0.6225275
-  },
-  {
-    "title": "TE Connectivity (TEL) Holds Steady: A Balanced View of Q2 Earnings and Future Prospects",
-    "published": 1714020000,
-    "posting_price": 140.14700504,
-    "close_price": 139.27455139,
-    "percent_change": -0.6225275
-  },
-  {
-    "title": "Buy Rating Affirmed for TE Connectivity on Robust Financials and Market Tailwinds",
-    "published": 1714019880,
-    "posting_price": 140.14700504,
-    "close_price": 139.27455139,
-    "percent_change": -0.6225275
-  },
-  {
-    "title": "TE Connectivity (NYSE:TEL) Is Paying Out A Larger Dividend Than Last Year",
-    "published": 1713987370,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity (TEL) Q2 Earnings Beat Estimates, Sales Fall Y/Y",
-    "published": 1713974640,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity (TEL) Reports Q2 Earnings: What Key Metrics Have to Say",
-    "published": 1713965430,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity Ltd. (TEL) Q2 2024 Earnings Call Transcript",
-    "published": 1713958527,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity Ltd. (TEL) Q2 Fiscal 2024 Earnings: Surpasses EPS Estimates with Record Cash Flow",
-    "published": 1713958306,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity\u2019s Strong Earnings Show Manufacturing Is OK but AI Is Booming",
-    "published": 1713956940,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity Beats Q2 Earnings Estimates, Sees Growth in Orders Across All Segments",
-    "published": 1713955500,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity announces second quarter results for fiscal year 2024",
-    "published": 1713952800,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TEL Stock Earnings: TE Connectivity Beats EPS, Beats Revenue for Q2 2024",
-    "published": 1713952500,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity beats quarterly profit estimates on sensor demand",
-    "published": 1713944339,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity: Fiscal Q2 Earnings Snapshot",
-    "published": 1713939133,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity : Q2 2024 TE Connectivity Ltd. Earnings Conference Call",
-    "published": 1713938653,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity sees Q3 adjusted EPS $1.85, consensus $1.92",
-    "published": 1713937800,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity reports Q2 adjusted EPS $1.86, consensus $1.83",
-    "published": 1713937680,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "Te Connectivity Ltd Announces Upcoming Conference Call & Webcast",
-    "published": 1713936180,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity beats top-line and bottom-line estimates; initiates Q3 outlook",
-    "published": 1713935580,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity (TEL) Poised for Growth: A Strong Buy Recommendation Amidst Rising Orders and Strategic Market Positioning",
-    "published": 1713932160,
-    "posting_price": 140.74186365,
-    "close_price": 138.79867554,
-    "percent_change": -1.38067527
-  },
-  {
-    "title": "TE Connectivity Q2 2024 Earnings Preview",
-    "published": 1713876600,
-    "posting_price": 142.75444954,
-    "close_price": 142.0009613,
-    "percent_change": -0.52782119
-  },
-  {
-    "title": "Should You Buy TE Connectivity (TEL) Ahead of Q2 Earnings?",
-    "published": 1713802500,
-    "posting_price": 140.25604916,
-    "close_price": 142.53631592,
-    "percent_change": 1.62578853
-  },
-  {
-    "title": "NVent Electric (NVT) to Report Q1 Results: Wall Street Expects Earnings Growth",
-    "published": 1713535228,
-    "posting_price": 139.44309646,
-    "close_price": 139.34396362,
-    "percent_change": -0.07109197
-  },
-  {
-    "title": "Curious about TE Connectivity (TEL) Q2 Performance? Explore Wall Street Estimates for Key Metrics",
-    "published": 1713532521,
-    "posting_price": 139.44309646,
-    "close_price": 139.34396362,
-    "percent_change": -0.07109197
-  },
-  {
-    "title": "First Week of June 21st Options Trading For TE Connectivity (TEL)",
-    "published": 1713519240,
-    "posting_price": 139.44309646,
-    "close_price": 139.34396362,
-    "percent_change": -0.07109197
-  },
-  {
-    "title": "Now Available at Mouser TE / Corcom EVX High Voltage DC EMI Filters for EV Fast Charging",
-    "published": 1713513372,
-    "posting_price": 139.44309646,
-    "close_price": 139.34396362,
-    "percent_change": -0.07109197
-  },
-  {
-    "title": "Wells Fargo Remains a Hold on TE Connectivity (TEL)",
-    "published": 1713502620,
-    "posting_price": 139.44309646,
-    "close_price": 139.34396362,
-    "percent_change": -0.07109197
-  },
-  {
-    "title": "Here's Why TE Connectivity (TEL) is a Strong Momentum Stock",
-    "published": 1713448204,
-    "posting_price": 140.53365789,
-    "close_price": 139.27455139,
-    "percent_change": -0.89594658
-  },
-  {
-    "title": "TE Connectivity (TEL) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713362470,
-    "posting_price": 142.32812958,
-    "close_price": 140.26597595,
-    "percent_change": -1.44887285
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 19",
+    "published": 1716021130,
+    "day_prices": {},
+    "sentiment": 0.9063739776611328
   }
 ]

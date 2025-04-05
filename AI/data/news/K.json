@@ -1,303 +1,604 @@
 [
   {
-    "title": "RICE KRISPIES TREATS\u00ae FANS REJOICE! OUR #1 MOST REQUESTED FLAVOR HAS ARRIVED: CHOCOLATEY PEANUT BUTTER",
-    "published": 1713182400,
-    "posting_price": 53.99575076,
-    "close_price": 53.74352646,
-    "percent_change": -0.46711879
+    "title": "Kinross declares quarterly dividend",
+    "published": 1715101200,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 60.47999954223633,
+      "2024-05-07T14:30:00+00:00": 60.939998626708984,
+      "2024-05-07T15:30:00+00:00": 60.970001220703125,
+      "2024-05-07T16:30:00+00:00": 60.95500183105469,
+      "2024-05-07T17:30:00+00:00": 61.08000183105469,
+      "2024-05-07T18:30:00+00:00": 61.15999984741211,
+      "2024-05-07T19:30:00+00:00": 61.380001068115234
+    },
+    "sentiment": 0.6208033561706543
   },
   {
-    "title": "Short interest for tobacco and personal care industries surge in March",
-    "published": 1713174120,
-    "posting_price": 53.99575076,
-    "close_price": 53.74352646,
-    "percent_change": -0.46711879
+    "title": "WK Kellogg Q1 takeaways: Consumers avoiding big food brands",
+    "published": 1715099090,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 60.47999954223633,
+      "2024-05-07T14:30:00+00:00": 60.939998626708984,
+      "2024-05-07T15:30:00+00:00": 60.970001220703125,
+      "2024-05-07T16:30:00+00:00": 60.95500183105469,
+      "2024-05-07T17:30:00+00:00": 61.08000183105469,
+      "2024-05-07T18:30:00+00:00": 61.15999984741211,
+      "2024-05-07T19:30:00+00:00": 61.380001068115234
+    },
+    "sentiment": 0.8320971131324768
   },
   {
-    "title": "Yacktman Fund Adjusts Portfolio, Major Reduction in Pioneer Natural Resources Co",
-    "published": 1713171720,
-    "posting_price": 53.99575076,
-    "close_price": 53.74352646,
-    "percent_change": -0.46711879
+    "title": "CLUB\u00ae CRISPS LAUNCHES FIRST-EVER FLAVOR COLLAB WITH MIKE'S HOT HONEY\u00ae FOR THE ULTIMATE SWEET-HEAT SNACK",
+    "published": 1715086800,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 60.47999954223633,
+      "2024-05-07T14:30:00+00:00": 60.939998626708984,
+      "2024-05-07T15:30:00+00:00": 60.970001220703125,
+      "2024-05-07T16:30:00+00:00": 60.95500183105469,
+      "2024-05-07T17:30:00+00:00": 61.08000183105469,
+      "2024-05-07T18:30:00+00:00": 61.15999984741211,
+      "2024-05-07T19:30:00+00:00": 61.380001068115234
+    },
+    "sentiment": 0.6147751808166504
   },
   {
-    "title": "Yacktman Focused Fund Adjusts Portfolio, Cuts Stake in Associated British Foods PLC",
-    "published": 1713171720,
-    "posting_price": 53.99575076,
-    "close_price": 53.74352646,
-    "percent_change": -0.46711879
+    "title": "WK Kellogg\u2019s stock rises as revenue beats analyst estimates",
+    "published": 1715069700,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 60.47999954223633,
+      "2024-05-07T14:30:00+00:00": 60.939998626708984,
+      "2024-05-07T15:30:00+00:00": 60.970001220703125,
+      "2024-05-07T16:30:00+00:00": 60.95500183105469,
+      "2024-05-07T17:30:00+00:00": 61.08000183105469,
+      "2024-05-07T18:30:00+00:00": 61.15999984741211,
+      "2024-05-07T19:30:00+00:00": 61.380001068115234
+    },
+    "sentiment": 0.9453443884849548
   },
   {
-    "title": "Notable Two Hundred Day Moving Average Cross - K",
-    "published": 1712916540,
-    "posting_price": 54.51960449,
-    "close_price": 53.76292419,
-    "percent_change": -1.38790497
+    "title": "Kinross Gold Corp\u2019s Promising Start in 2024",
+    "published": 1715057400,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 60.47999954223633,
+      "2024-05-07T14:30:00+00:00": 60.939998626708984,
+      "2024-05-07T15:30:00+00:00": 60.970001220703125,
+      "2024-05-07T16:30:00+00:00": 60.95500183105469,
+      "2024-05-07T17:30:00+00:00": 61.08000183105469,
+      "2024-05-07T18:30:00+00:00": 61.15999984741211,
+      "2024-05-07T19:30:00+00:00": 61.380001068115234
+    },
+    "sentiment": 0.8197266459465027
   },
   {
-    "title": "Kellanova (K) Shares Cross 4% Yield Mark",
-    "published": 1712887920,
-    "posting_price": 54.51960449,
-    "close_price": 53.76292419,
-    "percent_change": -1.38790497
+    "title": "Kinross Gold Corp Announces Prosperous Q1 Results",
+    "published": 1715057280,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 60.47999954223633,
+      "2024-05-07T14:30:00+00:00": 60.939998626708984,
+      "2024-05-07T15:30:00+00:00": 60.970001220703125,
+      "2024-05-07T16:30:00+00:00": 60.95500183105469,
+      "2024-05-07T17:30:00+00:00": 61.08000183105469,
+      "2024-05-07T18:30:00+00:00": 61.15999984741211,
+      "2024-05-07T19:30:00+00:00": 61.380001068115234
+    },
+    "sentiment": 0.9053646326065063
   },
   {
-    "title": "3 Severely Undervalued Packaged-Food Stocks Due to Pop Soon",
-    "published": 1712861172,
-    "posting_price": 55.57701968,
-    "close_price": 54.49050522,
-    "percent_change": -1.95497072
+    "title": "NUTRI-GRAIN\u00ae COMBATS HANGRY MOMENTS WITH NEW NUTRI-GRAIN\u00ae POWER-FULLS PROTEIN BITES AND OFFERS $20,000 IN SEARCH OF A \"HEAD OF HANGER MANAGEMENT\"",
+    "published": 1715000400,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 60.95000076293945,
+      "2024-05-06T14:30:00+00:00": 60.025001525878906,
+      "2024-05-06T15:30:00+00:00": 59.88999938964844,
+      "2024-05-06T16:30:00+00:00": 59.849998474121094,
+      "2024-05-06T17:30:00+00:00": 60.04999923706055,
+      "2024-05-06T18:30:00+00:00": 59.95000076293945,
+      "2024-05-06T19:30:00+00:00": 59.78499984741211
+    },
+    "sentiment": 0.796132504940033
   },
   {
-    "title": "PRINGLES\u00ae AND CROCS\u2122 COMBINE FASHION AND FLAVOR WITH A ONE-OF-A-KIND CRUSH BOOT, FIRST-EVER CROCS-INSPIRED CRISPS AND MORE DELICIOUS DESIGNS IN GLOBAL COLLECTION",
-    "published": 1712847600,
-    "posting_price": 55.57701968,
-    "close_price": 54.49050522,
-    "percent_change": -1.95497072
+    "title": "Analysts Offer Insights on Consumer Goods Companies: Church & Dwight (CHD), Kellanova (K) and Sysco (SYY)",
+    "published": 1714966500,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 60.95000076293945,
+      "2024-05-06T14:30:00+00:00": 60.025001525878906,
+      "2024-05-06T15:30:00+00:00": 59.88999938964844,
+      "2024-05-06T16:30:00+00:00": 59.849998474121094,
+      "2024-05-06T17:30:00+00:00": 60.04999923706055,
+      "2024-05-06T18:30:00+00:00": 59.95000076293945,
+      "2024-05-06T19:30:00+00:00": 59.78499984741211
+    },
+    "sentiment": 0.9191413521766663
   },
   {
-    "title": "Kellanova price target raised by $3 at Citi, here's why",
-    "published": 1712812200,
-    "posting_price": 55.57701968,
-    "close_price": 54.49050522,
-    "percent_change": -1.95497072
+    "title": "Kellogg Company (NYSE:K) Q1 2024 Earnings Call Transcript",
+    "published": 1714750318,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 61.0,
+      "2024-05-03T14:30:00+00:00": 59.95000076293945,
+      "2024-05-03T15:30:00+00:00": 60.31999969482422,
+      "2024-05-03T16:30:00+00:00": 60.38999938964844,
+      "2024-05-03T17:30:00+00:00": 60.380001068115234,
+      "2024-05-03T18:30:00+00:00": 60.41999816894531,
+      "2024-05-03T19:30:00+00:00": 60.529998779296875
+    },
+    "sentiment": 0.9190845489501953
   },
   {
-    "title": "Maintaining Hold on Kellanova Amid Modest Growth and Market Uncertainties",
-    "published": 1712810820,
-    "posting_price": 55.57701968,
-    "close_price": 54.49050522,
-    "percent_change": -1.95497072
+    "title": "McCormick & Company: Offers Consistency In Volatile Markets But Overvalued",
+    "published": 1714726800,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 61.0,
+      "2024-05-03T14:30:00+00:00": 59.95000076293945,
+      "2024-05-03T15:30:00+00:00": 60.31999969482422,
+      "2024-05-03T16:30:00+00:00": 60.38999938964844,
+      "2024-05-03T17:30:00+00:00": 60.380001068115234,
+      "2024-05-03T18:30:00+00:00": 60.41999816894531,
+      "2024-05-03T19:30:00+00:00": 60.529998779296875
+    },
+    "sentiment": 0.5191500186920166
   },
   {
-    "title": "Kellanova (K) Receives a Hold from Wells Fargo",
-    "published": 1712810160,
-    "posting_price": 55.57701968,
-    "close_price": 54.49050522,
-    "percent_change": -1.95497072
+    "title": "Analysts Offer Insights on Consumer Goods Companies: Celsius Holdings (CELH) and Kellanova (K)",
+    "published": 1714721160,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 61.0,
+      "2024-05-03T14:30:00+00:00": 59.95000076293945,
+      "2024-05-03T15:30:00+00:00": 60.31999969482422,
+      "2024-05-03T16:30:00+00:00": 60.38999938964844,
+      "2024-05-03T17:30:00+00:00": 60.380001068115234,
+      "2024-05-03T18:30:00+00:00": 60.41999816894531,
+      "2024-05-03T19:30:00+00:00": 60.529998779296875
+    },
+    "sentiment": 0.8991433382034302
   },
   {
-    "title": "Kellanova 2024 Annual Shareowners Meeting to be Webcast Live",
-    "published": 1712772000,
-    "posting_price": 55.19867392,
-    "close_price": 55.30538177,
-    "percent_change": 0.19331597
+    "title": "Kellanova Reaches Analyst Target Price",
+    "published": 1714715460,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 61.0,
+      "2024-05-03T14:30:00+00:00": 59.95000076293945,
+      "2024-05-03T15:30:00+00:00": 60.31999969482422,
+      "2024-05-03T16:30:00+00:00": 60.38999938964844,
+      "2024-05-03T17:30:00+00:00": 60.380001068115234,
+      "2024-05-03T18:30:00+00:00": 60.41999816894531,
+      "2024-05-03T19:30:00+00:00": 60.529998779296875
+    },
+    "sentiment": 0.7229845523834229
   },
   {
-    "title": "Kellanova (K) is a Top-Ranked Value Stock: Should You Buy?",
-    "published": 1712756410,
-    "posting_price": 55.19867392,
-    "close_price": 55.30538177,
-    "percent_change": 0.19331597
+    "title": "Q1 2024 Kellanova Earnings Call (Tentative)",
+    "published": 1714710370,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 61.0,
+      "2024-05-03T14:30:00+00:00": 59.95000076293945,
+      "2024-05-03T15:30:00+00:00": 60.31999969482422,
+      "2024-05-03T16:30:00+00:00": 60.38999938964844,
+      "2024-05-03T17:30:00+00:00": 60.380001068115234,
+      "2024-05-03T18:30:00+00:00": 60.41999816894531,
+      "2024-05-03T19:30:00+00:00": 60.529998779296875
+    },
+    "sentiment": 0.8029454350471497
   },
   {
-    "title": "Kellanova (K) Receives a Hold from RBC Capital",
-    "published": 1712738880,
-    "posting_price": 55.19867392,
-    "close_price": 55.30538177,
-    "percent_change": 0.19331597
+    "title": "Dismantling misconceptions about shrinkflation: Kellanova CEO",
+    "published": 1714668444,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.9024772047996521
   },
   {
-    "title": "Kinross to announce Q1 results on May 7, 2024",
-    "published": 1712682000,
-    "posting_price": 55.84863972,
-    "close_price": 55.41209412,
-    "percent_change": -0.78165843
+    "title": "Kellanova (K) Q1 2024 Earnings Call Transcript",
+    "published": 1714659062,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.889987587928772
   },
   {
-    "title": "Celsius, Starbucks, McDonald's and e.l.f. Beauty stand out in a survey of teenagers",
-    "published": 1712653680,
-    "posting_price": 55.84863972,
-    "close_price": 55.41209412,
-    "percent_change": -0.78165843
+    "title": "Pop-Tarts maker Kellanova tops estimates on steady demand, higher prices",
+    "published": 1714654746,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.9465749859809875
   },
   {
-    "title": "Celsius, Starbucks, McDonald's and e.l.f Beauty stand out in survey of teenagers",
-    "published": 1712653320,
-    "posting_price": 55.84863972,
-    "close_price": 55.41209412,
-    "percent_change": -0.78165843
+    "title": "Kellanova's (NYSE:K) Q1 Sales Beat Estimates",
+    "published": 1714652280,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.9071155190467834
   },
   {
-    "title": "Kinross Gold Schedules Q1 Results and Shareholders Meeting",
-    "published": 1712638140,
-    "posting_price": 55.84863972,
-    "close_price": 55.41209412,
-    "percent_change": -0.78165843
+    "title": "K Stock Earnings: Kellogg Beats EPS, Beats Revenue for Q1 2024",
+    "published": 1714650900,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.7577416300773621
   },
   {
-    "title": "Food Giants Pivot To Discounts And New Sizes Amid Decreased Spending by Low-Income Americans",
-    "published": 1712565720,
-    "posting_price": 55.81953696,
-    "close_price": 55.76132965,
-    "percent_change": -0.10427767
+    "title": "Exclusive-TOMS Capital Investment Management has taken stake in Kellanova, sources say",
+    "published": 1714644880,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.9467468857765198
   },
   {
-    "title": "Eggo\u00ae and Jewel-Osco give time, waffles to fight food insecurity in Northern Illinois",
-    "published": 1712322000,
-    "posting_price": 55.86804069,
-    "close_price": 55.73222733,
-    "percent_change": -0.24309669
+    "title": "TOMS Capital takes 'significant' stake in Kellanova, Reuters reports",
+    "published": 1714641840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.8918461799621582
   },
   {
-    "title": "Nutri-Grain\u00ae and King Soopers Join No Kid Hungry to Help End Summer Hunger for Colorado Kids and Families",
-    "published": 1712253480,
-    "posting_price": 55.31508407,
-    "close_price": 55.85834122,
-    "percent_change": 0.98211394
+    "title": "Kellanova: Margin expansion ahead of pace",
+    "published": 1714638360,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.8715542554855347
   },
   {
-    "title": "POP-TARTS\u00ae ADDS A SWEET TWIST TO SNACK TIME WITH POP-TARTS\u00ae CRUNCHY POPPERS AS ITS FIRST-EVER CRUNCHY SNACK",
-    "published": 1712149200,
-    "posting_price": 55.78073216,
-    "close_price": 54.89794159,
-    "percent_change": -1.58260843
+    "title": "Kellanova\u2019s profit falls short of estimates but company strikes bullish tone",
+    "published": 1714637700,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.7102718949317932
   },
   {
-    "title": "Kellanova: Solid Entry Point For Yield And Returns",
-    "published": 1712147153,
-    "posting_price": 55.78073216,
-    "close_price": 54.89794159,
-    "percent_change": -1.58260843
+    "title": "Kellanova: Hold Rating Justified by Mixed Financial Signals and Market Pressures",
+    "published": 1714637160,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.9352293610572815
   },
   {
-    "title": "These are the most crowded longs within consumer staples - UBS",
-    "published": 1712115480,
-    "posting_price": 55.78073216,
-    "close_price": 54.89794159,
-    "percent_change": -1.58260843
+    "title": "Kellanova Co (K) Q1 Earnings: Aligns with Analyst Projections Amidst Market Challenges",
+    "published": 1714635120,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.7209327816963196
   },
   {
-    "title": "Kinross Gold Corp Schedules Virtual 2024 AGM",
-    "published": 1712046600,
-    "posting_price": 55.37328914,
-    "close_price": 55.94564438,
-    "percent_change": 1.03363056
+    "title": "Kellanova backs FY24 free cash flow view ~$1B",
+    "published": 1714633800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.8531666994094849
   },
   {
-    "title": "NOT BROUGHT TO YOU BY POP-TARTS\u00ae: POP-TARTS REACTS TO JERRY SEINFELD'S 'UNFROSTED' FILM, STREAMING ON NETFLIX MAY 3",
-    "published": 1714395600,
-    "posting_price": 56.1881755,
-    "close_price": 56.46950531,
-    "percent_change": 0.5006922
+    "title": "Kellanova backs FY24 adjusted EPS view $3.55-$3.65, consensus $3.57",
+    "published": 1714633440,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.6440165638923645
   },
   {
-    "title": "Earnings week ahead: Amazon, Apple, Pfizer, AMD, Coca-Cola, Starbucks and more",
-    "published": 1714287780,
-    "posting_price": 56.1881717,
-    "close_price": 56.4695015,
-    "percent_change": 0.50069221
+    "title": "Kellanova (K) Receives a Hold from Barclays",
+    "published": 1714618020,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.8201336860656738
   },
   {
-    "title": "Kellanova Declares Regular Dividend of $0.56 per Share for Second Quarter and Announces Plans for Dividend Increase in Third Quarter",
-    "published": 1714145400,
-    "posting_price": 56.49860574,
-    "close_price": 56.00385284,
-    "percent_change": -0.87569046
+    "title": "Investor Optimism Improves Slightly Following Fed Decision",
+    "published": 1714614060,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 59.0,
+      "2024-05-02T14:30:00+00:00": 61.38999938964844,
+      "2024-05-02T15:30:00+00:00": 61.27000045776367,
+      "2024-05-02T16:30:00+00:00": 61.15549850463867,
+      "2024-05-02T17:30:00+00:00": 61.36000061035156,
+      "2024-05-02T18:30:00+00:00": 61.11000061035156,
+      "2024-05-02T19:30:00+00:00": 61.029998779296875
+    },
+    "sentiment": 0.8980721235275269
   },
   {
-    "title": "25 Most Vegetarian Friendly Countries in the World",
-    "published": 1714139038,
-    "posting_price": 56.49860574,
-    "close_price": 56.00385284,
-    "percent_change": -0.87569046
+    "title": "Kellanova Q1 2024 Earnings Preview",
+    "published": 1714562700,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 57.5,
+      "2024-05-01T14:30:00+00:00": 57.08000183105469,
+      "2024-05-01T15:30:00+00:00": 57.31999969482422,
+      "2024-05-01T16:30:00+00:00": 57.38999938964844,
+      "2024-05-01T17:30:00+00:00": 57.5,
+      "2024-05-01T18:30:00+00:00": 57.099998474121094,
+      "2024-05-01T19:30:00+00:00": 57.06999969482422
+    },
+    "sentiment": 0.8424403071403503
   },
   {
-    "title": "Kellanova declares $0.56 dividend",
-    "published": 1714127640,
-    "posting_price": 56.49860574,
-    "close_price": 56.00385284,
-    "percent_change": -0.87569046
+    "title": "Kellanova\u2019s Pringles brand debuts new bag packaging",
+    "published": 1715610130,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 62.0,
+      "2024-05-13T14:30:00+00:00": 62.619998931884766,
+      "2024-05-13T15:30:00+00:00": 62.4900016784668,
+      "2024-05-13T16:30:00+00:00": 62.290000915527344,
+      "2024-05-13T17:30:00+00:00": 62.40999984741211,
+      "2024-05-13T18:30:00+00:00": 62.41999816894531,
+      "2024-05-13T19:30:00+00:00": 62.44499969482422
+    },
+    "sentiment": 0.7213429808616638
   },
   {
-    "title": "Kellanova announces plans to increase dividend to 57c in Q3",
-    "published": 1714127520,
-    "posting_price": 56.49860574,
-    "close_price": 56.00385284,
-    "percent_change": -0.87569046
+    "title": "Kellanova recognizes Mental Health Awareness Month with Learning Resource",
+    "published": 1715605200,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 62.0,
+      "2024-05-13T14:30:00+00:00": 62.619998931884766,
+      "2024-05-13T15:30:00+00:00": 62.4900016784668,
+      "2024-05-13T16:30:00+00:00": 62.290000915527344,
+      "2024-05-13T17:30:00+00:00": 62.40999984741211,
+      "2024-05-13T18:30:00+00:00": 62.41999816894531,
+      "2024-05-13T19:30:00+00:00": 62.44499969482422
+    },
+    "sentiment": 0.6185323596000671
   },
   {
-    "title": "Earnings Preview: Kellanova (K) Q1 Earnings Expected to Decline",
-    "published": 1714053728,
-    "posting_price": 57.20678001,
-    "close_price": 56.70232773,
-    "percent_change": -0.88180506
+    "title": "Kinross Gold Shareholders Approve Director Elections",
+    "published": 1715322600,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 61.5,
+      "2024-05-10T14:30:00+00:00": 61.584999084472656,
+      "2024-05-10T15:30:00+00:00": 61.41999816894531,
+      "2024-05-10T16:30:00+00:00": 61.4900016784668,
+      "2024-05-10T17:30:00+00:00": 61.72999954223633,
+      "2024-05-10T18:30:00+00:00": 61.70000076293945,
+      "2024-05-10T19:30:00+00:00": 61.900001525878906
+    },
+    "sentiment": 0.935623049736023
   },
   {
-    "title": "RBC Capital Sticks to Its Hold Rating for Kellanova (K)",
-    "published": 1713948420,
-    "posting_price": 55.95535221,
-    "close_price": 56.99335861,
-    "percent_change": 1.85506186
+    "title": "Kellanova price target raised by $5 at DA Davidson, here's why",
+    "published": 1715243760,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 62.40999984741211,
+      "2024-05-09T14:30:00+00:00": 61.810001373291016,
+      "2024-05-09T15:30:00+00:00": 61.68000030517578,
+      "2024-05-09T16:30:00+00:00": 61.7599983215332,
+      "2024-05-09T17:30:00+00:00": 61.790000915527344,
+      "2024-05-09T18:30:00+00:00": 61.845001220703125,
+      "2024-05-09T19:30:00+00:00": 61.68000030517578
+    },
+    "sentiment": 0.6635240316390991
   },
   {
-    "title": "Kellanova Faces Growth Challenges Amid Pricing Strategy Adjustments: A Cautious Hold Rating",
-    "published": 1713784620,
-    "posting_price": 55.78073623,
-    "close_price": 56.24638367,
-    "percent_change": 0.83478181
+    "title": "Kinross Gold Shareholders Elect Board with Strong Approval",
+    "published": 1715233080,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 62.40999984741211,
+      "2024-05-09T14:30:00+00:00": 61.810001373291016,
+      "2024-05-09T15:30:00+00:00": 61.68000030517578,
+      "2024-05-09T16:30:00+00:00": 61.7599983215332,
+      "2024-05-09T17:30:00+00:00": 61.790000915527344,
+      "2024-05-09T18:30:00+00:00": 61.845001220703125,
+      "2024-05-09T19:30:00+00:00": 61.68000030517578
+    },
+    "sentiment": 0.8275634050369263
   },
   {
-    "title": "RBC Capital Sticks to Their Hold Rating for Kinross Gold (KGC)",
-    "published": 1713775620,
-    "posting_price": 55.78073623,
-    "close_price": 56.24638367,
-    "percent_change": 0.83478181
+    "title": "WK Kellogg Co (NYSE:KLG) Q1 2024 Earnings Call Transcript",
+    "published": 1715177115,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 61.72999954223633,
+      "2024-05-08T14:30:00+00:00": 61.849998474121094,
+      "2024-05-08T15:30:00+00:00": 62.099998474121094,
+      "2024-05-08T16:30:00+00:00": 62.04499816894531,
+      "2024-05-08T17:30:00+00:00": 62.369998931884766,
+      "2024-05-08T18:30:00+00:00": 62.369998931884766,
+      "2024-05-08T19:30:00+00:00": 62.38999938964844
+    },
+    "sentiment": 0.927467942237854
   },
   {
-    "title": "Most Shareholders Will Probably Agree With Kellanova's (NYSE:K) CEO Compensation",
-    "published": 1713616583,
-    "posting_price": 55.78073623,
-    "close_price": 56.24638367,
-    "percent_change": 0.83478181
+    "title": "Stifel Nicolaus Sticks to Its Hold Rating for Kellanova (K)",
+    "published": 1715159400,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 61.72999954223633,
+      "2024-05-08T14:30:00+00:00": 61.849998474121094,
+      "2024-05-08T15:30:00+00:00": 62.099998474121094,
+      "2024-05-08T16:30:00+00:00": 62.04499816894531,
+      "2024-05-08T17:30:00+00:00": 62.369998931884766,
+      "2024-05-08T18:30:00+00:00": 62.369998931884766,
+      "2024-05-08T19:30:00+00:00": 62.38999938964844
+    },
+    "sentiment": 0.829214870929718
   },
   {
-    "title": "Kellanova and Shaw's join No Kid Hungry to help end summer hunger for kids and families in Maine",
-    "published": 1713555300,
-    "posting_price": 55.03375561,
-    "close_price": 55.6643219,
-    "percent_change": 1.14578095
+    "title": "Stifel Nicolaus Remains a Buy on Kinross Gold (KGC)",
+    "published": 1715150820,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 61.72999954223633,
+      "2024-05-08T14:30:00+00:00": 61.849998474121094,
+      "2024-05-08T15:30:00+00:00": 62.099998474121094,
+      "2024-05-08T16:30:00+00:00": 62.04499816894531,
+      "2024-05-08T17:30:00+00:00": 62.369998931884766,
+      "2024-05-08T18:30:00+00:00": 62.369998931884766,
+      "2024-05-08T19:30:00+00:00": 62.38999938964844
+    },
+    "sentiment": 0.9345347285270691
   },
   {
-    "title": "Is Kellanova Co (K) Set to Underperform? Analyzing the Factors Limiting Growth",
-    "published": 1713434580,
-    "posting_price": 54.6651164,
-    "close_price": 54.84943771,
-    "percent_change": 0.33718269
+    "title": "Kinross Gold Sees Strong Start in 2024",
+    "published": 1715149740,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 61.72999954223633,
+      "2024-05-08T14:30:00+00:00": 61.849998474121094,
+      "2024-05-08T15:30:00+00:00": 62.099998474121094,
+      "2024-05-08T16:30:00+00:00": 62.04499816894531,
+      "2024-05-08T17:30:00+00:00": 62.369998931884766,
+      "2024-05-08T18:30:00+00:00": 62.369998931884766,
+      "2024-05-08T19:30:00+00:00": 62.38999938964844
+    },
+    "sentiment": 0.8888918161392212
   },
   {
-    "title": "Interesting K Put And Call Options For December 20th",
-    "published": 1713433260,
-    "posting_price": 54.6651164,
-    "close_price": 54.84943771,
-    "percent_change": 0.33718269
+    "title": "Kellanova stock rises Wednesday, outperforms market",
+    "published": 1715141520,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 61.72999954223633,
+      "2024-05-08T14:30:00+00:00": 61.849998474121094,
+      "2024-05-08T15:30:00+00:00": 62.099998474121094,
+      "2024-05-08T16:30:00+00:00": 62.04499816894531,
+      "2024-05-08T17:30:00+00:00": 62.369998931884766,
+      "2024-05-08T18:30:00+00:00": 62.369998931884766,
+      "2024-05-08T19:30:00+00:00": 62.38999938964844
+    },
+    "sentiment": 0.9067949652671814
   },
   {
-    "title": "RSPS: Consumer Staples Dashboard For April",
-    "published": 1713345604,
-    "posting_price": 54.08305444,
-    "close_price": 54.39348602,
-    "percent_change": 0.57399047
+    "title": "Kellanova price target raised by $3 at Argus, here's why",
+    "published": 1716448980,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 61.25,
+      "2024-05-23T14:30:00+00:00": 61.540000915527344,
+      "2024-05-23T15:30:00+00:00": 61.5,
+      "2024-05-23T16:30:00+00:00": 61.5099983215332,
+      "2024-05-23T17:30:00+00:00": 61.41999816894531,
+      "2024-05-23T18:30:00+00:00": 61.119998931884766,
+      "2024-05-23T19:30:00+00:00": 61.2599983215332
+    },
+    "sentiment": 0.7574480772018433
   },
   {
-    "title": "Left no crumbs? Nearly half of America's late-night snackers do it in bed, according to survey",
-    "published": 1713268500,
-    "posting_price": 53.70471844,
-    "close_price": 53.85023117,
-    "percent_change": 0.27094962
+    "title": "WK Kellogg Co Stock: Standalone North America Cereal Strategy Is Paying Off",
+    "published": 1716355771,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 61.880001068115234,
+      "2024-05-22T14:30:00+00:00": 61.959999084472656,
+      "2024-05-22T15:30:00+00:00": 61.77000045776367,
+      "2024-05-22T16:30:00+00:00": 61.790000915527344,
+      "2024-05-22T17:30:00+00:00": 61.875,
+      "2024-05-22T18:30:00+00:00": 61.84000015258789,
+      "2024-05-22T19:30:00+00:00": 61.84000015258789
+    },
+    "sentiment": 0.9080228209495544
   },
   {
-    "title": "(K) - Analyzing Kellanova's Short Interest",
-    "published": 1713256320,
-    "posting_price": 53.70471844,
-    "close_price": 53.85023117,
-    "percent_change": 0.27094962
+    "title": "Where Fortune 1000 C-Suite Executives Earned Their MBAs",
+    "published": 1716200556,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 61.470001220703125,
+      "2024-05-20T14:30:00+00:00": 62.150001525878906,
+      "2024-05-20T15:30:00+00:00": 62.220001220703125,
+      "2024-05-20T16:30:00+00:00": 62.13999938964844,
+      "2024-05-20T17:30:00+00:00": 62.189998626708984,
+      "2024-05-20T18:30:00+00:00": 62.150001525878906,
+      "2024-05-20T19:30:00+00:00": 62.0
+    },
+    "sentiment": 0.8553576469421387
   },
   {
-    "title": "Kellanova stock rises Tuesday, outperforms market",
-    "published": 1713240900,
-    "posting_price": 53.70471844,
-    "close_price": 53.85023117,
-    "percent_change": 0.27094962
+    "title": "Pringles brings Minecraft TNT to the table: Celebrating 15 years of gameplay with an explosive, limited-edition flavor",
+    "published": 1715860800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 62.0,
+      "2024-05-16T14:30:00+00:00": 62.060001373291016,
+      "2024-05-16T15:30:00+00:00": 61.849998474121094,
+      "2024-05-16T16:30:00+00:00": 61.84000015258789,
+      "2024-05-16T17:30:00+00:00": 61.88999938964844,
+      "2024-05-16T18:30:00+00:00": 62.02899932861328,
+      "2024-05-16T19:30:00+00:00": 62.03499984741211
+    },
+    "sentiment": 0.7813280820846558
   }
 ]

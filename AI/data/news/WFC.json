@@ -1,1633 +1,470 @@
 [
   {
-    "title": "Judge dismisses lawsuit against Wells Fargo over prescription drug costs",
-    "published": 1742982895,
-    "posting_price": 74.38999939,
-    "close_price": 73.47000122,
-    "percent_change": -1.23672292
-  },
-  {
-    "title": "Wall Street bonuses jump 32% as total surges to record, NY comptroller says",
-    "published": 1742979791,
-    "posting_price": 74.38999939,
-    "close_price": 73.47000122,
-    "percent_change": -1.23672292
-  },
-  {
-    "title": "Animal welfare, DEI and more: Banks face votes on hot topics",
-    "published": 1742933808,
-    "posting_price": 74.47000122,
-    "close_price": 74.23999786,
-    "percent_change": -0.30885371
-  },
-  {
-    "title": "Barclays Prevails in Two Lawsuits Over $17.7B Securities Overissuance",
-    "published": 1742920860,
-    "posting_price": 74.47000122,
-    "close_price": 74.23999786,
-    "percent_change": -0.30885371
-  },
-  {
-    "title": "Wells Fargo & Company (WFC) Continues to Make Profit. Here\u2019s Why",
-    "published": 1742560979,
-    "posting_price": 71.95999908,
-    "close_price": 72.51999664,
-    "percent_change": 0.77820674
-  },
-  {
-    "title": "Former Wells Fargo Advisor Fined, Suspended for Transferring Funds at Request of Client With Dementia",
-    "published": 1742415600,
-    "posting_price": 71.13999939,
-    "close_price": 72.76000214,
-    "percent_change": 2.27720377
-  },
-  {
-    "title": "Wells Fargo's 2021 Compliance Consent Order Terminated by OCC",
-    "published": 1742315100,
-    "posting_price": 71.01000214,
-    "close_price": 71.11000061,
-    "percent_change": 0.14082308
-  },
-  {
-    "title": "JPMorgan Opens Spigot Big Bank Bond Sales After Earnings",
-    "published": 1713214705,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Bank Earnings: A Roundup of Journal Coverage",
-    "published": 1713166436,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "First Quarter Bank Earnings Brought The Revival That Wall Street Needed",
-    "published": 1713201077,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "JPMorgan, Citigroup and even Wells Fargo are part of Zacks Earnings Preview",
-    "published": 1713186120,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Fear & Greed Index In 'Neutral' Zone; Dow Tumbles 475 Points",
-    "published": 1713185820,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Market Watch: Global Shares Dip Amid Middle East Tensions",
-    "published": 1713183480,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Goldman Sachs stock climbs after Q1 earnings impress with core strength",
-    "published": 1713178200,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "U.S. Bancorp Stock: An Attractive Income Pick Ahead Of Q1 2024 Earnings",
-    "published": 1713177931,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Goldman Sachs (GS) Surpasses Q1 Earnings and Sales Forecasts Amid Market Challenges",
-    "published": 1713176100,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Wells Fargo (WFC), Customers Bancorp (CUBI) and Unity Bancorp (UNTY)",
-    "published": 1713171060,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Wells Fargo price target raised by $9 at Argus, here's why",
-    "published": 1713169560,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Bank Earnings Paint A Mixed Economic Picture",
-    "published": 1713167640,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Wells Fargo (WFC) Receives a Buy from Seaport Global",
-    "published": 1713166560,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Heard on the Street Friday Recap: Everything Everywhere All at Once",
-    "published": 1713165312,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Galaxy Digital Holdings (OtherBRPHF) and Wells Fargo (WFC)",
-    "published": 1713163260,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Asian Markets Set to Tumble After US Inflation Concerns",
-    "published": 1713161880,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: NY Community (NYCB), SLM (SLM) and Wells Fargo (WFC)",
-    "published": 1713157860,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Zurich Insurance Group (OtherZFSVF) and Wells Fargo (WFC)",
-    "published": 1713157260,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Wells Fargo: The Removal Of The Asset-Cap In 2025 May Unlock The Necessary Optimism",
-    "published": 1713155672,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Earnings from more banks, Netflix, and retail sales: What to know this week",
-    "published": 1713099604,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Market Implications Following Iran's Retaliation Against Israel",
-    "published": 1713089880,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Wells Fargo\u2019s Strong Financial Performance and Positive Outlook Justify Buy Rating",
-    "published": 1713083760,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Wells Fargo\u2019s Strong Performance and Growth Prospects Merit a Buy Rating",
-    "published": 1713083160,
-    "posting_price": 56.24307339,
-    "close_price": 55.61825943,
-    "percent_change": -1.11091717
-  },
-  {
-    "title": "Will Banks Finally Have to Pay You More for Your Savings?",
-    "published": 1713000600,
-    "posting_price": 56.24307725,
-    "close_price": 55.61826324,
-    "percent_change": -1.11091718
-  },
-  {
-    "title": "Wells Fargo: Strong Q1 Earnings Will Lead To Further Outperformance",
-    "published": 1712995200,
-    "posting_price": 56.24307725,
-    "close_price": 55.61826324,
-    "percent_change": -1.11091718
-  },
-  {
-    "title": "Big Banks Turn Inflationary Lemons Into Lemonade",
-    "published": 1712992200,
-    "posting_price": 56.24307725,
-    "close_price": 55.61826324,
-    "percent_change": -1.11091718
-  },
-  {
-    "title": "Wells Fargo & Co (WFC) Q1 2024 Earnings Call Transcript Highlights: A Mixed Financial ...",
-    "published": 1712970120,
-    "posting_price": 56.24307725,
-    "close_price": 55.61826324,
-    "percent_change": -1.11091718
-  },
-  {
-    "title": "High Rates Have Been a Profit Machine For Banks. Not Anymore.",
-    "published": 1712939880,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "These Stocks Moved the Most Today: JPMorgan Chase, Citigroup, AMD, Intel, Arista Networks, Zoetis, and More",
-    "published": 1712954220,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "US STOCKS-Wall St ends sharply lower on mixed earnings, sticky inflation, geopolitical fears",
-    "published": 1712953824,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "The Q1 Earnings Season Kicks off Positively",
-    "published": 1712953680,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo (WFC) Q1 2024 Earnings Call Transcript",
-    "published": 1712948413,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "WRAPUP 1-US banks' profit picture less clear with cloudy rates trajectory",
-    "published": 1712944218,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "These Stocks Are Moving the Most Today: JPMorgan, Wells Fargo, Citigroup, BlackRock, AMD, Amazon, Apple, and More",
-    "published": 1712916720,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo (WFC) Q1 Earnings Surpass Estimates, Costs Rise",
-    "published": 1712940000,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Shares fall as banking and chip stocks slump",
-    "published": 1712938620,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo Q1 Earnings: A Mixed Bag Amid Rising Interest Rates",
-    "published": 1712938509,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Bank Earnings Roll In: A Roundup of Journal Coverage",
-    "published": 1712938412,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Banks Upbeat on Consumer Spending Despite High Rates",
-    "published": 1712938320,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Bull Case Fizzles for Big US Banks to Earn Ever-More on Lending",
-    "published": 1712937834,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Boon for big banks: More consumers leaned on credit cards in Q1",
-    "published": 1712937331,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "JPMorgan earnings call struck 'cautious' tone on high rates",
-    "published": 1712937114,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Major Bank Stocks Decline as Investors Focus on Effect of Interest Rates",
-    "published": 1712935722,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Consumer credit signals 'outright weakness,' spending may drop",
-    "published": 1712934228,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Bank earnings: JPMorgan slides on net interest income woes",
-    "published": 1712933950,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Major Bank Stocks Decline",
-    "published": 1712933662,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Consumer sentiment inches lower for April: UMich survey",
-    "published": 1712933412,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Stocks Drop After JPMorgan Chase, Wells Fargo Results Land",
-    "published": 1712932260,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "US STOCKS-Wall St slips after big bank earnings",
-    "published": 1712932059,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "2 Bank Stocks To Watch In April 2024",
-    "published": 1712930455,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "US banks' profit picture less clear with cloudy rates trajectory",
-    "published": 1712929818,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo's Profit Falls but Beats Expectations",
-    "published": 1712929653,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo & Company (WFC) Q1 2024 Earnings Call Transcript",
-    "published": 1712929454,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Big Bank earnings: Biggest takeaways from Q1 results",
-    "published": 1712929104,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Higher Rates Hit Big-Bank Mortgage Businesses",
-    "published": 1712928931,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "JPMorgan, Wells Fargo, Citi stocks drop despite robust first-quarter earnings",
-    "published": 1712926740,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo & Company 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1712921124,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "WFC Stock Earnings: Wells Fargo Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1712915640,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Trending : Wells Fargo Reports Decline in 1Q Earnings",
-    "published": 1712915537,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "AKAN Stock Pops as Akanda Eyes Entry into German Cannabis Market",
-    "published": 1712914620,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo mpany : Form 8-K",
-    "published": 1712914447,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Shrinking Profits at Wells Fargo Rock WFC Stock. What Comes Next?",
-    "published": 1712914020,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo Exceeds Q1 Expectations, Sets Optimistic Outlook",
-    "published": 1712913060,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo: Consumer credit performing as expected",
-    "published": 1712913000,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo continues to see strength in U.S. economy, says CEO",
-    "published": 1712912940,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo continuing to execute on efficiency initiatives",
-    "published": 1712912760,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo expects to repurchase more stock this year than in 2023",
-    "published": 1712912700,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Nasdaq, S&P, Dow slip as major banks kick off earnings season",
-    "published": 1712910900,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo: EPS down 2% in Q1",
-    "published": 1712909432,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Big banks warn of uncertain year ahead after mixed financial performances in the first quarter",
-    "published": 1712908740,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "TOP NEWS: Wells Fargo first quarter profit down on interest income dip",
-    "published": 1712908620,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo mpany : Q1 2024 news release",
-    "published": 1712906437,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo mpany : Q1 2024 presentation",
-    "published": 1712906432,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo mpany : Q1 2024 quarterly supplement",
-    "published": 1712906427,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "WFC Earnings: Wells Fargo\u2019s Q1 Earnings Beat Estimates",
-    "published": 1712905500,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo Reports First Quarter 2024 Financial Results",
-    "published": 1712905386,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo profit shrinks on lower interest income",
-    "published": 1712904776,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo: Q1 Earnings Snapshot",
-    "published": 1712904730,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo Q1 earnings beat, helped by noninterest income, lower credit loss",
-    "published": 1712904600,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo in charts: Consumer, commercial banking dip while investment segments rise in Q1",
-    "published": 1712903520,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo in charts: Consumer, commercial banking dip while corporate and wealth segments rise in Q1",
-    "published": 1712902860,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo sees 2024 NII 7%-9% lower than 2023's level of $52.4B",
-    "published": 1712901960,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Nasdaq, S&P, Dow futures slip as major banks kick off earnings season",
-    "published": 1712901780,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo Q1 2024 Earnings Call and Insight Webcast",
-    "published": 1712901780,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo Non-GAAP EPS of $1.26 beats by $0.17, revenue of $20.86B beats by $710M",
-    "published": 1712901060,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo CEO says 'solid first quarter results'",
-    "published": 1712901060,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Wells Fargo reports Q1 EPS $1.20, consensus $1.00",
-    "published": 1712901000,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Market Dynamics Shift as Powell Signals Economic Turn and Corporate Profits Soar",
-    "published": 1712899140,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Three Banking Stocks To Buy As Earnings Season Kick Off",
-    "published": 1712897160,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Record Outflows from US Large Cap Stocks Amid Inflation Concerns",
-    "published": 1712891940,
-    "posting_price": 54.64198677,
-    "close_price": 55.13012314,
-    "percent_change": 0.89333569
-  },
-  {
-    "title": "Bank Stocks Trade Tight With JPMorgan, Wells Fargo Set To Report",
-    "published": 1712868529,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "Wells Fargo's Asset Cap Could Be Key for the Stock",
-    "published": 1712864662,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "March PPI data, ECB rates, Big Bank earnings: 3 Things",
-    "published": 1712841555,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "LONDON MARKET CLOSE: Dwindling US Fed cut hope unnerves markets",
-    "published": 1712836380,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "Q1 2024 Earnings Preview: Will Reports Be Good Enough To Turn Markets Positive",
-    "published": 1712829600,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "May 31st Options Now Available For Wells Fargo (WFC)",
-    "published": 1712828400,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "Wells Fargo Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-    "published": 1712827740,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "U.S. stocks soar above global markets, giving investors solid path for growth",
-    "published": 1712822400,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "More Inflation Data, Bank Earnings: What to Watch Thursday Onward",
-    "published": 1712820660,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "Bank of America: Why I Am Going All-In Now (Technical Analysis)",
-    "published": 1712818986,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "Futures Dip as Treasury Yields Stay High, Fed Rate Cut Hopes Diminish",
-    "published": 1712816280,
-    "posting_price": 55.6280182,
-    "close_price": 55.34489822,
-    "percent_change": -0.50895212
-  },
-  {
-    "title": "US to consider concerns about China's Brite in trade sanction decisions",
-    "published": 1712788319,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "With Earnings Coming On Wells Fargo Stock, We'll Look At A Cash-Secured Put",
-    "published": 1712775572,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Wall St slides as inflation stalls, rate cut hopes wane",
-    "published": 1712759464,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Wells Fargo Names New Head of Public Affairs",
-    "published": 1712757602,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "\u2018Much improved\u2019 investment-banking revenue awaits big Wall Street banks: Moodys",
-    "published": 1712751240,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Jason M. Rosenberg to Join Wells Fargo as Head of Public Affairs",
-    "published": 1712746800,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "As US bank profits drop, focus shifts to interest income outlook",
-    "published": 1712745375,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Big bank profits likely fell in first quarter but investors don't seem worried",
-    "published": 1712736033,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Wells Fargo Names Jason Rosenberg Head of Public Affairs",
-    "published": 1712734903,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "WSJ's Take On the Week Podcast: Why Big Bank Profits Could Be Good for Consumers",
-    "published": 1712733697,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Short-Term Treasury Gains Anticipated Amid Slowing US Inflation",
-    "published": 1712729940,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Futures of US Stock Indices Slightly Up Ahead of Key Inflation Data",
-    "published": 1712729880,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Futures tread higher ahead of latest inflation test",
-    "published": 1712729781,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Wells Fargo Unusual Options Activity For April 10",
-    "published": 1712715720,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Compass Point Downgrades Wells Fargo (WFC)",
-    "published": 1712708982,
-    "posting_price": 55.44252389,
-    "close_price": 55.58896255,
-    "percent_change": 0.26412697
-  },
-  {
-    "title": "Wells Fargo Hires Deutsche Bank\u2019s Barth for Leveraged Finance",
-    "published": 1712678204,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "What's in the Cards for Wells Fargo (WFC) in Q1 Earnings?",
-    "published": 1712675580,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "The 2024 Q1 Earnings Season Gets Underway",
-    "published": 1712656680,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "Wells Fargo loses bull rating from Compass on NII guidance debate",
-    "published": 1712655480,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "Navigating Economic Shifts With Bill Holdings",
-    "published": 1712649660,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "Market Watch: Key Inflation Data Awaits, Investor Caution Persists",
-    "published": 1712639880,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "Compass Point downgrades Wells Fargo with catalysts priced in",
-    "published": 1712634300,
-    "posting_price": 56.33093494,
-    "close_price": 56.21378326,
-    "percent_change": -0.20797042
-  },
-  {
-    "title": "Stock futures up ahead of economic data, Q1 earnings",
-    "published": 1712584170,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "Commercial Real Estate: The Return Of 'Extend And Pretend'",
-    "published": 1712579178,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "Citigroup, JPMorgan and Wells Fargo are part of Zacks Earnings Preview",
-    "published": 1712577720,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "Bank Earnings, Inflation Data: What to Watch This Week",
-    "published": 1712565465,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "Compass Point gets more bearish on Wells Fargo, downgrades shares",
-    "published": 1712564520,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "U.S. Stock Futures Stagnate Amid Rising Treasury Yields and Fed Rate Cut Speculations",
-    "published": 1712557080,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "Wells Fargo price target raised by $8 at Jefferies, here's why",
-    "published": 1712554500,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "This Week: Consumer prices, Fed meeting minutes and earnings reports from several big banks",
-    "published": 1712534460,
-    "posting_price": 56.01853248,
-    "close_price": 56.41880417,
-    "percent_change": 0.71453441
-  },
-  {
-    "title": "Making The Case For Bank Stocks",
-    "published": 1712369460,
-    "posting_price": 56.0185287,
-    "close_price": 56.41880035,
-    "percent_change": 0.71453439
-  },
-  {
-    "title": "Top Stocks JPMorgan, Citigroup, Wells Fargo Set To Kick Off Q1 Earnings Season",
-    "published": 1712329629,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Earnings Preview: Wells Fargo (WFC) Q1 Earnings Expected to Decline",
-    "published": 1712325606,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Wells Fargo to Announce First Quarter 2024 Earnings on April 12, 2024",
-    "published": 1712318400,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Bound Viking Holdings reveals 50% revenue jump, loss in 2023",
-    "published": 1712309977,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Commercial Real Estate Loans Have Only Begun To Put Pressure On Major Banks",
-    "published": 1712304000,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Wells Fargo Stock: It Was A Nice Rally, But Some Risks Remain (Rating Downgrade)",
-    "published": 1712304000,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Bank of America Corp Sees Notable Reduction in Daily Journal Corp's Portfolio",
-    "published": 1712294135,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "JPMorgan, Wells Fargo, Citi first-quarter profit expected to be flat as interest rates rise and loan activity lags",
-    "published": 1712282100,
-    "posting_price": 55.28632498,
-    "close_price": 56.03805542,
-    "percent_change": 1.35970412
-  },
-  {
-    "title": "Wells Fargo price target raised by $9 at UBS, here's why",
-    "published": 1712229180,
-    "posting_price": 56.36022588,
-    "close_price": 55.33514023,
-    "percent_change": -1.8188104
-  },
-  {
-    "title": "Spotlight on Wells Fargo: Analyzing the Surge in Options Activity",
-    "published": 1712227860,
-    "posting_price": 56.36022588,
-    "close_price": 55.33514023,
-    "percent_change": -1.8188104
-  },
-  {
-    "title": "Wells Fargo price target raised by $8 at Seaport Research, here's why",
-    "published": 1712217180,
-    "posting_price": 56.36022588,
-    "close_price": 55.33514023,
-    "percent_change": -1.8188104
-  },
-  {
-    "title": "Wells Fargo (WFC) Stock Drops Despite Market Gains: Important Facts to Note",
-    "published": 1712180721,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "Wells Fargo & Company (WFC) Is a Trending Stock: Facts to Know Before Betting on It",
-    "published": 1712149215,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "Wells Fargo Reports Before the Open on 4/12 -- Options Contracts Expire the Same Day",
-    "published": 1712148960,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "Bank Earnings Loom: What To Expect",
-    "published": 1712134140,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "Navigating Market Uncertainty: Intrinsic Value of Wells Fargo & Co",
-    "published": 1712124060,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "West Fraser Announces Q1 2024 Results Call",
-    "published": 1712120280,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "West Fraser Announces Q1 Results Discussion",
-    "published": 1712119200,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "The 3 Best Battery Stocks to Buy in April 2024",
-    "published": 1712113380,
-    "posting_price": 55.84279863,
-    "close_price": 55.77445984,
-    "percent_change": -0.12237709
-  },
-  {
-    "title": "West Fraser Resumes Solo Ownership of Cariboo Mill",
-    "published": 1712034000,
-    "posting_price": 55.99899974,
-    "close_price": 55.98923492,
-    "percent_change": -0.01743749
-  },
-  {
-    "title": "West Fraser Assumes Solo Reign of Cariboo Pulp Mill",
-    "published": 1712032800,
-    "posting_price": 55.99899974,
-    "close_price": 55.98923492,
-    "percent_change": -0.01743749
-  },
-  {
-    "title": "P97 Networks receives $10m in growth debt capital from Wells Fargo to fuel expansion",
-    "published": 1714519034,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo & Company Announces Common Stock Dividend",
-    "published": 1714503600,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo Announces Preliminary Voting Results of 2024 Annual Meeting of Shareholders",
-    "published": 1714498200,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo investors approve executive pay, CEO underscores risk controls",
-    "published": 1714497169,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "If You'd Invested $1,000 in Wells Fargo 5 Years Ago, Here's How Much You'd Have Today",
-    "published": 1714469520,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo and Hertz Global have been highlighted as Zacks Bull and Bear of the Day",
-    "published": 1714467540,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Bull of the Day: Wells Fargo (WFC)",
-    "published": 1714464000,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo declares $0.35 dividend",
-    "published": 1714445400,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo's Options: A Look at What the Big Money is Thinking",
-    "published": 1714439880,
-    "posting_price": 58.18585365,
-    "close_price": 57.91249847,
-    "percent_change": -0.46979663
-  },
-  {
-    "title": "Wells Fargo downgraded at PhillipCapital on recent stock outperformance",
-    "published": 1714380480,
-    "posting_price": 58.43968503,
-    "close_price": 58.38110733,
-    "percent_change": -0.10023617
-  },
-  {
-    "title": "Scotiabank Remains a Buy on West Fraser Timber Co (WFG)",
-    "published": 1714372620,
-    "posting_price": 58.43968503,
-    "close_price": 58.38110733,
-    "percent_change": -0.10023617
-  },
-  {
-    "title": "Apple Earnings Preview: Is AAPL Stock a Buy Ahead of the May 2 Report?",
-    "published": 1714367220,
-    "posting_price": 58.43968503,
-    "close_price": 58.38110733,
-    "percent_change": -0.10023617
-  },
-  {
-    "title": "Wells Fargo downgraded to Neutral from Accumulate Phillip Securities",
-    "published": 1714363680,
-    "posting_price": 58.43968503,
-    "close_price": 58.38110733,
-    "percent_change": -0.10023617
-  },
-  {
-    "title": "Wells Fargo\u2019s Strong Non-Interest Income and Share Buyback Program Bolster Buy Rating",
-    "published": 1714361820,
-    "posting_price": 58.43968503,
-    "close_price": 58.38110733,
-    "percent_change": -0.10023617
-  },
-  {
-    "title": "Wall Financial Records Dip in Annual Earnings",
-    "published": 1714120680,
-    "posting_price": 58.36157838,
-    "close_price": 58.48849487,
-    "percent_change": 0.21746583
-  },
-  {
-    "title": "Wells Fargo Expands Down Payment Grant Program to Help Bridge Homeownership Gap",
-    "published": 1714066020,
-    "posting_price": 59.17189575,
-    "close_price": 58.50802994,
-    "percent_change": -1.12192757
-  },
-  {
-    "title": "Wells Fargo & Company (WFC) is Attracting Investor Attention: Here is What You Should Know",
-    "published": 1714050014,
-    "posting_price": 59.17189575,
-    "close_price": 58.50802994,
-    "percent_change": -1.12192757
-  },
-  {
-    "title": "Wells Fargo's Options Frenzy: What You Need to Know",
-    "published": 1714038660,
-    "posting_price": 59.17189575,
-    "close_price": 58.50802994,
-    "percent_change": -1.12192757
-  },
-  {
-    "title": "3 Lithium Stocks to Buy on the Dip: April 2024",
-    "published": 1714022220,
-    "posting_price": 59.17189575,
-    "close_price": 58.50802994,
-    "percent_change": -1.12192757
+    "title": "4 Reasons to Add Wells Fargo (WFC) Stock to Your Portfolio",
+    "published": 1715008260,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 60.470001220703125,
+      "2024-05-06T14:30:00+00:00": 60.689998626708984,
+      "2024-05-06T15:30:00+00:00": 60.14500045776367,
+      "2024-05-06T16:30:00+00:00": 60.22999954223633,
+      "2024-05-06T17:30:00+00:00": 60.14500045776367,
+      "2024-05-06T18:30:00+00:00": 60.19499969482422,
+      "2024-05-06T19:30:00+00:00": 59.88999938964844
+    },
+    "sentiment": 0.9327324032783508
+  },
+  {
+    "title": "Barclays Sticks to Its Buy Rating for Wells Fargo (WFC)",
+    "published": 1714966680,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 60.470001220703125,
+      "2024-05-06T14:30:00+00:00": 60.689998626708984,
+      "2024-05-06T15:30:00+00:00": 60.14500045776367,
+      "2024-05-06T16:30:00+00:00": 60.22999954223633,
+      "2024-05-06T17:30:00+00:00": 60.14500045776367,
+      "2024-05-06T18:30:00+00:00": 60.19499969482422,
+      "2024-05-06T19:30:00+00:00": 59.88999938964844
+    },
+    "sentiment": 0.8485293388366699
+  },
+  {
+    "title": "Earnings Estimates Rising for Wells Fargo (WFC): Will It Gain?",
+    "published": 1714753206,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.0,
+      "2024-05-03T14:30:00+00:00": 59.619998931884766,
+      "2024-05-03T15:30:00+00:00": 59.84000015258789,
+      "2024-05-03T16:30:00+00:00": 60.064998626708984,
+      "2024-05-03T17:30:00+00:00": 60.1150016784668,
+      "2024-05-03T18:30:00+00:00": 60.18000030517578,
+      "2024-05-03T19:30:00+00:00": 60.04999923706055
+    },
+    "sentiment": 0.8818333148956299
+  },
+  {
+    "title": "Interesting WFC Put And Call Options For June 14th",
+    "published": 1714734300,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.0,
+      "2024-05-03T14:30:00+00:00": 59.619998931884766,
+      "2024-05-03T15:30:00+00:00": 59.84000015258789,
+      "2024-05-03T16:30:00+00:00": 60.064998626708984,
+      "2024-05-03T17:30:00+00:00": 60.1150016784668,
+      "2024-05-03T18:30:00+00:00": 60.18000030517578,
+      "2024-05-03T19:30:00+00:00": 60.04999923706055
+    },
+    "sentiment": 0.9205240607261658
+  },
+  {
+    "title": "US employers scaled back hiring in April. How that could let the Fed cut interest rates",
+    "published": 1714694460,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.0,
+      "2024-05-03T14:30:00+00:00": 59.619998931884766,
+      "2024-05-03T15:30:00+00:00": 59.84000015258789,
+      "2024-05-03T16:30:00+00:00": 60.064998626708984,
+      "2024-05-03T17:30:00+00:00": 60.1150016784668,
+      "2024-05-03T18:30:00+00:00": 60.18000030517578,
+      "2024-05-03T19:30:00+00:00": 60.04999923706055
+    },
+    "sentiment": 0.8756507635116577
+  },
+  {
+    "title": "Video: Daily Dividend Report: WFC,BDX,PCAR,KHC,PEP",
+    "published": 1714563600,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 59.58000183105469,
+      "2024-05-01T14:30:00+00:00": 59.7599983215332,
+      "2024-05-01T15:30:00+00:00": 59.790000915527344,
+      "2024-05-01T16:30:00+00:00": 59.599998474121094,
+      "2024-05-01T17:30:00+00:00": 59.54970169067383,
+      "2024-05-01T18:30:00+00:00": 59.73500061035156,
+      "2024-05-01T19:30:00+00:00": 59.89500045776367
+    },
+    "sentiment": 0.9515526294708252
+  },
+  {
+    "title": "Wells Fargo & Co: An Exploration into Its Intrinsic Value",
+    "published": 1714543260,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 59.58000183105469,
+      "2024-05-01T14:30:00+00:00": 59.7599983215332,
+      "2024-05-01T15:30:00+00:00": 59.790000915527344,
+      "2024-05-01T16:30:00+00:00": 59.599998474121094,
+      "2024-05-01T17:30:00+00:00": 59.54970169067383,
+      "2024-05-01T18:30:00+00:00": 59.73500061035156,
+      "2024-05-01T19:30:00+00:00": 59.89500045776367
+    },
+    "sentiment": 0.8763689398765564
+  },
+  {
+    "title": "Wells Fargo snaps six straight sessions of losses",
+    "published": 1714532580,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 59.58000183105469,
+      "2024-05-01T14:30:00+00:00": 59.7599983215332,
+      "2024-05-01T15:30:00+00:00": 59.790000915527344,
+      "2024-05-01T16:30:00+00:00": 59.599998474121094,
+      "2024-05-01T17:30:00+00:00": 59.54970169067383,
+      "2024-05-01T18:30:00+00:00": 59.73500061035156,
+      "2024-05-01T19:30:00+00:00": 59.89500045776367
+    },
+    "sentiment": 0.8170760869979858
+  },
+  {
+    "title": "Looking At Wells Fargo's Recent Unusual Options Activity",
+    "published": 1715769420,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 62.20000076293945,
+      "2024-05-15T14:30:00+00:00": 62.290000915527344,
+      "2024-05-15T15:30:00+00:00": 62.13999938964844,
+      "2024-05-15T16:30:00+00:00": 61.98500061035156,
+      "2024-05-15T17:30:00+00:00": 61.900001525878906,
+      "2024-05-15T18:30:00+00:00": 61.98500061035156,
+      "2024-05-15T19:30:00+00:00": 62.060001373291016
+    },
+    "sentiment": 0.8909339308738708
+  },
+  {
+    "title": "Charles Brandes Amplifies Stake in CAE Inc, Marking a Strategic Portfolio Adjustment",
+    "published": 1715734920,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 62.20000076293945,
+      "2024-05-15T14:30:00+00:00": 62.290000915527344,
+      "2024-05-15T15:30:00+00:00": 62.13999938964844,
+      "2024-05-15T16:30:00+00:00": 61.98500061035156,
+      "2024-05-15T17:30:00+00:00": 61.900001525878906,
+      "2024-05-15T18:30:00+00:00": 61.98500061035156,
+      "2024-05-15T19:30:00+00:00": 62.060001373291016
+    },
+    "sentiment": 0.5536568760871887
+  },
+  {
+    "title": "Wells Fargo (WFC) Announces Investments in Bitcoin ETFs",
+    "published": 1715701200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 61.560001373291016,
+      "2024-05-14T14:30:00+00:00": 61.68000030517578,
+      "2024-05-14T15:30:00+00:00": 61.79499816894531,
+      "2024-05-14T16:30:00+00:00": 61.89500045776367,
+      "2024-05-14T17:30:00+00:00": 61.47999954223633,
+      "2024-05-14T18:30:00+00:00": 61.689998626708984,
+      "2024-05-14T19:30:00+00:00": 61.849998474121094
+    },
+    "sentiment": 0.9104059338569641
+  },
+  {
+    "title": "A Path to Independence: Shirley Sherrod on Racial Justice and the Value of Land",
+    "published": 1715610600,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 61.959999084472656,
+      "2024-05-13T14:30:00+00:00": 62.04499816894531,
+      "2024-05-13T15:30:00+00:00": 61.709999084472656,
+      "2024-05-13T16:30:00+00:00": 61.80500030517578,
+      "2024-05-13T17:30:00+00:00": 61.58000183105469,
+      "2024-05-13T18:30:00+00:00": 61.505001068115234,
+      "2024-05-13T19:30:00+00:00": 61.494998931884766
+    },
+    "sentiment": 0.8696534037590027
+  },
+  {
+    "title": "JPMorgan Reports $760K Spot Bitcoin ETF Holdings Even As CEO Jamie Dimon Called For Shutting Down Crypto Industry",
+    "published": 1715421780,
+    "day_prices": {},
+    "sentiment": 0.5984749794006348
+  },
+  {
+    "title": "Are You Looking for a Top Momentum Pick? Why Merchants Bancorp (MBIN) is a Great Choice",
+    "published": 1715011210,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 60.470001220703125,
+      "2024-05-06T14:30:00+00:00": 60.689998626708984,
+      "2024-05-06T15:30:00+00:00": 60.14500045776367,
+      "2024-05-06T16:30:00+00:00": 60.22999954223633,
+      "2024-05-06T17:30:00+00:00": 60.14500045776367,
+      "2024-05-06T18:30:00+00:00": 60.19499969482422,
+      "2024-05-06T19:30:00+00:00": 59.88999938964844
+    },
+    "sentiment": 0.5469409227371216
+  },
+  {
+    "title": "Wells Fargo Launches Signify Business Cash Mastercard\u00ae",
+    "published": 1715256180,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 60.7400016784668,
+      "2024-05-09T14:30:00+00:00": 61.209999084472656,
+      "2024-05-09T15:30:00+00:00": 61.25,
+      "2024-05-09T16:30:00+00:00": 61.20500183105469,
+      "2024-05-09T17:30:00+00:00": 61.119998931884766,
+      "2024-05-09T18:30:00+00:00": 61.19499969482422,
+      "2024-05-09T19:30:00+00:00": 61.327999114990234
+    },
+    "sentiment": 0.8751454949378967
+  },
+  {
+    "title": "Wells Fargo mpany : current report on Form 8-K",
+    "published": 1715248216,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 60.7400016784668,
+      "2024-05-09T14:30:00+00:00": 61.209999084472656,
+      "2024-05-09T15:30:00+00:00": 61.25,
+      "2024-05-09T16:30:00+00:00": 61.20500183105469,
+      "2024-05-09T17:30:00+00:00": 61.119998931884766,
+      "2024-05-09T18:30:00+00:00": 61.19499969482422,
+      "2024-05-09T19:30:00+00:00": 61.327999114990234
+    },
+    "sentiment": 0.9411900043487549
+  },
+  {
+    "title": "3 High-Yield Real Estate Stocks for Long-Term Income",
+    "published": 1715216940,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 60.7400016784668,
+      "2024-05-09T14:30:00+00:00": 61.209999084472656,
+      "2024-05-09T15:30:00+00:00": 61.25,
+      "2024-05-09T16:30:00+00:00": 61.20500183105469,
+      "2024-05-09T17:30:00+00:00": 61.119998931884766,
+      "2024-05-09T18:30:00+00:00": 61.19499969482422,
+      "2024-05-09T19:30:00+00:00": 61.327999114990234
+    },
+    "sentiment": 0.9411476254463196
+  },
+  {
+    "title": "Fernando Rivas to Join Wells Fargo as Co-CEO of Corporate & Investment Banking",
+    "published": 1715172300,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 60.150001525878906,
+      "2024-05-08T14:30:00+00:00": 60.3650016784668,
+      "2024-05-08T15:30:00+00:00": 60.479698181152344,
+      "2024-05-08T16:30:00+00:00": 60.636600494384766,
+      "2024-05-08T17:30:00+00:00": 60.790000915527344,
+      "2024-05-08T18:30:00+00:00": 61.11840057373047,
+      "2024-05-08T19:30:00+00:00": 61.29499816894531
+    },
+    "sentiment": 0.9357433915138245
+  },
+  {
+    "title": "Wells Fargo Hires Ex-JPMorgan Investment-Bank Boss Fernando Rivas",
+    "published": 1715169600,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 60.150001525878906,
+      "2024-05-08T14:30:00+00:00": 60.3650016784668,
+      "2024-05-08T15:30:00+00:00": 60.479698181152344,
+      "2024-05-08T16:30:00+00:00": 60.636600494384766,
+      "2024-05-08T17:30:00+00:00": 60.790000915527344,
+      "2024-05-08T18:30:00+00:00": 61.11840057373047,
+      "2024-05-08T19:30:00+00:00": 61.29499816894531
+    },
+    "sentiment": 0.6662393808364868
+  },
+  {
+    "title": "Wells Fargo hires JPMorgan vet Rivas to boost investment bank",
+    "published": 1715164826,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 60.150001525878906,
+      "2024-05-08T14:30:00+00:00": 60.3650016784668,
+      "2024-05-08T15:30:00+00:00": 60.479698181152344,
+      "2024-05-08T16:30:00+00:00": 60.636600494384766,
+      "2024-05-08T17:30:00+00:00": 60.790000915527344,
+      "2024-05-08T18:30:00+00:00": 61.11840057373047,
+      "2024-05-08T19:30:00+00:00": 61.29499816894531
+    },
+    "sentiment": 0.645080029964447
+  },
+  {
+    "title": "Wells Fargo names Fernando Rivas co-CEO of Corporate & Investment Banking",
+    "published": 1715154720,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 60.150001525878906,
+      "2024-05-08T14:30:00+00:00": 60.3650016784668,
+      "2024-05-08T15:30:00+00:00": 60.479698181152344,
+      "2024-05-08T16:30:00+00:00": 60.636600494384766,
+      "2024-05-08T17:30:00+00:00": 60.790000915527344,
+      "2024-05-08T18:30:00+00:00": 61.11840057373047,
+      "2024-05-08T19:30:00+00:00": 61.29499816894531
+    },
+    "sentiment": 0.9433550238609314
+  },
+  {
+    "title": "Rebuilding Together Untangles Titles to Preserve Generational Wealth",
+    "published": 1716387300,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 61.29999923706055,
+      "2024-05-22T14:30:00+00:00": 61.298301696777344,
+      "2024-05-22T15:30:00+00:00": 60.86000061035156,
+      "2024-05-22T16:30:00+00:00": 61.064998626708984,
+      "2024-05-22T17:30:00+00:00": 60.94990158081055,
+      "2024-05-22T18:30:00+00:00": 60.60499954223633,
+      "2024-05-22T19:30:00+00:00": 60.71500015258789
+    },
+    "sentiment": 0.8105859160423279
+  },
+  {
+    "title": "Microfinance Nonprofit Grameen America Opens New Branch in Phoenix With Catalytic Support From Wells Fargo",
+    "published": 1716381000,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 61.29999923706055,
+      "2024-05-22T14:30:00+00:00": 61.298301696777344,
+      "2024-05-22T15:30:00+00:00": 60.86000061035156,
+      "2024-05-22T16:30:00+00:00": 61.064998626708984,
+      "2024-05-22T17:30:00+00:00": 60.94990158081055,
+      "2024-05-22T18:30:00+00:00": 60.60499954223633,
+      "2024-05-22T19:30:00+00:00": 60.71500015258789
+    },
+    "sentiment": 0.730299174785614
+  },
+  {
+    "title": "Wells Fargo: Keep Holding This Dividend Machine",
+    "published": 1716303763,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 60.81999969482422,
+      "2024-05-21T14:30:00+00:00": 61.40999984741211,
+      "2024-05-21T15:30:00+00:00": 61.64500045776367,
+      "2024-05-21T16:30:00+00:00": 61.5,
+      "2024-05-21T17:30:00+00:00": 61.375,
+      "2024-05-21T18:30:00+00:00": 61.56999969482422,
+      "2024-05-21T19:30:00+00:00": 61.505001068115234
+    },
+    "sentiment": 0.8870411515235901
+  },
+  {
+    "title": "Wells Fargo: Recent Price Surge Pushed P/B Close To Historical Highs",
+    "published": 1716291551,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 60.81999969482422,
+      "2024-05-21T14:30:00+00:00": 61.40999984741211,
+      "2024-05-21T15:30:00+00:00": 61.64500045776367,
+      "2024-05-21T16:30:00+00:00": 61.5,
+      "2024-05-21T17:30:00+00:00": 61.375,
+      "2024-05-21T18:30:00+00:00": 61.56999969482422,
+      "2024-05-21T19:30:00+00:00": 61.505001068115234
+    },
+    "sentiment": 0.9380651116371155
+  },
+  {
+    "title": "Fitch Upgrades Syracuse IDA, NY's PILOT (Carousel Center) Bonds to 'CC'",
+    "published": 1716271342,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 60.81999969482422,
+      "2024-05-21T14:30:00+00:00": 61.40999984741211,
+      "2024-05-21T15:30:00+00:00": 61.64500045776367,
+      "2024-05-21T16:30:00+00:00": 61.5,
+      "2024-05-21T17:30:00+00:00": 61.375,
+      "2024-05-21T18:30:00+00:00": 61.56999969482422,
+      "2024-05-21T19:30:00+00:00": 61.505001068115234
+    },
+    "sentiment": 0.8661009073257446
+  },
+  {
+    "title": "Wells Fargo (WFC) Stock Sinks As Market Gains: What You Should Know",
+    "published": 1716241513,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 61.04999923706055,
+      "2024-05-20T14:30:00+00:00": 61.595001220703125,
+      "2024-05-20T15:30:00+00:00": 61.70500183105469,
+      "2024-05-20T16:30:00+00:00": 61.540000915527344,
+      "2024-05-20T17:30:00+00:00": 61.25749969482422,
+      "2024-05-20T18:30:00+00:00": 60.8849983215332,
+      "2024-05-20T19:30:00+00:00": 60.69499969482422
+    },
+    "sentiment": 0.6591546535491943
+  },
+  {
+    "title": "Bank failures, new CFPB rules and other issues facing investors",
+    "published": 1716219000,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 61.04999923706055,
+      "2024-05-20T14:30:00+00:00": 61.595001220703125,
+      "2024-05-20T15:30:00+00:00": 61.70500183105469,
+      "2024-05-20T16:30:00+00:00": 61.540000915527344,
+      "2024-05-20T17:30:00+00:00": 61.25749969482422,
+      "2024-05-20T18:30:00+00:00": 60.8849983215332,
+      "2024-05-20T19:30:00+00:00": 60.69499969482422
+    },
+    "sentiment": 0.5197814702987671
   },
   {
     "title": "Wells Fargo & Co. stock outperforms competitors despite losses on the day",
-    "published": 1714016400,
-    "posting_price": 59.17189575,
-    "close_price": 58.50802994,
-    "percent_change": -1.12192757
+    "published": 1716176460,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 61.04999923706055,
+      "2024-05-20T14:30:00+00:00": 61.595001220703125,
+      "2024-05-20T15:30:00+00:00": 61.70500183105469,
+      "2024-05-20T16:30:00+00:00": 61.540000915527344,
+      "2024-05-20T17:30:00+00:00": 61.25749969482422,
+      "2024-05-20T18:30:00+00:00": 60.8849983215332,
+      "2024-05-20T19:30:00+00:00": 60.69499969482422
+    },
+    "sentiment": 0.9301721453666687
   },
   {
-    "title": "Goldman's David Solomon defeats vote on CEO-chair split even as support for it increases",
-    "published": 1713975556,
-    "posting_price": 59.16212463,
-    "close_price": 59.16212463,
-    "percent_change": 0.0
+    "title": "VERMONT SLAUSON ECONOMIC DEVELOPMENT CORPORATION (VSEDC) EARNS DISTINCTION AS A SMALL BUSINESS ADMINISTRATION (SBA) WOMEN'S BUSINESS CENTER MAKING IT A FIRST FOR SOUTH LA AND ONE OF 17 NEW LOCATIONS NATIONWIDE",
+    "published": 1715950800,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 61.40999984741211,
+      "2024-05-17T14:30:00+00:00": 61.3650016784668,
+      "2024-05-17T15:30:00+00:00": 61.07500076293945,
+      "2024-05-17T16:30:00+00:00": 60.96500015258789,
+      "2024-05-17T17:30:00+00:00": 61.04999923706055,
+      "2024-05-17T18:30:00+00:00": 61.095001220703125,
+      "2024-05-17T19:30:00+00:00": 61.099998474121094
+    },
+    "sentiment": 0.9294500350952148
   },
   {
-    "title": "Royal Bank of Canada: Risks Ahead",
-    "published": 1713949397,
-    "posting_price": 59.16212463,
-    "close_price": 59.16212463,
-    "percent_change": 0.0
+    "title": "Wells Fargo & Company Declares Cash Dividends on Preferred Stock",
+    "published": 1715947200,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 61.40999984741211,
+      "2024-05-17T14:30:00+00:00": 61.3650016784668,
+      "2024-05-17T15:30:00+00:00": 61.07500076293945,
+      "2024-05-17T16:30:00+00:00": 60.96500015258789,
+      "2024-05-17T17:30:00+00:00": 61.04999923706055,
+      "2024-05-17T18:30:00+00:00": 61.095001220703125,
+      "2024-05-17T19:30:00+00:00": 61.099998474121094
+    },
+    "sentiment": 0.9222769737243652
   },
   {
-    "title": "West Fraser Shareholders Approve All Resolutions",
-    "published": 1713936420,
-    "posting_price": 59.16212463,
-    "close_price": 59.16212463,
-    "percent_change": 0.0
+    "title": "Wells Fargo & Company DP PF CL A SR Z declares $0.2969 dividend",
+    "published": 1715931840,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 61.40999984741211,
+      "2024-05-17T14:30:00+00:00": 61.3650016784668,
+      "2024-05-17T15:30:00+00:00": 61.07500076293945,
+      "2024-05-17T16:30:00+00:00": 60.96500015258789,
+      "2024-05-17T17:30:00+00:00": 61.04999923706055,
+      "2024-05-17T18:30:00+00:00": 61.095001220703125,
+      "2024-05-17T19:30:00+00:00": 61.099998474121094
+    },
+    "sentiment": 0.9418517351150513
   },
   {
-    "title": "West Fraser Reports High Approval at AGM",
-    "published": 1713933600,
-    "posting_price": 59.16212463,
-    "close_price": 59.16212463,
-    "percent_change": 0.0
+    "title": "Bank of America (BAC) Up 10.5% Since Last Earnings Report: Can It Continue?",
+    "published": 1715873412,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 62.45000076293945,
+      "2024-05-16T14:30:00+00:00": 61.91999816894531,
+      "2024-05-16T15:30:00+00:00": 62.125,
+      "2024-05-16T16:30:00+00:00": 62.10499954223633,
+      "2024-05-16T17:30:00+00:00": 61.73500061035156,
+      "2024-05-16T18:30:00+00:00": 61.03030014038086,
+      "2024-05-16T19:30:00+00:00": 61.3849983215332
+    },
+    "sentiment": 0.9521514773368835
   },
   {
-    "title": "West Fraser Timber Shareholders Approve All Resolutions",
-    "published": 1713933480,
-    "posting_price": 59.16212463,
-    "close_price": 59.16212463,
-    "percent_change": 0.0
-  },
-  {
-    "title": "Wells Fargo (WFC) is a Great Momentum Stock: Should You Buy?",
-    "published": 1713888004,
-    "posting_price": 59.71859897,
-    "close_price": 59.4940567,
-    "percent_change": -0.37600057
-  },
-  {
-    "title": "West Fraser Timber Posts Q1 Financial Stability",
-    "published": 1713848280,
-    "posting_price": 59.71859897,
-    "close_price": 59.4940567,
-    "percent_change": -0.37600057
-  },
-  {
-    "title": "West Fraser Timber Reports Strong Q1-2024 Results",
-    "published": 1713847140,
-    "posting_price": 59.71859897,
-    "close_price": 59.4940567,
-    "percent_change": -0.37600057
-  },
-  {
-    "title": "Wells Fargo mpany : Financial Statements and Exhibits - Form 8-K",
-    "published": 1713805030,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "Wells Fargo Weighs Debut Risk Transfer as Banks Shore Up Capital",
-    "published": 1713787274,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "West Fraser Sells Pulp Mills to Streamline Focus",
-    "published": 1713783480,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "WFC Crosses Above Average Analyst Target",
-    "published": 1713778260,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "RBC Capital Reaffirms Their Buy Rating on West Fraser Timber Co (WFG)",
-    "published": 1713775620,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "West Fraser Sells Two Pulp Mills to Refocus Business",
-    "published": 1713768060,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "3 Under-The-Radar Stocks With Positive Potential",
-    "published": 1713699780,
-    "posting_price": 58.96687301,
-    "close_price": 59.65026093,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "Wells Fargo: Limited Upside In 2024",
-    "published": 1713615240,
-    "posting_price": 58.96687678,
-    "close_price": 59.65026474,
-    "percent_change": 1.15893532
-  },
-  {
-    "title": "Wells Fargo bond saleswoman sues over 'unapologetically sexist' workplace",
-    "published": 1713554963,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "Wells Fargo Bond Saleswoman Claims Pay Bias in \u2018Boys Club\u2019 Team",
-    "published": 1713546193,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "Coro New York Expands Neighborhood Leadership Program With $500K Grant From the Wells Fargo Foundation",
-    "published": 1713529500,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "Senate Minority Leader Mitch McConnell Can't Stop Buying Shares of This Former Darling of Warren Buffett",
-    "published": 1713521220,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "See Which Of The Latest 13F Filers Holds Wells Fargo",
-    "published": 1713514080,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "Regulators said to revive bid to rein in Wall Street bonus payouts",
-    "published": 1713493140,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "Big banks have been a bright spot in tough week for markets",
-    "published": 1713489300,
-    "posting_price": 57.60008982,
-    "close_price": 58.91805649,
-    "percent_change": 2.28813301
-  },
-  {
-    "title": "Edward Jones Loses $2.3 Million Arbitration Against Wells Fargo",
-    "published": 1713467580,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "Wells Fargo Innovation Incubator Unveils 2024 Strategic Award Winners",
-    "published": 1713465900,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "The 3 Best Bank Stocks to Buy on Q1 Earnings Results",
-    "published": 1713464086,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "Smart Money Is Betting Big In WFC Options",
-    "published": 1713431880,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "CEO Uncertainty Spikes After Improving Last Quarter",
-    "published": 1713429300,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "Why Citigroup Is My Favorite Buffett Stock",
-    "published": 1713427260,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "Impact of Federal Reserve's Interest Rate Strategy on Global Markets Featuring Brazil's ...",
-    "published": 1713406680,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "Wells Fargo's Preferred Stock, Series Y Shares Cross 6% Yield Mark",
-    "published": 1713404460,
-    "posting_price": 56.26260052,
-    "close_price": 57.34626389,
-    "percent_change": 1.9260812
-  },
-  {
-    "title": "Top Research Reports for Eli Lilly, Linde & Caterpillar",
-    "published": 1713388200,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "High Yields Lure Buyers to US Treasuries, Including 20-Year Sale",
-    "published": 1713379562,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "Best Momentum Stocks to Buy for April 17th",
-    "published": 1713362400,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "Wells Fargo (WFC) Price Target Increased by 6.15% to 63.51",
-    "published": 1713359900,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "Wall Street Employs New Strategies Against Private Lending Competition",
-    "published": 1713352740,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "Jim Cramer Says He Likes Earnings From These Big Banks 'So Much' \u2014 Here's Why",
-    "published": 1713340380,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Financial Stocks: Citigroup (C), Bank of New York Mellon Corporation (BK) and Wells Fargo (WFC)",
-    "published": 1713327060,
-    "posting_price": 55.53039164,
-    "close_price": 55.82327271,
-    "percent_change": 0.52742482
-  },
-  {
-    "title": "Is Wells Fargo Stock Going to $66? 1 Wall Street Analyst Thinks So",
-    "published": 1713277211,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Wells Fargo & Company (NYSE:WFC) Q1 2024 Earnings Call Transcript",
-    "published": 1713275430,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Bank of America: Signs Of The Recession",
-    "published": 1713270322,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Wall Street surge lifts Morgan Stanley and new CEO Ted Pick",
-    "published": 1713269244,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Wells Fargo CEO Scharf details asset cap limitations",
-    "published": 1713267984,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Bank of America profits drop as key lending revenue weakens",
-    "published": 1713266350,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Bank of America Q1 Earnings: A Mixed Bag Amid Rising Interest Rates",
-    "published": 1713266100,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Is Wells Fargo Premier Large Company Growth A (EKJAX) a Strong Mutual Fund Pick Right Now?",
-    "published": 1713265205,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Top 10 best-performing bank stocks of 2024 as earnings results roll in",
-    "published": 1713260640,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Wells Fargo, TradeSun enter pact on trade finance, compliance digitization",
-    "published": 1713258600,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "TradeSun Announces an Agreement With Wells Fargo",
-    "published": 1713247200,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Wells Fargo, TradeSun announce agreement",
-    "published": 1713243720,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "NNN REIT bank credit facility increased by $100M to $1.2B",
-    "published": 1713239280,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Wells Fargo: A Cautious Hold Amid Regulatory Challenges and Growth Constraints",
-    "published": 1713239280,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
-  },
-  {
-    "title": "Bank of Montreal's Chief Highlights U.S. Economic Strength and Expansion Strategy",
-    "published": 1713237540,
-    "posting_price": 55.54991608,
-    "close_price": 55.07154083,
-    "percent_change": -0.86116287
+    "title": "Morgan Stanley Declares $270M Investment Into Bitcoin ETFs In Q1, Leads Institutional Inflow Of 'Historical Scale'",
+    "published": 1715854020,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 62.45000076293945,
+      "2024-05-16T14:30:00+00:00": 61.91999816894531,
+      "2024-05-16T15:30:00+00:00": 62.125,
+      "2024-05-16T16:30:00+00:00": 62.10499954223633,
+      "2024-05-16T17:30:00+00:00": 61.73500061035156,
+      "2024-05-16T18:30:00+00:00": 61.03030014038086,
+      "2024-05-16T19:30:00+00:00": 61.3849983215332
+    },
+    "sentiment": 0.8407939672470093
   }
 ]

@@ -1,205 +1,240 @@
 [
   {
-    "title": "Zacks.com featured highlights NetApp, Caterpillar, Dick's Sporting Goods, KB Home and Applied Materials",
-    "published": 1713187320,
-    "posting_price": 101.49837778,
-    "close_price": 101.07382202,
-    "percent_change": -0.41828822
+    "title": "3 Storage Devices Stocks to Watch as the Industry Rebounds",
+    "published": 1715094960,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 108.26000213623047,
+      "2024-05-07T14:30:00+00:00": 107.66999816894531,
+      "2024-05-07T15:30:00+00:00": 106.95999908447266,
+      "2024-05-07T16:30:00+00:00": 107.33000183105469,
+      "2024-05-07T17:30:00+00:00": 107.62000274658203,
+      "2024-05-07T18:30:00+00:00": 107.18000030517578,
+      "2024-05-07T19:30:00+00:00": 107.43000030517578
+    },
+    "sentiment": 0.7853474617004395
   },
   {
-    "title": "Analysts Offer Insights on Technology Companies: NetApp (NTAP) and Intuit (INTU)",
-    "published": 1713083460,
-    "posting_price": 101.49837778,
-    "close_price": 101.07382202,
-    "percent_change": -0.41828822
+    "title": "NetApp Appoints Market Growth and Revenue Operations Leader, Dallas Olson to Chief Commercial Officer Role",
+    "published": 1715009400,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 105.25,
+      "2024-05-06T14:30:00+00:00": 106.38999938964844,
+      "2024-05-06T15:30:00+00:00": 106.33000183105469,
+      "2024-05-06T16:30:00+00:00": 106.68000030517578,
+      "2024-05-06T17:30:00+00:00": 107.12999725341797,
+      "2024-05-06T18:30:00+00:00": 107.41999816894531,
+      "2024-05-06T19:30:00+00:00": 107.68000030517578
+    },
+    "sentiment": 0.9079328775405884
   },
   {
-    "title": "5 Top Dividend Growth Stocks to Counter Volatility",
-    "published": 1712927520,
-    "posting_price": 102.39684872,
-    "close_price": 100.52090454,
-    "percent_change": -1.83203312
+    "title": "NetApp appoints Dallas Olson as CCO",
+    "published": 1714991520,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 105.25,
+      "2024-05-06T14:30:00+00:00": 106.38999938964844,
+      "2024-05-06T15:30:00+00:00": 106.33000183105469,
+      "2024-05-06T16:30:00+00:00": 106.68000030517578,
+      "2024-05-06T17:30:00+00:00": 107.12999725341797,
+      "2024-05-06T18:30:00+00:00": 107.41999816894531,
+      "2024-05-06T19:30:00+00:00": 107.68000030517578
+    },
+    "sentiment": 0.9240103960037231
   },
   {
-    "title": "NetApp put volume heavy and directionally bearish",
-    "published": 1712925360,
-    "posting_price": 102.39684872,
-    "close_price": 100.52090454,
-    "percent_change": -1.83203312
+    "title": "June 14th Options Now Available For NetApp (NTAP)",
+    "published": 1714731360,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 103.25,
+      "2024-05-03T14:30:00+00:00": 103.54000091552734,
+      "2024-05-03T15:30:00+00:00": 103.44000244140625,
+      "2024-05-03T16:30:00+00:00": 103.63999938964844,
+      "2024-05-03T17:30:00+00:00": 103.63999938964844,
+      "2024-05-03T18:30:00+00:00": 103.94999694824219,
+      "2024-05-03T19:30:00+00:00": 104.30000305175781
+    },
+    "sentiment": 0.9464735984802246
   },
   {
-    "title": "NetApp Partners with Google Cloud to Maximize Flexibility for Cloud Data Storage",
-    "published": 1712768400,
-    "posting_price": 101.71558358,
-    "close_price": 101.30090332,
-    "percent_change": -0.40768606
+    "title": "NetApp's (NTAP) New AFF A-Series Systems to Address IT Workload",
+    "published": 1715788980,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 109.5,
+      "2024-05-15T14:30:00+00:00": 109.80000305175781,
+      "2024-05-15T15:30:00+00:00": 110.45999908447266,
+      "2024-05-15T16:30:00+00:00": 110.12999725341797,
+      "2024-05-15T17:30:00+00:00": 110.58000183105469,
+      "2024-05-15T18:30:00+00:00": 110.33000183105469,
+      "2024-05-15T19:30:00+00:00": 110.77999877929688
+    },
+    "sentiment": 0.5663501024246216
   },
   {
-    "title": "A Look At The Intrinsic Value Of NetApp, Inc. (NASDAQ:NTAP)",
-    "published": 1712659126,
-    "posting_price": 104.69734455,
-    "close_price": 102.83127594,
-    "percent_change": -1.78234569
+    "title": "NetApp Unveils Unified Data Storage Built for the AI Era",
+    "published": 1715688000,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 108.62999725341797,
+      "2024-05-14T14:30:00+00:00": 108.88999938964844,
+      "2024-05-14T15:30:00+00:00": 108.44999694824219,
+      "2024-05-14T16:30:00+00:00": 108.27999877929688,
+      "2024-05-14T17:30:00+00:00": 108.70999908447266,
+      "2024-05-14T18:30:00+00:00": 108.97000122070312,
+      "2024-05-14T19:30:00+00:00": 109.23999786376953
+    },
+    "sentiment": 0.7947924733161926
   },
   {
-    "title": "NetApp Promotes Daniel De Lorenzo to Top Accounting Role",
-    "published": 1712633100,
-    "posting_price": 104.69734455,
-    "close_price": 102.83127594,
-    "percent_change": -1.78234569
+    "title": "NetApp: A Long-Term Beneficiary Of AI",
+    "published": 1715673708,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 108.62999725341797,
+      "2024-05-14T14:30:00+00:00": 108.88999938964844,
+      "2024-05-14T15:30:00+00:00": 108.44999694824219,
+      "2024-05-14T16:30:00+00:00": 108.27999877929688,
+      "2024-05-14T17:30:00+00:00": 108.70999908447266,
+      "2024-05-14T18:30:00+00:00": 108.97000122070312,
+      "2024-05-14T19:30:00+00:00": 109.23999786376953
+    },
+    "sentiment": 0.9364001750946045
   },
   {
-    "title": "NetApp Wins Google Cloud Technology Partner of the Year Award for Infrastructure - Storage",
-    "published": 1712621700,
-    "posting_price": 104.69734455,
-    "close_price": 102.83127594,
-    "percent_change": -1.78234569
+    "title": "Is Turtle Beach (HEAR) Stock Outpacing Its Computer and Technology Peers This Year?",
+    "published": 1715348414,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 109.01519775390625,
+      "2024-05-10T14:30:00+00:00": 108.00499725341797,
+      "2024-05-10T15:30:00+00:00": 108.12000274658203,
+      "2024-05-10T16:30:00+00:00": 108.30000305175781,
+      "2024-05-10T17:30:00+00:00": 108.5,
+      "2024-05-10T18:30:00+00:00": 108.3499984741211,
+      "2024-05-10T19:30:00+00:00": 108.44000244140625
+    },
+    "sentiment": 0.5695827007293701
   },
   {
-    "title": "NetApp Inc (NTAP) President Cesar Cernuda Sells 22,000 Shares",
-    "published": 1712229200,
-    "posting_price": 106.05000645,
-    "close_price": 103.47305298,
-    "percent_change": -2.42994183
+    "title": "Shopify (SHOP) Q1 Earnings Beat Estimates, Revenues Rise Y/Y",
+    "published": 1715270640,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 109.45999908447266,
+      "2024-05-09T14:30:00+00:00": 108.12000274658203,
+      "2024-05-09T15:30:00+00:00": 108.06999969482422,
+      "2024-05-09T16:30:00+00:00": 107.54000091552734,
+      "2024-05-09T17:30:00+00:00": 108.05999755859375,
+      "2024-05-09T18:30:00+00:00": 107.77999877929688,
+      "2024-05-09T19:30:00+00:00": 108.05999755859375
+    },
+    "sentiment": 0.9457295536994934
   },
   {
-    "title": "NetApp, Zoom Video And 2 Other Stocks Insiders Are Selling",
-    "published": 1712212020,
-    "posting_price": 106.05000645,
-    "close_price": 103.47305298,
-    "percent_change": -2.42994183
+    "title": "Netflix Stock, Robinhood Boast This Key Signal Of Stock Market Leadership",
+    "published": 1716406683,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 113.44000244140625,
+      "2024-05-22T14:30:00+00:00": 113.70999908447266,
+      "2024-05-22T15:30:00+00:00": 113.66999816894531,
+      "2024-05-22T16:30:00+00:00": 113.7249984741211,
+      "2024-05-22T17:30:00+00:00": 113.87999725341797,
+      "2024-05-22T18:30:00+00:00": 113.3499984741211,
+      "2024-05-22T19:30:00+00:00": 113.63999938964844
+    },
+    "sentiment": 0.8562837839126587
   },
   {
-    "title": "NetApp Inc's Dividend Analysis",
-    "published": 1712142300,
-    "posting_price": 102.5252966,
-    "close_price": 104.6381073,
-    "percent_change": 2.06077014
+    "title": "NetApp Takes Over #322 Spot From Cardinal Health",
+    "published": 1716349140,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 113.44000244140625,
+      "2024-05-22T14:30:00+00:00": 113.70999908447266,
+      "2024-05-22T15:30:00+00:00": 113.66999816894531,
+      "2024-05-22T16:30:00+00:00": 113.7249984741211,
+      "2024-05-22T17:30:00+00:00": 113.87999725341797,
+      "2024-05-22T18:30:00+00:00": 113.3499984741211,
+      "2024-05-22T19:30:00+00:00": 113.63999938964844
+    },
+    "sentiment": 0.8875943422317505
   },
   {
-    "title": "NetApp call volume above normal and directionally bullish",
-    "published": 1712111160,
-    "posting_price": 102.5252966,
-    "close_price": 104.6381073,
-    "percent_change": 2.06077014
+    "title": "NetApp (NTAP) Receives a Rating Update from a Top Analyst",
+    "published": 1716266520,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 111.67500305175781,
+      "2024-05-21T14:30:00+00:00": 112.41000366210938,
+      "2024-05-21T15:30:00+00:00": 112.6500015258789,
+      "2024-05-21T16:30:00+00:00": 112.52999877929688,
+      "2024-05-21T17:30:00+00:00": 112.66999816894531,
+      "2024-05-21T18:30:00+00:00": 112.8499984741211,
+      "2024-05-21T19:30:00+00:00": 112.73999786376953
+    },
+    "sentiment": 0.8313393592834473
   },
   {
-    "title": "3 Little-Known Stocks That Have the Potential to Bring You Big Profits",
-    "published": 1714501905,
-    "posting_price": 100.53077884,
-    "close_price": 100.91584015,
-    "percent_change": 0.38302828
+    "title": "Citi ups NetApp target, opens 'positive catalyst watch' into analyst day",
+    "published": 1716266460,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 111.67500305175781,
+      "2024-05-21T14:30:00+00:00": 112.41000366210938,
+      "2024-05-21T15:30:00+00:00": 112.6500015258789,
+      "2024-05-21T16:30:00+00:00": 112.52999877929688,
+      "2024-05-21T17:30:00+00:00": 112.66999816894531,
+      "2024-05-21T18:30:00+00:00": 112.8499984741211,
+      "2024-05-21T19:30:00+00:00": 112.73999786376953
+    },
+    "sentiment": 0.8440876603126526
   },
   {
-    "title": "Zacks.com featured highlights include NetApp, Greenbrier, Applied Materials,  PACCAR and Dick's Sporting Goods",
-    "published": 1714470840,
-    "posting_price": 100.53077884,
-    "close_price": 100.91584015,
-    "percent_change": 0.38302828
+    "title": "Analyst Expectations For NetApp's Future",
+    "published": 1716256980,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 111.67500305175781,
+      "2024-05-21T14:30:00+00:00": 112.41000366210938,
+      "2024-05-21T15:30:00+00:00": 112.6500015258789,
+      "2024-05-21T16:30:00+00:00": 112.52999877929688,
+      "2024-05-21T17:30:00+00:00": 112.66999816894531,
+      "2024-05-21T18:30:00+00:00": 112.8499984741211,
+      "2024-05-21T19:30:00+00:00": 112.73999786376953
+    },
+    "sentiment": 0.889388918876648
   },
   {
-    "title": "NetApp (NTAP) Surpasses Market Returns: Some Facts Worth Knowing",
-    "published": 1714428011,
-    "posting_price": 100.22470715,
-    "close_price": 101.18242645,
-    "percent_change": 0.95557206
+    "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
+    "published": 1715953812,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 110.3499984741211,
+      "2024-05-17T14:30:00+00:00": 110.52999877929688,
+      "2024-05-17T15:30:00+00:00": 110.44999694824219,
+      "2024-05-17T16:30:00+00:00": 110.5199966430664,
+      "2024-05-17T17:30:00+00:00": 110.58989715576172,
+      "2024-05-17T18:30:00+00:00": 110.26000213623047,
+      "2024-05-17T19:30:00+00:00": 110.5999984741211
+    },
+    "sentiment": 0.8873241543769836
   },
   {
-    "title": "Beat the Market With These 5 Dividend Growth Stocks",
-    "published": 1714395180,
-    "posting_price": 100.22470715,
-    "close_price": 101.18242645,
-    "percent_change": 0.95557206
+    "title": "Insider Sell: CEO George Kurian Sells 8,500 Shares of NetApp Inc (NTAP)",
+    "published": 1715863980,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 110.05999755859375,
+      "2024-05-16T14:30:00+00:00": 110.2249984741211,
+      "2024-05-16T15:30:00+00:00": 110.66999816894531,
+      "2024-05-16T16:30:00+00:00": 110.52999877929688,
+      "2024-05-16T17:30:00+00:00": 110.44499969482422,
+      "2024-05-16T18:30:00+00:00": 110.48999786376953,
+      "2024-05-16T19:30:00+00:00": 110.38999938964844
+    },
+    "sentiment": 0.883526623249054
   },
   {
-    "title": "NetApp Reaches Analyst Target Price",
-    "published": 1714119480,
-    "posting_price": 99.89888719,
-    "close_price": 100.04698944,
-    "percent_change": 0.14825215
-  },
-  {
-    "title": "NetApp (NTAP) Outperforms Broader Market: What You Need to Know",
-    "published": 1713908717,
-    "posting_price": 97.10471929,
-    "close_price": 98.16117096,
-    "percent_change": 1.0879509
-  },
-  {
-    "title": "NetApp\u2019s 2024 Cloud Complexity Report Reveals AI Disrupt or Die Era Unfolding Globally",
-    "published": 1713873600,
-    "posting_price": 97.10471929,
-    "close_price": 98.16117096,
-    "percent_change": 1.0879509
-  },
-  {
-    "title": "Goldman\u2019s buybacks basket: Buyback growth will be 13% in 2024",
-    "published": 1713788940,
-    "posting_price": 97.48977308,
-    "close_price": 96.67028809,
-    "percent_change": -0.8405856
-  },
-  {
-    "title": "Agree To Purchase NetApp At $60, Earn 3.3% Using Options",
-    "published": 1713786720,
-    "posting_price": 97.48977308,
-    "close_price": 96.67028809,
-    "percent_change": -0.8405856
-  },
-  {
-    "title": "Top high growth investment ratio stocks from each sector - GS",
-    "published": 1713756360,
-    "posting_price": 97.48977308,
-    "close_price": 96.67028809,
-    "percent_change": -0.8405856
-  },
-  {
-    "title": "Goldman picks top capex and R&D stocks",
-    "published": 1713663840,
-    "posting_price": 97.48977308,
-    "close_price": 96.67028809,
-    "percent_change": -0.8405856
-  },
-  {
-    "title": "Pure Storage dips after Raymond James cuts rating",
-    "published": 1713515100,
-    "posting_price": 98.57583873,
-    "close_price": 96.7097702,
-    "percent_change": -1.89302831
-  },
-  {
-    "title": "Alphabet, NetApp And 2 Other Stocks Insiders Are Selling",
-    "published": 1713424320,
-    "posting_price": 99.75077783,
-    "close_price": 98.87204742,
-    "percent_change": -0.88092587
-  },
-  {
-    "title": "NetApp Inc CEO George Kurian Sells 8,500 Shares",
-    "published": 1713418812,
-    "posting_price": 99.75077783,
-    "close_price": 98.87204742,
-    "percent_change": -0.88092587
-  },
-  {
-    "title": "NetApp (NTAP) Shares Cross 2% Yield Mark",
-    "published": 1713406440,
-    "posting_price": 99.75077783,
-    "close_price": 98.87204742,
-    "percent_change": -0.88092587
-  },
-  {
-    "title": "NetApp put volume heavy and directionally bearish",
-    "published": 1713356160,
-    "posting_price": 102.02165797,
-    "close_price": 99.63230133,
-    "percent_change": -2.34200922
-  },
-  {
-    "title": "NetApp (NTAP) Up 51% in a Year: Will the Rally Continue?",
-    "published": 1713351780,
-    "posting_price": 102.02165797,
-    "close_price": 99.63230133,
-    "percent_change": -2.34200922
+    "title": "Zacks.com featured highlights Greenbrier, Owens Corning, Leidos, H&R Block and NetApp",
+    "published": 1715853780,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 110.05999755859375,
+      "2024-05-16T14:30:00+00:00": 110.2249984741211,
+      "2024-05-16T15:30:00+00:00": 110.66999816894531,
+      "2024-05-16T16:30:00+00:00": 110.52999877929688,
+      "2024-05-16T17:30:00+00:00": 110.44499969482422,
+      "2024-05-16T18:30:00+00:00": 110.48999786376953,
+      "2024-05-16T19:30:00+00:00": 110.38999938964844
+    },
+    "sentiment": 0.9470064640045166
   }
 ]

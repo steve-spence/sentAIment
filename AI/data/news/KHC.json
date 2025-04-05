@@ -1,702 +1,742 @@
 [
   {
-    "title": "Warren Buffett Collects $2.1 Billion in Dividends Every Year From These 3 Stocks",
-    "published": 1713198932,
-    "posting_price": 34.51510878,
-    "close_price": 34.59132385,
-    "percent_change": 0.22081654
+    "title": "Bagel Bites is Back! Beloved Brand Returns to Canadian Grocery Shelves Nationwide",
+    "published": 1715083200,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 35.83000183105469,
+      "2024-05-07T14:30:00+00:00": 35.81999969482422,
+      "2024-05-07T15:30:00+00:00": 35.744998931884766,
+      "2024-05-07T16:30:00+00:00": 35.64500045776367,
+      "2024-05-07T17:30:00+00:00": 35.67499923706055,
+      "2024-05-07T18:30:00+00:00": 35.630001068115234,
+      "2024-05-07T19:30:00+00:00": 35.7400016784668
+    },
+    "sentiment": 0.5787752270698547
   },
   {
-    "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the Nasdaq?",
-    "published": 1713182400,
-    "posting_price": 34.51510878,
-    "close_price": 34.59132385,
-    "percent_change": 0.22081654
+    "title": "How Much Will Kraft Heinz Pay Out in Dividends This Year?",
+    "published": 1715021160,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 36.40999984741211,
+      "2024-05-06T14:30:00+00:00": 35.73569869995117,
+      "2024-05-06T15:30:00+00:00": 35.63399887084961,
+      "2024-05-06T16:30:00+00:00": 35.584598541259766,
+      "2024-05-06T17:30:00+00:00": 35.665000915527344,
+      "2024-05-06T18:30:00+00:00": 35.71419906616211,
+      "2024-05-06T19:30:00+00:00": 35.564998626708984
+    },
+    "sentiment": 0.9445521235466003
   },
   {
-    "title": "Peering Into Kraft Heinz's Recent Short Interest",
-    "published": 1713170040,
-    "posting_price": 34.51510878,
-    "close_price": 34.59132385,
-    "percent_change": 0.22081654
+    "title": "Kraft Heinz (KHC) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "published": 1715002210,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 36.40999984741211,
+      "2024-05-06T14:30:00+00:00": 35.73569869995117,
+      "2024-05-06T15:30:00+00:00": 35.63399887084961,
+      "2024-05-06T16:30:00+00:00": 35.584598541259766,
+      "2024-05-06T17:30:00+00:00": 35.665000915527344,
+      "2024-05-06T18:30:00+00:00": 35.71419906616211,
+      "2024-05-06T19:30:00+00:00": 35.564998626708984
+    },
+    "sentiment": 0.898969292640686
   },
   {
-    "title": "Kraft Heinz price target raised by $2 at BofA, here's why",
-    "published": 1713168360,
-    "posting_price": 34.51510878,
-    "close_price": 34.59132385,
-    "percent_change": 0.22081654
+    "title": "Kraft Heinz sells TGI Fridays frozen appetizers for perpetuity under revised deal",
+    "published": 1714989360,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 36.40999984741211,
+      "2024-05-06T14:30:00+00:00": 35.73569869995117,
+      "2024-05-06T15:30:00+00:00": 35.63399887084961,
+      "2024-05-06T16:30:00+00:00": 35.584598541259766,
+      "2024-05-06T17:30:00+00:00": 35.665000915527344,
+      "2024-05-06T18:30:00+00:00": 35.71419906616211,
+      "2024-05-06T19:30:00+00:00": 35.564998626708984
+    },
+    "sentiment": 0.9363353848457336
   },
   {
-    "title": "Heinz and Mattel join forces to create pink \u2018Barbiecue\u2019 sauce",
-    "published": 1713135660,
-    "posting_price": 34.51510878,
-    "close_price": 34.59132385,
-    "percent_change": 0.22081654
+    "title": "GLOBAL BROKER RATINGS: UBS cuts Aurubis to 'sell' from 'buy'",
+    "published": 1714977120,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 36.40999984741211,
+      "2024-05-06T14:30:00+00:00": 35.73569869995117,
+      "2024-05-06T15:30:00+00:00": 35.63399887084961,
+      "2024-05-06T16:30:00+00:00": 35.584598541259766,
+      "2024-05-06T17:30:00+00:00": 35.665000915527344,
+      "2024-05-06T18:30:00+00:00": 35.71419906616211,
+      "2024-05-06T19:30:00+00:00": 35.564998626708984
+    },
+    "sentiment": 0.6576683521270752
   },
   {
-    "title": "The go-to cheat for feeding your kids\u2014Lunchables\u2014has lead in it, and maker Kraft Heinz says it is a naturally occurring part of food products",
-    "published": 1712952551,
-    "posting_price": 34.77233283,
-    "close_price": 34.2388382,
-    "percent_change": -1.53425033
+    "title": "10 out of 12 S&P 500 consumer staples stocks post earnings beat - Earnings Scorecard",
+    "published": 1714813560,
+    "day_prices": {},
+    "sentiment": 0.5209982395172119
   },
   {
-    "title": "Interesting KHC Put And Call Options For May 31st",
-    "published": 1712915340,
-    "posting_price": 34.77233283,
-    "close_price": 34.2388382,
-    "percent_change": -1.53425033
+    "title": "The Kraft Heinz Company (NASDAQ:KHC) Q1 2024 Earnings Call Transcript",
+    "published": 1714760256,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 36.689998626708984,
+      "2024-05-03T14:30:00+00:00": 36.42499923706055,
+      "2024-05-03T15:30:00+00:00": 36.470001220703125,
+      "2024-05-03T16:30:00+00:00": 36.369998931884766,
+      "2024-05-03T17:30:00+00:00": 36.32500076293945,
+      "2024-05-03T18:30:00+00:00": 36.27000045776367,
+      "2024-05-03T19:30:00+00:00": 36.290000915527344
+    },
+    "sentiment": 0.9231998920440674
   },
   {
-    "title": "The Handoff To Normal?",
-    "published": 1712901600,
-    "posting_price": 34.77233283,
-    "close_price": 34.2388382,
-    "percent_change": -1.53425033
+    "title": "The Kraft Heinz Company (KHC) Q1 2024 Earnings Call Transcript",
+    "published": 1714680929,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.9212631583213806
   },
   {
-    "title": "The Kraft Heinz Company's (NASDAQ:KHC) Stock Is Going Strong: Have Financials A Role To Play?",
-    "published": 1712833221,
-    "posting_price": 35.22961338,
-    "close_price": 34.84854889,
-    "percent_change": -1.08165959
+    "title": "Latte and Big Mac sales show consumers are hurting",
+    "published": 1714672662,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.9516127109527588
   },
   {
-    "title": "Buy Rating Affirmed for Kraft Heinz on Consistent Performance and Strong Financial Strategy",
-    "published": 1712810880,
-    "posting_price": 35.22961338,
-    "close_price": 34.84854889,
-    "percent_change": -1.08165959
+    "title": "Kraft Heinz Reports First Quarter 2024 Results; Reaffirms Full Year Outlook",
+    "published": 1714650333,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.9169583320617676
   },
   {
-    "title": "Wells Fargo Sticks to Its Hold Rating for Kraft Heinz (KHC)",
-    "published": 1712810160,
-    "posting_price": 35.22961338,
-    "close_price": 34.84854889,
-    "percent_change": -1.08165959
+    "title": "Kraft Heinz still feeling impact of cost-conscious consumers",
+    "published": 1714649075,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.9120612144470215
   },
   {
-    "title": "Kraft Heinz (KHC) Stock Moves -0.91%: What You Should Know",
-    "published": 1712787318,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "Analysts\u2019 Top Consumer Goods Picks: Woolworths Group Ltd (WOLWF), Kraft Heinz (KHC)",
+    "published": 1714635240,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.5783583521842957
   },
   {
-    "title": "Market Meltdown Survivors: 3 Stocks to Weather Any 2024 Storm",
-    "published": 1712770638,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "The Kraft Heinz Co (KHC) Q1 2024 Earnings Call Transcript Highlights: Innovation and Market ...",
+    "published": 1714634168,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.8297516107559204
   },
   {
-    "title": "Kraft Heinz\u2019s Lunchables have high amounts of sodium and lead, Consumer Reports finds",
-    "published": 1712747280,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "Kraft Heinz : Q1 2024 Business Update",
+    "published": 1714630266,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.9327600002288818
   },
   {
-    "title": "Buy 9 Sustainable Dividend Dogs Of Barron's Top 100",
-    "published": 1712740500,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "Analysts Are Bullish on These Consumer Goods Stocks: Kraft Heinz (KHC), Coca-Cola (KO)",
+    "published": 1714622640,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.6389754414558411
   },
   {
-    "title": "Food prices run cooler than overall inflation in March",
-    "published": 1712735040,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "Balancing Growth Prospects and Pricing Challenges: A Hold Rating for Kraft Heinz",
+    "published": 1714619880,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 36.38999938964844,
+      "2024-05-02T14:30:00+00:00": 36.869998931884766,
+      "2024-05-02T15:30:00+00:00": 36.62009811401367,
+      "2024-05-02T16:30:00+00:00": 36.52000045776367,
+      "2024-05-02T17:30:00+00:00": 36.619998931884766,
+      "2024-05-02T18:30:00+00:00": 36.755001068115234,
+      "2024-05-02T19:30:00+00:00": 36.779998779296875
+    },
+    "sentiment": 0.7362318634986877
   },
   {
-    "title": "Kraft Heinz: Current Income Growth May Not Be Sustainable",
-    "published": 1712719599,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "After Kraft Heinz Disappointment, Food Makers Hope for Revival in Second Half of Year",
+    "published": 1714575601,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.919904887676239
   },
   {
-    "title": "Consumer Reports says Lunchables \u2018should not be allowed on menu\u2019 for schools, petitions USDA for removal",
-    "published": 1712713321,
-    "posting_price": 35.25818811,
-    "close_price": 35.07718277,
-    "percent_change": -0.51337108
+    "title": "Kraft Heinz Stock Falls After Higher Prices Hit Sales",
+    "published": 1714570670,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.9498212933540344
   },
   {
-    "title": "If You Can Only Buy One Warren Buffett Stock in April, It Better Be One of These 3 Names",
-    "published": 1712681737,
-    "posting_price": 35.35345992,
-    "close_price": 35.40109253,
-    "percent_change": 0.13473253
-  },
-  {
-    "title": "Warren Buffett\u2019s Portfolio: 15 Longest Held Stocks",
-    "published": 1712675681,
-    "posting_price": 35.35345992,
-    "close_price": 35.40109253,
-    "percent_change": 0.13473253
-  },
-  {
-    "title": "The Kraft Heinz Company Foundation Commits $15 Million Over Three Years to Rise Against Hunger to Provide 463 Million Meals to People in Need",
-    "published": 1712664000,
-    "posting_price": 35.35345992,
-    "close_price": 35.40109253,
-    "percent_change": 0.13473253
-  },
-  {
-    "title": "Kraft Heinz extends partnership against hunger",
-    "published": 1712652386,
-    "posting_price": 35.35345992,
-    "close_price": 35.40109253,
-    "percent_change": 0.13473253
-  },
-  {
-    "title": "FOCUS-How food companies like Coke and Kraft-Heinz are targeting low-income Americans",
-    "published": 1712602126,
-    "posting_price": 35.1248149,
-    "close_price": 35.29629517,
-    "percent_change": 0.48820263
-  },
-  {
-    "title": "The Kraft Heinz Company to Report First Quarter 2024 Results on May 1, 2024",
-    "published": 1712581200,
-    "posting_price": 35.1248149,
-    "close_price": 35.29629517,
-    "percent_change": 0.48820263
-  },
-  {
-    "title": "FOCUS-Major food companies offering deals, new sizes as low-income Americans spend less",
-    "published": 1712570400,
-    "posting_price": 35.1248149,
-    "close_price": 35.29629517,
-    "percent_change": 0.48820263
-  },
-  {
-    "title": "Food Giants Pivot To Discounts And New Sizes Amid Decreased Spending by Low-Income Americans",
-    "published": 1712565720,
-    "posting_price": 35.1248149,
-    "close_price": 35.29629517,
-    "percent_change": 0.48820263
-  },
-  {
-    "title": "Kraft Heinz (NASDAQ:KHC) Takes On Some Risk With Its Use Of Debt",
-    "published": 1712401260,
-    "posting_price": 35.1248149,
-    "close_price": 35.29629517,
-    "percent_change": 0.48820263
-  },
-  {
-    "title": "13 Best Warren Buffett Dividend Stocks To Invest In Right Now",
-    "published": 1712348531,
-    "posting_price": 35.52493715,
-    "close_price": 35.30582428,
-    "percent_change": -0.61678609
-  },
-  {
-    "title": "KRAFT Unveils New Line of Restaurant-Worthy Creamy Sauces",
-    "published": 1712320696,
-    "posting_price": 35.52493715,
-    "close_price": 35.30582428,
-    "percent_change": -0.61678609
-  },
-  {
-    "title": "Lunchables is Back! After Fifteen Years, the Brand Returns to Canadian Shelves to Inspire Creativity and Power Kids Forward",
-    "published": 1712320695,
-    "posting_price": 35.52493715,
-    "close_price": 35.30582428,
-    "percent_change": -0.61678609
-  },
-  {
-    "title": "Leftovers: Kraft capitalizes on aioli craze | General Mills brings Old El Paso into soups, cornbread",
-    "published": 1712307180,
-    "posting_price": 35.52493715,
-    "close_price": 35.30582428,
-    "percent_change": -0.61678609
-  },
-  {
-    "title": "Kraft Heinz (KHC) Stock Moves -0.32%: What You Should Know",
-    "published": 1712267417,
-    "posting_price": 35.84884215,
-    "close_price": 35.48682785,
-    "percent_change": -1.0098354
-  },
-  {
-    "title": "May 24th Options Now Available For Kraft Heinz (KHC)",
-    "published": 1712224560,
-    "posting_price": 35.84884215,
-    "close_price": 35.48682785,
-    "percent_change": -1.0098354
-  },
-  {
-    "title": "Dividend Harvesting Portfolio Week 161: $16,100 Allocated, $1,430.49 In Projected Dividends",
-    "published": 1712221200,
-    "posting_price": 35.84884215,
-    "close_price": 35.48682785,
-    "percent_change": -1.0098354
-  },
-  {
-    "title": "Sell the Long Rally Now and Move to These 6 Warren Buffett Top Dividend Winners",
-    "published": 1712211480,
-    "posting_price": 35.84884215,
-    "close_price": 35.48682785,
-    "percent_change": -1.0098354
-  },
-  {
-    "title": "Kraft Heinz Co. stock outperforms competitors despite losses on the day",
-    "published": 1712202960,
-    "posting_price": 35.84884215,
-    "close_price": 35.48682785,
-    "percent_change": -1.0098354
-  },
-  {
-    "title": "Kraft cooks up brand refresh, creative platform for unified sauce line",
-    "published": 1712156400,
-    "posting_price": 35.62020428,
-    "close_price": 35.60115051,
-    "percent_change": -0.05349147
-  },
-  {
-    "title": "Live La Dolce VELVEETA with New Limited-Edition VELVEETA Gold Hair Dye; VELVEETA Gold allows fans to boldly showcase the iconic yellow hue of VELVEETA cheese on their locks and prove they live by their own rules",
-    "published": 1712145625,
-    "posting_price": 35.62020428,
-    "close_price": 35.60115051,
-    "percent_change": -0.05349147
-  },
-  {
-    "title": "Yes, Chef! KRAFT Unveils New Line of Restaurant-Worthy Creamy Sauces",
-    "published": 1712142000,
-    "posting_price": 35.62020428,
-    "close_price": 35.60115051,
-    "percent_change": -0.05349147
-  },
-  {
-    "title": "Lunchables\u00ae is Back! After Fifteen Years, the Brand Returns to Canadian Shelves to Inspire Creativity and Power Kids Forward",
-    "published": 1712138400,
-    "posting_price": 35.62020428,
-    "close_price": 35.60115051,
-    "percent_change": -0.05349147
-  },
-  {
-    "title": "These are the most crowded longs within consumer staples - UBS",
-    "published": 1712115480,
-    "posting_price": 35.62020428,
-    "close_price": 35.60115051,
-    "percent_change": -0.05349147
-  },
-  {
-    "title": "Top buy-rated stocks in consumer staples - Citi",
-    "published": 1712108040,
-    "posting_price": 35.62020428,
-    "close_price": 35.60115051,
-    "percent_change": -0.05349147
-  },
-  {
-    "title": "Investors Met With Slowing Returns on Capital At Kraft Heinz (NASDAQ:KHC)",
-    "published": 1712062811,
-    "posting_price": 35.42967087,
-    "close_price": 35.62020493,
-    "percent_change": 0.53778106
-  },
-  {
-    "title": "Sell The Rally Now and Move To These 6 Warren Buffett Top Dividend Winners",
-    "published": 1712049360,
-    "posting_price": 35.42967087,
-    "close_price": 35.62020493,
-    "percent_change": 0.53778106
-  },
-  {
-    "title": "Warren Buffett\u2019s Highest Yielding Stocks Are Perfect For Passive Income Fans",
-    "published": 1712042160,
-    "posting_price": 35.42967087,
-    "close_price": 35.62020493,
-    "percent_change": 0.53778106
+    "title": "VELVEETA Unveils its First-Ever, Ready-to-Eat Queso",
+    "published": 1714565787,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.7362110018730164
   },
   {
     "title": "Kraft Heinz Sales Fall Again. The Stock Is Down.",
-    "published": 1714518000,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "published": 1714564320,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.968407928943634
   },
   {
-    "title": "Kraft Heinz snaps long streak of profit beats and sales fell shy again",
-    "published": 1714514040,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz misses sales estimates as higher prices deter customers",
+    "published": 1714562011,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.9645949602127075
   },
   {
-    "title": "Fed rate decision, Qualcomm earnings: What to Watch",
-    "published": 1714513130,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz Reports First Quarter 2024 Results",
+    "published": 1714561200,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.9379310011863708
   },
   {
-    "title": "Company earnings coming Wednesday",
-    "published": 1714502352,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "KHC Earnings: Kraft Heinz\u2019s Q1 Earnings Hold Steady",
+    "published": 1714555800,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.8842489719390869
   },
   {
-    "title": "NEW YORK MARKET CLOSE: Dow hit by new inflationary scare ahead of Fed",
-    "published": 1714493880,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz confirms guidance despite drop in first quarter sales",
+    "published": 1714550400,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.757163941860199
   },
   {
-    "title": "How to Play Kraft Heinz (KHC) Ahead of Q1 Earnings Release?",
-    "published": 1714491000,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz, TGI Fridays extend frozen appetizers deal",
+    "published": 1714548000,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.8851498961448669
   },
   {
-    "title": "4 Buyable Berkshire DiviDogs From April, Plus 5 To Watch",
-    "published": 1714483698,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz misses first-quarter sales estimates",
+    "published": 1714546964,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.968518853187561
   },
   {
-    "title": "Notable companies reporting before tomorrow's open",
-    "published": 1714480800,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz in charts: North American net sales dip 6.6% Q/Q in Q1",
+    "published": 1714546200,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.9668239951133728
   },
   {
-    "title": "Kraft Heinz Q1 2024 Earnings Preview",
-    "published": 1714473840,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz reports Q1 results; reaffirms FY24 outlook",
+    "published": 1714543740,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.6806497573852539
   },
   {
-    "title": "VELVEETA Unveils its First-Ever, Ready-to-Eat Queso in Three Cheesy Flavors",
-    "published": 1714471200,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz backs FY24 adjusted EPS view $3.01-$3.07, consensus $3.04",
+    "published": 1714543740,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 37.260101318359375,
+      "2024-05-01T14:30:00+00:00": 36.130001068115234,
+      "2024-05-01T15:30:00+00:00": 36.185001373291016,
+      "2024-05-01T16:30:00+00:00": 36.029998779296875,
+      "2024-05-01T17:30:00+00:00": 35.89500045776367,
+      "2024-05-01T18:30:00+00:00": 36.10929870605469,
+      "2024-05-01T19:30:00+00:00": 36.55500030517578
+    },
+    "sentiment": 0.3770769536495209
   },
   {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1714470660,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Capri Sun Goes Beyond the Pouch: Launches New Multi-Serve Format with 32 Pouches\u2019 Worth of Classic Fruit Punch Flavor",
+    "published": 1715770860,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 36.189998626708984,
+      "2024-05-15T14:30:00+00:00": 36.08000183105469,
+      "2024-05-15T15:30:00+00:00": 36.00749969482422,
+      "2024-05-15T16:30:00+00:00": 35.9900016784668,
+      "2024-05-15T17:30:00+00:00": 36.0099983215332,
+      "2024-05-15T18:30:00+00:00": 35.94020080566406,
+      "2024-05-15T19:30:00+00:00": 35.935001373291016
+    },
+    "sentiment": 0.6614100337028503
   },
   {
-    "title": "Kraft Heinz (KHC) Q1 Earnings Report Preview: What To Look For",
-    "published": 1714460897,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz\u2019s Oscar Mayer Divestiture: A Hold Rating Amid Financial and Strategic Considerations",
+    "published": 1715747760,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 36.189998626708984,
+      "2024-05-15T14:30:00+00:00": 36.08000183105469,
+      "2024-05-15T15:30:00+00:00": 36.00749969482422,
+      "2024-05-15T16:30:00+00:00": 35.9900016784668,
+      "2024-05-15T17:30:00+00:00": 36.0099983215332,
+      "2024-05-15T18:30:00+00:00": 35.94020080566406,
+      "2024-05-15T19:30:00+00:00": 35.935001373291016
+    },
+    "sentiment": 0.8092355132102966
   },
   {
-    "title": "Velveeta launches queso in a jar, new Shells & Cheese varieties",
-    "published": 1714456800,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz \u2018explores interest\u2019 in Oscar Mayer sale",
+    "published": 1715687473,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 36.66999816894531,
+      "2024-05-14T14:30:00+00:00": 36.46500015258789,
+      "2024-05-14T15:30:00+00:00": 36.375,
+      "2024-05-14T16:30:00+00:00": 36.345001220703125,
+      "2024-05-14T17:30:00+00:00": 36.14500045776367,
+      "2024-05-14T18:30:00+00:00": 36.14500045776367,
+      "2024-05-14T19:30:00+00:00": 36.224998474121094
+    },
+    "sentiment": 0.913029670715332
   },
   {
-    "title": "QQQ ETF Update, 4/30/2024\ufffd\ufffd\ufffd",
-    "published": 1714455660,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "Kraft Heinz\u2019s Jell-O partners with Girl Scouts on pudding cups",
+    "published": 1715666400,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 36.66999816894531,
+      "2024-05-14T14:30:00+00:00": 36.46500015258789,
+      "2024-05-14T15:30:00+00:00": 36.375,
+      "2024-05-14T16:30:00+00:00": 36.345001220703125,
+      "2024-05-14T17:30:00+00:00": 36.14500045776367,
+      "2024-05-14T18:30:00+00:00": 36.14500045776367,
+      "2024-05-14T19:30:00+00:00": 36.224998474121094
+    },
+    "sentiment": 0.5587273240089417
   },
   {
-    "title": "Stock Market Crash Warning: Don\u2019t Get Caught Holding These 3 Warren Buffett Stocks",
-    "published": 1714445100,
-    "posting_price": 36.80151303,
-    "close_price": 36.78245926,
-    "percent_change": -0.05177442
+    "title": "PRESS DIGEST- Wall Street Journal - May 14",
+    "published": 1715664345,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 36.66999816894531,
+      "2024-05-14T14:30:00+00:00": 36.46500015258789,
+      "2024-05-14T15:30:00+00:00": 36.375,
+      "2024-05-14T16:30:00+00:00": 36.345001220703125,
+      "2024-05-14T17:30:00+00:00": 36.14500045776367,
+      "2024-05-14T18:30:00+00:00": 36.14500045776367,
+      "2024-05-14T19:30:00+00:00": 36.224998474121094
+    },
+    "sentiment": 0.9208351969718933
   },
   {
-    "title": "Will Earnings Cheer Continue To Buoy Markets? Apple, Amazon, Pfizer, Coinbase Lead Flurry Of Q1 Reports This Week",
-    "published": 1714395360,
-    "posting_price": 36.39186359,
-    "close_price": 36.82056427,
-    "percent_change": 1.17801244
+    "title": "Kraft Heinz Plans to Offload Oscar Mayer Business",
+    "published": 1715649720,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 36.66999816894531,
+      "2024-05-14T14:30:00+00:00": 36.46500015258789,
+      "2024-05-14T15:30:00+00:00": 36.375,
+      "2024-05-14T16:30:00+00:00": 36.345001220703125,
+      "2024-05-14T17:30:00+00:00": 36.14500045776367,
+      "2024-05-14T18:30:00+00:00": 36.14500045776367,
+      "2024-05-14T19:30:00+00:00": 36.224998474121094
+    },
+    "sentiment": 0.8537573218345642
   },
   {
-    "title": "Global company events calendar",
-    "published": 1714382940,
-    "posting_price": 36.39186359,
-    "close_price": 36.82056427,
-    "percent_change": 1.17801244
+    "title": "Kraft Heinz exploring sale of Oscar Mayer brand: WSJ",
+    "published": 1715632540,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 36.290000915527344,
+      "2024-05-13T14:30:00+00:00": 36.36000061035156,
+      "2024-05-13T15:30:00+00:00": 36.31999969482422,
+      "2024-05-13T16:30:00+00:00": 36.3650016784668,
+      "2024-05-13T17:30:00+00:00": 36.51499938964844,
+      "2024-05-13T18:30:00+00:00": 36.494998931884766,
+      "2024-05-13T19:30:00+00:00": 36.48500061035156
+    },
+    "sentiment": 0.9461040496826172
   },
   {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 29 \u2013 May 02, 2024",
-    "published": 1714370460,
-    "posting_price": 36.39186359,
-    "close_price": 36.82056427,
-    "percent_change": 1.17801244
+    "title": "Stocks to Watch Monday: GameStop, AMC, Squarespace, BuzzFeed",
+    "published": 1715607832,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 36.290000915527344,
+      "2024-05-13T14:30:00+00:00": 36.36000061035156,
+      "2024-05-13T15:30:00+00:00": 36.31999969482422,
+      "2024-05-13T16:30:00+00:00": 36.3650016784668,
+      "2024-05-13T17:30:00+00:00": 36.51499938964844,
+      "2024-05-13T18:30:00+00:00": 36.494998931884766,
+      "2024-05-13T19:30:00+00:00": 36.48500061035156
+    },
+    "sentiment": 0.9201246500015259
   },
   {
-    "title": "Wall Street Breakfast: The Week Ahead",
-    "published": 1714288946,
-    "posting_price": 36.39186359,
-    "close_price": 36.82056427,
-    "percent_change": 1.17801244
+    "title": "UPDATE 3-Kraft Heinz exploring sale of Oscar Mayer business, WSJ reports",
+    "published": 1715621315,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 36.290000915527344,
+      "2024-05-13T14:30:00+00:00": 36.36000061035156,
+      "2024-05-13T15:30:00+00:00": 36.31999969482422,
+      "2024-05-13T16:30:00+00:00": 36.3650016784668,
+      "2024-05-13T17:30:00+00:00": 36.51499938964844,
+      "2024-05-13T18:30:00+00:00": 36.494998931884766,
+      "2024-05-13T19:30:00+00:00": 36.48500061035156
+    },
+    "sentiment": 0.9345978498458862
   },
   {
-    "title": "Earnings week ahead: Amazon, Apple, Pfizer, AMD, Coca-Cola, Starbucks and more",
-    "published": 1714287780,
-    "posting_price": 36.39186359,
-    "close_price": 36.82056427,
-    "percent_change": 1.17801244
+    "title": "Kraft Heinz Explores Sale of Oscar Mayer",
+    "published": 1715620560,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 36.290000915527344,
+      "2024-05-13T14:30:00+00:00": 36.36000061035156,
+      "2024-05-13T15:30:00+00:00": 36.31999969482422,
+      "2024-05-13T16:30:00+00:00": 36.3650016784668,
+      "2024-05-13T17:30:00+00:00": 36.51499938964844,
+      "2024-05-13T18:30:00+00:00": 36.494998931884766,
+      "2024-05-13T19:30:00+00:00": 36.48500061035156
+    },
+    "sentiment": 0.9146054983139038
   },
   {
-    "title": "The CEO of packaged-food giant Kraft Heinz is obsessed with healthy eating and exercise\u2014but also snacks on Lunchables several times a week",
-    "published": 1714246741,
-    "posting_price": 36.39186736,
-    "close_price": 36.82056808,
-    "percent_change": 1.17801243
+    "title": "Kraft Heinz ticks higher amid report of potential Oscar Mayer sale",
+    "published": 1715603400,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 36.290000915527344,
+      "2024-05-13T14:30:00+00:00": 36.36000061035156,
+      "2024-05-13T15:30:00+00:00": 36.31999969482422,
+      "2024-05-13T16:30:00+00:00": 36.3650016784668,
+      "2024-05-13T17:30:00+00:00": 36.51499938964844,
+      "2024-05-13T18:30:00+00:00": 36.494998931884766,
+      "2024-05-13T19:30:00+00:00": 36.48500061035156
+    },
+    "sentiment": 0.7402119040489197
   },
   {
-    "title": "Kraft Heinz\u2019s CEO Is a Health Nut. Can He Remake a Processed-Food Giant?",
-    "published": 1714190580,
-    "posting_price": 36.39186736,
-    "close_price": 36.82056808,
-    "percent_change": 1.17801243
+    "title": "Kraft hires advisers to gauge interest in Oscar Mayer, WSJ reports",
+    "published": 1715603040,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 36.290000915527344,
+      "2024-05-13T14:30:00+00:00": 36.36000061035156,
+      "2024-05-13T15:30:00+00:00": 36.31999969482422,
+      "2024-05-13T16:30:00+00:00": 36.3650016784668,
+      "2024-05-13T17:30:00+00:00": 36.51499938964844,
+      "2024-05-13T18:30:00+00:00": 36.494998931884766,
+      "2024-05-13T19:30:00+00:00": 36.48500061035156
+    },
+    "sentiment": 0.8893102407455444
   },
   {
-    "title": "Kraft Heinz (KHC) Stock Sinks As Market Gains: Here's Why",
-    "published": 1714168814,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "Leftovers: Graza olive oil cracks a cold one | Kraft Heinz grills up Stuffed Dogs",
+    "published": 1715338800,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 35.66999816894531,
+      "2024-05-10T14:30:00+00:00": 36.0,
+      "2024-05-10T15:30:00+00:00": 35.91999816894531,
+      "2024-05-10T16:30:00+00:00": 36.005001068115234,
+      "2024-05-10T17:30:00+00:00": 36.224998474121094,
+      "2024-05-10T18:30:00+00:00": 36.14500045776367,
+      "2024-05-10T19:30:00+00:00": 36.27000045776367
+    },
+    "sentiment": 0.553390622138977
   },
   {
-    "title": "Boston Beer (SAM) Stock Rallies on Q1 Earnings & Revenue Beat",
-    "published": 1714143840,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "Insider Sale at The Kraft Heinz Co (KHC): Chief Legal & Corporate Affairs Officer Lande La ...",
+    "published": 1715144520,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 35.81999969482422,
+      "2024-05-08T14:30:00+00:00": 35.95500183105469,
+      "2024-05-08T15:30:00+00:00": 35.96500015258789,
+      "2024-05-08T16:30:00+00:00": 35.935001373291016,
+      "2024-05-08T17:30:00+00:00": 35.875,
+      "2024-05-08T18:30:00+00:00": 35.940799713134766,
+      "2024-05-08T19:30:00+00:00": 35.89500045776367
+    },
+    "sentiment": 0.9452171921730042
   },
   {
-    "title": "Stocks to watch next week: Amazon, Apple, Anglo American and Novo Nordisk",
-    "published": 1714140565,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "Shopify, Kraft Heinz upgraded: Wall Street's top analyst calls",
+    "published": 1716384996,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 36.029998779296875,
+      "2024-05-22T14:30:00+00:00": 35.98500061035156,
+      "2024-05-22T15:30:00+00:00": 36.20000076293945,
+      "2024-05-22T16:30:00+00:00": 36.17499923706055,
+      "2024-05-22T17:30:00+00:00": 36.189998626708984,
+      "2024-05-22T18:30:00+00:00": 36.209999084472656,
+      "2024-05-22T19:30:00+00:00": 36.349998474121094
+    },
+    "sentiment": 0.855743944644928
   },
   {
-    "title": "Countdown to Kraft Heinz (KHC) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS",
-    "published": 1714137322,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1716375840,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 36.029998779296875,
+      "2024-05-22T14:30:00+00:00": 35.98500061035156,
+      "2024-05-22T15:30:00+00:00": 36.20000076293945,
+      "2024-05-22T16:30:00+00:00": 36.17499923706055,
+      "2024-05-22T17:30:00+00:00": 36.189998626708984,
+      "2024-05-22T18:30:00+00:00": 36.209999084472656,
+      "2024-05-22T19:30:00+00:00": 36.349998474121094
+    },
+    "sentiment": 0.9132178425788879
   },
   {
-    "title": "June 7th Options Now Available For Kraft Heinz (KHC)",
-    "published": 1714136100,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "This Kraft Heinz Analyst Turns Bullish; Here Are Top 5 Upgrades For Wednesday",
+    "published": 1716363300,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 36.029998779296875,
+      "2024-05-22T14:30:00+00:00": 35.98500061035156,
+      "2024-05-22T15:30:00+00:00": 36.20000076293945,
+      "2024-05-22T16:30:00+00:00": 36.17499923706055,
+      "2024-05-22T17:30:00+00:00": 36.189998626708984,
+      "2024-05-22T18:30:00+00:00": 36.209999084472656,
+      "2024-05-22T19:30:00+00:00": 36.349998474121094
+    },
+    "sentiment": 0.866200864315033
   },
   {
-    "title": "QQQ ETF Update, 4/26/2024\ufffd\ufffd\ufffd",
-    "published": 1714134720,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "Piper upgrades Kraft Heinz to Overweight on foodservice growth",
+    "published": 1716349680,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 36.029998779296875,
+      "2024-05-22T14:30:00+00:00": 35.98500061035156,
+      "2024-05-22T15:30:00+00:00": 36.20000076293945,
+      "2024-05-22T16:30:00+00:00": 36.17499923706055,
+      "2024-05-22T17:30:00+00:00": 36.189998626708984,
+      "2024-05-22T18:30:00+00:00": 36.209999084472656,
+      "2024-05-22T19:30:00+00:00": 36.349998474121094
+    },
+    "sentiment": 0.7636741995811462
   },
   {
-    "title": "Kraft Heinz call volume above normal and directionally bullish",
-    "published": 1714098300,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "Kraft Heinz Unveils New Canadian Brand \u2013 Pure J.L. KRAFT Dressings & Marinades \u2013 Set to Disrupt Category with Twelve Craveable Offerings",
+    "published": 1716292800,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 35.959999084472656,
+      "2024-05-21T14:30:00+00:00": 35.994998931884766,
+      "2024-05-21T15:30:00+00:00": 35.8650016784668,
+      "2024-05-21T16:30:00+00:00": 35.78499984741211,
+      "2024-05-21T17:30:00+00:00": 35.8650016784668,
+      "2024-05-21T18:30:00+00:00": 35.8849983215332,
+      "2024-05-21T19:30:00+00:00": 35.94660186767578
+    },
+    "sentiment": 0.6111248731613159
   },
   {
-    "title": "Catalyst Watch: Apple earnings, Viking IPO, Chinese EV deliveries and Russell indices' Rank Day",
-    "published": 1714097160,
-    "posting_price": 36.15846119,
-    "close_price": 36.35375595,
-    "percent_change": 0.54010805
+    "title": "Kraft Heinz Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+    "published": 1716263940,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 35.959999084472656,
+      "2024-05-21T14:30:00+00:00": 35.994998931884766,
+      "2024-05-21T15:30:00+00:00": 35.8650016784668,
+      "2024-05-21T16:30:00+00:00": 35.78499984741211,
+      "2024-05-21T17:30:00+00:00": 35.8650016784668,
+      "2024-05-21T18:30:00+00:00": 35.8849983215332,
+      "2024-05-21T19:30:00+00:00": 35.94660186767578
+    },
+    "sentiment": 0.8728352189064026
   },
   {
-    "title": "Here's Why Kraft Heinz (KHC) Fell More Than Broader Market",
-    "published": 1714083319,
-    "posting_price": 36.93298157,
-    "close_price": 36.55381775,
-    "percent_change": -1.02662662
+    "title": "Got $1,000? 3 Stocks to Buy Now While They're on Sale",
+    "published": 1716239700,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 35.93000030517578,
+      "2024-05-20T14:30:00+00:00": 36.095001220703125,
+      "2024-05-20T15:30:00+00:00": 36.08000183105469,
+      "2024-05-20T16:30:00+00:00": 36.0,
+      "2024-05-20T17:30:00+00:00": 36.029998779296875,
+      "2024-05-20T18:30:00+00:00": 36.02000045776367,
+      "2024-05-20T19:30:00+00:00": 35.92499923706055
+    },
+    "sentiment": 0.9360985159873962
   },
   {
-    "title": "Kraft Heinz : Position on Extended Producer Responsibility",
-    "published": 1714013357,
-    "posting_price": 36.93298157,
-    "close_price": 36.55381775,
-    "percent_change": -1.02662662
+    "title": "Sour Patch Kids Oreos? Peeps Pepsi? What's behind the weird flavors popping up on store shelves",
+    "published": 1716163500,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 35.93000030517578,
+      "2024-05-20T14:30:00+00:00": 36.095001220703125,
+      "2024-05-20T15:30:00+00:00": 36.08000183105469,
+      "2024-05-20T16:30:00+00:00": 36.0,
+      "2024-05-20T17:30:00+00:00": 36.029998779296875,
+      "2024-05-20T18:30:00+00:00": 36.02000045776367,
+      "2024-05-20T19:30:00+00:00": 35.92499923706055
+    },
+    "sentiment": 0.9031780958175659
   },
   {
-    "title": "Kraft Heinz Insiders Sell US$2.6m Of Stock, Possibly Signalling Caution",
-    "published": 1713956414,
-    "posting_price": 35.63925362,
-    "close_price": 36.74434662,
-    "percent_change": 3.10077481
+    "title": "Oscar Mayer Offers Peek At How M&A Sausage Is Made",
+    "published": 1716022860,
+    "day_prices": {},
+    "sentiment": 0.9268476366996765
   },
   {
-    "title": "Sustaining The Future: How 3 Companies Are Reshaping FoodTech",
-    "published": 1713942900,
-    "posting_price": 35.63925362,
-    "close_price": 36.74434662,
-    "percent_change": 3.10077481
+    "title": "McDonald\u2019s Prices Make Me Grimace. Are Consumers Fed Up?",
+    "published": 1715866200,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 35.869998931884766,
+      "2024-05-16T14:30:00+00:00": 36.0,
+      "2024-05-16T15:30:00+00:00": 36.10499954223633,
+      "2024-05-16T16:30:00+00:00": 36.185001373291016,
+      "2024-05-16T17:30:00+00:00": 36.20500183105469,
+      "2024-05-16T18:30:00+00:00": 36.25019836425781,
+      "2024-05-16T19:30:00+00:00": 36.1150016784668
+    },
+    "sentiment": 0.8709971308708191
   },
   {
-    "title": "QQQ ETF Update, 4/24/2024",
-    "published": 1713932940,
-    "posting_price": 35.63925362,
-    "close_price": 36.74434662,
-    "percent_change": 3.10077481
-  },
-  {
-    "title": "KHC or DANOY: Which Is the Better Value Stock Right Now?",
-    "published": 1713886808,
-    "posting_price": 36.24896305,
-    "close_price": 36.26801682,
-    "percent_change": 0.05256363
-  },
-  {
-    "title": "Is Kraft Heinz Company (KHC) Outperforming Other Consumer Staples Stocks This Year?",
-    "published": 1713879611,
-    "posting_price": 36.24896305,
-    "close_price": 36.26801682,
-    "percent_change": 0.05256363
-  },
-  {
-    "title": "QQQ ETF Update, 4/23/2024",
-    "published": 1713846000,
-    "posting_price": 36.24896305,
-    "close_price": 36.26801682,
-    "percent_change": 0.05256363
-  },
-  {
-    "title": "Kraft Heinz stock closes in red after six days of gains",
-    "published": 1713841740,
-    "posting_price": 36.24896305,
-    "close_price": 36.26801682,
-    "percent_change": 0.05256363
-  },
-  {
-    "title": "Hormel: Hit The Fade And Look To Buy Below $25",
-    "published": 1713794867,
-    "posting_price": 36.12511415,
-    "close_price": 36.34423065,
-    "percent_change": 0.60654895
-  },
-  {
-    "title": "Analysts\u2019 Top Consumer Goods Picks: Sysco (SYY), Kraft Heinz (KHC)",
-    "published": 1713763860,
-    "posting_price": 36.12511415,
-    "close_price": 36.34423065,
-    "percent_change": 0.60654895
-  },
-  {
-    "title": "Dividend Income Summary: March 2024 Summary",
-    "published": 1713670860,
-    "posting_price": 36.12511415,
-    "close_price": 36.34423065,
-    "percent_change": 0.60654895
-  },
-  {
-    "title": "Kraft Heinz (KHC) Rises As Market Takes a Dip: Key Facts",
-    "published": 1713564019,
-    "posting_price": 35.52494037,
-    "close_price": 35.991745,
-    "percent_change": 1.31401946
-  },
-  {
-    "title": "The Kraft Heinz Company (NASDAQ:KHC) is favoured by institutional owners who hold 52% of the company",
-    "published": 1713528014,
-    "posting_price": 35.52494037,
-    "close_price": 35.991745,
-    "percent_change": 1.31401946
-  },
-  {
-    "title": "Leftovers: Kraft Heinz makes fast food sauces better-for-you | Go Go Squeez recharges with electrolyte snacks",
-    "published": 1713523080,
-    "posting_price": 35.52494037,
-    "close_price": 35.991745,
-    "percent_change": 1.31401946
-  },
-  {
-    "title": "Kraft Heinz (KHC) on Track With Pricing Actions Amid Inflation",
-    "published": 1713448560,
-    "posting_price": 35.39156594,
-    "close_price": 35.3534584,
-    "percent_change": -0.10767407
-  },
-  {
-    "title": "Kraft Heinz price target raised by $1 at Deutsche Bank, here's why",
-    "published": 1713428520,
-    "posting_price": 35.39156594,
-    "close_price": 35.3534584,
-    "percent_change": -0.10767407
-  },
-  {
-    "title": "Kraft Heinz : SUPPLEMENTAL HISTORICAL SEGMENT FINANCIAL INFORMATION AND SUPPLEMENTAL NON-GAAP FINANCIAL INFORMATION - Form 8-K",
-    "published": 1713420190,
-    "posting_price": 35.39156594,
-    "close_price": 35.3534584,
-    "percent_change": -0.10767407
-  },
-  {
-    "title": "Hold Rating on Kraft Heinz Amid Mixed Performance and Market Pressures",
-    "published": 1713413760,
-    "posting_price": 35.39156594,
-    "close_price": 35.3534584,
-    "percent_change": -0.10767407
-  },
-  {
-    "title": "Kraft Heinz rebrands Mio liquid concentrate to meet Gen Z wellness trends",
-    "published": 1713350880,
-    "posting_price": 35.08671405,
-    "close_price": 35.15340042,
-    "percent_change": 0.1900616
-  },
-  {
-    "title": "RSPS: Consumer Staples Dashboard For April",
-    "published": 1713345604,
-    "posting_price": 35.08671405,
-    "close_price": 35.15340042,
-    "percent_change": 0.1900616
-  },
-  {
-    "title": "Kraft Heinz (KHC) Surpasses Market Returns: Some Facts Worth Knowing",
-    "published": 1713305717,
-    "posting_price": 34.72469763,
-    "close_price": 34.85807037,
-    "percent_change": 0.38408611
-  },
-  {
-    "title": "Kraft Heinz\u2019s mio Launches TAP: First-Ever Faucet that Instantly Turns Tap Water into an Energy Drink",
-    "published": 1713261600,
-    "posting_price": 34.72469763,
-    "close_price": 34.85807037,
-    "percent_change": 0.38408611
-  },
-  {
-    "title": "Reflecting On Shelf-Stable Food Stocks\u2019 Q4 Earnings: Utz (NYSE:UTZ)",
-    "published": 1713260946,
-    "posting_price": 34.72469763,
-    "close_price": 34.85807037,
-    "percent_change": 0.38408611
-  },
-  {
-    "title": "10 Best Beverage Dividend Stocks To Buy Now",
-    "published": 1713251997,
-    "posting_price": 34.72469763,
-    "close_price": 34.85807037,
-    "percent_change": 0.38408611
+    "title": "Kraft Heinz Strategy and Oscar Mayer Sale Impact: A Hold Rating Analysis",
+    "published": 1715839620,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 35.869998931884766,
+      "2024-05-16T14:30:00+00:00": 36.0,
+      "2024-05-16T15:30:00+00:00": 36.10499954223633,
+      "2024-05-16T16:30:00+00:00": 36.185001373291016,
+      "2024-05-16T17:30:00+00:00": 36.20500183105469,
+      "2024-05-16T18:30:00+00:00": 36.25019836425781,
+      "2024-05-16T19:30:00+00:00": 36.1150016784668
+    },
+    "sentiment": 0.9323501586914062
   }
 ]

@@ -1,590 +1,100 @@
 [
   {
-    "title": "7 Stable Stocks for 50% Returns by Early 2025",
-    "published": 1713188730,
-    "posting_price": 223.49619303,
-    "close_price": 218.71324158,
-    "percent_change": -2.14005947
-  },
-  {
-    "title": "QQQ ETF Update, 4/15/2024\ufffd\ufffd\ufffd",
-    "published": 1713159000,
-    "posting_price": 223.49619303,
-    "close_price": 218.71324158,
-    "percent_change": -2.14005947
-  },
-  {
-    "title": "How Is The Market Feeling About Old Dominion Freight Line?",
-    "published": 1712920680,
-    "posting_price": 215.491467,
-    "close_price": 219.88661194,
-    "percent_change": 2.03959117
-  },
-  {
-    "title": "ClearBridge Aggressive Growth Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712906400,
-    "posting_price": 215.491467,
-    "close_price": 219.88661194,
-    "percent_change": 2.03959117
-  },
-  {
-    "title": "Those who invested in Old Dominion Freight Line (NASDAQ:ODFL) five years ago are up 319%",
-    "published": 1712863455,
-    "posting_price": 213.54248423,
-    "close_price": 218.55413818,
-    "percent_change": 2.34691189
-  },
-  {
-    "title": "Old Dominion price target raised by $21 at Wolfe Research, here's why",
-    "published": 1712813400,
-    "posting_price": 213.54248423,
-    "close_price": 218.55413818,
-    "percent_change": 2.34691189
-  },
-  {
-    "title": "Old Dominion price target lowered by $2 at JPMorgan, here's why",
-    "published": 1712643000,
-    "posting_price": 223.42661074,
-    "close_price": 221.26881409,
-    "percent_change": -0.96577424
-  },
-  {
-    "title": "Megan Moroney on Her Four CMT Awards Costume Changes, \u2018Natural\u2019 Beauty Offstage and Bad Taste in\u00a0Men",
-    "published": 1712593771,
-    "posting_price": 224.50053437,
-    "close_price": 223.42660522,
-    "percent_change": -0.47836374
-  },
-  {
-    "title": "Best Dressed at CMT Awards\u00a02024",
-    "published": 1712588128,
-    "posting_price": 224.50053437,
-    "close_price": 223.42660522,
-    "percent_change": -0.47836374
-  },
-  {
-    "title": "Old Dominion Freight Line Inc (ODFL)'s Winning Formula: Financial Metrics and Competitive Strengths",
-    "published": 1712570640,
-    "posting_price": 224.50053437,
-    "close_price": 223.42660522,
-    "percent_change": -0.47836374
-  },
-  {
-    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
-    "published": 1712395800,
-    "posting_price": 224.50053437,
-    "close_price": 223.42660522,
-    "percent_change": -0.47836374
-  },
-  {
-    "title": "The Worst Dressed Stars in CMT Awards\u00a0History",
-    "published": 1712335455,
-    "posting_price": 219.23034413,
-    "close_price": 223.30729675,
-    "percent_change": 1.8596662
-  },
-  {
-    "title": "The Best Dressed Stars in CMT Music\u00a0Awards\u00a0History",
-    "published": 1712334826,
-    "posting_price": 219.23034413,
-    "close_price": 223.30729675,
-    "percent_change": 1.8596662
-  },
-  {
-    "title": "Double Your Shares, Double Your Gains: 3 Stock Split Plays for 2024",
-    "published": 1712232000,
-    "posting_price": 220.13521696,
-    "close_price": 216.83387756,
-    "percent_change": -1.49968708
-  },
-  {
-    "title": "Old Dominion price target lowered by $205 at Barclays, here's why",
-    "published": 1712206380,
-    "posting_price": 220.13521696,
-    "close_price": 216.83387756,
-    "percent_change": -1.49968708
+    "title": "Unveiling Old Dominion Freight Line (ODFL)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1714979340,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 185.32000732421875,
+      "2024-05-06T14:30:00+00:00": 183.07000732421875,
+      "2024-05-06T15:30:00+00:00": 182.4250030517578,
+      "2024-05-06T16:30:00+00:00": 180.9499969482422,
+      "2024-05-06T17:30:00+00:00": 180.63999938964844,
+      "2024-05-06T18:30:00+00:00": 180.71499633789062,
+      "2024-05-06T19:30:00+00:00": 180.6649932861328
+    },
+    "sentiment": 0.8381239175796509
   },
   {
     "title": "Old Dominion Freight Line Inc. stock outperforms competitors despite losses on the day",
-    "published": 1712202960,
-    "posting_price": 220.13521696,
-    "close_price": 216.83387756,
-    "percent_change": -1.49968708
-  },
-  {
-    "title": "SPY ETF Update, 4/2/2024",
-    "published": 1712039160,
-    "posting_price": 215.4119246,
-    "close_price": 215.3522644,
-    "percent_change": -0.02769587
-  },
-  {
-    "title": "4 Factor Dividend Growth Portfolio - A Strong Finish To Quarter 1",
-    "published": 1712024751,
-    "posting_price": 215.4119246,
-    "close_price": 215.3522644,
-    "percent_change": -0.02769587
-  },
-  {
-    "title": "Why ArcBest Stock Drove Off the Road Today",
-    "published": 1714505100,
-    "posting_price": 182.44831483,
-    "close_price": 180.6882782,
-    "percent_change": -0.96467684
-  },
-  {
-    "title": "Analysts Conflicted on These Industrial Goods Names: Old Dominion Freight (ODFL) and Norfolk Southern (NSC)",
-    "published": 1714468260,
-    "posting_price": 182.44831483,
-    "close_price": 180.6882782,
-    "percent_change": -0.96467684
-  },
-  {
-    "title": "Old Dominion Freight Line: The Dividend Growth Stock That Keeps On Winning",
-    "published": 1714442450,
-    "posting_price": 182.44831483,
-    "close_price": 180.6882782,
-    "percent_change": -0.96467684
-  },
-  {
-    "title": "Will Earnings Cheer Continue To Buoy Markets? Apple, Amazon, Pfizer, Coinbase Lead Flurry Of Q1 Reports This Week",
-    "published": 1714395360,
-    "posting_price": 182.33893733,
-    "close_price": 183.20405579,
-    "percent_change": 0.47445624
-  },
-  {
-    "title": "Vertical Research gets more bullish on Old Dominion, upgrades shares",
-    "published": 1714368720,
-    "posting_price": 182.33893733,
-    "close_price": 183.20405579,
-    "percent_change": 0.47445624
-  },
-  {
-    "title": "Why I have hated this earnings season \u2014 and you might too",
-    "published": 1714307426,
-    "posting_price": 182.33893733,
-    "close_price": 183.20405579,
-    "percent_change": 0.47445624
-  },
-  {
-    "title": "Unveiling Old Dominion Freight Line (ODFL)'s Value: Is It Really Priced Right? A Comprehensive Guide",
-    "published": 1714220400,
-    "posting_price": 182.33892214,
-    "close_price": 183.20404053,
-    "percent_change": 0.47445624
-  },
-  {
-    "title": "Earnings drive Vertiv to top industrial gainer of week, trucking stocks among losers",
-    "published": 1714217940,
-    "posting_price": 182.33892214,
-    "close_price": 183.20404053,
-    "percent_change": 0.47445624
-  },
-  {
-    "title": "Wall Street Breakfast: What Moved Markets",
-    "published": 1714196400,
-    "posting_price": 182.33892214,
-    "close_price": 183.20404053,
-    "percent_change": 0.47445624
-  },
-  {
-    "title": "ClearBridge Global Growth Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1714133700,
-    "posting_price": 183.2239221,
-    "close_price": 181.39427185,
-    "percent_change": -0.99858699
-  },
-  {
-    "title": "Old Dominion Freight Line First Quarter 2024 Earnings: In Line With Expectations",
-    "published": 1714130682,
-    "posting_price": 183.2239221,
-    "close_price": 181.39427185,
-    "percent_change": -0.99858699
-  },
-  {
-    "title": "Old Dominion price target lowered by $3 at TD Cowen, here's why",
-    "published": 1714118220,
-    "posting_price": 183.2239221,
-    "close_price": 181.39427185,
-    "percent_change": -0.99858699
-  },
-  {
-    "title": "Old Dominion Freight Hold Rating Justified Amidst Economic Headwinds and Market Pressures",
-    "published": 1714093260,
-    "posting_price": 183.2239221,
-    "close_price": 181.39427185,
-    "percent_change": -0.99858699
-  },
-  {
-    "title": "Why Aon Shares Are Trading Lower By Around 7%? Here Are Other Stocks Moving In Friday's Mid-Day Session",
-    "published": 1714093260,
-    "posting_price": 183.2239221,
-    "close_price": 181.39427185,
-    "percent_change": -0.99858699
-  },
-  {
-    "title": "Old Dominion Freight Line, Inc. (NASDAQ:ODFL) Q1 2024 Earnings Call Transcript",
-    "published": 1714069754,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Old Dominion price target lowered by $18 at BofA, here's why",
-    "published": 1714030440,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Old Dominion Freight Line Inc (ODFL) (Q1 2024) Earnings Call Transcript Highlights: Record EPS ...",
-    "published": 1714029083,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Benchmark Co. Sticks to Their Hold Rating for Old Dominion Freight (ODFL)",
-    "published": 1714026660,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Old Dominion price target raised by $3 at UBS, here's why",
-    "published": 1714025700,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Q1 2024 Old Dominion Freight Line Inc Earnings Call",
-    "published": 1714024441,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Industrial Goods Stocks: Old Dominion Freight (ODFL) and General Dynamics (GD)",
-    "published": 1714020120,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Old Dominion price target lowered by $5 at Barclays, here's why",
-    "published": 1714018080,
-    "posting_price": 195.65362782,
-    "close_price": 195.55419922,
-    "percent_change": -0.05081868
-  },
-  {
-    "title": "Why Old Dominion Freight Line Stock Crashed on Wednesday",
-    "published": 1713985499,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion\u2019s Q1 earnings meet estimate, but LTL stocks fall anyway",
-    "published": 1713979228,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion Freight Line, Inc. (ODFL) Q1 2024 Earnings Call Transcript",
-    "published": 1713971289,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion Freight Line Matches Analyst EPS Estimates in Q1 2024",
-    "published": 1713970914,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Here's What Key Metrics Tell Us About Old Dominion (ODFL) Q1 Earnings",
-    "published": 1713965428,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Trucker ODFL Earnings Rise on Cost Cuts, Sales Growth",
-    "published": 1713963300,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Treasury Yields Rise, Tesla Jumps On Cheaper Model Pledge, Yen Plummets To 34-Year Lows: What's Driving Markets Wednesday?",
-    "published": 1713962700,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1713960240,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion Freight Line posts lower-than-expected Q1 revenue on lesser shipments",
-    "published": 1713959411,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Futures Rise For Third Day As Tesla, Texas Instruments Surge Boosts Tech Stocks",
-    "published": 1713956400,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion Freight Line Reports First Quarter 2024 Earnings Per Diluted Share of $1.34",
-    "published": 1713956400,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "ODFL Stock Earnings: Old Dominion Freight Line Meets EPS, Misses Revenue for Q1 2024",
-    "published": 1713956220,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Video: Nasdaq 100 Movers: ODFL, TSLA",
-    "published": 1713952260,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion says quarter to date revenues up 5%-6%",
-    "published": 1713950340,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion touts quarterly performance as revenue and net income up",
-    "published": 1713946260,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion Freight: Hold Rating with Cautious Outlook on Mixed Q1 Earnings and Future Growth Potential",
-    "published": 1713944760,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion: Q1 Earnings Snapshot",
-    "published": 1713942549,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion reports Q1 EPS $1.34, consensus $1.34",
-    "published": 1713939420,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion Freight Line GAAP EPS of $1.34 in-line, revenue of $1.46B misses by $10M",
-    "published": 1713938880,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Transportation stocks sink, with industry ETF booking biggest drop since October",
-    "published": 1713938220,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Nasdaq Futures Get A Lift From Tesla, Texas Instruments Earnings: Analyst Points To Key Catalyst For Boosting Rally",
-    "published": 1713937140,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "What You Missed On Wall Street On Wednesday",
-    "published": 1713928440,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Why Teledyne Technologies Shares Are Trading Lower By 9%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session",
-    "published": 1713920580,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Old Dominion results weigh on trucking sector as industry challenges persist",
-    "published": 1713920400,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "GLOBAL BRIEFING: Stocks called higher; Australia's inflation edges up",
-    "published": 1713919200,
-    "posting_price": 206.83045425,
-    "close_price": 193.96321106,
-    "percent_change": -6.22115502
-  },
-  {
-    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
-    "published": 1713872040,
-    "posting_price": 209.80363273,
-    "close_price": 218.04701233,
-    "percent_change": 3.92909288
-  },
-  {
-    "title": "Old Dominion Freight Line Q1 2024 Earnings Preview",
-    "published": 1713868620,
-    "posting_price": 209.80363273,
-    "close_price": 218.04701233,
-    "percent_change": 3.92909288
-  },
-  {
-    "title": "3 High-Quality Stocks That Will Never Put You in the Red",
-    "published": 1713867840,
-    "posting_price": 209.80363273,
-    "close_price": 218.04701233,
-    "percent_change": 3.92909288
-  },
-  {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1713864720,
-    "posting_price": 209.80363273,
-    "close_price": 218.04701233,
-    "percent_change": 3.92909288
-  },
-  {
-    "title": "Stocks Poised for Higher Open",
-    "published": 1713684660,
-    "posting_price": 212.54809612,
-    "close_price": 210.40023804,
-    "percent_change": -1.01052803
-  },
-  {
-    "title": "Can Magnificent 7 Help Script Market Turnaround? Earnings Pick Up Pace With Microsoft, Meta, Alphabet And Tesla Expected This Week",
-    "published": 1713674940,
-    "posting_price": 212.54809612,
-    "close_price": 210.40023804,
-    "percent_change": -1.01052803
-  },
-  {
-    "title": "Old Dominion (ODFL) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-    "published": 1713532524,
-    "posting_price": 208.68991978,
-    "close_price": 210.62896729,
-    "percent_change": 0.92915245
-  },
-  {
-    "title": "Analysts Estimate Heartland Express (HTLD) to Report a Decline in Earnings: What to Look Out for",
-    "published": 1713448902,
-    "posting_price": 212.09068758,
-    "close_price": 206.65145874,
-    "percent_change": -2.56457693
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: Old Dominion Freight (ODFL) and Equifax (EFX)",
-    "published": 1713431460,
-    "posting_price": 212.09068758,
-    "close_price": 206.65145874,
-    "percent_change": -2.56457693
-  },
-  {
-    "title": "Why Old Dominion Freight Line Stock Is Falling Today",
-    "published": 1713374520,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "Old Dominion (ODFL) Gears Up for Q1 Earnings: What's in Store?",
-    "published": 1713364260,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "Old Dominion Freight Line (ODFL) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1713362467,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "J.B. Hunt Transport Faces Challenges Despite Q4 Optimism: A Detailed Q1 Analysis",
-    "published": 1713348960,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "Trucking stocks hit the brakes as earnings worries mount",
-    "published": 1713348360,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "Global company events calendar",
-    "published": 1713344220,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "QQQ ETF Update, 4/17/2024",
-    "published": 1713333180,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "Trucking Stocks Skid As Earnings Report Sounds Alarm For Industry",
-    "published": 1713329221,
-    "posting_price": 211.12615292,
-    "close_price": 209.62463379,
-    "percent_change": -0.71119523
-  },
-  {
-    "title": "Dow transports dive, as trucker stocks go off-roading",
-    "published": 1713311834,
-    "posting_price": 218.71323101,
-    "close_price": 219.24024963,
-    "percent_change": 0.2409633
-  },
-  {
-    "title": "Steering Your Portfolio: 3 Transportation Stocks in the Fast Lane",
-    "published": 1713294000,
-    "posting_price": 218.71323101,
-    "close_price": 219.24024963,
-    "percent_change": 0.2409633
+    "published": 1715659200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 184.35000610351562,
+      "2024-05-14T14:30:00+00:00": 185.1649932861328,
+      "2024-05-14T15:30:00+00:00": 182.9199981689453,
+      "2024-05-14T16:30:00+00:00": 181.80999755859375,
+      "2024-05-14T17:30:00+00:00": 181.49000549316406,
+      "2024-05-14T18:30:00+00:00": 181.66000366210938,
+      "2024-05-14T19:30:00+00:00": 181.6300048828125
+    },
+    "sentiment": 0.9380855560302734
+  },
+  {
+    "title": "With 73% ownership, Old Dominion Freight Line, Inc. (NASDAQ:ODFL) boasts of strong institutional backing",
+    "published": 1715597359,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 185.3000030517578,
+      "2024-05-13T14:30:00+00:00": 183.75,
+      "2024-05-13T15:30:00+00:00": 184.41000366210938,
+      "2024-05-13T16:30:00+00:00": 184.4199981689453,
+      "2024-05-13T17:30:00+00:00": 183.58999633789062,
+      "2024-05-13T18:30:00+00:00": 183.38999938964844,
+      "2024-05-13T19:30:00+00:00": 183.10000610351562
+    },
+    "sentiment": 0.8720669150352478
+  },
+  {
+    "title": "Top picks in Transportation and logistics - Baird",
+    "published": 1715331000,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 183.41000366210938,
+      "2024-05-10T14:30:00+00:00": 185.25999450683594,
+      "2024-05-10T15:30:00+00:00": 185.7100067138672,
+      "2024-05-10T16:30:00+00:00": 185.29310607910156,
+      "2024-05-10T17:30:00+00:00": 184.92999267578125,
+      "2024-05-10T18:30:00+00:00": 184.5500030517578,
+      "2024-05-10T19:30:00+00:00": 184.4600067138672
+    },
+    "sentiment": 0.7537727952003479
+  },
+  {
+    "title": "Old Dominion just upgraded at Baird, here's why",
+    "published": 1715140320,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 186.0,
+      "2024-05-08T14:30:00+00:00": 184.27999877929688,
+      "2024-05-08T15:30:00+00:00": 184.18499755859375,
+      "2024-05-08T16:30:00+00:00": 183.3699951171875,
+      "2024-05-08T17:30:00+00:00": 183.27000427246094,
+      "2024-05-08T18:30:00+00:00": 182.55999755859375,
+      "2024-05-08T19:30:00+00:00": 182.52999877929688
+    },
+    "sentiment": 0.8675987720489502
+  },
+  {
+    "title": "Old Dominion Freight Line declares $0.26 dividend",
+    "published": 1716189300,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 183.0,
+      "2024-05-20T14:30:00+00:00": 181.08999633789062,
+      "2024-05-20T15:30:00+00:00": 180.88499450683594,
+      "2024-05-20T16:30:00+00:00": 181.3800048828125,
+      "2024-05-20T17:30:00+00:00": 180.69000244140625,
+      "2024-05-20T18:30:00+00:00": 180.4949951171875,
+      "2024-05-20T19:30:00+00:00": 180.4199981689453
+    },
+    "sentiment": 0.931124210357666
+  },
+  {
+    "title": "Old Dominion Freight Line Inc. stock outperforms competitors on strong trading day",
+    "published": 1715918400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 182.1699981689453,
+      "2024-05-17T14:30:00+00:00": 181.4250030517578,
+      "2024-05-17T15:30:00+00:00": 182.39999389648438,
+      "2024-05-17T16:30:00+00:00": 182.50750732421875,
+      "2024-05-17T17:30:00+00:00": 183.75999450683594,
+      "2024-05-17T18:30:00+00:00": 183.1999969482422,
+      "2024-05-17T19:30:00+00:00": 182.1649932861328
+    },
+    "sentiment": 0.9369313716888428
   }
 ]

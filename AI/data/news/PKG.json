@@ -1,380 +1,86 @@
 [
   {
-    "title": "Packaging Corp. (PKG) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-    "published": 1713189623,
-    "posting_price": 181.42821851,
-    "close_price": 175.94577026,
-    "percent_change": -3.02182775
+    "title": "International Paper gains amid report of Suzano $15B takeover offer (update)",
+    "published": 1715052960,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 176.98500061035156,
+      "2024-05-07T14:30:00+00:00": 178.97500610351562,
+      "2024-05-07T15:30:00+00:00": 178.576904296875,
+      "2024-05-07T16:30:00+00:00": 179.0749969482422,
+      "2024-05-07T17:30:00+00:00": 179.33999633789062,
+      "2024-05-07T18:30:00+00:00": 178.97000122070312,
+      "2024-05-07T19:30:00+00:00": 179.30999755859375
+    },
+    "sentiment": 0.6024034023284912
   },
   {
-    "title": "ParcelPal Eyes Major Revenue with New Hosting Site",
-    "published": 1712920080,
-    "posting_price": 175.07754252,
-    "close_price": 177.74072266,
-    "percent_change": 1.5211432
+    "title": "ParcelPal Encounters Audit-Related Trading Halt",
+    "published": 1714646280,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 175.47999572753906,
+      "2024-05-02T14:30:00+00:00": 175.0399932861328,
+      "2024-05-02T15:30:00+00:00": 174.9499969482422,
+      "2024-05-02T16:30:00+00:00": 174.77000427246094,
+      "2024-05-02T17:30:00+00:00": 174.86000061035156,
+      "2024-05-02T18:30:00+00:00": 175.34500122070312,
+      "2024-05-02T19:30:00+00:00": 175.19000244140625
+    },
+    "sentiment": 0.7555956840515137
   },
   {
-    "title": "Packaging Corp. of America stock underperforms Friday when compared to competitors",
-    "published": 1712895660,
-    "posting_price": 175.07754252,
-    "close_price": 177.74072266,
-    "percent_change": 1.5211432
+    "title": "Packaging Corporation Streamlines Leadership and Approves Incentives",
+    "published": 1715250780,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 178.99000549316406,
+      "2024-05-09T14:30:00+00:00": 179.73500061035156,
+      "2024-05-09T15:30:00+00:00": 179.4600067138672,
+      "2024-05-09T16:30:00+00:00": 179.58999633789062,
+      "2024-05-09T17:30:00+00:00": 179.36000061035156,
+      "2024-05-09T18:30:00+00:00": 179.63999938964844,
+      "2024-05-09T19:30:00+00:00": 180.14500427246094
+    },
+    "sentiment": 0.8613437414169312
   },
   {
-    "title": "Packaging Corp. just downgraded at Exane BNP Paribas, here's why",
-    "published": 1712892780,
-    "posting_price": 175.07754252,
-    "close_price": 177.74072266,
-    "percent_change": 1.5211432
+    "title": "Decoding Packaging Corp of America (PKG): A Strategic SWOT Insight",
+    "published": 1715230924,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 178.99000549316406,
+      "2024-05-09T14:30:00+00:00": 179.73500061035156,
+      "2024-05-09T15:30:00+00:00": 179.4600067138672,
+      "2024-05-09T16:30:00+00:00": 179.58999633789062,
+      "2024-05-09T17:30:00+00:00": 179.36000061035156,
+      "2024-05-09T18:30:00+00:00": 179.63999938964844,
+      "2024-05-09T19:30:00+00:00": 180.14500427246094
+    },
+    "sentiment": 0.8777672052383423
   },
   {
-    "title": "12 Best Packaging Stocks to Buy According to Hedge Funds",
-    "published": 1712674124,
-    "posting_price": 186.35461979,
-    "close_price": 185.21325684,
-    "percent_change": -0.61246829
+    "title": "Packaging declares $1.25 dividend",
+    "published": 1715142720,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 178.80999755859375,
+      "2024-05-08T14:30:00+00:00": 178.86000061035156,
+      "2024-05-08T15:30:00+00:00": 178.5500030517578,
+      "2024-05-08T16:30:00+00:00": 178.83999633789062,
+      "2024-05-08T17:30:00+00:00": 178.83999633789062,
+      "2024-05-08T18:30:00+00:00": 179.09500122070312,
+      "2024-05-08T19:30:00+00:00": 178.72999572753906
+    },
+    "sentiment": 0.9249276518821716
   },
   {
-    "title": "Peering Into Packaging Corp of America's Recent Short Interest",
-    "published": 1712650620,
-    "posting_price": 186.35461979,
-    "close_price": 185.21325684,
-    "percent_change": -0.61246829
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Packaging (PKG) and Sealed Air (SEE)",
-    "published": 1712553720,
-    "posting_price": 184.63769104,
-    "close_price": 186.04244995,
-    "percent_change": 0.76081915
-  },
-  {
-    "title": "Wells Fargo Sticks to Its Hold Rating for Packaging (PKG)",
-    "published": 1712553660,
-    "posting_price": 184.63769104,
-    "close_price": 186.04244995,
-    "percent_change": 0.76081915
-  },
-  {
-    "title": "Packaging Corp. of America stock outperforms competitors on strong trading day",
-    "published": 1712549940,
-    "posting_price": 184.63769104,
-    "close_price": 186.04244995,
-    "percent_change": 0.76081915
-  },
-  {
-    "title": "ParcelPal Announces Share Consolidation Plan",
-    "published": 1712300940,
-    "posting_price": 183.3207246,
-    "close_price": 183.07684326,
-    "percent_change": -0.13303533
-  },
-  {
-    "title": "Packaging Corp. price target raised by $11 at Citi, here's why",
-    "published": 1712208720,
-    "posting_price": 185.34008422,
-    "close_price": 183.06710815,
-    "percent_change": -1.22638127
-  },
-  {
-    "title": "Steady Returns Ahead: 3 Dividend Stocks for Stable Income in Q2",
-    "published": 1712127840,
-    "posting_price": 182.80368221,
-    "close_price": 184.06210327,
-    "percent_change": 0.68840028
-  },
-  {
-    "title": "Packaging Corp. of America stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1712118120,
-    "posting_price": 182.80368221,
-    "close_price": 184.06210327,
-    "percent_change": 0.68840028
-  },
-  {
-    "title": "AptarGroup (ATR) Q1 Earnings Top Estimates, Revenues Rise Y/Y",
-    "published": 1714493340,
-    "posting_price": 170.70718386,
-    "close_price": 168.74636841,
-    "percent_change": -1.14864261
-  },
-  {
-    "title": "(PKG) - Analyzing Packaging Corp of America's Short Interest",
-    "published": 1714470600,
-    "posting_price": 170.70718386,
-    "close_price": 168.74636841,
-    "percent_change": -1.14864261
-  },
-  {
-    "title": "Jefferies says Packaging matched International Paper containerboard price hike",
-    "published": 1714464600,
-    "posting_price": 170.70718386,
-    "close_price": 168.74636841,
-    "percent_change": -1.14864261
-  },
-  {
-    "title": "Packaging Corporation of America : Solid board",
-    "published": 1714367956,
-    "posting_price": 172.03390159,
-    "close_price": 172.71676636,
-    "percent_change": 0.39693616
-  },
-  {
-    "title": "SPY ETF Update, 4/29/2024\ufffd\ufffd\ufffd",
-    "published": 1714353540,
-    "posting_price": 172.03390159,
-    "close_price": 172.71676636,
-    "percent_change": 0.39693616
-  },
-  {
-    "title": "Packaging Corp. price target raised by $6 at Truist, here's why",
-    "published": 1714117740,
-    "posting_price": 168.04401179,
-    "close_price": 168.61958313,
-    "percent_change": 0.34251226
-  },
-  {
-    "title": "Truist Financial Keeps Their Buy Rating on Packaging (PKG)",
-    "published": 1714113120,
-    "posting_price": 168.04401179,
-    "close_price": 168.61958313,
-    "percent_change": 0.34251226
-  },
-  {
-    "title": "International Paper tops quarterly sales on higher prices, demand rebound",
-    "published": 1714045203,
-    "posting_price": 168.47323999,
-    "close_price": 167.05873108,
-    "percent_change": -0.8396045
-  },
-  {
-    "title": "Packaging Corp. price target lowered by $2 at Citi, here's why",
-    "published": 1714025640,
-    "posting_price": 168.47323999,
-    "close_price": 167.05873108,
-    "percent_change": -0.8396045
-  },
-  {
-    "title": "SPY ETF Update, 4/25/2024\ufffd\ufffd\ufffd",
-    "published": 1714019760,
-    "posting_price": 168.47323999,
-    "close_price": 167.05873108,
-    "percent_change": -0.8396045
-  },
-  {
-    "title": "Wells Fargo Upgrades Packaging Corporation of America (PKG)",
-    "published": 1714010894,
-    "posting_price": 168.47323999,
-    "close_price": 167.05873108,
-    "percent_change": -0.8396045
-  },
-  {
-    "title": "Packaging Corporation of America (NYSE:PKG) Q1 2024 Earnings Call Transcript",
-    "published": 1713971680,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Analyst Estimates: Here's What Brokers Think Of Packaging Corporation of America (NYSE:PKG) After Its First-Quarter Report",
-    "published": 1713954156,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Hibbett Sports (HIBB), NVR (NVR) and Packaging (PKG)",
-    "published": 1713947460,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Packaging Corporation of America (PKG): Strong Buy Rating Affirmed Amidst Growth and Positive Market Dynamics",
-    "published": 1713936420,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Packaging Corp. just upgraded at Wells Fargo, here's why",
-    "published": 1713936000,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Q1 2024 Packaging Corp of America Earnings Call",
-    "published": 1713929287,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Packaging Corp of America (PKG) Q1 2024 Earnings Call Transcript Highlights: Key Financial ...",
-    "published": 1713920880,
-    "posting_price": 167.78061898,
-    "close_price": 169.66337585,
-    "percent_change": 1.12215397
-  },
-  {
-    "title": "Packaging Corporation of America (PKG) Q1 2024 Earnings Call Transcript",
-    "published": 1713897189,
-    "posting_price": 165.54665672,
-    "close_price": 166.69778442,
-    "percent_change": 0.69534941
-  },
-  {
-    "title": "Packaging Corp (PKG) Q1 Earnings Top Estimates, Sales Rise Y/Y",
-    "published": 1713889620,
-    "posting_price": 165.54665672,
-    "close_price": 166.69778442,
-    "percent_change": 0.69534941
-  },
-  {
-    "title": "Packaging Corp of America (PKG) Reports Q1 2024 Earnings: A Comparative Analysis with Analyst ...",
-    "published": 1713871931,
-    "posting_price": 165.54665672,
-    "close_price": 166.69778442,
-    "percent_change": 0.69534941
-  },
-  {
-    "title": "Relative Strength Alert For Packaging Corp of America",
-    "published": 1713868320,
-    "posting_price": 165.54665672,
-    "close_price": 166.69778442,
-    "percent_change": 0.69534941
-  },
-  {
-    "title": "Buy Rating Affirmed for Packaging Corp. on Strong Performance and Favorable Valuation",
-    "published": 1713846480,
-    "posting_price": 165.54665672,
-    "close_price": 166.69778442,
-    "percent_change": 0.69534941
-  },
-  {
-    "title": "General Motors, Tesla And 3 Stocks To Watch Heading Into Tuesday",
-    "published": 1713836340,
-    "posting_price": 165.54665672,
-    "close_price": 166.69778442,
-    "percent_change": 0.69534941
-  },
-  {
-    "title": "Packaging Corp beats first-quarter results on higher pricing",
-    "published": 1713821288,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corporation of America Reports First Quarter 2024 Results",
-    "published": 1713816060,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corp.: Q1 Earnings Snapshot",
-    "published": 1713802515,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "5 Must-Buy Stocks Poised to Beat on Q1 Earnings This Week",
-    "published": 1713786300,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "PKG Stock Earnings: Packaging Corp of America Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713772380,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corp of America beats Q1 expectations, guides Q2 below street view",
-    "published": 1713757440,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Non-GAAP EPS of $1.72 beats by $0.04, revenue of $1.98B beats by $70M",
-    "published": 1713756060,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corp. sees Q2 EPS $2.07, consensus $2.22",
-    "published": 1713754980,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corp. reports Q1 EPS $1.72, consensus $1.68",
-    "published": 1713754980,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corporation of America: After A Great Run Up, It's Time For A Downgrade",
-    "published": 1713730044,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Q1 2024 Earnings Preview",
-    "published": 1713674160,
-    "posting_price": 175.24338687,
-    "close_price": 174.90194702,
-    "percent_change": -0.19483751
-  },
-  {
-    "title": "Packaging Corporation of America's (NYSE:PKG) Has Had A Decent Run On The Stock market: Are Fundamentals In The Driver's Seat?",
-    "published": 1713523245,
-    "posting_price": 173.55572284,
-    "close_price": 175.48725891,
-    "percent_change": 1.11291984
-  },
-  {
-    "title": "PKG June 21st Options Begin Trading",
-    "published": 1713434280,
-    "posting_price": 175.01901845,
-    "close_price": 173.8874054,
-    "percent_change": -0.64656576
-  },
-  {
-    "title": "What's in Store for Packaging Corp (PKG) in Q1 Earnings?",
-    "published": 1713370020,
-    "posting_price": 176.47252668,
-    "close_price": 174.14102173,
-    "percent_change": -1.32117163
-  },
-  {
-    "title": "Packaging Corporation of America: A Quality Company, But With Overextended Valuation",
-    "published": 1713253704,
-    "posting_price": 175.84821038,
-    "close_price": 175.18486023,
-    "percent_change": -0.37722883
-  },
-  {
-    "title": "ParcelPal Faces Filings Delay, Seeks Trading Order",
-    "published": 1713251280,
-    "posting_price": 175.84821038,
-    "close_price": 175.18486023,
-    "percent_change": -0.37722883
-  },
-  {
-    "title": "Packaging Corp. of America stock outperforms competitors despite losses on the day",
-    "published": 1713240900,
-    "posting_price": 175.84821038,
-    "close_price": 175.18486023,
-    "percent_change": -0.37722883
+    "title": "ParcelPal Announces Auditor Change and Filing Update",
+    "published": 1715822340,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 182.00999450683594,
+      "2024-05-16T14:30:00+00:00": 181.94000244140625,
+      "2024-05-16T15:30:00+00:00": 182.0800018310547,
+      "2024-05-16T16:30:00+00:00": 182.4499969482422,
+      "2024-05-16T17:30:00+00:00": 181.9600067138672,
+      "2024-05-16T18:30:00+00:00": 181.97999572753906,
+      "2024-05-16T19:30:00+00:00": 182.35000610351562
+    },
+    "sentiment": 0.6985527873039246
   }
 ]

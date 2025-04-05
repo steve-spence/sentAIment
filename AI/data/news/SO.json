@@ -1,296 +1,400 @@
 [
   {
-    "title": "Southern Company price target raised by $1 at Barclays, here's why",
-    "published": 1713157020,
-    "posting_price": 66.67987555,
-    "close_price": 66.09996796,
-    "percent_change": -0.86968907
+    "title": "Southern Company announces upsize and pricing of $1.3 billion in aggregate principal amount of Series 2024A 4.50% Convertible Senior Notes due June 15, 2027",
+    "published": 1715051340,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 75.19999694824219,
+      "2024-05-07T14:30:00+00:00": 76.03500366210938,
+      "2024-05-07T15:30:00+00:00": 76.20999908447266,
+      "2024-05-07T16:30:00+00:00": 76.44999694824219,
+      "2024-05-07T17:30:00+00:00": 76.5999984741211,
+      "2024-05-07T18:30:00+00:00": 76.69999694824219,
+      "2024-05-07T19:30:00+00:00": 76.91999816894531
+    },
+    "sentiment": 0.9071357250213623
   },
   {
-    "title": "Barclays Sticks to Their Hold Rating for Southern Co (SO)",
-    "published": 1713082560,
-    "posting_price": 66.67987555,
-    "close_price": 66.09996796,
-    "percent_change": -0.86968907
+    "title": "Southern Company announces offering of $1.1 billion in aggregate principal amount of Convertible Senior Notes due June 15, 2027",
+    "published": 1714992900,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 75.51000213623047,
+      "2024-05-06T14:30:00+00:00": 75.76000213623047,
+      "2024-05-06T15:30:00+00:00": 75.7300033569336,
+      "2024-05-06T16:30:00+00:00": 75.8499984741211,
+      "2024-05-06T17:30:00+00:00": 76.1500015258789,
+      "2024-05-06T18:30:00+00:00": 76.19000244140625,
+      "2024-05-06T19:30:00+00:00": 75.80999755859375
+    },
+    "sentiment": 0.894437313079834
   },
   {
-    "title": "Southern Company (SO) Shares Cross Below 200 DMA",
-    "published": 1712748180,
-    "posting_price": 67.04715383,
-    "close_price": 67.43375397,
-    "percent_change": 0.57660932
+    "title": "Southern Co put volume heavy and directionally bearish",
+    "published": 1714958100,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 75.51000213623047,
+      "2024-05-06T14:30:00+00:00": 75.76000213623047,
+      "2024-05-06T15:30:00+00:00": 75.7300033569336,
+      "2024-05-06T16:30:00+00:00": 75.8499984741211,
+      "2024-05-06T17:30:00+00:00": 76.1500015258789,
+      "2024-05-06T18:30:00+00:00": 76.19000244140625,
+      "2024-05-06T19:30:00+00:00": 75.80999755859375
+    },
+    "sentiment": 0.8724521994590759
   },
   {
-    "title": "Utilities: Where AI fits into the future of this sector play",
-    "published": 1712672214,
-    "posting_price": 68.00400113,
-    "close_price": 68.22629547,
-    "percent_change": 0.32688421
+    "title": "The Southern Company (NYSE:SO) Q1 2024 Earnings Call Transcript",
+    "published": 1714745105,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.8499984741211,
+      "2024-05-03T14:30:00+00:00": 75.2699966430664,
+      "2024-05-03T15:30:00+00:00": 75.25499725341797,
+      "2024-05-03T16:30:00+00:00": 75.47000122070312,
+      "2024-05-03T17:30:00+00:00": 75.56999969482422,
+      "2024-05-03T18:30:00+00:00": 75.62999725341797,
+      "2024-05-03T19:30:00+00:00": 75.58999633789062
+    },
+    "sentiment": 0.9192662835121155
   },
   {
-    "title": "Molten Salt Reactor Technology Solves Several Nuclear Industry Problems",
-    "published": 1712666195,
-    "posting_price": 68.00400113,
-    "close_price": 68.22629547,
-    "percent_change": 0.32688421
+    "title": "Southern Co (SO) Gets a Hold from Wells Fargo",
+    "published": 1714735560,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.8499984741211,
+      "2024-05-03T14:30:00+00:00": 75.2699966430664,
+      "2024-05-03T15:30:00+00:00": 75.25499725341797,
+      "2024-05-03T16:30:00+00:00": 75.47000122070312,
+      "2024-05-03T17:30:00+00:00": 75.56999969482422,
+      "2024-05-03T18:30:00+00:00": 75.62999725341797,
+      "2024-05-03T19:30:00+00:00": 75.58999633789062
+    },
+    "sentiment": 0.6600691676139832
   },
   {
-    "title": "UBS Downgrades Southern (SO)",
-    "published": 1712272869,
-    "posting_price": 68.60324316,
-    "close_price": 67.70438385,
-    "percent_change": -1.3102286
+    "title": "Southern Co (SO) (Q1 2024) Earnings Call Transcript Highlights: Strong Performance and ...",
+    "published": 1714722966,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.8499984741211,
+      "2024-05-03T14:30:00+00:00": 75.2699966430664,
+      "2024-05-03T15:30:00+00:00": 75.25499725341797,
+      "2024-05-03T16:30:00+00:00": 75.47000122070312,
+      "2024-05-03T17:30:00+00:00": 75.56999969482422,
+      "2024-05-03T18:30:00+00:00": 75.62999725341797,
+      "2024-05-03T19:30:00+00:00": 75.58999633789062
+    },
+    "sentiment": 0.9493769407272339
   },
   {
-    "title": "Georgia Power highlights training programs and career opportunities during Lineworker Appreciation Month",
-    "published": 1712245080,
-    "posting_price": 68.60324316,
-    "close_price": 67.70438385,
-    "percent_change": -1.3102286
+    "title": "Scotiabank Keeps Their Buy Rating on Southern Co (SO)",
+    "published": 1714718700,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 75.8499984741211,
+      "2024-05-03T14:30:00+00:00": 75.2699966430664,
+      "2024-05-03T15:30:00+00:00": 75.25499725341797,
+      "2024-05-03T16:30:00+00:00": 75.47000122070312,
+      "2024-05-03T17:30:00+00:00": 75.56999969482422,
+      "2024-05-03T18:30:00+00:00": 75.62999725341797,
+      "2024-05-03T19:30:00+00:00": 75.58999633789062
+    },
+    "sentiment": 0.9028833508491516
   },
   {
-    "title": "Southern Company first-quarter earnings to be released May 2",
-    "published": 1712239200,
-    "posting_price": 68.60324316,
-    "close_price": 67.70438385,
-    "percent_change": -1.3102286
+    "title": "UPDATE 1-Southern Co beats profit estimates as sales to data centers rise 12%",
+    "published": 1714674450,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.919083833694458
   },
   {
-    "title": "Southern Company just downgraded at UBS, here's why",
-    "published": 1712208540,
-    "posting_price": 68.60324316,
-    "close_price": 67.70438385,
-    "percent_change": -1.3102286
+    "title": "Southern Co beats profit estimates as sales to data centers rise 12%",
+    "published": 1714660050,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.8888288736343384
   },
   {
-    "title": "Historic S&P 500 Rally In Q1 Flashes Bullish Signals For 2024: 'Only The Ninth Time Since 1940'",
-    "published": 1712046420,
-    "posting_price": 68.85452948,
-    "close_price": 68.9511795,
-    "percent_change": 0.14036843
+    "title": "Southern Co (SO) Earnings Exceed Analyst Projections in Q1 2024",
+    "published": 1714656769,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.5446749329566956
   },
   {
-    "title": "Southern Company price target raised by $3 at Mizuho, here's why",
-    "published": 1712036700,
-    "posting_price": 68.85452948,
-    "close_price": 68.9511795,
-    "percent_change": 0.14036843
+    "title": "US utility Southern Co beats Q1 profit estimates on demand boost",
+    "published": 1714655184,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.8741116523742676
   },
   {
-    "title": "Southern Power's South Cheyenne Solar Facility in Wyoming is now operational",
-    "published": 1714482000,
-    "posting_price": 71.43513122,
-    "close_price": 71.03885651,
-    "percent_change": -0.55473365
+    "title": "Southern Company reports first-quarter 2024 earnings",
+    "published": 1714649400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.9172831177711487
   },
   {
-    "title": "American Electric Power (AEP) Q1 Earnings and Revenues Lag Estimates",
-    "published": 1714479306,
-    "posting_price": 71.43513122,
-    "close_price": 71.03885651,
-    "percent_change": -0.55473365
+    "title": "Southern Company backs FY24 adjusted EPS view $3.95-$4.05, consensus $4.00",
+    "published": 1714648380,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.5065057277679443
   },
   {
-    "title": "Southern Company's South Cheyenne Solar Facility in Wyoming now operational",
-    "published": 1714464480,
-    "posting_price": 71.43513122,
-    "close_price": 71.03885651,
-    "percent_change": -0.55473365
+    "title": "Southern Company Powering Forward Amid Q1 Revenue Dip: Details",
+    "published": 1714642860,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.9256271719932556
   },
   {
-    "title": "April Showers On Wall Street:  Miners, Utilities Emerge As Bright Spots In Gloomy Market",
-    "published": 1714448460,
-    "posting_price": 71.43513122,
-    "close_price": 71.03885651,
-    "percent_change": -0.55473365
+    "title": "Southern Co.: Q1 Earnings Snapshot",
+    "published": 1714635616,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.7891780138015747
   },
   {
-    "title": "See Which Of The Latest 13F Filers Holds Southern Company",
-    "published": 1714445160,
-    "posting_price": 71.43513122,
-    "close_price": 71.03885651,
-    "percent_change": -0.55473365
+    "title": "Southern Company reports Q1 adjusted EPS $1.03, consensus 90c",
+    "published": 1714631640,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 75.01000213623047,
+      "2024-05-02T14:30:00+00:00": 75.56999969482422,
+      "2024-05-02T15:30:00+00:00": 74.88999938964844,
+      "2024-05-02T16:30:00+00:00": 74.87000274658203,
+      "2024-05-02T17:30:00+00:00": 75.32499694824219,
+      "2024-05-02T18:30:00+00:00": 75.43000030517578,
+      "2024-05-02T19:30:00+00:00": 75.4000015258789
+    },
+    "sentiment": 0.8091362118721008
   },
   {
-    "title": "A Massive U.S. Nuclear Plant Is Finally Complete. It Might Be the Last of Its Kind.",
-    "published": 1714426620,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "PROPEL, Southern Company Launch HBCU-Focused Cybersecurity Consortium",
+    "published": 1714579800,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 73.375,
+      "2024-05-01T14:30:00+00:00": 73.94999694824219,
+      "2024-05-01T15:30:00+00:00": 74.23999786376953,
+      "2024-05-01T16:30:00+00:00": 74.52999877929688,
+      "2024-05-01T17:30:00+00:00": 74.66000366210938,
+      "2024-05-01T18:30:00+00:00": 74.55000305175781,
+      "2024-05-01T19:30:00+00:00": 74.69000244140625
+    },
+    "sentiment": 0.6559291481971741
   },
   {
-    "title": "ALABAMA POWER ANNOUNCES ADDITIONS TO BOARD OF DIRECTORS",
-    "published": 1714417200,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "The Southern Company Q1 2024 Earnings Preview",
+    "published": 1714561620,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 73.375,
+      "2024-05-01T14:30:00+00:00": 73.94999694824219,
+      "2024-05-01T15:30:00+00:00": 74.23999786376953,
+      "2024-05-01T16:30:00+00:00": 74.52999877929688,
+      "2024-05-01T17:30:00+00:00": 74.66000366210938,
+      "2024-05-01T18:30:00+00:00": 74.55000305175781,
+      "2024-05-01T19:30:00+00:00": 74.69000244140625
+    },
+    "sentiment": 0.8953444361686707
   },
   {
-    "title": "Vogtle Unit 4 Enters Commercial Operation",
-    "published": 1714403700,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "Southern Power announces expansion of Millers Branch solar facility in Texas",
+    "published": 1714551360,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 73.375,
+      "2024-05-01T14:30:00+00:00": 73.94999694824219,
+      "2024-05-01T15:30:00+00:00": 74.23999786376953,
+      "2024-05-01T16:30:00+00:00": 74.52999877929688,
+      "2024-05-01T17:30:00+00:00": 74.66000366210938,
+      "2024-05-01T18:30:00+00:00": 74.55000305175781,
+      "2024-05-01T19:30:00+00:00": 74.69000244140625
+    },
+    "sentiment": 0.8302933573722839
   },
   {
-    "title": "Gear Up for Southern Co. (SO) Q1 Earnings: Wall Street Estimates for Key Metrics",
-    "published": 1714396567,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "Southern Company Joins EPRI's Incubatenergy(R) Labs",
+    "published": 1715616000,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 78.5,
+      "2024-05-13T14:30:00+00:00": 78.76499938964844,
+      "2024-05-13T15:30:00+00:00": 78.80000305175781,
+      "2024-05-13T16:30:00+00:00": 78.80000305175781,
+      "2024-05-13T17:30:00+00:00": 78.64019775390625,
+      "2024-05-13T18:30:00+00:00": 78.69000244140625,
+      "2024-05-13T19:30:00+00:00": 78.66999816894531
+    },
+    "sentiment": 0.9352986812591553
   },
   {
-    "title": "Southern Co's long-delayed Vogtle unit 4 nuclear reactor enters commercial operations",
-    "published": 1714394412,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "Southern appoints new CEO of nuclear unit",
+    "published": 1715591858,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 78.5,
+      "2024-05-13T14:30:00+00:00": 78.76499938964844,
+      "2024-05-13T15:30:00+00:00": 78.80000305175781,
+      "2024-05-13T16:30:00+00:00": 78.80000305175781,
+      "2024-05-13T17:30:00+00:00": 78.64019775390625,
+      "2024-05-13T18:30:00+00:00": 78.69000244140625,
+      "2024-05-13T19:30:00+00:00": 78.66999816894531
+    },
+    "sentiment": 0.8891971707344055
   },
   {
-    "title": "A second new nuclear reactor is completed in Georgia. The carbon-free power comes at a high price",
-    "published": 1714391400,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "Utility stocks are on fire \u2014 here are Wall Street analysts' top picks",
+    "published": 1715528288,
+    "day_prices": {},
+    "sentiment": 0.8540279269218445
   },
   {
-    "title": "Southern says Vogtle Unit 4 enters commercial operation",
-    "published": 1714382580,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "ALERIAN ENERGY INFRASTRUCTURE ETF DECLARES SECOND QUARTER DISTRIBUTION OF $0.34117",
+    "published": 1715247000,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 77.58999633789062,
+      "2024-05-09T14:30:00+00:00": 77.44999694824219,
+      "2024-05-09T15:30:00+00:00": 77.66999816894531,
+      "2024-05-09T16:30:00+00:00": 77.83999633789062,
+      "2024-05-09T17:30:00+00:00": 77.83999633789062,
+      "2024-05-09T18:30:00+00:00": 77.86000061035156,
+      "2024-05-09T19:30:00+00:00": 77.7699966430664
+    },
+    "sentiment": 0.5920720100402832
   },
   {
-    "title": "Southern Company's Georgia Power says Vogtle Unit 4 enters commercial operation",
-    "published": 1714371900,
-    "posting_price": 71.20316345,
-    "close_price": 71.89905548,
-    "percent_change": 0.97733302
+    "title": "VPU: Utilities Dashboard For May",
+    "published": 1716394315,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 79.31999969482422,
+      "2024-05-22T14:30:00+00:00": 79.18000030517578,
+      "2024-05-22T15:30:00+00:00": 79.57499694824219,
+      "2024-05-22T16:30:00+00:00": 79.30000305175781,
+      "2024-05-22T17:30:00+00:00": 79.30000305175781,
+      "2024-05-22T18:30:00+00:00": 78.97989654541016,
+      "2024-05-22T19:30:00+00:00": 78.88999938964844
+    },
+    "sentiment": 0.9398795366287231
   },
   {
-    "title": "AI Boom\u2019s Secret Winners? The Companies Expected to Power It",
-    "published": 1714230007,
-    "posting_price": 71.20317101,
-    "close_price": 71.89906311,
-    "percent_change": 0.97733302
+    "title": "XLU: Join Billionaires Trading Short-Term Pain For Long-Term Gain",
+    "published": 1716365100,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 79.31999969482422,
+      "2024-05-22T14:30:00+00:00": 79.18000030517578,
+      "2024-05-22T15:30:00+00:00": 79.57499694824219,
+      "2024-05-22T16:30:00+00:00": 79.30000305175781,
+      "2024-05-22T17:30:00+00:00": 79.30000305175781,
+      "2024-05-22T18:30:00+00:00": 78.97989654541016,
+      "2024-05-22T19:30:00+00:00": 78.88999938964844
+    },
+    "sentiment": 0.9062437415122986
   },
   {
-    "title": "Historically Black Colleges and Universities in Georgia and Florida Join Forces with SouthStar Energy Services in Sustainability Partnership",
-    "published": 1714069980,
-    "posting_price": 71.39648026,
-    "close_price": 71.87973785,
-    "percent_change": 0.67686473
+    "title": "Southern Co. stock underperforms Wednesday when compared to competitors",
+    "published": 1716349620,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 79.31999969482422,
+      "2024-05-22T14:30:00+00:00": 79.18000030517578,
+      "2024-05-22T15:30:00+00:00": 79.57499694824219,
+      "2024-05-22T16:30:00+00:00": 79.30000305175781,
+      "2024-05-22T17:30:00+00:00": 79.30000305175781,
+      "2024-05-22T18:30:00+00:00": 78.97989654541016,
+      "2024-05-22T19:30:00+00:00": 78.88999938964844
+    },
+    "sentiment": 0.9104348421096802
   },
   {
-    "title": "CMS Energy (CMS) Q1 Earnings Top Estimates",
-    "published": 1714045208,
-    "posting_price": 71.39648026,
-    "close_price": 71.87973785,
-    "percent_change": 0.67686473
+    "title": "7 Forever Stocks That Will Keep Rising No Matter What",
+    "published": 1715943900,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 78.66999816894531,
+      "2024-05-17T14:30:00+00:00": 78.7300033569336,
+      "2024-05-17T15:30:00+00:00": 79.06500244140625,
+      "2024-05-17T16:30:00+00:00": 79.25,
+      "2024-05-17T17:30:00+00:00": 79.33999633789062,
+      "2024-05-17T18:30:00+00:00": 79.30500030517578,
+      "2024-05-17T19:30:00+00:00": 79.47000122070312
+    },
+    "sentiment": 0.8065841794013977
   },
   {
-    "title": "WeaveGrid launches electric vehicle initiatives with Southern Company subsidiaries, simplifying EV home charging in the Southeast",
-    "published": 1714042800,
-    "posting_price": 71.39648026,
-    "close_price": 71.87973785,
-    "percent_change": 0.67686473
+    "title": "AI Explosion Sets Sleepy Utility Stocks On Fire As Sector Leads Market",
+    "published": 1715916237,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 78.66999816894531,
+      "2024-05-17T14:30:00+00:00": 78.7300033569336,
+      "2024-05-17T15:30:00+00:00": 79.06500244140625,
+      "2024-05-17T16:30:00+00:00": 79.25,
+      "2024-05-17T17:30:00+00:00": 79.33999633789062,
+      "2024-05-17T18:30:00+00:00": 79.30500030517578,
+      "2024-05-17T19:30:00+00:00": 79.47000122070312
+    },
+    "sentiment": 0.6604490876197815
   },
   {
-    "title": "Celebrating Earth Month: Southern Company NFWF Partnership",
-    "published": 1714009620,
-    "posting_price": 71.39648026,
-    "close_price": 71.87973785,
-    "percent_change": 0.67686473
-  },
-  {
-    "title": "Southern Company price target raised by $3 at BofA, here's why",
-    "published": 1713860640,
-    "posting_price": 70.52660292,
-    "close_price": 70.79722595,
-    "percent_change": 0.38371766
-  },
-  {
-    "title": "Southern Company increases dividend for 23rd consecutive year; annualized rate rises to $2.88 per share",
-    "published": 1713800820,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "Southern Co. Raises Quarterly Dividend by 2.9%",
-    "published": 1713787906,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "Vistra Adds Vital Nuclear Power Capacity",
-    "published": 1713787475,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "Southern CO raises dividend by 2.9% to $0.72",
-    "published": 1713783600,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "Southern Company raises annual dividend to $2.88 per share",
-    "published": 1713783180,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "RBC Capital Keeps Their Buy Rating on Southern Co (SO)",
-    "published": 1713775800,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "Southern Company price target lowered by $3 at Scotiabank, here's why",
-    "published": 1713774540,
-    "posting_price": 69.49243214,
-    "close_price": 70.53627014,
-    "percent_change": 1.50208874
-  },
-  {
-    "title": "Revolutionizing Sustainable Energy: Georgia Solar Companies Partner with Georgia Power to Unveil New Parking Deck Solar Array",
-    "published": 1713447300,
-    "posting_price": 67.6560569,
-    "close_price": 68.20697021,
-    "percent_change": 0.81428528
-  },
-  {
-    "title": "Georgia Power receives approval to add 1.4 GW of natural gas generation",
-    "published": 1713350520,
-    "posting_price": 65.80999863,
-    "close_price": 67.46274567,
-    "percent_change": 2.511392
-  },
-  {
-    "title": "Southern Co. stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713325680,
-    "posting_price": 65.80999863,
-    "close_price": 67.46274567,
-    "percent_change": 2.511392
-  },
-  {
-    "title": "PRINCIPAL REAL ESTATE INCOME FUND ANNOUNCES RESULTS OF VOTE FOR TRUSTEES",
-    "published": 1713289500,
-    "posting_price": 65.95498807,
-    "close_price": 65.50072479,
-    "percent_change": -0.68874742
-  },
-  {
-    "title": "Give Old Electronics a New Life with Georgia Natural Gas and Lenox Square at Annual Earth Day Recycling Drive",
-    "published": 1713286200,
-    "posting_price": 65.95498807,
-    "close_price": 65.50072479,
-    "percent_change": -0.68874742
+    "title": "Southern Co's Dividend Analysis",
+    "published": 1715857383,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 79.2300033569336,
+      "2024-05-16T14:30:00+00:00": 79.52999877929688,
+      "2024-05-16T15:30:00+00:00": 79.65070343017578,
+      "2024-05-16T16:30:00+00:00": 79.63999938964844,
+      "2024-05-16T17:30:00+00:00": 79.69999694824219,
+      "2024-05-16T18:30:00+00:00": 79.6500015258789,
+      "2024-05-16T19:30:00+00:00": 79.7300033569336
+    },
+    "sentiment": 0.9316422343254089
   }
 ]

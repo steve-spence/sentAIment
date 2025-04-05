@@ -1,233 +1,218 @@
 [
   {
-    "title": "Short interest on S&P 500 real estate stocks advance in March",
-    "published": 1713177900,
-    "posting_price": 17.38882582,
-    "close_price": 17.25491905,
-    "percent_change": -0.77007367
+    "title": "Regency Centers (REG) Q1 FFO Beat Estimates, '24 View Revised",
+    "published": 1714760040,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 19.049999237060547,
+      "2024-05-03T14:30:00+00:00": 19.079999923706055,
+      "2024-05-03T15:30:00+00:00": 19.0,
+      "2024-05-03T16:30:00+00:00": 19.0,
+      "2024-05-03T17:30:00+00:00": 18.959999084472656,
+      "2024-05-03T18:30:00+00:00": 19.0049991607666,
+      "2024-05-03T19:30:00+00:00": 18.9950008392334
+    },
+    "sentiment": 0.9252872467041016
   },
   {
-    "title": "Whitestone REIT: A Concentrated REIT With A 4.4% Yield",
-    "published": 1713170061,
-    "posting_price": 17.38882582,
-    "close_price": 17.25491905,
-    "percent_change": -0.77007367
+    "title": "Kimco Realty Corp (KIM) Q1 2024 Earnings Call Transcript Highlights: Strategic Moves and Robust ...",
+    "published": 1714721011,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 19.049999237060547,
+      "2024-05-03T14:30:00+00:00": 19.079999923706055,
+      "2024-05-03T15:30:00+00:00": 19.0,
+      "2024-05-03T16:30:00+00:00": 19.0,
+      "2024-05-03T17:30:00+00:00": 18.959999084472656,
+      "2024-05-03T18:30:00+00:00": 19.0049991607666,
+      "2024-05-03T19:30:00+00:00": 18.9950008392334
+    },
+    "sentiment": 0.7755813002586365
   },
   {
-    "title": "Kimco Realty's Class L Preferred Stock Shares Cross 6% Yield Mark",
-    "published": 1713144840,
-    "posting_price": 17.38882582,
-    "close_price": 17.25491905,
-    "percent_change": -0.77007367
+    "title": "Kimco Realty (KIM) Gets a Hold from Scotiabank",
+    "published": 1714718700,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 19.049999237060547,
+      "2024-05-03T14:30:00+00:00": 19.079999923706055,
+      "2024-05-03T15:30:00+00:00": 19.0,
+      "2024-05-03T16:30:00+00:00": 19.0,
+      "2024-05-03T17:30:00+00:00": 18.959999084472656,
+      "2024-05-03T18:30:00+00:00": 19.0049991607666,
+      "2024-05-03T19:30:00+00:00": 18.9950008392334
+    },
+    "sentiment": 0.8998619914054871
   },
   {
-    "title": "Real estate stocks continue to dip as earnings season kicks off",
-    "published": 1713006060,
-    "posting_price": 17.38882582,
-    "close_price": 17.25491905,
-    "percent_change": -0.77007367
+    "title": "Kimco Realty (KIM) Reports Q1 Earnings: What Key Metrics Have to Say",
+    "published": 1714656625,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.941774308681488
   },
   {
-    "title": "Energy, tech, comms among top-rated S&P 500 sectors as Q1 earnings kicks off",
-    "published": 1712912220,
-    "posting_price": 17.10188036,
-    "close_price": 17.31230736,
-    "percent_change": 1.23043195
+    "title": "Kimco Realty Corp (KIM) Q1 2024 Earnings: Navigating Through Challenges with Strategic Acquisitions",
+    "published": 1714653278,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.6889404654502869
   },
   {
-    "title": "Kimco Realty Corp. stock outperforms competitors on strong trading day",
-    "published": 1712895660,
-    "posting_price": 17.10188036,
-    "close_price": 17.31230736,
-    "percent_change": 1.23043195
+    "title": "Kimco Realty (KIM) Q1 FFO and Revenues Surpass Estimates",
+    "published": 1714652406,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.9365105628967285
   },
   {
-    "title": "4 REITs With Recent Analyst Downgrades",
-    "published": 1712862816,
-    "posting_price": 17.27404987,
-    "close_price": 17.15927315,
-    "percent_change": -0.66444592
+    "title": "KIM Stock Earnings: Kimco Realty Beats EPS, Beats Revenue for Q1 2024",
+    "published": 1714647480,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.7628263831138611
   },
   {
-    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
-    "published": 1712838960,
-    "posting_price": 17.27404987,
-    "close_price": 17.15927315,
-    "percent_change": -0.66444592
+    "title": "Kimco Realty Holds Steady with Solid Performance but Faces Competitive Challenges",
+    "published": 1714642560,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.6665582060813904
   },
   {
-    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
-    "published": 1712401620,
-    "posting_price": 17.80967834,
-    "close_price": 17.84793663,
-    "percent_change": 0.21481741
+    "title": "Kimco Realty : 2024 First Quarter Supplemental Information",
+    "published": 1714640639,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.9287734031677246
   },
   {
-    "title": "B of A Securities Downgrades Kimco Realty (KIM)",
-    "published": 1712364964,
-    "posting_price": 17.80967834,
-    "close_price": 17.84793663,
-    "percent_change": 0.21481741
+    "title": "Kimco Realty: Q1 Earnings Snapshot",
+    "published": 1714634493,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.6291071772575378
   },
   {
-    "title": "Krispy Kreme upgraded, Altice USA downgraded: Wall Street's top analyst calls",
-    "published": 1712324288,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
+    "title": "Kimco Realty reports Q1 FFO 39c, consensus 37c",
+    "published": 1714630740,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.700000762939453,
+      "2024-05-02T14:30:00+00:00": 19.040000915527344,
+      "2024-05-02T15:30:00+00:00": 18.989999771118164,
+      "2024-05-02T16:30:00+00:00": 18.989999771118164,
+      "2024-05-02T17:30:00+00:00": 19.06999969482422,
+      "2024-05-02T18:30:00+00:00": 19.079999923706055,
+      "2024-05-02T19:30:00+00:00": 19.040000915527344
+    },
+    "sentiment": 0.9092715978622437
   },
   {
-    "title": "Analyzing Retail REITs: Upgraded Outlook for Tanger, Downgraded Expectations for Kimco and ROIC",
-    "published": 1712321700,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
+    "title": "Kimco Realty Q1 2024 Earnings Preview",
+    "published": 1714562700,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 18.520000457763672,
+      "2024-05-01T14:30:00+00:00": 18.53499984741211,
+      "2024-05-01T15:30:00+00:00": 18.610000610351562,
+      "2024-05-01T16:30:00+00:00": 18.670000076293945,
+      "2024-05-01T17:30:00+00:00": 18.610000610351562,
+      "2024-05-01T18:30:00+00:00": 18.565000534057617,
+      "2024-05-01T19:30:00+00:00": 18.65999984741211
+    },
+    "sentiment": 0.7854173183441162
   },
   {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1712315040,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
+    "title": "Demystifying Kimco Realty: Insights From 7 Analyst Reviews",
+    "published": 1716206580,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 19.209999084472656,
+      "2024-05-20T14:30:00+00:00": 19.15999984741211,
+      "2024-05-20T15:30:00+00:00": 19.174999237060547,
+      "2024-05-20T16:30:00+00:00": 19.084999084472656,
+      "2024-05-20T17:30:00+00:00": 19.03499984741211,
+      "2024-05-20T18:30:00+00:00": 19.0049991607666,
+      "2024-05-20T19:30:00+00:00": 18.934999465942383
+    },
+    "sentiment": 0.8687847852706909
   },
   {
-    "title": "Kimco Realty: The 6.45% Preferred Shares Remain Attractive",
-    "published": 1712313000,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
+    "title": "Real estate stocks continue to surge as soft inflation reports fuel rate cut hopes",
+    "published": 1716030420,
+    "day_prices": {},
+    "sentiment": 0.8221270442008972
   },
   {
-    "title": "Tanger, Acadia upgraded, Kimco, ROIC cut as BofA shuffles retail-REIT coverage",
-    "published": 1712311740,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 19.329999923706055,
+      "2024-05-16T14:30:00+00:00": 19.094999313354492,
+      "2024-05-16T15:30:00+00:00": 19.139999389648438,
+      "2024-05-16T16:30:00+00:00": 19.149999618530273,
+      "2024-05-16T17:30:00+00:00": 19.165000915527344,
+      "2024-05-16T18:30:00+00:00": 19.170000076293945,
+      "2024-05-16T19:30:00+00:00": 19.139999389648438
+    },
+    "sentiment": 0.8883899450302124
   },
   {
-    "title": "Kimco Realty just downgraded at BofA, here's why",
-    "published": 1712293920,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
-  },
-  {
-    "title": "BofA gets more bearish on Kimco Realty, downgrades shares",
-    "published": 1712293560,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
-  },
-  {
-    "title": "What You Missed On Wall Street On Friday",
-    "published": 1712286480,
-    "posting_price": 17.54186211,
-    "close_price": 17.70446396,
-    "percent_change": 0.92693609
-  },
-  {
-    "title": "Bain Capital Real Estate and 11North Partners Form Joint Venture to Invest in Open-Air Retail Centers",
-    "published": 1712229739,
-    "posting_price": 18.11575204,
-    "close_price": 17.79054832,
-    "percent_change": -1.79514336
-  },
-  {
-    "title": "The Analyst Verdict: Kimco Realty In The Eyes Of 6 Experts",
-    "published": 1712221380,
-    "posting_price": 18.11575204,
-    "close_price": 17.79054832,
-    "percent_change": -1.79514336
-  },
-  {
-    "title": "Kimco Realty price target lowered to $21 from $23 at Baird",
-    "published": 1712209920,
-    "posting_price": 18.11575204,
-    "close_price": 17.79054832,
-    "percent_change": -1.79514336
-  },
-  {
-    "title": "Retail Opportunity Investments: M&A Is Likely",
-    "published": 1712129400,
-    "posting_price": 18.02010285,
-    "close_price": 17.94358444,
-    "percent_change": -0.42462804
-  },
-  {
-    "title": "Kimco Realty Corp. stock underperforms Wednesday when compared to competitors",
-    "published": 1712118120,
-    "posting_price": 18.02010285,
-    "close_price": 17.94358444,
-    "percent_change": -0.42462804
-  },
-  {
-    "title": "Gear Up for Kimco Realty (KIM) Q1 Earnings: Wall Street Estimates for Key Metrics",
-    "published": 1714482925,
-    "posting_price": 17.8288056,
-    "close_price": 17.81924057,
-    "percent_change": -0.0536493
-  },
-  {
-    "title": "What's in the Cards for Kimco (KIM) This Earnings Season?",
-    "published": 1714411860,
-    "posting_price": 17.76185217,
-    "close_price": 17.99140739,
-    "percent_change": 1.29240587
-  },
-  {
-    "title": "Will Earnings Cheer Continue To Buoy Markets? Apple, Amazon, Pfizer, Coinbase Lead Flurry Of Q1 Reports This Week",
-    "published": 1714395360,
-    "posting_price": 17.76185217,
-    "close_price": 17.99140739,
-    "percent_change": 1.29240587
-  },
-  {
-    "title": "Real estate stocks finish in green as analysts turn positive, earnings surprise to upside",
-    "published": 1714215840,
-    "posting_price": 17.76185405,
-    "close_price": 17.9914093,
-    "percent_change": 1.2924059
-  },
-  {
-    "title": "This Walmart Landlord Has Generated A 14% Net IRR For Its Investors Since 2015 - Here Are Its Latest Investment Offerings",
-    "published": 1714052560,
-    "posting_price": 17.56099315,
-    "close_price": 17.6183815,
-    "percent_change": 0.32679444
-  },
-  {
-    "title": "A Hawkish Pivot",
-    "published": 1713690000,
-    "posting_price": 17.4270845,
-    "close_price": 17.79054832,
-    "percent_change": 2.08562608
-  },
-  {
-    "title": "Real estate stocks continue on downward trajectory as market's April pullback intensifies",
-    "published": 1713610980,
-    "posting_price": 17.4270845,
-    "close_price": 17.79054832,
-    "percent_change": 2.08562608
-  },
-  {
-    "title": "REIT Earnings Preview: Delay And Pray",
-    "published": 1713517200,
-    "posting_price": 17.02536317,
-    "close_price": 17.40795708,
-    "percent_change": 2.2471997
-  },
-  {
-    "title": "June 21st Options Now Available For Kimco Realty (KIM)",
-    "published": 1713435360,
-    "posting_price": 16.94884365,
-    "close_price": 16.96797371,
-    "percent_change": 0.11286941
-  },
-  {
-    "title": "April's 5 Dividend Growth Stocks With 4.67%+ Yields",
-    "published": 1713302500,
-    "posting_price": 17.13057533,
-    "close_price": 16.84363174,
-    "percent_change": -1.67503767
+    "title": "KIM Dividend Yield Pushes Past 5%",
+    "published": 1715825520,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 19.329999923706055,
+      "2024-05-16T14:30:00+00:00": 19.094999313354492,
+      "2024-05-16T15:30:00+00:00": 19.139999389648438,
+      "2024-05-16T16:30:00+00:00": 19.149999618530273,
+      "2024-05-16T17:30:00+00:00": 19.165000915527344,
+      "2024-05-16T18:30:00+00:00": 19.170000076293945,
+      "2024-05-16T19:30:00+00:00": 19.139999389648438
+    },
+    "sentiment": 0.8622409105300903
   }
 ]

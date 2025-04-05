@@ -1,2557 +1,1758 @@
 [
   {
-    "title": "Pfizer Eyeing Viking Therapeutics? A Scenario Among All The M&A Talk",
-    "published": 1713197290,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "Jim Cramer is Recommending These 10 Stocks in April",
-    "published": 1713192174,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "See Which Of The Latest 13F Filers Holds Eli Lilly",
-    "published": 1713181440,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "Nvidia is the No. 1 S&P 500 growth stock in this screen. See which other companies joined or left the list.",
-    "published": 1713181140,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "Analysts Are Bullish on These Healthcare Stocks: Eli Lilly & Co (LLY), McKesson (MCK)",
-    "published": 1713180060,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "More than 250 websites selling fake weight-loss drugs reported by anti-counterfeit firm",
-    "published": 1713175200,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "Healthcare Stocks Are Lagging With Big Earnings Weeks Ahead",
-    "published": 1713174360,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Healthcare Companies: HCA Healthcare (HCA), PolyPid (PYPD) and Eli Lilly & Co (LLY)",
-    "published": 1713151260,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "BTIG Research Predicts Over 118% Rally for These 3 Stocks",
-    "published": 1713144300,
-    "posting_price": 755.16353769,
-    "close_price": 745.92358398,
-    "percent_change": -1.2235699
-  },
-  {
-    "title": "Needham sees BSX, CNMD, RMD beating Street, despite medtech slow down",
-    "published": 1713070860,
-    "posting_price": 755.16359948,
-    "close_price": 745.92364502,
-    "percent_change": -1.22356989
-  },
-  {
-    "title": "Jim Cramer\u2019s 10 Favorite Healthcare Stock Picks in 2024",
-    "published": 1713025104,
-    "posting_price": 755.16359948,
-    "close_price": 745.92364502,
-    "percent_change": -1.22356989
-  },
-  {
-    "title": "3 Magnificent Stocks That Could Double or More by 2030",
-    "published": 1713012420,
-    "posting_price": 755.16359948,
-    "close_price": 745.92364502,
-    "percent_change": -1.22356989
-  },
-  {
-    "title": "It's the first drug shown to slow Alzheimer's. Why is is it off to a slow start?",
-    "published": 1712995200,
-    "posting_price": 755.16359948,
-    "close_price": 745.92364502,
-    "percent_change": -1.22356989
-  },
-  {
-    "title": "Eli Lilly, Novo Euphoria Risks Disappointing Investors, Goldman Says",
-    "published": 1712952411,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Shark Tank's Mark Cuban speaks out on weight-loss drugs",
-    "published": 1712948547,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Here is What to Know Beyond Why Eli Lilly and Company (LLY) is a Trending Stock",
-    "published": 1712926816,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Novo Nordisk's Dominance In Obesity & Diabetes Drug Market Backed by Strong Pipeline: Analyst Gives Outperform Rating",
-    "published": 1712924640,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Short interest in S&P 500 health stocks rises, Moderna among most shorted companies in March",
-    "published": 1712924520,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "LLY, NVO: Obesity Drugs May Help with Parkinson\u2019s",
-    "published": 1712922840,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "European regulator concludes no suicide link to obesity drugs",
-    "published": 1712922300,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "GLP-1s benefit Parkinson\u2019s: Barclays sees implications across biopharma",
-    "published": 1712919780,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Eli Lilly Suffers Legal Loss For Its Popular Weight Loss/Diabetes Drug In Lawsuit Against Florida Compounding Pharmacy",
-    "published": 1712919660,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Novo Nordisk/Eli Lilly's Weight Loss Drugs Does Not Cause Suicidal Behaviors - After FDA, European Medicines Agency Says",
-    "published": 1712915040,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Ozempic, similar weight-loss drugs don\u2019t increase suicide risk: EU regulator",
-    "published": 1712914620,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Leerink sees 'marginal' Q1 downside for Lilly amid supply constraints",
-    "published": 1712912160,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Obesity-drug power couple Novo Nordisk and Eli Lilly still have room to run, analysts say",
-    "published": 1712909640,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Popular weight-loss drug doesn\u2019t increase suicide risk, EU regulator says",
-    "published": 1712902560,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "No link between weight loss drugs and suicidal thoughts, EU regulator concludes",
-    "published": 1712902140,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "7 A-Rated Aggressive Biotech Stocks to Bet On in 2024",
-    "published": 1712900640,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Shed the Fat, Gain the Profits: 3 Weight-Loss Stocks to Own Until 2027",
-    "published": 1712899740,
-    "posting_price": 754.66682786,
-    "close_price": 746.7880249,
-    "percent_change": -1.04401077
-  },
-  {
-    "title": "Roche, Eli Lilly gain FDA breakthrough device tag for Alzheimer's blood test",
-    "published": 1712813160,
-    "posting_price": 754.87548248,
-    "close_price": 754.68670654,
-    "percent_change": -0.02500756
-  },
-  {
-    "title": "Drugmakers look to alternative suppliers after draft U.S. legislation, FT says",
-    "published": 1712812980,
-    "posting_price": 754.87548248,
-    "close_price": 754.68670654,
-    "percent_change": -0.02500756
-  },
-  {
-    "title": "Roche announces U.S. FDA granted BDD to its Elecsys pTau217 assay",
-    "published": 1712812620,
-    "posting_price": 754.87548248,
-    "close_price": 754.68670654,
-    "percent_change": -0.02500756
-  },
-  {
-    "title": "Wall Street Favorites: 3 Healthcare Stocks With Strong Buy Ratings for April 2024",
-    "published": 1712806380,
-    "posting_price": 754.87548248,
-    "close_price": 754.68670654,
-    "percent_change": -0.02500756
-  },
-  {
-    "title": "Trillion-Dollar Trajectories: 3 Billion-Dollar Stocks With the Potential to Hit the Next Milestone",
-    "published": 1712804220,
-    "posting_price": 754.87548248,
-    "close_price": 754.68670654,
-    "percent_change": -0.02500756
-  },
-  {
-    "title": "Blood test by Roche and Eli gets FDA breakthrough device designation",
-    "published": 1712802840,
-    "posting_price": 754.87548248,
-    "close_price": 754.68670654,
-    "percent_change": -0.02500756
-  },
-  {
-    "title": "Eli Lilly (LLY) Increases Despite Market Slip: Here's What You Need to Know",
-    "published": 1712785519,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "3 Obesity Drug Stocks Set to Skyrocket as Demand Goes Wild",
-    "published": 1712778060,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "Insiders are Piling into These 10 Healthcare Stocks in 2024",
-    "published": 1712777442,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "This weight-loss ETF has performed well in its first five months. How does it compare with cheaper alternatives?",
-    "published": 1712755620,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "ClearBridge Appreciation Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712753700,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "Eli Lilly & Co: Strong Buy Rating on Robust \u2018Diabesity\u2019 Portfolio and Key Product Outperformance",
-    "published": 1712724420,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "Eli Lilly & Co. stock outperforms competitors on strong trading day",
-    "published": 1712720100,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "Amphastar Pharmaceuticals Interested In Potential Acquisitions In Endocrinology-Focused Companies",
-    "published": 1712716080,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "Top 10 best performing S&P 500 health care stocks of 2024",
-    "published": 1712714220,
-    "posting_price": 746.430398,
-    "close_price": 757.0612793,
-    "percent_change": 1.42422942
-  },
-  {
-    "title": "10 Health Care Stocks With Whale Alerts In Today's Session",
-    "published": 1712666400,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Eli Lilly launches construction of $2.5B plant to meet obesity drug demand",
-    "published": 1712664720,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Cantor starts Structure at overweight, sees positive data for GLP-1 drug",
-    "published": 1712662980,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "11 Best Biotech ETFs To Buy",
-    "published": 1712662637,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Novo Nordisk: The Moat Won't Last Forever",
-    "published": 1712662210,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Biophytis (BPTS) to Begin Phase II Obesity Study, Stock Up",
-    "published": 1712660520,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "3 High-Growth Biotech Stocks Investors Shouldn\u2019t Sleep On in April",
-    "published": 1712660400,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Forget Viking Therapeutics. Here's 1 Weight-Loss Stock to Keep Your Eyes on Instead.",
-    "published": 1712659500,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Missed Out on Eli Lilly? 2 Healthcare Stocks With Big Catalysts on the Horizon.",
-    "published": 1712658900,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Jim Cramer Stands By Nvidia And Eli Lilly Despite Market Dips, Says 'Terrific Time To Take Some Profits'",
-    "published": 1712655420,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Madrigal announces US launch of NASH/MASH drug Rezdiffra",
-    "published": 1712653680,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Eli Lilly and Co's Options: A Look at What the Big Money is Thinking",
-    "published": 1712652420,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Amphastar Pharmaceuticals (NASDAQ:AMPH) Offers Savvy Value Investors a Window of Opportunity",
-    "published": 1712646540,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Upcoming Catalysts Position Perrigo For Sustained Long-Term Dividend Growth",
-    "published": 1712641773,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "MarketMasterAI\u2019s Top 500 Stocks: April 2024",
-    "published": 1712633160,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Cabot Wealth\u2019s Top Ten list of stocks",
-    "published": 1712627460,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Cabot\u2019s Top Ten list of stocks",
-    "published": 1712625000,
-    "posting_price": 772.62014352,
-    "close_price": 752.35180664,
-    "percent_change": -2.62332494
-  },
-  {
-    "title": "Weight-loss drug shortage result of 'unprecedented demand'",
-    "published": 1712612123,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Healthcare ETFs for the Weight-Loss Drug Boom & Beyond",
-    "published": 1712604840,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "2 Growth Stocks to Buy Hand Over Fist in April",
-    "published": 1712579400,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Zacks Market Edge Highlights: VICI Properties, KeyCorp, Meta Platforms, ExxonMobil and Eli Lilly",
-    "published": 1712578200,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Trial shows Wegovy can ease heart failure symptoms",
-    "published": 1712578140,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "ProfoundBio Discovers The Joys Of Having A Wealthy Owner",
-    "published": 1712573460,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "This 1 Number May Ensure Eli Lilly's Dominance in the Weight Loss Drug Market",
-    "published": 1712572200,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Viking Therapeutics Is Great. Here's Why You Shouldn't Buy It.",
-    "published": 1712570100,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Lilly - Results announced from EMPACT-MI phase III trial investigating the effect of Jardiance on risk of heart failure hospitalization and death in adults following a heart attack",
-    "published": 1712561231,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Eli Lilly & Co (LLY), Ionis Pharmaceuticals (IONS) and Medtronic (MDT)",
-    "published": 1712551860,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Eli Lilly research costs rise but Jardiance trial disappoints",
-    "published": 1712551800,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "EMA to discuss possible link between GLP-1s, suicidal thoughts: report",
-    "published": 1712542500,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Could This New Development Soon Buoy Eli Lilly and Novo Nordisk Stock?",
-    "published": 1712488500,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "The biggest S&P stocks have to do the heavy earnings lifting (again) - Goldman",
-    "published": 1712484600,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "10 Best Weight Loss Drug Stocks to Buy Now",
-    "published": 1712450873,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Jim Cramer is Bearish On These 10 Stocks in April",
-    "published": 1712413222,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Eli Lilly's Wegovy Competitor Is Causing Supply Constraints: What It Means for the Stock",
-    "published": 1712406600,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Is it Too Late to Buy Viking Therapeutics Stock?",
-    "published": 1712403900,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Eli Lilly and : Results announced from EMPACT-MI phase III trial investigating the effect of Jardiance\u00ae (empagliflozin) on risk of heart failure hospitalization and death in adults following a heart attack",
-    "published": 1712397246,
-    "posting_price": 779.95254228,
-    "close_price": 772.2723999,
-    "percent_change": -0.98469355
-  },
-  {
-    "title": "Eli Lilly and : Q1 Earnings 2024 Estimated Acquired IPR&D And Development Milestone Charges",
-    "published": 1712334262,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "BME: Trading At A Historical Discount To NAV",
-    "published": 1712317631,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Viking Therapeutics Stock (NASDAQ:VKTX): Analysts Stay Bullish on 2024\u2019s Top Mid-Cap",
-    "published": 1712317260,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Wondering Where To Find An Over 7% Annual Return? Check Out These 10 Investment-Grade Corporate Bonds",
-    "published": 1712316540,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Analysts\u2019 Top Healthcare Picks: Pfizer (PFE), Eli Lilly & Co (LLY)",
-    "published": 1712316060,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Eli Lilly and Co Options Trading: A Deep Dive into Market Sentiment",
-    "published": 1712309640,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "How a Biden-Trump rematch can keep healthcare ETFs afloat this election year",
-    "published": 1712294760,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Lilly to record $111M pre-tax IPR&D charges in Q1",
-    "published": 1712293380,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Eli Lilly sees Q1 pre-tax IPR&D charges of roughly $111M",
-    "published": 1712287860,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "Traders Rethink Interest Rate Cuts, Labor Market Heats Up, Oil Prices Quietly Reach 6-Month High: This Week In The Markets",
-    "published": 1712287560,
-    "posting_price": 760.52874576,
-    "close_price": 779.14782715,
-    "percent_change": 2.44817589
-  },
-  {
-    "title": "How to Create a Stock Portfolio that Pays $100 a Month",
-    "published": 1712264700,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "3 Growth Stocks with Even Greater Potential Than the Magnificent 7",
-    "published": 1712237580,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Walgreens: New Management Team And Cost-Plus Model Are Exactly What The Doctor Prescribed",
-    "published": 1712237410,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "10 Health Care Stocks Whale Activity In Today's Session",
-    "published": 1712234280,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Baird puts Inspire on top idea list, sees limited impact by GLP-1s",
-    "published": 1712233080,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Could This 1 Detail Help Viking Therapeutics Top Eli Lilly and Novo Nordisk in the Weight Loss Drug Market?",
-    "published": 1712220900,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Spring 2024 Snapshot Of The S&P 500's Market Cap",
-    "published": 1712217900,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Analysts\u2019 Top Healthcare Picks: Eli Lilly & Co (LLY), UnitedHealth (UNH)",
-    "published": 1712212860,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "7 A-Rated Stocks to Buy in April",
-    "published": 1712210400,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Big Pharma Stocks Need a Rethink. Investors Keep Making the Same Mistake.",
-    "published": 1712206800,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "LLY, REGN, BHVN: Which Biotech Stock Offers the Most Upside?",
-    "published": 1712196187,
-    "posting_price": 776.49502316,
-    "close_price": 763.12194824,
-    "percent_change": -1.72223575
-  },
-  {
-    "title": "Erste Group Upgrades Eli Lilly and (LLY)",
-    "published": 1712178550,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Why Eli Lilly Stock Topped the Market Today",
-    "published": 1712176262,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Verve (VERV) Pauses Enrollment in Cholesterol Study, Stock Falls",
-    "published": 1712166000,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Lilly's weight-loss drug Zepbound to face supply crunch through April-end, US FDA says",
-    "published": 1712156728,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "UPDATE 2-Lilly's weight-loss drug Zepbound to face supply crunch through April-end, US FDA says",
-    "published": 1712156586,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Novo Nordisk's Popular Diabetes Drug Ozempic Starter Kits Face Extended Shortages in Germany, Faces Biosimilar Threat In China",
-    "published": 1712148060,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Dow Jones Futures: Market Slides But Holds Key Levels; Tesla Skids As Meta Eyes Buy Point",
-    "published": 1712091226,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Verve Therapeutics Stock Remains A Hold After VERVE-101 Enrollment Pause",
-    "published": 1712145465,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1712143200,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Zepbound shortage: Eli Lilly's weight-loss drug in limited availability through April-end",
-    "published": 1712142420,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Some doses of Lilly's Zepbound in short supply through April-end, US FDA says",
-    "published": 1712142186,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Some doses of Lilly's Zepbound in limited availability, US FDA says",
-    "published": 1712141117,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
+    "title": "Biotech Breakthroughs: 7 Stocks Driving the Next Wave in Healthcare",
+    "published": 1715105064,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 768.9000244140625,
+      "2024-05-07T14:30:00+00:00": 772.969970703125,
+      "2024-05-07T15:30:00+00:00": 772.9600219726562,
+      "2024-05-07T16:30:00+00:00": 773.9500122070312,
+      "2024-05-07T17:30:00+00:00": 776.8480224609375,
+      "2024-05-07T18:30:00+00:00": 775.1699829101562,
+      "2024-05-07T19:30:00+00:00": 777.3699951171875
+    },
+    "sentiment": 0.8313630819320679
+  },
+  {
+    "title": "UPDATE 2-US FDA panel to discuss Eli Lilly Alzheimer's drug on June 10",
+    "published": 1715089885,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 768.9000244140625,
+      "2024-05-07T14:30:00+00:00": 772.969970703125,
+      "2024-05-07T15:30:00+00:00": 772.9600219726562,
+      "2024-05-07T16:30:00+00:00": 773.9500122070312,
+      "2024-05-07T17:30:00+00:00": 776.8480224609375,
+      "2024-05-07T18:30:00+00:00": 775.1699829101562,
+      "2024-05-07T19:30:00+00:00": 777.3699951171875
+    },
+    "sentiment": 0.9191451072692871
+  },
+  {
+    "title": "FDA Sets June 10 Advisory Panel Meeting on Eli Lilly Alzheimer's Drug",
+    "published": 1715079380,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 768.9000244140625,
+      "2024-05-07T14:30:00+00:00": 772.969970703125,
+      "2024-05-07T15:30:00+00:00": 772.9600219726562,
+      "2024-05-07T16:30:00+00:00": 773.9500122070312,
+      "2024-05-07T17:30:00+00:00": 776.8480224609375,
+      "2024-05-07T18:30:00+00:00": 775.1699829101562,
+      "2024-05-07T19:30:00+00:00": 777.3699951171875
+    },
+    "sentiment": 0.9087120294570923
+  },
+  {
+    "title": "Eli Lilly and : Lilly Statement on FDA Advisory Committee Meeting on Donanemab for Early Symptomatic Alzheimer\u2019s Disease",
+    "published": 1715074691,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 768.9000244140625,
+      "2024-05-07T14:30:00+00:00": 772.969970703125,
+      "2024-05-07T15:30:00+00:00": 772.9600219726562,
+      "2024-05-07T16:30:00+00:00": 773.9500122070312,
+      "2024-05-07T17:30:00+00:00": 776.8480224609375,
+      "2024-05-07T18:30:00+00:00": 775.1699829101562,
+      "2024-05-07T19:30:00+00:00": 777.3699951171875
+    },
+    "sentiment": 0.8994821310043335
+  },
+  {
+    "title": "Pfizer: Solid Earnings, But We're Not Out Of The Woods Yet",
+    "published": 1715056333,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 768.9000244140625,
+      "2024-05-07T14:30:00+00:00": 772.969970703125,
+      "2024-05-07T15:30:00+00:00": 772.9600219726562,
+      "2024-05-07T16:30:00+00:00": 773.9500122070312,
+      "2024-05-07T17:30:00+00:00": 776.8480224609375,
+      "2024-05-07T18:30:00+00:00": 775.1699829101562,
+      "2024-05-07T19:30:00+00:00": 777.3699951171875
+    },
+    "sentiment": 0.6495312452316284
+  },
+  {
+    "title": "Eli Lilly First Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
+    "published": 1715022313,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 738.0399780273438,
+      "2024-05-06T14:30:00+00:00": 747.3099975585938,
+      "2024-05-06T15:30:00+00:00": 751.9600219726562,
+      "2024-05-06T16:30:00+00:00": 756.0,
+      "2024-05-06T17:30:00+00:00": 760.2349853515625,
+      "2024-05-06T18:30:00+00:00": 762.2449951171875,
+      "2024-05-06T19:30:00+00:00": 764.8001098632812
+    },
+    "sentiment": 0.8920861482620239
+  },
+  {
+    "title": "Lilly (LLY) Reliance on International Sales: What Investors Need to Know",
+    "published": 1715001480,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 738.0399780273438,
+      "2024-05-06T14:30:00+00:00": 747.3099975585938,
+      "2024-05-06T15:30:00+00:00": 751.9600219726562,
+      "2024-05-06T16:30:00+00:00": 756.0,
+      "2024-05-06T17:30:00+00:00": 760.2349853515625,
+      "2024-05-06T18:30:00+00:00": 762.2449951171875,
+      "2024-05-06T19:30:00+00:00": 764.8001098632812
+    },
+    "sentiment": 0.931286633014679
+  },
+  {
+    "title": "See How Eli Lilly Ranks Among Analysts' Top Picks With Strong Buyback Activity",
+    "published": 1714998840,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 738.0399780273438,
+      "2024-05-06T14:30:00+00:00": 747.3099975585938,
+      "2024-05-06T15:30:00+00:00": 751.9600219726562,
+      "2024-05-06T16:30:00+00:00": 756.0,
+      "2024-05-06T17:30:00+00:00": 760.2349853515625,
+      "2024-05-06T18:30:00+00:00": 762.2449951171875,
+      "2024-05-06T19:30:00+00:00": 764.8001098632812
+    },
+    "sentiment": 0.7201892733573914
+  },
+  {
+    "title": "This Is What Whales Are Betting On Eli Lilly and Co",
+    "published": 1714992660,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 738.0399780273438,
+      "2024-05-06T14:30:00+00:00": 747.3099975585938,
+      "2024-05-06T15:30:00+00:00": 751.9600219726562,
+      "2024-05-06T16:30:00+00:00": 756.0,
+      "2024-05-06T17:30:00+00:00": 760.2349853515625,
+      "2024-05-06T18:30:00+00:00": 762.2449951171875,
+      "2024-05-06T19:30:00+00:00": 764.8001098632812
+    },
+    "sentiment": 0.9333471655845642
+  },
+  {
+    "title": "$100 Invested In This Stock 15 Years Ago Would Be Worth $2,200 Today",
+    "published": 1714968120,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 738.0399780273438,
+      "2024-05-06T14:30:00+00:00": 747.3099975585938,
+      "2024-05-06T15:30:00+00:00": 751.9600219726562,
+      "2024-05-06T16:30:00+00:00": 756.0,
+      "2024-05-06T17:30:00+00:00": 760.2349853515625,
+      "2024-05-06T18:30:00+00:00": 762.2449951171875,
+      "2024-05-06T19:30:00+00:00": 764.8001098632812
+    },
+    "sentiment": 0.9496083855628967
+  },
+  {
+    "title": "3 No-Brainer Stocks to Buy in May",
+    "published": 1714906500,
+    "day_prices": {},
+    "sentiment": 0.8734158277511597
+  },
+  {
+    "title": "Eli Lilly: Great Time To Divest Before It Potentially Crashes",
+    "published": 1714822200,
+    "day_prices": {},
+    "sentiment": 0.8429837226867676
+  },
+  {
+    "title": "Eli Lilly Raised Its Outlook. Is the Stock a Buy Now?",
+    "published": 1714814760,
+    "day_prices": {},
+    "sentiment": 0.8669136166572571
+  },
+  {
+    "title": "Amgen's peek at its GLP-1 drug trial results heightens competition in obesity market",
+    "published": 1714770445,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 743.0,
+      "2024-05-03T14:30:00+00:00": 735.530029296875,
+      "2024-05-03T15:30:00+00:00": 734.5250244140625,
+      "2024-05-03T16:30:00+00:00": 736.8499755859375,
+      "2024-05-03T17:30:00+00:00": 740.523681640625,
+      "2024-05-03T18:30:00+00:00": 739.60009765625,
+      "2024-05-03T19:30:00+00:00": 738.489990234375
+    },
+    "sentiment": 0.5713714361190796
+  },
+  {
+    "title": "Eli Lilly Remains Expensive Here - Minimal Margin Of Safety",
+    "published": 1714752000,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 743.0,
+      "2024-05-03T14:30:00+00:00": 735.530029296875,
+      "2024-05-03T15:30:00+00:00": 734.5250244140625,
+      "2024-05-03T16:30:00+00:00": 736.8499755859375,
+      "2024-05-03T17:30:00+00:00": 740.523681640625,
+      "2024-05-03T18:30:00+00:00": 739.60009765625,
+      "2024-05-03T19:30:00+00:00": 738.489990234375
+    },
+    "sentiment": 0.5230067372322083
+  },
+  {
+    "title": "Amgen stock rallies 13% on GLP-1 weight-loss drug update",
+    "published": 1714729020,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 743.0,
+      "2024-05-03T14:30:00+00:00": 735.530029296875,
+      "2024-05-03T15:30:00+00:00": 734.5250244140625,
+      "2024-05-03T16:30:00+00:00": 736.8499755859375,
+      "2024-05-03T17:30:00+00:00": 740.523681640625,
+      "2024-05-03T18:30:00+00:00": 739.60009765625,
+      "2024-05-03T19:30:00+00:00": 738.489990234375
+    },
+    "sentiment": 0.891483724117279
+  },
+  {
+    "title": "Eli Lilly: Don't Overpay For Miracle Drugs",
+    "published": 1714716764,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 743.0,
+      "2024-05-03T14:30:00+00:00": 735.530029296875,
+      "2024-05-03T15:30:00+00:00": 734.5250244140625,
+      "2024-05-03T16:30:00+00:00": 736.8499755859375,
+      "2024-05-03T17:30:00+00:00": 740.523681640625,
+      "2024-05-03T18:30:00+00:00": 739.60009765625,
+      "2024-05-03T19:30:00+00:00": 738.489990234375
+    },
+    "sentiment": 0.8271082639694214
+  },
+  {
+    "title": "3 Under-The-Radar Stocks That Could Be Worth Over $1 Trillion by\u00a02030",
+    "published": 1714700640,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 743.0,
+      "2024-05-03T14:30:00+00:00": 735.530029296875,
+      "2024-05-03T15:30:00+00:00": 734.5250244140625,
+      "2024-05-03T16:30:00+00:00": 736.8499755859375,
+      "2024-05-03T17:30:00+00:00": 740.523681640625,
+      "2024-05-03T18:30:00+00:00": 739.60009765625,
+      "2024-05-03T19:30:00+00:00": 738.489990234375
+    },
+    "sentiment": 0.9067659378051758
+  },
+  {
+    "title": "Analysts reveal Eli Lilly stock price targets after earnings",
+    "published": 1714690980,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9050568342208862
+  },
+  {
+    "title": "Amgen Soars After CEO Gives Update on Experimental Obesity Drug",
+    "published": 1714685366,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.39119482040405273
+  },
+  {
+    "title": "Novo Nordisk sales up 26% driven by GLP-1s, misses 11% on Wegovy",
+    "published": 1714668956,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9553783535957336
+  },
+  {
+    "title": "Novo sees Wegovy sales dip on lower price, tight supply",
+    "published": 1714653540,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9603844881057739
   },
   {
     "title": "Unpacking the Latest Options Trading Trends in Eli Lilly and Co",
-    "published": 1712138820,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Lilly weight loss drug on limited supply through April, FDA says",
-    "published": 1712137980,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "FDA says Eli Lilly's Zepbound at limited availability through April",
-    "published": 1712137740,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Why Nvidia Could Become The Largest Company, But Not For Long",
-    "published": 1712136629,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Early notable gainers among liquid option names on April 3rd",
-    "published": 1712134560,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Erste Group gets more bullish on Eli Lilly, upgrades shares",
-    "published": 1712127300,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Novo\u2019s Ozempic to face copycats as Chinese firm seeks biosimilar nod",
-    "published": 1712124180,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Eli Lilly & Co (LLY), Glaukos (GKOS) and Omnicell (OMCL)",
-    "published": 1712119260,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "What You Missed On Wall Street On Wednesday",
-    "published": 1712114880,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "The 3 Best Healthcare Stocks to Buy in April 2024",
-    "published": 1712114100,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Eli Lilly Struggles To Keep Pace With Mounjaro, Zepbound Demand: 'Currently Unavailable' On Amazon Pharmacy",
-    "published": 1712113800,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Noteworthy Wednesday Option Activity: LLY, RH, IBM",
-    "published": 1712111640,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Costco Long Known For Rotisserie Chicken And Hot Dogs Counters Junk Food With Weight Loss Plan To Help You Shed Those Extras",
-    "published": 1712111100,
-    "posting_price": 760.74733545,
-    "close_price": 770.98083496,
-    "percent_change": 1.34519032
-  },
-  {
-    "title": "Eli Lilly (LLY) Ascends While Market Falls: Some Facts to Note",
-    "published": 1712094318,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Stocks Bend As Yields Rise; Meta Platforms, Uber, Eli Lilly In Focus",
-    "published": 1712090144,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Some doses of Lilly's Mounjaro in tight supply through April, US FDA says",
-    "published": 1712074927,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "UPDATE 1-Some doses of Lilly's Mounjaro in tight supply through April, US FDA says",
-    "published": 1712074665,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "FDA website shows limited availability of some doses of Lilly's Mounjaro through April",
-    "published": 1712070327,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Eli Lilly\u2019s Ozempic Competitors Face Risks. Why the Stock Has More Upside.",
-    "published": 1712062440,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Meta Platforms, AMD Lead 10 Stocks Showing This Bullish Action",
-    "published": 1712058354,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Merger Mania: 3 Potential Takeover Targets to Watch for Lucrative Buyouts",
-    "published": 1712056740,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Outperforming ETF manager names a potential \u201850-bagger\u2019 in the stock market",
-    "published": 1712055840,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Eli Lilly Stock Navigates Weight-Loss Drug Competition With Technical Resilience",
-    "published": 1712054700,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Apple, NVIDIA, Eli Lilly, American Tower and McKesson",
-    "published": 1712050620,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Is It Too Late to Buy Eli Lilly Stock?",
-    "published": 1712049000,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Verve drops after pausing trial enrollments for lead asset",
-    "published": 1712040720,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Verve drops after pausing enrollments in trial for lead asset",
-    "published": 1712039820,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Viking Therapeutics: Future Weight Loss Heavyweight?",
-    "published": 1712037671,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Buy Amazon Stock Now for Continued Growth and Diversification",
-    "published": 1712034420,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Eli Lilly price target raised by $220 at Citi, here's why",
-    "published": 1712032500,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Eli Lilly Poised for Market Dominance Amid Positive orforglipron Trial Results and Legislative Tailwinds",
-    "published": 1712030880,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "5 Healthcare Stocks to Buy for 2024",
-    "published": 1712028660,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Citigroup Pounds the Table on Eli Lilly Stock",
-    "published": 1712023860,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "AstraZeneca CEO Highlights Decade-Long Sales Goal Of $45B Along With Investor Doubts As It Lags In Weight Loss Race",
-    "published": 1712022900,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "Citi Monitors Competitive Threats To Eli Lilly, Says It Is Positioned To Maintain Leadership And Expand",
-    "published": 1712022180,
-    "posting_price": 750.19581531,
-    "close_price": 759.02844238,
-    "percent_change": 1.17737621
-  },
-  {
-    "title": "These 3 Companies Recently Lifted Guidance",
-    "published": 1714513860,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "REFILE-CORRECTED-US STOCKS-Wall Street stocks fall as markets weigh strong wage data, Fed meeting",
-    "published": 1714511661,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "US STOCKS-Wall Street ends lower as markets weigh strong wage data, Fed meeting",
-    "published": 1714509596,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Stocks End April On Sour Note, Dow Loses 570 Points",
-    "published": 1714509489,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "US Equity Markets Close Down Tuesday After Higher Wage Data",
-    "published": 1714507543,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "US STOCKS-Wall Street stocks fall as markets weigh strong wage data, Fed meeting",
-    "published": 1714507243,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Sector Update: Health Care Stocks Mixed Late Afternoon",
-    "published": 1714507105,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Stocks At Day's Lows As Dow Loses 400 Points; These Stocks Flash Sell Signals",
-    "published": 1714504929,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly (LLY) Q1 2024 Earnings Call Transcript",
-    "published": 1714501816,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Stocks Keep Sinking, With Dow Losing 300 Points; IBD 50 Stock Hubbell Plunges",
-    "published": 1714500009,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Taxpayer to fork out \u00a385bn to cover Bank of England losses",
-    "published": 1714499961,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly reports $2 billion from Mounjaro, Zepbound in Q1 2024",
-    "published": 1714497810,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Potential for Weight-Loss Drugs Boosts Eli Lilly",
-    "published": 1714496660,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Lilly Soars as Forecast Boost Shows Weight-Loss Drugs\u2019 Power",
-    "published": 1714494390,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "IBD Stock Of The Day Eli Lilly Surges After Weight-Loss Drug Obliterates Sales Views",
-    "published": 1714494077,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Dow hit by new inflationary scare ahead of Fed",
-    "published": 1714493880,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Top Midday Stories: Shares of Eli Lilly, HSBC Get Post-Earnings Bump; BBVA Exploring Merger With Sabadell; FTC Disputes 300 'Junk' Patent Listings",
-    "published": 1714492780,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Incyte's (INCY) Q1 Earnings & Revenues Fall Shy of Estimates",
-    "published": 1714492200,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly (LLY) Q1 Earnings Top, Sales Miss, 2024 View Raised",
-    "published": 1714491900,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly's Weight-Loss Drug Still Going Strong, Boosts Annual Forecast",
-    "published": 1714491667,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "US STOCKS-Wall St falls on hot labor costs data, caution before Fed verdict",
-    "published": 1714491500,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Why Eli Lilly Stock Is Jumping Today",
-    "published": 1714490760,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly stock jumps on weight-loss drug sales forecast",
-    "published": 1714489595,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Earnings Data Deluge",
-    "published": 1714488480,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly's GLP-1 demand drives up stock price post Q1 results",
-    "published": 1714488044,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Trending : Eli Lilly Reports Strong Sales of Weight-Loss, Diabetes Drugs",
-    "published": 1714487795,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "US STOCKS-Wall St falls in lead up to Fed verdict after hot labor costs data",
-    "published": 1714486889,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Wall Street Lunch: Reefer Gladness",
-    "published": 1714486800,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Pre-Markets Sell on Last Trading Day of April",
-    "published": 1714486620,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly and Company (LLY) Q1 2024 Earnings Call Transcript",
-    "published": 1714483629,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "10 Health Care Stocks With Whale Alerts In Today's Session",
-    "published": 1714480860,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Stocks Dive On Fears Of Hawkish Fed; Treasury Yields Rise, Bitcoin Tumbles To $60,000: What's Driving Markets Tuesday?",
-    "published": 1714480560,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Why H&E Equipment Services Shares Are Trading Lower By Around 18%? Here Are Other Stocks Moving In Tuesday's Mid-Day Session",
-    "published": 1714480200,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly, 3M rise; MicroStrategy, Chegg fall, Tuesday, 4/30/2024",
-    "published": 1714479720,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly and Company 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1714478544,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1714474980,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
+    "published": 1714645560,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9260743260383606
+  },
+  {
+    "title": "GLP-1 drug prices falling at UK pharmacies, clinics: report",
+    "published": 1714640640,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9571473598480225
+  },
+  {
+    "title": "Novo Nordisk says prices dropping for Wegovy, Ozempic: report",
+    "published": 1714638060,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.8780770301818848
+  },
+  {
+    "title": "Obesity drugmaker Novo Nordisk raises outlook, Q1 profit beats forecast",
+    "published": 1714628043,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.7590559124946594
+  },
+  {
+    "title": "Demand Soars For Novo Nordisk's Weight-Loss Drug Wegovy Despite Supply Constraints And Eli Lilly Competition",
+    "published": 1714625700,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9482410550117493
+  },
+  {
+    "title": "Weigh Loss Competition Heats Up In Britain, Online Pharmacies Slash Prices for Wegovy and Mounjaro",
+    "published": 1714619160,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9648808836936951
+  },
+  {
+    "title": "Palatin spikes as FDA clears mid-stage trial for weight loss therapy",
+    "published": 1714615800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.5497347712516785
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Tandem Diabetes Care (TNDM) and Eli Lilly & Co (LLY)",
+    "published": 1714613520,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 777.3400268554688,
+      "2024-05-02T14:30:00+00:00": 768.6699829101562,
+      "2024-05-02T15:30:00+00:00": 763.9099731445312,
+      "2024-05-02T16:30:00+00:00": 761.22998046875,
+      "2024-05-02T17:30:00+00:00": 760.48681640625,
+      "2024-05-02T18:30:00+00:00": 758.1199951171875,
+      "2024-05-02T19:30:00+00:00": 759.4600219726562
+    },
+    "sentiment": 0.9175444841384888
+  },
+  {
+    "title": "Amgen Stock: Recent Weakness Is Not A Buying Opportunity Yet",
+    "published": 1714583264,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.6784251928329468
+  },
+  {
+    "title": "ETFs to Buy as Eli Lilly Beats Q1 Earnings, Lifts Outlook",
+    "published": 1714575600,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.9327956438064575
+  },
+  {
+    "title": "Amazon, AMD, and Super Micro Sing the Same Sad Song, and 5 Other Things to Know Before Markets Open.",
+    "published": 1714573920,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.8907724618911743
+  },
+  {
+    "title": "Amazon, AMD, Super Micro Earnings Tell Investors the Same Thing, It\u2019s Bad News. And 5 Other Things to Know Before Markets Open.",
+    "published": 1714561560,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.7262578010559082
+  },
+  {
+    "title": "Eli Lilly: Bloated Stock",
+    "published": 1714561212,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.9522733092308044
+  },
+  {
+    "title": "3 Healthcare Stocks With the Potential to Triple Your Investment by 2026",
+    "published": 1714557120,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.7737093567848206
+  },
+  {
+    "title": "Eli Lilly price target raised by $42 at Truist, here's why",
+    "published": 1714554240,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.7448031902313232
+  },
+  {
+    "title": "Eli Lilly price target raised by $101 at BMO Capital, here's why",
+    "published": 1714550160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.8231807947158813
+  },
+  {
+    "title": "Eli Lilly and Co (LLY) Q1 2024 Earnings Call Transcript Highlights: Stellar Growth and ...",
+    "published": 1714547860,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.9250041246414185
+  },
+  {
+    "title": "Eli Lilly price target raised by $70 at Cantor Fitzgerald, here's why",
+    "published": 1714544940,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.7949907183647156
+  },
+  {
+    "title": "Truist Financial Keeps Their Buy Rating on Eli Lilly & Co (LLY)",
+    "published": 1714544160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.8780941963195801
+  },
+  {
+    "title": "Galderma Seizes Ozempic Face Opportunity",
+    "published": 1714542720,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.8064772486686707
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Eli Lilly & Co (LLY), Exelixis (EXEL) and Zynex (ZYXI)",
+    "published": 1714542180,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.9123848080635071
   },
   {
     "title": "Decoding Eli Lilly and Co (LLY): A Strategic SWOT Insight",
-    "published": 1714474920,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "FOMC Meeting Samsung Over Takes Apple, AI Demand Indication Ahead From AMD, Amazon And Super Micro",
-    "published": 1714472700,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly Increases FY24 Outlook, Joins Brinker International, Zebra Technologies, 3M And Other Big Stocks Moving Higher On Tuesday",
-    "published": 1714470960,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "LLY Stock Earnings: Eli Lilly Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1714470900,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Biggest stock movers today: LLY, NXPI, MSTR, ST, and more",
-    "published": 1714470300,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "FTC expands patent listing challenges for drugs",
-    "published": 1714468440,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Lilly rides Mounjaro, Zepbound to better-than-expected 1Q profit despite supply issues",
-    "published": 1714467976,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "LLY Earnings: Eli Lilly Gains on Strong Q1 Earnings Beat",
-    "published": 1714467600,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Early notable gainers among liquid option names on April 30th",
-    "published": 1714467300,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Unusually active option classes on open April 30th",
-    "published": 1714466400,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Analysts\u2019 Top Healthcare Picks: Qiagen (QGEN), Eli Lilly & Co (LLY)",
-    "published": 1714465980,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Bank of America Securities Keeps Their Buy Rating on Eli Lilly & Co (LLY)",
-    "published": 1714465800,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "TOP NEWS: Eli Lilly lifts outlook, ramps up production to meet demand",
-    "published": 1714465560,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "5 stocks to watch on Tuesday: KO, MCD, AMZN and more",
-    "published": 1714465500,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Fly Intel: Pre-market Movers",
-    "published": 1714465380,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly: target ranges raised for 2024",
-    "published": 1714463248,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Morning Brew: Tech Giants Lead Market Movements Amidst Earnings Season",
-    "published": 1714462260,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly and : Q1 Earnings 2024 Press Release",
-    "published": 1714460331,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly and : Q1 Earnings 2024 Earnings Presentation",
-    "published": 1714460330,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Lilly: Q1 Earnings Snapshot",
-    "published": 1714460050,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly beats profit estimates on diabetes and weight-loss drug strength",
-    "published": 1714459609,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Lilly Reports First-Quarter 2024 Financial Results and Raises Full-Year Revenue Guidance by $2 Billion, Highlights Pipeline Momentum",
-    "published": 1714459572,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly\u2019s stock jumps as first-quarter profit tops estimates amid strong sales of Mounjaro, Zepbound",
-    "published": 1714459440,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly raises guidance on weight loss momentum",
-    "published": 1714458900,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly and Co (LLY) Surpasses Q1 Earnings Estimates and Raises Full-Year Guidance",
-    "published": 1714458780,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly in charts: Mounjaro, Zepbound, Verzenio, and Jardiance drive revenue growth in Q1; Trulicity declines 26%",
-    "published": 1714457160,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly raises FY24 adjusted EPS view to $13.50-$14.00 from $12.20-$12.70",
-    "published": 1714456920,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Wall Street On Edge Ahead Of Fed Decision, Spotlight Falls On Amazon And AMD Earnings: Analyst Says Stocks Survive 'Fragility Test' As April Ends",
-    "published": 1714456920,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly reports Q1 EPS $2.58, consensus $2.46",
-    "published": 1714456800,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Eli Lilly Non-GAAP EPS of $2.58 beats by $0.09, revenue of $8.77B misses by $160M",
-    "published": 1714456140,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Stock market today: An ugly April for Wall Street is closing with some more losses",
-    "published": 1714442160,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Markets Up On Tesla, Q1 Earnings; Q1 Beats After The Bell",
-    "published": 1714439160,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "GLOBAL BRIEFING: HSBC CEO to retire; first-quarter profit edges down",
-    "published": 1714438080,
-    "posting_price": 769.99720142,
-    "close_price": 776.05780029,
-    "percent_change": 0.78709362
-  },
-  {
-    "title": "Why these analysts are bullish on healthcare stocks",
-    "published": 1714424693,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "All Eyes Are on Zepbound Sales as Lilly Reports Earnings",
-    "published": 1714422900,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "How expanded use of GLP-1s could affect long-term outlooks for Eli Lilly and Novo Nordisk",
-    "published": 1714419332,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "UPDATE 1-One dose of Novo Nordisk's Wegovy back in supply, FDA website shows",
-    "published": 1714407142,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "How To Earn $500 A Month From Eli Lilly Stock Ahead Of Q1 Earnings Report",
-    "published": 1714401134,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Here's How Much Stock Eli Lilly Repurchased in 2023",
-    "published": 1714400100,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Novo Nordisk: Growth Is Still A Better Choice",
-    "published": 1714399203,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Will Earnings Cheer Continue To Buoy Markets? Apple, Amazon, Pfizer, Coinbase Lead Flurry Of Q1 Reports This Week",
-    "published": 1714395360,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Notable companies reporting before tomorrow's open",
-    "published": 1714394760,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Eli Lilly Q1 Earnings Preview: Weight loss therapies to drive quarterly growth",
-    "published": 1714392900,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Notable earnings before Tuesday's open",
-    "published": 1714386060,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Global company events calendar",
-    "published": 1714382940,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Pipeline Moves: Investigator-led trial of Lilly\u2019s merestinib in solid tumours terminated",
-    "published": 1714377669,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 29 \u2013 May 02, 2024",
-    "published": 1714370460,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Eli Lilly & Co (LLY) Gets a Buy from Barclays",
-    "published": 1714366020,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Dow Jones Futures Rise: Nvidia Leads 7 New Buys As Market Roars; Fed, Apple, Super Micro Loom",
-    "published": 1714350106,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Eli Lilly Just Announced More Good News: Time to Buy?",
-    "published": 1714324620,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "What do weight-loss drugs mean for the diet industry?",
-    "published": 1714297020,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Wall Street Breakfast: The Week Ahead",
-    "published": 1714288946,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Earnings week ahead: Amazon, Apple, Pfizer, AMD, Coca-Cola, Starbucks and more",
-    "published": 1714287780,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Roche: Value Remains Despite Covid-19 Revenue Growth Loss",
-    "published": 1714283098,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Forget Nvidia, These Unstoppable Stocks Are Better Buys",
-    "published": 1714230600,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "1 Unstoppable Pharmaceutical Stock Investors Shouldn't Sleep On",
-    "published": 1714223700,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Goldman Sachs\u2019 Top 15 Stock Picks for 2024",
-    "published": 1714222456,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "3 Dividend Stocks to Buy and Hold for the Next Decade",
-    "published": 1714216500,
-    "posting_price": 731.00057109,
-    "close_price": 732.44122314,
-    "percent_change": 0.19707947
-  },
-  {
-    "title": "Dow Jones Futures: Nvidia Leads 7 New Buys As Market Roars; Fed, Apple, Super Micro Loom",
-    "published": 1714166446,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "How 'Megatrends' Like Weight-Loss Drugs And Smartwatches Are Bolstering ResMed",
-    "published": 1714154455,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "IN BRIEF: Eli Lilly urges shareholders to reject Tutanota's offer",
-    "published": 1714150140,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "Eli Lilly and : Lilly Recommends Shareholders Reject \u201cMini-Tender\u201d Offer by Tutanota LLC",
-    "published": 1714149409,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "Top 20 biopharma kick off 9.6% market cap surge in Q1 2024 amid Medicare price talks",
-    "published": 1714143739,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "ClearBridge Global Growth Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1714133700,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "Novo Nordisk: Medicare Coverage To Unlock Another Big Market For Wegovy",
-    "published": 1714132834,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "SPDR ETF Report For Friday, April 26",
-    "published": 1714132020,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "AstraZeneca: Strong In A Weak Market",
-    "published": 1714131236,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "LLY June 7th Options Begin Trading",
-    "published": 1714126380,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "Jim Cramer Weighs In Ahead Of Apple, Amazon, Eli Lilly Earnings: 'We Have To Run Such A Ridiculous Gauntlet Next Week'",
-    "published": 1714124220,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "EOI: 9% Plus Income, Paid Monthly, And Solid Past Record",
-    "published": 1714122000,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "Catalyst Watch: Apple earnings, Viking IPO, Chinese EV deliveries and Russell indices' Rank Day",
-    "published": 1714097160,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "More than half of the S&P 500 names that reported results this week beat top and bottom line - Earnings Scorecard",
-    "published": 1714093680,
-    "posting_price": 718.80980159,
-    "close_price": 728.77508545,
-    "percent_change": 1.38635893
-  },
-  {
-    "title": "These Are The Biotechs Showing Up At The Biggest Cancer Meeting Of The Year (Oral Presentations)",
-    "published": 1714067356,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "20 Fastest Growing Health Tech Companies in the World",
-    "published": 1714059264,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "Gear Up for Lilly (LLY) Q1 Earnings: Wall Street Estimates for Key Metrics",
-    "published": 1714050926,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights Eli Lilly, Novo Nordisk, Merck and AbbVie",
-    "published": 1714048380,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "Dividend Legends: 3 Stocks With Over 100 Years of Payouts",
-    "published": 1714043520,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "What's Driving AstraZeneca PLC's Surprising 14% Stock Rally?",
-    "published": 1714040280,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "Don\u2019t Miss Out! 3 Top-Tier Blue-Chip Growth Stocks for Your Must-Buy List",
-    "published": 1714021860,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "Eli Lilly & Co. stock outperforms competitors despite losses on the day",
-    "published": 1714016400,
-    "posting_price": 720.31996157,
-    "close_price": 720.1907959,
-    "percent_change": -0.01793171
-  },
-  {
-    "title": "Will Healthcare ETFs Lose Momentum as Q1 Earnings Unfold?",
-    "published": 1713974700,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "4 Large Drug Stocks to Hold on to Amid Industry Challenges",
-    "published": 1713967740,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Analysts Estimate Pfizer (PFE) to Report a Decline in Earnings: What to Look Out for",
-    "published": 1713967314,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Should Eli Lilly (LLY) Be in Your Portfolio Ahead of Q1 Earnings?",
-    "published": 1713965100,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Madrigal: 2 Challenges To Overcome To Maintain NASH 'First Mover' Advantage",
-    "published": 1713963750,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Investors Heavily Search Eli Lilly and Company (LLY): Here is What You Need to Know",
-    "published": 1713963614,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Meet Eli Lilly's Secret Weapon in the Billion-Dollar Weight-Loss Drug Market",
-    "published": 1713955200,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "LLY vs. JNJ: Which Big Pharma Stock Is Better?",
-    "published": 1713954240,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Eaton Vance Worldwide Health Sciences Fund Bolsters Position in IDEXX Laboratories",
-    "published": 1713952920,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Artisan International Fund Q1 2024 Commentary",
-    "published": 1713952800,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "3.6M Medicare patients could qualify for Wegovy coverage: report",
-    "published": 1713951000,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "14 Dividend Growth Stocks with Highest Growth Rates",
-    "published": 1713942152,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "3 Speculative Weight Loss Drug Stocks to Bet On for Big Gains",
-    "published": 1713937140,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "JGRO: Promising ETF In The Growth Category",
-    "published": 1713935367,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Madison Sustainable Equity Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713933000,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Novo Nordisk comes under Senate probe over pricing of weight loss drugs",
-    "published": 1713927420,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Novo Nordisk comes under Senate probe over pricing for weight loss drugs",
-    "published": 1713926700,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Which Companies Will Join the Trillion-Dollar Team in 2024? Our 3 Best Guesses",
-    "published": 1713923640,
-    "posting_price": 747.78163151,
-    "close_price": 727.47357178,
-    "percent_change": -2.71577408
-  },
-  {
-    "title": "Eli Lilly (LLY) Reports Next Week: Wall Street Expects Earnings Growth",
-    "published": 1713880861,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "3 Potential Biopharma Buyout Targets",
-    "published": 1713877968,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "Eli Lilly and Company (LLY) Rose due to Robust Q4 Sales",
-    "published": 1713873618,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "REITs Q1 Earnings Begin On Solid Note",
-    "published": 1713872040,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "Market Whales and Their Recent Bets on LLY Options",
-    "published": 1713869280,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "TikTok to restrict weight loss drug promotion",
-    "published": 1713868620,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "Baron Health Care Fund Q1 2024 Shareholder Letter",
-    "published": 1713864600,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "3 Stocks With the Potential to Surpass Analyst Expectations for 2024",
-    "published": 1713852120,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "PPH: Buy The Pullback In This Big Pharma ETF For Long-Term Total Returns",
-    "published": 1713846878,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "TikTok to restrict weight loss drug promotion (updated)",
-    "published": 1713839220,
-    "posting_price": 736.41539748,
-    "close_price": 740.87640381,
-    "percent_change": 0.60577309
-  },
-  {
-    "title": "Eli Lilly (LLY) Advances But Underperforms Market: Key Facts",
-    "published": 1713822319,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Lilly to buy injectable drug plant in manufacturing ramp-up",
-    "published": 1713808200,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly to acquire manufacturing facility from Nexus Pharma",
-    "published": 1713800457,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "10 Best Performing Biotech ETFs in 2024",
-    "published": 1713798659,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Wall Street Lunch: Big Tech Bearishness?",
-    "published": 1713792300,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "7 High-Flying Stocks That Are Majorly Overdue for a Pullback",
-    "published": 1713789960,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly (NYSE:LLY) Notches Up on New Manufacturing Plans",
-    "published": 1713787500,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly And The Alzheimer's Dilemma (Rating Upgrade)",
-    "published": 1713787200,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly: agreement to purchase a Nexus plant in the USA",
-    "published": 1713784894,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly and : Lilly Acquires New Injectable Medicine Manufacturing Facility from Nexus Pharmaceuticals",
-    "published": 1713780851,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly buys injectable medicine manufacturing facility in Wisconsin",
-    "published": 1713777840,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Novo Nordisk Remains The Better Buy After A Moderate Pullback",
-    "published": 1713776400,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Changing Frugal Eating Habits - How Novo Nordisk/Eli Lilly's Weight Loss Drugs Reshaping Food Spending",
-    "published": 1713774360,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Top high growth investment ratio stocks from each sector - GS",
-    "published": 1713756360,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Abbott Labs (ABT) and Eli Lilly & Co (LLY)",
-    "published": 1713754260,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Eli Lilly Aims To Close Supply-Demand Gap For Zepbound/Mounjaro As It Acquires Manufacturing Facility From Nexus Pharma",
-    "published": 1713749280,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Nvidia Down 10%, Time To Buy Tech",
-    "published": 1713740115,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "11 Hot Growth Stocks To Buy Right Now",
-    "published": 1713710984,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "13 new obesity drugs could hit the market by 2029 amid surging demand",
-    "published": 1713683220,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Goldman picks top capex and R&D stocks",
-    "published": 1713663840,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "10 Best Healthcare Stocks to Buy Under $20",
-    "published": 1713618969,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Missed Out on Eli Lilly and Novo Nordisk? This Small Biotech Has a Promising GLP-1 Drug With Significant Potential",
-    "published": 1713616200,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "THQ: Collecting A High Yield From Increased Medical Spending",
-    "published": 1713614580,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "3 Relatively Safe Growth Stocks You Can Buy and Hold",
-    "published": 1713610080,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Big pharma is looking to fatten profits with buyouts of weight-loss drug companies. Here are 4 candidates.",
-    "published": 1713598260,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "SPDR ETF Report For Friday, April 19",
-    "published": 1713581280,
-    "posting_price": 725.02936796,
-    "close_price": 726.60913086,
-    "percent_change": 0.2178895
-  },
-  {
-    "title": "Weight loss drugs and the many use cases in medical treatments",
-    "published": 1713562377,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "Eli Lilly Shares Show Healthy Rise",
-    "published": 1713541681,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "Pharma Stock Roundup: JNJ's Q1 Results, LLY, ABBV, RHHBY's Successful Study Data",
-    "published": 1713532500,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "Strong Buy Alert: 7 No-Brainer Stocks to Scoop Up Now",
-    "published": 1713508320,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "Influencers are talking up weight loss drugs, but omit side effects, WSJ says",
-    "published": 1713503880,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "Hepion ends Phase 2 study for NASH drug due to cash restraints",
-    "published": 1713499980,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "Intuitive Surgical (ISRG) Surpasses Q1 Earnings, Faces Supply Challenges",
-    "published": 1713492900,
-    "posting_price": 744.32399541,
-    "close_price": 721.621521,
-    "percent_change": -3.05007961
-  },
-  {
-    "title": "13 Best Low Volatility Stocks to Buy According to Hedge Funds",
-    "published": 1713472023,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "How The Weight-Loss Bonanza Prompted A ResMed Sell-Off \u2014 But Could Soon Drive Shares Higher",
-    "published": 1713450787,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Patients Find Weight Loss Drug Zepbound A Game Changer, But Makers See Production Delay Until 2025",
-    "published": 1713466252,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "India's Biocon developing its own version of Wegovy, clinical trial likely next year",
-    "published": 1713457241,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Company News for Apr 18, 2024",
-    "published": 1713444780,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Eli Lilly's (LLY) Tirzepatide Meets Goals in Sleep Apnea Studies",
-    "published": 1713444660,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "14 Best Large Cap Dividend Growth Stocks To Buy Now",
-    "published": 1713442555,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Here's How Much You Would Have Made Owning Eli Lilly and Co Stock In The Last 15 Years",
-    "published": 1713432960,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Want to Double Your Tax Refund in 2024? 7 Stocks to Buy Now.",
-    "published": 1713432480,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "2 Growth Stocks That Turned $10,000 Into More Than $100,000 in Just 10 Years",
-    "published": 1713431400,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Analysts Are Bullish on These Healthcare Stocks: Eli Lilly & Co (LLY), TG Therapeutics (TGTX)",
-    "published": 1713429060,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Eli Lilly, Linde, Caterpillar, Salesforce, and Wells Fargo",
-    "published": 1713428400,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "UBS remains bullish on Inspire Medical after Lilly's OSA results",
-    "published": 1713425100,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Analysts Conflicted on These Healthcare Names: Intra-Cellular Therapies (ITCI), Eli Lilly & Co (LLY) and Sanofi (OtherSNYNF)",
-    "published": 1713424860,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Metsera, a well-funded obesity drug startup, sees chance to challenge Lilly, Novo",
-    "published": 1713423600,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Analysts\u2019 Top Healthcare Picks: Inspire Medical Systems (INSP), Eli Lilly & Co (LLY)",
-    "published": 1713421860,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Pacific Biosciences (PACB) and Eli Lilly & Co (LLY)",
-    "published": 1713421260,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Analysts Are Bullish on Top Healthcare Stocks: Abbott Labs (ABT), US Physical Therapy (USPH)",
-    "published": 1713416460,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Eli Lilly & Co (LLY), Zoetis (ZTS) and TScan Therapeutics (TCRX)",
-    "published": 1713414780,
-    "posting_price": 744.58233702,
-    "close_price": 741.13476562,
-    "percent_change": -0.46302084
-  },
-  {
-    "title": "Why Eli Lilly Stock Beat the Market Today While ResMed and AdaptHealth Sank",
-    "published": 1713394313,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Top Research Reports for Eli Lilly, Linde & Caterpillar",
-    "published": 1713388200,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Stocks Fall After Fed Data; Nvidia Tests Key Level While Tesla's Musk Faces Shareholder Vote",
-    "published": 1713385994,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly Pops After Weight-Loss Drug Succeeds In Sleep Apnea Test; ResMed Dives",
-    "published": 1713358653,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Stocks Deepen Losses Ahead Of Fed Data; Tesla Falls As Musk Gets Shareholder Vote, While Chip Leader Plunges",
-    "published": 1713370934,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly's weight loss drug could help sleep apnea patients",
-    "published": 1713368522,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly's Famed Weight Loss Drug Zepbound Works As Sleep Apnea Treatment, Successful Late-Stage Studies Show",
-    "published": 1713365995,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly\u2019s Zepbound Weight Loss Drug Works on Sleep Apnea, Too",
-    "published": 1713363780,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "US STOCKS-Wall St gains from megacaps thrust; earnings, Fed comments on tap",
-    "published": 1713362682,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly Stock Gains After Study Shows Weight-Loss Drug Combats Sleep Apnea",
-    "published": 1713361408,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "UPDATE 2-Most of Lilly's Mounjaro and Zepbound doses in limited supply, FDA says",
-    "published": 1713361276,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Trending : Eli Lilly Weight-Loss Drug Works on Sleep Apnea",
-    "published": 1713359656,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "US STOCKS-Wall St set for higher open on megacaps boost; earnings, Fed comments on tap",
-    "published": 1713358649,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "United Airlines, Eli Lilly rise; JB Hunt, Travelers fall, Wednesday, 4/17/2024",
-    "published": 1713358020,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Lilly obesity drug shows benefit in sleep disorder study, pointing to new use",
-    "published": 1713355740,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Wall Street Lunch: Lilly In Limelight",
-    "published": 1713353220,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly's Mounjaro, Zepbound to remain in shortage through end of Q2",
-    "published": 1713352140,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly\u2019s Weight Loss Drug Shows Promising Results for Sleep Apnea",
-    "published": 1713351360,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "Eli Lilly says weight-loss drug Zepbound proved effective as a treatment for sleep apnea",
-    "published": 1713350700,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
-  },
-  {
-    "title": "UPDATE 4-Lilly's weight-loss drug reduces sleep apnea severity in late-stage trials",
-    "published": 1713349632,
-    "posting_price": 754.29915864,
-    "close_price": 745.92358398,
-    "percent_change": -1.11037836
+    "published": 1714539701,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 774.7550048828125,
+      "2024-05-01T14:30:00+00:00": 775.2100219726562,
+      "2024-05-01T15:30:00+00:00": 775.010009765625,
+      "2024-05-01T16:30:00+00:00": 776.9400024414062,
+      "2024-05-01T17:30:00+00:00": 773.8250122070312,
+      "2024-05-01T18:30:00+00:00": 777.344970703125,
+      "2024-05-01T19:30:00+00:00": 780.2550048828125
+    },
+    "sentiment": 0.8777248859405518
+  },
+  {
+    "title": "Dow Jones Futures: Stock Market Skids Into Fed; Amazon Rises Late As AMD, Super Micro Plunge",
+    "published": 1714515393,
+    "day_prices": {
+      "2024-04-30T13:30:00+00:00": 775.0,
+      "2024-04-30T14:30:00+00:00": 788.7100219726562,
+      "2024-04-30T15:30:00+00:00": 774.6749877929688,
+      "2024-04-30T16:30:00+00:00": 776.2100219726562,
+      "2024-04-30T17:30:00+00:00": 778.5900268554688,
+      "2024-04-30T18:30:00+00:00": 782.77001953125,
+      "2024-04-30T19:30:00+00:00": 777.5900268554688
+    },
+    "sentiment": 0.585884690284729
+  },
+  {
+    "title": "Eli Lilly Strikes Deal To Combat Counterfeit Diabetes And Weight Loss Drugs Mounjaro And Zepbound",
+    "published": 1715789017,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.9114962816238403
+  },
+  {
+    "title": "UK weight-loss drug price rivalry intensifies with Pharmacy2U mark-down",
+    "published": 1715784555,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.9179021120071411
+  },
+  {
+    "title": "Alonzo Weems to Retire as Executive Vice President of Enterprise Risk Management and Chief Ethics and Compliance Officer",
+    "published": 1715774400,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.8497987389564514
+  },
+  {
+    "title": "Reassessing Amphastar Pharmaceuticals",
+    "published": 1715767897,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.9051785469055176
+  },
+  {
+    "title": "Short interest in S&P 500 healthcare sector dips in April, biotechnology companies most shorted",
+    "published": 1715765220,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.96722412109375
+  },
+  {
+    "title": "Eli Lilly: Alonzo Weems to retire at the end of the year",
+    "published": 1715762414,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.7996947765350342
+  },
+  {
+    "title": "Eli Lilly: settlement agreement with Totality Medispa",
+    "published": 1715754453,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.7635692954063416
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds Eli Lilly",
+    "published": 1715735100,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 764.1500244140625,
+      "2024-05-15T14:30:00+00:00": 775.0800170898438,
+      "2024-05-15T15:30:00+00:00": 779.155029296875,
+      "2024-05-15T16:30:00+00:00": 777.5449829101562,
+      "2024-05-15T17:30:00+00:00": 781.3099975585938,
+      "2024-05-15T18:30:00+00:00": 782.0750122070312,
+      "2024-05-15T19:30:00+00:00": 782.1337280273438
+    },
+    "sentiment": 0.9393297433853149
+  },
+  {
+    "title": "Lilly Settles With Spa Selling Mounjaro, Zepbound Knock-Offs",
+    "published": 1715718173,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 751.52001953125,
+      "2024-05-14T14:30:00+00:00": 754.10498046875,
+      "2024-05-14T15:30:00+00:00": 755.9099731445312,
+      "2024-05-14T16:30:00+00:00": 755.5150146484375,
+      "2024-05-14T17:30:00+00:00": 757.844970703125,
+      "2024-05-14T18:30:00+00:00": 761.6900024414062,
+      "2024-05-14T19:30:00+00:00": 763.4000244140625
+    },
+    "sentiment": 0.759067177772522
+  },
+  {
+    "title": "2 Top Pharma Stocks That Just Keep Getting Better and Better",
+    "published": 1715694780,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 751.52001953125,
+      "2024-05-14T14:30:00+00:00": 754.10498046875,
+      "2024-05-14T15:30:00+00:00": 755.9099731445312,
+      "2024-05-14T16:30:00+00:00": 755.5150146484375,
+      "2024-05-14T17:30:00+00:00": 757.844970703125,
+      "2024-05-14T18:30:00+00:00": 761.6900024414062,
+      "2024-05-14T19:30:00+00:00": 763.4000244140625
+    },
+    "sentiment": 0.6333525776863098
+  },
+  {
+    "title": "Is Eli Lilly's Latest Deal a Gamechanger?",
+    "published": 1715686200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 751.52001953125,
+      "2024-05-14T14:30:00+00:00": 754.10498046875,
+      "2024-05-14T15:30:00+00:00": 755.9099731445312,
+      "2024-05-14T16:30:00+00:00": 755.5150146484375,
+      "2024-05-14T17:30:00+00:00": 757.844970703125,
+      "2024-05-14T18:30:00+00:00": 761.6900024414062,
+      "2024-05-14T19:30:00+00:00": 763.4000244140625
+    },
+    "sentiment": 0.9169089198112488
+  },
+  {
+    "title": "Lilly target price raised at Argus on Mounjaro, Zepbound sales",
+    "published": 1715679960,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 751.52001953125,
+      "2024-05-14T14:30:00+00:00": 754.10498046875,
+      "2024-05-14T15:30:00+00:00": 755.9099731445312,
+      "2024-05-14T16:30:00+00:00": 755.5150146484375,
+      "2024-05-14T17:30:00+00:00": 757.844970703125,
+      "2024-05-14T18:30:00+00:00": 761.6900024414062,
+      "2024-05-14T19:30:00+00:00": 763.4000244140625
+    },
+    "sentiment": 0.903577446937561
+  },
+  {
+    "title": "Biotech Behemoths: 3 Giants Set to Dominate the Health Scene",
+    "published": 1715665020,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 751.52001953125,
+      "2024-05-14T14:30:00+00:00": 754.10498046875,
+      "2024-05-14T15:30:00+00:00": 755.9099731445312,
+      "2024-05-14T16:30:00+00:00": 755.5150146484375,
+      "2024-05-14T17:30:00+00:00": 757.844970703125,
+      "2024-05-14T18:30:00+00:00": 761.6900024414062,
+      "2024-05-14T19:30:00+00:00": 763.4000244140625
+    },
+    "sentiment": 0.852258026599884
+  },
+  {
+    "title": "Pfizer Follows Eli Lilly's Footsteps To Sell Medicines Directly To Patients",
+    "published": 1715631774,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 763.5,
+      "2024-05-13T14:30:00+00:00": 753.0900268554688,
+      "2024-05-13T15:30:00+00:00": 752.989990234375,
+      "2024-05-13T16:30:00+00:00": 755.0,
+      "2024-05-13T17:30:00+00:00": 753.969970703125,
+      "2024-05-13T18:30:00+00:00": 757.8800048828125,
+      "2024-05-13T19:30:00+00:00": 758.6599731445312
+    },
+    "sentiment": 0.7630732655525208
+  },
+  {
+    "title": "Ex-Dividend Reminder: Eli Lilly, Select Medical Holdings and LeMaitre Vascular",
+    "published": 1715590920,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 763.5,
+      "2024-05-13T14:30:00+00:00": 753.0900268554688,
+      "2024-05-13T15:30:00+00:00": 752.989990234375,
+      "2024-05-13T16:30:00+00:00": 755.0,
+      "2024-05-13T17:30:00+00:00": 753.969970703125,
+      "2024-05-13T18:30:00+00:00": 757.8800048828125,
+      "2024-05-13T19:30:00+00:00": 758.6599731445312
+    },
+    "sentiment": 0.9543201923370361
+  },
+  {
+    "title": "Healthcare And Biotech Investing 101: What You Need To Know.",
+    "published": 1715571840,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 763.5,
+      "2024-05-13T14:30:00+00:00": 753.0900268554688,
+      "2024-05-13T15:30:00+00:00": 752.989990234375,
+      "2024-05-13T16:30:00+00:00": 755.0,
+      "2024-05-13T17:30:00+00:00": 753.969970703125,
+      "2024-05-13T18:30:00+00:00": 757.8800048828125,
+      "2024-05-13T19:30:00+00:00": 758.6599731445312
+    },
+    "sentiment": 0.9364302754402161
+  },
+  {
+    "title": "What Makes Viking Therapeutics An Attractive Takeover Target Or Big Pharma Partner",
+    "published": 1715492613,
+    "day_prices": {},
+    "sentiment": 0.9005963206291199
+  },
+  {
+    "title": "1 No-Brainer Growth Stock to Buy and Hold",
+    "published": 1715431500,
+    "day_prices": {},
+    "sentiment": 0.8414295315742493
+  },
+  {
+    "title": "Lilly could partner with Cipla to market GLP-1 drugs in India - report",
+    "published": 1715342820,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 774.02001953125,
+      "2024-05-10T14:30:00+00:00": 766.1199951171875,
+      "2024-05-10T15:30:00+00:00": 767.1799926757812,
+      "2024-05-10T16:30:00+00:00": 764.3883056640625,
+      "2024-05-10T17:30:00+00:00": 763.9299926757812,
+      "2024-05-10T18:30:00+00:00": 763.5599975585938,
+      "2024-05-10T19:30:00+00:00": 761.8699951171875
+    },
+    "sentiment": 0.6695331335067749
+  },
+  {
+    "title": "How A Top Fund Beats The Market By Owning Future Leaders",
+    "published": 1715338801,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 774.02001953125,
+      "2024-05-10T14:30:00+00:00": 766.1199951171875,
+      "2024-05-10T15:30:00+00:00": 767.1799926757812,
+      "2024-05-10T16:30:00+00:00": 764.3883056640625,
+      "2024-05-10T17:30:00+00:00": 763.9299926757812,
+      "2024-05-10T18:30:00+00:00": 763.5599975585938,
+      "2024-05-10T19:30:00+00:00": 761.8699951171875
+    },
+    "sentiment": 0.9112653732299805
+  },
+  {
+    "title": "UPDATE 2-India's Cipla open to partnering with Eli Lilly to market their obesity drugs, CEO says",
+    "published": 1715332858,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 774.02001953125,
+      "2024-05-10T14:30:00+00:00": 766.1199951171875,
+      "2024-05-10T15:30:00+00:00": 767.1799926757812,
+      "2024-05-10T16:30:00+00:00": 764.3883056640625,
+      "2024-05-10T17:30:00+00:00": 763.9299926757812,
+      "2024-05-10T18:30:00+00:00": 763.5599975585938,
+      "2024-05-10T19:30:00+00:00": 761.8699951171875
+    },
+    "sentiment": 0.7344162464141846
+  },
+  {
+    "title": "Cipla Wants to Partner with Eli Lilly (NYSE:LLY) in India",
+    "published": 1715314200,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 774.02001953125,
+      "2024-05-10T14:30:00+00:00": 766.1199951171875,
+      "2024-05-10T15:30:00+00:00": 767.1799926757812,
+      "2024-05-10T16:30:00+00:00": 764.3883056640625,
+      "2024-05-10T17:30:00+00:00": 763.9299926757812,
+      "2024-05-10T18:30:00+00:00": 763.5599975585938,
+      "2024-05-10T19:30:00+00:00": 761.8699951171875
+    },
+    "sentiment": 0.7827723622322083
+  },
+  {
+    "title": "Can Weight Loss Companies Fuel Gains In Your Stock Portfolio?",
+    "published": 1715257980,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 777.0,
+      "2024-05-09T14:30:00+00:00": 774.27001953125,
+      "2024-05-09T15:30:00+00:00": 774.2999877929688,
+      "2024-05-09T16:30:00+00:00": 772.8200073242188,
+      "2024-05-09T17:30:00+00:00": 774.760009765625,
+      "2024-05-09T18:30:00+00:00": 775.0999755859375,
+      "2024-05-09T19:30:00+00:00": 773.6599731445312
+    },
+    "sentiment": 0.8455125093460083
+  },
+  {
+    "title": "Novo Nordisk, Flagship to develop next-generation obesity drugs",
+    "published": 1715257740,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 777.0,
+      "2024-05-09T14:30:00+00:00": 774.27001953125,
+      "2024-05-09T15:30:00+00:00": 774.2999877929688,
+      "2024-05-09T16:30:00+00:00": 772.8200073242188,
+      "2024-05-09T17:30:00+00:00": 774.760009765625,
+      "2024-05-09T18:30:00+00:00": 775.0999755859375,
+      "2024-05-09T19:30:00+00:00": 773.6599731445312
+    },
+    "sentiment": 0.6776003241539001
+  },
+  {
+    "title": "Lilly next-generation diabetes drug mazdutide meets primary goal in phase 3 trial",
+    "published": 1715254920,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 777.0,
+      "2024-05-09T14:30:00+00:00": 774.27001953125,
+      "2024-05-09T15:30:00+00:00": 774.2999877929688,
+      "2024-05-09T16:30:00+00:00": 772.8200073242188,
+      "2024-05-09T17:30:00+00:00": 774.760009765625,
+      "2024-05-09T18:30:00+00:00": 775.0999755859375,
+      "2024-05-09T19:30:00+00:00": 773.6599731445312
+    },
+    "sentiment": 0.8551706075668335
+  },
+  {
+    "title": "7 Weight Loss Drug Stocks Poised for Explosive Growth by 2025",
+    "published": 1715247360,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 777.0,
+      "2024-05-09T14:30:00+00:00": 774.27001953125,
+      "2024-05-09T15:30:00+00:00": 774.2999877929688,
+      "2024-05-09T16:30:00+00:00": 772.8200073242188,
+      "2024-05-09T17:30:00+00:00": 774.760009765625,
+      "2024-05-09T18:30:00+00:00": 775.0999755859375,
+      "2024-05-09T19:30:00+00:00": 773.6599731445312
+    },
+    "sentiment": 0.8605073094367981
+  },
+  {
+    "title": "Stanley Druckenmiller's Strategic Acquisition of Daktronics Inc Shares",
+    "published": 1715230980,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 777.0,
+      "2024-05-09T14:30:00+00:00": 774.27001953125,
+      "2024-05-09T15:30:00+00:00": 774.2999877929688,
+      "2024-05-09T16:30:00+00:00": 772.8200073242188,
+      "2024-05-09T17:30:00+00:00": 774.760009765625,
+      "2024-05-09T18:30:00+00:00": 775.0999755859375,
+      "2024-05-09T19:30:00+00:00": 773.6599731445312
+    },
+    "sentiment": 0.9163651466369629
+  },
+  {
+    "title": "Google DeepMind Develops Latest AI Model To Aid Scientists In Fighting Disease",
+    "published": 1715134980,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 779.0999755859375,
+      "2024-05-08T14:30:00+00:00": 775.6649780273438,
+      "2024-05-08T15:30:00+00:00": 774.9000244140625,
+      "2024-05-08T16:30:00+00:00": 775.47998046875,
+      "2024-05-08T17:30:00+00:00": 776.7999877929688,
+      "2024-05-08T18:30:00+00:00": 775.3699951171875,
+      "2024-05-08T19:30:00+00:00": 775.6799926757812
+    },
+    "sentiment": 0.6098480224609375
+  },
+  {
+    "title": "8 Health Care Stocks Whale Activity In Today's Session",
+    "published": 1716467940,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 810.0,
+      "2024-05-23T14:30:00+00:00": 809.1300048828125,
+      "2024-05-23T15:30:00+00:00": 811.97998046875,
+      "2024-05-23T16:30:00+00:00": 817.4550170898438,
+      "2024-05-23T17:30:00+00:00": 814.1300048828125,
+      "2024-05-23T18:30:00+00:00": 803.3599853515625,
+      "2024-05-23T19:30:00+00:00": 806.0900268554688
+    },
+    "sentiment": 0.7666309475898743
+  },
+  {
+    "title": "3 Blue Chip Stocks That You Can Buy and Hold for Years",
+    "published": 1716465900,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 810.0,
+      "2024-05-23T14:30:00+00:00": 809.1300048828125,
+      "2024-05-23T15:30:00+00:00": 811.97998046875,
+      "2024-05-23T16:30:00+00:00": 817.4550170898438,
+      "2024-05-23T17:30:00+00:00": 814.1300048828125,
+      "2024-05-23T18:30:00+00:00": 803.3599853515625,
+      "2024-05-23T19:30:00+00:00": 806.0900268554688
+    },
+    "sentiment": 0.9219059944152832
+  },
+  {
+    "title": "Analysts\u2019 Top Healthcare Picks: Silk Road Medical (SILK), Eli Lilly & Co (LLY)",
+    "published": 1716451440,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 810.0,
+      "2024-05-23T14:30:00+00:00": 809.1300048828125,
+      "2024-05-23T15:30:00+00:00": 811.97998046875,
+      "2024-05-23T16:30:00+00:00": 817.4550170898438,
+      "2024-05-23T17:30:00+00:00": 814.1300048828125,
+      "2024-05-23T18:30:00+00:00": 803.3599853515625,
+      "2024-05-23T19:30:00+00:00": 806.0900268554688
+    },
+    "sentiment": 0.5106469988822937
+  },
+  {
+    "title": "Move Over Ozempic! 3 New GLP-1 Drugs and Products Coming Soon.",
+    "published": 1716443520,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 810.0,
+      "2024-05-23T14:30:00+00:00": 809.1300048828125,
+      "2024-05-23T15:30:00+00:00": 811.97998046875,
+      "2024-05-23T16:30:00+00:00": 817.4550170898438,
+      "2024-05-23T17:30:00+00:00": 814.1300048828125,
+      "2024-05-23T18:30:00+00:00": 803.3599853515625,
+      "2024-05-23T19:30:00+00:00": 806.0900268554688
+    },
+    "sentiment": 0.6933510899543762
+  },
+  {
+    "title": "SA Asks: Is Eli Lilly or Novo Nordisk a better investment?",
+    "published": 1716426540,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 810.0,
+      "2024-05-23T14:30:00+00:00": 809.1300048828125,
+      "2024-05-23T15:30:00+00:00": 811.97998046875,
+      "2024-05-23T16:30:00+00:00": 817.4550170898438,
+      "2024-05-23T17:30:00+00:00": 814.1300048828125,
+      "2024-05-23T18:30:00+00:00": 803.3599853515625,
+      "2024-05-23T19:30:00+00:00": 806.0900268554688
+    },
+    "sentiment": 0.8848584890365601
+  },
+  {
+    "title": "Is Eli Lilly and Company the Largest Publicly Traded Healthcare Company?",
+    "published": 1716412929,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.928691565990448
+  },
+  {
+    "title": "Hims & Hers Is Selling Copycat Weight-Loss Drugs. Here\u2019s How.",
+    "published": 1716401880,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.9436211585998535
+  },
+  {
+    "title": "Lilly (LLY) Hits Record High on Crohn's Disease Study Data",
+    "published": 1716398160,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.9220848679542542
+  },
+  {
+    "title": "Play These New ETFs to Tap Lucrative Weight Loss Drug Market",
+    "published": 1716381480,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.747688889503479
+  },
+  {
+    "title": "Weight-Loss Upstart Viking Needs a Deal to Vie With Lilly and\u00a0Novo",
+    "published": 1716376033,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.6775841116905212
+  },
+  {
+    "title": "The 500 Top Stocks to Buy in May, According to AI",
+    "published": 1716372900,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.9145966172218323
+  },
+  {
+    "title": "Eli Lilly\u2019s mirikizumab shows promise in Phase III Crohn\u2019s disease trial",
+    "published": 1716366123,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 801.0,
+      "2024-05-22T14:30:00+00:00": 801.4600219726562,
+      "2024-05-22T15:30:00+00:00": 798.2199096679688,
+      "2024-05-22T16:30:00+00:00": 800.1099853515625,
+      "2024-05-22T17:30:00+00:00": 800.530029296875,
+      "2024-05-22T18:30:00+00:00": 798.010009765625,
+      "2024-05-22T19:30:00+00:00": 802.4299926757812
+    },
+    "sentiment": 0.9267282485961914
+  },
+  {
+    "title": "Dow Jones Futures: Nasdaq Hits High, Eli Lilly Breaks Out, But Here Comes Nvidia",
+    "published": 1716326195,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.7880446910858154
+  },
+  {
+    "title": "IBD Stock Of The Day Eli Lilly Breaks Out On Its Way To A Record High",
+    "published": 1716324143,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.8356269001960754
+  },
+  {
+    "title": "Lilly partners with Aktis, deepening radiopharma investment",
+    "published": 1716298740,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.7446393370628357
+  },
+  {
+    "title": "More than one-half of patients with Crohn's disease treated with Lilly's mirikizumab achieved clinical remission at one year, including patients with previous biologic failure",
+    "published": 1716292800,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.5068997144699097
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1716289260,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9132178425788879
+  },
+  {
+    "title": "Eli Lilly: conclusive trial in Crohn's disease",
+    "published": 1716288506,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.8491462469100952
+  },
+  {
+    "title": "Roundhill Investment launches GLP-1 & Weight Loss ETF",
+    "published": 1716283920,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9234378337860107
+  },
+  {
+    "title": "Early notable gainers among liquid option names on May 21st",
+    "published": 1716281700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9036432504653931
+  },
+  {
+    "title": "7 Reliable Blue-Chip Stocks That Cannot Miss",
+    "published": 1716281100,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.7943859100341797
+  },
+  {
+    "title": "Microcap Mangoceuticals doubles on plan to sell cheap oral GLP-1 weight loss meds",
+    "published": 1716280020,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.7297838926315308
+  },
+  {
+    "title": "Tesla's Fall From Grace: Down 55% From Its Peak",
+    "published": 1716278760,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9744497537612915
+  },
+  {
+    "title": "Eli Lilly & Co.: A Strong Buy on Robust Pipeline and Financial Health",
+    "published": 1716275220,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9482333660125732
+  },
+  {
+    "title": "3 S&P 500 Stocks to Buy in May Before They Rocket Higher",
+    "published": 1716272700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.8815874457359314
+  },
+  {
+    "title": "JPM lists stocks with the least price swings, most attractive option-sale candidates",
+    "published": 1716263280,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.8605014681816101
+  },
+  {
+    "title": "What You Missed On Wall Street On Tuesday",
+    "published": 1716261420,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9196014404296875
+  },
+  {
+    "title": "3 Growth Stocks That Could Be Millionaire-Makers: May Edition",
+    "published": 1716255660,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.9056153297424316
+  },
+  {
+    "title": "Weight Loss Drugs Like Wegvoy and Zepbound Users - Nestl\u00e9 Launches $5 Pizza For You",
+    "published": 1716254820,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 792.4600219726562,
+      "2024-05-21T14:30:00+00:00": 804.5700073242188,
+      "2024-05-21T15:30:00+00:00": 804.0,
+      "2024-05-21T16:30:00+00:00": 804.7899780273438,
+      "2024-05-21T17:30:00+00:00": 804.97998046875,
+      "2024-05-21T18:30:00+00:00": 803.0,
+      "2024-05-21T19:30:00+00:00": 804.9384155273438
+    },
+    "sentiment": 0.77446448802948
+  },
+  {
+    "title": "Magnificent Seven? Just Two Members Clear This Bar",
+    "published": 1716214258,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 767.77001953125,
+      "2024-05-20T14:30:00+00:00": 780.3499755859375,
+      "2024-05-20T15:30:00+00:00": 782.2987060546875,
+      "2024-05-20T16:30:00+00:00": 780.5,
+      "2024-05-20T17:30:00+00:00": 781.3800048828125,
+      "2024-05-20T18:30:00+00:00": 781.864990234375,
+      "2024-05-20T19:30:00+00:00": 782.280029296875
+    },
+    "sentiment": 0.9331827163696289
+  },
+  {
+    "title": "Here's How Much $100 Invested In Eli Lilly and Co 5 Years Ago Would Be Worth Today",
+    "published": 1716208320,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 767.77001953125,
+      "2024-05-20T14:30:00+00:00": 780.3499755859375,
+      "2024-05-20T15:30:00+00:00": 782.2987060546875,
+      "2024-05-20T16:30:00+00:00": 780.5,
+      "2024-05-20T17:30:00+00:00": 781.3800048828125,
+      "2024-05-20T18:30:00+00:00": 781.864990234375,
+      "2024-05-20T19:30:00+00:00": 782.280029296875
+    },
+    "sentiment": 0.9431244134902954
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Stocks recently featured in the blog include: Novo Nordisk, Eli Lilly's, Viking, Altimmune, Roche and Amgen",
+    "published": 1716201720,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 767.77001953125,
+      "2024-05-20T14:30:00+00:00": 780.3499755859375,
+      "2024-05-20T15:30:00+00:00": 782.2987060546875,
+      "2024-05-20T16:30:00+00:00": 780.5,
+      "2024-05-20T17:30:00+00:00": 781.3800048828125,
+      "2024-05-20T18:30:00+00:00": 781.864990234375,
+      "2024-05-20T19:30:00+00:00": 782.280029296875
+    },
+    "sentiment": 0.9492669105529785
+  },
+  {
+    "title": "Jefferies healthcare analysts hold an analyst/industry conference call",
+    "published": 1716199500,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 767.77001953125,
+      "2024-05-20T14:30:00+00:00": 780.3499755859375,
+      "2024-05-20T15:30:00+00:00": 782.2987060546875,
+      "2024-05-20T16:30:00+00:00": 780.5,
+      "2024-05-20T17:30:00+00:00": 781.3800048828125,
+      "2024-05-20T18:30:00+00:00": 781.864990234375,
+      "2024-05-20T19:30:00+00:00": 782.280029296875
+    },
+    "sentiment": 0.9330947995185852
+  },
+  {
+    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Johnson & Johnson (JNJ), Eli Lilly & Co (LLY) and Coherus Biosciences (CHRS)",
+    "published": 1716181380,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 767.77001953125,
+      "2024-05-20T14:30:00+00:00": 780.3499755859375,
+      "2024-05-20T15:30:00+00:00": 782.2987060546875,
+      "2024-05-20T16:30:00+00:00": 780.5,
+      "2024-05-20T17:30:00+00:00": 781.3800048828125,
+      "2024-05-20T18:30:00+00:00": 781.864990234375,
+      "2024-05-20T19:30:00+00:00": 782.280029296875
+    },
+    "sentiment": 0.8155579566955566
+  },
+  {
+    "title": "VONG: Large-Cap Growth Breaks To New Highs, Bulls Defend Key Support",
+    "published": 1716120240,
+    "day_prices": {},
+    "sentiment": 0.9177550673484802
+  },
+  {
+    "title": "SA Roundtable: Are Eli Lilly and Novo Nordisk overvalued?",
+    "published": 1716084420,
+    "day_prices": {},
+    "sentiment": 0.8515270948410034
+  },
+  {
+    "title": "Novo Nordisk, J&J lead R&D rankings in big pharma: report",
+    "published": 1715997240,
+    "day_prices": {},
+    "sentiment": 0.8400076031684875
+  },
+  {
+    "title": "Eli Lilly's (LLY) Efsitora Matches Daily Insulins in A1C Control",
+    "published": 1715961420,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 772.8900146484375,
+      "2024-05-17T14:30:00+00:00": 769.4149780273438,
+      "2024-05-17T15:30:00+00:00": 770.6300048828125,
+      "2024-05-17T16:30:00+00:00": 769.3499755859375,
+      "2024-05-17T17:30:00+00:00": 770.75,
+      "2024-05-17T18:30:00+00:00": 770.260009765625,
+      "2024-05-17T19:30:00+00:00": 772.0499877929688
+    },
+    "sentiment": 0.8548307418823242
+  },
+  {
+    "title": "4 Stocks That Could Break Novo Nordisk, Lilly's Obesity Duopoly",
+    "published": 1715954640,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 772.8900146484375,
+      "2024-05-17T14:30:00+00:00": 769.4149780273438,
+      "2024-05-17T15:30:00+00:00": 770.6300048828125,
+      "2024-05-17T16:30:00+00:00": 769.3499755859375,
+      "2024-05-17T17:30:00+00:00": 770.75,
+      "2024-05-17T18:30:00+00:00": 770.260009765625,
+      "2024-05-17T19:30:00+00:00": 772.0499877929688
+    },
+    "sentiment": 0.5076705813407898
+  },
+  {
+    "title": "Meet the GLP-1 Drug That Could Be the Biggest Concern for Eli Lilly and Novo Nordisk",
+    "published": 1715948640,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 772.8900146484375,
+      "2024-05-17T14:30:00+00:00": 769.4149780273438,
+      "2024-05-17T15:30:00+00:00": 770.6300048828125,
+      "2024-05-17T16:30:00+00:00": 769.3499755859375,
+      "2024-05-17T17:30:00+00:00": 770.75,
+      "2024-05-17T18:30:00+00:00": 770.260009765625,
+      "2024-05-17T19:30:00+00:00": 772.0499877929688
+    },
+    "sentiment": 0.845240592956543
+  },
+  {
+    "title": "Zacks Investment Ideas feature highlights: Apple, Eli Lilly and Crocs",
+    "published": 1715938320,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 772.8900146484375,
+      "2024-05-17T14:30:00+00:00": 769.4149780273438,
+      "2024-05-17T15:30:00+00:00": 770.6300048828125,
+      "2024-05-17T16:30:00+00:00": 769.3499755859375,
+      "2024-05-17T17:30:00+00:00": 770.75,
+      "2024-05-17T18:30:00+00:00": 770.260009765625,
+      "2024-05-17T19:30:00+00:00": 772.0499877929688
+    },
+    "sentiment": 0.9394036531448364
+  },
+  {
+    "title": "EXCLUSIVE: GameStop, AMC Buzz 'May Prove To Be Short-Lived,' CEO Of Company Behind MEME ETF Tells Benzinga",
+    "published": 1715911680,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 772.8900146484375,
+      "2024-05-17T14:30:00+00:00": 769.4149780273438,
+      "2024-05-17T15:30:00+00:00": 770.6300048828125,
+      "2024-05-17T16:30:00+00:00": 769.3499755859375,
+      "2024-05-17T17:30:00+00:00": 770.75,
+      "2024-05-17T18:30:00+00:00": 770.260009765625,
+      "2024-05-17T19:30:00+00:00": 772.0499877929688
+    },
+    "sentiment": 0.6405011415481567
+  },
+  {
+    "title": "Rally Rockets: 3 Stocks Benefitting From the Market\u2019s Unstoppable Surge",
+    "published": 1715910360,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 772.8900146484375,
+      "2024-05-17T14:30:00+00:00": 769.4149780273438,
+      "2024-05-17T15:30:00+00:00": 770.6300048828125,
+      "2024-05-17T16:30:00+00:00": 769.3499755859375,
+      "2024-05-17T17:30:00+00:00": 770.75,
+      "2024-05-17T18:30:00+00:00": 770.260009765625,
+      "2024-05-17T19:30:00+00:00": 772.0499877929688
+    },
+    "sentiment": 0.9332080483436584
+  },
+  {
+    "title": "3 Drug Stocks to Watch on Raised 2024 Earnings & Sales Guidance",
+    "published": 1715868780,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.9118829369544983
+  },
+  {
+    "title": "Roche (RHHBY) Posts Encouraging Phase I Obesity Drug Data",
+    "published": 1715867040,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.9444189667701721
+  },
+  {
+    "title": "Viking falls after Roche\u2019s obesity drug data",
+    "published": 1715863260,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.870008111000061
+  },
+  {
+    "title": "Dow Jones Futures Rise On Cisco, Walmart After Market Rally Hits Highs, Nvidia Breaks Out",
+    "published": 1715859092,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.4906105399131775
+  },
+  {
+    "title": "Analysts Offer Insights on Healthcare Companies: Eli Lilly & Co (LLY), Arvinas Holding Company (ARVN) and Progyny (PGNY)",
+    "published": 1715859660,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.928029477596283
+  },
+  {
+    "title": "UPDATE 2-Lilly's weekly insulin as effective as daily doses in studies",
+    "published": 1715857421,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.8274716734886169
+  },
+  {
+    "title": "With Once-a-Week Dosing, Insulin Efsitora Alfa Delivers A1C Reduction and Safety Profile Consistent with Daily Insulin",
+    "published": 1715856300,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.9223193526268005
+  },
+  {
+    "title": "Novo Nordisk falls on reports of fire at construction site (update)",
+    "published": 1715851980,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.9109832644462585
+  },
+  {
+    "title": "Novo Nordisk falls on reports of fire at construction site",
+    "published": 1715848260,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.9578456282615662
+  },
+  {
+    "title": "Eli Lilly Says Once-Weekly Insulin Meets Key Goal in Two Studies",
+    "published": 1715844944,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.535841703414917
+  },
+  {
+    "title": "Eli Lilly, Totus enter multi-target research collaboration",
+    "published": 1715843580,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.8435057401657104
+  },
+  {
+    "title": "7 Pharma Stocks Harnessing AI Brainpower for Big Breakthroughs",
+    "published": 1715840460,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.5881009101867676
+  },
+  {
+    "title": "Eli Lilly announces QWINT-2, QWINT-4 meet primary endpoints",
+    "published": 1715838840,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.8672716617584229
+  },
+  {
+    "title": "Viking falls after Roche\u2019s obesity drug data; RayJay upgrades (update)",
+    "published": 1715823900,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 784.7100219726562,
+      "2024-05-16T14:30:00+00:00": 778.27001953125,
+      "2024-05-16T15:30:00+00:00": 775.1900024414062,
+      "2024-05-16T16:30:00+00:00": 776.3300170898438,
+      "2024-05-16T17:30:00+00:00": 775.8300170898438,
+      "2024-05-16T18:30:00+00:00": 774.4000244140625,
+      "2024-05-16T19:30:00+00:00": 774.4000244140625
+    },
+    "sentiment": 0.7845668792724609
   }
 ]

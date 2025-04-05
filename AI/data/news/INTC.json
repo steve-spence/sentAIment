@@ -1,3166 +1,2336 @@
 [
   {
-    "title": "Why the Market Dipped But Intel (INTC) Gained Today",
-    "published": 1713217521,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel Has Slumped This Year. Why One Analyst Sees a Rebound Ahead.",
-    "published": 1713192300,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Jim Cramer is Recommending These 10 Stocks in April",
-    "published": 1713192174,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Company News for Apr 15, 2024",
-    "published": 1713187680,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "China's Purported Chip Agenda: Trouble Brewing for INTC & AMD?",
-    "published": 1713183240,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "The Best Stocks to Invest $50,000 In Right Now",
-    "published": 1713176100,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Goldman Sachs, Intel share gains lead Dow's 100-point jump",
-    "published": 1713175140,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "2 Hypergrowth Tech Stocks to Buy in 2024 and Beyond",
-    "published": 1713172740,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Samsung Electronics Gets $6.4 Billion for Texas Chip Plants",
-    "published": 1713171600,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "3 Top Artificial Intelligence (AI) ETFs That Are Hiding in Plain Sight",
-    "published": 1713170580,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "AI Tiers And Taking Profits In Tech With Joe Albano, Tech Cache",
-    "published": 1713169800,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel Just Revealed Why It Can't Split From Its Manufacturing Model and Why the Stock Is a Hold at Best",
-    "published": 1713168600,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Microsoft or Intel: Morgan Stanley Selects the Superior Tech Stock to Buy",
-    "published": 1713167160,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Semiconductors likely to offer up 'muted' earnings season: Citi (update)",
-    "published": 1713163260,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "TOP NEWS: Samsung receives billions in support for US chip factory",
-    "published": 1713163020,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Top 3 Tech Stocks That May Explode This Month",
-    "published": 1713160500,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Escalating Conflict In The Middle East Is Forcing Investors To Shift Funds To Safe Assets",
-    "published": 1713159000,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Citi cuts Intel target, opens 'positive catalyst watch'",
-    "published": 1713158880,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Samsung gets $6.4B grant from U.S. to ramp up local chip production",
-    "published": 1713158700,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Biden administration agrees to provide $6.4 billion to Samsung for making computer chips in Texas",
-    "published": 1713157200,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Bank of America Weighs in on Intel Stock as Bulls and Bears Debate the Recent Restructuring",
-    "published": 1713156180,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel initiated with neutral view at Evercore ISI, here's why",
-    "published": 1713151380,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel (NASDAQ:INTC) Gets a Boost after Revealing New Processors",
-    "published": 1713146280,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "New Processor Reveals Give Intel (NASDAQ:INTC) a Boost",
-    "published": 1713144900,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Better AI Stock: Nvidia vs. Intel",
-    "published": 1713111540,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "1 Cheaply Valued Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before April 18",
-    "published": 1713107280,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "3 Top Semiconductor Stocks to Watch in This Stage of the AI Revolution",
-    "published": 1713090300,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",
-    "published": 1713078000,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "\u2018Don\u2019t Touch,\u2019 Says Top Analyst Hans Mosesmann About Intel Stock",
-    "published": 1713070620,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "\u2018It\u2019s Still Not Late to Sell,\u2019 Says Top Analyst Hans Mosesmann About Intel Stock",
-    "published": 1713059940,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Is Nvidia Stock a Buy?",
-    "published": 1713040020,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "3 Artificial Intelligence (AI) Stocks That Are Taking the Fight to Nvidia",
-    "published": 1713038400,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel Unveiled Its New Artificial Intelligence Chip -- Can It Compete With Nvidia?",
-    "published": 1713022200,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "2 Top Artificial Intelligence (AI) Growth Stocks to Buy Now",
-    "published": 1713019500,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel Insiders Placed Bullish Bets Worth US$3.50m",
-    "published": 1713006067,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Nvidia Stock Is Down 11% From Record Highs: Will This Artificial Intelligence (AI) Development Bring More Bad News for Investors?",
-    "published": 1712991900,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Wall Street Breakfast: What Moved Markets",
-    "published": 1712990543,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "Intel's foundry is 'fully dependent' on its design team. That's a red flag, BofA says.",
-    "published": 1712988240,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "7 Semiconductor Stocks to Turn $100,000 Into $1 Million: April 2024",
-    "published": 1712984580,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "UPDATE 1-US lawmakers angry after Huawei unveils laptop with new Intel AI chip",
-    "published": 1712973289,
-    "posting_price": 35.66794465,
-    "close_price": 35.93515778,
-    "percent_change": 0.74916885
-  },
-  {
-    "title": "US lawmakers angry after Huawei unveils laptop with new Intel AI chip",
-    "published": 1712966029,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Why C3.ai, Intel, Advanced Micro Devices, and Other Artificial Intelligence (AI) Stocks Slumped on Friday",
-    "published": 1712956879,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "PRESS: China eyes clamping down on foreign chip use in telecoms - WSJ",
-    "published": 1712939400,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Shares fall as banking and chip stocks slump",
-    "published": 1712938620,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Is Intel Stock Finally a Buy?",
-    "published": 1712938157,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China Tells Telecom Carriers to Phase Out Foreign Chips in Blow to Intel, AMD",
-    "published": 1712911860,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China aims to phase out foreign chips from telecom systems: WSJ",
-    "published": 1712930611,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Big Bank earnings, stock futures, Chinese chips: 3 Things",
-    "published": 1712927557,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Dow falls 466 points on losses in shares of JPMorgan Chase, Intel",
-    "published": 1712926740,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "JPMorgan Chase, Intel share losses contribute to Dow's 569-point fall",
-    "published": 1712926740,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Underestimated Giants: 7 Stocks Set to Take Wall Street by Storm",
-    "published": 1712923380,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Huawei continues its comeback from U.S. blacklist, unveiling a new laptop with a homegrown OS and AI\u2014and an Intel processor",
-    "published": 1712920245,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Intel, AMD Stocks Are Sliding. China Wants to Cut Their Chips Out of Telecoms Systems.",
-    "published": 1712919960,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1712919660,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Why Are Stocks Down Today?",
-    "published": 1712918520,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Citi Just Slashed Its Price Target on Tesla (TSLA) Stock",
-    "published": 1712917560,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "INTC Stock Alert: Intel Faces a China-Sized Blow",
-    "published": 1712916900,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "JP Morgan Kicks Off Earnings Season, Intel And AMD China Problem, Potential Iranian Attack",
-    "published": 1712916480,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Forget Nvidia: This Stock Is a No-Brainer Artificial Intelligence (AI) Buy Right Now",
-    "published": 1712915700,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Dow down 364 points on losses for shares of JPMorgan Chase, Intel",
-    "published": 1712915640,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Nvidia Stock Shakes Off Dip. Its AI Competition Is Ramping Up.",
-    "published": 1712915220,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Dow drops 217 points on losses for JPMorgan Chase, Intel stocks",
-    "published": 1712914620,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "ClearBridge Large Cap Value Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712913300,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China tells telecom firms to phase out foreign chips in blow to Intel, AMD - WSJ",
-    "published": 1712912605,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "GOP Lawmakers Slam Biden After Trump-Era Exemption Results In Huawei Unveiling Laptop With New Intel AI Chip",
-    "published": 1712912400,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Will Intel's New Artificial Intelligence (AI) Chip Send It Soaring Past Nvidia?",
-    "published": 1712912100,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China instructs telecom carriers to phase out foreign chips in setback for Intel, AMD : WSJ",
-    "published": 1712911860,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Intel seems to be losing share in PC and Server, says Cleveland Research",
-    "published": 1712911320,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Why Intel Stock is Not the Best Chip Stock to Buy in 2024",
-    "published": 1712911140,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Despite US-China Tensions, Beijing Remains Crucial Market For Nvidia, Intel And Other American Chipmakers: Report",
-    "published": 1712908800,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China Intends to Boot Out U.S. Chipmakers from Telecom Systems",
-    "published": 1712908680,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Fly Intel: Pre-market Movers",
-    "published": 1712908560,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Thales and Intel team up to protect Google Cloud ecosystem",
-    "published": 1712906700,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Wall Street Wobbles: Stock Futures Point To Slide As JPMorgan Tumbles 3% While Gold Surges Past $2,400 \u2014 Analyst Sees This As 'Worst-Case' Scenario For S&P 500 Pullback",
-    "published": 1712903580,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China tells telecom carriers to phase out foreign chips by 2027, WSJ reports",
-    "published": 1712901780,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Intel price target lowered by $6 at BofA, here's why",
-    "published": 1712900700,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Nvidia Stock (NASDAQ:NVDA): More Cyclical Than You\u2019d Think",
-    "published": 1712899960,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "China tells telecom carriers to phase out foreign chips in blow to Intel, AMD - WSJ",
-    "published": 1712897930,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Market Today: Semiconductor Stocks Tumble Amid China's Chip Replacement Directive",
-    "published": 1712896860,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Intel\u2019s Revised Valuation and Future Outlook Amidst Evolving Competitive Landscape",
-    "published": 1712895420,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "What You Missed On Wall Street On Friday",
-    "published": 1712892060,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Sunny Optical Technology (Group) Co (OtherSNPTF) and Intel (INTC)",
-    "published": 1712891520,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Intel, AMD lead chips lower on China worries; investors await earnings",
-    "published": 1712888340,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Unfixable Bug Hits Intel (NASDAQ:INTC) Server Lines",
-    "published": 1712886060,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "VIX Rockets 25% On Most Volatile Session In 2 Years; Oil Rises As Israel Braces For Iranian Attack: What's Driving Markets Friday?",
-    "published": 1712883840,
-    "posting_price": 36.31123268,
-    "close_price": 35.32155609,
-    "percent_change": -2.7255384
-  },
-  {
-    "title": "Meta and Google announce new in-house AI chips, creating a \u2018trillion-dollar question\u2019 for Nvidia",
-    "published": 1712863152,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Intel Vs. TSMC: 'Defense' Buy Of The Decade",
-    "published": 1712852303,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Nvidia Stock Gains. Why New Competition Isn\u2019t Hurting It Yet.",
-    "published": 1712843700,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Google Built Its Own Server CPU in Blow to Intel and AMD",
-    "published": 1712839200,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "3 Must-Buy Dow Stocks for an April Market Rally",
-    "published": 1712838000,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Intel's Options: A Look at What the Big Money is Thinking",
-    "published": 1712834340,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Intel Just Released Its New AI Chip: Time For Nvidia to Worry?",
-    "published": 1712833500,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "3 Tech Stocks With More Potential Than Any Cryptocurrency",
-    "published": 1712833200,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "INTC May 31st Options Begin Trading",
-    "published": 1712832660,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "See Which Of The Latest 13F Filers Holds Intel",
-    "published": 1712831040,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Should You Buy Nvidia or This High-Growth ETF?",
-    "published": 1712830800,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Here Are My Top Artificial Intelligence (AI) Stocks to Buy Now",
-    "published": 1712829900,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "3 Breakout Growth Stocks You Can Buy and Hold for the Next Decade",
-    "published": 1712829600,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Forget Nvidia: This Artificial Intelligence (AI) Stock Offers Stronger Growth Prospects",
-    "published": 1712829300,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "AMD, Intel slip as Citi says March notebook shipments 'well above' expectations",
-    "published": 1712817060,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Market Today: Tech and AI Innovations Propel Stocks Amid Mixed Financials",
-    "published": 1712810460,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Parnassus Value Equity Fund's Strategic Moves: Spotlight on Amdocs Ltd with a -1.7% Impact",
-    "published": 1712808120,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Intel (NASDAQ:INTC) Axes Chip Line, Shares Gain",
-    "published": 1712803260,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Magnificent 7 stocks all shift higher along with tech sector",
-    "published": 1712801400,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Magnificent 7 stocks all shift higher along with tech equity sector",
-    "published": 1712800980,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "If You Can Only Buy One Semiconductor Stock in April, It Better Be One of These 3 Names",
-    "published": 1712800140,
-    "posting_price": 37.0435953,
-    "close_price": 37.24153137,
-    "percent_change": 0.53433277
-  },
-  {
-    "title": "Intel: Foundry In America Matters",
-    "published": 1712785680,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Nvidia, IBD Stock Of The Day, Shakes Off AI Chip Competition",
-    "published": 1712766022,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Lockheed Partners with Intel to Make Microelectronics for Navy's MH-60R Helicopter in U.S.",
-    "published": 1712765199,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Apple, TSMC, Super Micro Computer, AMD, and Other Tech Stocks in Focus Today",
-    "published": 1712758800,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Is Trending Stock Intel Corporation (INTC) a Buy Now?",
-    "published": 1712754014,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "ClearBridge Appreciation Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712753700,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "10 Information Technology Stocks With Whale Alerts In Today's Session",
-    "published": 1712752620,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Intel Guns for Nvidia With Gaudi 3 AI Chip",
-    "published": 1712752200,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Nvidia Eyes Continued Leadership in $90B Accelerator Market, Despite Recent Dip: BofA Analyst",
-    "published": 1712751900,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Dow's 500-point fall led by losses for shares of Home Depot, Intel",
-    "published": 1712751240,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Dow Jones Futures Rise Ahead Of CPI Inflation; Nvidia Chipmaker's Sales Jump On AI Boom",
-    "published": 1712750937,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Meta reveals its latest custom-made chips for AI workloads",
-    "published": 1712746500,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Intel (INTC) Launches Innovative Open Scalable AI Solutions",
-    "published": 1712746080,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Fed\u2019s Inflation Divide Is an Issue for Markets, Why Data Dependence Is Puzzling. And 5 Other Things to Know Before Markets Open.",
-    "published": 1712745420,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Meta unveils second generation AI chip, Barron's reports",
-    "published": 1712744640,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Prediction: This 1 Move Could be a Game-Changer for Intel",
-    "published": 1712742000,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Nvidia Stock\u2019s Roller Coaster: Buckle Up for Short-Term Bumps, Long-Term Thrills",
-    "published": 1712738220,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Intel: collaboration with Infosys extended to generative AI",
-    "published": 1712737701,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Notable open interest changes for April 10th",
-    "published": 1712735760,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Nvidia pause 'refreshing,' 'don't sweat' competitive noise, says BofA",
-    "published": 1712734080,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Wall Street Breakfast Podcast: Intel Unveils New AI Chip, Setting Up Race With Nvidia",
-    "published": 1712731826,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "'Don't sweat': Nvidia's recent slide is a 'refreshing noise,' BofA says",
-    "published": 1712731500,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Mobileye Announces Timing of its First Quarter 2024 Results",
-    "published": 1712730600,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Infosys Topaz and Intel Collaborate to Accelerate Enterprise Growth and Efficiency with Generative AI",
-    "published": 1712729640,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Infosys, Intel expand collaboration to accelerate generative AI",
-    "published": 1712726340,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Nvidia doesn\u2019t have a monopoly in AI \u2014 though it sure seems that way",
-    "published": 1712726160,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Chip Manufacturing in the Spotlight: TSMC and Intel News",
-    "published": 1712725688,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Nvidia Shares Drop 5% Amid New AI Chip Rivals",
-    "published": 1712725320,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Artificial increase? AI darling Nvidia enters correction territory",
-    "published": 1712724900,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Market Today: Stock Market Dips as CPI Surprise Heightens Rate Hike Fears",
-    "published": 1712724420,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Market Today: Intel Launches AI Chip to Challenge Nvidia, Financial Sector Weighs Ahead of Earnings",
-    "published": 1712724060,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Market Briefing For Wednesday, April 10",
-    "published": 1712722140,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Home Depot, Intel share losses lead Dow's 413-point drop",
-    "published": 1712720100,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "#SocialStocks: Meta introduces new AI chip and downplays impact on elections",
-    "published": 1712717820,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Dow Jones Futures: Stock Market Awaits CPI Inflation; Tesla Rises As Nvidia Falls On Rival AI Chips",
-    "published": 1712697597,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Home Depot, Intel share losses contribute to Dow's 512-point drop",
-    "published": 1712714040,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Jim Cramer Wants You To Sell Your Nvidia Stock... So He Can Buy It",
-    "published": 1712713260,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Vietnam's Viettel to develop semiconductor industry, prime minister says",
-    "published": 1712711883,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "20 Most Used Artificial Intelligence (AI) Platforms of 2024",
-    "published": 1712710615,
-    "posting_price": 37.62750201,
-    "close_price": 36.81596756,
-    "percent_change": -2.15675877
-  },
-  {
-    "title": "Google is building its own AI chips\u2014and it\u2019s a warning shot at Nvidia and Intel",
-    "published": 1712695665,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Google 'has a lot to prove' with chip announcement: Strategist",
-    "published": 1712694642,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel : and Ubisoft Collaborate on Star Wars Outlaws",
-    "published": 1712682908,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Stocks mixed in choppy trade ahead of CPI data",
-    "published": 1712679300,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel Unveils New AI Accelerator in Bid to Challenge Nvidia",
-    "published": 1712678565,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel reveals details of new AI chip to fight Nvidia dominance",
-    "published": 1712677142,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel Says New Gaudi 3 AI Chips Top Nvidia H100s in Speed and Cost",
-    "published": 1712676900,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel Unleashes Enterprise AI with Gaudi 3, AI Open Systems Strategy and New Customer Wins",
-    "published": 1712676900,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel launches new artificial intelligence chip in bid to rival Nvidia",
-    "published": 1712675400,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel Investors\u2019 Pessimism Over Turnaround Wipes Out $27 Billion of Value",
-    "published": 1712671823,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "10 Information Technology Stocks Whale Activity In Today's Session",
-    "published": 1712666400,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Cohesity Brings Intel's Confidential Computing Capabilities to Cohesity Data Cloud",
-    "published": 1712663711,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel unveils Gaudi 3 AI accelerator, setting up race with Nvidia",
-    "published": 1712663640,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel : Unleashing GenAI with Gaudi 3, Open Systems",
-    "published": 1712662873,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel : Tackles the GenAI Gap with Gaudi 3",
-    "published": 1712662871,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Press Kit: Intel Vision 2024",
-    "published": 1712662869,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "TSMC: Don't Be Ruined By Over-Optimism (Downgrade)",
-    "published": 1712662200,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "3 Stocks That Can Help You Get Richer in 2024",
-    "published": 1712661300,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Nvidia or Intel: Top Analyst C.J. Muse Chooses the Elite Chip Stock to Buy Ahead of Earnings",
-    "published": 1712660880,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Institutional investors may overlook Intel Corporation's (NASDAQ:INTC) recent US$28b market cap drop as long-term gains remain positive",
-    "published": 1712660424,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Concurrent Technologies launches VME single board computer Rhea",
-    "published": 1712659020,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Super Micro Boosts Edge Computing with New Intel-Powered IoT and Embedded Systems",
-    "published": 1712658240,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "It's Time to Buy Intel Stock Hand Over Fist",
-    "published": 1712658000,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Alphabet (GOOG) Advances with In-House Chip Production, Eyeing AI Market",
-    "published": 1712657700,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel : Vision 2024 Keynote (Livestream)",
-    "published": 1712655672,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Bull Market Bonanza: 3 Stocks Set to Skyrocket in the Next Bull Run",
-    "published": 1712652360,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Morning Brew: Tech Giants Lead Market Movements Amidst Earnings Announcements",
-    "published": 1712651220,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "AMD focus on MI300X upside, Wells Fargo says; Intel focus on 18A, Gaudi ramp",
-    "published": 1712650860,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "1 Artificial Intelligence (AI) Stock That Could Make You a Millionaire",
-    "published": 1712649900,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Micron could get $5B in CHIPs Act funding, Citi says",
-    "published": 1712648700,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Google unveils in-house Axion chips to cut AI costs, reliance on Nvidia, others: report",
-    "published": 1712647020,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Asian Markets Trend Upwards Amid Anticipation for Inflation Data and Federal Reserve's Next Move",
-    "published": 1712643480,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Warning! Don\u2019t Get Weighed Down by AMD Stock\u2019s Heavy Valuation.",
-    "published": 1712639640,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Intel (INTC), Gitlab (GTLB) and Advanced Micro Devices (AMD)",
-    "published": 1712638260,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Microsoft Set to Unveil Qualcomm-Powered AI PCs, Aiming to Surpass Apple's MacBook Air",
-    "published": 1712638080,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Wells Fargo Sticks to Its Hold Rating for Intel (INTC)",
-    "published": 1712637960,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Three Semiconductor Stocks Blessed By The U.S. CHIPS Act",
-    "published": 1712636400,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "South Korea mulls $7B investment in AI chip manufacturing - report",
-    "published": 1712634300,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Intel (INTC), Fortinet (FTNT) and Apple (AAPL)",
-    "published": 1712629980,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Samsung to get $6B chip subsidy next week to boost U.S. production - report",
-    "published": 1712629920,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Better Artificial Intelligence (AI) Stock: Qualcomm vs. Intel",
-    "published": 1712622600,
-    "posting_price": 37.65719129,
-    "close_price": 37.93430328,
-    "percent_change": 0.73588067
-  },
-  {
-    "title": "Intel (INTC) Declines More Than Market: Some Information for Investors",
-    "published": 1712612722,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Buy Boeing. Washington Won't Let It Crash",
-    "published": 1712610392,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel : Altera Bring AI to Embedded World",
-    "published": 1712603167,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "1 Wall Street Analyst Thinks Arm Holdings Stock Is Going to $135. Is It a Buy?",
-    "published": 1712601462,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Understanding Intel's Foundry Situation",
-    "published": 1712593835,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel: A Huge Chunk Of Revenue At Risk",
-    "published": 1712592446,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Uncle Sam is beginning to dole out $52 billion in CHIPS Act grants\u2014and the payouts could change the relationship between the government and business for years to come",
-    "published": 1712588400,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Nvidia's Technical Road To $1,165",
-    "published": 1712587803,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "TSMC to receive $6.6B in grants from Biden administration",
-    "published": 1712586361,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "TSMC Gets $11.6 Billion in US Grants, Loans for Chip Plants",
-    "published": 1712573719,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "If You Can Only Buy One S&P 500 Stock in April, It Better Be One of These 3 Names",
-    "published": 1712581080,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "R2 Semiconductor files patent case against Intel and its customers in France",
-    "published": 1712572920,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "AMD Advances Open Source Initiative with MES Firmware Release for Radeon GPUs",
-    "published": 1712570400,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Applied Materials replaces GlobalFoundries in Cantor's top 5 list ahead of earnings season",
-    "published": 1712569500,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "TSMC gets $6.6 billion in chipmaking cash from Biden while pledging to build a third Arizona plant",
-    "published": 1712566826,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "R2 Semiconductor Files New Patent Infringement Lawsuit Against Intel In France",
-    "published": 1712566800,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
-    "published": 1712565900,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel, Dell and HP face lawsuit in France as fight with Third Point continues",
-    "published": 1712565840,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Nvidia, Micron, Qualcomm in focus as KeyBanc boosts estimates on China, AI hopes",
-    "published": 1712562960,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Ahead Of Chip Earnings, Analyst Turns More Bullish On Nvidia And These Semiconductor Stocks On Robust AI Demand",
-    "published": 1712561460,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "US Embargo On Nvidia Stings Hard, China's AI Development Lags Peers: Alibaba's Joe Tsai Reveals",
-    "published": 1712559600,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel price target lowered by $5 at Cantor Fitzgerald, here's why",
-    "published": 1712554500,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "SMCI Spotlight: Why Super Micro Stock Still Has Plenty Left in the Tank",
-    "published": 1712553840,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Biden lands another chip investment, bringing total to USD65 billion",
-    "published": 1712553060,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Taiwan Semiconductor gets up to $11.6B in US grants, loans to boost local chip manufacturing",
-    "published": 1712552940,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "3 Stocks to Load Up On When Others Are Selling",
-    "published": 1712547300,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Tyler Technologies (TYL), Intel (INTC) and BlackBerry (BB)",
-    "published": 1712547120,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "3 Semiconductor Stocks to Sell in April Before They Crash & Burn",
-    "published": 1712546340,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "The Stock Performance Of U.S. Chipmakers So Far In 2024",
-    "published": 1712539140,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel's Turnaround Is A Long Shot That May Not Pan Out",
-    "published": 1712525371,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Watch Out Below? A Steep Market Correction Could Ruin SOXL Returns",
-    "published": 1712506447,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Why We\u2019re Excited for the Next Wave of AI Growth",
-    "published": 1712484360,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel: No Reason To Be Here",
-    "published": 1712484000,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "2 Tech Stocks to Buy Like There's No Tomorrow",
-    "published": 1712484000,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "AI is like the late 1990s internet boom. Here\u2019s how to avoid AI\u2019s Pets.com and find the winners",
-    "published": 1712483340,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Wall Street Breakfast: The Week Ahead",
-    "published": 1712465942,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "TSMC price target raised to NT$900 from NT$850 at JPMorgan",
-    "published": 1712460960,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel: This Pullback Is Well Deserved - Foundry Ambitions Remain Too Aggressive",
-    "published": 1712397600,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "Intel Stock Analysis: Buy the Dip?",
-    "published": 1712394900,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "4 Glorious Growth Stocks You'll Regret Not Buying in the New Nasdaq Bull Market",
-    "published": 1712394360,
-    "posting_price": 38.24110374,
-    "close_price": 37.58791733,
-    "percent_change": -1.70807416
-  },
-  {
-    "title": "AMD Stock Falls as Earnings Match Estimates",
-    "published": 1714512540,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "AMD Gives Tepid Forecast Amid Weak Demand for Gaming Chips",
-    "published": 1714509973,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Intel Shares Suffer Worst Month in\u00a0Decades",
-    "published": 1714509639,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "AMD beats on Q1 revenue and EPS, stock edges lower on light guidance",
-    "published": 1714508920,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "April was a losing month for tech stocks. Here's why",
-    "published": 1714508465,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Is It Over, Or Just A Dead Cat Bounce?",
-    "published": 1714497540,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Will Taiwan Semiconductor Be a Trillion-Dollar Stock by 2030?",
-    "published": 1714492260,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Massive News for Intel Stock Investors",
-    "published": 1714488120,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Intel Corporation (NASDAQ:INTC) Q1 2024 Earnings Call Transcript",
-    "published": 1714486336,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Intel On Sale As Turnaround Unfolds",
-    "published": 1714485294,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Missed Out on Nvidia? Here Are 3 Other Artificial Intelligence (AI) Stocks to Buy Instead",
-    "published": 1714484700,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "10 Information Technology Stocks With Whale Alerts In Today's Session",
-    "published": 1714480560,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Steamboat Capital Partners' Q1 short positions",
-    "published": 1714480380,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now",
-    "published": 1714478700,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Lottery bids for skilled-worker visas plunge in the US after changes aimed at fraud and abuse",
-    "published": 1714477200,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Shares Slump as Intel (NASDAQ:INTC) Offers Projections on Gaudi 3 Sales",
-    "published": 1714474740,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "ON vs. INTC: Which Chip Stock Is the Better Buy?",
-    "published": 1714474620,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Lattice Semiconductor price target raised by $8 at BofA, here's why",
-    "published": 1714465860,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Apple quietly builds AI dream team, but final product remains mystery: report",
-    "published": 1714464420,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Notable open interest changes for April 30th",
-    "published": 1714463700,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Analysts Conflicted on These Technology Names: Coursera (COUR), Intel (INTC) and Logitech (LOGI)",
-    "published": 1714461840,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Stock Market Crash Warning: Don\u2019t Get Caught Holding These 3 Semiconductor Stocks",
-    "published": 1714456860,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "3 AI Stocks With the Potential to Make You an Overnight Millionaire",
-    "published": 1714456860,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Yes! It\u2019s Time to Buy Intel Stock After the Beat-and-Drop.",
-    "published": 1714455300,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Brace Yourself: Why AMD Stock\u2019s Earnings Could Trigger a Wild Ride for Investors",
-    "published": 1714454040,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "AMD Earnings: The Quarter Could Be Tough, but the AI Future Looks Bright",
-    "published": 1714453200,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Intel Q1 Earnings Were More Good Than Bad",
-    "published": 1714452385,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Tuesday Talk: Market Stays Up Awaiting FOMC Meeting",
-    "published": 1714450200,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "AMD slips as Q1 results, guidance, largely meet expectations",
-    "published": 1714447620,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "Forget Nvidia: 2 Artificial Intelligence (AI) Stocks to Buy Instead",
-    "published": 1714437000,
-    "posting_price": 30.71956234,
-    "close_price": 30.1554451,
-    "percent_change": -1.8363453
-  },
-  {
-    "title": "13 Best Reddit Stocks to Buy Now",
-    "published": 1714418744,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "AMD to report Q1 earnings Tuesday, as Wall Street looks for jump in AI and PC sales",
-    "published": 1714418734,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "15 Fastest Growing Cities in California",
-    "published": 1714418181,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "This Warren Buffett Quote Perfectly Explains Why Intel Stock Is Best Avoided",
-    "published": 1714414080,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Intel: The AI Pie In The Sky",
-    "published": 1714406400,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "What's Going on With Intel Stock?",
-    "published": 1714403317,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Should You Buy the Dip in Intel Stock?",
-    "published": 1714400097,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Here is What to Know Beyond Why Intel Corporation (INTC) is a Trending Stock",
-    "published": 1714395616,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Will Earnings Cheer Continue To Buoy Markets? Apple, Amazon, Pfizer, Coinbase Lead Flurry Of Q1 Reports This Week",
-    "published": 1714395360,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "15 Most Popular Technology Brands According to Millennials: Ranked",
-    "published": 1714393860,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Intel (NASDAQ:INTC) Slides after Turning Blame on Motherboard Makers",
-    "published": 1714393320,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "AMD Q1 earnings preview: Focus on PC business, AI offerings",
-    "published": 1714390920,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Nvidia's Reversion Angle Became Steeper",
-    "published": 1714390705,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Chips mixed ahead of AMD results; ON Semi, Lattice rise",
-    "published": 1714389240,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Law Offices of Howard G. Smith Announces Investigation of Intel Corporation (INTC) on Behalf of Investors",
-    "published": 1714384866,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "AMD: Lisa Su Has Been Reading Her Sun Tzu",
-    "published": 1714383900,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Company News for Apr 29, 2024",
-    "published": 1714383720,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Video: Dow Movers: INTC, AAPL",
-    "published": 1714382580,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "GLOBAL BROKER RATINGS: Bernstein raises Apple, Barclays cuts JD Sports",
-    "published": 1714379280,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Notable open interest changes for April 29th",
-    "published": 1714377300,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Broadcom, Marvell Set To Capitalize On AI Investments From Microsoft, Alphabet, Meta: JPMorgan",
-    "published": 1714376040,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "AMD's core business may impact guidance, Susquehanna says",
-    "published": 1714375980,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Arqit Quantum announces collaboration with Intel",
-    "published": 1714370880,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Is Taiwan Semiconductor Stock (NYSE:TSM) Vastly Undervalued?",
-    "published": 1714362720,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Nvidia\u2019s Woes Are Your Windfall: 3 AI Stocks to Grab Now",
-    "published": 1714359960,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "3 Reasons to Buy Advanced Micro Devices Stock Like There's No Tomorrow",
-    "published": 1714312980,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "April Recap: Quantum Computing Hardware Developers Portfolio Down 9%",
-    "published": 1714284000,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "April Recap: All 7 AI Category Portfolios Declined By 4%, On Average",
-    "published": 1714275840,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Intel First Quarter 2024 Earnings: EPS Beats Expectations",
-    "published": 1714227628,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Intel: Half A Billion Of Gaudi 3's Revenue In 2H FY24 Is Not Amazing",
-    "published": 1714215548,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "4 Dominant Growth Stocks You'll Regret Not Buying in the New Nasdaq Bull Market",
-    "published": 1714208760,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "3 Cheap Tech Stocks to Buy Now",
-    "published": 1714207500,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "All Of The Grants Given By The U.S. CHIPS Act",
-    "published": 1714202640,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Nvidia Who? 3 AI Plays Destined to Outshine the Industry Giant",
-    "published": 1714197900,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Decoding Intel Corp (INTC): A Strategic SWOT Insight",
-    "published": 1714194384,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "Antony Blinken Says US Chip Ban Doesn't Mean 'Cutting Off Trade' Or 'Holding Back China'",
-    "published": 1714186260,
-    "posting_price": 31.531097,
-    "close_price": 31.0362587,
-    "percent_change": -1.56936595
-  },
-  {
-    "title": "U.S. chip bans not meant to hobble China's growth, Blinken says",
-    "published": 1714174816,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "REFILE-U.S. chip bans not meant to hobble China's growth, Blinken says",
-    "published": 1714174649,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "These Stocks Moved the Most Today: Alphabet, Microsoft, Intel, Snap, Exxon, Roku, Skechers, ResMed, and More",
-    "published": 1714162320,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "The Law Offices of Frank R. Cruz Announces Investigation of Intel Corporation (INTC) on Behalf of Investors",
-    "published": 1714161665,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Why Intel Stock Was Tumbling Today",
-    "published": 1714161291,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Apollo, KKR, Stonepeak Weigh Investing Billions in Intel Chip JV",
-    "published": 1714157765,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel CEO confident in its AI future after posting soft guidance",
-    "published": 1714156063,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "These Stocks Are Moving the Most Today: Alphabet, Microsoft, Intel, Snap, Meta, Exxon, Chevron, and More",
-    "published": 1714122120,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel will be the 'leading AI systems foundry' by 2030: CEO",
-    "published": 1714154186,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Microsoft, Alphabet earnings fuel stock rally: Yahoo Finance",
-    "published": 1714152651,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Why Intel (INTC) Stock Is Trading Lower Today",
-    "published": 1714152110,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Stocks to Watch Friday: Exxon Mobil, Alphabet, Microsoft, Snap",
-    "published": 1714128763,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Bullish Alphabet and Microsoft fuel tech rally",
-    "published": 1714148160,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "How major US stock indexes fared Friday, 4/26/2024",
-    "published": 1714147980,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Q1 2024 Intel Corp Earnings Call",
-    "published": 1714144248,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "ETFs in Focus Post Intel's Q1 Earnings Beat, Dismal Outlook",
-    "published": 1714143600,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel stock slides on lower Q2 forecast",
-    "published": 1714140822,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Tech Bulls Back in Driver Seat After Microsoft and Alphabet Blowouts",
-    "published": 1714139312,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "2 Artificial Intelligence (AI) Chip Stocks to Watch That Aren't Nvidia",
-    "published": 1714137720,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel (INTC) Tops Q1 Earnings Estimates, Falters on Revenues",
-    "published": 1714136460,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Tech Stocks Rebound As Magnificent 7 Roar On Strong Earnings, Energy Giants Tumble: What's Driving Markets Friday?",
-    "published": 1714135800,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Alphabet, Snap rise; Intel, Boyd Gaming fall, Friday, 4/26/2024",
-    "published": 1714135500,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel\u2019s bad year worsens, with analyst decrying company as \u2018profoundly broken\u2019",
-    "published": 1714132320,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "20 Richest Billionaires in Telecommunications",
-    "published": 1714132069,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "12 Information Technology Stocks Moving In Friday's Intraday Session",
-    "published": 1714131240,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: Western Digital (WDC) and Intel (INTC)",
-    "published": 1714130460,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel Stock: Don\u2019t Hold Your Breath For A Swift Recovery",
-    "published": 1714129920,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1714129440,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Here's Why Intel (NASDAQ:INTC) Has A Meaningful Debt Burden",
-    "published": 1714129251,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Chipmaker Intel falls as AI competition hurts forecast",
-    "published": 1714128776,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Friday; Snap, Alphabet to Open Higher",
-    "published": 1714128729,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Mobileye sinks as Morgan Stanley downgrades, citing 'slowdown' in EV adoption",
-    "published": 1714128300,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Super Micro Computer: Is There Upside Left?",
-    "published": 1714123800,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Video: Nasdaq 100 Movers: INTC, GOOGL",
-    "published": 1714123680,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Video: S&P 500 Movers: INTC, RMD",
-    "published": 1714123620,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Video: Dow Movers: INTC, AMZN",
-    "published": 1714123560,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Biggest stock movers today: ROKU, GOOG, MSFT, SNAP, and more",
-    "published": 1714123560,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Trending tickers: Alphabet, Intel, Microsoft, Amazon and Anglo American",
-    "published": 1714120807,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "As US Tightens Screws On Nvidia, Intel Chip Exports To China, Huawei's Latest Phone Uses Made-In-China Chipset",
-    "published": 1714119900,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $4 at BofA, here's why",
-    "published": 1714119240,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $12 at Truist, here's why",
-    "published": 1714119060,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Second half 'where the rubber hits the road' for Intel, says Northland",
-    "published": 1714118220,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Fly Intel: Pre-market Movers",
-    "published": 1714118040,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel slides as analysts bemoan lack of execution in AI, foundry",
-    "published": 1714117980,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $7 at TD Cowen, here's why",
-    "published": 1714117620,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel Corp (INTC) Q1 2024 Earnings Call Transcript Highlights: Navigating Market Challenges ...",
-    "published": 1714117319,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "AMD: Weak Guidance Expected",
-    "published": 1714116918,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "GLOBAL BROKER RATINGS: Stifel cuts Caterpillar; HSBC likes Ashtead",
-    "published": 1714116780,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "HTZ, CYCC and WORX among pre-market losers",
-    "published": 1714116600,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Why Are Shares of Intel Stock Crashing After Earnings?",
-    "published": 1714116600,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Why Alphabet Shares Are Trading Higher By 12%; Here Are 20 Stocks Moving Premarket",
-    "published": 1714116060,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $10 at Roth MKM, here's why",
-    "published": 1714115880,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Microsoft To Rally Over 29%? Here Are 10 Top Analyst Forecasts For Friday",
-    "published": 1714115340,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "12 Information Technology Stocks Moving In Friday's Pre-Market Session",
-    "published": 1714115340,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Analysts Are Bullish on These Technology Stocks: Microsoft (MSFT), Intel (INTC)",
-    "published": 1714115040,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $5 at Wells Fargo, here's why",
-    "published": 1714114800,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel falls as weak PC chip demand hurts second-quarter forecast",
-    "published": 1714114203,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "3 Unstoppable Tech Stocks to Take You From $50,000 to $250,000 (and Beyond)",
-    "published": 1714113540,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $4 at Evercore ISI, here's why",
-    "published": 1714113300,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $5 at Susquehanna, here's why",
-    "published": 1714113000,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $12 at Morgan Stanley, here's why",
-    "published": 1714112040,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Analysts\u2019 Top Technology Picks: Check Point (CHKP), Intel (INTC)",
-    "published": 1714111260,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Wall Street Futures Ride High On Microsoft, Alphabet Cheer, But Will Inflation Data Burst The Bubble? Why This Analyst Thinks Bull Run Isn't Over Yet",
-    "published": 1714110780,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $5 at Cantor Fitzgerald, here's why",
-    "published": 1714109580,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Verisign (VRSN) and Intel (INTC)",
-    "published": 1714109520,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $7 at Bernstein, here's why",
-    "published": 1714109460,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel Reports Weak Sales, Joins Boyd Gaming, Atlassian And Other Big Stocks Moving Lower In Friday's Pre-Market Session",
-    "published": 1714109400,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel\u2019s $12.7B Q1 Surge Amid New Financial Model",
-    "published": 1714108260,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $2 at HSBC, here's why",
-    "published": 1714107120,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $5 at Goldman Sachs, here's why",
-    "published": 1714107060,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $5 at Citi, here's why",
-    "published": 1714106940,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $2 at JPMorgan, here's why",
-    "published": 1714106940,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel price target lowered by $10 at Mizuho, here's why",
-    "published": 1714106820,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Microsoft (MSFT), Intel (INTC) and Juniper Networks (JNPR)",
-    "published": 1714106460,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel\u2019s Hold Rating Justified by Mixed Financial Outlook and Roadmap Execution Risks",
-    "published": 1714106220,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel\u2019s Sell Rating: Pressured Margins and Sluggish Growth Outlook",
-    "published": 1714105740,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel: return to profitability in Q1",
-    "published": 1714105584,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel (INTC) Q1 2024 Earnings Call Transcript",
-    "published": 1714091423,
-    "posting_price": 31.45192382,
-    "close_price": 31.55088997,
-    "percent_change": 0.31465849
-  },
-  {
-    "title": "Intel's chip sector strength is undiminished: Strategist",
-    "published": 1714080701,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Here's What Key Metrics Tell Us About Intel (INTC) Q1 Earnings",
-    "published": 1714080604,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Corporation (INTC) Q1 2024 Earnings Call Transcript",
-    "published": 1714079830,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Slides After Tepid Forecast Shows Comeback Challenges",
-    "published": 1714079639,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel CEO: Guidance Miss Reflects Slightly Soft Demand. He's Bullish on the Second Half.",
-    "published": 1714079586,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel stock falls on disappointing Q2 outlook",
-    "published": 1714077420,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Stock Drops As Chipmaker Guides Below Views For Q2",
-    "published": 1714076318,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel to report Q1 earnings as Wall Street eyes AI and foundry growth",
-    "published": 1714053505,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Shares Slip as June Quarter Guidance Comes in Light",
-    "published": 1714075709,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "No Surprises In Intel's (NASDAQ:INTC) Q1 Sales Numbers But Stock Drops on Weak Guidance",
-    "published": 1714075705,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "UPDATE 1-Intel forecasts second-quarter revenue below estimates",
-    "published": 1714075613,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Reports First-Quarter 2024 Financial Results",
-    "published": 1714075260,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Biden Keeps Doling Out Billions to Chipmakers. Here\u2019s What Really Matters.",
-    "published": 1714073460,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel's Q1 2024 Results Magnify Further Woes Ahead",
-    "published": 1714070702,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel: Q1 Earnings Snapshot",
-    "published": 1714061591,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Spinoff Mobileye Revenue Falls Amid Supply Chain Reset, CEO Optimistic About Recovery",
-    "published": 1714061313,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel : Infographic Q1 2024",
-    "published": 1714061060,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "What Intel Stock Investors Should Know Before Earnings",
-    "published": 1714061036,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel forecasts second-quarter revenue below estimates",
-    "published": 1714060954,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "UPDATE 1-Republican China hawks criticize Intel chip in new Huawei laptop",
-    "published": 1714057723,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "SOXQ: An Optimal Portfolio For The Cyclical Recovery",
-    "published": 1714047107,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "The timing may be just right to buy Nvidia or other semiconductor stocks",
-    "published": 1714043400,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Nvidia\u2019s AI Dominance: Why the Chip Giant Has What It Takes to Weather the Storm",
-    "published": 1714042920,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Here's what Wall Street is saying about Intel ahead of earnings",
-    "published": 1714041840,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "History Says the Nasdaq Will Roar Higher This Year. My Top Growth Stock to Buy Before It Does.",
-    "published": 1714041600,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "These 3 Dow Stocks Are Set to Soar in 2024 and Beyond",
-    "published": 1714038600,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Semiconductors largely higher even as big tech sells off; Intel results on deck",
-    "published": 1714038180,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Republican Senator Rubio calls for blocking of all US sales to Huawei",
-    "published": 1714036086,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Biden has a favorite stop when he hits the road: chipmaking plants",
-    "published": 1714035622,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "March's Dividend Portfolio Update Sets New All-Time Record - 100 Holdings, 21 Buys",
-    "published": 1714032600,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Alphabet, Meta Platforms And 3 Stocks To Watch Heading Into Thursday",
-    "published": 1714031220,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Taiwan Semi Sets 2026 Launch for A16 Chip Technology, Aiming to Outpace Intel in Speed",
-    "published": 1714031220,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Investor Optimism Improves Slightly As Investors Assess Earnings Reports",
-    "published": 1714031220,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel Earnings Day Is Here. Better PC Demand Could Provide a Boost.",
-    "published": 1714030966,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Earnings Spook The Market But Support Several Models",
-    "published": 1714030800,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "3 Stocks to Grab Now to Ride the Artificial Intelligence Chip Boom to Riches",
-    "published": 1714028760,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Mobileye Releases First Quarter 2024 Results and Provides Business Overview",
-    "published": 1714026600,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves Today, April 25, 2024",
-    "published": 1714025160,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "US Stocks Brace For Negative Start Amid Tech Earnings Disappointments, Caution Ahead Of Data: 'Worst Of This Two-Week Decline Is Behind Us,' Says Analyst",
-    "published": 1714022580,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Nvidia Stock: The Trillion-Dollar Question Every Investor Is Asking",
-    "published": 1714021860,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "As Biden celebrates computer chip factories, voters wait for the promised production to start",
-    "published": 1714021560,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "3 Dow Stocks to Buy on the Dip: April 2024",
-    "published": 1714021560,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Micron wins ~$6.1B CHIPS Act grant to build three new fabs",
-    "published": 1714021020,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "Intel : 2024 Proxy Statement (ADA Accessible",
-    "published": 1714013246,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "U.S. Tech Giants Prioritize Ethics, Cut Ties with Sandvine",
-    "published": 1714011420,
-    "posting_price": 34.203222,
-    "close_price": 34.74754333,
-    "percent_change": 1.59143291
-  },
-  {
-    "title": "UPDATE 1-TSMC says 'A16' chipmaking tech to arrive in 2026, setting up showdown with Intel",
-    "published": 1713998745,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "Alphabet, Microsoft, Southwest earnings: What to watch",
-    "published": 1713995448,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "TSMC says 'A16' chipmaking technology will start production in late 2026",
-    "published": 1713980888,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "Biden Makes $11 Billion Push to Beat China at Chip Research",
-    "published": 1713980782,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "Market Chatter: Tech Heavyweights Sever Ties With Blacklisted Sandvine",
-    "published": 1713978621,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "What's in Store for These 5 Technology Stocks in Q1 Earnings?",
-    "published": 1713975840,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Stocks ease off the throttle but Tesla motors",
-    "published": 1713975240,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
-  },
-  {
-    "title": "Intel Sued After Contractor Allegedly Loses Sense of Taste, Smell Due to Plant's Toxic Fumes",
-    "published": 1713971811,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "UPDATE 4-US revokes some export licenses for firms supplying China's Huawei",
+    "published": 1715109682,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.9249800443649292
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Stocks close mixed while Disney takes a tumble",
+    "published": 1715098620,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.7933254241943359
+  },
+  {
+    "title": "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against Intel Corporation (INTC)",
+    "published": 1715091185,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.7730996608734131
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Rises as It Works to Fix Processor Issues",
+    "published": 1715084280,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.9240923523902893
+  },
+  {
+    "title": "Intel : Corporate Responsibility Report Takeaways",
+    "published": 1715080871,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.8939104676246643
+  },
+  {
+    "title": "Intel: Could Become A Serious Player In AI And Foundry, But It'll Take A Miracle",
+    "published": 1715077542,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.5568962097167969
+  },
+  {
+    "title": "FTSE 100 LIVE: European stocks tick up as earnings season rolls on",
+    "published": 1715069176,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.9231505393981934
+  },
+  {
+    "title": "Insider Buying Isn\u2019t Enough: Why Intel Stock\u2019s Comeback Remains Uncertain",
+    "published": 1715060820,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.7547675967216492
+  },
+  {
+    "title": "Intel's Strategic Pivot: Unveiling Investment Opportunities",
+    "published": 1715054222,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 31.09000015258789,
+      "2024-05-07T14:30:00+00:00": 31.299999237060547,
+      "2024-05-07T15:30:00+00:00": 31.190099716186523,
+      "2024-05-07T16:30:00+00:00": 31.209999084472656,
+      "2024-05-07T17:30:00+00:00": 31.084999084472656,
+      "2024-05-07T18:30:00+00:00": 30.937000274658203,
+      "2024-05-07T19:30:00+00:00": 30.780000686645508
+    },
+    "sentiment": 0.741995632648468
+  },
+  {
+    "title": "Biden admin. earmarks $285M for digital twins semiconductor development",
+    "published": 1715039820,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.668487012386322
+  },
+  {
+    "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against Intel Corporation - INTC",
+    "published": 1715024650,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.5310349464416504
+  },
+  {
+    "title": "INTC Bronstein, Gewirtz & Grossman LLC Announces that Intel Corporation Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+    "published": 1715014448,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.867786705493927
+  },
+  {
+    "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Intel Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action \u2013 INTC",
+    "published": 1715008985,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.5239006876945496
+  },
+  {
+    "title": "Intel Corp's Dividend Analysis",
+    "published": 1714993298,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.9357092380523682
+  },
+  {
+    "title": "Competitor Analysis: Evaluating Intel And Competitors In Semiconductors & Semiconductor Equipment Industry",
+    "published": 1714989720,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.9087481498718262
+  },
+  {
+    "title": "US to provide $285M grant to set up institute for 'Digital twins' tech for chip industry",
+    "published": 1714978140,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 31.118000030517578,
+      "2024-05-06T14:30:00+00:00": 31.06999969482422,
+      "2024-05-06T15:30:00+00:00": 30.819900512695312,
+      "2024-05-06T16:30:00+00:00": 30.764999389648438,
+      "2024-05-06T17:30:00+00:00": 30.795000076293945,
+      "2024-05-06T18:30:00+00:00": 30.834999084472656,
+      "2024-05-06T19:30:00+00:00": 30.760000228881836
+    },
+    "sentiment": 0.7984837293624878
+  },
+  {
+    "title": "There Are Reasons To Feel Uneasy About Intel's (NASDAQ:INTC) Returns On Capital",
+    "published": 1714917684,
+    "day_prices": {},
+    "sentiment": 0.8465122580528259
+  },
+  {
+    "title": "Extreme UV Is The Future For Chips, ASML Holding Has A Monopoly",
+    "published": 1714898551,
+    "day_prices": {},
+    "sentiment": 0.888080358505249
   },
   {
     "title": "Is Intel Stock a Buy?",
-    "published": 1713971700,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "published": 1714835340,
+    "day_prices": {},
+    "sentiment": 0.917509138584137
   },
   {
-    "title": "If You Invested $1,000 in Taiwan Semiconductor in 1997, This Is How Much You Would Have Today",
-    "published": 1713970800,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Stock Market Crash Warning: Don\u2019t Get Caught Holding These 7 AI Stocks",
+    "published": 1714799940,
+    "day_prices": {},
+    "sentiment": 0.55093914270401
   },
   {
-    "title": "Qualcomm is coming for Intel\u2019s biggest market: PCs",
-    "published": 1713963607,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "INTC CLASS ACTION NOTICE: The Law Offices of Frank R. Cruz Files Securities Fraud Lawsuit Against Intel Corporation",
+    "published": 1714777988,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.7631218433380127
   },
   {
-    "title": "Can Solid Processor Revenues Boost Intel (INTC) Q1 Earnings?",
-    "published": 1713963180,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "INTC CLASS ACTION NOTICE: Glancy Prongay & Murray LLP Files Securities Fraud Lawsuit Against Intel Corporation",
+    "published": 1714768685,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.7416574954986572
   },
   {
-    "title": "Micron: CHIP Grants Are Rocket Fuel (Rating Upgrade)",
-    "published": 1713962482,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Intel CEO Pat Gelsinger Picks Up Stock Near 2024 Low",
+    "published": 1714752120,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.87691330909729
   },
   {
-    "title": "10 Information Technology Stocks Whale Activity In Today's Session",
-    "published": 1713962340,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Stock Market Crash Warning: Don\u2019t Get Caught Holding These 3 AI Stocks.",
+    "published": 1714737120,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.5128049254417419
   },
   {
-    "title": "Will Soft Data Center Revenues Mar Intel (INTC) Q1 Earnings?",
-    "published": 1713962220,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "3 Dow Stocks That Are No-Brainer Buys in May",
+    "published": 1714725660,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.9181796908378601
   },
   {
-    "title": "Intel Q1 earnings preview: AI progress in focus",
-    "published": 1713960780,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Stock Market Crash Warning: Don\u2019t Get Caught Holding These 3 Tech Stocks",
+    "published": 1714717920,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.5529870390892029
   },
   {
-    "title": "Zacks Investment Ideas feature highlights: Intel, Vertiv and Western Digital",
-    "published": 1713958920,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Shhh! 3 Secret Semiconductor Stocks Flying Below Wall Street\u2019s Radar",
+    "published": 1714714560,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 30.979999542236328,
+      "2024-05-03T14:30:00+00:00": 30.90999984741211,
+      "2024-05-03T15:30:00+00:00": 30.825000762939453,
+      "2024-05-03T16:30:00+00:00": 30.8700008392334,
+      "2024-05-03T17:30:00+00:00": 30.739999771118164,
+      "2024-05-03T18:30:00+00:00": 30.799999237060547,
+      "2024-05-03T19:30:00+00:00": 30.885000228881836
+    },
+    "sentiment": 0.5383822321891785
   },
   {
-    "title": "The Elephant in the Chip Room: Why Intel Stock\u2019s Post-Earnings Pop May Be Short-Lived",
-    "published": 1713956220,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Malaysia's DNB signs deal with Ericsson, Intel on 5G solutions",
+    "published": 1714691569,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.868134617805481
   },
   {
-    "title": "All Eyes on Intel Earnings; Here\u2019s What Wall Street Expects",
-    "published": 1713948000,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Intel: Analyzing The Challenge Of Meeting Its Five Nodes In Four-Year Plan",
+    "published": 1714673280,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.8507910966873169
   },
   {
-    "title": "Qualcomm shows off new Snapdragon X Plus PC chip",
-    "published": 1713947580,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Nvidia's Stock Is Still A Bargain",
+    "published": 1714655884,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.8156259655952454
   },
   {
-    "title": "Could AMD Stock Help You Become a Millionaire?",
-    "published": 1713946320,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "3 Chip Stocks That Could Be Heading to an Early Grave",
+    "published": 1714651200,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.6351189017295837
   },
   {
-    "title": "French startup FlexAI exits stealth with $30M to ease access to AI compute",
-    "published": 1713943430,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Intel CEO Pat Gelsinger Is Doubling Down on Mobileye (MBLY) Stock",
+    "published": 1714648080,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.9335828423500061
   },
   {
-    "title": "Intel Stock: All Eyes on Earnings This Week \u2014 Here\u2019s What Bernstein Expects",
-    "published": 1713942840,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Intel Stock Encounters A Death Cross As Chipmaker Struggles To Turn Around",
+    "published": 1714638600,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.9341762065887451
   },
   {
-    "title": "Intel (INTC) To Report Earnings Tomorrow: Here Is What To Expect",
-    "published": 1713942242,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "FormFactor price target raised by $10 at Craig-Hallum, here's why",
+    "published": 1714635840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.6135318279266357
   },
   {
-    "title": "Move Over Nvidia: Experts Bullish On Intel's AI Chip, Predict Surge In These Three Global Stocks",
-    "published": 1713941760,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Intel and Microsoft are on different paths to profit from AI. One will be right.",
+    "published": 1714630920,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.7953286170959473
   },
   {
-    "title": "Move Over Nvidia: Experts Bullish On Intel's AI Chip, Predicts Surge In These Three Global Stocks",
-    "published": 1713941760,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "SMCI Earnings: Why the Street\u2019s Reaction to Super Micro Stock\u2019s Strong Results Was Illogical",
+    "published": 1714629480,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 30.59000015258789,
+      "2024-05-02T14:30:00+00:00": 30.329999923706055,
+      "2024-05-02T15:30:00+00:00": 30.43000030517578,
+      "2024-05-02T16:30:00+00:00": 30.33989906311035,
+      "2024-05-02T17:30:00+00:00": 30.344999313354492,
+      "2024-05-02T18:30:00+00:00": 30.34000015258789,
+      "2024-05-02T19:30:00+00:00": 30.485000610351562
+    },
+    "sentiment": 0.9355013370513916
   },
   {
-    "title": "Upslope Capital's Q1 2024 Investor Letter",
-    "published": 1713941100,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "More than 500 AI Models Run Optimized on Intel Core Ultra Processors",
+    "published": 1714582800,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.913277268409729
   },
   {
-    "title": "Intel: No Good Reason To Turn Bullish Ahead Of Q1 Earnings",
-    "published": 1713936416,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Is There Now An Opportunity In Intel Corporation (NASDAQ:INTC)?",
+    "published": 1714561213,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.8893641233444214
   },
   {
-    "title": "AMD\u2019s Ace Up Its Sleeve: Why China\u2019s Chip Crackdown Can\u2019t Stop This AI Powerhouse",
-    "published": 1713936240,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "1 Wall Street Analyst Thinks Intel Is Going To $17. Is It a Sell?",
+    "published": 1714558560,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.8197475075721741
   },
   {
-    "title": "AMD\u2019s Secret Sauce: Why This Chip Underdog Is Poised to Dethrone Nvidia",
-    "published": 1713935280,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "How To Earn $500 A Month From Intel Stock Following Q1 Earnings Report",
+    "published": 1714551300,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.9357405304908752
   },
   {
-    "title": "Intel (NASDAQ:INTC) Chips from a Vending Machine?",
-    "published": 1713926640,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "AMD Stock Analysis: 3 Reasons Advanced Micro Devices Remains a Lucrative Long-Term Bet",
+    "published": 1714542960,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.5396812558174133
   },
   {
-    "title": "Taiwan Semiconductor to start new A16 chip manufacturing tech in 2026: report",
-    "published": 1713925380,
-    "posting_price": 34.50012495,
-    "close_price": 34.14384079,
-    "percent_change": -1.03270397
+    "title": "Intel Gains Favor With Redditors Over Nvidia, AMD As 'High Uncertainty, Low Risk' Stock Play",
+    "published": 1714531500,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.943065345287323
   },
   {
-    "title": "Should You Buy Intel Stock Before Earnings?",
-    "published": 1713897423,
-    "posting_price": 33.98549508,
-    "close_price": 33.92611313,
-    "percent_change": -0.17472734
+    "title": "SoFi Stock (NASDAQ:SOFI): Unfairly Punished as Its Business Transitions",
+    "published": 1714530060,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 30.15999984741211,
+      "2024-05-01T14:30:00+00:00": 30.139999389648438,
+      "2024-05-01T15:30:00+00:00": 30.2549991607666,
+      "2024-05-01T16:30:00+00:00": 30.25,
+      "2024-05-01T17:30:00+00:00": 30.229999542236328,
+      "2024-05-01T18:30:00+00:00": 30.579999923706055,
+      "2024-05-01T19:30:00+00:00": 30.829999923706055
+    },
+    "sentiment": 0.9383181929588318
   },
   {
-    "title": "Is It Time to Buy ASML Stock Yet?",
-    "published": 1713879180,
-    "posting_price": 33.98549508,
-    "close_price": 33.92611313,
-    "percent_change": -0.17472734
+    "title": "ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages Intel Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - INTC",
+    "published": 1715787607,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 31.375,
+      "2024-05-15T14:30:00+00:00": 30.950000762939453,
+      "2024-05-15T15:30:00+00:00": 30.985000610351562,
+      "2024-05-15T16:30:00+00:00": 31.045000076293945,
+      "2024-05-15T17:30:00+00:00": 31.145000457763672,
+      "2024-05-15T18:30:00+00:00": 31.189699172973633,
+      "2024-05-15T19:30:00+00:00": 31.190000534057617
+    },
+    "sentiment": 0.7506888508796692
   },
   {
-    "title": "Press Kit: Intel Invests in Ohio",
-    "published": 1713877927,
-    "posting_price": 33.98549508,
-    "close_price": 33.92611313,
-    "percent_change": -0.17472734
+    "title": "Intel : Thunderbolt Share Powers Fast PC to PC Experiences",
+    "published": 1715771052,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 31.375,
+      "2024-05-15T14:30:00+00:00": 30.950000762939453,
+      "2024-05-15T15:30:00+00:00": 30.985000610351562,
+      "2024-05-15T16:30:00+00:00": 31.045000076293945,
+      "2024-05-15T17:30:00+00:00": 31.145000457763672,
+      "2024-05-15T18:30:00+00:00": 31.189699172973633,
+      "2024-05-15T19:30:00+00:00": 31.190000534057617
+    },
+    "sentiment": 0.8151195645332336
   },
   {
-    "title": "Intel (NASDAQ:INTC) Catches a Break despite Hit to Processor Performance",
-    "published": 1713874740,
-    "posting_price": 33.98549508,
-    "close_price": 33.92611313,
-    "percent_change": -0.17472734
+    "title": "Intel's Comeback Is on Track Despite Massive Foundry Losses",
+    "published": 1715766900,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 31.375,
+      "2024-05-15T14:30:00+00:00": 30.950000762939453,
+      "2024-05-15T15:30:00+00:00": 30.985000610351562,
+      "2024-05-15T16:30:00+00:00": 31.045000076293945,
+      "2024-05-15T17:30:00+00:00": 31.145000457763672,
+      "2024-05-15T18:30:00+00:00": 31.189699172973633,
+      "2024-05-15T19:30:00+00:00": 31.190000534057617
+    },
+    "sentiment": 0.9098441004753113
   },
   {
-    "title": "S&P 500 stocks with the biggest estimated EPS increase this season",
-    "published": 1713874200,
-    "posting_price": 33.98549508,
-    "close_price": 33.92611313,
-    "percent_change": -0.17472734
+    "title": "U.S. raises tariffs on Chinese imports of EVs, chips, more, FT says",
+    "published": 1715751180,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 31.375,
+      "2024-05-15T14:30:00+00:00": 30.950000762939453,
+      "2024-05-15T15:30:00+00:00": 30.985000610351562,
+      "2024-05-15T16:30:00+00:00": 31.045000076293945,
+      "2024-05-15T17:30:00+00:00": 31.145000457763672,
+      "2024-05-15T18:30:00+00:00": 31.189699172973633,
+      "2024-05-15T19:30:00+00:00": 31.190000534057617
+    },
+    "sentiment": 0.5843582153320312
+  },
+  {
+    "title": "INTC Investors Have Opportunity to Lead Intel Corporation Securities Fraud Lawsuit",
+    "published": 1715705169,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.8939414620399475
+  },
+  {
+    "title": "What Intel Stock Investors Should Know About Recent Semiconductor Foundry Updates",
+    "published": 1715695963,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.939954936504364
+  },
+  {
+    "title": "Intel's Options: A Look at What the Big Money is Thinking",
+    "published": 1715686380,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.9325591325759888
+  },
+  {
+    "title": "1 Reason to Buy Arm Holdings Stock and 1 Reason to Stay Away",
+    "published": 1715685000,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.9317905306816101
+  },
+  {
+    "title": "Taiwan Semiconductor in spotlight after ASML, German factory comments",
+    "published": 1715675700,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.5091590881347656
+  },
+  {
+    "title": "U.S., E.U. spent nearly $81B towards next-gen semiconductors, Bloomberg says",
+    "published": 1715664180,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.5581827163696289
+  },
+  {
+    "title": "China Urges Tech Giants To Shift Away From Nvidia And Other Foreign Chip Makers, Boost Domestic AI Chip Purchases: Report",
+    "published": 1715661300,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.9389179944992065
+  },
+  {
+    "title": "Tuesday Talk: Market Stays Steady",
+    "published": 1715659320,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.872189998626709
+  },
+  {
+    "title": "PRESS DIGEST- Financial Times - May 14",
+    "published": 1715655836,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 30.6200008392334,
+      "2024-05-14T14:30:00+00:00": 30.795000076293945,
+      "2024-05-14T15:30:00+00:00": 30.795000076293945,
+      "2024-05-14T16:30:00+00:00": 30.895000457763672,
+      "2024-05-14T17:30:00+00:00": 30.844999313354492,
+      "2024-05-14T18:30:00+00:00": 30.864999771118164,
+      "2024-05-14T19:30:00+00:00": 30.93000030517578
+    },
+    "sentiment": 0.9228408932685852
+  },
+  {
+    "title": "Stocks Close Mixed As Dow Breaks Winning Streak; Meme Stock GameStop Reminiscent of 2021",
+    "published": 1715631180,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.5056475400924683
+  },
+  {
+    "title": "Dow And S&P 500 Give Up Gains; Google Down For Second Day As GameStop Catapults",
+    "published": 1715623260,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.9504758715629578
+  },
+  {
+    "title": "PRESS: Intel in talks with Apollo over USD11 billion Irish plant deal",
+    "published": 1715618640,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.6515634059906006
+  },
+  {
+    "title": "Intel stock up as $11B Apollo deal nears completion: WSJ",
+    "published": 1715613768,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.9218565821647644
+  },
+  {
+    "title": "PDD, Intel, Arm, Microsoft, and Other Tech Stocks in Focus Today",
+    "published": 1715603100,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.9007164239883423
+  },
+  {
+    "title": "Kevin O\u2019Buckley to Lead Foundry Services at Intel",
+    "published": 1715609700,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.9291191697120667
+  },
+  {
+    "title": "Intel, Apollo Near $11 Billion Ireland Plant Deal, WSJ Says",
+    "published": 1715601111,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.8211435079574585
+  },
+  {
+    "title": "Blast From the Past: Former Meme KOSS Stock Soars on Roaring Kitty News",
+    "published": 1715595720,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.5821487307548523
+  },
+  {
+    "title": "Intel Seeks Funding from Apollo for $11B Chip Factory",
+    "published": 1715593380,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.6038177609443665
+  },
+  {
+    "title": "Unveiling Intel (INTC)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1715592840,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.800645649433136
+  },
+  {
+    "title": "3 Ultra-Popular Stocks Billionaire Investors Are Selling",
+    "published": 1715591160,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.8959333896636963
+  },
+  {
+    "title": "Intel exec on bringing artificial intelligence into the workplace",
+    "published": 1715587200,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.7978518605232239
+  },
+  {
+    "title": "Intel nears $11 billion deal with Apollo for Ireland facility, WSJ reports",
+    "published": 1715586608,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.738409698009491
+  },
+  {
+    "title": "Intel in advanced talks with Apollo for $11B Ireland partnership, WSJ reports",
+    "published": 1715580960,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.8085622191429138
+  },
+  {
+    "title": "Intel (INTC) Receives a Rating Update from a Top Analyst",
+    "published": 1715572620,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 30.03499984741211,
+      "2024-05-13T14:30:00+00:00": 30.985000610351562,
+      "2024-05-13T15:30:00+00:00": 30.930099487304688,
+      "2024-05-13T16:30:00+00:00": 30.780000686645508,
+      "2024-05-13T17:30:00+00:00": 30.655000686645508,
+      "2024-05-13T18:30:00+00:00": 30.647600173950195,
+      "2024-05-13T19:30:00+00:00": 30.545000076293945
+    },
+    "sentiment": 0.7884340286254883
+  },
+  {
+    "title": "Australian ambassador: 'American model is proving its resilience' despite threat from Chinese industrial policy",
+    "published": 1715539305,
+    "day_prices": {},
+    "sentiment": 0.9464617371559143
+  },
+  {
+    "title": "Intel and Qualcomm Received Bearish News This Week",
+    "published": 1715352701,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 30.261999130249023,
+      "2024-05-10T14:30:00+00:00": 30.180099487304688,
+      "2024-05-10T15:30:00+00:00": 30.249900817871094,
+      "2024-05-10T16:30:00+00:00": 30.15999984741211,
+      "2024-05-10T17:30:00+00:00": 30.11009979248047,
+      "2024-05-10T18:30:00+00:00": 30.045000076293945,
+      "2024-05-10T19:30:00+00:00": 30.0
+    },
+    "sentiment": 0.9083298444747925
+  },
+  {
+    "title": "Investors Heavily Search Intel Corporation (INTC): Here is What You Need to Know",
+    "published": 1715346014,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 30.261999130249023,
+      "2024-05-10T14:30:00+00:00": 30.180099487304688,
+      "2024-05-10T15:30:00+00:00": 30.249900817871094,
+      "2024-05-10T16:30:00+00:00": 30.15999984741211,
+      "2024-05-10T17:30:00+00:00": 30.11009979248047,
+      "2024-05-10T18:30:00+00:00": 30.045000076293945,
+      "2024-05-10T19:30:00+00:00": 30.0
+    },
+    "sentiment": 0.9437236785888672
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Rises after New Chips Are Leaked",
+    "published": 1715343240,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 30.261999130249023,
+      "2024-05-10T14:30:00+00:00": 30.180099487304688,
+      "2024-05-10T15:30:00+00:00": 30.249900817871094,
+      "2024-05-10T16:30:00+00:00": 30.15999984741211,
+      "2024-05-10T17:30:00+00:00": 30.11009979248047,
+      "2024-05-10T18:30:00+00:00": 30.045000076293945,
+      "2024-05-10T19:30:00+00:00": 30.0
+    },
+    "sentiment": 0.9109755158424377
+  },
+  {
+    "title": "Will Advanced Micro Devices Reach a Trillion-Dollar Market Cap by 2030?",
+    "published": 1715341020,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 30.261999130249023,
+      "2024-05-10T14:30:00+00:00": 30.180099487304688,
+      "2024-05-10T15:30:00+00:00": 30.249900817871094,
+      "2024-05-10T16:30:00+00:00": 30.15999984741211,
+      "2024-05-10T17:30:00+00:00": 30.11009979248047,
+      "2024-05-10T18:30:00+00:00": 30.045000076293945,
+      "2024-05-10T19:30:00+00:00": 30.0
+    },
+    "sentiment": 0.7272986769676208
+  },
+  {
+    "title": "Is It Time to Buy April's Worst-Performing S&P 500 Stocks?",
+    "published": 1715338260,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 30.261999130249023,
+      "2024-05-10T14:30:00+00:00": 30.180099487304688,
+      "2024-05-10T15:30:00+00:00": 30.249900817871094,
+      "2024-05-10T16:30:00+00:00": 30.15999984741211,
+      "2024-05-10T17:30:00+00:00": 30.11009979248047,
+      "2024-05-10T18:30:00+00:00": 30.045000076293945,
+      "2024-05-10T19:30:00+00:00": 30.0
+    },
+    "sentiment": 0.6075334548950195
+  },
+  {
+    "title": "7 Once-in-a-Decade Buying Opportunities to Seize Now",
+    "published": 1715317380,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 30.261999130249023,
+      "2024-05-10T14:30:00+00:00": 30.180099487304688,
+      "2024-05-10T15:30:00+00:00": 30.249900817871094,
+      "2024-05-10T16:30:00+00:00": 30.15999984741211,
+      "2024-05-10T17:30:00+00:00": 30.11009979248047,
+      "2024-05-10T18:30:00+00:00": 30.045000076293945,
+      "2024-05-10T19:30:00+00:00": 30.0
+    },
+    "sentiment": 0.7998408675193787
+  },
+  {
+    "title": "Intel\u2019s Battered Bulls Find Hopes Dashed Again After Huawei Ban",
+    "published": 1715276710,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.9028037786483765
+  },
+  {
+    "title": "Intel price target lowered by $5 at BofA, here's why",
+    "published": 1715243100,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.8197385668754578
+  },
+  {
+    "title": "Nasdaq, S&P, Dow futures slip as post-earnings moves weigh",
+    "published": 1715233200,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.957286536693573
+  },
+  {
+    "title": "Hey, Nvidia Stock Investors! Why May 22 Could Be a Make-or-Break Date for NVDA.",
+    "published": 1715231700,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.9209811687469482
+  },
+  {
+    "title": "Intel to partner with Japanese companies for chipmaking automation, Nikkei says",
+    "published": 1715230920,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.6918818354606628
+  },
+  {
+    "title": "Intel Corp. stock rises Thursday, still underperforms market",
+    "published": 1715226240,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.5497172474861145
+  },
+  {
+    "title": "Intel (INTC): New Sell Recommendation for This Technology Giant",
+    "published": 1715224560,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 29.93000030517578,
+      "2024-05-09T14:30:00+00:00": 30.21500015258789,
+      "2024-05-09T15:30:00+00:00": 30.165000915527344,
+      "2024-05-09T16:30:00+00:00": 30.141599655151367,
+      "2024-05-09T17:30:00+00:00": 30.104999542236328,
+      "2024-05-09T18:30:00+00:00": 30.09000015258789,
+      "2024-05-09T19:30:00+00:00": 30.139999389648438
+    },
+    "sentiment": 0.7713154554367065
+  },
+  {
+    "title": "Dow Scores Six-Day Winning Streak Amid Fed Officials Fears; Tesla Falls On Latest Probe",
+    "published": 1715200059,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.8573624491691589
+  },
+  {
+    "title": "Intel, Qualcomm Likely to See 'Modest' Impact From Tightened US Export Controls on Huawei, Wedbush Says",
+    "published": 1715195324,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9161194562911987
+  },
+  {
+    "title": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
+    "published": 1715191235,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9559382796287537
+  },
+  {
+    "title": "Why Intel Stock Pulled Back Today",
+    "published": 1715190369,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.592486560344696
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: S&P 500 rally stalls on mixed day for stocks",
+    "published": 1715185020,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9371368288993835
+  },
+  {
+    "title": "Intel Lowers Sales Outlook After China Chip Licenses Revoked",
+    "published": 1715181780,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9482095837593079
+  },
+  {
+    "title": "US chip manufacturing capacity projected to triple by 2032, fueled by CHIPS Act: Industry leader",
+    "published": 1715178087,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.8710634708404541
+  },
+  {
+    "title": "Intel Sees Revenue Falling Below Midpoint on US Huawei Ban",
+    "published": 1715172474,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9738340973854065
+  },
+  {
+    "title": "Intel, Qualcomm say exports to China blocked as Beijing objects",
+    "published": 1715170067,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.6887351870536804
+  },
+  {
+    "title": "Intel price target lowered by $11 at Stifel, here's why",
+    "published": 1715169660,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.795174241065979
+  },
+  {
+    "title": "News Highlights : Top Company News of the Day - Wednesday at 11 AM ET",
+    "published": 1715167008,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9392365217208862
+  },
+  {
+    "title": "Deadline Reminder: Law Offices of Howard G. Smith Reminds Investors of Looming Deadline in the Class Action Lawsuit Against Intel Corporation (INTC)",
+    "published": 1715166126,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9111625552177429
+  },
+  {
+    "title": "Video: Dow Movers: INTC, UNH",
+    "published": 1715160540,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9475284814834595
+  },
+  {
+    "title": "Intel\u2019s stock drops after U.S. revokes licenses for exports to China customer",
+    "published": 1715160480,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9600361585617065
+  },
+  {
+    "title": "Intel Says US Commerce Department Revokes Licenses for Exports of Certain Items to Chinese Customer",
+    "published": 1715157988,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.8905285596847534
+  },
+  {
+    "title": "Intel, Qualcomm in focus as companies confirm losing export licenses",
+    "published": 1715157000,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.4953027665615082
+  },
+  {
+    "title": "Intel flags revenue hit as U.S. revokes certain export licenses to Chinese customer",
+    "published": 1715155484,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.964432954788208
+  },
+  {
+    "title": "Intel slides as company lowers Q2 forecast after losing export license",
+    "published": 1715152620,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9415367841720581
+  },
+  {
+    "title": "Intel: U.S. Department of Commerce revoking some licenses for exports",
+    "published": 1715151360,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.8054618239402771
+  },
+  {
+    "title": "Intel sees Q2 revenue below midpoint of $12.5B-$13.5B",
+    "published": 1715151300,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.9350538849830627
+  },
+  {
+    "title": "Intel sees Q2 revenue $12.5B-$13.5B, but below midpoint",
+    "published": 1715151240,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.5066893696784973
+  },
+  {
+    "title": "Stick to Your Guns! This Is the Ideal Entry Point for Taiwan Semiconductor Stock \u2026",
+    "published": 1715146320,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.7864841222763062
+  },
+  {
+    "title": "US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei",
+    "published": 1715129985,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 30.010000228881836,
+      "2024-05-08T14:30:00+00:00": 29.911500930786133,
+      "2024-05-08T15:30:00+00:00": 29.795000076293945,
+      "2024-05-08T16:30:00+00:00": 29.820100784301758,
+      "2024-05-08T17:30:00+00:00": 29.780000686645508,
+      "2024-05-08T18:30:00+00:00": 29.905000686645508,
+      "2024-05-08T19:30:00+00:00": 29.954999923706055
+    },
+    "sentiment": 0.7055867910385132
+  },
+  {
+    "title": "Nvidia stock pops 9%, tops $1,000 after earnings beat forecasts, announces stock split and dividend hike",
+    "published": 1716495042,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.870771050453186
+  },
+  {
+    "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Intel Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - INTC",
+    "published": 1716490567,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.7998144030570984
+  },
+  {
+    "title": "Nvidia's AI Dominance Leaves Intel, AMD Scrambling For Second Place",
+    "published": 1716467280,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.8608121275901794
+  },
+  {
+    "title": "Nvidia tops $1,000, but chips mixed on Thursday",
+    "published": 1716461100,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.8126145601272583
+  },
+  {
+    "title": "Intel, Walt Disney share losses contribute to Dow's 100-point fall",
+    "published": 1716459240,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.9045202732086182
+  },
+  {
+    "title": "Should Investors Buy Intel Stock Instead of Applied Materials Stock?",
+    "published": 1716458460,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.9256805777549744
+  },
+  {
+    "title": "DARPA-backed startup EnCharge AI seeks $70M to develop hyperefficient chips: report",
+    "published": 1716456480,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.5269427299499512
+  },
+  {
+    "title": "US Commerce Department Grants $75M To Absolics For Semiconductor Facility In Georgia",
+    "published": 1716452280,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.8704742193222046
+  },
+  {
+    "title": "The 2025 Millionaire\u2019s Club: 3 Quantum Computing Stocks to Buy Now",
+    "published": 1716444780,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.9279943704605103
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Sinks as Nvidia Takes Aim at Key Market",
+    "published": 1716430260,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.6993675231933594
+  },
+  {
+    "title": "Nvidia tops $1,000, but chips slide on Thursday",
+    "published": 1716429300,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.9613772630691528
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Sinks as Nvidia (NASDAQ:NVDA) Takes Aim at Key Market",
+    "published": 1716427800,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 31.420000076293945,
+      "2024-05-23T14:30:00+00:00": 30.725000381469727,
+      "2024-05-23T15:30:00+00:00": 30.52739906311035,
+      "2024-05-23T16:30:00+00:00": 30.475000381469727,
+      "2024-05-23T17:30:00+00:00": 30.354999542236328,
+      "2024-05-23T18:30:00+00:00": 29.985000610351562,
+      "2024-05-23T19:30:00+00:00": 30.020000457763672
+    },
+    "sentiment": 0.7820507287979126
+  },
+  {
+    "title": "Global Oil Market: We Are Potentially Weeks Away From Moment Of Truth",
+    "published": 1716420295,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.888884961605072
+  },
+  {
+    "title": "Nvidia stock pops 4% after earnings beat forecasts, announces stock split and dividend hike",
+    "published": 1716409445,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.6719102263450623
+  },
+  {
+    "title": "Intel Stock: Why I'm Turning Bullish Now (Ratings Upgrade)",
+    "published": 1716392447,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.7139908671379089
+  },
+  {
+    "title": "Nvidia stock retreats from record high ahead of crucial first quarter earnings report",
+    "published": 1716385093,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.9695372581481934
+  },
+  {
+    "title": "European Commission official sees $100 billion in private chip investment by 2030",
+    "published": 1716376502,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.7506580948829651
+  },
+  {
+    "title": "Intel AI Platforms Accelerate Microsoft Phi-3 GenAI Models",
+    "published": 1716364293,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.8199716806411743
+  },
+  {
+    "title": "3 Retirement Stocks to Buy at 52-Week Lows",
+    "published": 1716364260,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.8518999814987183
+  },
+  {
+    "title": "Nvidia Reports Beat-And-Raise Q1, Announces 150% Dividend Hike, 10-For-1 Stock Split (UPDATED)",
+    "published": 1716350520,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.686557412147522
+  },
+  {
+    "title": "Intel\u2019s (NASDAQ:INTC) 2023 was Packed with Hiring",
+    "published": 1716344460,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 31.889999389648438,
+      "2024-05-22T14:30:00+00:00": 31.825000762939453,
+      "2024-05-22T15:30:00+00:00": 31.9950008392334,
+      "2024-05-22T16:30:00+00:00": 31.774999618530273,
+      "2024-05-22T17:30:00+00:00": 31.56999969482422,
+      "2024-05-22T18:30:00+00:00": 31.190000534057617,
+      "2024-05-22T19:30:00+00:00": 31.327800750732422
+    },
+    "sentiment": 0.8706052303314209
+  },
+  {
+    "title": "3 Stocks That Could Be the Next Apple, Amazon, or Google by 2034",
+    "published": 1716320820,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9454653263092041
+  },
+  {
+    "title": "3 Hydrogen Stocks to Buy Now: May 2024",
+    "published": 1716305400,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9353590607643127
+  },
+  {
+    "title": "BUZZ Investing: Strong Earnings Boost Optimism",
+    "published": 1716298500,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.950040876865387
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Slips despite Lunar Lake Advances",
+    "published": 1716295500,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9607577919960022
+  },
+  {
+    "title": "Intel : Accelerates Microsoft Phi-3 GenAI Models",
+    "published": 1716295029,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.5542399287223816
+  },
+  {
+    "title": "Should You Play Nvidia Earnings With Bullish ETFs?",
+    "published": 1716287940,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9076817035675049
+  },
+  {
+    "title": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
+    "published": 1716285900,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9216967225074768
+  },
+  {
+    "title": "Insight partners with Microsoft, Qualcomm as early provider of AI PCs",
+    "published": 1716281940,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.5396856069564819
+  },
+  {
+    "title": "Should You Follow Billionaire Stanley Druckenmiller and Sell Nvidia Stock Before Thursday?",
+    "published": 1716278580,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9248293042182922
+  },
+  {
+    "title": "Intel Stock is an AI Play You Can Skip Out On",
+    "published": 1716270240,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.8661527633666992
+  },
+  {
+    "title": "3 Stocks You\u2019ll Wish You Owned Sooner",
+    "published": 1716269640,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.9293655753135681
+  },
+  {
+    "title": "SMCI To Use S&P 500 Status To Raise Funds, Predicts AI Breakthroughs In Medicine, Weather Forecasting",
+    "published": 1716263400,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 32.0,
+      "2024-05-21T14:30:00+00:00": 31.834999084472656,
+      "2024-05-21T15:30:00+00:00": 31.75,
+      "2024-05-21T16:30:00+00:00": 31.704999923706055,
+      "2024-05-21T17:30:00+00:00": 31.649999618530273,
+      "2024-05-21T18:30:00+00:00": 31.72249984741211,
+      "2024-05-21T19:30:00+00:00": 31.725000381469727
+    },
+    "sentiment": 0.7984199523925781
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella on How AI Copilot+ PCs Beat Macs (Exclusive)",
+    "published": 1716231600,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.8837202191352844
+  },
+  {
+    "title": "Microsoft debuts new Copilot+ PCs using OpenAI's GPT-4o while taking shots at Apple",
+    "published": 1716228249,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.6103267669677734
+  },
+  {
+    "title": "Robbins LLP Urges Intel Corporation (INTC) Stockholders with Large Losses to Contact the Firm for Information About Their Rights",
+    "published": 1716215826,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.9034851789474487
+  },
+  {
+    "title": "Applied Materials, Micron lead chips higher as sector awaits Nvidia's results",
+    "published": 1716206280,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.8589116930961609
+  },
+  {
+    "title": "What You Missed This Week in EVs and Clean Energy",
+    "published": 1716199080,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.8853273987770081
+  },
+  {
+    "title": "Explainer: can Microsoft revamp PC sales with AI?",
+    "published": 1716195434,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.8609583377838135
+  },
+  {
+    "title": "Intel Corp. stock underperforms Monday when compared to competitors despite daily gains",
+    "published": 1716176460,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.8105459809303284
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Notches Up as the Weibu GP10 Appears",
+    "published": 1716168720,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.9364976286888123
+  },
+  {
+    "title": "Nvidia Set For Steady Gains With Software-Centric Shift And Blackwell Transition, Analysts Say",
+    "published": 1716167880,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 31.850000381469727,
+      "2024-05-20T14:30:00+00:00": 32.275001525878906,
+      "2024-05-20T15:30:00+00:00": 32.345001220703125,
+      "2024-05-20T16:30:00+00:00": 32.08000183105469,
+      "2024-05-20T17:30:00+00:00": 32.099998474121094,
+      "2024-05-20T18:30:00+00:00": 32.04999923706055,
+      "2024-05-20T19:30:00+00:00": 32.064701080322266
+    },
+    "sentiment": 0.9484257698059082
+  },
+  {
+    "title": "Readers Identify 23 Ideal April Dividend Buys",
+    "published": 1716119593,
+    "day_prices": {},
+    "sentiment": 0.9257456660270691
+  },
+  {
+    "title": "Another AI Category To Take Notice Of: High Band Memory Chip Manufacturers",
+    "published": 1716113400,
+    "day_prices": {},
+    "sentiment": 0.9356505870819092
+  },
+  {
+    "title": "Intel Stock Gets an Upgrade, but \u2018Don\u2019t Jump In,\u2019 Says Top Analyst",
+    "published": 1716102240,
+    "day_prices": {},
+    "sentiment": 0.9255837202072144
+  },
+  {
+    "title": "Wall Street Breakfast: The Week Ahead",
+    "published": 1716100540,
+    "day_prices": {},
+    "sentiment": 0.9028444886207581
+  },
+  {
+    "title": "2 Top Stocks That Could Be Brilliant Buys",
+    "published": 1716040800,
+    "day_prices": {},
+    "sentiment": 0.8433687686920166
+  },
+  {
+    "title": "Bet Against the Crowd: 3 Stocks Set to Surge Against All Odds",
+    "published": 1716012360,
+    "day_prices": {},
+    "sentiment": 0.6880028247833252
+  },
+  {
+    "title": "Intel Could Turn Into a Success Story, but the Price to Pay Is Patience",
+    "published": 1715954402,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 32.029998779296875,
+      "2024-05-17T14:30:00+00:00": 32.095001220703125,
+      "2024-05-17T15:30:00+00:00": 31.889999389648438,
+      "2024-05-17T16:30:00+00:00": 31.69930076599121,
+      "2024-05-17T17:30:00+00:00": 31.790000915527344,
+      "2024-05-17T18:30:00+00:00": 31.6299991607666,
+      "2024-05-17T19:30:00+00:00": 31.834999084472656
+    },
+    "sentiment": 0.9049561619758606
+  },
+  {
+    "title": "3 Semiconductor Stocks That Could Be Heading Six-Feet Under",
+    "published": 1715943120,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 32.029998779296875,
+      "2024-05-17T14:30:00+00:00": 32.095001220703125,
+      "2024-05-17T15:30:00+00:00": 31.889999389648438,
+      "2024-05-17T16:30:00+00:00": 31.69930076599121,
+      "2024-05-17T17:30:00+00:00": 31.790000915527344,
+      "2024-05-17T18:30:00+00:00": 31.6299991607666,
+      "2024-05-17T19:30:00+00:00": 31.834999084472656
+    },
+    "sentiment": 0.5867525935173035
+  },
+  {
+    "title": "Intel: Future Is Cloudy",
+    "published": 1715937933,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 32.029998779296875,
+      "2024-05-17T14:30:00+00:00": 32.095001220703125,
+      "2024-05-17T15:30:00+00:00": 31.889999389648438,
+      "2024-05-17T16:30:00+00:00": 31.69930076599121,
+      "2024-05-17T17:30:00+00:00": 31.790000915527344,
+      "2024-05-17T18:30:00+00:00": 31.6299991607666,
+      "2024-05-17T19:30:00+00:00": 31.834999084472656
+    },
+    "sentiment": 0.8922166228294373
+  },
+  {
+    "title": "Hidden Treasures: 7 Undervalued Tech Stocks to Dig Up Now",
+    "published": 1715923140,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 32.029998779296875,
+      "2024-05-17T14:30:00+00:00": 32.095001220703125,
+      "2024-05-17T15:30:00+00:00": 31.889999389648438,
+      "2024-05-17T16:30:00+00:00": 31.69930076599121,
+      "2024-05-17T17:30:00+00:00": 31.790000915527344,
+      "2024-05-17T18:30:00+00:00": 31.6299991607666,
+      "2024-05-17T19:30:00+00:00": 31.834999084472656
+    },
+    "sentiment": 0.7913796901702881
+  },
+  {
+    "title": "New Intel (NASDAQ:INTC) Leaks Suggest New Chips Sooner than Later",
+    "published": 1715911080,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 32.029998779296875,
+      "2024-05-17T14:30:00+00:00": 32.095001220703125,
+      "2024-05-17T15:30:00+00:00": 31.889999389648438,
+      "2024-05-17T16:30:00+00:00": 31.69930076599121,
+      "2024-05-17T17:30:00+00:00": 31.790000915527344,
+      "2024-05-17T18:30:00+00:00": 31.6299991607666,
+      "2024-05-17T19:30:00+00:00": 31.834999084472656
+    },
+    "sentiment": 0.7396939992904663
+  },
+  {
+    "title": "Stability AI in talks to raise money from investor group",
+    "published": 1715898821,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.8315903544425964
+  },
+  {
+    "title": "Intel upgraded, Texas Instruments initiated: Wall Street's top analyst calls",
+    "published": 1715867465,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.8683193325996399
+  },
+  {
+    "title": "The Dow closed above 40,000 for the first time. The number is big but means little for your 401(k)",
+    "published": 1715864700,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.5338935852050781
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Ticks Up on Processor Leaks and Thunderbolt Share",
+    "published": 1715862180,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.8298951983451843
+  },
+  {
+    "title": "1 Small Chip Stock Outperforming AMD, Intel, and Others in a Crucial Area of AI",
+    "published": 1715860800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.845379114151001
+  },
+  {
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1715857080,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.9132178425788879
+  },
+  {
+    "title": "Larry Robbins' Glenview Capital takes in Broadcom, exits Intel among Q1 moves",
+    "published": 1715854080,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.915634036064148
+  },
+  {
+    "title": "Is Now the Time to Buy 3 of the S&P 500's Worst-Performing Stocks?",
+    "published": 1715850900,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.5280811190605164
+  },
+  {
+    "title": "34 Analysts Have This To Say About Intel",
+    "published": 1715843160,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.925626814365387
+  },
+  {
+    "title": "3 Secret Quantum Computing Stocks Flying Below Wall Street\u2019s Radar",
+    "published": 1715838540,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.7561548352241516
+  },
+  {
+    "title": "Wolfe Research gets more bullish on Intel, upgrades shares",
+    "published": 1715833680,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.7865509986877441
+  },
+  {
+    "title": "David Tepper Bullish On China: Alibaba Now No. 1 Holding, Trimmed Stakes In Nvidia, Microsoft, Amazon, Meta, Google",
+    "published": 1715823540,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 31.639999389648438,
+      "2024-05-16T14:30:00+00:00": 31.614999771118164,
+      "2024-05-16T15:30:00+00:00": 31.6914005279541,
+      "2024-05-16T16:30:00+00:00": 31.735000610351562,
+      "2024-05-16T17:30:00+00:00": 31.96500015258789,
+      "2024-05-16T18:30:00+00:00": 32.119998931884766,
+      "2024-05-16T19:30:00+00:00": 32.099998474121094
+    },
+    "sentiment": 0.7621141076087952
   }
 ]

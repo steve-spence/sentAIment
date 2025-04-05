@@ -1,1654 +1,462 @@
 [
   {
-    "title": "UAL Stock Up on Higher Credit Card, Club Access Fees: Time to Buy?",
-    "published": 1742909400,
-    "posting_price": 81.0,
-    "close_price": 78.90000153,
-    "percent_change": -2.5925907
-  },
-  {
-    "title": "United Airlines Breaks Ground on New $177M Ground Service Equipment Facility and Opens New State-of-the-Art Technical Operations Training Facility at George Bush Intercontinental Airport",
-    "published": 1742904000,
-    "posting_price": 81.0,
-    "close_price": 78.90000153,
-    "percent_change": -2.5925907
-  },
-  {
-    "title": "Your United Airlines Credit Card Is Going to Cost More",
-    "published": 1742851980,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "United increases airport lounge fees to counter overcrowding",
-    "published": 1742846377,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "Equity Markets Rise on March Private Sector Growth Data",
-    "published": 1742846141,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "United Airlines Stock Rises as Airline Raises Credit Card, Club Access Fees",
-    "published": 1742839336,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "United Airlines raises lounge, card fees amid financial pressure",
-    "published": 1742834251,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "United Hikes Card, Lounge Fees. Airline Stocks Are Rising.",
-    "published": 1742828760,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "Chase and United Airlines Announce New and Enhanced Travel Benefits for United MileagePlus Cardmembers, Providing the Most Value It\u2019s Ever Offered",
-    "published": 1742817600,
-    "posting_price": 76.65000153,
-    "close_price": 80.22000122,
-    "percent_change": 4.65753375
-  },
-  {
-    "title": "United Airlines (UAL) Laps the Stock Market: Here's Why",
-    "published": 1742594419,
-    "posting_price": 72.79000092,
-    "close_price": 74.87000275,
-    "percent_change": 2.85753785
-  },
-  {
-    "title": "London's Heathrow Airport reopens after fire causes outage",
-    "published": 1742584946,
-    "posting_price": 72.79000092,
-    "close_price": 74.87000275,
-    "percent_change": 2.85753785
-  },
-  {
-    "title": "Here's Why United Airlines (UAL) is a Strong Value Stock",
-    "published": 1742566207,
-    "posting_price": 72.79000092,
-    "close_price": 74.87000275,
-    "percent_change": 2.85753785
-  },
-  {
-    "title": "Fire closes London's Heathrow Airport, disrupting global travel",
-    "published": 1742562902,
-    "posting_price": 72.79000092,
-    "close_price": 74.87000275,
-    "percent_change": 2.85753785
-  },
-  {
-    "title": "Heathrow Airport shuts down after fire, traffic snarled",
-    "published": 1742558624,
-    "posting_price": 72.79000092,
-    "close_price": 74.87000275,
-    "percent_change": 2.85753785
-  },
-  {
-    "title": "Think It's Too Late to Buy United Airlines Stock? Here's Why There's Still Time.",
-    "published": 1742425020,
-    "posting_price": 71.33999634,
-    "close_price": 74.43000031,
-    "percent_change": 4.33137669
-  },
-  {
-    "title": "Should You Buy United Airlines (UAL) Ahead of Earnings?",
-    "published": 1713199200,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Dow hit by hot retail sales, Middle East nerves",
-    "published": 1713197820,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "Hexcel Corporation: The Recent Downgrades Make Sense",
-    "published": 1713197745,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "United Airlines: Commendable Turnaround, Stock Is A Buy",
-    "published": 1713186226,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "American Airlines' pilots warned of safety issues - report",
-    "published": 1713180060,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "United Airlines Q1 results preview: FAA scrutiny, Boeing woes might weigh on sentiment",
-    "published": 1713177900,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "United Airlines Q1 Earnings Preview: Analyst Estimates, Safety Concerns, Underperformance To Delta \u2014 Key Items To Watch",
-    "published": 1713157500,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "This week: Retail sales, United Airlines and Netflix earnings",
-    "published": 1713150669,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "Lufthansa, United modify schedules after Iran launches attack on Israel",
-    "published": 1713147528,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "United Airlines cancels Sunday's flight to Tel Aviv",
-    "published": 1713094049,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "United Airlines cancels Tel Aviv flights over Israeli airspace restrictions",
-    "published": 1713033749,
-    "posting_price": 42.15000153,
-    "close_price": 41.04000092,
-    "percent_change": -2.63345331
-  },
-  {
-    "title": "Airlines urge Biden administration to cap number of U.S.-China flights",
-    "published": 1712921460,
-    "posting_price": 42.09999847,
-    "close_price": 41.79999924,
-    "percent_change": -0.71258727
-  },
-  {
-    "title": "First Week of UAL May 31st Options Trading",
-    "published": 1712916900,
-    "posting_price": 42.09999847,
-    "close_price": 41.79999924,
-    "percent_change": -0.71258727
-  },
-  {
-    "title": "Bank of America Securities Remains a Buy on United Airlines Holdings (UAL)",
-    "published": 1712911020,
-    "posting_price": 42.09999847,
-    "close_price": 41.79999924,
-    "percent_change": -0.71258727
-  },
-  {
-    "title": "United Airlines Holdings Inc. stock outperforms competitors despite losses on the day",
-    "published": 1712895660,
-    "posting_price": 42.09999847,
-    "close_price": 41.79999924,
-    "percent_change": -0.71258727
-  },
-  {
-    "title": "United Airlines (UAL) Outpaces Stock Market Gains: What You Should Know",
-    "published": 1712873719,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "Will United (UAL) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1712851813,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "Sabre's (SABR) Air Price IQ to Boost LATAM's Pricing Strategies",
-    "published": 1712841600,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "Seeking Clues to United (UAL) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-    "published": 1712841315,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "Looking for Stocks with Positive Earnings Momentum? Check Out These 2 Transportation Names",
-    "published": 1712840410,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "The Airline Industry\u2019s Biggest Climate Challenge: A Lack of Clean Fuel",
-    "published": 1712829604,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "United Airlines: Buy The Dip Now And Fly First Class Later",
-    "published": 1712828427,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "Airlines and members of Congress urge Washington to limit Chinese flights into U.S. -report",
-    "published": 1712799960,
-    "posting_price": 42.29999924,
-    "close_price": 43.04000092,
-    "percent_change": 1.74941299
-  },
-  {
-    "title": "Delta Tops Q1 Targets, Guides Just Above Views; Airlines Rally",
-    "published": 1712758135,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "Delta, Reporting Record First-Quarter Revenue, Projects Another Strong Summer",
-    "published": 1712756692,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "AI Unicorns: DataRobot Delays Listing Plans",
-    "published": 1712751780,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "SriLankan Airlines Leverages UATP Merchant Status to Accelerate Growth and Reduce Payment Costs",
-    "published": 1712750400,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "Delta\u2019s stock leaps, as accelerating business-travel demand fuels record revenue",
-    "published": 1712739120,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "12 Industrials Stocks Moving In Wednesday's Pre-Market Session",
-    "published": 1712733180,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "Delta Air Lines posts a narrow Q1 profit and says travel demand remains strong despite flight scares",
-    "published": 1712730780,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "Wall Street Favorites: 3 Growth Stocks With Strong Buy Ratings for April 2024",
-    "published": 1712714820,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "Delta sees record revenue as business travel accelerates, but stock turns lower",
-    "published": 1712714040,
-    "posting_price": 44.25999832,
-    "close_price": 42.36999893,
-    "percent_change": -4.2702202
-  },
-  {
-    "title": "Congress summons Boeing's CEO to testify on its jetliner safety following new whistleblower charges",
-    "published": 1712700000,
-    "posting_price": 43.43000031,
-    "close_price": 43.43999863,
-    "percent_change": 0.02302169
-  },
-  {
-    "title": "Will United Airlines (UAL) Report Negative Earnings Next Week? What You Should Know",
-    "published": 1712671215,
-    "posting_price": 43.43000031,
-    "close_price": 43.43999863,
-    "percent_change": 0.02302169
-  },
-  {
-    "title": "FAA Safety Review Delays United Airlines' Two New Routes: Report",
-    "published": 1712655120,
-    "posting_price": 43.43000031,
-    "close_price": 43.43999863,
-    "percent_change": 0.02302169
-  },
-  {
-    "title": "United Airlines price target lowered by $5 at Susquehanna, here's why",
-    "published": 1712642160,
-    "posting_price": 43.43000031,
-    "close_price": 43.43999863,
-    "percent_change": 0.02302169
-  },
-  {
-    "title": "Cracking The Code: Understanding Analyst Reviews For United Airlines Holdings",
-    "published": 1712631780,
-    "posting_price": 43.43000031,
-    "close_price": 43.43999863,
-    "percent_change": 0.02302169
-  },
-  {
-    "title": "These Stocks Moved the Most Today: Tesla, MicroStrategy, GE Vernova, Ducommun, Apartment Income REIT, Fastly, SoFi, and More",
-    "published": 1712608080,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "UPDATE 1-United Airlines delays flights on two new routes amid FAA safety probe",
-    "published": 1712603722,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "United Airlines delays flights on two new routes amid FAA safety probe",
-    "published": 1712602348,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "United Airlines delays flights on two new routes amid FAA probe",
-    "published": 1712587539,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "Wall Street Bulls Look Optimistic About United (UAL): Should You Buy?",
-    "published": 1712583011,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "These Stocks Are Moving the Most Today: Tesla, Boeing, United Airlines, MicroStrategy, Taiwan Semi, JPMorgan, and More",
-    "published": 1712570340,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "If You Invested $100 In This Stock 15 Years Ago, You Would Have $600 Today",
-    "published": 1712572560,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "United Airlines Holdings Inc. stock underperforms Monday when compared to competitors despite daily gains",
-    "published": 1712549940,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "Some eclipse watchers are spending big bucks to outrun their No. 1 enemy: clouds",
-    "published": 1712380380,
-    "posting_price": 42.72000122,
-    "close_price": 43.31000137,
-    "percent_change": 1.38108645
-  },
-  {
-    "title": "United Airlines postpones investor day amid US FAA investigation following safety incidents",
-    "published": 1712354543,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "United Airlines (UAL) Stock Slides as Market Rises: Facts to Know Before You Trade",
-    "published": 1712353817,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "United postpones May investor day following safety incidents",
-    "published": 1712353702,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "United Airlines launches historic nonstop route between Houston and Georgetown, Guyana",
-    "published": 1712320634,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "Safety Saga: Investigators Reportedly Scrutinize United Pilot's Braking Technique Following Runway Skid",
-    "published": 1712301000,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "United Airlines postpones investor day",
-    "published": 1712294760,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "United Airlines delays May Investor Day due to safety incidents, Bloomberg says",
-    "published": 1712291100,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "United calls off Investor Day amid increased FAA oversight",
-    "published": 1712289000,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "Barclays Keeps Their Buy Rating on United Airlines Holdings (UAL)",
-    "published": 1712284020,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "Notable Friday Option Activity: UAL, MRNS, ABNB",
-    "published": 1712283540,
-    "posting_price": 43.22000122,
-    "close_price": 43.18999863,
-    "percent_change": -0.0694183
-  },
-  {
-    "title": "Pilot says brakes seemed less effective than usual before a United Airlines jet slid off a taxiway",
-    "published": 1712261410,
-    "posting_price": 44.97999954,
-    "close_price": 43.22000122,
-    "percent_change": -3.91284646
-  },
-  {
-    "title": "Boeing pays Alaska Airlines $160 million in compensation for the blowout of a panel during flight",
-    "published": 1712232780,
-    "posting_price": 44.97999954,
-    "close_price": 43.22000122,
-    "percent_change": -3.91284646
-  },
-  {
-    "title": "May 24th Options Now Available For United Airlines Holdings (UAL)",
-    "published": 1712224740,
-    "posting_price": 44.97999954,
-    "close_price": 43.22000122,
-    "percent_change": -3.91284646
-  },
-  {
-    "title": "United Makes It Easier for Customers Who Use Wheelchairs to Book Flights That Can Accommodate Their Personal Device",
-    "published": 1712144113,
-    "posting_price": 45.5,
-    "close_price": 44.61999893,
-    "percent_change": -1.93406829
-  },
-  {
-    "title": "United Airlines Holdings Inc. stock underperforms Wednesday when compared to competitors",
-    "published": 1712118120,
-    "posting_price": 45.5,
-    "close_price": 44.61999893,
-    "percent_change": -1.93406829
-  },
-  {
-    "title": "Boeing is falling so behind on plane deliveries that United is asking pilots to volunteer for unpaid leave, potentially for months",
-    "published": 1712090353,
-    "posting_price": 46.54999924,
-    "close_price": 45.65000153,
-    "percent_change": -1.93340005
-  },
-  {
-    "title": "United we fall: Airline faces intense scrutiny after litany of plane issues, from a cracked windshield to overflowing toilets",
-    "published": 1712072624,
-    "posting_price": 46.54999924,
-    "close_price": 45.65000153,
-    "percent_change": -1.93340005
-  },
-  {
-    "title": "The Millionaire\u2019s Shortcut: 3 Stocks to Transform Your Portfolio This Month",
-    "published": 1712054220,
-    "posting_price": 46.54999924,
-    "close_price": 45.65000153,
-    "percent_change": -1.93340005
-  },
-  {
-    "title": "Jim Cramer Suggests 'Ka-Ching' In On United Airlines Stocks Amid Rising Values: 'You've Got A Nice Gain There'",
-    "published": 1712031720,
-    "posting_price": 46.54999924,
-    "close_price": 45.65000153,
-    "percent_change": -1.93340005
-  },
-  {
-    "title": "United Airlines asks pilots to take voluntary unpaid leave because of Boeing delivery delay",
-    "published": 1712016413,
-    "posting_price": 46.54999924,
-    "close_price": 45.65000153,
-    "percent_change": -1.93340005
-  },
-  {
-    "title": "3 Airline Stocks to Watch From a Promising Industry",
-    "published": 1714487340,
-    "posting_price": 52.41999817,
-    "close_price": 51.45999908,
-    "percent_change": -1.8313604
-  },
-  {
-    "title": "British National to Reimburse United Airlines $20,638 for Interfering with Flight Crew on Flight Diverted to Bangor",
-    "published": 1714477455,
-    "posting_price": 52.41999817,
-    "close_price": 51.45999908,
-    "percent_change": -1.8313604
-  },
-  {
-    "title": "House and Senate negotiate bill to help FAA add more air traffic controllers and safety inspectors",
-    "published": 1714393320,
-    "posting_price": 52.79999924,
-    "close_price": 52.97000122,
-    "percent_change": 0.32197345
-  },
-  {
-    "title": "Insider Q&A: Avelo Airlines CEO Andrew Levy describes the challenges of starting a new carrier",
-    "published": 1714375148,
-    "posting_price": 52.79999924,
-    "close_price": 52.97000122,
-    "percent_change": 0.32197345
-  },
-  {
-    "title": "The Top 3 Travel Stocks to Buy in April 2024",
-    "published": 1714216500,
-    "posting_price": 52.79999924,
-    "close_price": 52.97000122,
-    "percent_change": 0.32197345
-  },
-  {
-    "title": "Investors Heavily Search United Airlines Holdings Inc (UAL): Here is What You Need to Know",
-    "published": 1714136413,
-    "posting_price": 53.06999969,
-    "close_price": 52.84000015,
-    "percent_change": -0.433389
-  },
-  {
-    "title": "United Airlines Holdings Unusual Options Activity For April 25",
-    "published": 1714009680,
-    "posting_price": 52.27999878,
-    "close_price": 53.50999832,
-    "percent_change": 2.35271532
-  },
-  {
-    "title": "Boeing stock slides after tumultuous quarter headlined by 737 Max crisis",
-    "published": 1713989464,
-    "posting_price": 53.68999863,
-    "close_price": 52.66999817,
-    "percent_change": -1.89979603
-  },
-  {
-    "title": "US mandates new airline refund rules, fee disclosures",
-    "published": 1713975848,
-    "posting_price": 53.68999863,
-    "close_price": 52.66999817,
-    "percent_change": -1.89979603
-  },
-  {
-    "title": "Notable Wednesday Option Activity: UAL, PCG, GOOGL",
-    "published": 1713925200,
-    "posting_price": 53.68999863,
-    "close_price": 52.66999817,
-    "percent_change": -1.89979603
-  },
-  {
-    "title": "Boeing earnings preview: Delivery outlook, negative cash flow impact among big concern for investors",
-    "published": 1713897353,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "Grounded No More: 3 Regional Airline Stocks to Lift Your Portfolio",
-    "published": 1713895317,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "JetBlue stock plunges as much as 19% as profitability goal hits setback",
-    "published": 1713890366,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "JetBlue\u2019s stock slides 16%, on pace for biggest decline in 4 years, after first-quarter loss widens",
-    "published": 1713871740,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "JetBlue\u2019s stock slides 10% premarket as Q1 loss widened significantly, CEO warns on full year",
-    "published": 1713859620,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "Amazon.com, United Airlines And 2 Other Stocks Insiders Are Selling",
-    "published": 1713855900,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "The Magnificent 7 Get Set To Report Amidst An S&P 500 Losing Streak",
-    "published": 1713833700,
-    "posting_price": 53.09999847,
-    "close_price": 54.02999878,
-    "percent_change": 1.75141306
-  },
-  {
-    "title": "Monday Sector Leaders: Industrial, Consumer Products",
-    "published": 1713749940,
-    "posting_price": 51.86000061,
-    "close_price": 53.93999863,
-    "percent_change": 4.01079444
-  },
-  {
-    "title": "How United Airlines uses AI to make flying the friendly skies a bit easier",
-    "published": 1713735478,
-    "posting_price": 51.86000061,
-    "close_price": 53.93999863,
-    "percent_change": 4.01079444
-  },
-  {
-    "title": "Will airline ticket prices go back up this summer? What experts say.",
-    "published": 1713715220,
-    "posting_price": 51.86000061,
-    "close_price": 53.93999863,
-    "percent_change": 4.01079444
-  },
-  {
-    "title": "The aviation industry is looking for its own Tesla",
-    "published": 1713708021,
-    "posting_price": 51.86000061,
-    "close_price": 53.93999863,
-    "percent_change": 4.01079444
-  },
-  {
-    "title": "Alphabet, United Airlines, GE Vernova, and More Stocks Set to Climb",
-    "published": 1713552480,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "U.S. FAA to probe baseball coach in cockpit during a flight from Denver to Toronto",
-    "published": 1713552197,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "Federal officials are investigating a Rockies coach's cockpit visit during a United flight",
-    "published": 1713544629,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "United Airlines cancels flights to Tel Aviv through May 2 on security concerns",
-    "published": 1713543687,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "Spirit Airlines: The Spirit Is Gone, Time To Sell",
-    "published": 1713538355,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "Airline Stock Roundup: UAL & ALK Report Q1 Loss, SAVE Tweaks View",
-    "published": 1713532980,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "Why Shares in United Airlines Were Higher This Week",
-    "published": 1713531112,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "Israel Strikes Back (Kind Of)--Time To Revisit Our Israel-Bombs-Iran Trade After Israel's Performative Air Strikes On Iran",
-    "published": 1713527760,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "First Week of December 20th Options Trading For United Airlines Holdings (UAL)",
-    "published": 1713523440,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "If You Invested $1000 In This Stock 15 Years Ago, You Would Have $8,000 Today",
-    "published": 1713522780,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "Notable open interest changes for April 19th",
-    "published": 1713513360,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "UPDATE 3-Airlines reroute flights after Israeli attack on Iran",
-    "published": 1713512722,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "FAA opens investigation into individual entering United aircraft cockpit",
-    "published": 1713496260,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "AskSlim Market Week - Friday, April 19",
-    "published": 1713495120,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "FAA, United Investigate Cockpit Visitor During Baseball Team\u2019s Flight",
-    "published": 1713484800,
-    "posting_price": 51.18999863,
-    "close_price": 51.38000107,
-    "percent_change": 0.37117102
-  },
-  {
-    "title": "United Airlines Holdings, Inc. (NASDAQ:UAL) Q1 2024 Earnings Call Transcript",
-    "published": 1713445626,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines warns of major consequences of Boeing 737 Max blowout",
-    "published": 1713441672,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Upbeat Summer Travel Expected: Buy Airlines ETF?",
-    "published": 1713441600,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Most Active Equity Options For Mid-Day - Thursday, April 18",
-    "published": 1713440820,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "The Israel-Bombs-Iran Trade: This Trade That Worked After The Israel-Hamas War Started Could Work Again",
-    "published": 1713430440,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines price target raised by $13 at Bernstein, here's why",
-    "published": 1713430140,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: United Airlines Holdings (UAL) and Alaska Air (ALK)",
-    "published": 1713429120,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines price target raised by $4 at Raymond James, here's why",
-    "published": 1713427920,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Notable open interest changes for April 18th",
-    "published": 1713426960,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Tesla To $123? Here Are 10 Top Analyst Forecasts For Thursday",
-    "published": 1713426600,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Q1 2024 United Airlines Holdings Inc Earnings Call",
-    "published": 1713426350,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Heard on the Street Wednesday Recap: Equities Losing Favor?",
-    "published": 1713426180,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines Holdings (UAL): Assessing the Current Valuation",
-    "published": 1713424440,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines will receive compensation from Boeing for MAX 9 grounding",
-    "published": 1713424380,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines Holdings Inc (UAL) (Q1 2024) Earnings Call Transcript Highlights: Navigating ...",
-    "published": 1713423745,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines price target raised by $5 at Susquehanna, here's why",
-    "published": 1713420360,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines price target raised by $10 at BofA, here's why",
-    "published": 1713420000,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Analysts Conflicted on These Industrial Goods Names: CSX (CSX) and United Airlines Holdings (UAL)",
-    "published": 1713418920,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines price target raised to $80 from $75 at Morgan Stanley",
-    "published": 1713418680,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Decoding United Airlines Holdings Inc (UAL): A Strategic SWOT Insight",
-    "published": 1713416618,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "Buy Rating Affirmed for United Airlines Amidst Robust Cash Flow Management and Positive Outlook",
-    "published": 1713415620,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "3 Russell 2000 Stocks to Buy Now: Q2 Edition",
-    "published": 1713411360,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United Airlines: Navigating Headwinds with Caution Amid Expansion and Debt Challenges",
-    "published": 1713405960,
-    "posting_price": 49.22000122,
-    "close_price": 51.41999817,
-    "percent_change": 4.46972145
-  },
-  {
-    "title": "United said it lost $200 million from the temporary grounding of the Boeing 737 Max 9",
-    "published": 1713387718,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "UPDATE 1-United Airlines says Boeing to compensate for damages caused by MAX 9 fleet grounding",
-    "published": 1713385550,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Leads Airline Rally On Earnings, Records $200 Million Hit From Boeing Grounding",
-    "published": 1713355235,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "These Stocks Moved the Most Today: United Airlines, Travelers, DJT, J.B. Hunt, ASML, Autodesk, and More",
-    "published": 1713385320,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines says Boeing to compensate for damages caused by MAX 9 grounding",
-    "published": 1713385038,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines says it would have been profitable last quarter if not for Boeing\u2019s $200 million screwup",
-    "published": 1713381066,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines says FAA review places restrictions on flying new aircraft",
-    "published": 1713378989,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Stock: Q1 Earnings Surge Vs. Technical Red Flags",
-    "published": 1713378378,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Stock Soars Despite Boeing Crisis Impact",
-    "published": 1713376965,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Shakes off Plane Delays\u2014and Its Stock Surges",
-    "published": 1713375930,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines (UAL) Q1 Earnings & Revenues Top Estimates",
-    "published": 1713374880,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines sets bar for Q1 cargo performance",
-    "published": 1713373559,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "How major US stock indexes fared Wednesday, 4/17/2024",
-    "published": 1713370740,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Chip stocks weigh as tech retreat gathers pace",
-    "published": 1713370440,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines says Boeing will compensate for financial hit caused by 737 MAX 9 grounding",
-    "published": 1713370375,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Stock market today: Wall Street dips to send S&P 500 to longest losing streak since January",
-    "published": 1713369958,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Why United Airlines Stock Is Flying Higher Today",
-    "published": 1713366282,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Holdings, Inc. (UAL) Q1 2024 Earnings Call Transcript",
-    "published": 1713365289,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Boeing impact to United's Q1 profit was 'limited': Analyst",
-    "published": 1713364993,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "ASML Holding, United Airlines, LVMH: Trending tickers",
-    "published": 1713363131,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Stock Is Flying. Why It\u2019s Lifting the Rest of the Sector.",
-    "published": 1713355320,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United stock pops on Q1 results despite $200M Boeing hit",
-    "published": 1713361075,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Why Travelers Shares Are Trading Lower By Around 8%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session",
-    "published": 1713357540,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Alaska Air Group Q1 Earnings Preview: Attention Turns To Boeing Safety, Merger With Hawaiian Airlines",
-    "published": 1713357120,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "12 Industrials Stocks Moving In Wednesday's Intraday Session",
-    "published": 1713353640,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Stocks Wipe Premarket Gains; S&P 500, Nasdaq Eye 4th-Straight Loss",
-    "published": 1713352560,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Surpasses Q1 Expectations Despite Boeing 737 MAX-9 Grounding",
-    "published": 1713352500,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Airline Stocks Rally On United\u2019s Q1 Results, Optimistic Outlook",
-    "published": 1713352140,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines jumps as results overcome Boeing impact",
-    "published": 1713351764,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Fed\u2019s Powell Delivers Rate-Cut Blow, Why the Market Is Already Over It. And 5 Other Things to Know Before Markets Open.",
-    "published": 1713351360,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "UAL Crosses Above Key Moving Average Level",
-    "published": 1713350340,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines: Working to reduce costs",
-    "published": 1713347760,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Reports Upbeat Results, Joins Children's Place, Interactive Brokers And Other Big Stocks Moving Higher On Wednesday",
-    "published": 1713347760,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United: Aircraft delivery delays to temporarily pressure 2024 non-fuel costs",
-    "published": 1713347700,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines likes macro setup for 2H24",
-    "published": 1713347160,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines sees continued positive momentum across all customer segments",
-    "published": 1713346920,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United: Certain certifications to be delayed working through FAA review",
-    "published": 1713346680,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines saw $200M impact from Boeing 737 MAX 9 grounding in Q1",
-    "published": 1713346620,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines has started in depth review of process and procedures with FAA",
-    "published": 1713346620,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Stock market today: Wall Street ticks higher as pressure eases from the bond market",
-    "published": 1713346581,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Bank of America Securities Sticks to Its Buy Rating for United Airlines Holdings (UAL)",
-    "published": 1713346560,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Biggest stock movers today: ADSK, VNDA, UAL, JBHT, and more",
-    "published": 1713343380,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Nasdaq 100 Forecast: QQQ Inches Higher Ahead Of Fed Speakers",
-    "published": 1713342600,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines price target raised by $6 at Seaport Research, here's why",
-    "published": 1713342600,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines: reduced losses in Q1",
-    "published": 1713341073,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Stock Buoyed by Earnings Report Despite Boeing Challenges",
-    "published": 1713339600,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines jumps after results beat 'dramatically low' expectations",
-    "published": 1713337364,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines attracts analyst love after better-than-feared Q1 results",
-    "published": 1713335700,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Wall Street Poised To Rebound From Slump As Earnings Optimism Grows: Analyst Eyes This S&P 500 Level As Attractive Entry Point",
-    "published": 1713334260,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Biggest stock movers today: VNDA, UAL, JBHT, and more",
-    "published": 1713333540,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines (NASDAQ:UAL) Slashes Aircraft Delivery Expectations For FY24",
-    "published": 1713332820,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "American Airlines Earnings Preview: Decent Q1, But Risky Stock",
-    "published": 1713329360,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Biggest stock movers today: UAL, JBHT, and more",
-    "published": 1713327600,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United Airlines Stock (NASDAQ:UAL): Website Traffic Hinted at Upbeat Q1 Results",
-    "published": 1713322800,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Barclays Sticks to Its Buy Rating for United Airlines Holdings (UAL)",
-    "published": 1713320820,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "Stock market today: US stocks slip to deepen weekly losses following mixed earnings reports",
-    "published": 1713317700,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "GLOBAL BRIEFING: Demand from China, US drives Japan's exports higher",
-    "published": 1713313980,
-    "posting_price": 44.45000076,
-    "close_price": 48.74000168,
-    "percent_change": 9.65129549
-  },
-  {
-    "title": "United took a $200 million hit from Boeing 737 MAX 9 grounding, driving it to a quarterly loss",
-    "published": 1713307114,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "Boeing\u2019s problems just cost United $200 million",
-    "published": 1713304621,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "Compared to Estimates, United (UAL) Q1 Earnings: A Look at Key Metrics",
-    "published": 1713303002,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines (UAL) Reports Q1 Loss, Tops Revenue Estimates",
-    "published": 1713301804,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United posts Q1 beat, but expectations 'were pretty low'",
-    "published": 1713301641,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines Earnings Beat Forecasts Despite Boeing Challenges",
-    "published": 1713301320,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines stock rises on Q1 results, Q2 guidance",
-    "published": 1713298616,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines reports $124 million loss in a quarter marred by grounding of some Boeing planes",
-    "published": 1713298470,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines Announces First-Quarter 2024 Financial Results; Exceeds Revenue and EPS Expectations",
-    "published": 1713297600,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines : Investor Update",
-    "published": 1713287588,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "TOP NEWS: United Airlines loss narrows despite taking Boeing charge",
-    "published": 1713286080,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United expects stronger quarterly earnings; cuts aircraft delivery estimates",
-    "published": 1713283696,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United: Q1 Earnings Snapshot",
-    "published": 1713283693,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines forecasts stronger second-quarter profit",
-    "published": 1713283547,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Continental options imply 6.3% move in share price post-earnings",
-    "published": 1713269100,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "Bank of America, Morgan Stanley, and UnitedHealth report: Yahoo Finance",
-    "published": 1713267013,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "3 Airline Stocks to Buy Now: Q2 Edition",
-    "published": 1713263400,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "Netflix, AMC, United Airlines, WiSA Technologies, Tesla: Why These 5 Stocks Are On Investors' Radars Today",
-    "published": 1713260880,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "UAL Stock Earnings: United Airlines Holdings Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713254340,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines Earnings Land Today. Boeing Is Just One Issue the Stock Faces.",
-    "published": 1713253980,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: United Airlines Holdings (UAL) and Boeing (BA)",
-    "published": 1713252240,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines rallies on profit forecast. But it\u2019s adapting to the \u2018reality\u2019 of Boeing\u2019s difficulties.",
-    "published": 1713246960,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines (NASDAQ:UAL) Jumps after Solid Q1 Beat",
-    "published": 1713241500,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines To \u2018Capitalise On Opportunity Only UAL Has\u2019 After Q1 Earnings",
-    "published": 1713239640,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "12 Industrials Stocks Moving In Tuesday's After-Market Session",
-    "published": 1713238380,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines in charts: Unit revenue continues to tick lower Q/Q, while costs edge higher in Q1",
-    "published": 1713237960,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines estimates 996 total mainline aircraft at end of 2024",
-    "published": 1713237780,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines rallies after strong demand boosts underlying Q1 results",
-    "published": 1713237600,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines up 6% to $43.94 after Q1 results beat estimates",
-    "published": 1713237060,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines sees Q2 adjusted EPS $3.75-$4.25, consensus $3.76",
-    "published": 1713236940,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines Non-GAAP EPS of -$0.15 beats by $0.42, revenue of $12.54B beats by $150M",
-    "published": 1713236880,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines lowers FY24 adjusted CapEx view to ~$6.5B from ~$9B",
-    "published": 1713236880,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines backs FY24 adjusted EPS view $9.00-$11.00, consensus $9.67",
-    "published": 1713236760,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines sees Q2 adjusted EPS $3.75-$4.20, consensus $3.76",
-    "published": 1713236700,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines reports Q1 capacity up 9.1% y/y",
-    "published": 1713236640,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines provides fleet update",
-    "published": 1713236640,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines reports Q1 TRASM up 0.6% y/y",
-    "published": 1713236520,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "United Airlines reports Q1 adjusted EPS (15c), consensus (57c)",
-    "published": 1713236460,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
-  },
-  {
-    "title": "GLOBAL BRIEFING: China's economy expands by 5.3% in first quarter",
-    "published": 1713227640,
-    "posting_price": 40.79999924,
-    "close_price": 41.5,
-    "percent_change": 1.71568817
+    "title": "Spirit Airlines Struggles Amid Industry Challenges and Competitive Pressure",
+    "published": 1714994100,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 51.935001373291016,
+      "2024-05-06T14:30:00+00:00": 52.222900390625,
+      "2024-05-06T15:30:00+00:00": 52.790000915527344,
+      "2024-05-06T16:30:00+00:00": 52.939998626708984,
+      "2024-05-06T17:30:00+00:00": 53.69499969482422,
+      "2024-05-06T18:30:00+00:00": 53.72999954223633,
+      "2024-05-06T19:30:00+00:00": 54.0
+    },
+    "sentiment": 0.8655894994735718
+  },
+  {
+    "title": "Commercial jet maker Airbus is staying humble even as Boeing flounders. There's a reason for that",
+    "published": 1714953660,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 51.935001373291016,
+      "2024-05-06T14:30:00+00:00": 52.222900390625,
+      "2024-05-06T15:30:00+00:00": 52.790000915527344,
+      "2024-05-06T16:30:00+00:00": 52.939998626708984,
+      "2024-05-06T17:30:00+00:00": 53.69499969482422,
+      "2024-05-06T18:30:00+00:00": 53.72999954223633,
+      "2024-05-06T19:30:00+00:00": 54.0
+    },
+    "sentiment": 0.8220614194869995
+  },
+  {
+    "title": "The Bill for Boeing\u2019s (NYSE:BA) Alaska Airlines Misadventure Rises",
+    "published": 1714740360,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 52.0,
+      "2024-05-03T14:30:00+00:00": 52.040000915527344,
+      "2024-05-03T15:30:00+00:00": 51.52000045776367,
+      "2024-05-03T16:30:00+00:00": 51.41999816894531,
+      "2024-05-03T17:30:00+00:00": 51.369998931884766,
+      "2024-05-03T18:30:00+00:00": 51.44499969482422,
+      "2024-05-03T19:30:00+00:00": 51.36000061035156
+    },
+    "sentiment": 0.9107825756072998
+  },
+  {
+    "title": "How United Airlines\u2019 CIO regained customer and employee trust in its tech",
+    "published": 1714559856,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 51.400001525878906,
+      "2024-05-01T14:30:00+00:00": 50.17499923706055,
+      "2024-05-01T15:30:00+00:00": 50.13999938964844,
+      "2024-05-01T16:30:00+00:00": 50.209999084472656,
+      "2024-05-01T17:30:00+00:00": 49.87350082397461,
+      "2024-05-01T18:30:00+00:00": 50.11000061035156,
+      "2024-05-01T19:30:00+00:00": 50.93000030517578
+    },
+    "sentiment": 0.8135924339294434
+  },
+  {
+    "title": "United Airlines says flights to Tel Aviv are cancelled up to May 9",
+    "published": 1714545218,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 51.400001525878906,
+      "2024-05-01T14:30:00+00:00": 50.17499923706055,
+      "2024-05-01T15:30:00+00:00": 50.13999938964844,
+      "2024-05-01T16:30:00+00:00": 50.209999084472656,
+      "2024-05-01T17:30:00+00:00": 49.87350082397461,
+      "2024-05-01T18:30:00+00:00": 50.11000061035156,
+      "2024-05-01T19:30:00+00:00": 50.93000030517578
+    },
+    "sentiment": 0.9384414553642273
+  },
+  {
+    "title": "United Expects Record Setting Start to Summer Travel Season",
+    "published": 1715680800,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 54.79999923706055,
+      "2024-05-14T14:30:00+00:00": 55.084999084472656,
+      "2024-05-14T15:30:00+00:00": 55.05799865722656,
+      "2024-05-14T16:30:00+00:00": 55.109901428222656,
+      "2024-05-14T17:30:00+00:00": 54.9900016784668,
+      "2024-05-14T18:30:00+00:00": 55.0,
+      "2024-05-14T19:30:00+00:00": 54.98500061035156
+    },
+    "sentiment": 0.8816124796867371
+  },
+  {
+    "title": "The 3 Best Airline Stocks to Buy in May 2024",
+    "published": 1715598000,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 53.25,
+      "2024-05-13T14:30:00+00:00": 54.29499816894531,
+      "2024-05-13T15:30:00+00:00": 54.36349868774414,
+      "2024-05-13T16:30:00+00:00": 54.179901123046875,
+      "2024-05-13T17:30:00+00:00": 54.19499969482422,
+      "2024-05-13T18:30:00+00:00": 54.334999084472656,
+      "2024-05-13T19:30:00+00:00": 54.35499954223633
+    },
+    "sentiment": 0.8593328595161438
+  },
+  {
+    "title": "United Airlines initiated with bullish view at HSBC, here's why",
+    "published": 1715579580,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 53.25,
+      "2024-05-13T14:30:00+00:00": 54.29499816894531,
+      "2024-05-13T15:30:00+00:00": 54.36349868774414,
+      "2024-05-13T16:30:00+00:00": 54.179901123046875,
+      "2024-05-13T17:30:00+00:00": 54.19499969482422,
+      "2024-05-13T18:30:00+00:00": 54.334999084472656,
+      "2024-05-13T19:30:00+00:00": 54.35499954223633
+    },
+    "sentiment": 0.5978933572769165
+  },
+  {
+    "title": "3 S&P 500 Stocks to Rival Nvidia\u2019s 2023 Performance in the Second Half of 2024",
+    "published": 1715428800,
+    "day_prices": {},
+    "sentiment": 0.9429292678833008
+  },
+  {
+    "title": "FAA Oversight Under Scrutiny After United Airlines Mishaps",
+    "published": 1715286557,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 52.959999084472656,
+      "2024-05-09T14:30:00+00:00": 52.970001220703125,
+      "2024-05-09T15:30:00+00:00": 52.97999954223633,
+      "2024-05-09T16:30:00+00:00": 53.11000061035156,
+      "2024-05-09T17:30:00+00:00": 53.03889846801758,
+      "2024-05-09T18:30:00+00:00": 52.845001220703125,
+      "2024-05-09T19:30:00+00:00": 52.724998474121094
+    },
+    "sentiment": 0.9364878535270691
+  },
+  {
+    "title": "The 3 Most Undervalued Airline Stocks to Buy in May 2024",
+    "published": 1715268666,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 52.959999084472656,
+      "2024-05-09T14:30:00+00:00": 52.970001220703125,
+      "2024-05-09T15:30:00+00:00": 52.97999954223633,
+      "2024-05-09T16:30:00+00:00": 53.11000061035156,
+      "2024-05-09T17:30:00+00:00": 53.03889846801758,
+      "2024-05-09T18:30:00+00:00": 52.845001220703125,
+      "2024-05-09T19:30:00+00:00": 52.724998474121094
+    },
+    "sentiment": 0.7890043258666992
+  },
+  {
+    "title": "United Airlines cancels daily flights to Tel Aviv through June 5",
+    "published": 1715189424,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 53.119998931884766,
+      "2024-05-08T14:30:00+00:00": 53.16999816894531,
+      "2024-05-08T15:30:00+00:00": 53.2599983215332,
+      "2024-05-08T16:30:00+00:00": 53.30500030517578,
+      "2024-05-08T17:30:00+00:00": 53.27000045776367,
+      "2024-05-08T18:30:00+00:00": 53.380001068115234,
+      "2024-05-08T19:30:00+00:00": 53.150001525878906
+    },
+    "sentiment": 0.9351120591163635
+  },
+  {
+    "title": "Does United Airlines Holdings (NASDAQ:UAL) Deserve A Spot On Your Watchlist?",
+    "published": 1716491540,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 52.68000030517578,
+      "2024-05-23T14:30:00+00:00": 52.27000045776367,
+      "2024-05-23T15:30:00+00:00": 51.59000015258789,
+      "2024-05-23T16:30:00+00:00": 51.7400016784668,
+      "2024-05-23T17:30:00+00:00": 51.939998626708984,
+      "2024-05-23T18:30:00+00:00": 51.540000915527344,
+      "2024-05-23T19:30:00+00:00": 51.540000915527344
+    },
+    "sentiment": 0.8638806939125061
+  },
+  {
+    "title": "Granite to support IAH\u2019s Terminal B renovation project",
+    "published": 1716468962,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 52.68000030517578,
+      "2024-05-23T14:30:00+00:00": 52.27000045776367,
+      "2024-05-23T15:30:00+00:00": 51.59000015258789,
+      "2024-05-23T16:30:00+00:00": 51.7400016784668,
+      "2024-05-23T17:30:00+00:00": 51.939998626708984,
+      "2024-05-23T18:30:00+00:00": 51.540000915527344,
+      "2024-05-23T19:30:00+00:00": 51.540000915527344
+    },
+    "sentiment": 0.7773339748382568
+  },
+  {
+    "title": "United Airlines to Present at Bernstein's 40th Annual Strategic Decisions Conference",
+    "published": 1716386400,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 52.880001068115234,
+      "2024-05-22T14:30:00+00:00": 52.5099983215332,
+      "2024-05-22T15:30:00+00:00": 52.630001068115234,
+      "2024-05-22T16:30:00+00:00": 52.540000915527344,
+      "2024-05-22T17:30:00+00:00": 52.6150016784668,
+      "2024-05-22T18:30:00+00:00": 52.2599983215332,
+      "2024-05-22T19:30:00+00:00": 52.47999954223633
+    },
+    "sentiment": 0.9107928276062012
+  },
+  {
+    "title": "Here's How Much You Would Have Made Owning United Airlines Holdings Stock In The Last 15 Years",
+    "published": 1716368520,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 52.880001068115234,
+      "2024-05-22T14:30:00+00:00": 52.5099983215332,
+      "2024-05-22T15:30:00+00:00": 52.630001068115234,
+      "2024-05-22T16:30:00+00:00": 52.540000915527344,
+      "2024-05-22T17:30:00+00:00": 52.6150016784668,
+      "2024-05-22T18:30:00+00:00": 52.2599983215332,
+      "2024-05-22T19:30:00+00:00": 52.47999954223633
+    },
+    "sentiment": 0.9377966523170471
+  },
+  {
+    "title": "Taylor Swift fans are causing a spike in European air travel, United says",
+    "published": 1716292646,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 54.5,
+      "2024-05-21T14:30:00+00:00": 53.97999954223633,
+      "2024-05-21T15:30:00+00:00": 54.25,
+      "2024-05-21T16:30:00+00:00": 53.77000045776367,
+      "2024-05-21T17:30:00+00:00": 53.55500030517578,
+      "2024-05-21T18:30:00+00:00": 53.25450134277344,
+      "2024-05-21T19:30:00+00:00": 53.345001220703125
+    },
+    "sentiment": 0.5074310898780823
+  },
+  {
+    "title": "How United Airlines flies with Wrexham to cultural relevancy",
+    "published": 1716278400,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 54.5,
+      "2024-05-21T14:30:00+00:00": 53.97999954223633,
+      "2024-05-21T15:30:00+00:00": 54.25,
+      "2024-05-21T16:30:00+00:00": 53.77000045776367,
+      "2024-05-21T17:30:00+00:00": 53.55500030517578,
+      "2024-05-21T18:30:00+00:00": 53.25450134277344,
+      "2024-05-21T19:30:00+00:00": 53.345001220703125
+    },
+    "sentiment": 0.8579052090644836
+  },
+  {
+    "title": "7 Great Growth Stocks You Need to Own Before 2025",
+    "published": 1716019440,
+    "day_prices": {},
+    "sentiment": 0.897955596446991
+  },
+  {
+    "title": "Air Canada (TSE:AC) Notches Up with New Flights Out of Ottawa",
+    "published": 1715945100,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.9484484195709229
+  },
+  {
+    "title": "Wall Street Favorites: 3 Transportation Stocks With Strong Buy Ratings for May 2024",
+    "published": 1715943600,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.6324082612991333
+  },
+  {
+    "title": "Alaska Air and United upgraded at Wolfe on strong fundamentals for legacy carriers",
+    "published": 1715933820,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.9534962177276611
+  },
+  {
+    "title": "Boeing, Delta And Other Stocks Trade Marginally Lower Pre-Market As Biden Signs New Aviation Safety Bill Into Law",
+    "published": 1715924400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.7772178053855896
+  },
+  {
+    "title": "Wolfe Research gets more bullish on United Airlines, upgrades shares",
+    "published": 1715923140,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.8542482256889343
+  },
+  {
+    "title": "Notable Friday Option Activity: UAL, JNJ, NEM",
+    "published": 1715912340,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.8942751884460449
+  },
+  {
+    "title": "The Analyst Landscape: 8 Takes On United Airlines Holdings",
+    "published": 1715907960,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.150001525878906,
+      "2024-05-17T14:30:00+00:00": 55.5099983215332,
+      "2024-05-17T15:30:00+00:00": 55.400001525878906,
+      "2024-05-17T16:30:00+00:00": 55.073001861572266,
+      "2024-05-17T17:30:00+00:00": 55.04010009765625,
+      "2024-05-17T18:30:00+00:00": 55.0099983215332,
+      "2024-05-17T19:30:00+00:00": 54.95000076293945
+    },
+    "sentiment": 0.9220200777053833
+  },
+  {
+    "title": "United Airlines Says It Can Resume Plans to Add Routes, Planes Amid Safety Review",
+    "published": 1715882829,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.634459912776947
+  },
+  {
+    "title": "Top Midday Stories: DJIA Hits Historic 40,000 Mark; Walmart Tops Earnings Expectations; Crescent to Acquire SilverBow for $2.1 Billion; US Supreme Court Upholds CFPB's Funding System",
+    "published": 1715875397,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.7761499285697937
+  },
+  {
+    "title": "UPDATE 1-US FAA allows United Airlines to restart certification activities -- airline",
+    "published": 1715869457,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.531210720539093
+  },
+  {
+    "title": "FAA allows United Airlines to restart certification activities",
+    "published": 1715866639,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.8716126680374146
+  },
+  {
+    "title": "United Airlines Debuts New Onboard Safety Video",
+    "published": 1715860800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.8653094172477722
+  },
+  {
+    "title": "United Cargo Adds Capacity to WebCargo by Freightos' Booking Platform, Extending Cargo Sales Portal Capabilities",
+    "published": 1715850000,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.6126415729522705
+  },
+  {
+    "title": "United Airlines Holdings Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1715833140,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.944636344909668
+  },
+  {
+    "title": "FAA says United Airlines route expansion not approved, Reuters reports",
+    "published": 1715821500,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 55.400001525878906,
+      "2024-05-16T14:30:00+00:00": 54.939998626708984,
+      "2024-05-16T15:30:00+00:00": 55.01499938964844,
+      "2024-05-16T16:30:00+00:00": 54.959999084472656,
+      "2024-05-16T17:30:00+00:00": 54.9900016784668,
+      "2024-05-16T18:30:00+00:00": 54.970001220703125,
+      "2024-05-16T19:30:00+00:00": 54.83000183105469
+    },
+    "sentiment": 0.48714128136634827
   }
 ]

@@ -1,310 +1,394 @@
 [
   {
-    "title": "Analysts Are Bullish on These Healthcare Stocks: Eli Lilly & Co (LLY), McKesson (MCK)",
-    "published": 1713180060,
-    "posting_price": 521.5917728,
-    "close_price": 520.27783203,
-    "percent_change": -0.2519098
+    "title": "McKesson (MCK) Reports Q4 Earnings: What Key Metrics Have to Say",
+    "published": 1715119209,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.9386341571807861
   },
   {
-    "title": "AbbVie keeps Humira market share near 100% despite biosimilars: report",
-    "published": 1713002160,
-    "posting_price": 521.5917728,
-    "close_price": 520.27783203,
-    "percent_change": -0.2519098
+    "title": "McKesson (MCK) Q4 Earnings and Revenues Lag Estimates",
+    "published": 1715116805,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.9573770761489868
   },
   {
-    "title": "Global Stock leaders for 2030 in Health Tech - UBS",
-    "published": 1712753700,
-    "posting_price": 527.08644944,
-    "close_price": 527.55426025,
-    "percent_change": 0.0887541
+    "title": "McKesson Corporation (MCK) Q4 2024 Earnings Call Transcript",
+    "published": 1715112073,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.93051677942276
   },
   {
-    "title": "Early notable gainers among liquid option names on April 10th",
-    "published": 1712739360,
-    "posting_price": 527.08644944,
-    "close_price": 527.55426025,
-    "percent_change": 0.0887541
+    "title": "McKesson: Fiscal Q4 Earnings Snapshot",
+    "published": 1715099655,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.9188711643218994
   },
   {
-    "title": "McKesson price target raised by $60 at Argus, here's why",
-    "published": 1712736060,
-    "posting_price": 527.08644944,
-    "close_price": 527.55426025,
-    "percent_change": 0.0887541
+    "title": "McKESSON : REPORTS FISCAL 2024 FOURTH QUARTER AND FULL YEAR RESULTS - Form 8-K",
+    "published": 1715098348,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.7614526152610779
   },
   {
-    "title": "If You Invested $100 In This Stock 5 Years Ago, You Would Have $500 Today",
-    "published": 1712723520,
-    "posting_price": 527.08644944,
-    "close_price": 527.55426025,
-    "percent_change": 0.0887541
+    "title": "Investing in McKesson (NYSE:MCK) five years ago would have delivered you a 340% gain",
+    "published": 1715086812,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.77251797914505
   },
   {
-    "title": "McKesson's (NYSE:MCK) investors will be pleased with their fantastic 384% return over the last five years",
-    "published": 1712487649,
-    "posting_price": 532.56115203,
-    "close_price": 529.78393555,
-    "percent_change": -0.52148311
+    "title": "How To Earn $500 A Month From McKesson Stock Ahead Of Q4 Earnings Report",
+    "published": 1715066460,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.9357588887214661
   },
   {
-    "title": "13 Best Cheap Dividend Stocks To Buy Right Now",
-    "published": 1712444460,
-    "posting_price": 532.56121339,
-    "close_price": 529.78399658,
-    "percent_change": -0.52148312
+    "title": "McKesson sees FY25 adjusted EPS $31.25-$32.50, consensus $31.02",
+    "published": 1715051760,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.5315935611724854
   },
   {
-    "title": "Strength Seen in Staar Surgical (STAA): Can Its 16.5% Jump Turn into More Strength?",
-    "published": 1712322900,
-    "posting_price": 534.61173974,
-    "close_price": 536.27404785,
-    "percent_change": 0.31093745
+    "title": "Disney, Electronic Arts And 3 Stocks To Watch Heading Into Tuesday",
+    "published": 1715050380,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 533.5499877929688,
+      "2024-05-07T14:30:00+00:00": 538.0850219726562,
+      "2024-05-07T15:30:00+00:00": 538.3900146484375,
+      "2024-05-07T16:30:00+00:00": 540.7999877929688,
+      "2024-05-07T17:30:00+00:00": 540.760009765625,
+      "2024-05-07T18:30:00+00:00": 540.760009765625,
+      "2024-05-07T19:30:00+00:00": 543.0
+    },
+    "sentiment": 0.9231809973716736
   },
   {
-    "title": "Markets broaden out as all-time highs are seen across ALL, CAT, DELL, RJF, and more",
-    "published": 1712231700,
-    "posting_price": 540.15607596,
-    "close_price": 532.33215332,
-    "percent_change": -1.44845592
+    "title": "Will These 5 Medical Device Stocks Beat This Earnings Season?",
+    "published": 1715008320,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 531.239990234375,
+      "2024-05-06T14:30:00+00:00": 532.8499755859375,
+      "2024-05-06T15:30:00+00:00": 533.3900146484375,
+      "2024-05-06T16:30:00+00:00": 533.1799926757812,
+      "2024-05-06T17:30:00+00:00": 532.52001953125,
+      "2024-05-06T18:30:00+00:00": 531.8900146484375,
+      "2024-05-06T19:30:00+00:00": 532.75
+    },
+    "sentiment": 0.5643079280853271
   },
   {
-    "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1712152211,
-    "posting_price": 532.97919556,
-    "close_price": 537.60784912,
-    "percent_change": 0.8684492
+    "title": "June 14th Options Now Available For McKesson (MCK)",
+    "published": 1714734240,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 530.0,
+      "2024-05-03T14:30:00+00:00": 522.9500122070312,
+      "2024-05-03T15:30:00+00:00": 522.77001953125,
+      "2024-05-03T16:30:00+00:00": 525.1300048828125,
+      "2024-05-03T17:30:00+00:00": 526.1950073242188,
+      "2024-05-03T18:30:00+00:00": 526.0701293945312,
+      "2024-05-03T19:30:00+00:00": 527.1400146484375
+    },
+    "sentiment": 0.9297933578491211
   },
   {
-    "title": "If You Invested $1000 In This Stock 10 Years Ago, You Would Have $3,200 Today",
-    "published": 1712145780,
-    "posting_price": 532.97919556,
-    "close_price": 537.60784912,
-    "percent_change": 0.8684492
+    "title": "McKesson (MCK) Stock Sinks As Market Gains: What You Should Know",
+    "published": 1714688107,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 529.6500244140625,
+      "2024-05-02T14:30:00+00:00": 531.4949951171875,
+      "2024-05-02T15:30:00+00:00": 528.8400268554688,
+      "2024-05-02T16:30:00+00:00": 528.6599731445312,
+      "2024-05-02T17:30:00+00:00": 530.5900268554688,
+      "2024-05-02T18:30:00+00:00": 530.6199951171875,
+      "2024-05-02T19:30:00+00:00": 530.010009765625
+    },
+    "sentiment": 0.7281140089035034
   },
   {
-    "title": "McKesson Launches Project Oasis to Address Pharmacy Deserts in Underserved Communities",
-    "published": 1712141235,
-    "posting_price": 532.97919556,
-    "close_price": 537.60784912,
-    "percent_change": 0.8684492
+    "title": "How Is The Market Feeling About McKesson?",
+    "published": 1714619940,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 529.6500244140625,
+      "2024-05-02T14:30:00+00:00": 531.4949951171875,
+      "2024-05-02T15:30:00+00:00": 528.8400268554688,
+      "2024-05-02T16:30:00+00:00": 528.6599731445312,
+      "2024-05-02T17:30:00+00:00": 530.5900268554688,
+      "2024-05-02T18:30:00+00:00": 530.6199951171875,
+      "2024-05-02T19:30:00+00:00": 530.010009765625
+    },
+    "sentiment": 0.8831279277801514
   },
   {
-    "title": "Significant Implications For FCA Defendants: Second Circuit Clarifies \"Willfulness\" In McKesson Decision",
-    "published": 1712139190,
-    "posting_price": 532.97919556,
-    "close_price": 537.60784912,
-    "percent_change": 0.8684492
+    "title": "McKesson: Hold Rating Amidst Strong Outlook and Valuation Concerns",
+    "published": 1715303400,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 556.27001953125,
+      "2024-05-10T14:30:00+00:00": 559.280029296875,
+      "2024-05-10T15:30:00+00:00": 558.9600219726562,
+      "2024-05-10T16:30:00+00:00": 559.0,
+      "2024-05-10T17:30:00+00:00": 557.489990234375,
+      "2024-05-10T18:30:00+00:00": 558.1400146484375,
+      "2024-05-10T19:30:00+00:00": 558.5850219726562
+    },
+    "sentiment": 0.8903728127479553
   },
   {
-    "title": "\"Willfulness\" As \"Knowledge Of Illegality\": Second Circuit Adopts Prevailing Federal AKS Scienter Interpretation While Reviving State FCA Claims Over Potentially Different State AKS Scienter Standards",
-    "published": 1712052731,
-    "posting_price": 530.20206813,
-    "close_price": 530.81921387,
-    "percent_change": 0.11639821
+    "title": "McKesson Corporation (NYSE:MCK) Full-Year Results: Here's What Analysts Are Forecasting For This Year",
+    "published": 1715249215,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 543.8900146484375,
+      "2024-05-09T14:30:00+00:00": 550.9000244140625,
+      "2024-05-09T15:30:00+00:00": 552.739990234375,
+      "2024-05-09T16:30:00+00:00": 553.6799926757812,
+      "2024-05-09T17:30:00+00:00": 554.3099975585938,
+      "2024-05-09T18:30:00+00:00": 554.3099975585938,
+      "2024-05-09T19:30:00+00:00": 555.7849731445312
+    },
+    "sentiment": 0.9140769839286804
   },
   {
-    "title": "Earnings Preview: McKesson (MCK) Q4 Earnings Expected to Decline",
-    "published": 1714485664,
-    "posting_price": 533.71573251,
-    "close_price": 534.74102783,
-    "percent_change": 0.19210513
+    "title": "McKesson price target raised by $49 at Wells Fargo, here's why",
+    "published": 1715232720,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 543.8900146484375,
+      "2024-05-09T14:30:00+00:00": 550.9000244140625,
+      "2024-05-09T15:30:00+00:00": 552.739990234375,
+      "2024-05-09T16:30:00+00:00": 553.6799926757812,
+      "2024-05-09T17:30:00+00:00": 554.3099975585938,
+      "2024-05-09T18:30:00+00:00": 554.3099975585938,
+      "2024-05-09T19:30:00+00:00": 555.7849731445312
+    },
+    "sentiment": 0.7771838307380676
   },
   {
-    "title": "Cardinal Health Stock (NYSE:CAH): Dip Creates Long-Term Opportunity",
-    "published": 1714452300,
-    "posting_price": 533.71573251,
-    "close_price": 534.74102783,
-    "percent_change": 0.19210513
+    "title": "McKesson Corporation (NYSE:MCK) Q4 2024 Earnings Call Transcript",
+    "published": 1715181320,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.9343616366386414
   },
   {
-    "title": "McKesson: Time To Get More Cautious",
-    "published": 1714450955,
-    "posting_price": 533.71573251,
-    "close_price": 534.74102783,
-    "percent_change": 0.19210513
+    "title": "These Analysts Increase Their Forecasts On McKesson Following Q4 Results",
+    "published": 1715156280,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.4936721920967102
   },
   {
-    "title": "McKesson price target raised by $45 at Citi, here's why",
-    "published": 1714379640,
-    "posting_price": 540.12611623,
-    "close_price": 533.62615967,
-    "percent_change": -1.2034146
+    "title": "McKesson price target raised by $10 at Evercore ISI, here's why",
+    "published": 1715154240,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.7604361176490784
   },
   {
-    "title": "Institutional investors are McKesson Corporation's (NYSE:MCK) biggest bettors and were rewarded after last week's US$2.4b market cap gain",
-    "published": 1714305712,
-    "posting_price": 540.12611623,
-    "close_price": 533.62615967,
-    "percent_change": -1.2034146
+    "title": "McKesson price target raised by $11 at Leerink, here's why",
+    "published": 1715154060,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.7619539499282837
   },
   {
-    "title": "McKesson (MCK) Rises But Trails Market: What Investors Should Know",
-    "published": 1714169712,
-    "posting_price": 535.51744617,
-    "close_price": 540.80303955,
-    "percent_change": 0.98700676
+    "title": "McKesson price target raised by $24 at BofA, here's why",
+    "published": 1715149800,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.7973704934120178
   },
   {
-    "title": "Why McKesson (MCK) is a Top Momentum Stock for the Long-Term",
-    "published": 1714139411,
-    "posting_price": 535.51744617,
-    "close_price": 540.80303955,
-    "percent_change": 0.98700676
+    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Masimo (MASI), Halozyme (HALO) and McKesson (MCK)",
+    "published": 1715145660,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.7769187092781067
   },
   {
-    "title": "ClearBridge Global Growth Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1714133700,
-    "posting_price": 535.51744617,
-    "close_price": 540.80303955,
-    "percent_change": 0.98700676
+    "title": "Optimistic Future for McKesson: Buy Rating Affirmed with Strong FY25 Earnings and Revenue Growth Projections",
+    "published": 1715145000,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.9540391564369202
   },
   {
-    "title": "McKesson : OJEMDA FDA Approved for Pediatric Low Grade Glioma",
-    "published": 1714131912,
-    "posting_price": 535.51744617,
-    "close_price": 540.80303955,
-    "percent_change": 0.98700676
+    "title": "McKesson (MCK) Q4 2024 Earnings Call Transcript",
+    "published": 1715129117,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 552.3099975585938,
+      "2024-05-08T14:30:00+00:00": 551.0,
+      "2024-05-08T15:30:00+00:00": 546.5399780273438,
+      "2024-05-08T16:30:00+00:00": 543.655029296875,
+      "2024-05-08T17:30:00+00:00": 543.7650146484375,
+      "2024-05-08T18:30:00+00:00": 541.010009765625,
+      "2024-05-08T19:30:00+00:00": 540.7849731445312
+    },
+    "sentiment": 0.9268965125083923
   },
   {
-    "title": "June 7th Options Now Available For McKesson Corp (MCK)",
-    "published": 1714125600,
-    "posting_price": 535.51744617,
-    "close_price": 540.80303955,
-    "percent_change": 0.98700676
+    "title": "McKesson (MCK) Hits 52-Week High: What's Driving the Stock?",
+    "published": 1716300960,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 564.260009765625,
+      "2024-05-21T14:30:00+00:00": 559.0599975585938,
+      "2024-05-21T15:30:00+00:00": 557.489990234375,
+      "2024-05-21T16:30:00+00:00": 556.2899780273438,
+      "2024-05-21T17:30:00+00:00": 555.3300170898438,
+      "2024-05-21T18:30:00+00:00": 555.8400268554688,
+      "2024-05-21T19:30:00+00:00": 554.0850219726562
+    },
+    "sentiment": 0.789339005947113
   },
   {
-    "title": "Dividend Roundup: MetLife, General Motors, Pfizer, Citigroup, and more",
-    "published": 1714115220,
-    "posting_price": 535.51744617,
-    "close_price": 540.80303955,
-    "percent_change": 0.98700676
+    "title": "Analysts and Technical Indicators Agree: These 3 Stocks Are \u201cStrong Buys\u201d \u2013 05/17/2024",
+    "published": 1715919600,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 559.4500122070312,
+      "2024-05-17T14:30:00+00:00": 559.5999755859375,
+      "2024-05-17T15:30:00+00:00": 559.9400024414062,
+      "2024-05-17T16:30:00+00:00": 561.25,
+      "2024-05-17T17:30:00+00:00": 562.530029296875,
+      "2024-05-17T18:30:00+00:00": 563.3099975585938,
+      "2024-05-17T19:30:00+00:00": 564.8699951171875
+    },
+    "sentiment": 0.9144327044487
   },
   {
-    "title": "McKinsey Faces Criminal Probe By DOJ For Opioid Consulting: Report",
-    "published": 1714047120,
-    "posting_price": 535.71653891,
-    "close_price": 537.45849609,
-    "percent_change": 0.32516397
+    "title": "Check Out What Whales Are Doing With MCK",
+    "published": 1715917680,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 559.4500122070312,
+      "2024-05-17T14:30:00+00:00": 559.5999755859375,
+      "2024-05-17T15:30:00+00:00": 559.9400024414062,
+      "2024-05-17T16:30:00+00:00": 561.25,
+      "2024-05-17T17:30:00+00:00": 562.530029296875,
+      "2024-05-17T18:30:00+00:00": 563.3099975585938,
+      "2024-05-17T19:30:00+00:00": 564.8699951171875
+    },
+    "sentiment": 0.9367989301681519
   },
   {
-    "title": "McKesson : Ontada Names Jade Cusick Chief Commercial Officer",
-    "published": 1714040594,
-    "posting_price": 535.71653891,
-    "close_price": 537.45849609,
-    "percent_change": 0.32516397
-  },
-  {
-    "title": "Walgreens expands specialty pharmacy with unit dedicated to cell and gene therapies",
-    "published": 1714034460,
-    "posting_price": 535.71653891,
-    "close_price": 537.45849609,
-    "percent_change": 0.32516397
-  },
-  {
-    "title": "Cardinal Health price target lowered to $110 from $118 at Evercore ISI",
-    "published": 1713945780,
-    "posting_price": 529.19669334,
-    "close_price": 532.95928955,
-    "percent_change": 0.71100146
-  },
-  {
-    "title": "McKesson Corporation Declares Quarterly Dividend",
-    "published": 1713945726,
-    "posting_price": 529.19669334,
-    "close_price": 532.95928955,
-    "percent_change": 0.71100146
-  },
-  {
-    "title": "McKesson declares $0.62 dividend",
-    "published": 1713943680,
-    "posting_price": 529.19669334,
-    "close_price": 532.95928955,
-    "percent_change": 0.71100146
-  },
-  {
-    "title": "Barclays Reaffirms Their Buy Rating on McKesson (MCK)",
-    "published": 1713930420,
-    "posting_price": 529.19669334,
-    "close_price": 532.95928955,
-    "percent_change": 0.71100146
-  },
-  {
-    "title": "Buy Rating Reaffirmed for McKesson Amid Strong Growth Prospects and OptumRx Contract Win",
-    "published": 1713922020,
-    "posting_price": 529.19669334,
-    "close_price": 532.95928955,
-    "percent_change": 0.71100146
-  },
-  {
-    "title": "Newmont Corp Takes the Lead in Ronald Muhlenkamp's Latest 13F Filings with a 1.41% Impact",
-    "published": 1713870060,
-    "posting_price": 526.26020746,
-    "close_price": 529.55499268,
-    "percent_change": 0.62607531
-  },
-  {
-    "title": "The Top 3 Healthcare Stocks to Buy in April 2024",
-    "published": 1713816178,
-    "posting_price": 522.58726116,
-    "close_price": 524.89660645,
-    "percent_change": 0.44190616
-  },
-  {
-    "title": "Goldman\u2019s buybacks basket: Buyback growth will be 13% in 2024",
-    "published": 1713788940,
-    "posting_price": 522.58726116,
-    "close_price": 524.89660645,
-    "percent_change": 0.44190616
-  },
-  {
-    "title": "PKW: Buyback ETF Combining Value And Growth",
-    "published": 1713775877,
-    "posting_price": 522.58726116,
-    "close_price": 524.89660645,
-    "percent_change": 0.44190616
-  },
-  {
-    "title": "Why McKesson (MCK) is a Top Value Stock for the Long-Term",
-    "published": 1713534008,
-    "posting_price": 517.62011353,
-    "close_price": 522.41796875,
-    "percent_change": 0.92690664
-  },
-  {
-    "title": "Jim Cramer Is 'Willing To Let This Pharma Stock Catch Fire,' Advises Not To Sell McKesson",
-    "published": 1713512820,
-    "posting_price": 517.62011353,
-    "close_price": 522.41796875,
-    "percent_change": 0.92690664
-  },
-  {
-    "title": "MCK June 21st Options Begin Trading",
-    "published": 1713432960,
-    "posting_price": 525.99154129,
-    "close_price": 516.42572021,
-    "percent_change": -1.81862641
-  },
-  {
-    "title": "Rite Aid delays major bankruptcy hearing to account for creditor deals",
-    "published": 1713404940,
-    "posting_price": 525.99154129,
-    "close_price": 516.42572021,
-    "percent_change": -1.81862641
-  },
-  {
-    "title": "McKesson Corp. stock outperforms competitors despite losses on the day",
-    "published": 1713325680,
-    "posting_price": 528.18134131,
-    "close_price": 523.50292969,
-    "percent_change": -0.88575859
-  },
-  {
-    "title": "14 Best 52-Week High Stocks To Invest In Now",
-    "published": 1713255187,
-    "posting_price": 526.24028954,
-    "close_price": 525.92175293,
-    "percent_change": -0.06053064
+    "title": "Third Point top buy and sells in Q1",
+    "published": 1715830500,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 553.1699829101562,
+      "2024-05-16T14:30:00+00:00": 554.5599975585938,
+      "2024-05-16T15:30:00+00:00": 555.1300048828125,
+      "2024-05-16T16:30:00+00:00": 554.5900268554688,
+      "2024-05-16T17:30:00+00:00": 556.4724731445312,
+      "2024-05-16T18:30:00+00:00": 555.530029296875,
+      "2024-05-16T19:30:00+00:00": 557.2899780273438
+    },
+    "sentiment": 0.9153023958206177
   }
 ]

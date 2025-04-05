@@ -1,261 +1,412 @@
 [
   {
-    "title": "Video: S&P 500 Analyst Moves: AES",
-    "published": 1713179580,
-    "posting_price": 16.14356128,
-    "close_price": 15.43668365,
-    "percent_change": -4.37869698
+    "title": "AES First Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
+    "published": 1714915525,
+    "day_prices": {},
+    "sentiment": 0.8313072919845581
   },
   {
-    "title": "AES Achieves #92 Analyst Rank, Surpassing Marathon Oil",
-    "published": 1713178380,
-    "posting_price": 16.14356128,
-    "close_price": 15.43668365,
-    "percent_change": -4.37869698
+    "title": "The AES Corp (AES) Q1 2024 Earnings Call Transcript Highlights: Strategic Growth and Resilient ...",
+    "published": 1714806531,
+    "day_prices": {},
+    "sentiment": 0.7410017251968384
   },
   {
-    "title": "Seaport Global Remains a Buy on AES (AES)",
-    "published": 1713166560,
-    "posting_price": 16.14356128,
-    "close_price": 15.43668365,
-    "percent_change": -4.37869698
+    "title": "Why AES (AES) is a Top Growth Stock for the Long-Term",
+    "published": 1714743905,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 18.719999313354492,
+      "2024-05-03T14:30:00+00:00": 18.68000030517578,
+      "2024-05-03T15:30:00+00:00": 18.4950008392334,
+      "2024-05-03T16:30:00+00:00": 18.485000610351562,
+      "2024-05-03T17:30:00+00:00": 18.475000381469727,
+      "2024-05-03T18:30:00+00:00": 18.40999984741211,
+      "2024-05-03T19:30:00+00:00": 18.420000076293945
+    },
+    "sentiment": 0.5973910689353943
   },
   {
-    "title": "Hydrogen Hype: 3 Value Stock Picks in the Trillion-Dollar Market",
-    "published": 1713100222,
-    "posting_price": 16.14356029,
-    "close_price": 15.4366827,
-    "percent_change": -4.378697
+    "title": "The AES Corporation (AES) Q1 2024 Earnings Call Transcript",
+    "published": 1714742718,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 18.719999313354492,
+      "2024-05-03T14:30:00+00:00": 18.68000030517578,
+      "2024-05-03T15:30:00+00:00": 18.4950008392334,
+      "2024-05-03T16:30:00+00:00": 18.485000610351562,
+      "2024-05-03T17:30:00+00:00": 18.475000381469727,
+      "2024-05-03T18:30:00+00:00": 18.40999984741211,
+      "2024-05-03T19:30:00+00:00": 18.420000076293945
+    },
+    "sentiment": 0.9324187636375427
   },
   {
-    "title": "Duke Energy least shorted utility stock in March",
-    "published": 1712921580,
-    "posting_price": 16.92685849,
-    "close_price": 16.0958004,
-    "percent_change": -4.9097007
+    "title": "The Zacks Analyst Blog Highlights Eversource Energy, Ameren, AES and NiSource",
+    "published": 1714726620,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 18.719999313354492,
+      "2024-05-03T14:30:00+00:00": 18.68000030517578,
+      "2024-05-03T15:30:00+00:00": 18.4950008392334,
+      "2024-05-03T16:30:00+00:00": 18.485000610351562,
+      "2024-05-03T17:30:00+00:00": 18.475000381469727,
+      "2024-05-03T18:30:00+00:00": 18.40999984741211,
+      "2024-05-03T19:30:00+00:00": 18.420000076293945
+    },
+    "sentiment": 0.9375383853912354
   },
   {
-    "title": "AES Corp. stock underperforms Friday when compared to competitors",
-    "published": 1712895660,
-    "posting_price": 16.92685849,
-    "close_price": 16.0958004,
-    "percent_change": -4.9097007
+    "title": "Decoding The AES Corp (AES): A Strategic SWOT Insight",
+    "published": 1714713190,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 18.719999313354492,
+      "2024-05-03T14:30:00+00:00": 18.68000030517578,
+      "2024-05-03T15:30:00+00:00": 18.4950008392334,
+      "2024-05-03T16:30:00+00:00": 18.485000610351562,
+      "2024-05-03T17:30:00+00:00": 18.475000381469727,
+      "2024-05-03T18:30:00+00:00": 18.40999984741211,
+      "2024-05-03T19:30:00+00:00": 18.420000076293945
+    },
+    "sentiment": 0.9004088044166565
   },
   {
-    "title": "AES Shares Cross 4% Yield Mark",
-    "published": 1712887800,
-    "posting_price": 16.92685849,
-    "close_price": 16.0958004,
-    "percent_change": -4.9097007
+    "title": "AES Corp (AES) Q1 2024 Earnings: Outperforms Net Income Estimates, EPS Surges",
+    "published": 1714690343,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.43000030517578,
+      "2024-05-02T14:30:00+00:00": 18.450000762939453,
+      "2024-05-02T15:30:00+00:00": 18.459999084472656,
+      "2024-05-02T16:30:00+00:00": 18.635000228881836,
+      "2024-05-02T17:30:00+00:00": 18.739999771118164,
+      "2024-05-02T18:30:00+00:00": 18.8700008392334,
+      "2024-05-02T19:30:00+00:00": 18.850000381469727
+    },
+    "sentiment": 0.7343201637268066
   },
   {
-    "title": "AES: A Value Play With An Upside",
-    "published": 1712703741,
-    "posting_price": 17.54776505,
-    "close_price": 17.4713459,
-    "percent_change": -0.43549221
+    "title": "AES Reports Strong First Quarter Results; Reaffirms 2024 Guidance & Long-Term Growth Rates",
+    "published": 1714684680,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.43000030517578,
+      "2024-05-02T14:30:00+00:00": 18.450000762939453,
+      "2024-05-02T15:30:00+00:00": 18.459999084472656,
+      "2024-05-02T16:30:00+00:00": 18.635000228881836,
+      "2024-05-02T17:30:00+00:00": 18.739999771118164,
+      "2024-05-02T18:30:00+00:00": 18.8700008392334,
+      "2024-05-02T19:30:00+00:00": 18.850000381469727
+    },
+    "sentiment": 0.9493438005447388
   },
   {
-    "title": "AES : Hawai\u02bbi Launches Company\u2019s First Solar plus Storage Facility on O\u2018ahu",
-    "published": 1712682559,
-    "posting_price": 17.54776505,
-    "close_price": 17.4713459,
-    "percent_change": -0.43549221
+    "title": "AES Stock Earnings: AES Beats EPS, Misses Revenue for Q1 2024",
+    "published": 1714640220,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.43000030517578,
+      "2024-05-02T14:30:00+00:00": 18.450000762939453,
+      "2024-05-02T15:30:00+00:00": 18.459999084472656,
+      "2024-05-02T16:30:00+00:00": 18.635000228881836,
+      "2024-05-02T17:30:00+00:00": 18.739999771118164,
+      "2024-05-02T18:30:00+00:00": 18.8700008392334,
+      "2024-05-02T19:30:00+00:00": 18.850000381469727
+    },
+    "sentiment": 0.63365638256073
   },
   {
-    "title": "AES Corp. management to meet virtually with Seaport Research",
-    "published": 1712651100,
-    "posting_price": 17.54776505,
-    "close_price": 17.4713459,
-    "percent_change": -0.43549221
+    "title": "AES Corp Unveils Quarterly Results and Future Outlook",
+    "published": 1714624380,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.43000030517578,
+      "2024-05-02T14:30:00+00:00": 18.450000762939453,
+      "2024-05-02T15:30:00+00:00": 18.459999084472656,
+      "2024-05-02T16:30:00+00:00": 18.635000228881836,
+      "2024-05-02T17:30:00+00:00": 18.739999771118164,
+      "2024-05-02T18:30:00+00:00": 18.8700008392334,
+      "2024-05-02T19:30:00+00:00": 18.850000381469727
+    },
+    "sentiment": 0.9409648776054382
   },
   {
-    "title": "AES Added as Top 10 Utility Dividend Stock With 3.77% Yield",
-    "published": 1712650800,
-    "posting_price": 17.54776505,
-    "close_price": 17.4713459,
-    "percent_change": -0.43549221
+    "title": "AES Corp. backs 2024 adjusted EPS view of $1.87-$1.97, consensus $1.91",
+    "published": 1714623780,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.43000030517578,
+      "2024-05-02T14:30:00+00:00": 18.450000762939453,
+      "2024-05-02T15:30:00+00:00": 18.459999084472656,
+      "2024-05-02T16:30:00+00:00": 18.635000228881836,
+      "2024-05-02T17:30:00+00:00": 18.739999771118164,
+      "2024-05-02T18:30:00+00:00": 18.8700008392334,
+      "2024-05-02T19:30:00+00:00": 18.850000381469727
+    },
+    "sentiment": 0.4596729278564453
   },
   {
-    "title": "AES (AES) Receives a Buy from RBC Capital",
-    "published": 1712641560,
-    "posting_price": 17.54776505,
-    "close_price": 17.4713459,
-    "percent_change": -0.43549221
+    "title": "Shocker Of 2024: Utilities Overtake Tech Sector \u2014 10 Stocks Behind The Shift",
+    "published": 1714620240,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 18.43000030517578,
+      "2024-05-02T14:30:00+00:00": 18.450000762939453,
+      "2024-05-02T15:30:00+00:00": 18.459999084472656,
+      "2024-05-02T16:30:00+00:00": 18.635000228881836,
+      "2024-05-02T17:30:00+00:00": 18.739999771118164,
+      "2024-05-02T18:30:00+00:00": 18.8700008392334,
+      "2024-05-02T19:30:00+00:00": 18.850000381469727
+    },
+    "sentiment": 0.4760277569293976
   },
   {
-    "title": "Buy-rated and sell-rated stocks within the Utilities sector - Citi",
-    "published": 1712320500,
-    "posting_price": 17.19432517,
-    "close_price": 17.27074432,
-    "percent_change": 0.44444402
+    "title": "AES to Report Q1 Earnings: Here's What You Need to Know",
+    "published": 1714566480,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 17.899999618530273,
+      "2024-05-01T14:30:00+00:00": 17.854999542236328,
+      "2024-05-01T15:30:00+00:00": 17.985000610351562,
+      "2024-05-01T16:30:00+00:00": 18.165000915527344,
+      "2024-05-01T17:30:00+00:00": 18.110000610351562,
+      "2024-05-01T18:30:00+00:00": 18.329999923706055,
+      "2024-05-01T19:30:00+00:00": 18.329999923706055
+    },
+    "sentiment": 0.9371989369392395
   },
   {
-    "title": "Top 3 Utilities Stocks That May Collapse in April",
-    "published": 1712302740,
-    "posting_price": 17.19432517,
-    "close_price": 17.27074432,
-    "percent_change": 0.44444402
+    "title": "Unveiling The AES (AES)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1715765520,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 20.790000915527344,
+      "2024-05-15T14:30:00+00:00": 21.1200008392334,
+      "2024-05-15T15:30:00+00:00": 21.239999771118164,
+      "2024-05-15T16:30:00+00:00": 21.1299991607666,
+      "2024-05-15T17:30:00+00:00": 21.149999618530273,
+      "2024-05-15T18:30:00+00:00": 21.06999969482422,
+      "2024-05-15T19:30:00+00:00": 21.184999465942383
+    },
+    "sentiment": 0.8478912711143494
   },
   {
-    "title": "AES Announces First Quarter 2024 Financial Review Conference Call to be Held on Friday, May 3, 2024 at 10:00 a.m. ET",
-    "published": 1712142000,
-    "posting_price": 16.94596236,
-    "close_price": 17.09880066,
-    "percent_change": 0.90191573
+    "title": "Most shorted S&P 500 utility stocks at April end",
+    "published": 1715677380,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 20.190000534057617,
+      "2024-05-14T14:30:00+00:00": 20.3799991607666,
+      "2024-05-14T15:30:00+00:00": 20.184999465942383,
+      "2024-05-14T16:30:00+00:00": 20.135000228881836,
+      "2024-05-14T17:30:00+00:00": 20.1200008392334,
+      "2024-05-14T18:30:00+00:00": 20.125,
+      "2024-05-14T19:30:00+00:00": 20.225000381469727
+    },
+    "sentiment": 0.8313429951667786
   },
   {
-    "title": "AES Announces First Quarter 2024 Financial Review Conference Call to be Held on Friday, May 3, 2024 at 10: 00 a.m. ET",
-    "published": 1712127672,
-    "posting_price": 16.94596236,
-    "close_price": 17.09880066,
-    "percent_change": 0.90191573
+    "title": "Roth MKM spotlights Utilities as top sector and highlights D, NRG, EVRG and others",
+    "published": 1715591280,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 20.0,
+      "2024-05-13T14:30:00+00:00": 20.100000381469727,
+      "2024-05-13T15:30:00+00:00": 20.06999969482422,
+      "2024-05-13T16:30:00+00:00": 20.049999237060547,
+      "2024-05-13T17:30:00+00:00": 20.010000228881836,
+      "2024-05-13T18:30:00+00:00": 20.135000228881836,
+      "2024-05-13T19:30:00+00:00": 20.0049991607666
+    },
+    "sentiment": 0.8193978071212769
+  },
+  {
+    "title": "How Grid Enhancing Technologies Are Expanding Electric Power Transmission System Capabilities",
+    "published": 1715194756,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 18.600000381469727,
+      "2024-05-08T14:30:00+00:00": 18.899999618530273,
+      "2024-05-08T15:30:00+00:00": 19.165000915527344,
+      "2024-05-08T16:30:00+00:00": 19.110000610351562,
+      "2024-05-08T17:30:00+00:00": 19.229999542236328,
+      "2024-05-08T18:30:00+00:00": 19.385000228881836,
+      "2024-05-08T19:30:00+00:00": 19.405000686645508
+    },
+    "sentiment": 0.7891631126403809
+  },
+  {
+    "title": "The Challenge Of Powering AI",
+    "published": 1715146309,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 18.600000381469727,
+      "2024-05-08T14:30:00+00:00": 18.899999618530273,
+      "2024-05-08T15:30:00+00:00": 19.165000915527344,
+      "2024-05-08T16:30:00+00:00": 19.110000610351562,
+      "2024-05-08T17:30:00+00:00": 19.229999542236328,
+      "2024-05-08T18:30:00+00:00": 19.385000228881836,
+      "2024-05-08T19:30:00+00:00": 19.405000686645508
+    },
+    "sentiment": 0.9067897796630859
+  },
+  {
+    "title": "Hedge funds cut stakes in Magnificent Seven to invest in broader AI boom",
+    "published": 1716313740,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 21.010000228881836,
+      "2024-05-21T14:30:00+00:00": 21.239999771118164,
+      "2024-05-21T15:30:00+00:00": 21.100000381469727,
+      "2024-05-21T16:30:00+00:00": 21.040000915527344,
+      "2024-05-21T17:30:00+00:00": 20.899999618530273,
+      "2024-05-21T18:30:00+00:00": 20.899999618530273,
+      "2024-05-21T19:30:00+00:00": 21.0
+    },
+    "sentiment": 0.8864113688468933
+  },
+  {
+    "title": "Eletrobr\u00e1s Q1 2024: Lower Than Expected, But With Dilution Of Risks",
+    "published": 1716279264,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 21.010000228881836,
+      "2024-05-21T14:30:00+00:00": 21.239999771118164,
+      "2024-05-21T15:30:00+00:00": 21.100000381469727,
+      "2024-05-21T16:30:00+00:00": 21.040000915527344,
+      "2024-05-21T17:30:00+00:00": 20.899999618530273,
+      "2024-05-21T18:30:00+00:00": 20.899999618530273,
+      "2024-05-21T19:30:00+00:00": 21.0
+    },
+    "sentiment": 0.890715479850769
+  },
+  {
+    "title": "AES Corp. downgraded to Neutral at Seaport after rally",
+    "published": 1716275760,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 21.010000228881836,
+      "2024-05-21T14:30:00+00:00": 21.239999771118164,
+      "2024-05-21T15:30:00+00:00": 21.100000381469727,
+      "2024-05-21T16:30:00+00:00": 21.040000915527344,
+      "2024-05-21T17:30:00+00:00": 20.899999618530273,
+      "2024-05-21T18:30:00+00:00": 20.899999618530273,
+      "2024-05-21T19:30:00+00:00": 21.0
+    },
+    "sentiment": 0.5541594624519348
+  },
+  {
+    "title": "Here's Why AES (AES) is a Strong Growth Stock",
+    "published": 1716212710,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 21.3799991607666,
+      "2024-05-20T14:30:00+00:00": 21.43000030517578,
+      "2024-05-20T15:30:00+00:00": 21.264999389648438,
+      "2024-05-20T16:30:00+00:00": 21.229999542236328,
+      "2024-05-20T17:30:00+00:00": 21.204999923706055,
+      "2024-05-20T18:30:00+00:00": 21.25,
+      "2024-05-20T19:30:00+00:00": 21.270000457763672
+    },
+    "sentiment": 0.5402554869651794
+  },
+  {
+    "title": "Shell, Constellation, First Solar among Barron's roundtable energy picks",
+    "published": 1716116100,
+    "day_prices": {},
+    "sentiment": 0.92171710729599
+  },
+  {
+    "title": "Utilities have surged in the past 3 months but are now flashing overbought signals",
+    "published": 1715939040,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 21.100000381469727,
+      "2024-05-17T14:30:00+00:00": 21.360000610351562,
+      "2024-05-17T15:30:00+00:00": 21.415000915527344,
+      "2024-05-17T16:30:00+00:00": 21.475000381469727,
+      "2024-05-17T17:30:00+00:00": 21.469999313354492,
+      "2024-05-17T18:30:00+00:00": 21.235000610351562,
+      "2024-05-17T19:30:00+00:00": 21.149999618530273
+    },
+    "sentiment": 0.4984106421470642
+  },
+  {
+    "title": "AI Explosion Sets Sleepy Utility Stocks On Fire As Sector Leads Market",
+    "published": 1715916237,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 21.100000381469727,
+      "2024-05-17T14:30:00+00:00": 21.360000610351562,
+      "2024-05-17T15:30:00+00:00": 21.415000915527344,
+      "2024-05-17T16:30:00+00:00": 21.475000381469727,
+      "2024-05-17T17:30:00+00:00": 21.469999313354492,
+      "2024-05-17T18:30:00+00:00": 21.235000610351562,
+      "2024-05-17T19:30:00+00:00": 21.149999618530273
+    },
+    "sentiment": 0.6604490876197815
+  },
+  {
+    "title": "AES Announces Pricing of $950,000,000 Million Fixed-to-Fixed Rate Reset Junior Subordinated Green Notes in Public Offering",
+    "published": 1715896440,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 21.209999084472656,
+      "2024-05-16T14:30:00+00:00": 21.2450008392334,
+      "2024-05-16T15:30:00+00:00": 21.325000762939453,
+      "2024-05-16T16:30:00+00:00": 21.549999237060547,
+      "2024-05-16T17:30:00+00:00": 21.395000457763672,
+      "2024-05-16T18:30:00+00:00": 21.280000686645508,
+      "2024-05-16T19:30:00+00:00": 21.315000534057617
+    },
+    "sentiment": 0.9065563678741455
+  },
+  {
+    "title": "AES plans to raise capital via junior subordinated green note offering",
+    "published": 1715847600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 21.209999084472656,
+      "2024-05-16T14:30:00+00:00": 21.2450008392334,
+      "2024-05-16T15:30:00+00:00": 21.325000762939453,
+      "2024-05-16T16:30:00+00:00": 21.549999237060547,
+      "2024-05-16T17:30:00+00:00": 21.395000457763672,
+      "2024-05-16T18:30:00+00:00": 21.280000686645508,
+      "2024-05-16T19:30:00+00:00": 21.315000534057617
+    },
+    "sentiment": 0.8848975896835327
   },
   {
     "title": "AES Corp. stock outperforms competitors on strong trading day",
-    "published": 1712118120,
-    "posting_price": 16.94596236,
-    "close_price": 17.09880066,
-    "percent_change": 0.90191573
+    "published": 1715833140,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 21.209999084472656,
+      "2024-05-16T14:30:00+00:00": 21.2450008392334,
+      "2024-05-16T15:30:00+00:00": 21.325000762939453,
+      "2024-05-16T16:30:00+00:00": 21.549999237060547,
+      "2024-05-16T17:30:00+00:00": 21.395000457763672,
+      "2024-05-16T18:30:00+00:00": 21.280000686645508,
+      "2024-05-16T19:30:00+00:00": 21.315000534057617
+    },
+    "sentiment": 0.9378608465194702
   },
   {
-    "title": "AES Corp. price target lowered by $1 at UBS, here's why",
-    "published": 1712040480,
-    "posting_price": 17.14656308,
-    "close_price": 17.02238083,
-    "percent_change": -0.72423989
+    "title": "AES to sell 47% equity in AES Brasil for $640M",
+    "published": 1715823600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 21.209999084472656,
+      "2024-05-16T14:30:00+00:00": 21.2450008392334,
+      "2024-05-16T15:30:00+00:00": 21.325000762939453,
+      "2024-05-16T16:30:00+00:00": 21.549999237060547,
+      "2024-05-16T17:30:00+00:00": 21.395000457763672,
+      "2024-05-16T18:30:00+00:00": 21.280000686645508,
+      "2024-05-16T19:30:00+00:00": 21.315000534057617
+    },
+    "sentiment": 0.9293918609619141
   },
   {
-    "title": "Alliant Energy (LNT) to Report Q1 Earnings: What's in Store?",
-    "published": 1714477800,
-    "posting_price": 16.73552811,
-    "close_price": 17.26604843,
-    "percent_change": 3.17002437
+    "title": "AES Corp. price target raised by $3 at Argus, here's why",
+    "published": 1717142340,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 21.90999984741211,
+      "2024-05-31T14:30:00+00:00": 21.520000457763672,
+      "2024-05-31T15:30:00+00:00": 21.5049991607666,
+      "2024-05-31T16:30:00+00:00": 21.420000076293945,
+      "2024-05-31T17:30:00+00:00": 21.579999923706055,
+      "2024-05-31T18:30:00+00:00": 21.55500030517578,
+      "2024-05-31T19:30:00+00:00": 21.485000610351562
+    },
+    "sentiment": 0.735442042350769
   },
   {
-    "title": "The AES Corp's Dividend Analysis",
-    "published": 1714475140,
-    "posting_price": 16.73552811,
-    "close_price": 17.26604843,
-    "percent_change": 3.17002437
-  },
-  {
-    "title": "Tuesday Sector Leaders: Utilities, Financial",
-    "published": 1714441080,
-    "posting_price": 16.73552811,
-    "close_price": 17.26604843,
-    "percent_change": 3.17002437
-  },
-  {
-    "title": "Why AES (AES) Could Beat Earnings Estimates Again",
-    "published": 1714407005,
-    "posting_price": 16.62118116,
-    "close_price": 17.06059265,
-    "percent_change": 2.6436839
-  },
-  {
-    "title": "TotalEnergies Is Among Suitors for AES Brazil Power Unit",
-    "published": 1714404698,
-    "posting_price": 16.62118116,
-    "close_price": 17.06059265,
-    "percent_change": 2.6436839
-  },
-  {
-    "title": "TotalEnergies among suitors for AES Brazil power unit - Bloomberg",
-    "published": 1714392600,
-    "posting_price": 16.62118116,
-    "close_price": 17.06059265,
-    "percent_change": 2.6436839
-  },
-  {
-    "title": "The AES Corporation Is In Transition, BEP Is The Better Alternative",
-    "published": 1714216869,
-    "posting_price": 16.62118116,
-    "close_price": 17.06059265,
-    "percent_change": 2.6436839
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 28",
-    "published": 1714210198,
-    "posting_price": 16.62118116,
-    "close_price": 17.06059265,
-    "percent_change": 2.6436839
-  },
-  {
-    "title": "Goldman\u2019s debt issuers stocks basket",
-    "published": 1713787140,
-    "posting_price": 15.68504576,
-    "close_price": 15.95251369,
-    "percent_change": 1.70524163
-  },
-  {
-    "title": "RBC Capital Remains a Buy on AES (AES)",
-    "published": 1713775680,
-    "posting_price": 15.68504576,
-    "close_price": 15.95251369,
-    "percent_change": 1.70524163
-  },
-  {
-    "title": "Goldman picks top capex and R&D stocks",
-    "published": 1713663840,
-    "posting_price": 15.68504576,
-    "close_price": 15.95251369,
-    "percent_change": 1.70524163
-  },
-  {
-    "title": "Mizuho Initiates Coverage of AES (AES) with Buy Recommendation",
-    "published": 1713492121,
-    "posting_price": 15.50355031,
-    "close_price": 15.66594124,
-    "percent_change": 1.0474435
-  },
-  {
-    "title": "Beyond The Numbers: 8 Analysts Discuss AES Stock",
-    "published": 1713438360,
-    "posting_price": 15.60862602,
-    "close_price": 15.54175949,
-    "percent_change": -0.42839472
-  },
-  {
-    "title": "June 21st Options Now Available For AES",
-    "published": 1713435420,
-    "posting_price": 15.60862602,
-    "close_price": 15.54175949,
-    "percent_change": -0.42839472
-  },
-  {
-    "title": "ClearBridge Appreciation ESG Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1713427200,
-    "posting_price": 15.60862602,
-    "close_price": 15.54175949,
-    "percent_change": -0.42839472
-  },
-  {
-    "title": "AES Corp. initiated with bullish view at Mizuho, here's why",
-    "published": 1713418620,
-    "posting_price": 15.60862602,
-    "close_price": 15.54175949,
-    "percent_change": -0.42839472
-  },
-  {
-    "title": "AES launched with Buy rating at Mizuho as 'strong U.S. utility growth story'",
-    "published": 1713405600,
-    "posting_price": 15.60862602,
-    "close_price": 15.54175949,
-    "percent_change": -0.42839472
-  },
-  {
-    "title": "ClearBridge ESG Investment Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1713349200,
-    "posting_price": 15.29339731,
-    "close_price": 15.41757774,
-    "percent_change": 0.81198721
-  },
-  {
-    "title": "ClearBridge Sustainability Leaders Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1713337200,
-    "posting_price": 15.29339731,
-    "close_price": 15.41757774,
-    "percent_change": 0.81198721
+    "title": "AI Boom Spurs Search For New Winners Beyond Nvidia: Bloomberg",
+    "published": 1716554400,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 20.709999084472656,
+      "2024-05-24T14:30:00+00:00": 20.739999771118164,
+      "2024-05-24T15:30:00+00:00": 20.975000381469727,
+      "2024-05-24T16:30:00+00:00": 20.959999084472656,
+      "2024-05-24T17:30:00+00:00": 20.96500015258789,
+      "2024-05-24T18:30:00+00:00": 20.959999084472656,
+      "2024-05-24T19:30:00+00:00": 20.959999084472656
+    },
+    "sentiment": 0.8342978358268738
   }
 ]

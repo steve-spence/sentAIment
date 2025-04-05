@@ -1,996 +1,1302 @@
 [
   {
-    "title": "Apollo Global Management Larger Than S&P 500 Component Occidental Petroleum",
-    "published": 1713152760,
-    "posting_price": 109.95202904,
-    "close_price": 106.09597015,
-    "percent_change": -3.5070375
+    "title": "M&A News: Skydance Isn\u2019t Out of the Paramount (NASDAQ:PARA) Hunt Yet",
+    "published": 1715085480,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 110.87999725341797,
+      "2024-05-07T14:30:00+00:00": 113.04499816894531,
+      "2024-05-07T15:30:00+00:00": 113.23500061035156,
+      "2024-05-07T16:30:00+00:00": 113.26000213623047,
+      "2024-05-07T17:30:00+00:00": 113.30000305175781,
+      "2024-05-07T18:30:00+00:00": 113.18499755859375,
+      "2024-05-07T19:30:00+00:00": 113.06500244140625
+    },
+    "sentiment": 0.8556257486343384
   },
   {
-    "title": "Apollo\u2019s Asia Expansion Has Lured in $35 Billion From Region",
-    "published": 1713139260,
-    "posting_price": 109.95202904,
-    "close_price": 106.09597015,
-    "percent_change": -3.5070375
+    "title": "Apollo, Sony's bid for Paramount may face antitrust hurdles, NY Post says",
+    "published": 1715058720,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 110.87999725341797,
+      "2024-05-07T14:30:00+00:00": 113.04499816894531,
+      "2024-05-07T15:30:00+00:00": 113.23500061035156,
+      "2024-05-07T16:30:00+00:00": 113.26000213623047,
+      "2024-05-07T17:30:00+00:00": 113.30000305175781,
+      "2024-05-07T18:30:00+00:00": 113.18499755859375,
+      "2024-05-07T19:30:00+00:00": 113.06500244140625
+    },
+    "sentiment": 0.6355969905853271
   },
   {
-    "title": "Barington Capital asks Paramount to engage Apollo on offer, Bloomberg says",
-    "published": 1712924820,
-    "posting_price": 110.45500081,
-    "close_price": 108.61079407,
-    "percent_change": -1.66964531
+    "title": "M&A News: Skydance Isn\u2019t Giving Up on Paramount (NASDAQ:PARA) Yet",
+    "published": 1715045040,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 110.87999725341797,
+      "2024-05-07T14:30:00+00:00": 113.04499816894531,
+      "2024-05-07T15:30:00+00:00": 113.23500061035156,
+      "2024-05-07T16:30:00+00:00": 113.26000213623047,
+      "2024-05-07T17:30:00+00:00": 113.30000305175781,
+      "2024-05-07T18:30:00+00:00": 113.18499755859375,
+      "2024-05-07T19:30:00+00:00": 113.06500244140625
+    },
+    "sentiment": 0.9235522150993347
   },
   {
-    "title": "Nvidia Is One of Six Sector Leaders; Here Are Two Others That Make The List",
-    "published": 1712923206,
-    "posting_price": 110.45500081,
-    "close_price": 108.61079407,
-    "percent_change": -1.66964531
+    "title": "Paramount deal talks: How investors are viewing risks",
+    "published": 1715011075,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 109.62000274658203,
+      "2024-05-06T14:30:00+00:00": 111.23999786376953,
+      "2024-05-06T15:30:00+00:00": 110.98989868164062,
+      "2024-05-06T16:30:00+00:00": 110.75,
+      "2024-05-06T17:30:00+00:00": 110.86000061035156,
+      "2024-05-06T18:30:00+00:00": 110.95999908447266,
+      "2024-05-06T19:30:00+00:00": 110.9800033569336
+    },
+    "sentiment": 0.9356459975242615
   },
   {
-    "title": "Here's How Much $100 Invested In Apollo Global Management 10 Years Ago Would Be Worth Today",
-    "published": 1712894760,
-    "posting_price": 110.45500081,
-    "close_price": 108.61079407,
-    "percent_change": -1.66964531
+    "title": "Paramount opens acquisition talks with Sony, Apollo: NYT",
+    "published": 1715004421,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 109.62000274658203,
+      "2024-05-06T14:30:00+00:00": 111.23999786376953,
+      "2024-05-06T15:30:00+00:00": 110.98989868164062,
+      "2024-05-06T16:30:00+00:00": 110.75,
+      "2024-05-06T17:30:00+00:00": 110.86000061035156,
+      "2024-05-06T18:30:00+00:00": 110.95999908447266,
+      "2024-05-06T19:30:00+00:00": 110.9800033569336
+    },
+    "sentiment": 0.9241198301315308
   },
   {
-    "title": "What You Missed On Wall Street On Friday",
-    "published": 1712892060,
-    "posting_price": 110.45500081,
-    "close_price": 108.61079407,
-    "percent_change": -1.66964531
+    "title": "Paramount opens negotiations with Sony, Apollo, NY Times reports",
+    "published": 1714972320,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 109.62000274658203,
+      "2024-05-06T14:30:00+00:00": 111.23999786376953,
+      "2024-05-06T15:30:00+00:00": 110.98989868164062,
+      "2024-05-06T16:30:00+00:00": 110.75,
+      "2024-05-06T17:30:00+00:00": 110.86000061035156,
+      "2024-05-06T18:30:00+00:00": 110.95999908447266,
+      "2024-05-06T19:30:00+00:00": 110.9800033569336
+    },
+    "sentiment": 0.9154943823814392
   },
   {
-    "title": "Paramount (NASDAQ:PARA) Slate Explodes, More Shareholders Balk at Redstone Deal",
-    "published": 1712890980,
-    "posting_price": 110.45500081,
-    "close_price": 108.61079407,
-    "percent_change": -1.66964531
+    "title": "Apollo Global\u2019s (NYSE:APO) CEO Explains Why the Interest in Paramount (NASDAQ:PARA)",
+    "published": 1714962780,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 109.62000274658203,
+      "2024-05-06T14:30:00+00:00": 111.23999786376953,
+      "2024-05-06T15:30:00+00:00": 110.98989868164062,
+      "2024-05-06T16:30:00+00:00": 110.75,
+      "2024-05-06T17:30:00+00:00": 110.86000061035156,
+      "2024-05-06T18:30:00+00:00": 110.95999908447266,
+      "2024-05-06T19:30:00+00:00": 110.9800033569336
+    },
+    "sentiment": 0.9207385778427124
   },
   {
-    "title": "Gabelli opposes possible Paramount-Skydance deal, NY Post reports",
-    "published": 1712890320,
-    "posting_price": 110.45500081,
-    "close_price": 108.61079407,
-    "percent_change": -1.66964531
+    "title": "Paramount ended Skydance exclusivity without deal, Reuters reports",
+    "published": 1714897560,
+    "day_prices": {},
+    "sentiment": 0.8329134583473206
   },
   {
-    "title": "A New Season of Succession Just Debuted\u2026 in Real Life",
-    "published": 1712863800,
-    "posting_price": 111.46091461,
-    "close_price": 111.46091461,
-    "percent_change": 0.0
+    "title": "Paramount reportedly approves buyout talks with Sony, Apollo",
+    "published": 1714881180,
+    "day_prices": {},
+    "sentiment": 0.811647891998291
   },
   {
-    "title": "Disney, Paramount: Entertainment giants under pressure",
-    "published": 1712861707,
-    "posting_price": 111.46091461,
-    "close_price": 111.46091461,
-    "percent_change": 0.0
+    "title": "Paramount lets Skydance know talks aren't exclusive amid Apollo/Sony bid - report",
+    "published": 1714826460,
+    "day_prices": {},
+    "sentiment": 0.8090264797210693
   },
   {
-    "title": "May 31st Options Now Available For Apollo Global Management (APO)",
-    "published": 1712830440,
-    "posting_price": 111.46091461,
-    "close_price": 111.46091461,
-    "percent_change": 0.0
+    "title": "REFILE-UPDATE 1-Paramount will let exclusive talks with Skydance lapse, NYT reports",
+    "published": 1714774780,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.8664889931678772
   },
   {
-    "title": "Paramount Directors Exit As Skydance Merger Talks Continue: Report",
-    "published": 1712824200,
-    "posting_price": 111.46091461,
-    "close_price": 111.46091461,
-    "percent_change": 0.0
+    "title": "Apollo Global Management, Inc. (NYSE:APO) Q1 2024 Earnings Call Transcript",
+    "published": 1714764993,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.9241852760314941
   },
   {
-    "title": "Financials Stocks are Seeing More Big Money",
-    "published": 1712777599,
-    "posting_price": 109.46878134,
-    "close_price": 112.6443634,
-    "percent_change": 2.90090199
+    "title": "Sony and Apollo confirm $26B proposed bid in Paramount talks",
+    "published": 1714747531,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.8663010597229004
   },
   {
-    "title": "Apollo Global put volume heavy and directionally bearish",
-    "published": 1712753760,
-    "posting_price": 109.46878134,
-    "close_price": 112.6443634,
-    "percent_change": 2.90090199
+    "title": "Apollo Global Management (APO) Gets a Buy from KBW",
+    "published": 1714739340,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.6488717794418335
   },
   {
-    "title": "Paramount directors said to seek exit as merger talks continue - WSJ",
-    "published": 1712752020,
-    "posting_price": 109.46878134,
-    "close_price": 112.6443634,
-    "percent_change": 2.90090199
+    "title": "Analysts Conflicted on These Financial Names: Rocket Companies (RKT), Trupanion (TRUP) and Apollo Global Management (APO)",
+    "published": 1714732440,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.6534577012062073
   },
   {
-    "title": "Banks Strike Back Against Private Credit",
-    "published": 1712745000,
-    "posting_price": 109.46878134,
-    "close_price": 112.6443634,
-    "percent_change": 2.90090199
+    "title": "Paramount gains amid report special committee considers Sony offer serious",
+    "published": 1714725960,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.8423641920089722
   },
   {
-    "title": "M&A News: Paramount (NASDAQ:PARA) Slips as Directors Look to Bail Out",
-    "published": 1712718240,
-    "posting_price": 109.46878134,
-    "close_price": 112.6443634,
-    "percent_change": 2.90090199
+    "title": "Apollo Global Management Inc (APO) (Q1 2024) Earnings Call Transcript Highlights: Robust Growth ...",
+    "published": 1714720875,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.9441320896148682
   },
   {
-    "title": "Four directors to leave Paramount board as company holds merger talks: report",
-    "published": 1712714040,
-    "posting_price": 109.46878134,
-    "close_price": 112.6443634,
-    "percent_change": 2.90090199
+    "title": "Paramount\u2019s new \u2018Office of the CEO\u2019 now has a leader \u2014 while its ex-CEO will still collect a hefty paycheck",
+    "published": 1714717620,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.8523484468460083
   },
   {
-    "title": "AB vs. APO: Which Stock Should Value Investors Buy Now?",
-    "published": 1712677213,
-    "posting_price": 114.7351133,
-    "close_price": 110.32678223,
-    "percent_change": -3.8421813
+    "title": "Apollo Global price target lowered by $2 at Barclays, here's why",
+    "published": 1714711140,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.7995664477348328
   },
   {
-    "title": "Paramount Faces a Mountain of Distrust",
-    "published": 1712656800,
-    "posting_price": 114.7351133,
-    "close_price": 110.32678223,
-    "percent_change": -3.8421813
+    "title": "M&A News: Paramount (NASDAQ:PARA) Plummets after Skydance Deal Threatened",
+    "published": 1714705920,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.9665593504905701
   },
   {
-    "title": "LONDON MARKET CLOSE: Miners and airlines in demand as FTSE 100 climbs",
-    "published": 1712577780,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Paramount dips again as odds grow that it proceeds with no merger",
+    "published": 1714700580,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 113.0,
+      "2024-05-03T14:30:00+00:00": 111.61499786376953,
+      "2024-05-03T15:30:00+00:00": 110.31999969482422,
+      "2024-05-03T16:30:00+00:00": 110.12999725341797,
+      "2024-05-03T17:30:00+00:00": 110.63999938964844,
+      "2024-05-03T18:30:00+00:00": 110.66500091552734,
+      "2024-05-03T19:30:00+00:00": 109.56500244140625
+    },
+    "sentiment": 0.9435777068138123
   },
   {
-    "title": "Entain gains amid report of private equity interest",
-    "published": 1712569200,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Paramount Gets a $26 Billion Offer from Sony, Apollo: Reports",
+    "published": 1714685640,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.6320402026176453
   },
   {
-    "title": "LONDON MARKET MIDDAY: Sluggish blue-chips underperform European peers",
-    "published": 1712559540,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Apollo Global Management : 1Q 2024 Earnings Transcript",
+    "published": 1714682226,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.9170849323272705
   },
   {
-    "title": "Apollo Global Management (APO) Gets a Buy from Barclays",
-    "published": 1712551860,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Sony, Apollo Propose $26 Billion Deal for Paramount Global",
+    "published": 1714675961,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.844673752784729
   },
   {
-    "title": "Apollo Global price target raised by $11 at Barclays, here's why",
-    "published": 1712551440,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Sony, Apollo Make $26 Billion All-Cash Offer for Paramount",
+    "published": 1714671060,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.795915424823761
   },
   {
-    "title": "LONDON MARKET OPEN: FTSE 100 slips in tepid trade before US data, ECB",
-    "published": 1712547720,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "NEW YORK MARKET CLOSE: Dovish Fed boosts stocks as jobs report looms",
+    "published": 1714666620,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.7043665647506714
   },
   {
-    "title": "Paramount, Skydance Deal Could Be 'Home Run' For Shari Redstone, Loss For Shareholders, Investor Warns",
-    "published": 1712539680,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Apollo Profit Jumps 26% on Fee Growth, Private Credit Growth",
+    "published": 1714658228,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.9413337111473083
   },
   {
-    "title": "GLOBAL BRIEFING: Israel prepares for future missions in Rafah",
-    "published": 1712536620,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Sony, Apollo send letter advancing $26B Paramount bid - reports",
+    "published": 1714654260,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.8457274436950684
   },
   {
-    "title": "PRESS: Entain mulls fate for \"range\" of units as CEO appointment nears",
-    "published": 1712463600,
-    "posting_price": 114.39981446,
-    "close_price": 114.45898438,
-    "percent_change": 0.05172204
+    "title": "Sony, Apollo express interest in buying Paramount in $26B deal, NYT reports",
+    "published": 1714653240,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.831892192363739
   },
   {
-    "title": "When will Fed cut rates? As US economy flexes its muscles, maybe later or not at all",
-    "published": 1712383200,
-    "posting_price": 114.39982209,
-    "close_price": 114.458992,
-    "percent_change": 0.05172203
+    "title": "Apollo Reports First Quarter 2024 Results",
+    "published": 1714645800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.9407777190208435
   },
   {
-    "title": "UPDATE 1-Paramount could acquire Skydance in $5 bln all-stock deal, WSJ reports",
-    "published": 1712368556,
-    "posting_price": 114.39982209,
-    "close_price": 114.458992,
-    "percent_change": 0.05172203
+    "title": "Apollo Global Q1 earnings miss as premiums, investment gains weigh on revenue",
+    "published": 1714639020,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.9650157690048218
   },
   {
-    "title": "Paramount Global's Potential Sale To Skydance Media: A Tale Of Shifting Shareholder Outcomes And Streaming Strategies",
-    "published": 1712367180,
-    "posting_price": 114.39982209,
-    "close_price": 114.458992,
-    "percent_change": 0.05172203
+    "title": "Apollo Global Management: A Strong Buy on Solid KPIs and Robust Fund Inflows",
+    "published": 1714633560,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.9548889994621277
   },
   {
-    "title": "Paramount-Skydance Deal Would Give Shari Redstone\u2019s Firm Over $2 Billion in Cash",
-    "published": 1712359740,
-    "posting_price": 110.65223687,
-    "close_price": 113.08816528,
-    "percent_change": 2.20142717
-  },
-  {
-    "title": "Paramount: Apollo Coming Around The Turn Ready\u00a0To Pounce If Skydance Deal Falters",
-    "published": 1712321220,
-    "posting_price": 110.65223687,
-    "close_price": 113.08816528,
-    "percent_change": 2.20142717
-  },
-  {
-    "title": "Paramount dips again as Skydance plan reportedly stops short of full takeover",
-    "published": 1712318760,
-    "posting_price": 110.65223687,
-    "close_price": 113.08816528,
-    "percent_change": 2.20142717
-  },
-  {
-    "title": "Apollo Global price target raised by $11 at BMO Capital, here's why",
-    "published": 1712301420,
-    "posting_price": 110.65223687,
-    "close_price": 113.08816528,
-    "percent_change": 2.20142717
-  },
-  {
-    "title": "MidCap Financial Investment Corporation, Apollo Senior Floating Rate Fund Inc. and Apollo Tactical Income Fund Inc. Announce Filing of Definitive Joint Proxy Statement / Prospectus Relating to Previously Announced Proposed Mergers",
-    "published": 1712262120,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "Investment Firm Stock Offers Entry As It Trounces S&P 500 Yet Again",
-    "published": 1712257795,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "West Technology Group, LLC - Notified Announces Strategic Sale of Virtual Events and Webinar Business to Brandlive",
-    "published": 1712229706,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1712228760,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "Analyst Says Paramount Global Reportedly Snubbing $26B Offer From Apollo Global 'Doesn't Make Sense'",
-    "published": 1712222820,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "DoorDash initiated, Block downgraded: Wall Street's top analyst calls",
-    "published": 1712220480,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "Paramount sinks amid report Ellison-led bid would require new equity to be raised",
-    "published": 1712220360,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "Apollo Global interested in acquiring Paramount for over $26B, NY Times says",
-    "published": 1712207460,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
+    "title": "Apollo Global Management Non-GAAP EPS of $1.72 misses by $0.06, revenue of $462M",
+    "published": 1714628400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.8539052605628967
   },
   {
     "title": "What You Missed On Wall Street On Thursday",
-    "published": 1712200740,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "M&A News: Paramount (NASDAQ:PARA) Plunges on Skydance Talks",
-    "published": 1712199720,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "PRESS: Paramount in exclusive merger talks with Skydance",
-    "published": 1712191560,
-    "posting_price": 112.11182373,
-    "close_price": 109.54769135,
-    "percent_change": -2.28712039
-  },
-  {
-    "title": "Paramount Enters Exclusive Merger Talks With Skydance, Spurning $26 Billion Offer From Apollo",
-    "published": 1712177340,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Paramount, Skydance Enter Exclusive Talks to Merge",
-    "published": 1712166300,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Apollo Is in Talks to Finance Renewed Saks Offer for Neiman",
-    "published": 1712172897,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Paramount enters exclusive merger talks with Skydance, WSJ says",
-    "published": 1712148600,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "CleanGo Innovations Expands Green Reach in South America",
-    "published": 1712147940,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Notified Announces Strategic Sale of Virtual Events and Webinar Business to Brandlive",
-    "published": 1712145600,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Notified Extends Partnership with Canadian Investor Relations Institute; Affirming Commitment to Advancing Technology in IR; Notified has renewed its partnership with the Canadian Investor Relations Institute (CIRI) Relationship Represents Notified's Continued Commitment to Empowering Investor Relations Professionals with Industry-Leading, AI-Enabled Technology",
-    "published": 1712144232,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Paramount discusses entering into exclusive talks with Skydance, NYT reports",
-    "published": 1712144220,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Notified Extends Partnership with Canadian Investor Relations Institute; Affirming Commitment to Advancing Technology in IR",
-    "published": 1712137721,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Notified announces sale of virtual events, webinar business to Brandlive",
-    "published": 1712127900,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Paramount gains amid report of advancing talks with Skydance",
-    "published": 1712125320,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "M&A News: Paramount (NASDAQ: PARA) Stock Surges on Skydance Talks",
-    "published": 1712124060,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Redstone has deal to sell Paramount stake to Skydance: reports (updated)",
-    "published": 1712118600,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Redstone has deal to sell Paramount stake to Skydance: reports",
-    "published": 1712113500,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Redstone has deal to sell Paramount stake to Skydance: Bloomberg",
-    "published": 1712112120,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "Paramount said to intensify talks with Skydance about merger: reports",
-    "published": 1712106000,
-    "posting_price": 109.03485444,
-    "close_price": 111.03684998,
-    "percent_change": 1.83610603
-  },
-  {
-    "title": "FHI vs. APO: Which Stock Is the Better Value Option?",
-    "published": 1714491614,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "Paramount's CEO shakeup and what it signals for merger bids",
-    "published": 1714487099,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "Paramount\u2019s Hollywood Ending Won\u2019t Be Tidy",
-    "published": 1714482000,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "Check Out What Whales Are Doing With APO",
-    "published": 1714478760,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "CleanGo Innovations Targets Uplisting and Growth",
-    "published": 1714477080,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "The Paramount M&A Horror Show Explained",
-    "published": 1714467401,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "I Am Swimming In Dividends",
-    "published": 1714462500,
-    "posting_price": 108.91651384,
-    "close_price": 106.88492584,
-    "percent_change": -1.86527087
-  },
-  {
-    "title": "Paramount CEO Bakish could be ousted as soon as Monday: Report",
-    "published": 1714398819,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Bob Bakish\u2019s Time at Paramount (NASDAQ:PARA) Is Running Out",
-    "published": 1714395120,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Bob Bakish\u2019s Time at Paramount (NASDAQ:PARA) Running Down",
-    "published": 1714394880,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Bob Bakish\u2019s Borrowed Time at Paramount (NASDAQ:PARA) Running Down",
-    "published": 1714393860,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Skydance offering Paramount $3B in cash to sweeten merger deal - NYT",
-    "published": 1714389240,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "John Hedlund, Mortgage Industry Veteran and Operations Leader, Joins FundingShield Advisory Board",
-    "published": 1714381200,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Blackstone Clinches Hipgnosis Deal, Expanding Music Rights Portfolio",
-    "published": 1714368780,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Paramount expected to fire Bakish amid clash with Redstone, FT reports",
-    "published": 1714367340,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Paramount earnings call: Introducing 'CEO Office,' taking no questions",
-    "published": 1714363320,
-    "posting_price": 111.25381172,
-    "close_price": 109.38002777,
-    "percent_change": -1.68424247
-  },
-  {
-    "title": "Apollo, KKR and Stonepeak may fund Intel's Ireland facility, Bloomberg reports",
-    "published": 1714158675,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Apollo, KKR, Stonepeak Weigh Investing Billions in Intel Chip JV",
-    "published": 1714157765,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica Stock Rises 20%, Edges Beyond Apollo\u2019s Takeover Price",
-    "published": 1714144560,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Apollo Global to Buy U.S. Silica in $1.85 Billion Deal",
-    "published": 1714130400,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1714129440,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica Holdings, Inc. Reports First Quarter 2024 Results",
-    "published": 1714129260,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica Enters Into Definitive Agreement to Be Acquired by Apollo Funds for $1.85 Billion",
-    "published": 1714129200,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "US Silica agrees to go private in $1.85 billion acquisition by Apollo Global",
-    "published": 1714128960,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica to be acquired by Apollo Global for $15.50 per share in cash",
-    "published": 1714116600,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica jumps 19% to $15.52 after buyout offer from Apollo Global funds",
-    "published": 1714114500,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica to be acquired by Apollo Funds for $1.85 billion",
-    "published": 1714112520,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica to be acquired by Apollo Global funds for $1.85B in cash",
-    "published": 1714111680,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "U.S. Silica to be acquired by Apollo Global funds for $1.85B",
-    "published": 1714111500,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "$100 Invested In Apollo Global Management 10 Years Ago Would Be Worth This Much Today",
-    "published": 1714104180,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "What You Missed On Wall Street On Friday",
-    "published": 1714100940,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Bob Bakish on Borrowed Time at Paramount? (NASDAQ:PARA)",
-    "published": 1714100520,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Apollo, others consider investing in Intel joint venture: report",
-    "published": 1714097460,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Apollo, KKR weigh investment in JV for Intel Ireland fab, Bloomberg says",
-    "published": 1714097160,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Paramount considers removing Bakish as CEO amid sale talks - WSJ",
-    "published": 1714093680,
-    "posting_price": 110.95795936,
-    "close_price": 110.67195892,
-    "percent_change": -0.25775568
-  },
-  {
-    "title": "Investment Firm's Stock Waits In Wings Ahead Of Earnings Report",
-    "published": 1714084843,
-    "posting_price": 109.95203517,
-    "close_price": 110.33665466,
-    "percent_change": 0.34980661
-  },
-  {
-    "title": "Apollo still a suitor for TripAdvisor, 'ample interest' from others, Skift says",
-    "published": 1714034400,
-    "posting_price": 109.95203517,
-    "close_price": 110.33665466,
-    "percent_change": 0.34980661
-  },
-  {
-    "title": "Blackstone's Results Confirm Apollo Is A Better Alternative",
-    "published": 1714033546,
-    "posting_price": 109.95203517,
-    "close_price": 110.33665466,
-    "percent_change": 0.34980661
-  },
-  {
-    "title": "7 Stocks That Could Be Heading Six-Feet Under",
-    "published": 1714025640,
-    "posting_price": 109.95203517,
-    "close_price": 110.33665466,
-    "percent_change": 0.34980661
-  },
-  {
-    "title": "RBC-Led Banks Offer Juicy Yield to Offload Last of\u00a0Tenneco Debt",
-    "published": 1713974788,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Apollo\u2019s ATLAS SP Announces Investment from MassMutual",
-    "published": 1713960000,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Apollo's ATLAS SP announces investment from MassMutual",
-    "published": 1713942960,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Tripadvisor still seeing sales interest from Apollo, others - report",
-    "published": 1713931560,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Apollo Global sells minority stake in ATLAS SP to MassMutual",
-    "published": 1713922560,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Here's what Wall St. experts are saying about these media names ahead of results",
-    "published": 1713920580,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Apollo Sells Stake In Lending Unit To MassMutual; Massmutual Will Invest Over $2 Bln In Unit - FT",
-    "published": 1713916965,
-    "posting_price": 112.59506434,
-    "close_price": 111.16506958,
-    "percent_change": -1.27003325
-  },
-  {
-    "title": "Paramount drops on report Sony hasn't made any bid yet",
-    "published": 1713776100,
-    "posting_price": 107.3977567,
-    "close_price": 109.07430267,
-    "percent_change": 1.56106237
-  },
-  {
-    "title": "Sony has not contacted Paramount special committee, CNBC says",
-    "published": 1713775500,
-    "posting_price": 107.3977567,
-    "close_price": 109.07430267,
-    "percent_change": 1.56106237
-  },
-  {
-    "title": "Blackstone Shakes Up Music Industry With Hipgnosis Bid: Details",
-    "published": 1713766500,
-    "posting_price": 107.3977567,
-    "close_price": 109.07430267,
-    "percent_change": 1.56106237
-  },
-  {
-    "title": "Move Aside, Big Banks: Giant Funds Now Rule Wall Street",
-    "published": 1713758400,
-    "posting_price": 107.3977567,
-    "close_price": 109.07430267,
-    "percent_change": 1.56106237
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Nasdaq's losing run hits six as Nvidia dips 10%",
-    "published": 1713544140,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Paramount: Potential Rescue With Sony Bid",
-    "published": 1713537000,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Paramount Stock Jumps on Report That Sony Is a Potential Buyer",
-    "published": 1713536760,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "What a Sony, Apollo buyout of Paramount looks like: Analyst",
-    "published": 1713536692,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "American Express, Fifth Third rise; Netflix, PPG Industries fall, Friday, 4/19/2024",
-    "published": 1713528300,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "First Week of December 20th Options Trading For Apollo Global Management (APO)",
-    "published": 1713519480,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Paramount jumps on report of Sony Pictures, Apollo discussing joint buyout bid",
-    "published": 1713518945,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Why Paramount Global Shares Are Gaining Today",
-    "published": 1713517860,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Biggest stock movers today: SHOP, NFLX, PARA, and more",
-    "published": 1713517140,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Fly Intel: Pre-market Movers",
-    "published": 1713514140,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Biggest stock movers today: NFLX, PARA, and more",
-    "published": 1713511140,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "KKR & Co. Follows Berkshire Hathaway",
-    "published": 1713508483,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "M&A News: Paramount Stock Jumps on Potential Buyout Offer",
-    "published": 1713504120,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Biggest stock movers today: NFLX and PARA",
-    "published": 1713502140,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "S&P 500 Nears 6-Day Slide, Nasdaq 100 Faces Worst Week Since Late 2022: What's Driving Markets Friday?",
-    "published": 1713490980,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Sony Is in Talks With Apollo on a Joint Paramount Bid",
-    "published": 1713490313,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Sony in talks with Apollo on joint bid for Paramount: Source",
-    "published": 1713489899,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Sony, Apollo discuss joint bid for Paramount, says source",
-    "published": 1713489899,
-    "posting_price": 105.6225913,
-    "close_price": 106.14527893,
-    "percent_change": 0.49486348
-  },
-  {
-    "title": "Athene Announces Fixed Income Investor Conference Call",
-    "published": 1713473100,
-    "posting_price": 106.10583241,
-    "close_price": 105.81983948,
-    "percent_change": -0.26953554
-  },
-  {
-    "title": "West Technology Group, LLC - TeleVox Simplifies Care Delivery and Improves Patient Outcomes with Enhanced Digital Care Programs",
-    "published": 1713434193,
-    "posting_price": 106.10583241,
-    "close_price": 105.81983948,
-    "percent_change": -0.26953554
-  },
-  {
-    "title": "Paramount shares rise after Sony, Apollo reportedly seek to join deal talks",
-    "published": 1713428700,
-    "posting_price": 106.10583241,
-    "close_price": 105.81983948,
-    "percent_change": -0.26953554
-  },
-  {
-    "title": "Paramount jumps on report Sony in talks with Apollo over joint bid",
-    "published": 1713421440,
-    "posting_price": 106.10583241,
-    "close_price": 105.81983948,
-    "percent_change": -0.26953554
-  },
-  {
-    "title": "Paramount up 12% after NY Times report of joint bid from Sony,  Apollo Global",
-    "published": 1713419640,
-    "posting_price": 106.10583241,
-    "close_price": 105.81983948,
-    "percent_change": -0.26953554
-  },
-  {
-    "title": "Sony, Apollo in talks over joint bid for Paramount, NY Times reports",
-    "published": 1713417480,
-    "posting_price": 106.10583241,
-    "close_price": 105.81983948,
-    "percent_change": -0.26953554
-  },
-  {
-    "title": "TeleVox Simplifies Care Delivery and Improves Patient Outcomes with Enhanced Digital Care Programs",
-    "published": 1713367200,
-    "posting_price": 106.88493962,
-    "close_price": 106.00721741,
-    "percent_change": -0.82118418
-  },
-  {
-    "title": "Paramount Global not expected to reach deal with buyer by 30-day deadline - report",
-    "published": 1713346200,
-    "posting_price": 106.88493962,
-    "close_price": 106.00721741,
-    "percent_change": -0.82118418
-  },
-  {
-    "title": "UPDATE 1-Sparta Capital urges Wood Group to seek sale, rethink UK listing",
-    "published": 1713268035,
-    "posting_price": 105.65216585,
-    "close_price": 106.34251404,
-    "percent_change": 0.65341603
-  },
-  {
-    "title": "Sparta Capital urges Wood Group to seek sale, rethink UK listing",
-    "published": 1713249077,
-    "posting_price": 105.65216585,
-    "close_price": 106.34251404,
-    "percent_change": 0.65341603
-  },
-  {
-    "title": "Apollo\u2019s Zelter Talks Up Private Credit to Australian Mega-Funds",
-    "published": 1713237321,
-    "posting_price": 105.65216585,
-    "close_price": 106.34251404,
-    "percent_change": 0.65341603
+    "published": 1714620600,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 107.75,
+      "2024-05-02T14:30:00+00:00": 111.97000122070312,
+      "2024-05-02T15:30:00+00:00": 112.16000366210938,
+      "2024-05-02T16:30:00+00:00": 111.69999694824219,
+      "2024-05-02T17:30:00+00:00": 112.05000305175781,
+      "2024-05-02T18:30:00+00:00": 112.05000305175781,
+      "2024-05-02T19:30:00+00:00": 111.8499984741211
+    },
+    "sentiment": 0.9199742078781128
+  },
+  {
+    "title": "Notable companies reporting before tomorrow's open",
+    "published": 1714568160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 108.5999984741211,
+      "2024-05-01T14:30:00+00:00": 108.26000213623047,
+      "2024-05-01T15:30:00+00:00": 108.11000061035156,
+      "2024-05-01T16:30:00+00:00": 108.41999816894531,
+      "2024-05-01T17:30:00+00:00": 108.06999969482422,
+      "2024-05-01T18:30:00+00:00": 108.80999755859375,
+      "2024-05-01T19:30:00+00:00": 109.19000244140625
+    },
+    "sentiment": 0.9201968312263489
+  },
+  {
+    "title": "Moody\u2019s, Booking, DraftKings, Amgen Stocks In Focus Ahead Of Earnings",
+    "published": 1714560240,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 108.5999984741211,
+      "2024-05-01T14:30:00+00:00": 108.26000213623047,
+      "2024-05-01T15:30:00+00:00": 108.11000061035156,
+      "2024-05-01T16:30:00+00:00": 108.41999816894531,
+      "2024-05-01T17:30:00+00:00": 108.06999969482422,
+      "2024-05-01T18:30:00+00:00": 108.80999755859375,
+      "2024-05-01T19:30:00+00:00": 109.19000244140625
+    },
+    "sentiment": 0.9391967058181763
+  },
+  {
+    "title": "Paramount (NASDAQ:PARA) Strikes New Carriage Deal with Charter",
+    "published": 1714534200,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 108.5999984741211,
+      "2024-05-01T14:30:00+00:00": 108.26000213623047,
+      "2024-05-01T15:30:00+00:00": 108.11000061035156,
+      "2024-05-01T16:30:00+00:00": 108.41999816894531,
+      "2024-05-01T17:30:00+00:00": 108.06999969482422,
+      "2024-05-01T18:30:00+00:00": 108.80999755859375,
+      "2024-05-01T19:30:00+00:00": 109.19000244140625
+    },
+    "sentiment": 0.568120002746582
+  },
+  {
+    "title": "Notable Wednesday Option Activity: APO, POWL, ACA",
+    "published": 1714530060,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 108.5999984741211,
+      "2024-05-01T14:30:00+00:00": 108.26000213623047,
+      "2024-05-01T15:30:00+00:00": 108.11000061035156,
+      "2024-05-01T16:30:00+00:00": 108.41999816894531,
+      "2024-05-01T17:30:00+00:00": 108.06999969482422,
+      "2024-05-01T18:30:00+00:00": 108.80999755859375,
+      "2024-05-01T19:30:00+00:00": 109.19000244140625
+    },
+    "sentiment": 0.9390271306037903
+  },
+  {
+    "title": "M&A News: Paramount (NASDAQ:PARA) Pops Up as Sony (NYSE:SONY) Reconsiders",
+    "published": 1715772960,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 111.37999725341797,
+      "2024-05-15T14:30:00+00:00": 111.81500244140625,
+      "2024-05-15T15:30:00+00:00": 112.05000305175781,
+      "2024-05-15T16:30:00+00:00": 113.59500122070312,
+      "2024-05-15T17:30:00+00:00": 114.05999755859375,
+      "2024-05-15T18:30:00+00:00": 114.22000122070312,
+      "2024-05-15T19:30:00+00:00": 114.66999816894531
+    },
+    "sentiment": 0.5398651957511902
+  },
+  {
+    "title": "Leon Cooperman's Bold Exit from Pioneer Natural Resources Marks a Strategic Shift",
+    "published": 1715770920,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 111.37999725341797,
+      "2024-05-15T14:30:00+00:00": 111.81500244140625,
+      "2024-05-15T15:30:00+00:00": 112.05000305175781,
+      "2024-05-15T16:30:00+00:00": 113.59500122070312,
+      "2024-05-15T17:30:00+00:00": 114.05999755859375,
+      "2024-05-15T18:30:00+00:00": 114.22000122070312,
+      "2024-05-15T19:30:00+00:00": 114.66999816894531
+    },
+    "sentiment": 0.5391643643379211
+  },
+  {
+    "title": "Glenn Greenberg's Strategic Emphasis on TD Synnex Corp in Q1 2024",
+    "published": 1715757540,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 111.37999725341797,
+      "2024-05-15T14:30:00+00:00": 111.81500244140625,
+      "2024-05-15T15:30:00+00:00": 112.05000305175781,
+      "2024-05-15T16:30:00+00:00": 113.59500122070312,
+      "2024-05-15T17:30:00+00:00": 114.05999755859375,
+      "2024-05-15T18:30:00+00:00": 114.22000122070312,
+      "2024-05-15T19:30:00+00:00": 114.66999816894531
+    },
+    "sentiment": 0.8795972466468811
+  },
+  {
+    "title": "Baron FinTech Fund Q1 2024 Shareholder Letter",
+    "published": 1715750700,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 111.37999725341797,
+      "2024-05-15T14:30:00+00:00": 111.81500244140625,
+      "2024-05-15T15:30:00+00:00": 112.05000305175781,
+      "2024-05-15T16:30:00+00:00": 113.59500122070312,
+      "2024-05-15T17:30:00+00:00": 114.05999755859375,
+      "2024-05-15T18:30:00+00:00": 114.22000122070312,
+      "2024-05-15T19:30:00+00:00": 114.66999816894531
+    },
+    "sentiment": 0.9465575814247131
+  },
+  {
+    "title": "Mosaicx Selected as Automation Solution Finalist in 2024 CCW Excellence Awards",
+    "published": 1715691600,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 109.69000244140625,
+      "2024-05-14T14:30:00+00:00": 110.22000122070312,
+      "2024-05-14T15:30:00+00:00": 110.16999816894531,
+      "2024-05-14T16:30:00+00:00": 110.08999633789062,
+      "2024-05-14T17:30:00+00:00": 109.93499755859375,
+      "2024-05-14T18:30:00+00:00": 110.43000030517578,
+      "2024-05-14T19:30:00+00:00": 110.5
+    },
+    "sentiment": 0.9160779118537903
+  },
+  {
+    "title": "Aerom\u00e9xico files NYSE IPO with backing from Apollo, Delta Air Lines",
+    "published": 1715668920,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 109.69000244140625,
+      "2024-05-14T14:30:00+00:00": 110.22000122070312,
+      "2024-05-14T15:30:00+00:00": 110.16999816894531,
+      "2024-05-14T16:30:00+00:00": 110.08999633789062,
+      "2024-05-14T17:30:00+00:00": 109.93499755859375,
+      "2024-05-14T18:30:00+00:00": 110.43000030517578,
+      "2024-05-14T19:30:00+00:00": 110.5
+    },
+    "sentiment": 0.6783525347709656
+  },
+  {
+    "title": "Japan's Sony reports surge in profit on strong sales of movies, games and music",
+    "published": 1715661780,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 109.69000244140625,
+      "2024-05-14T14:30:00+00:00": 110.22000122070312,
+      "2024-05-14T15:30:00+00:00": 110.16999816894531,
+      "2024-05-14T16:30:00+00:00": 110.08999633789062,
+      "2024-05-14T17:30:00+00:00": 109.93499755859375,
+      "2024-05-14T18:30:00+00:00": 110.43000030517578,
+      "2024-05-14T19:30:00+00:00": 110.5
+    },
+    "sentiment": 0.9384844899177551
+  },
+  {
+    "title": "Aerom\u00e9xico files for NYSE IPO with backing from Apollo, Delta Air Lines",
+    "published": 1715656020,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 109.69000244140625,
+      "2024-05-14T14:30:00+00:00": 110.22000122070312,
+      "2024-05-14T15:30:00+00:00": 110.16999816894531,
+      "2024-05-14T16:30:00+00:00": 110.08999633789062,
+      "2024-05-14T17:30:00+00:00": 109.93499755859375,
+      "2024-05-14T18:30:00+00:00": 110.43000030517578,
+      "2024-05-14T19:30:00+00:00": 110.5
+    },
+    "sentiment": 0.6345688104629517
+  },
+  {
+    "title": "Paramount falls as CNBC says Sony bid for whole company becoming 'less likely'",
+    "published": 1715649180,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 109.69000244140625,
+      "2024-05-14T14:30:00+00:00": 110.22000122070312,
+      "2024-05-14T15:30:00+00:00": 110.16999816894531,
+      "2024-05-14T16:30:00+00:00": 110.08999633789062,
+      "2024-05-14T17:30:00+00:00": 109.93499755859375,
+      "2024-05-14T18:30:00+00:00": 110.43000030517578,
+      "2024-05-14T19:30:00+00:00": 110.5
+    },
+    "sentiment": 0.9392796754837036
+  },
+  {
+    "title": "GLOBAL BRIEFING: Stocks tipped to open lower with eyes on US data",
+    "published": 1715646720,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 109.69000244140625,
+      "2024-05-14T14:30:00+00:00": 110.22000122070312,
+      "2024-05-14T15:30:00+00:00": 110.16999816894531,
+      "2024-05-14T16:30:00+00:00": 110.08999633789062,
+      "2024-05-14T17:30:00+00:00": 109.93499755859375,
+      "2024-05-14T18:30:00+00:00": 110.43000030517578,
+      "2024-05-14T19:30:00+00:00": 110.5
+    },
+    "sentiment": 0.9260615110397339
+  },
+  {
+    "title": "NEW YORK MARKET CLOSE: Stocks end mixed as key inflation print looms",
+    "published": 1715617020,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.9121593832969666
+  },
+  {
+    "title": "Tech Stocks Inch Higher Ahead Of Key Inflation Data, GameStop Skyrockets, Tencent Fuels China Rally: What's Driving Markets Monday?",
+    "published": 1715604600,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.5371831059455872
+  },
+  {
+    "title": "Intel Stock Rises After Report It\u2019s Planning a New Chip Plant",
+    "published": 1715603460,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.4905170798301697
+  },
+  {
+    "title": "TeleVox Wins 'Patient Relationship Innovation Award' in 2024 MedTech Breakthrough Awards Program",
+    "published": 1715600231,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.922083854675293
+  },
+  {
+    "title": "Intel nears $11 billion deal with Apollo for Ireland factory, WSJ reports",
+    "published": 1715598704,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.5195695161819458
+  },
+  {
+    "title": "Intel Nears Deal With Apollo for $11 Billion Ireland Partnership",
+    "published": 1715598000,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.7797291874885559
+  },
+  {
+    "title": "Intel (NASDAQ:INTC) Advances Talks With Apollo for $11B Chip Factory",
+    "published": 1715593260,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.6318548321723938
+  },
+  {
+    "title": "Intel rises in premarket on report of $11 billion Apollo investment in new chip plant",
+    "published": 1715590260,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.6013345718383789
+  },
+  {
+    "title": "Intel rises on report of $11 billion Apollo investment in new chip plant",
+    "published": 1715565180,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 112.5999984741211,
+      "2024-05-13T14:30:00+00:00": 111.16999816894531,
+      "2024-05-13T15:30:00+00:00": 110.95999908447266,
+      "2024-05-13T16:30:00+00:00": 111.16000366210938,
+      "2024-05-13T17:30:00+00:00": 110.69000244140625,
+      "2024-05-13T18:30:00+00:00": 110.41000366210938,
+      "2024-05-13T19:30:00+00:00": 110.31999969482422
+    },
+    "sentiment": 0.6412433385848999
+  },
+  {
+    "title": "Private equity is helping banks shed some of their risks",
+    "published": 1715524808,
+    "day_prices": {},
+    "sentiment": 0.5905658006668091
+  },
+  {
+    "title": "TripAdvisor takes itself off the market leaving analysts split on company's fate",
+    "published": 1715500920,
+    "day_prices": {},
+    "sentiment": 0.9269155263900757
+  },
+  {
+    "title": "Entain said to be eyeing former Rank chief Birch for CEO role",
+    "published": 1715417100,
+    "day_prices": {},
+    "sentiment": 0.9283363819122314
+  },
+  {
+    "title": "Baron Funds - Apollo Global: Tightening Bank Capital Requirements A Multi-Trillion Dollar Opportunity",
+    "published": 1715322300,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 112.93000030517578,
+      "2024-05-10T14:30:00+00:00": 111.75,
+      "2024-05-10T15:30:00+00:00": 111.79000091552734,
+      "2024-05-10T16:30:00+00:00": 111.96440124511719,
+      "2024-05-10T17:30:00+00:00": 111.94999694824219,
+      "2024-05-10T18:30:00+00:00": 112.25,
+      "2024-05-10T19:30:00+00:00": 112.26000213623047
+    },
+    "sentiment": 0.7595182061195374
+  },
+  {
+    "title": "Analysts\u2019 Opinions Are Mixed on These Financial Stocks: Apollo Global Management (APO) and First Citizens BancShares (FCNCA)",
+    "published": 1715316660,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 112.93000030517578,
+      "2024-05-10T14:30:00+00:00": 111.75,
+      "2024-05-10T15:30:00+00:00": 111.79000091552734,
+      "2024-05-10T16:30:00+00:00": 111.96440124511719,
+      "2024-05-10T17:30:00+00:00": 111.94999694824219,
+      "2024-05-10T18:30:00+00:00": 112.25,
+      "2024-05-10T19:30:00+00:00": 112.26000213623047
+    },
+    "sentiment": 0.7170215249061584
+  },
+  {
+    "title": "Can Sony, Apollo sell CBS if they do acquire Paramount?",
+    "published": 1715277264,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 113.04000091552734,
+      "2024-05-09T14:30:00+00:00": 113.29000091552734,
+      "2024-05-09T15:30:00+00:00": 113.51000213623047,
+      "2024-05-09T16:30:00+00:00": 112.9000015258789,
+      "2024-05-09T17:30:00+00:00": 112.45999908447266,
+      "2024-05-09T18:30:00+00:00": 112.42500305175781,
+      "2024-05-09T19:30:00+00:00": 112.22599792480469
+    },
+    "sentiment": 0.928835928440094
+  },
+  {
+    "title": "Wall Street Lunch: Is CBS Up For Sale?",
+    "published": 1715255340,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 113.04000091552734,
+      "2024-05-09T14:30:00+00:00": 113.29000091552734,
+      "2024-05-09T15:30:00+00:00": 113.51000213623047,
+      "2024-05-09T16:30:00+00:00": 112.9000015258789,
+      "2024-05-09T17:30:00+00:00": 112.45999908447266,
+      "2024-05-09T18:30:00+00:00": 112.42500305175781,
+      "2024-05-09T19:30:00+00:00": 112.22599792480469
+    },
+    "sentiment": 0.9358790516853333
+  },
+  {
+    "title": "Apollo Global Management: Key Investor Updates Excluded from SEC Filings",
+    "published": 1715240040,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 113.04000091552734,
+      "2024-05-09T14:30:00+00:00": 113.29000091552734,
+      "2024-05-09T15:30:00+00:00": 113.51000213623047,
+      "2024-05-09T16:30:00+00:00": 112.9000015258789,
+      "2024-05-09T17:30:00+00:00": 112.45999908447266,
+      "2024-05-09T18:30:00+00:00": 112.42500305175781,
+      "2024-05-09T19:30:00+00:00": 112.22599792480469
+    },
+    "sentiment": 0.9153986573219299
+  },
+  {
+    "title": "Time to Sell? 3 Recent Analyst Downgrades Worth Analyzing",
+    "published": 1715234160,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 113.04000091552734,
+      "2024-05-09T14:30:00+00:00": 113.29000091552734,
+      "2024-05-09T15:30:00+00:00": 113.51000213623047,
+      "2024-05-09T16:30:00+00:00": 112.9000015258789,
+      "2024-05-09T17:30:00+00:00": 112.45999908447266,
+      "2024-05-09T18:30:00+00:00": 112.42500305175781,
+      "2024-05-09T19:30:00+00:00": 112.22599792480469
+    },
+    "sentiment": 0.9226998090744019
+  },
+  {
+    "title": "Blackstone takes most favorable position over $1.6B Hipgnosis takeover, FT says",
+    "published": 1715231880,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 113.04000091552734,
+      "2024-05-09T14:30:00+00:00": 113.29000091552734,
+      "2024-05-09T15:30:00+00:00": 113.51000213623047,
+      "2024-05-09T16:30:00+00:00": 112.9000015258789,
+      "2024-05-09T17:30:00+00:00": 112.45999908447266,
+      "2024-05-09T18:30:00+00:00": 112.42500305175781,
+      "2024-05-09T19:30:00+00:00": 112.22599792480469
+    },
+    "sentiment": 0.8995940089225769
+  },
+  {
+    "title": "Betting on Las Vegas: The Venetian announces a massive $1.5B reinvestment project",
+    "published": 1715216580,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 113.04000091552734,
+      "2024-05-09T14:30:00+00:00": 113.29000091552734,
+      "2024-05-09T15:30:00+00:00": 113.51000213623047,
+      "2024-05-09T16:30:00+00:00": 112.9000015258789,
+      "2024-05-09T17:30:00+00:00": 112.45999908447266,
+      "2024-05-09T18:30:00+00:00": 112.42500305175781,
+      "2024-05-09T19:30:00+00:00": 112.22599792480469
+    },
+    "sentiment": 0.561072826385498
+  },
+  {
+    "title": "FLC: Preferred Stocks Are Doing Well, But Don't Ignore The Risks",
+    "published": 1715183370,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 112.55999755859375,
+      "2024-05-08T14:30:00+00:00": 111.45500183105469,
+      "2024-05-08T15:30:00+00:00": 111.68370056152344,
+      "2024-05-08T16:30:00+00:00": 112.5999984741211,
+      "2024-05-08T17:30:00+00:00": 112.56999969482422,
+      "2024-05-08T18:30:00+00:00": 112.73999786376953,
+      "2024-05-08T19:30:00+00:00": 112.80000305175781
+    },
+    "sentiment": 0.76621413230896
+  },
+  {
+    "title": "Ares Capital's Q1 Has Important Ramifications For The BDC Sector",
+    "published": 1715173778,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 112.55999755859375,
+      "2024-05-08T14:30:00+00:00": 111.45500183105469,
+      "2024-05-08T15:30:00+00:00": 111.68370056152344,
+      "2024-05-08T16:30:00+00:00": 112.5999984741211,
+      "2024-05-08T17:30:00+00:00": 112.56999969482422,
+      "2024-05-08T18:30:00+00:00": 112.73999786376953,
+      "2024-05-08T19:30:00+00:00": 112.80000305175781
+    },
+    "sentiment": 0.8465260863304138
+  },
+  {
+    "title": "Sony, Apollo plan to sell CBS, cable channels after buying Paramount - NYT",
+    "published": 1715160060,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 112.55999755859375,
+      "2024-05-08T14:30:00+00:00": 111.45500183105469,
+      "2024-05-08T15:30:00+00:00": 111.68370056152344,
+      "2024-05-08T16:30:00+00:00": 112.5999984741211,
+      "2024-05-08T17:30:00+00:00": 112.56999969482422,
+      "2024-05-08T18:30:00+00:00": 112.73999786376953,
+      "2024-05-08T19:30:00+00:00": 112.80000305175781
+    },
+    "sentiment": 0.8713992834091187
+  },
+  {
+    "title": "TOP NEWS: Shares in John Wood soar after it spurns bid from Sidara",
+    "published": 1715154960,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 112.55999755859375,
+      "2024-05-08T14:30:00+00:00": 111.45500183105469,
+      "2024-05-08T15:30:00+00:00": 111.68370056152344,
+      "2024-05-08T16:30:00+00:00": 112.5999984741211,
+      "2024-05-08T17:30:00+00:00": 112.56999969482422,
+      "2024-05-08T18:30:00+00:00": 112.73999786376953,
+      "2024-05-08T19:30:00+00:00": 112.80000305175781
+    },
+    "sentiment": 0.5629302859306335
+  },
+  {
+    "title": "3 Under $20 Stocks to Buy Now: May 2024",
+    "published": 1716441900,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 115.0,
+      "2024-05-23T14:30:00+00:00": 113.66999816894531,
+      "2024-05-23T15:30:00+00:00": 114.04000091552734,
+      "2024-05-23T16:30:00+00:00": 114.08000183105469,
+      "2024-05-23T17:30:00+00:00": 113.66999816894531,
+      "2024-05-23T18:30:00+00:00": 112.66000366210938,
+      "2024-05-23T19:30:00+00:00": 112.44999694824219
+    },
+    "sentiment": 0.9216081500053406
+  },
+  {
+    "title": "Sony says focus is on creativity, with games, movies, music, sensors, IP, and not gadgets",
+    "published": 1716424140,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 115.0,
+      "2024-05-23T14:30:00+00:00": 113.66999816894531,
+      "2024-05-23T15:30:00+00:00": 114.04000091552734,
+      "2024-05-23T16:30:00+00:00": 114.08000183105469,
+      "2024-05-23T17:30:00+00:00": 113.66999816894531,
+      "2024-05-23T18:30:00+00:00": 112.66000366210938,
+      "2024-05-23T19:30:00+00:00": 112.44999694824219
+    },
+    "sentiment": 0.9213923811912537
+  },
+  {
+    "title": "Notified and Middle East Investor Relations Association to Power Industry Adoption of AI Technology",
+    "published": 1716382800,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 114.41500091552734,
+      "2024-05-22T14:30:00+00:00": 114.54000091552734,
+      "2024-05-22T15:30:00+00:00": 114.08000183105469,
+      "2024-05-22T16:30:00+00:00": 114.16500091552734,
+      "2024-05-22T17:30:00+00:00": 114.19999694824219,
+      "2024-05-22T18:30:00+00:00": 113.36000061035156,
+      "2024-05-22T19:30:00+00:00": 113.58999633789062
+    },
+    "sentiment": 0.7139590978622437
+  },
+  {
+    "title": "Notified joins Middle East Investor Relations Association",
+    "published": 1716364980,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 114.41500091552734,
+      "2024-05-22T14:30:00+00:00": 114.54000091552734,
+      "2024-05-22T15:30:00+00:00": 114.08000183105469,
+      "2024-05-22T16:30:00+00:00": 114.16500091552734,
+      "2024-05-22T17:30:00+00:00": 114.19999694824219,
+      "2024-05-22T18:30:00+00:00": 113.36000061035156,
+      "2024-05-22T19:30:00+00:00": 113.58999633789062
+    },
+    "sentiment": 0.9178842306137085
+  },
+  {
+    "title": "Nicolet Bankshares (NIC) Hikes Quarterly Cash Dividend by 12%",
+    "published": 1716306420,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 112.77999877929688,
+      "2024-05-21T14:30:00+00:00": 113.25,
+      "2024-05-21T15:30:00+00:00": 113.5,
+      "2024-05-21T16:30:00+00:00": 113.93000030517578,
+      "2024-05-21T17:30:00+00:00": 113.75,
+      "2024-05-21T18:30:00+00:00": 114.21499633789062,
+      "2024-05-21T19:30:00+00:00": 114.58000183105469
+    },
+    "sentiment": 0.5731284022331238
+  },
+  {
+    "title": "Very Bad News For Big Dividend Stocks",
+    "published": 1716278700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 112.77999877929688,
+      "2024-05-21T14:30:00+00:00": 113.25,
+      "2024-05-21T15:30:00+00:00": 113.5,
+      "2024-05-21T16:30:00+00:00": 113.93000030517578,
+      "2024-05-21T17:30:00+00:00": 113.75,
+      "2024-05-21T18:30:00+00:00": 114.21499633789062,
+      "2024-05-21T19:30:00+00:00": 114.58000183105469
+    },
+    "sentiment": 0.9390085935592651
+  },
+  {
+    "title": "M&A News: Paramount (NASDAQ:PARA) Slips as NDAs Get Involved",
+    "published": 1716208260,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.08000183105469,
+      "2024-05-20T14:30:00+00:00": 113.75900268554688,
+      "2024-05-20T15:30:00+00:00": 113.4800033569336,
+      "2024-05-20T16:30:00+00:00": 113.20999908447266,
+      "2024-05-20T17:30:00+00:00": 113.4000015258789,
+      "2024-05-20T18:30:00+00:00": 112.88999938964844,
+      "2024-05-20T19:30:00+00:00": 112.875
+    },
+    "sentiment": 0.9672237634658813
+  },
+  {
+    "title": "Paramount Global Stock Slides Further After Warren Buffett Sells Stake: Charting The Bearish Sentiment",
+    "published": 1716169200,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.08000183105469,
+      "2024-05-20T14:30:00+00:00": 113.75900268554688,
+      "2024-05-20T15:30:00+00:00": 113.4800033569336,
+      "2024-05-20T16:30:00+00:00": 113.20999908447266,
+      "2024-05-20T17:30:00+00:00": 113.4000015258789,
+      "2024-05-20T18:30:00+00:00": 112.88999938964844,
+      "2024-05-20T19:30:00+00:00": 112.875
+    },
+    "sentiment": 0.9577823281288147
+  },
+  {
+    "title": "Sony, Apollo take key step in bid for Paramount's assets, NY Times reports",
+    "published": 1716098940,
+    "day_prices": {},
+    "sentiment": 0.760414719581604
+  },
+  {
+    "title": "Sony, Apollo sign non-disclosure agreements with Paramount Global - NYT",
+    "published": 1716020880,
+    "day_prices": {},
+    "sentiment": 0.717661440372467
+  },
+  {
+    "title": "3 Streaming Stocks to Sell in May Before They Crash & Burn",
+    "published": 1715924400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 113.27999877929688,
+      "2024-05-17T14:30:00+00:00": 113.41000366210938,
+      "2024-05-17T15:30:00+00:00": 112.56999969482422,
+      "2024-05-17T16:30:00+00:00": 112.97000122070312,
+      "2024-05-17T17:30:00+00:00": 113.0,
+      "2024-05-17T18:30:00+00:00": 112.37000274658203,
+      "2024-05-17T19:30:00+00:00": 112.69999694824219
+    },
+    "sentiment": 0.7509166598320007
+  },
+  {
+    "title": "Noteworthy Friday Option Activity: APO, ABNB, NNOX",
+    "published": 1715912340,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 113.27999877929688,
+      "2024-05-17T14:30:00+00:00": 113.41000366210938,
+      "2024-05-17T15:30:00+00:00": 112.56999969482422,
+      "2024-05-17T16:30:00+00:00": 112.97000122070312,
+      "2024-05-17T17:30:00+00:00": 113.0,
+      "2024-05-17T18:30:00+00:00": 112.37000274658203,
+      "2024-05-17T19:30:00+00:00": 112.69999694824219
+    },
+    "sentiment": 0.9220311641693115
+  },
+  {
+    "title": "Apollo to Offer Senior Notes",
+    "published": 1715863620,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 115.0,
+      "2024-05-16T14:30:00+00:00": 114.73500061035156,
+      "2024-05-16T15:30:00+00:00": 114.7699966430664,
+      "2024-05-16T16:30:00+00:00": 114.00700378417969,
+      "2024-05-16T17:30:00+00:00": 113.44999694824219,
+      "2024-05-16T18:30:00+00:00": 113.05000305175781,
+      "2024-05-16T19:30:00+00:00": 113.55000305175781
+    },
+    "sentiment": 0.9370065331459045
+  },
+  {
+    "title": "Apollo Global to offer senior notes",
+    "published": 1715845800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 115.0,
+      "2024-05-16T14:30:00+00:00": 114.73500061035156,
+      "2024-05-16T15:30:00+00:00": 114.7699966430664,
+      "2024-05-16T16:30:00+00:00": 114.00700378417969,
+      "2024-05-16T17:30:00+00:00": 113.44999694824219,
+      "2024-05-16T18:30:00+00:00": 113.05000305175781,
+      "2024-05-16T19:30:00+00:00": 113.55000305175781
+    },
+    "sentiment": 0.937436580657959
+  },
+  {
+    "title": "April PCE, Skydance ups Paramount bid, Trump fallout: Catalysts",
+    "published": 1717181869,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 117.2300033569336,
+      "2024-05-31T14:30:00+00:00": 116.88500213623047,
+      "2024-05-31T15:30:00+00:00": 116.5,
+      "2024-05-31T16:30:00+00:00": 114.02999877929688,
+      "2024-05-31T17:30:00+00:00": 114.19000244140625,
+      "2024-05-31T18:30:00+00:00": 113.72000122070312,
+      "2024-05-31T19:30:00+00:00": 114.25
+    },
+    "sentiment": 0.8452747464179993
+  },
+  {
+    "title": "Glancy Prongay & Murray LLP Announces Investigation of Apollo Global Management, Inc. (APO) (f/k/a Tango Holdings, Inc.)",
+    "published": 1717167907,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 117.2300033569336,
+      "2024-05-31T14:30:00+00:00": 116.88500213623047,
+      "2024-05-31T15:30:00+00:00": 116.5,
+      "2024-05-31T16:30:00+00:00": 114.02999877929688,
+      "2024-05-31T17:30:00+00:00": 114.19000244140625,
+      "2024-05-31T18:30:00+00:00": 113.72000122070312,
+      "2024-05-31T19:30:00+00:00": 114.25
+    },
+    "sentiment": 0.5883799195289612
+  },
+  {
+    "title": "Paramount committee recommends Skydance deal; Redstone gets National Amusements offers - reports",
+    "published": 1717158600,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 117.2300033569336,
+      "2024-05-31T14:30:00+00:00": 116.88500213623047,
+      "2024-05-31T15:30:00+00:00": 116.5,
+      "2024-05-31T16:30:00+00:00": 114.02999877929688,
+      "2024-05-31T17:30:00+00:00": 114.19000244140625,
+      "2024-05-31T18:30:00+00:00": 113.72000122070312,
+      "2024-05-31T19:30:00+00:00": 114.25
+    },
+    "sentiment": 0.7640148997306824
+  },
+  {
+    "title": "Interesting APO Put And Call Options For July 12th",
+    "published": 1717152720,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 117.2300033569336,
+      "2024-05-31T14:30:00+00:00": 116.88500213623047,
+      "2024-05-31T15:30:00+00:00": 116.5,
+      "2024-05-31T16:30:00+00:00": 114.02999877929688,
+      "2024-05-31T17:30:00+00:00": 114.19000244140625,
+      "2024-05-31T18:30:00+00:00": 113.72000122070312,
+      "2024-05-31T19:30:00+00:00": 114.25
+    },
+    "sentiment": 0.9266743063926697
+  },
+  {
+    "title": "M&A News: Paramount (NASDAQ:PARA) Committee Gets Behind Skydance Deal, Shares Slip",
+    "published": 1717122900,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 117.2300033569336,
+      "2024-05-31T14:30:00+00:00": 116.88500213623047,
+      "2024-05-31T15:30:00+00:00": 116.5,
+      "2024-05-31T16:30:00+00:00": 114.02999877929688,
+      "2024-05-31T17:30:00+00:00": 114.19000244140625,
+      "2024-05-31T18:30:00+00:00": 113.72000122070312,
+      "2024-05-31T19:30:00+00:00": 114.25
+    },
+    "sentiment": 0.8151347637176514
+  },
+  {
+    "title": "Apollo Plans to Sell Assets It Originates to Retail, ETFs",
+    "published": 1717089911,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 112.98999786376953,
+      "2024-05-30T14:30:00+00:00": 114.23999786376953,
+      "2024-05-30T15:30:00+00:00": 115.04000091552734,
+      "2024-05-30T16:30:00+00:00": 115.16500091552734,
+      "2024-05-30T17:30:00+00:00": 115.98639678955078,
+      "2024-05-30T18:30:00+00:00": 116.30000305175781,
+      "2024-05-30T19:30:00+00:00": 116.4000015258789
+    },
+    "sentiment": 0.9474329352378845
+  },
+  {
+    "title": "Paramount drops amid report of silence from Sony, Apollo after signing NDA",
+    "published": 1717059840,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 112.98999786376953,
+      "2024-05-30T14:30:00+00:00": 114.23999786376953,
+      "2024-05-30T15:30:00+00:00": 115.04000091552734,
+      "2024-05-30T16:30:00+00:00": 115.16500091552734,
+      "2024-05-30T17:30:00+00:00": 115.98639678955078,
+      "2024-05-30T18:30:00+00:00": 116.30000305175781,
+      "2024-05-30T19:30:00+00:00": 116.4000015258789
+    },
+    "sentiment": 0.8346983194351196
+  },
+  {
+    "title": "Sony eyes growth from streaming service Crunchyroll amid rising popularity of anime globally - report",
+    "published": 1717044480,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 112.98999786376953,
+      "2024-05-30T14:30:00+00:00": 114.23999786376953,
+      "2024-05-30T15:30:00+00:00": 115.04000091552734,
+      "2024-05-30T16:30:00+00:00": 115.16500091552734,
+      "2024-05-30T17:30:00+00:00": 115.98639678955078,
+      "2024-05-30T18:30:00+00:00": 116.30000305175781,
+      "2024-05-30T19:30:00+00:00": 116.4000015258789
+    },
+    "sentiment": 0.9446588158607483
+  },
+  {
+    "title": "M&A News: Skydance Comes Back, Paramount (NASDAQ:PARA) Shares Gain",
+    "published": 1717034460,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 112.98999786376953,
+      "2024-05-30T14:30:00+00:00": 114.23999786376953,
+      "2024-05-30T15:30:00+00:00": 115.04000091552734,
+      "2024-05-30T16:30:00+00:00": 115.16500091552734,
+      "2024-05-30T17:30:00+00:00": 115.98639678955078,
+      "2024-05-30T18:30:00+00:00": 116.30000305175781,
+      "2024-05-30T19:30:00+00:00": 116.4000015258789
+    },
+    "sentiment": 0.8361476063728333
+  },
+  {
+    "title": "Tracking Chase Coleman's Tiger Global Portfolio - Q1 2024 Update",
+    "published": 1716931167,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 115.75,
+      "2024-05-28T14:30:00+00:00": 116.06999969482422,
+      "2024-05-28T15:30:00+00:00": 116.26000213623047,
+      "2024-05-28T16:30:00+00:00": 116.01000213623047,
+      "2024-05-28T17:30:00+00:00": 115.72000122070312,
+      "2024-05-28T18:30:00+00:00": 115.6500015258789,
+      "2024-05-28T19:30:00+00:00": 115.79499816894531
+    },
+    "sentiment": 0.9445842504501343
+  },
+  {
+    "title": "Should You Hold Apollo Global Management (APO)?",
+    "published": 1716808945,
+    "day_prices": {},
+    "sentiment": 0.9441940784454346
+  },
+  {
+    "title": "Notified and Middle East Investor Relations Association to Power Industry Adoption of AI Technology",
+    "published": 1716550339,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 113.1500015258789,
+      "2024-05-24T14:30:00+00:00": 115.0,
+      "2024-05-24T15:30:00+00:00": 115.6500015258789,
+      "2024-05-24T16:30:00+00:00": 115.37999725341797,
+      "2024-05-24T17:30:00+00:00": 115.41000366210938,
+      "2024-05-24T18:30:00+00:00": 115.3499984741211,
+      "2024-05-24T19:30:00+00:00": 115.3499984741211
+    },
+    "sentiment": 0.7139590978622437
   }
 ]

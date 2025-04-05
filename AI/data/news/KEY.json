@@ -1,681 +1,288 @@
 [
   {
-    "title": "Special Purpose Credit Programs Help 712 KeyBank Clients on Their Path to Homeownership",
-    "published": 1713188700,
-    "posting_price": 14.11550353,
-    "close_price": 13.73477554,
-    "percent_change": -2.69723279
+    "title": "Urban League of Greater Hartford Is Awarded $150,000 Grant From KeyBank Foundation",
+    "published": 1715087700,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 15.220000267028809,
+      "2024-05-07T14:30:00+00:00": 15.145000457763672,
+      "2024-05-07T15:30:00+00:00": 15.119999885559082,
+      "2024-05-07T16:30:00+00:00": 15.085000038146973,
+      "2024-05-07T17:30:00+00:00": 15.029999732971191,
+      "2024-05-07T18:30:00+00:00": 14.944999694824219,
+      "2024-05-07T19:30:00+00:00": 14.939900398254395
+    },
+    "sentiment": 0.9139886498451233
   },
   {
-    "title": "Stay Ahead of the Game With KeyCorp (KEY) Q1 Earnings: Wall Street's Insights on Key Metrics",
-    "published": 1713187118,
-    "posting_price": 14.11550353,
-    "close_price": 13.73477554,
-    "percent_change": -2.69723279
-  },
-  {
-    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
-    "published": 1713178620,
-    "posting_price": 14.11550353,
-    "close_price": 13.73477554,
-    "percent_change": -2.69723279
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
-    "published": 1713160860,
-    "posting_price": 14.11550353,
-    "close_price": 13.73477554,
-    "percent_change": -2.69723279
-  },
-  {
-    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
-    "published": 1713078360,
-    "posting_price": 14.11550451,
-    "close_price": 13.7347765,
-    "percent_change": -2.69723275
-  },
-  {
-    "title": "Why KeyCorp (KEY) Could Beat Earnings Estimates Again",
-    "published": 1712938213,
-    "posting_price": 13.77284784,
-    "close_price": 13.90610218,
-    "percent_change": 0.96751479
-  },
-  {
-    "title": "Utah Community Action Program Expanding Workforce Development Initiatives Thanks to $300,000 Grant from KeyBank",
-    "published": 1712927100,
-    "posting_price": 13.77284784,
-    "close_price": 13.90610218,
-    "percent_change": 0.96751479
-  },
-  {
-    "title": "Wells Fargo (WFC) Q1 Earnings and Revenues Top Estimates",
-    "published": 1712922903,
-    "posting_price": 13.77284784,
-    "close_price": 13.90610218,
-    "percent_change": 0.96751479
-  },
-  {
-    "title": "KeyCorp stock outperforms competitors despite losses on the day",
-    "published": 1712895660,
-    "posting_price": 13.77284784,
-    "close_price": 13.90610218,
-    "percent_change": 0.96751479
-  },
-  {
-    "title": "Earnings Preview: KeyCorp (KEY) Q1 Earnings Expected to Decline",
-    "published": 1712844022,
-    "posting_price": 14.20116818,
-    "close_price": 14.01080418,
-    "percent_change": -1.34048127
-  },
-  {
-    "title": "KeyBank Illuminates Accessible and Affordable Pathways to Homeownership",
-    "published": 1712841300,
-    "posting_price": 14.20116818,
-    "close_price": 14.01080418,
-    "percent_change": -1.34048127
-  },
-  {
-    "title": "KEY May 31st Options Begin Trading",
-    "published": 1712829840,
-    "posting_price": 14.20116818,
-    "close_price": 14.01080418,
-    "percent_change": -1.34048127
-  },
-  {
-    "title": "Keyera Corp. Schedules Virtual 2024 Shareholder Meeting",
-    "published": 1712810280,
-    "posting_price": 14.20116818,
-    "close_price": 14.01080418,
-    "percent_change": -1.34048127
-  },
-  {
-    "title": "Big banks set to report Q1 earnings; seen adjusting guidance for fewer rate cuts",
-    "published": 1712798100,
-    "posting_price": 14.20116818,
-    "close_price": 14.01080418,
-    "percent_change": -1.34048127
-  },
-  {
-    "title": "KeyBank Receives 11th Consecutive \"Outstanding\" Rating from the OCC on Community Reinvestment Act Exam",
-    "published": 1712754900,
-    "posting_price": 14.44864118,
-    "close_price": 14.12502193,
-    "percent_change": -2.23979021
-  },
-  {
-    "title": "Bank Q1 earnings: Strategist's top banking picks",
-    "published": 1712698520,
-    "posting_price": 14.75322396,
-    "close_price": 14.78177834,
-    "percent_change": 0.19354671
-  },
-  {
-    "title": "KeyBank Provides $54.9 Million of Financing for Affordable Multifamily Housing in Jersey City",
-    "published": 1712668200,
-    "posting_price": 14.75322396,
-    "close_price": 14.78177834,
-    "percent_change": 0.19354671
-  },
-  {
-    "title": "KeyBank Affirms Commitment to Accessible and Affordable Pathways to Homeownership",
-    "published": 1712582100,
-    "posting_price": 14.47719636,
-    "close_price": 14.70563316,
-    "percent_change": 1.57790773
-  },
-  {
-    "title": "Zacks Market Edge Highlights: VICI Properties, KeyCorp, Meta Platforms, ExxonMobil and Eli Lilly",
-    "published": 1712578200,
-    "posting_price": 14.47719636,
-    "close_price": 14.70563316,
-    "percent_change": 1.57790773
-  },
-  {
-    "title": "Citi\u2019s value focus list of small and mid-caps",
-    "published": 1712563980,
-    "posting_price": 14.47719636,
-    "close_price": 14.70563316,
-    "percent_change": 1.57790773
-  },
-  {
-    "title": "KeyCorp price target raised by $1 at Jefferies, here's why",
-    "published": 1712554260,
-    "posting_price": 14.47719636,
-    "close_price": 14.70563316,
-    "percent_change": 1.57790773
-  },
-  {
-    "title": "KeyCorp stock outperforms competitors on strong trading day",
-    "published": 1712549940,
-    "posting_price": 14.47719636,
-    "close_price": 14.70563316,
-    "percent_change": 1.57790773
-  },
-  {
-    "title": "MCHS Family of Services Receives $180,000 Grant from KeyBank to Support Development of Skilled Trade Program",
-    "published": 1712322900,
-    "posting_price": 14.26779499,
-    "close_price": 14.33442307,
-    "percent_change": 0.46698232
-  },
-  {
-    "title": "KeyCorp (KEY) Should be on Your Radar for 5.4% Dividend Yield",
-    "published": 1712318340,
-    "posting_price": 14.26779499,
-    "close_price": 14.33442307,
-    "percent_change": 0.46698232
-  },
-  {
-    "title": "Senior Housing Project Financed by KeyBank CDLI Receives Redevelopment of the Year Award in Cleveland",
-    "published": 1712236500,
-    "posting_price": 14.78177761,
-    "close_price": 14.3534584,
-    "percent_change": -2.89761638
-  },
-  {
-    "title": "KeyCorp price target raised by $1 at UBS, here's why",
-    "published": 1712229240,
-    "posting_price": 14.78177761,
-    "close_price": 14.3534584,
-    "percent_change": -2.89761638
-  },
-  {
-    "title": "Top buy-rated stocks and sell-rated stocks within Financials - Citi",
-    "published": 1712224800,
-    "posting_price": 14.78177761,
-    "close_price": 14.3534584,
-    "percent_change": -2.89761638
-  },
-  {
-    "title": "KeyCorp price target raised by $2 at JPMorgan, here's why",
-    "published": 1712207160,
-    "posting_price": 14.78177761,
-    "close_price": 14.3534584,
-    "percent_change": -2.89761638
-  },
-  {
-    "title": "Federal Reserve should look at changes to improve liquidity for banks, Bowman says",
-    "published": 1712135760,
-    "posting_price": 14.51526813,
-    "close_price": 14.5057497,
-    "percent_change": -0.0655753
-  },
-  {
-    "title": "KeyCorp stock underperforms Wednesday when compared to competitors",
-    "published": 1712118120,
-    "posting_price": 14.51526813,
-    "close_price": 14.5057497,
-    "percent_change": -0.0655753
-  },
-  {
-    "title": "KeyCorp (KEY) Dips More Than Broader Market: What You Should Know",
-    "published": 1712096117,
-    "posting_price": 14.59141412,
-    "close_price": 14.52478695,
-    "percent_change": -0.45661901
-  },
-  {
-    "title": "KeyCorp (KEY)'s Uncertain Future: Understanding the Barriers to Outperformance",
-    "published": 1712052180,
-    "posting_price": 14.59141412,
-    "close_price": 14.52478695,
-    "percent_change": -0.45661901
-  },
-  {
-    "title": "Key Petroleum Shares Latest Quarterly Insights",
-    "published": 1714439280,
-    "posting_price": 13.84899407,
-    "close_price": 13.79188442,
-    "percent_change": -0.41237399
-  },
-  {
-    "title": "KeyBank Survey Shows That Americans Are Adjusting Financial Strategies in Pursuit of Homeownership",
-    "published": 1714396200,
-    "posting_price": 14.0393587,
-    "close_price": 14.02032185,
-    "percent_change": -0.13559629
-  },
-  {
-    "title": "Top 50 stocks with the highest sensitivity to interest rates changes - GS",
-    "published": 1714390920,
-    "posting_price": 14.0393587,
-    "close_price": 14.02032185,
-    "percent_change": -0.13559629
-  },
-  {
-    "title": "SPHB: When The Risk-Reward Theory Falls Apart",
-    "published": 1714390264,
-    "posting_price": 14.0393587,
-    "close_price": 14.02032185,
-    "percent_change": -0.13559629
-  },
-  {
-    "title": "Keyera Corp. to Unveil Q1 2024 Results",
-    "published": 1714366080,
-    "posting_price": 14.0393587,
-    "close_price": 14.02032185,
-    "percent_change": -0.13559629
-  },
-  {
-    "title": "10 Financials Stocks With Whale Alerts In Today's Session",
-    "published": 1714135140,
-    "posting_price": 13.92513976,
-    "close_price": 13.99176693,
-    "percent_change": 0.4784668
-  },
-  {
-    "title": "Piper Sandler Sticks to Their Buy Rating for KeyCorp (KEY)",
-    "published": 1714114140,
-    "posting_price": 13.92513976,
-    "close_price": 13.99176693,
-    "percent_change": 0.4784668
-  },
-  {
-    "title": "KeyCorp call volume above normal and directionally bullish",
-    "published": 1714094700,
-    "posting_price": 13.92513976,
-    "close_price": 13.99176693,
-    "percent_change": 0.4784668
-  },
-  {
-    "title": "20 Most Profitable Banks in the US in 2024",
-    "published": 1714053906,
-    "posting_price": 14.20116801,
-    "close_price": 13.90610313,
-    "percent_change": -2.07775079
-  },
-  {
-    "title": "KeyBank's Support for Small and Middle Market Businesses in 2023 Wins Greenwich Awards",
-    "published": 1714050900,
-    "posting_price": 14.20116801,
-    "close_price": 13.90610313,
-    "percent_change": -2.07775079
-  },
-  {
-    "title": "Main Street Banking Model Is Being Squeezed",
-    "published": 1713975300,
-    "posting_price": 13.8394762,
-    "close_price": 14.21068668,
-    "percent_change": 2.68225816
-  },
-  {
-    "title": "NCWIT and KeyBank Honor 38 Students and 2 Educators From Across Ohio With 2024 Aspirations in Computing Awards",
-    "published": 1713964500,
-    "posting_price": 13.8394762,
-    "close_price": 14.21068668,
-    "percent_change": 2.68225816
-  },
-  {
-    "title": "Wall Street bosses tested by calls to strip them of power",
-    "published": 1713945687,
-    "posting_price": 13.8394762,
-    "close_price": 14.21068668,
-    "percent_change": 2.68225816
-  },
-  {
-    "title": "Wall Street\u2019s top bosses tested by shareholder proposals to strip them of power",
-    "published": 1713945687,
-    "posting_price": 13.8394762,
-    "close_price": 14.21068668,
-    "percent_change": 2.68225816
-  },
-  {
-    "title": "Goodwill of the Olympics and Rainier Region Receives $300,000 Grant From KeyBank for Clean Energy Initiative",
-    "published": 1713878100,
-    "posting_price": 13.85851203,
-    "close_price": 14.01080322,
-    "percent_change": 1.09890001
-  },
-  {
-    "title": "Key Institutional Bank president talks Fed rates, M&A outlook",
-    "published": 1713821542,
-    "posting_price": 13.98224741,
-    "close_price": 13.9346571,
-    "percent_change": -0.34036238
-  },
-  {
-    "title": "Navigating Home Ownership: Balancing Spending and Saving for Financial Success",
-    "published": 1713791700,
-    "posting_price": 13.98224741,
-    "close_price": 13.9346571,
-    "percent_change": -0.34036238
-  },
-  {
-    "title": "KeyCorp Insiders Placed Bullish Bets Worth US$871.9k",
-    "published": 1713780185,
-    "posting_price": 13.98224741,
-    "close_price": 13.9346571,
-    "percent_change": -0.34036238
-  },
-  {
-    "title": "Dividend Income Summary: Lanny's March 2024 Summary",
-    "published": 1713772800,
-    "posting_price": 13.98224741,
-    "close_price": 13.9346571,
-    "percent_change": -0.34036238
-  },
-  {
-    "title": "KeyCorp: A Solid 6% Yield For Income Investors",
-    "published": 1713772310,
-    "posting_price": 13.98224741,
-    "close_price": 13.9346571,
-    "percent_change": -0.34036238
-  },
-  {
-    "title": "Some Bubbles Are Starting To Pop",
-    "published": 1713696558,
-    "posting_price": 13.98224837,
-    "close_price": 13.93465805,
-    "percent_change": -0.34036243
-  },
-  {
-    "title": "KeyCorp (NYSE:KEY) Q1 2024 Earnings Call Transcript",
-    "published": 1713538824,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "KeyBank Ranks Among Top SBA Lenders in Washington State",
-    "published": 1713532500,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "KBW Sticks to Its Buy Rating for KeyCorp (KEY)",
-    "published": 1713529620,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Western Alliance (WAL), KeyCorp (KEY) and Banner (BANR)",
-    "published": 1713516060,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "KeyCorp price target raised by $1 at Argus, here's why",
-    "published": 1713515100,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "KeyCorp price target raised by $1 at RBC Capital, here's why",
-    "published": 1713512100,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "KeyCorp (KEY) Q1 2024 Earnings Call Transcript Highlights: Navigating Through Economic ...",
-    "published": 1713510193,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Financial Companies: Marsh & Mclennan Companies (MMC), Ally Financial (ALLY) and KeyCorp (KEY)",
-    "published": 1713507120,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Financial Companies: KeyCorp (KEY), Discover Financial Services (DFS) and Bank OZK (OZK)",
-    "published": 1713502860,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "Analysts Conflicted on These Financial Names: Victory Capital Holdings (VCTR), KeyCorp (KEY) and Discover Financial Services (DFS)",
-    "published": 1713502260,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: KeyCorp (KEY) and Blackstone Group (BX)",
-    "published": 1713500460,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
+    "title": "KeyCorp (KEY) Receives a Buy from Wells Fargo",
+    "published": 1715069400,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 15.220000267028809,
+      "2024-05-07T14:30:00+00:00": 15.145000457763672,
+      "2024-05-07T15:30:00+00:00": 15.119999885559082,
+      "2024-05-07T16:30:00+00:00": 15.085000038146973,
+      "2024-05-07T17:30:00+00:00": 15.029999732971191,
+      "2024-05-07T18:30:00+00:00": 14.944999694824219,
+      "2024-05-07T19:30:00+00:00": 14.939900398254395
+    },
+    "sentiment": 0.6113033294677734
   },
   {
     "title": "Barclays Sticks to Their Hold Rating for KeyCorp (KEY)",
-    "published": 1713495420,
-    "posting_price": 13.64911235,
-    "close_price": 13.92514038,
-    "percent_change": 2.02231488
+    "published": 1714966680,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 15.039999961853027,
+      "2024-05-06T14:30:00+00:00": 15.0600004196167,
+      "2024-05-06T15:30:00+00:00": 15.015000343322754,
+      "2024-05-06T16:30:00+00:00": 15.074999809265137,
+      "2024-05-06T17:30:00+00:00": 15.125,
+      "2024-05-06T18:30:00+00:00": 15.164999961853027,
+      "2024-05-06T19:30:00+00:00": 15.109999656677246
+    },
+    "sentiment": 0.8928403854370117
   },
   {
-    "title": "Regional Bank Earnings: KeyCorp, Comerica, Ally Report Profit Drops",
-    "published": 1713451357,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "Here's Why It's Unlikely That KeyCorp's (NYSE:KEY) CEO Will See A Pay Rise This Year",
+    "published": 1714732427,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 15.220000267028809,
+      "2024-05-03T14:30:00+00:00": 15.135000228881836,
+      "2024-05-03T15:30:00+00:00": 15.03499984741211,
+      "2024-05-03T16:30:00+00:00": 14.979999542236328,
+      "2024-05-03T17:30:00+00:00": 14.9350004196167,
+      "2024-05-03T18:30:00+00:00": 14.969900131225586,
+      "2024-05-03T19:30:00+00:00": 14.944999694824219
+    },
+    "sentiment": 0.46926864981651306
   },
   {
-    "title": "KeyCorp (KEY) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1713447015,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyBank Survey Finds Signs of Confidence With Small Business Owners Coupled With Concerns About Inflation, Fraud and Political Noise",
+    "published": 1714655700,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 14.9399995803833,
+      "2024-05-02T14:30:00+00:00": 14.795000076293945,
+      "2024-05-02T15:30:00+00:00": 14.739999771118164,
+      "2024-05-02T16:30:00+00:00": 14.71500015258789,
+      "2024-05-02T17:30:00+00:00": 14.734999656677246,
+      "2024-05-02T18:30:00+00:00": 14.729999542236328,
+      "2024-05-02T19:30:00+00:00": 14.819999694824219
+    },
+    "sentiment": 0.9387344717979431
   },
   {
-    "title": "KeyCorp (KEY) Q1 Earnings Miss on Lower NII, Stock Slides",
-    "published": 1713444180,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "Mike Mayo Endorses KeyCorp with a Buy Rating Amidst Strategic Growth and Positive Earnings Outlook",
+    "published": 1715747820,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 15.300000190734863,
+      "2024-05-15T14:30:00+00:00": 15.4399995803833,
+      "2024-05-15T15:30:00+00:00": 15.40999984741211,
+      "2024-05-15T16:30:00+00:00": 15.420000076293945,
+      "2024-05-15T17:30:00+00:00": 15.430000305175781,
+      "2024-05-15T18:30:00+00:00": 15.380000114440918,
+      "2024-05-15T19:30:00+00:00": 15.46500015258789
+    },
+    "sentiment": 0.855065643787384
   },
   {
-    "title": "WRAPUP 1-KeyCorp, Comerica join major lenders in flagging hit to interest income",
-    "published": 1713444064,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "Keyera Corp. Shareholders Affirm Board and Policies",
+    "published": 1715665140,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 15.0,
+      "2024-05-14T14:30:00+00:00": 15.031000137329102,
+      "2024-05-14T15:30:00+00:00": 15.095000267028809,
+      "2024-05-14T16:30:00+00:00": 15.135000228881836,
+      "2024-05-14T17:30:00+00:00": 15.069999694824219,
+      "2024-05-14T18:30:00+00:00": 15.067399978637695,
+      "2024-05-14T19:30:00+00:00": 15.015000343322754
+    },
+    "sentiment": 0.9413303732872009
   },
   {
-    "title": "KeyCorp (KEY) Q1 2024 Earnings Call Transcript",
-    "published": 1713442449,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "How Is The Market Feeling About KeyCorp?",
+    "published": 1715655780,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 15.0,
+      "2024-05-14T14:30:00+00:00": 15.031000137329102,
+      "2024-05-14T15:30:00+00:00": 15.095000267028809,
+      "2024-05-14T16:30:00+00:00": 15.135000228881836,
+      "2024-05-14T17:30:00+00:00": 15.069999694824219,
+      "2024-05-14T18:30:00+00:00": 15.067399978637695,
+      "2024-05-14T19:30:00+00:00": 15.015000343322754
+    },
+    "sentiment": 0.8952361345291138
   },
   {
-    "title": "Stocks Edge Higher As Earnings Provide Support, Tesla Sinks To 15-Month Lows, Bitcoin Rebounds: What's Driving Markets Thursday?",
-    "published": 1713442440,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyCorp (NYSE:KEY) Is Paying Out A Dividend Of $0.205",
+    "published": 1715597192,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 15.149999618530273,
+      "2024-05-13T14:30:00+00:00": 15.100000381469727,
+      "2024-05-13T15:30:00+00:00": 15.03499984741211,
+      "2024-05-13T16:30:00+00:00": 15.015000343322754,
+      "2024-05-13T17:30:00+00:00": 14.900099754333496,
+      "2024-05-13T18:30:00+00:00": 14.895000457763672,
+      "2024-05-13T19:30:00+00:00": 14.895000457763672
+    },
+    "sentiment": 0.9403014779090881
   },
   {
-    "title": "KeyCorp, Comerica join major lenders in flagging hit to interest income",
-    "published": 1713440389,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyCorp DP SHS PFD G declares $0.3516 dividend",
+    "published": 1715323740,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 15.170000076293945,
+      "2024-05-10T14:30:00+00:00": 15.109999656677246,
+      "2024-05-10T15:30:00+00:00": 15.135000228881836,
+      "2024-05-10T16:30:00+00:00": 15.103300094604492,
+      "2024-05-10T17:30:00+00:00": 15.005000114440918,
+      "2024-05-10T18:30:00+00:00": 15.005000114440918,
+      "2024-05-10T19:30:00+00:00": 15.055000305175781
+    },
+    "sentiment": 0.9408663511276245
   },
   {
-    "title": "KeyCorp profit falls as higher deposit costs hurt interest income",
-    "published": 1713440161,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KEYCORP DECLARES QUARTERLY CASH DIVIDEND ON COMMON SHARES AND PREFERRED STOCKS",
+    "published": 1715285700,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 14.90999984741211,
+      "2024-05-09T14:30:00+00:00": 15.0600004196167,
+      "2024-05-09T15:30:00+00:00": 15.069999694824219,
+      "2024-05-09T16:30:00+00:00": 15.055000305175781,
+      "2024-05-09T17:30:00+00:00": 15.029999732971191,
+      "2024-05-09T18:30:00+00:00": 15.029999732971191,
+      "2024-05-09T19:30:00+00:00": 15.037300109863281
+    },
+    "sentiment": 0.8592379689216614
   },
   {
-    "title": "KEY Stock Earnings: KeyCorp Meets EPS, Beats Revenue for Q1 2024",
-    "published": 1713437820,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyCorp declares $0.205 dividend",
+    "published": 1715228340,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 14.90999984741211,
+      "2024-05-09T14:30:00+00:00": 15.0600004196167,
+      "2024-05-09T15:30:00+00:00": 15.069999694824219,
+      "2024-05-09T16:30:00+00:00": 15.055000305175781,
+      "2024-05-09T17:30:00+00:00": 15.029999732971191,
+      "2024-05-09T18:30:00+00:00": 15.029999732971191,
+      "2024-05-09T19:30:00+00:00": 15.037300109863281
+    },
+    "sentiment": 0.9089300632476807
   },
   {
-    "title": "KEYCORP REPORTS FIRST QUARTER 2024 NET INCOME OF $183 MILLION, OR $.20 PER DILUTED COMMON SHARE, WITH $.02 IMPACT FROM THE FDIC SPECIAL ASSESSMENT(a)",
-    "published": 1713436200,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyCorp: Significant EPS Growth Expectations Already Priced In, Upside Seems Limited",
+    "published": 1715148035,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 14.8100004196167,
+      "2024-05-08T14:30:00+00:00": 14.829999923706055,
+      "2024-05-08T15:30:00+00:00": 14.895000457763672,
+      "2024-05-08T16:30:00+00:00": 14.925000190734863,
+      "2024-05-08T17:30:00+00:00": 14.989999771118164,
+      "2024-05-08T18:30:00+00:00": 14.979999542236328,
+      "2024-05-08T19:30:00+00:00": 15.0
+    },
+    "sentiment": 0.9132364392280579
   },
   {
-    "title": "December 20th Options Now Available For KeyCorp (KEY)",
-    "published": 1713433500,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyCorp call volume above normal and directionally bullish",
+    "published": 1716461100,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 15.079999923706055,
+      "2024-05-23T14:30:00+00:00": 14.774999618530273,
+      "2024-05-23T15:30:00+00:00": 14.774999618530273,
+      "2024-05-23T16:30:00+00:00": 14.75,
+      "2024-05-23T17:30:00+00:00": 14.625,
+      "2024-05-23T18:30:00+00:00": 14.460000038146973,
+      "2024-05-23T19:30:00+00:00": 14.46500015258789
+    },
+    "sentiment": 0.883490800857544
   },
   {
-    "title": "KeyCorp 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713432838,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "JPMorgan's Investor Day has read-throughs for banks in general, BofA says",
+    "published": 1716382140,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 15.25,
+      "2024-05-22T14:30:00+00:00": 15.157500267028809,
+      "2024-05-22T15:30:00+00:00": 15.100000381469727,
+      "2024-05-22T16:30:00+00:00": 15.135000228881836,
+      "2024-05-22T17:30:00+00:00": 15.104999542236328,
+      "2024-05-22T18:30:00+00:00": 14.979999542236328,
+      "2024-05-22T19:30:00+00:00": 14.954999923706055
+    },
+    "sentiment": 0.9168421626091003
   },
   {
-    "title": "Fly Intel: Pre-market Movers",
-    "published": 1713427080,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KEYCORP TO PRESENT AT THE BERNSTEIN ANNUAL STRATEGIC DECISIONS CONFERENCE",
+    "published": 1716381000,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 15.25,
+      "2024-05-22T14:30:00+00:00": 15.157500267028809,
+      "2024-05-22T15:30:00+00:00": 15.100000381469727,
+      "2024-05-22T16:30:00+00:00": 15.135000228881836,
+      "2024-05-22T17:30:00+00:00": 15.104999542236328,
+      "2024-05-22T18:30:00+00:00": 14.979999542236328,
+      "2024-05-22T19:30:00+00:00": 14.954999923706055
+    },
+    "sentiment": 0.9389084577560425
   },
   {
-    "title": "KeyCorp Q1 earnings dip, missing consensus, as NII drops, expenses rise",
-    "published": 1713426420,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "$300,000 Investment from KeyBank Foundation to help Greater Rochester Habitat for Humanity Expand Homebuyer Program",
+    "published": 1716297300,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 15.220000267028809,
+      "2024-05-21T14:30:00+00:00": 15.295000076293945,
+      "2024-05-21T15:30:00+00:00": 15.289999961853027,
+      "2024-05-21T16:30:00+00:00": 15.244999885559082,
+      "2024-05-21T17:30:00+00:00": 15.21500015258789,
+      "2024-05-21T18:30:00+00:00": 15.274999618530273,
+      "2024-05-21T19:30:00+00:00": 15.272500038146973
+    },
+    "sentiment": 0.8729608058929443
   },
   {
-    "title": "Earnings Scheduled For April 18, 2024",
-    "published": 1713424320,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 19",
+    "published": 1716021130,
+    "day_prices": {},
+    "sentiment": 0.9063739776611328
   },
   {
-    "title": "Keystone Law hails client demand as profit jumps; outlook confident",
-    "published": 1713423000,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "Video: S&P 500 Analyst Moves: KEY",
+    "published": 1715942940,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 15.460000038146973,
+      "2024-05-17T14:30:00+00:00": 15.46500015258789,
+      "2024-05-17T15:30:00+00:00": 15.413399696350098,
+      "2024-05-17T16:30:00+00:00": 15.430100440979004,
+      "2024-05-17T17:30:00+00:00": 15.4399995803833,
+      "2024-05-17T18:30:00+00:00": 15.399999618530273,
+      "2024-05-17T19:30:00+00:00": 15.404999732971191
+    },
+    "sentiment": 0.8481938242912292
   },
   {
-    "title": "Options Volatility and Implied Earnings Moves Today, April 18, 2024",
-    "published": 1713420360,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
+    "title": "KeyBank Publishes 2023 Corporate Responsibility Report Highlighting Community Impact",
+    "published": 1715865300,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 15.5,
+      "2024-05-16T14:30:00+00:00": 15.430000305175781,
+      "2024-05-16T15:30:00+00:00": 15.454999923706055,
+      "2024-05-16T16:30:00+00:00": 15.484999656677246,
+      "2024-05-16T17:30:00+00:00": 15.470000267028809,
+      "2024-05-16T18:30:00+00:00": 15.414999961853027,
+      "2024-05-16T19:30:00+00:00": 15.425000190734863
+    },
+    "sentiment": 0.8626797199249268
   },
   {
-    "title": "KeyCorp sees FY24 NII down 2%-5% vs. FY23",
-    "published": 1713420240,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "KeyCorp reiterates long-term targets",
-    "published": 1713420180,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "Wall Street Looks To Snap 4-Day Losing Streak As Traders Eye Fed Speeches, Netflix Earnings: Analyst Pencils S&P 500's Next 'Major' Downside Support",
-    "published": 1713419820,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "KeyCorp (KEY) Q1 2024 Earnings: Misses Analyst EPS Estimates, Revenue Falls Short",
-    "published": 1713419520,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "KeyCorp Non-GAAP EPS of $0.22 misses by $0.01, revenue of $1.53B beats by $20M",
-    "published": 1713418620,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "KeyCorp reports Q1 EPS 20c, consensus 22c",
-    "published": 1713418500,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "Stock Futures Rise as Semiconductor Shares Rebound; Fed's Interest Rate Decisions Awaited",
-    "published": 1713417480,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "KeyCorp: Hold Rating Affirmed Amid Mixed Financials and Growth Challenges",
-    "published": 1713406560,
-    "posting_price": 13.61103874,
-    "close_price": 13.68718433,
-    "percent_change": 0.55943996
-  },
-  {
-    "title": "KeyCorp Q1 2024 Earnings Preview",
-    "published": 1713358020,
-    "posting_price": 13.65862995,
-    "close_price": 13.73477554,
-    "percent_change": 0.55749069
-  },
-  {
-    "title": "Is a Surprise Coming for KeyCorp (KEY) This Earnings Season?",
-    "published": 1713357240,
-    "posting_price": 13.65862995,
-    "close_price": 13.73477554,
-    "percent_change": 0.55749069
-  },
-  {
-    "title": "Notable companies reporting before tomorrow's open",
-    "published": 1713356400,
-    "posting_price": 13.65862995,
-    "close_price": 13.73477554,
-    "percent_change": 0.55749069
-  },
-  {
-    "title": "Notable earnings before Thursday's open",
-    "published": 1713347640,
-    "posting_price": 13.65862995,
-    "close_price": 13.73477554,
-    "percent_change": 0.55749069
-  },
-  {
-    "title": "KeyBank To Participate in Home Ownership Events in Buffalo and Syracuse",
-    "published": 1713275100,
-    "posting_price": 13.59200274,
-    "close_price": 13.53489399,
-    "percent_change": -0.42016435
-  },
-  {
-    "title": "Bank of America (BAC) Beats Q1 Earnings and Revenue Estimates",
-    "published": 1713268503,
-    "posting_price": 13.59200274,
-    "close_price": 13.53489399,
-    "percent_change": -0.42016435
-  },
-  {
-    "title": "Fee Income to Aid KeyCorp (KEY) Q1 Earnings, Lower NII to Hurt",
-    "published": 1713264840,
-    "posting_price": 13.59200274,
-    "close_price": 13.53489399,
-    "percent_change": -0.42016435
+    "title": "Diamond Hill Select Fund Q1 2024 Market Commentary",
+    "published": 1715818800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 15.5,
+      "2024-05-16T14:30:00+00:00": 15.430000305175781,
+      "2024-05-16T15:30:00+00:00": 15.454999923706055,
+      "2024-05-16T16:30:00+00:00": 15.484999656677246,
+      "2024-05-16T17:30:00+00:00": 15.470000267028809,
+      "2024-05-16T18:30:00+00:00": 15.414999961853027,
+      "2024-05-16T19:30:00+00:00": 15.425000190734863
+    },
+    "sentiment": 0.9320204257965088
   }
 ]

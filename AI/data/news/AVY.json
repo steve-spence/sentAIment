@@ -1,331 +1,100 @@
 [
   {
-    "title": "Avery Dennison Corp. stock outperforms competitors despite losses on the day",
-    "published": 1712895660,
-    "posting_price": 209.15367291,
-    "close_price": 207.65936279,
-    "percent_change": -0.7144556
+    "title": "Decoding Avery Dennison Corp (AVY): A Strategic SWOT Insight",
+    "published": 1714626313,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 218.83999633789062,
+      "2024-05-02T14:30:00+00:00": 218.58999633789062,
+      "2024-05-02T15:30:00+00:00": 219.0,
+      "2024-05-02T16:30:00+00:00": 219.3000030517578,
+      "2024-05-02T17:30:00+00:00": 219.77000427246094,
+      "2024-05-02T18:30:00+00:00": 220.0749969482422,
+      "2024-05-02T19:30:00+00:00": 220.1699981689453
+    },
+    "sentiment": 0.9044129252433777
   },
   {
-    "title": "Avery Dennison's (NYSE:AVY) investors will be pleased with their solid 105% return over the last five years",
-    "published": 1712745058,
-    "posting_price": 213.01722623,
-    "close_price": 211.87684631,
-    "percent_change": -0.53534634
+    "title": "Avery Dennison price target raised by $5 at Argus, here's why",
+    "published": 1715156700,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 223.6199951171875,
+      "2024-05-08T14:30:00+00:00": 223.97500610351562,
+      "2024-05-08T15:30:00+00:00": 223.88999938964844,
+      "2024-05-08T16:30:00+00:00": 225.38499450683594,
+      "2024-05-08T17:30:00+00:00": 225.0800018310547,
+      "2024-05-08T18:30:00+00:00": 225.20989990234375,
+      "2024-05-08T19:30:00+00:00": 225.02999877929688
+    },
+    "sentiment": 0.8165969252586365
   },
   {
-    "title": "12 Best Packaging Stocks to Buy According to Hedge Funds",
-    "published": 1712674124,
-    "posting_price": 214.74747397,
-    "close_price": 215.80921936,
-    "percent_change": 0.49441578
+    "title": "Avery Dennison Now #368 Largest Company, Surpassing McCormick",
+    "published": 1716435540,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 229.75,
+      "2024-05-23T14:30:00+00:00": 228.5449981689453,
+      "2024-05-23T15:30:00+00:00": 227.72999572753906,
+      "2024-05-23T16:30:00+00:00": 228.02999877929688,
+      "2024-05-23T17:30:00+00:00": 228.0,
+      "2024-05-23T18:30:00+00:00": 227.32000732421875,
+      "2024-05-23T19:30:00+00:00": 227.4149932861328
+    },
+    "sentiment": 0.8426745533943176
   },
   {
-    "title": "Avery Dennison Corp. stock underperforms Monday when compared to competitors despite daily gains",
-    "published": 1712549940,
-    "posting_price": 214.92441886,
-    "close_price": 214.51152039,
-    "percent_change": -0.19211334
+    "title": "Why Avery Dennison Corporation (NYSE:AVY) Looks Like A Quality Company",
+    "published": 1716299988,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 226.74000549316406,
+      "2024-05-21T14:30:00+00:00": 227.00999450683594,
+      "2024-05-21T15:30:00+00:00": 227.73500061035156,
+      "2024-05-21T16:30:00+00:00": 227.33999633789062,
+      "2024-05-21T17:30:00+00:00": 227.1649932861328,
+      "2024-05-21T18:30:00+00:00": 227.86199951171875,
+      "2024-05-21T19:30:00+00:00": 228.14999389648438
+    },
+    "sentiment": 0.6703667044639587
   },
   {
-    "title": "Avery Dennison price target raised by $11 at Citi, here's why",
-    "published": 1712208660,
-    "posting_price": 218.99444629,
-    "close_price": 213.4694519,
-    "percent_change": -2.52289247
+    "title": "Avery Dennison\u2019s CleanFlake technology recognised by APR",
+    "published": 1716204150,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 225.92999267578125,
+      "2024-05-20T14:30:00+00:00": 225.83999633789062,
+      "2024-05-20T15:30:00+00:00": 226.59500122070312,
+      "2024-05-20T16:30:00+00:00": 226.3699951171875,
+      "2024-05-20T17:30:00+00:00": 227.00999450683594,
+      "2024-05-20T18:30:00+00:00": 226.39999389648438,
+      "2024-05-20T19:30:00+00:00": 226.40499877929688
+    },
+    "sentiment": 0.5631017088890076
   },
   {
-    "title": "Expert Outlook: Avery Dennison Through The Eyes Of 5 Analysts",
-    "published": 1712196420,
-    "posting_price": 218.99444629,
-    "close_price": 213.4694519,
-    "percent_change": -2.52289247
+    "title": "Avery Dennison Corp. stock underperforms Friday when compared to competitors despite daily gains",
+    "published": 1717128840,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 223.3699951171875,
+      "2024-05-31T14:30:00+00:00": 224.6699981689453,
+      "2024-05-31T15:30:00+00:00": 224.19000244140625,
+      "2024-05-31T16:30:00+00:00": 224.8000030517578,
+      "2024-05-31T17:30:00+00:00": 225.30999755859375,
+      "2024-05-31T18:30:00+00:00": 225.1300048828125,
+      "2024-05-31T19:30:00+00:00": 225.7050018310547
+    },
+    "sentiment": 0.8735285401344299
   },
   {
-    "title": "10 Stocks with Latest Dividend Increases",
-    "published": 1714312655,
-    "posting_price": 216.28110352,
-    "close_price": 214.69831848,
-    "percent_change": -0.73181846
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 28",
-    "published": 1714210198,
-    "posting_price": 216.28110352,
-    "close_price": 214.69831848,
-    "percent_change": -0.73181846
-  },
-  {
-    "title": "Avery Dennison Corporation (NYSE:AVY) Q1 2024 Earnings Call Transcript",
-    "published": 1714136091,
-    "posting_price": 214.04947169,
-    "close_price": 215.32749939,
-    "percent_change": 0.59707118
-  },
-  {
-    "title": "Avery Dennison Corporation (NYSE:AVY) Just Released Its First-Quarter Earnings: Here's What Analysts Think",
-    "published": 1714133201,
-    "posting_price": 214.04947169,
-    "close_price": 215.32749939,
-    "percent_change": 0.59707118
-  },
-  {
-    "title": "Avery Dennison: Strong Buy Rating on Improved Materials Segment and Solutions Growth Potential",
-    "published": 1714112280,
-    "posting_price": 214.04947169,
-    "close_price": 215.32749939,
-    "percent_change": 0.59707118
-  },
-  {
-    "title": "Avery Dennison Increases Quarterly Dividend",
-    "published": 1714064400,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison raises dividend by 8.6% to $0.88",
-    "published": 1714047120,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "The Analyst Landscape: 5 Takes On Avery Dennison",
-    "published": 1714046880,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison board increases quarterly dividend 9% to 88c per share",
-    "published": 1714046460,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison First Quarter 2024 Earnings: In Line With Expectations",
-    "published": 1714045778,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison (AVY) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates (Revised)",
-    "published": 1714034520,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison price target raised by $15 at Raymond James, here's why",
-    "published": 1714029540,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison Corp (AVY) (Q1 2024) Earnings Call Transcript Highlights: Strong Performance and ...",
-    "published": 1714029535,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Analysts Conflicted on These Consumer Cyclical Names: Amazon (AMZN), Lithia Motors (LAD) and Avery Dennison (AVY)",
-    "published": 1714027860,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison price target lowered by $4 at Citi, here's why",
-    "published": 1714027080,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Loop Capital Markets Sticks to Their Buy Rating for Avery Dennison (AVY)",
-    "published": 1714026960,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Avery Dennison (AVY), Hilton Worldwide Holdings (HLT) and Ford Motor (F)",
-    "published": 1714025460,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Q1 2024 Avery Dennison Corp Earnings Call",
-    "published": 1714024502,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison price target raised by $15 at Baird, here's why",
-    "published": 1714023240,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Hasbro (HAS), Avery Dennison (AVY) and Ford Motor (F)",
-    "published": 1714020060,
-    "posting_price": 208.25904282,
-    "close_price": 213.48912048,
-    "percent_change": 2.5113328
-  },
-  {
-    "title": "Avery Dennison Corporation (AVY) Q1 2024 Earnings Call Transcript",
-    "published": 1713976742,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison (AVY) Q1 Earnings Beat, Revenues Rise Y/Y",
-    "published": 1713968820,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison (AVY) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1713965429,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison Corp (AVY) Q1 2024 Earnings: Aligns with Analyst Projections",
-    "published": 1713960141,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison (AVY) Surpasses Q1 Earnings and Revenue Estimates",
-    "published": 1713959704,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Label maker Avery Dennison posts Q1 profit beat as reduced inventories boost demand",
-    "published": 1713958386,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison Announces First Quarter 2024 Results",
-    "published": 1713955500,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "AVY Stock Earnings: Avery Dennison Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713952500,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison : Q1 Financial Review & Analysis",
-    "published": 1713942252,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison: Q1 Earnings Snapshot",
-    "published": 1713941649,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison beats top-line and bottom-line estimates; updates FY24 outlook",
-    "published": 1713937860,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison backs FY24 adjusted EPS view $9.00-$9.50, consensus $9.32",
-    "published": 1713937680,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Avery Dennison reports Q1 adjusted EPS $2.29, consensus $2.15",
-    "published": 1713937560,
-    "posting_price": 213.96100093,
-    "close_price": 208.82923889,
-    "percent_change": -2.39845674
-  },
-  {
-    "title": "Analyzing Q1 Earnings Beat or Miss for CAT & Four Industrial Stocks",
-    "published": 1713888300,
-    "posting_price": 207.57086929,
-    "close_price": 207.75765991,
-    "percent_change": 0.08998884
-  },
-  {
-    "title": "Why Earnings Season Could Be Great for Avery Dennison (AVY)",
-    "published": 1713880200,
-    "posting_price": 207.57086929,
-    "close_price": 207.75765991,
-    "percent_change": 0.08998884
-  },
-  {
-    "title": "Avery Dennison Q1 2024 Earnings Preview",
-    "published": 1713867900,
-    "posting_price": 207.57086929,
-    "close_price": 207.75765991,
-    "percent_change": 0.08998884
-  },
-  {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1713864720,
-    "posting_price": 207.57086929,
-    "close_price": 207.75765991,
-    "percent_change": 0.08998884
-  },
-  {
-    "title": "Will Avery Dennison (AVY) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1713802214,
-    "posting_price": 208.10175654,
-    "close_price": 208.19024658,
-    "percent_change": 0.04252249
-  },
-  {
-    "title": "Bank of America Securities Reaffirms Their Sell Rating on Avery Dennison (AVY)",
-    "published": 1713516960,
-    "posting_price": 205.78167099,
-    "close_price": 207.99363708,
-    "percent_change": 1.07490919
-  },
-  {
-    "title": "Avery Dennison (AVY) to Report Q1 Earnings: What's in Store?",
-    "published": 1713456600,
-    "posting_price": 206.37149886,
-    "close_price": 205.81114197,
-    "percent_change": -0.27152824
-  },
-  {
-    "title": "Avery Dennison Corp. stock outperforms competitors despite losses on the day",
-    "published": 1713240900,
-    "posting_price": 207.77731252,
-    "close_price": 207.521698,
-    "percent_change": -0.12302331
+    "title": "Why Is Avery Dennison (AVY) Up 4.6% Since Last Earnings Report?",
+    "published": 1716564665,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 227.8800048828125,
+      "2024-05-24T14:30:00+00:00": 226.6999969482422,
+      "2024-05-24T15:30:00+00:00": 227.0850067138672,
+      "2024-05-24T16:30:00+00:00": 227.0,
+      "2024-05-24T17:30:00+00:00": 226.47000122070312,
+      "2024-05-24T18:30:00+00:00": 226.0449981689453,
+      "2024-05-24T19:30:00+00:00": 226.55999755859375
+    },
+    "sentiment": 0.780235230922699
   }
 ]

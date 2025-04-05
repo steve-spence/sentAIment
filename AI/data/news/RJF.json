@@ -1,345 +1,170 @@
 [
   {
-    "title": "What's Driving Charles Schwab Corp's Surprising 11% Stock Rally?",
-    "published": 1713176280,
-    "posting_price": 122.87644962,
-    "close_price": 121.23387146,
-    "percent_change": -1.33677215
+    "title": "Raymond James (RJF) Forays Into the Private Credit Business",
+    "published": 1715690820,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 126.02999877929688,
+      "2024-05-14T14:30:00+00:00": 126.6500015258789,
+      "2024-05-14T15:30:00+00:00": 126.37000274658203,
+      "2024-05-14T16:30:00+00:00": 126.30999755859375,
+      "2024-05-14T17:30:00+00:00": 126.0199966430664,
+      "2024-05-14T18:30:00+00:00": 126.5199966430664,
+      "2024-05-14T19:30:00+00:00": 126.76000213623047
+    },
+    "sentiment": 0.876610517501831
   },
   {
-    "title": "Raymond James price target raised by $20 at Citi, here's why",
-    "published": 1712812860,
-    "posting_price": 125.4887462,
-    "close_price": 123.19309998,
-    "percent_change": -1.82936422
+    "title": "Raymond James Establishes New Private Credit Business",
+    "published": 1715603400,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 126.12000274658203,
+      "2024-05-13T14:30:00+00:00": 125.44000244140625,
+      "2024-05-13T15:30:00+00:00": 125.54000091552734,
+      "2024-05-13T16:30:00+00:00": 125.45500183105469,
+      "2024-05-13T17:30:00+00:00": 124.94499969482422,
+      "2024-05-13T18:30:00+00:00": 124.87999725341797,
+      "2024-05-13T19:30:00+00:00": 125.29499816894531
+    },
+    "sentiment": 0.8870399594306946
   },
   {
-    "title": "Those who invested in Raymond James Financial (NYSE:RJF) five years ago are up 135%",
-    "published": 1712754936,
-    "posting_price": 125.36011036,
-    "close_price": 125.79548645,
-    "percent_change": 0.34730034
+    "title": "Decoding Raymond James Financial Inc (RJF): A Strategic SWOT Insight",
+    "published": 1715231138,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 125.0999984741211,
+      "2024-05-09T14:30:00+00:00": 125.4175033569336,
+      "2024-05-09T15:30:00+00:00": 125.30999755859375,
+      "2024-05-09T16:30:00+00:00": 125.0999984741211,
+      "2024-05-09T17:30:00+00:00": 125.0,
+      "2024-05-09T18:30:00+00:00": 125.0199966430664,
+      "2024-05-09T19:30:00+00:00": 124.9000015258789
+    },
+    "sentiment": 0.902457594871521
   },
   {
-    "title": "Analysts Offer Insights on Financial Companies: Raymond James Financial (RJF) and Blackstone Group (BX)",
-    "published": 1712661660,
-    "posting_price": 128.92231405,
-    "close_price": 126.72563171,
-    "percent_change": -1.70388063
+    "title": "Raymond James Financial files automatic mixed shelf",
+    "published": 1715140980,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 125.05999755859375,
+      "2024-05-08T14:30:00+00:00": 124.5999984741211,
+      "2024-05-08T15:30:00+00:00": 124.50499725341797,
+      "2024-05-08T16:30:00+00:00": 124.61000061035156,
+      "2024-05-08T17:30:00+00:00": 124.70999908447266,
+      "2024-05-08T18:30:00+00:00": 125.0999984741211,
+      "2024-05-08T19:30:00+00:00": 125.5199966430664
+    },
+    "sentiment": 0.8208779096603394
   },
   {
-    "title": "Raymond James price target raised by $10 at Morgan Stanley, here's why",
-    "published": 1712647860,
-    "posting_price": 128.92231405,
-    "close_price": 126.72563171,
-    "percent_change": -1.70388063
+    "title": "JPMorgan's asset manager on the prowl for private-credit shop - report",
+    "published": 1716461100,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 123.6500015258789,
+      "2024-05-23T14:30:00+00:00": 122.5999984741211,
+      "2024-05-23T15:30:00+00:00": 123.19999694824219,
+      "2024-05-23T16:30:00+00:00": 124.31999969482422,
+      "2024-05-23T17:30:00+00:00": 124.30999755859375,
+      "2024-05-23T18:30:00+00:00": 123.5199966430664,
+      "2024-05-23T19:30:00+00:00": 123.6500015258789
+    },
+    "sentiment": 0.9328976273536682
   },
   {
-    "title": "Deep Dive Into Raymond James Finl Stock: Analyst Perspectives (4 Ratings)",
-    "published": 1712628360,
-    "posting_price": 128.92231405,
-    "close_price": 126.72563171,
-    "percent_change": -1.70388063
+    "title": "RAYMOND JAMES FINANCIAL : REPORTS APRIL 2024 OPERATING DATA - Form 8-K",
+    "published": 1716395471,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 124.79000091552734,
+      "2024-05-22T14:30:00+00:00": 124.58000183105469,
+      "2024-05-22T15:30:00+00:00": 123.54000091552734,
+      "2024-05-22T16:30:00+00:00": 123.5,
+      "2024-05-22T17:30:00+00:00": 123.66999816894531,
+      "2024-05-22T18:30:00+00:00": 123.08999633789062,
+      "2024-05-22T19:30:00+00:00": 122.9800033569336
+    },
+    "sentiment": 0.9249128699302673
   },
   {
-    "title": "Here's Why You Should Buy Raymond James (RJF) Stock Now",
-    "published": 1712234520,
-    "posting_price": 129.32801311,
-    "close_price": 126.07255554,
-    "percent_change": -2.51720992
+    "title": "Raymond James Financial client AUA dips 3% M/M in April",
+    "published": 1716351600,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 124.79000091552734,
+      "2024-05-22T14:30:00+00:00": 124.58000183105469,
+      "2024-05-22T15:30:00+00:00": 123.54000091552734,
+      "2024-05-22T16:30:00+00:00": 123.5,
+      "2024-05-22T17:30:00+00:00": 123.66999816894531,
+      "2024-05-22T18:30:00+00:00": 123.08999633789062,
+      "2024-05-22T19:30:00+00:00": 122.9800033569336
+    },
+    "sentiment": 0.9702604413032532
   },
   {
-    "title": "Raymond James price target raised by $11 at Seaport Research, here's why",
-    "published": 1712217240,
-    "posting_price": 129.32801311,
-    "close_price": 126.07255554,
-    "percent_change": -2.51720992
+    "title": "Raymond James Financial : Board appoints new directors",
+    "published": 1716308529,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 125.16999816894531,
+      "2024-05-21T14:30:00+00:00": 125.07340240478516,
+      "2024-05-21T15:30:00+00:00": 125.30999755859375,
+      "2024-05-21T16:30:00+00:00": 124.94000244140625,
+      "2024-05-21T17:30:00+00:00": 125.04000091552734,
+      "2024-05-21T18:30:00+00:00": 125.12999725341797,
+      "2024-05-21T19:30:00+00:00": 125.1050033569336
+    },
+    "sentiment": 0.8776907920837402
   },
   {
-    "title": "Private equity owner of Dr. Squatch explores $2 bln-plus sale of personal care brand, sources say",
-    "published": 1712161226,
-    "posting_price": 127.26983754,
-    "close_price": 128.24945068,
-    "percent_change": 0.76971351
+    "title": "Raymond James Financial Declares Quarterly Dividends on Common and Preferred Stock",
+    "published": 1716242040,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 126.36000061035156,
+      "2024-05-20T14:30:00+00:00": 126.01499938964844,
+      "2024-05-20T15:30:00+00:00": 126.04000091552734,
+      "2024-05-20T16:30:00+00:00": 125.81999969482422,
+      "2024-05-20T17:30:00+00:00": 125.51000213623047,
+      "2024-05-20T18:30:00+00:00": 125.4800033569336,
+      "2024-05-20T19:30:00+00:00": 125.20999908447266
+    },
+    "sentiment": 0.7865084409713745
   },
   {
-    "title": "Analysts Offer Insights on Financial Companies: Ameriprise Financial (AMP) and Raymond James Financial (RJF)",
-    "published": 1712047860,
-    "posting_price": 127.00269561,
-    "close_price": 127.35891724,
-    "percent_change": 0.28048352
+    "title": "Raymond James Financial declares $0.45 dividend",
+    "published": 1716205500,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 126.36000061035156,
+      "2024-05-20T14:30:00+00:00": 126.01499938964844,
+      "2024-05-20T15:30:00+00:00": 126.04000091552734,
+      "2024-05-20T16:30:00+00:00": 125.81999969482422,
+      "2024-05-20T17:30:00+00:00": 125.51000213623047,
+      "2024-05-20T18:30:00+00:00": 125.4800033569336,
+      "2024-05-20T19:30:00+00:00": 125.20999908447266
+    },
+    "sentiment": 0.9381218552589417
   },
   {
-    "title": "Walmart, PriceSmart And 2 Other Stocks Insiders Are Selling",
-    "published": 1714462260,
-    "posting_price": 121.47136168,
-    "close_price": 120.71933746,
-    "percent_change": -0.6190959
+    "title": "Catalyst Watch: AI in the spotlight with Nvidia earnings, Microsoft Build, and an IBM event",
+    "published": 1715911380,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 126.25,
+      "2024-05-17T14:30:00+00:00": 125.95999908447266,
+      "2024-05-17T15:30:00+00:00": 125.84500122070312,
+      "2024-05-17T16:30:00+00:00": 126.01000213623047,
+      "2024-05-17T17:30:00+00:00": 126.19000244140625,
+      "2024-05-17T18:30:00+00:00": 126.45999908447266,
+      "2024-05-17T19:30:00+00:00": 126.5250015258789
+    },
+    "sentiment": 0.7579677700996399
   },
   {
-    "title": "Top 12 Alternatives to Edward Jones",
-    "published": 1714346046,
-    "posting_price": 120.75892087,
-    "close_price": 121.89685059,
-    "percent_change": 0.94231524
-  },
-  {
-    "title": "Raymond James Financial, Inc. (NYSE:RJF) Q2 2024 Earnings Call Transcript",
-    "published": 1714136286,
-    "posting_price": 120.22458133,
-    "close_price": 120.58080292,
-    "percent_change": 0.2962968
-  },
-  {
-    "title": "Raymond James Financial Second Quarter 2024 Earnings: In Line With Expectations",
-    "published": 1714127603,
-    "posting_price": 120.22458133,
-    "close_price": 120.58080292,
-    "percent_change": 0.2962968
-  },
-  {
-    "title": "Wealth Enhancement Group Acquires $502 Million Hybrid RIA",
-    "published": 1714096020,
-    "posting_price": 120.22458133,
-    "close_price": 120.58080292,
-    "percent_change": 0.2962968
-  },
-  {
-    "title": "Story behind Raymond James CEO's path to record client assets",
-    "published": 1714081800,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James: Still Bullish Considering In-Line Results And Positive Outlook",
-    "published": 1714062898,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Q2 2024 Raymond James Financial Inc Earnings Call",
-    "published": 1714059660,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "KBW Sticks to Their Hold Rating for Raymond James Financial (RJF)",
-    "published": 1714048020,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James' (RJF) Q2 Earnings Miss, Revenues Rise Y/Y",
-    "published": 1714043400,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Breaking Down Raymond James Finl: 5 Analysts Share Their Views",
-    "published": 1714035840,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James Financial Inc (RJF) (Q2 2024) Earnings Call Transcript Highlights: Key Financial ...",
-    "published": 1714029871,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James price target lowered by $5 at TD Cowen, here's why",
-    "published": 1714026960,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James price target lowered by $4 at BofA, here's why",
-    "published": 1714026240,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Financial Companies: GooseHead Insurance (GSHD), Raymond James Financial (RJF) and CME Group (CME)",
-    "published": 1714025520,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James adds to growing private capital advisory business hiring four senior bankers",
-    "published": 1714022906,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James Financial (RJF) Reports Q2 Earnings: What Key Metrics Have to Say",
-    "published": 1714005005,
-    "posting_price": 121.70884178,
-    "close_price": 120.66986084,
-    "percent_change": -0.85366102
-  },
-  {
-    "title": "Raymond James Financial, Inc. 2024 Q2 - Results - Earnings Call Presentation",
-    "published": 1714001483,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial, Inc. (RJF) Q2 2024 Earnings Call Transcript",
-    "published": 1714001424,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Q2 profit rises on strong capital markets performance",
-    "published": 1713997067,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial, Inc. (RJF) Misses Q2 Earnings Estimates",
-    "published": 1713994506,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial Inc. (RJF) Fiscal Q2 Earnings: Aligns with EPS Projections, Reports ...",
-    "published": 1713994488,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Reports Record Client Assets",
-    "published": 1713992040,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial Reports Fiscal Second Quarter of 2024 Results",
-    "published": 1713989520,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial (RJF) Receives a Hold from JMP Securities",
-    "published": 1713959760,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "RJF Stock Earnings: Raymond James Finl Meets EPS, Misses Revenue for Q2 2024",
-    "published": 1713945480,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Q2 revenue rises as firm collects higher fees",
-    "published": 1713932340,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713931560,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James reports Q2 adjusted EPS $2.31, consensus $2.31",
-    "published": 1713928860,
-    "posting_price": 125.96370096,
-    "close_price": 126.2011795,
-    "percent_change": 0.18852934
-  },
-  {
-    "title": "Raymond James Financial Q2 2024 Earnings Preview",
-    "published": 1713847080,
-    "posting_price": 124.18259783,
-    "close_price": 125.80538177,
-    "percent_change": 1.30677242
-  },
-  {
-    "title": "What's in Store for Raymond James (RJF) in Q2 Earnings?",
-    "published": 1713786360,
-    "posting_price": 123.13372749,
-    "close_price": 124.16281128,
-    "percent_change": 0.83574485
-  },
-  {
-    "title": "Raymond James\u2019 Next CEO on Culture, Leadership, and M&A",
-    "published": 1713543720,
-    "posting_price": 121.29324655,
-    "close_price": 122.30253601,
-    "percent_change": 0.83210689
-  },
-  {
-    "title": "Wall Street's Insights Into Key Metrics Ahead of Raymond James Financial (RJF) Q2 Earnings",
-    "published": 1713532524,
-    "posting_price": 121.29324655,
-    "close_price": 122.30253601,
-    "percent_change": 0.83210689
-  },
-  {
-    "title": "June 21st Options Now Available For Raymond James Financial (RJF)",
-    "published": 1713433500,
-    "posting_price": 121.1151398,
-    "close_price": 120.67975616,
-    "percent_change": -0.35947912
-  },
-  {
-    "title": "Raymond James hires Tim Thein as senior industrial machinery analyst",
-    "published": 1713416840,
-    "posting_price": 121.1151398,
-    "close_price": 120.67975616,
-    "percent_change": -0.35947912
-  },
-  {
-    "title": "Raymond James Financial : to report second quarter fiscal year 2024 results",
-    "published": 1713379986,
-    "posting_price": 122.14422734,
-    "close_price": 120.65997314,
-    "percent_change": -1.21516525
-  },
-  {
-    "title": "Raymond James Financial, Inc. (RJF) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713362475,
-    "posting_price": 122.14422734,
-    "close_price": 120.65997314,
-    "percent_change": -1.21516525
-  },
-  {
-    "title": "Raymond James Financial (RJF) Price Target Increased by 10.40% to 136.48",
-    "published": 1713359917,
-    "posting_price": 122.14422734,
-    "close_price": 120.65997314,
-    "percent_change": -1.21516525
-  },
-  {
-    "title": "(RJF) - Analyzing Raymond James Finl's Short Interest",
-    "published": 1713354660,
-    "posting_price": 122.14422734,
-    "close_price": 120.65997314,
-    "percent_change": -1.21516525
+    "title": "Raymond James Financial : to host annual Analyst & Investor Day",
+    "published": 1715876416,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 127.0,
+      "2024-05-16T14:30:00+00:00": 126.0999984741211,
+      "2024-05-16T15:30:00+00:00": 126.44999694824219,
+      "2024-05-16T16:30:00+00:00": 126.37000274658203,
+      "2024-05-16T17:30:00+00:00": 125.86000061035156,
+      "2024-05-16T18:30:00+00:00": 125.87000274658203,
+      "2024-05-16T19:30:00+00:00": 126.05500030517578
+    },
+    "sentiment": 0.9079816341400146
   }
 ]

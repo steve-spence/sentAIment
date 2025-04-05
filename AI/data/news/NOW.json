@@ -1,1059 +1,652 @@
 [
   {
-    "title": "ServiceNow stock downgraded by Guggenheim over valuation",
-    "published": 1713210817,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
+    "title": "ServiceNow delivers faster, more efficient operations and better employee experiences for the manufacturing industry with AI-powered purpose-built solutions",
+    "published": 1715099400,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.8191713094711304
   },
   {
-    "title": "Guggenheim Downgrades ServiceNow (NOW)",
-    "published": 1713210776,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
+    "title": "Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences With Generative AI-powered Industry Solutions",
+    "published": 1715099400,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.8889034986495972
   },
   {
-    "title": "ServiceNow cut to Neutral at Guggenheim",
-    "published": 1713166380,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
+    "title": "ServiceNow and Genesys announce strategic partnership to elevate customer and employee experiences",
+    "published": 1715099400,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.9290770888328552
   },
   {
-    "title": "Oppenheimer sees potential Salesforce acquisition of Informatica as strategic",
-    "published": 1713159840,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
+    "title": "ServiceNow Enhances Creator Workflows to Scale Digital Transformation Across the Enterprise",
+    "published": 1715099400,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.7169549465179443
   },
   {
-    "title": "ServiceNow just downgraded at Guggenheim, here's why",
-    "published": 1713154620,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
+    "title": "ServiceNow spotlights GenAI at its analyst day, kicks off Knowledge 2024",
+    "published": 1715082600,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.9110540151596069
   },
   {
-    "title": "Analysts Offer Insights on Technology Companies: AppLovin (APP), Braze (BRZE) and ServiceNow (NOW)",
-    "published": 1713153660,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
-  },
-  {
-    "title": "ServiceNow (NOW) Gets a Buy from Wells Fargo",
-    "published": 1713083940,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
-  },
-  {
-    "title": "ServiceNow Stock (NYSE:NOW): Analysts Upbeat on Solid Business Momentum",
-    "published": 1713061200,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
-  },
-  {
-    "title": "ServiceNow: One Of Our Top Picks For The Coming Decade",
-    "published": 1712993576,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
-  },
-  {
-    "title": "AIQ: Riding The AI Growth Wave",
-    "published": 1712968473,
-    "posting_price": 769.0,
-    "close_price": 735.80999756,
-    "percent_change": -4.31599512
-  },
-  {
-    "title": "Wall Street Analysts Think ServiceNow (NOW) Is a Good Investment: Is It?",
-    "published": 1712928610,
-    "posting_price": 762.20001221,
-    "close_price": 768.71002197,
-    "percent_change": 0.8541078
-  },
-  {
-    "title": "7 Must-Buy Stocks Whenever the Market Falters",
-    "published": 1712923679,
-    "posting_price": 762.20001221,
-    "close_price": 768.71002197,
-    "percent_change": 0.8541078
-  },
-  {
-    "title": "JPMorgan software analyst to hold an analyst/industry conference call",
-    "published": 1712915700,
-    "posting_price": 762.20001221,
-    "close_price": 768.71002197,
-    "percent_change": 0.8541078
-  },
-  {
-    "title": "Amazon Is Positioned as the Foundation for Retail and Technology Infrastructure",
-    "published": 1712908860,
-    "posting_price": 762.20001221,
-    "close_price": 768.71002197,
-    "percent_change": 0.8541078
-  },
-  {
-    "title": "AI Stock ServiceNow Tests Key Level As Earnings Loom",
-    "published": 1712871428,
-    "posting_price": 770.0,
-    "close_price": 771.34002686,
-    "percent_change": 0.17402946
-  },
-  {
-    "title": "If You Can Only Buy One Growth Stock in April, It Better Be One of These 3 Names",
-    "published": 1712861842,
-    "posting_price": 770.0,
-    "close_price": 771.34002686,
-    "percent_change": 0.17402946
-  },
-  {
-    "title": "ServiceNow Unusual Options Activity",
-    "published": 1712828100,
-    "posting_price": 770.0,
-    "close_price": 771.34002686,
-    "percent_change": 0.17402946
-  },
-  {
-    "title": "When You Look Back in 5 Years, You'll Wish You'd Bought These 2 Artificial Intelligence (AI) Stocks",
-    "published": 1712826900,
-    "posting_price": 770.0,
-    "close_price": 771.34002686,
-    "percent_change": 0.17402946
-  },
-  {
-    "title": "ServiceNow (NOW) Receives a Rating Update from a Top Analyst",
-    "published": 1712817960,
-    "posting_price": 770.0,
-    "close_price": 771.34002686,
-    "percent_change": 0.17402946
-  },
-  {
-    "title": "Why ServiceNow (NOW) Dipped More Than Broader Market Today",
-    "published": 1712785519,
-    "posting_price": 769.0,
-    "close_price": 769.19000244,
-    "percent_change": 0.02470773
-  },
-  {
-    "title": "Investors Heavily Search ServiceNow, Inc. (NOW): Here is What You Need to Know",
-    "published": 1712754017,
-    "posting_price": 769.0,
-    "close_price": 769.19000244,
-    "percent_change": 0.02470773
-  },
-  {
-    "title": "Global Stock leaders for 2030 in Enabling Tech - UBS",
-    "published": 1712753340,
-    "posting_price": 769.0,
-    "close_price": 769.19000244,
-    "percent_change": 0.02470773
-  },
-  {
-    "title": "ServiceNow Research Shows Changing Consumer Brand Loyalty in Canada, Reveals Potential for AI-Powered Customer Service",
-    "published": 1712748660,
-    "posting_price": 769.0,
-    "close_price": 769.19000244,
-    "percent_change": 0.02470773
-  },
-  {
-    "title": "ServiceNow price target raised by $15 at Jefferies, here's why",
-    "published": 1712726340,
-    "posting_price": 769.0,
-    "close_price": 769.19000244,
-    "percent_change": 0.02470773
-  },
-  {
-    "title": "A Closer Look at 22 Analyst Recommendations For ServiceNow",
-    "published": 1712718300,
-    "posting_price": 769.0,
-    "close_price": 769.19000244,
-    "percent_change": 0.02470773
-  },
-  {
-    "title": "3 AI Computing Stocks to Buy for Massive Return Potential",
-    "published": 1712664000,
-    "posting_price": 793.27001953,
-    "close_price": 782.2199707,
-    "percent_change": -1.39297447
-  },
-  {
-    "title": "Automation Software Stocks Q4 Earnings: Pegasystems (NASDAQ:PEGA) Best of the Bunch",
-    "published": 1712657978,
-    "posting_price": 793.27001953,
-    "close_price": 782.2199707,
-    "percent_change": -1.39297447
-  },
-  {
-    "title": "ServiceNow\u2019s AI Advancements Poised for Revenue Surge: A Buy Rating Insight",
-    "published": 1712651760,
-    "posting_price": 793.27001953,
-    "close_price": 782.2199707,
-    "percent_change": -1.39297447
-  },
-  {
-    "title": "New Cloud Computing (SaaS) Portfolio Down Slightly Last Week",
-    "published": 1712628540,
-    "posting_price": 793.27001953,
-    "close_price": 782.2199707,
-    "percent_change": -1.39297447
-  },
-  {
-    "title": "Cabot Wealth\u2019s Top Ten list of stocks",
-    "published": 1712627460,
-    "posting_price": 793.27001953,
-    "close_price": 782.2199707,
-    "percent_change": -1.39297447
-  },
-  {
-    "title": "Cabot\u2019s Top Ten list of stocks",
-    "published": 1712625000,
-    "posting_price": 793.27001953,
-    "close_price": 782.2199707,
-    "percent_change": -1.39297447
-  },
-  {
-    "title": "Dow Jones Leader Salesforce, Chip Giants Arm, Broadcom Eye New Buy Points",
-    "published": 1712597015,
-    "posting_price": 783.34002686,
-    "close_price": 785.59997559,
-    "percent_change": 0.28850163
-  },
-  {
-    "title": "A Closer Look at ServiceNow's Options Market Dynamics",
-    "published": 1712571480,
-    "posting_price": 783.34002686,
-    "close_price": 785.59997559,
-    "percent_change": 0.28850163
-  },
-  {
-    "title": "A Small Crack Emerges: Three Swing Setups For The Week",
-    "published": 1712492400,
-    "posting_price": 783.34002686,
-    "close_price": 785.59997559,
-    "percent_change": 0.28850163
-  },
-  {
-    "title": "Microsoft And AI Play Lead Five Stocks Near Buy Points",
-    "published": 1712417236,
-    "posting_price": 783.34002686,
-    "close_price": 785.59997559,
-    "percent_change": 0.28850163
-  },
-  {
-    "title": "Potential Stock Splits in 2024: 2 Magnificent Growth Stocks Up 575% and 780% in 7 Years to Buy Now and Hold Long-Term",
-    "published": 1712393700,
-    "posting_price": 783.34002686,
-    "close_price": 785.59997559,
-    "percent_change": 0.28850163
-  },
-  {
-    "title": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy Now -- No, Not Nvidia",
-    "published": 1712309100,
-    "posting_price": 758.42999268,
-    "close_price": 783.5,
-    "percent_change": 3.3055137
-  },
-  {
-    "title": "IBM Investors Are Paying a High Opportunity Cost",
-    "published": 1712304060,
-    "posting_price": 758.42999268,
-    "close_price": 783.5,
-    "percent_change": 3.3055137
-  },
-  {
-    "title": "ServiceNow Inc. stock outperforms competitors on strong trading day",
-    "published": 1712288700,
-    "posting_price": 758.42999268,
-    "close_price": 783.5,
-    "percent_change": 3.3055137
-  },
-  {
-    "title": "Looking Into ServiceNow's Recent Short Interest",
-    "published": 1712280960,
-    "posting_price": 758.42999268,
-    "close_price": 783.5,
-    "percent_change": 3.3055137
-  },
-  {
-    "title": "ServiceNow (NOW) Stock Moves -0.21%: What You Should Know",
-    "published": 1712267118,
-    "posting_price": 768.40002441,
-    "close_price": 757.54998779,
-    "percent_change": -1.41202971
+    "title": "ServiceNow taps power of GenAI to unlock future growth",
+    "published": 1715077860,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.7086238861083984
   },
   {
     "title": "Decoding ServiceNow's Options Activity: What's the Big Picture?",
-    "published": 1712222460,
-    "posting_price": 768.40002441,
-    "close_price": 757.54998779,
-    "percent_change": -1.41202971
-  },
-  {
-    "title": "5 Best AI Stocks to Buy in April 2024, According to Analysts",
-    "published": 1712208360,
-    "posting_price": 768.40002441,
-    "close_price": 757.54998779,
-    "percent_change": -1.41202971
-  },
-  {
-    "title": "ServiceNow (NOW) Exceeds Market Returns: Some Facts to Consider",
-    "published": 1712181020,
-    "posting_price": 752.5,
-    "close_price": 759.15997314,
-    "percent_change": 0.88504626
-  },
-  {
-    "title": "ServiceNow to Announce First Quarter 2024 Financial Results on April 24",
-    "published": 1712156400,
-    "posting_price": 752.5,
-    "close_price": 759.15997314,
-    "percent_change": 0.88504626
-  },
-  {
-    "title": "Atlassian: Long-Term Prospects Are Alive, But Wait For A Better Entry Point",
-    "published": 1712120232,
-    "posting_price": 752.5,
-    "close_price": 759.15997314,
-    "percent_change": 0.88504626
-  },
-  {
-    "title": "Automation Software Stocks Q4 Results: Benchmarking ServiceNow (NYSE:NOW)",
-    "published": 1712046681,
-    "posting_price": 755.09002686,
-    "close_price": 757.0,
-    "percent_change": 0.25294641
-  },
-  {
-    "title": "ServiceNow (NOW) is an Incredible Growth Stock: 3 Reasons Why",
-    "published": 1714495509,
-    "posting_price": 716.65002441,
-    "close_price": 693.33001709,
-    "percent_change": -3.25403007
-  },
-  {
-    "title": "Here's Why ServiceNow (NOW) is a Strong Growth Stock",
-    "published": 1714484710,
-    "posting_price": 716.65002441,
-    "close_price": 693.33001709,
-    "percent_change": -3.25403007
-  },
-  {
-    "title": "Wall Street Bulls Look Optimistic About ServiceNow (NOW): Should You Buy?",
-    "published": 1714483810,
-    "posting_price": 716.65002441,
-    "close_price": 693.33001709,
-    "percent_change": -3.25403007
-  },
-  {
-    "title": "How Is The Market Feeling About ServiceNow?",
-    "published": 1714467000,
-    "posting_price": 716.65002441,
-    "close_price": 693.33001709,
-    "percent_change": -3.25403007
-  },
-  {
-    "title": "ServiceNow management to meet with KeyBanc",
-    "published": 1714443660,
-    "posting_price": 716.65002441,
-    "close_price": 693.33001709,
-    "percent_change": -3.25403007
-  },
-  {
-    "title": "Forget Nvidia: 2 Artificial Intelligence (AI) Stocks to Buy Instead",
-    "published": 1714437000,
-    "posting_price": 716.65002441,
-    "close_price": 693.33001709,
-    "percent_change": -3.25403007
-  },
-  {
-    "title": "ServiceNow, Inc. (NOW) Is a Trending Stock: Facts to Know Before Betting on It",
-    "published": 1714395616,
-    "posting_price": 723.26000977,
-    "close_price": 721.15997314,
-    "percent_change": -0.29035708
-  },
-  {
-    "title": "April Recap: Cloud Computing (SaaS) Portfolio Down 6% In April, Up 2.5% This Week",
-    "published": 1714392000,
-    "posting_price": 723.26000977,
-    "close_price": 721.15997314,
-    "percent_change": -0.29035708
-  },
-  {
-    "title": "NowVertical Group Announces Delay in Annual Filings",
-    "published": 1714375980,
-    "posting_price": 723.26000977,
-    "close_price": 721.15997314,
-    "percent_change": -0.29035708
-  },
-  {
-    "title": "NowVertical Group Faces Trading Suspension Amid Filing Delay",
-    "published": 1714374540,
-    "posting_price": 723.26000977,
-    "close_price": 721.15997314,
-    "percent_change": -0.29035708
-  },
-  {
-    "title": "All In on Microsoft Stock: How AI Turned MSFT Into the Hottest Tech Play of 2024",
-    "published": 1714201620,
-    "posting_price": 723.26000977,
-    "close_price": 721.15997314,
-    "percent_change": -0.29035708
-  },
-  {
-    "title": "ServiceNow, Inc. (NYSE:NOW) Q1 2024 Earnings Call Transcript",
-    "published": 1714135255,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "Q1 Updates For Visa, Chipotle, And ServiceNow",
-    "published": 1714129140,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "ServiceNow First Quarter 2024 Earnings: EPS Beats Expectations",
-    "published": 1714127372,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "A Once-in-a-Decade Investment Opportunity: 2 Artificial Intelligence (AI) Stocks to Buy Now and Hold Long Term",
-    "published": 1714122000,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "11 Blue Chips For A 4% Yielding Sleep Well At Night Dividend Growth Portfolio",
-    "published": 1714114800,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "Barclays Remains a Buy on ServiceNow (NOW)",
-    "published": 1714103520,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "ServiceNow\u2019s Strong Financial and Operational Performance Justifies Buy Rating",
-    "published": 1714095060,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "ServiceNow\u2019s Solid Financials and Growth Prospects Secure Buy Rating from Gregg Moskowitz",
-    "published": 1714094820,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "Buy Rating Affirmed: ServiceNow\u2019s Strong Performance and Promising GenAI Prospects",
-    "published": 1714093620,
-    "posting_price": 723.76000977,
-    "close_price": 723.54998779,
-    "percent_change": -0.02901818
-  },
-  {
-    "title": "Why ServiceNow Stock Was Sliding Today",
-    "published": 1714071900,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow (NOW) Q1 Earnings Beat Estimates, Revenues Up Y/Y",
-    "published": 1714062300,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Demand for Gen AI is incredibly strong: ServiceNow CFO",
-    "published": 1714060336,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Why ServiceNow (NOW) Shares Are Falling Today",
-    "published": 1714059652,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Q1 2024 ServiceNow Inc Earnings Call",
-    "published": 1714051142,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "3 Stocks That Will Eclipse the Rest of the Market This Year",
-    "published": 1714041000,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "KNOWLEDGE24 | Aavenir to Showcase Generative AI Capabilities for Contract Management on ServiceNow",
-    "published": 1714039920,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Buy Rating Affirmed for ServiceNow Following Strong Q1 Performance and GenAI Adoption",
-    "published": 1714032360,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Earnings Spook The Market But Support Several Models",
-    "published": 1714030800,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow Inc (NOW) (Q1 2024) Earnings Call Transcript Highlights: Stellar Growth and ...",
-    "published": 1714029833,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow slips even as Wall Street pounds the table after Q1 results",
-    "published": 1714029180,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "New Buy Rating for ServiceNow (NOW), the Technology Giant",
-    "published": 1714028220,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow price target lowered by $50 at KeyBanc, here's why",
-    "published": 1714026540,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow price target lowered by $20 at BMO Capital, here's why",
-    "published": 1714026480,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow\u2019s Growth Trajectory: Buy Rating Affirmed Amid Strong Positioning and Upside Potential",
-    "published": 1714026420,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow price target lowered by $45 at UBS, here's why",
-    "published": 1714026360,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Truist Financial Sticks to Their Hold Rating for ServiceNow (NOW)",
-    "published": 1714025520,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow price target raised by $16 at Morgan Stanley, here's why",
-    "published": 1714024680,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow\u2019s Strong Financials and Growth Prospects Merit a Buy Rating",
-    "published": 1714024560,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow price target raised by $37 at Bernstein, here's why",
-    "published": 1714023780,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow Inc. stock underperforms Thursday when compared to competitors",
-    "published": 1714016400,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Buy Rating Affirmed: ServiceNow\u2019s Strong Financial Performance and Growth Prospects",
-    "published": 1714015560,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow\u2019s Solid Financials and GenAI Prospects Secure Buy Rating",
-    "published": 1714014960,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: International Business Machines (IBM) and ServiceNow (NOW)",
-    "published": 1714014060,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: ServiceNow (NOW) and Lam Research (LRCX)",
-    "published": 1714013520,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Market Briefing For Thursday, April 25",
-    "published": 1714012680,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "ServiceNow (NOW) Q1 2024 Earnings Call Transcript",
-    "published": 1714005913,
-    "posting_price": 714.89001465,
-    "close_price": 716.25,
-    "percent_change": 0.190237
-  },
-  {
-    "title": "Compared to Estimates, ServiceNow (NOW) Q1 Earnings: A Look at Key Metrics",
-    "published": 1713996004,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow Projects Sales That Fall Short of Expectations",
-    "published": 1713995716,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow Inc (NOW) Q1 2024 Earnings: Surpasses Analyst Revenue Forecasts",
-    "published": 1713994337,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow earnings, Whirlpool job cuts: After-Hours Movers",
-    "published": 1713994194,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow (NOW) Beats Q1 Earnings and Revenue Estimates",
-    "published": 1713993608,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow\u00a0Earnings Beat, Guidance Light. Software Stock Falls",
-    "published": 1713992826,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow Earnings Beat Estimates as AI Stays in Focus, But the Stock Is Sliding",
-    "published": 1713990240,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow (NYSE:NOW) Posts Q1 Sales In Line With Estimates But Contract Wins Slow Down",
-    "published": 1713990014,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow forecasts weak quarterly revenue as businesses trim spending",
-    "published": 1713989916,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow profit more than doubles on boost from AI-enabled software",
-    "published": 1713989580,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow Reports First Quarter 2024 Financial Results",
-    "published": 1713989400,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow, Inc. (NOW) Q1 2024 Earnings Call Transcript",
-    "published": 1713983049,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow, Inc. 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713978996,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow: Q1 Earnings Snapshot",
-    "published": 1713975613,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "5 Intriguing Earnings Charts Including a Gold Miner",
-    "published": 1713973980,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "IBM CEO Arvind Krishna Teams Up With Nvidia 'To Accelerate Clients' AI Journeys' Amid $1B In Bookings",
-    "published": 1713951360,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "NOW Stock Earnings: ServiceNow Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713945480,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow tumbles as FX hits guidance, overshadows Q1 results (update)",
-    "published": 1713943680,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "NOW Earnings: ServiceNow Slides after Reporting Financial Results",
-    "published": 1713933720,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "Strong Q1 Performance and Large Deal Growth Affirm ServiceNow\u2019s Buy Rating",
-    "published": 1713932760,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow falls 6% to $704 following Q1 report, subscription sales outlook",
-    "published": 1713929580,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "12 Information Technology Stocks Moving In Wednesday's After-Market Session",
-    "published": 1713929580,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "ServiceNow sees 2024 subscription revenue $10.56B-$10.575B, consensus $10.59B",
-    "published": 1713929520,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "Meet 3 New ODBC Drivers for Microsoft Access, Airtable, and ServiceNow",
-    "published": 1713927675,
-    "posting_price": 753.9699707,
-    "close_price": 746.28997803,
-    "percent_change": -1.01860723
-  },
-  {
-    "title": "Meta, IBM, AT&T, Boeing, Ford report earnings: What to Watch",
-    "published": 1713908941,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "NowVertical Group Announces Amendment to Acrotrend Obligations",
-    "published": 1713876120,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "NowVertical Group Optimizes Acrotrend Acquisition Deal",
-    "published": 1713874080,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "ServiceNow Q1 earnings preview: Can the software firm maintain its momentum?",
-    "published": 1713871380,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "ServiceNow (NOW) Q1 Earnings Report Preview: What To Look For",
-    "published": 1713855652,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "Analysts Are Bullish on These Technology Stocks: ServiceNow (NOW), Wolfspeed (WOLF)",
-    "published": 1713853260,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "ServiceNow initiated with bullish view at China Renaissance",
-    "published": 1713852840,
-    "posting_price": 727.20001221,
-    "close_price": 740.95001221,
-    "percent_change": 1.89081405
-  },
-  {
-    "title": "What to Do With ServiceNow (NOW) Stock Ahead of Q1 Earnings?",
-    "published": 1713802620,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "The AI Boom: From FOMO to Focused",
-    "published": 1713789300,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: ServiceNow (NOW) and Model N (MODN)",
-    "published": 1713785460,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "This Is My Pick for the Best Artificial Intelligence (AI) Stock You've Never Heard Of",
-    "published": 1713782700,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "ServiceNow Q1 Earnings Preview: Solid Fundamentals, But Stock Is Likely Capped",
-    "published": 1713769200,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "The SaaS Surge: 3 Unstoppable Stocks to Propel Your Portfolio to New Heights",
-    "published": 1713754980,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "ServiceNow\u2019s Robust Growth Trajectory and Buy Recommendation Amidst Market Challenges",
-    "published": 1713696360,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "ServiceNow Poised for Growth: Buy Rating Backed by Strong Financials and Market Potential",
-    "published": 1713674760,
-    "posting_price": 723.25,
-    "close_price": 721.95001221,
-    "percent_change": -0.17974252
-  },
-  {
-    "title": "Here\u2019s Why Polen Focus Growth Strategy Trimmed ServiceNow (NOW)",
-    "published": 1713536674,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "Countdown to ServiceNow (NOW) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS",
-    "published": 1713532525,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "A Very Ugly Week For The Nasdaq, A Terrible Week For Semiconductors",
-    "published": 1713530280,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "Here's what's brewing for Magnificent 7 stocks reporting next week",
-    "published": 1713526320,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "Automation Software Stocks Q4 Highlights: UiPath (NYSE:PATH)",
-    "published": 1713515860,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "Strong Buy Alert: 7 No-Brainer Stocks to Scoop Up Now",
-    "published": 1713508320,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "This Is What Whales Are Betting On ServiceNow",
-    "published": 1713498480,
-    "posting_price": 725.0,
-    "close_price": 713.90997314,
-    "percent_change": -1.52965888
-  },
-  {
-    "title": "7 Growth Stocks to Buy Now: Q2 Edition",
-    "published": 1713454807,
-    "posting_price": 736.90002441,
-    "close_price": 731.35998535,
-    "percent_change": -0.75180335
-  },
-  {
-    "title": "Q1 Software Earnings Preview: AI And Vendor Consolidation Will Be Key Themes To Watch",
-    "published": 1713437545,
-    "posting_price": 736.90002441,
-    "close_price": 731.35998535,
-    "percent_change": -0.75180335
-  },
-  {
-    "title": "ServiceNow price target raised by $10 at Citi, here's why",
-    "published": 1713416220,
-    "posting_price": 736.90002441,
-    "close_price": 731.35998535,
-    "percent_change": -0.75180335
-  },
-  {
-    "title": "Analyst Upgrades ServiceNow Target to $906 on Strong Demand and Growth Prospects",
-    "published": 1713416220,
-    "posting_price": 736.90002441,
-    "close_price": 731.35998535,
-    "percent_change": -0.75180335
-  },
-  {
-    "title": "Buy Rating Affirmed for ServiceNow on Strong Q1 Deal Activity and Positive Market Position",
-    "published": 1713416160,
-    "posting_price": 736.90002441,
-    "close_price": 731.35998535,
-    "percent_change": -0.75180335
-  },
-  {
-    "title": "ServiceNow (NOW) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1713362474,
-    "posting_price": 746.7800293,
-    "close_price": 736.45001221,
-    "percent_change": -1.38327442
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: International Business Machines (IBM), ServiceNow (NOW) and CommVault Systems (CVLT)",
-    "published": 1713323460,
-    "posting_price": 746.7800293,
-    "close_price": 736.45001221,
-    "percent_change": -1.38327442
-  },
-  {
-    "title": "ServiceNow (NOW) Outperforms Broader Market: What You Need to Know",
-    "published": 1713304217,
-    "posting_price": 738.0,
-    "close_price": 744.7800293,
-    "percent_change": 0.91870316
-  },
-  {
-    "title": "The 3 Best Stocks to Buy With Your Tax Refund in 2024",
-    "published": 1713301406,
-    "posting_price": 738.0,
-    "close_price": 744.7800293,
-    "percent_change": 0.91870316
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Mitek Systems (MITK) and ServiceNow (NOW)",
-    "published": 1713244860,
-    "posting_price": 738.0,
-    "close_price": 744.7800293,
-    "percent_change": 0.91870316
-  },
-  {
-    "title": "ServiceNow price target raised by $25 at Wells Fargo, here's why",
-    "published": 1713244560,
-    "posting_price": 738.0,
-    "close_price": 744.7800293,
-    "percent_change": 0.91870316
+    "published": 1715073420,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.9084609746932983
+  },
+  {
+    "title": "NowVertical Group Showcases Revenue Growth and Strategic Gains",
+    "published": 1715071080,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.8848919868469238
+  },
+  {
+    "title": "ServiceNow (NOW) Receives a Hold from Truist Financial",
+    "published": 1715066220,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.923460066318512
+  },
+  {
+    "title": "ServiceNow (NOW): New Buy Recommendation for This Technology Giant",
+    "published": 1715065680,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.5501574277877808
+  },
+  {
+    "title": "ServiceNow\u2019s Growth Trajectory: AI Innovations and Subscription Revenue Targets Fuel Buy Rating",
+    "published": 1715065140,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.8699227571487427
+  },
+  {
+    "title": "Analysts Are Bullish on These Technology Stocks: Infineon Technologies AG (IFNNF), ServiceNow (NOW)",
+    "published": 1715064780,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.8314217329025269
+  },
+  {
+    "title": "ServiceNow\u2019s Growth Trajectory Bolstered by AI Innovation and Strategic Market Expansion",
+    "published": 1715064180,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.9088498950004578
+  },
+  {
+    "title": "ServiceNow price target raised by $15 at Baird, here's why",
+    "published": 1715060580,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.7913853526115417
+  },
+  {
+    "title": "Analyst Scoreboard: 17 Ratings For ServiceNow",
+    "published": 1715054760,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.9020925164222717
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds ServiceNow",
+    "published": 1715050260,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.9413092136383057
+  },
+  {
+    "title": "ServiceNow Says AI Product Will \u2018Take Some Time\u2019 to Boost Sales",
+    "published": 1715040661,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 730.0,
+      "2024-05-07T14:30:00+00:00": 710.3200073242188,
+      "2024-05-07T15:30:00+00:00": 711.760009765625,
+      "2024-05-07T16:30:00+00:00": 715.3599853515625,
+      "2024-05-07T17:30:00+00:00": 711.9199829101562,
+      "2024-05-07T18:30:00+00:00": 709.530029296875,
+      "2024-05-07T19:30:00+00:00": 710.3400268554688
+    },
+    "sentiment": 0.8986276388168335
+  },
+  {
+    "title": "ServiceNow\u2019s Growth Trajectory and GenAI Innovation Drive Buy Rating",
+    "published": 1714989360,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 719.989990234375,
+      "2024-05-06T14:30:00+00:00": 722.260009765625,
+      "2024-05-06T15:30:00+00:00": 724.1500244140625,
+      "2024-05-06T16:30:00+00:00": 722.8400268554688,
+      "2024-05-06T17:30:00+00:00": 724.3400268554688,
+      "2024-05-06T18:30:00+00:00": 724.8300170898438,
+      "2024-05-06T19:30:00+00:00": 722.3699951171875
+    },
+    "sentiment": 0.6921586394309998
+  },
+  {
+    "title": "ServiceNow files for mixed shelf offering",
+    "published": 1714969320,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 719.989990234375,
+      "2024-05-06T14:30:00+00:00": 722.260009765625,
+      "2024-05-06T15:30:00+00:00": 724.1500244140625,
+      "2024-05-06T16:30:00+00:00": 722.8400268554688,
+      "2024-05-06T17:30:00+00:00": 724.3400268554688,
+      "2024-05-06T18:30:00+00:00": 724.8300170898438,
+      "2024-05-06T19:30:00+00:00": 722.3699951171875
+    },
+    "sentiment": 0.7815174460411072
+  },
+  {
+    "title": "A Closer Look at ServiceNow's Options Market Dynamics",
+    "published": 1714957620,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 719.989990234375,
+      "2024-05-06T14:30:00+00:00": 722.260009765625,
+      "2024-05-06T15:30:00+00:00": 724.1500244140625,
+      "2024-05-06T16:30:00+00:00": 722.8400268554688,
+      "2024-05-06T17:30:00+00:00": 724.3400268554688,
+      "2024-05-06T18:30:00+00:00": 724.8300170898438,
+      "2024-05-06T19:30:00+00:00": 722.3699951171875
+    },
+    "sentiment": 0.9204548001289368
+  },
+  {
+    "title": "INTU, NOW, SNPS: Which Strong Buy Tech Stock Has the Most Upside?",
+    "published": 1714703170,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 709.97998046875,
+      "2024-05-03T14:30:00+00:00": 714.760009765625,
+      "2024-05-03T15:30:00+00:00": 714.030029296875,
+      "2024-05-03T16:30:00+00:00": 716.1300048828125,
+      "2024-05-03T17:30:00+00:00": 713.9249877929688,
+      "2024-05-03T18:30:00+00:00": 717.0700073242188,
+      "2024-05-03T19:30:00+00:00": 716.3150024414062
+    },
+    "sentiment": 0.9043707251548767
+  },
+  {
+    "title": "Notable Wednesday Option Activity: NOW, DE, ALB",
+    "published": 1715775540,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 730.0,
+      "2024-05-15T14:30:00+00:00": 737.4199829101562,
+      "2024-05-15T15:30:00+00:00": 747.462890625,
+      "2024-05-15T16:30:00+00:00": 751.3400268554688,
+      "2024-05-15T17:30:00+00:00": 756.219970703125,
+      "2024-05-15T18:30:00+00:00": 754.3699951171875,
+      "2024-05-15T19:30:00+00:00": 758.3099975585938
+    },
+    "sentiment": 0.906175434589386
+  },
+  {
+    "title": "Looking At ServiceNow's Recent Unusual Options Activity",
+    "published": 1715766660,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 730.0,
+      "2024-05-15T14:30:00+00:00": 737.4199829101562,
+      "2024-05-15T15:30:00+00:00": 747.462890625,
+      "2024-05-15T16:30:00+00:00": 751.3400268554688,
+      "2024-05-15T17:30:00+00:00": 756.219970703125,
+      "2024-05-15T18:30:00+00:00": 754.3699951171875,
+      "2024-05-15T19:30:00+00:00": 758.3099975585938
+    },
+    "sentiment": 0.9117674827575684
+  },
+  {
+    "title": "ServiceNow Stock (NYSE:NOW): AI Innovations Drive Customer and Revenue Growth",
+    "published": 1715738160,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 730.0,
+      "2024-05-15T14:30:00+00:00": 737.4199829101562,
+      "2024-05-15T15:30:00+00:00": 747.462890625,
+      "2024-05-15T16:30:00+00:00": 751.3400268554688,
+      "2024-05-15T17:30:00+00:00": 756.219970703125,
+      "2024-05-15T18:30:00+00:00": 754.3699951171875,
+      "2024-05-15T19:30:00+00:00": 758.3099975585938
+    },
+    "sentiment": 0.7776942253112793
+  },
+  {
+    "title": "NowVertical Appoints New Independent Director",
+    "published": 1715670480,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 730.0,
+      "2024-05-14T14:30:00+00:00": 729.3599853515625,
+      "2024-05-14T15:30:00+00:00": 723.8400268554688,
+      "2024-05-14T16:30:00+00:00": 718.85498046875,
+      "2024-05-14T17:30:00+00:00": 721.169921875,
+      "2024-05-14T18:30:00+00:00": 722.7965087890625,
+      "2024-05-14T19:30:00+00:00": 724.0700073242188
+    },
+    "sentiment": 0.8965808749198914
+  },
+  {
+    "title": "Understanding Analyst Recommendations: Interpreting Report Details",
+    "published": 1715502960,
+    "day_prices": {},
+    "sentiment": 0.9462895393371582
+  },
+  {
+    "title": "Insider Selling at ServiceNow Inc (NOW): Chief Commercial Officer Paul Smith Sells Shares",
+    "published": 1715344920,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 725.0,
+      "2024-05-10T14:30:00+00:00": 728.3150024414062,
+      "2024-05-10T15:30:00+00:00": 729.2924194335938,
+      "2024-05-10T16:30:00+00:00": 729.9600219726562,
+      "2024-05-10T17:30:00+00:00": 729.83642578125,
+      "2024-05-10T18:30:00+00:00": 729.47998046875,
+      "2024-05-10T19:30:00+00:00": 730.2999877929688
+    },
+    "sentiment": 0.88893061876297
+  },
+  {
+    "title": "ServiceNow adds powerful new solutions to the Now Platform to transform the employee experience and simplify work across the enterprise",
+    "published": 1715320841,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 725.0,
+      "2024-05-10T14:30:00+00:00": 728.3150024414062,
+      "2024-05-10T15:30:00+00:00": 729.2924194335938,
+      "2024-05-10T16:30:00+00:00": 729.9600219726562,
+      "2024-05-10T17:30:00+00:00": 729.83642578125,
+      "2024-05-10T18:30:00+00:00": 729.47998046875,
+      "2024-05-10T19:30:00+00:00": 730.2999877929688
+    },
+    "sentiment": 0.7781490087509155
+  },
+  {
+    "title": "ServiceNow announces expansion of strategic relationship with Equinix to streamline operations of digital infrastructure",
+    "published": 1715320755,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 725.0,
+      "2024-05-10T14:30:00+00:00": 728.3150024414062,
+      "2024-05-10T15:30:00+00:00": 729.2924194335938,
+      "2024-05-10T16:30:00+00:00": 729.9600219726562,
+      "2024-05-10T17:30:00+00:00": 729.83642578125,
+      "2024-05-10T18:30:00+00:00": 729.47998046875,
+      "2024-05-10T19:30:00+00:00": 730.2999877929688
+    },
+    "sentiment": 0.9266683459281921
+  },
+  {
+    "title": "ServiceNow unveils new AI-powered capabilities to help improve employee experiences, supercharge talent development, and optimize in-person work",
+    "published": 1715272200,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 720.5800170898438,
+      "2024-05-09T14:30:00+00:00": 725.3599853515625,
+      "2024-05-09T15:30:00+00:00": 727.405029296875,
+      "2024-05-09T16:30:00+00:00": 725.5900268554688,
+      "2024-05-09T17:30:00+00:00": 724.135009765625,
+      "2024-05-09T18:30:00+00:00": 719.6699829101562,
+      "2024-05-09T19:30:00+00:00": 722.4849853515625
+    },
+    "sentiment": 0.8371613621711731
+  },
+  {
+    "title": "1 Wall Street Firm Thinks ServiceNow Stock Is Going to $885. Is It a Buy?",
+    "published": 1715249100,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 720.5800170898438,
+      "2024-05-09T14:30:00+00:00": 725.3599853515625,
+      "2024-05-09T15:30:00+00:00": 727.405029296875,
+      "2024-05-09T16:30:00+00:00": 725.5900268554688,
+      "2024-05-09T17:30:00+00:00": 724.135009765625,
+      "2024-05-09T18:30:00+00:00": 719.6699829101562,
+      "2024-05-09T19:30:00+00:00": 722.4849853515625
+    },
+    "sentiment": 0.9021354913711548
+  },
+  {
+    "title": "Decoding ServiceNow Inc (NOW): A Strategic SWOT Insight",
+    "published": 1715231009,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 720.5800170898438,
+      "2024-05-09T14:30:00+00:00": 725.3599853515625,
+      "2024-05-09T15:30:00+00:00": 727.405029296875,
+      "2024-05-09T16:30:00+00:00": 725.5900268554688,
+      "2024-05-09T17:30:00+00:00": 724.135009765625,
+      "2024-05-09T18:30:00+00:00": 719.6699829101562,
+      "2024-05-09T19:30:00+00:00": 722.4849853515625
+    },
+    "sentiment": 0.9344069957733154
+  },
+  {
+    "title": "ServiceNow expands strategic alliance with Microsoft",
+    "published": 1715167980,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 716.3499755859375,
+      "2024-05-08T14:30:00+00:00": 719.6099853515625,
+      "2024-05-08T15:30:00+00:00": 718.780029296875,
+      "2024-05-08T16:30:00+00:00": 720.22998046875,
+      "2024-05-08T17:30:00+00:00": 717.0050048828125,
+      "2024-05-08T18:30:00+00:00": 719.8150024414062,
+      "2024-05-08T19:30:00+00:00": 718.9299926757812
+    },
+    "sentiment": 0.9361415505409241
+  },
+  {
+    "title": "Buy Recommendation: ServiceNow\u2019s Strong Growth and Margin Expansion Outlook",
+    "published": 1715142480,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 716.3499755859375,
+      "2024-05-08T14:30:00+00:00": 719.6099853515625,
+      "2024-05-08T15:30:00+00:00": 718.780029296875,
+      "2024-05-08T16:30:00+00:00": 720.22998046875,
+      "2024-05-08T17:30:00+00:00": 717.0050048828125,
+      "2024-05-08T18:30:00+00:00": 719.8150024414062,
+      "2024-05-08T19:30:00+00:00": 718.9299926757812
+    },
+    "sentiment": 0.9399641752243042
+  },
+  {
+    "title": "NowVertical Group Announces First Quarter 2024 Earnings Release Date and Financial Webinar",
+    "published": 1716449400,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 781.6799926757812,
+      "2024-05-23T14:30:00+00:00": 774.530029296875,
+      "2024-05-23T15:30:00+00:00": 771.7100219726562,
+      "2024-05-23T16:30:00+00:00": 772.6199951171875,
+      "2024-05-23T17:30:00+00:00": 769.1300048828125,
+      "2024-05-23T18:30:00+00:00": 758.5,
+      "2024-05-23T19:30:00+00:00": 758.6799926757812
+    },
+    "sentiment": 0.9395757913589478
+  },
+  {
+    "title": "ServiceNow: Results Aren't Impressive Enough To Justify Valuation (Rating Downgrade)",
+    "published": 1716431705,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 781.6799926757812,
+      "2024-05-23T14:30:00+00:00": 774.530029296875,
+      "2024-05-23T15:30:00+00:00": 771.7100219726562,
+      "2024-05-23T16:30:00+00:00": 772.6199951171875,
+      "2024-05-23T17:30:00+00:00": 769.1300048828125,
+      "2024-05-23T18:30:00+00:00": 758.5,
+      "2024-05-23T19:30:00+00:00": 758.6799926757812
+    },
+    "sentiment": 0.8780790567398071
+  },
+  {
+    "title": "ServiceNow, Inc. (NOW) is Attracting Investor Attention: Here is What You Should Know",
+    "published": 1716382814,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 780.0,
+      "2024-05-22T14:30:00+00:00": 782.969970703125,
+      "2024-05-22T15:30:00+00:00": 781.02001953125,
+      "2024-05-22T16:30:00+00:00": 782.719970703125,
+      "2024-05-22T17:30:00+00:00": 778.0,
+      "2024-05-22T18:30:00+00:00": 772.47998046875,
+      "2024-05-22T19:30:00+00:00": 772.5700073242188
+    },
+    "sentiment": 0.9197198152542114
+  },
+  {
+    "title": "GS lists stocks mutual funds overweighted in Q1 in their hunt for AI exposure",
+    "published": 1716352560,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 780.0,
+      "2024-05-22T14:30:00+00:00": 782.969970703125,
+      "2024-05-22T15:30:00+00:00": 781.02001953125,
+      "2024-05-22T16:30:00+00:00": 782.719970703125,
+      "2024-05-22T17:30:00+00:00": 778.0,
+      "2024-05-22T18:30:00+00:00": 772.47998046875,
+      "2024-05-22T19:30:00+00:00": 772.5700073242188
+    },
+    "sentiment": 0.8021312952041626
+  },
+  {
+    "title": "Worldwide Takeover: 3 Stocks Poised for Global Domination",
+    "published": 1716289200,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 775.0,
+      "2024-05-21T14:30:00+00:00": 774.7449951171875,
+      "2024-05-21T15:30:00+00:00": 775.530029296875,
+      "2024-05-21T16:30:00+00:00": 775.2899780273438,
+      "2024-05-21T17:30:00+00:00": 774.5700073242188,
+      "2024-05-21T18:30:00+00:00": 774.7550048828125,
+      "2024-05-21T19:30:00+00:00": 775.989990234375
+    },
+    "sentiment": 0.8708142042160034
+  },
+  {
+    "title": "Better Cloud Stock: DocuSign vs. ServiceNow",
+    "published": 1716283980,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 775.0,
+      "2024-05-21T14:30:00+00:00": 774.7449951171875,
+      "2024-05-21T15:30:00+00:00": 775.530029296875,
+      "2024-05-21T16:30:00+00:00": 775.2899780273438,
+      "2024-05-21T17:30:00+00:00": 774.5700073242188,
+      "2024-05-21T18:30:00+00:00": 774.7550048828125,
+      "2024-05-21T19:30:00+00:00": 775.989990234375
+    },
+    "sentiment": 0.5118094682693481
+  },
+  {
+    "title": "GivePower and ServiceNow Partner Again to Address The Water Crises in Kenya's Mombasa and Makueni Counties",
+    "published": 1716210000,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 764.5549926757812,
+      "2024-05-20T14:30:00+00:00": 770.9400024414062,
+      "2024-05-20T15:30:00+00:00": 770.9500122070312,
+      "2024-05-20T16:30:00+00:00": 769.1900024414062,
+      "2024-05-20T17:30:00+00:00": 770.8400268554688,
+      "2024-05-20T18:30:00+00:00": 772.1599731445312,
+      "2024-05-20T19:30:00+00:00": 774.219970703125
+    },
+    "sentiment": 0.8674020767211914
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: Microsoft (MSFT), Sony Group (SONY) and ServiceNow (NOW)",
+    "published": 1716187260,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 764.5549926757812,
+      "2024-05-20T14:30:00+00:00": 770.9400024414062,
+      "2024-05-20T15:30:00+00:00": 770.9500122070312,
+      "2024-05-20T16:30:00+00:00": 769.1900024414062,
+      "2024-05-20T17:30:00+00:00": 770.8400268554688,
+      "2024-05-20T18:30:00+00:00": 772.1599731445312,
+      "2024-05-20T19:30:00+00:00": 774.219970703125
+    },
+    "sentiment": 0.928394615650177
+  },
+  {
+    "title": "ServiceNow Inc. stock outperforms competitors on strong trading day",
+    "published": 1716176460,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 764.5549926757812,
+      "2024-05-20T14:30:00+00:00": 770.9400024414062,
+      "2024-05-20T15:30:00+00:00": 770.9500122070312,
+      "2024-05-20T16:30:00+00:00": 769.1900024414062,
+      "2024-05-20T17:30:00+00:00": 770.8400268554688,
+      "2024-05-20T18:30:00+00:00": 772.1599731445312,
+      "2024-05-20T19:30:00+00:00": 774.219970703125
+    },
+    "sentiment": 0.9382696151733398
+  },
+  {
+    "title": "Here's How Much You Would Have Made Owning ServiceNow Stock In The Last 10 Years",
+    "published": 1715915160,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 765.0,
+      "2024-05-17T14:30:00+00:00": 761.489990234375,
+      "2024-05-17T15:30:00+00:00": 762.8300170898438,
+      "2024-05-17T16:30:00+00:00": 762.8900146484375,
+      "2024-05-17T17:30:00+00:00": 761.4099731445312,
+      "2024-05-17T18:30:00+00:00": 759.0,
+      "2024-05-17T19:30:00+00:00": 763.52001953125
+    },
+    "sentiment": 0.9290639758110046
+  },
+  {
+    "title": "ServiceNow (NOW) is a Top-Ranked Growth Stock: Should You Buy?",
+    "published": 1715867108,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 763.4500122070312,
+      "2024-05-16T14:30:00+00:00": 764.6699829101562,
+      "2024-05-16T15:30:00+00:00": 767.5900268554688,
+      "2024-05-16T16:30:00+00:00": 767.4299926757812,
+      "2024-05-16T17:30:00+00:00": 766.5800170898438,
+      "2024-05-16T18:30:00+00:00": 761.3900756835938,
+      "2024-05-16T19:30:00+00:00": 763.322509765625
+    },
+    "sentiment": 0.9121224880218506
+  },
+  {
+    "title": "Oklo Is 'Too Risky,' Jim Cramer Says: Buy This General Electric Spinoff Instead",
+    "published": 1715845800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 763.4500122070312,
+      "2024-05-16T14:30:00+00:00": 764.6699829101562,
+      "2024-05-16T15:30:00+00:00": 767.5900268554688,
+      "2024-05-16T16:30:00+00:00": 767.4299926757812,
+      "2024-05-16T17:30:00+00:00": 766.5800170898438,
+      "2024-05-16T18:30:00+00:00": 761.3900756835938,
+      "2024-05-16T19:30:00+00:00": 763.322509765625
+    },
+    "sentiment": 0.9262062907218933
+  },
+  {
+    "title": "Bear Of The Day: ASGN",
+    "published": 1715839140,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 763.4500122070312,
+      "2024-05-16T14:30:00+00:00": 764.6699829101562,
+      "2024-05-16T15:30:00+00:00": 767.5900268554688,
+      "2024-05-16T16:30:00+00:00": 767.4299926757812,
+      "2024-05-16T17:30:00+00:00": 766.5800170898438,
+      "2024-05-16T18:30:00+00:00": 761.3900756835938,
+      "2024-05-16T19:30:00+00:00": 763.322509765625
+    },
+    "sentiment": 0.927606999874115
   }
 ]

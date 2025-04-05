@@ -1,338 +1,260 @@
 [
   {
-    "title": "RBC Capital Sticks to Their Buy Rating for Equity Residential (EQR)",
-    "published": 1712739000,
-    "posting_price": 61.4265199,
-    "close_price": 61.22231674,
-    "percent_change": -0.33243485
+    "title": "EQ Resources\u2019 Upcoming Webinar to Discuss Mining Progress",
+    "published": 1715045280,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 67.13999938964844,
+      "2024-05-07T14:30:00+00:00": 66.66000366210938,
+      "2024-05-07T15:30:00+00:00": 66.79000091552734,
+      "2024-05-07T16:30:00+00:00": 66.76000213623047,
+      "2024-05-07T17:30:00+00:00": 66.7300033569336,
+      "2024-05-07T18:30:00+00:00": 66.66999816894531,
+      "2024-05-07T19:30:00+00:00": 66.87000274658203
+    },
+    "sentiment": 0.9242860078811646
   },
   {
-    "title": "EQ Resources Hits Record Tungsten Production",
-    "published": 1712738880,
-    "posting_price": 61.4265199,
-    "close_price": 61.22231674,
-    "percent_change": -0.33243485
+    "title": "Essex Property (ESS) Q1 FFO & Revenues Beat, '24 View Revised",
+    "published": 1714579740,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 63.959999084472656,
+      "2024-05-01T14:30:00+00:00": 64.12000274658203,
+      "2024-05-01T15:30:00+00:00": 64.4800033569336,
+      "2024-05-01T16:30:00+00:00": 64.33999633789062,
+      "2024-05-01T17:30:00+00:00": 64.20999908447266,
+      "2024-05-01T18:30:00+00:00": 64.0,
+      "2024-05-01T19:30:00+00:00": 64.5
+    },
+    "sentiment": 0.9398565888404846
   },
   {
-    "title": "These Top REITs Have Yields Up to 9.1%",
-    "published": 1712677977,
-    "posting_price": 62.36002338,
-    "close_price": 62.69064331,
-    "percent_change": 0.53017929
+    "title": "Analysts\u2019 Opinions Are Mixed on These Real Estate Stocks: Equity Residential (EQR), Redwood (RWT) and Seven Hills Realty Trust (SEVN)",
+    "published": 1714564980,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 63.959999084472656,
+      "2024-05-01T14:30:00+00:00": 64.12000274658203,
+      "2024-05-01T15:30:00+00:00": 64.4800033569336,
+      "2024-05-01T16:30:00+00:00": 64.33999633789062,
+      "2024-05-01T17:30:00+00:00": 64.20999908447266,
+      "2024-05-01T18:30:00+00:00": 64.0,
+      "2024-05-01T19:30:00+00:00": 64.5
+    },
+    "sentiment": 0.8538090586662292
   },
   {
-    "title": "Heard on the Street: Blackstone Bets on Wealthy Renters",
-    "published": 1712660130,
-    "posting_price": 62.36002338,
-    "close_price": 62.69064331,
-    "percent_change": 0.53017929
+    "title": "Critical Insights From Equity Residential Analyst Ratings: What You Need To Know",
+    "published": 1715688360,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 66.97000122070312,
+      "2024-05-14T14:30:00+00:00": 67.05999755859375,
+      "2024-05-14T15:30:00+00:00": 67.0199966430664,
+      "2024-05-14T16:30:00+00:00": 66.88999938964844,
+      "2024-05-14T17:30:00+00:00": 66.91500091552734,
+      "2024-05-14T18:30:00+00:00": 67.1500015258789,
+      "2024-05-14T19:30:00+00:00": 67.25
+    },
+    "sentiment": 0.9352468848228455
   },
   {
-    "title": "Equity Residential price target lowered by $4 at Truist, here's why",
-    "published": 1712644320,
-    "posting_price": 62.36002338,
-    "close_price": 62.69064331,
-    "percent_change": 0.53017929
+    "title": "Equity Residential price target raised by $2 at Morgan Stanley, here's why",
+    "published": 1715671440,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 66.97000122070312,
+      "2024-05-14T14:30:00+00:00": 67.05999755859375,
+      "2024-05-14T15:30:00+00:00": 67.0199966430664,
+      "2024-05-14T16:30:00+00:00": 66.88999938964844,
+      "2024-05-14T17:30:00+00:00": 66.91500091552734,
+      "2024-05-14T18:30:00+00:00": 67.1500015258789,
+      "2024-05-14T19:30:00+00:00": 67.25
+    },
+    "sentiment": 0.4931055009365082
   },
   {
-    "title": "The Analyst Landscape: 7 Takes On Equity Residential",
-    "published": 1712624640,
-    "posting_price": 62.36002338,
-    "close_price": 62.69064331,
-    "percent_change": 0.53017929
+    "title": "Evercore ISI gets more bearish on Equity Residential, downgrades shares",
+    "published": 1715574300,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 66.4800033569336,
+      "2024-05-13T14:30:00+00:00": 67.12000274658203,
+      "2024-05-13T15:30:00+00:00": 67.0199966430664,
+      "2024-05-13T16:30:00+00:00": 66.96499633789062,
+      "2024-05-13T17:30:00+00:00": 67.08000183105469,
+      "2024-05-13T18:30:00+00:00": 67.01000213623047,
+      "2024-05-13T19:30:00+00:00": 66.97000122070312
+    },
+    "sentiment": 0.9518586993217468
   },
   {
-    "title": "Apartment Income Stock Is Soaring on the Blackstone Buyout",
-    "published": 1712537940,
-    "posting_price": 60.7750154,
-    "close_price": 62.03913498,
-    "percent_change": 2.07999878
+    "title": "EQ Resources Stands by Project Estimates",
+    "published": 1715159280,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 66.72000122070312,
+      "2024-05-08T14:30:00+00:00": 66.57499694824219,
+      "2024-05-08T15:30:00+00:00": 66.61000061035156,
+      "2024-05-08T16:30:00+00:00": 66.33000183105469,
+      "2024-05-08T17:30:00+00:00": 66.23999786376953,
+      "2024-05-08T18:30:00+00:00": 66.37000274658203,
+      "2024-05-08T19:30:00+00:00": 66.37999725341797
+    },
+    "sentiment": 0.9502012133598328
   },
   {
-    "title": "Rare Stock Picks In March 2024 - From 24 Discerning Analysts",
-    "published": 1712131200,
-    "posting_price": 58.96635197,
-    "close_price": 59.724823,
-    "percent_change": 1.28627769
+    "title": "EQ Resources Limited Plans New Securities Issue",
+    "published": 1716257160,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 66.33000183105469,
+      "2024-05-21T14:30:00+00:00": 66.71499633789062,
+      "2024-05-21T15:30:00+00:00": 66.79000091552734,
+      "2024-05-21T16:30:00+00:00": 66.76000213623047,
+      "2024-05-21T17:30:00+00:00": 66.77999877929688,
+      "2024-05-21T18:30:00+00:00": 66.75,
+      "2024-05-21T19:30:00+00:00": 66.71499633789062
+    },
+    "sentiment": 0.9483952522277832
   },
   {
-    "title": "Equity Residential Announces First Quarter 2024 Earnings Release Date",
-    "published": 1712089800,
-    "posting_price": 59.34558616,
-    "close_price": 59.16083145,
-    "percent_change": -0.31132005
+    "title": "Apartment REITs see marginal increase in Q1 occupancy rates",
+    "published": 1716254700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 66.33000183105469,
+      "2024-05-21T14:30:00+00:00": 66.71499633789062,
+      "2024-05-21T15:30:00+00:00": 66.79000091552734,
+      "2024-05-21T16:30:00+00:00": 66.76000213623047,
+      "2024-05-21T17:30:00+00:00": 66.77999877929688,
+      "2024-05-21T18:30:00+00:00": 66.75,
+      "2024-05-21T19:30:00+00:00": 66.71499633789062
+    },
+    "sentiment": 0.7623062133789062
   },
   {
-    "title": "The Time Is REIT Now",
-    "published": 1712036801,
-    "posting_price": 59.34558616,
-    "close_price": 59.16083145,
-    "percent_change": -0.31132005
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 67.47000122070312,
+      "2024-05-16T14:30:00+00:00": 67.37000274658203,
+      "2024-05-16T15:30:00+00:00": 67.51940155029297,
+      "2024-05-16T16:30:00+00:00": 67.5,
+      "2024-05-16T17:30:00+00:00": 67.56999969482422,
+      "2024-05-16T18:30:00+00:00": 67.47000122070312,
+      "2024-05-16T19:30:00+00:00": 67.2699966430664
+    },
+    "sentiment": 0.8883899450302124
   },
   {
-    "title": "4 REITs With New Price Target Increases",
-    "published": 1714500299,
-    "posting_price": 63.14767469,
-    "close_price": 62.62257767,
-    "percent_change": -0.83153817
+    "title": "Equity Residential (EQR) Receives a Buy from Wells Fargo",
+    "published": 1717063560,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 63.66999816894531,
+      "2024-05-30T14:30:00+00:00": 63.61000061035156,
+      "2024-05-30T15:30:00+00:00": 63.779998779296875,
+      "2024-05-30T16:30:00+00:00": 63.5275993347168,
+      "2024-05-30T17:30:00+00:00": 63.720001220703125,
+      "2024-05-30T18:30:00+00:00": 63.65999984741211,
+      "2024-05-30T19:30:00+00:00": 63.7599983215332
+    },
+    "sentiment": 0.5047807097434998
   },
   {
-    "title": "EQ Resources Reports Strong Quarterly Growth",
-    "published": 1714459080,
-    "posting_price": 63.14767469,
-    "close_price": 62.62257767,
-    "percent_change": -0.83153817
+    "title": "Equity Residential price target raised by $3 at Mizuho, here's why",
+    "published": 1717050780,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 63.66999816894531,
+      "2024-05-30T14:30:00+00:00": 63.61000061035156,
+      "2024-05-30T15:30:00+00:00": 63.779998779296875,
+      "2024-05-30T16:30:00+00:00": 63.5275993347168,
+      "2024-05-30T17:30:00+00:00": 63.720001220703125,
+      "2024-05-30T18:30:00+00:00": 63.65999984741211,
+      "2024-05-30T19:30:00+00:00": 63.7599983215332
+    },
+    "sentiment": 0.5759000182151794
   },
   {
-    "title": "EQ Resources Strikes High-Grade Tungsten",
-    "published": 1714381920,
-    "posting_price": 63.88669588,
-    "close_price": 63.4977417,
-    "percent_change": -0.60881874
+    "title": "Analysts Offer Insights on Real Estate Companies: Equity Residential (EQR) and Ventas (VTR)",
+    "published": 1716958320,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 63.83000183105469,
+      "2024-05-29T14:30:00+00:00": 62.349998474121094,
+      "2024-05-29T15:30:00+00:00": 62.599998474121094,
+      "2024-05-29T16:30:00+00:00": 62.86000061035156,
+      "2024-05-29T17:30:00+00:00": 62.95500183105469,
+      "2024-05-29T18:30:00+00:00": 63.040000915527344,
+      "2024-05-29T19:30:00+00:00": 63.040000915527344
+    },
+    "sentiment": 0.9140974879264832
   },
   {
-    "title": "Analysts Have Conflicting Sentiments on These Real Estate Companies: AvalonBay (AVB), Weyerhaeuser (WY) and Equity Residential (EQR)",
-    "published": 1714371120,
-    "posting_price": 63.88669588,
-    "close_price": 63.4977417,
-    "percent_change": -0.60881874
+    "title": "EQ Resources Seeks Quotation for New Shares",
+    "published": 1716954540,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 63.83000183105469,
+      "2024-05-29T14:30:00+00:00": 62.349998474121094,
+      "2024-05-29T15:30:00+00:00": 62.599998474121094,
+      "2024-05-29T16:30:00+00:00": 62.86000061035156,
+      "2024-05-29T17:30:00+00:00": 62.95500183105469,
+      "2024-05-29T18:30:00+00:00": 63.040000915527344,
+      "2024-05-29T19:30:00+00:00": 63.040000915527344
+    },
+    "sentiment": 0.923475444316864
   },
   {
-    "title": "Equity Residential price target raised by $8 at Piper Sandler, here's why",
-    "published": 1714370400,
-    "posting_price": 63.88669588,
-    "close_price": 63.4977417,
-    "percent_change": -0.60881874
+    "title": "Equity Residential Provides Operating Update",
+    "published": 1716927300,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 66.0,
+      "2024-05-28T14:30:00+00:00": 65.3499984741211,
+      "2024-05-28T15:30:00+00:00": 65.16999816894531,
+      "2024-05-28T16:30:00+00:00": 65.33999633789062,
+      "2024-05-28T17:30:00+00:00": 65.06999969482422,
+      "2024-05-28T18:30:00+00:00": 64.87999725341797,
+      "2024-05-28T19:30:00+00:00": 64.70999908447266
+    },
+    "sentiment": 0.9492233991622925
   },
   {
-    "title": "Analysts\u2019 Top Real Estate Picks: Eastgroup Properties (EGP), Equity Residential (EQR)",
-    "published": 1714366320,
-    "posting_price": 63.88669588,
-    "close_price": 63.4977417,
-    "percent_change": -0.60881874
+    "title": "EQ Resources Raises A$9.5M for Tungsten Expansion",
+    "published": 1716881940,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 66.0,
+      "2024-05-28T14:30:00+00:00": 65.3499984741211,
+      "2024-05-28T15:30:00+00:00": 65.16999816894531,
+      "2024-05-28T16:30:00+00:00": 65.33999633789062,
+      "2024-05-28T17:30:00+00:00": 65.06999969482422,
+      "2024-05-28T18:30:00+00:00": 64.87999725341797,
+      "2024-05-28T19:30:00+00:00": 64.70999908447266
+    },
+    "sentiment": 0.862297773361206
   },
   {
-    "title": "Stagflation Is Back",
-    "published": 1714294800,
-    "posting_price": 63.88669204,
-    "close_price": 63.49773788,
-    "percent_change": -0.60881875
+    "title": "Equity Residential sees 2024 revenue, FFO at high end of guidance ranges",
+    "published": 1716867840,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 66.0,
+      "2024-05-28T14:30:00+00:00": 65.3499984741211,
+      "2024-05-28T15:30:00+00:00": 65.16999816894531,
+      "2024-05-28T16:30:00+00:00": 65.33999633789062,
+      "2024-05-28T17:30:00+00:00": 65.06999969482422,
+      "2024-05-28T18:30:00+00:00": 64.87999725341797,
+      "2024-05-28T19:30:00+00:00": 64.70999908447266
+    },
+    "sentiment": 0.6199103593826294
   },
   {
-    "title": "Equity Residential (NYSE:EQR) Q1 2024 Earnings Call Transcript",
-    "published": 1714137194,
-    "posting_price": 63.2060162,
-    "close_price": 63.34215164,
-    "percent_change": 0.21538367
+    "title": "Equity Residential sees second-half EPS and FFO at bottom end of prior outlook",
+    "published": 1716866340,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 66.0,
+      "2024-05-28T14:30:00+00:00": 65.3499984741211,
+      "2024-05-28T15:30:00+00:00": 65.16999816894531,
+      "2024-05-28T16:30:00+00:00": 65.33999633789062,
+      "2024-05-28T17:30:00+00:00": 65.06999969482422,
+      "2024-05-28T18:30:00+00:00": 64.87999725341797,
+      "2024-05-28T19:30:00+00:00": 64.70999908447266
+    },
+    "sentiment": 0.5096962451934814
   },
   {
-    "title": "Equity Residential Receives Hold Rating Amidst Solid Fundamentals and Limited Near-Term Upside",
-    "published": 1714094100,
-    "posting_price": 63.2060162,
-    "close_price": 63.34215164,
-    "percent_change": 0.21538367
-  },
-  {
-    "title": "Beyond The Numbers: 9 Analysts Discuss Equity Residential Stock",
-    "published": 1714043040,
-    "posting_price": 62.30167936,
-    "close_price": 63.08932114,
-    "percent_change": 1.26423844
-  },
-  {
-    "title": "Equity Residential (EQR) Q1 2024 Earnings Call Transcript Highlights: Key Financial Metrics and ...",
-    "published": 1714029254,
-    "posting_price": 62.30167936,
-    "close_price": 63.08932114,
-    "percent_change": 1.26423844
-  },
-  {
-    "title": "Wall Street Analysts Are Bullish on Top Real Estate Picks",
-    "published": 1714025040,
-    "posting_price": 62.30167936,
-    "close_price": 63.08932114,
-    "percent_change": 1.26423844
-  },
-  {
-    "title": "Q1 2024 Equity Residential Earnings Call",
-    "published": 1714020723,
-    "posting_price": 62.30167936,
-    "close_price": 63.08932114,
-    "percent_change": 1.26423844
-  },
-  {
-    "title": "Equity Residential (EQR) Q1 2024 Earnings Call Transcript",
-    "published": 1713985689,
-    "posting_price": 60.57081021,
-    "close_price": 62.82677841,
-    "percent_change": 3.72451382
-  },
-  {
-    "title": "Equity Residential (EQR) Gets a Hold from Scotiabank",
-    "published": 1713939960,
-    "posting_price": 60.57081021,
-    "close_price": 62.82677841,
-    "percent_change": 3.72451382
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Real Estate Stocks: Pebblebrook Hotel (PEB), Highwoods Properties (HIW) and Equity Residential (EQR)",
-    "published": 1713939660,
-    "posting_price": 60.57081021,
-    "close_price": 62.82677841,
-    "percent_change": 3.72451382
-  },
-  {
-    "title": "Truist Financial Releases a Buy Rating on Equity Residential (EQR)",
-    "published": 1713939480,
-    "posting_price": 60.57081021,
-    "close_price": 62.82677841,
-    "percent_change": 3.72451382
-  },
-  {
-    "title": "Barclays Sticks to Its Hold Rating for Equity Residential (EQR)",
-    "published": 1713930360,
-    "posting_price": 60.57081021,
-    "close_price": 62.82677841,
-    "percent_change": 3.72451382
-  },
-  {
-    "title": "Equity Residential (EQR) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1713909607,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential (EQR) Outperforms Q1 Earnings Estimates with Strong Revenue and EPS Growth",
-    "published": 1713909107,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential beats Q1 FFO estimates on strong rental demand",
-    "published": 1713906289,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential Reports First Quarter 2024 Results",
-    "published": 1713903300,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential: Q1 Earnings Snapshot",
-    "published": 1713889509,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "EQR Stock Earnings: Equity Residential Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713859200,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "BMO Capital Upgrades Equity Residential (EQR)",
-    "published": 1713854267,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential stock drifts up after Q1 results beat",
-    "published": 1713847380,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential FFO of $0.93 beats by $0.02, revenue of $730.82M beats by $2.74M",
-    "published": 1713842820,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential reports Q1 FFO 93c, consensus 91c",
-    "published": 1713842520,
-    "posting_price": 60.79446415,
-    "close_price": 61.34873199,
-    "percent_change": 0.91170775
-  },
-  {
-    "title": "Equity Residential raised to Outperform at BMO on discount",
-    "published": 1713777180,
-    "posting_price": 60.53191448,
-    "close_price": 60.81391144,
-    "percent_change": 0.46586493
-  },
-  {
-    "title": "Buy Rating for Equity Residential on Strong Market Position and Attractive Valuation",
-    "published": 1713761280,
-    "posting_price": 60.53191448,
-    "close_price": 60.81391144,
-    "percent_change": 0.46586493
-  },
-  {
-    "title": "Equity Residential Q1 2024 Earnings Preview",
-    "published": 1713760860,
-    "posting_price": 60.53191448,
-    "close_price": 60.81391144,
-    "percent_change": 0.46586493
-  },
-  {
-    "title": "Equity Residential just upgraded at BMO Capital, here's why",
-    "published": 1713760740,
-    "posting_price": 60.53191448,
-    "close_price": 60.81391144,
-    "percent_change": 0.46586493
-  },
-  {
-    "title": "What's in Store for Equity Residential (EQR) in Q1 Earnings?",
-    "published": 1713537180,
-    "posting_price": 59.63730762,
-    "close_price": 59.84151077,
-    "percent_change": 0.3424084
-  },
-  {
-    "title": "BSR REIT: The Next Multifamily M&A Target?",
-    "published": 1713532431,
-    "posting_price": 59.63730762,
-    "close_price": 59.84151077,
-    "percent_change": 0.3424084
-  },
-  {
-    "title": "Should You Buy Equity Residential (EQR) Ahead of Earnings?",
-    "published": 1713530040,
-    "posting_price": 59.63730762,
-    "close_price": 59.84151077,
-    "percent_change": 0.3424084
-  },
-  {
-    "title": "Insights Into Equity Residential (EQR) Q1: Wall Street Projections for Key Metrics",
-    "published": 1713446121,
-    "posting_price": 58.86910938,
-    "close_price": 59.30669022,
-    "percent_change": 0.74331147
-  },
-  {
-    "title": "Interesting EQR Put And Call Options For June 21st",
-    "published": 1713432840,
-    "posting_price": 58.86910938,
-    "close_price": 59.30669022,
-    "percent_change": 0.74331147
-  },
-  {
-    "title": "8 REITs increase dividend payouts in March, says report",
-    "published": 1713267240,
-    "posting_price": 58.83021241,
-    "close_price": 58.03284454,
-    "percent_change": -1.35537139
+    "title": "EQ Resources Options Expire Unexercised",
+    "published": 1716714480,
+    "day_prices": {},
+    "sentiment": 0.8027058839797974
   }
 ]

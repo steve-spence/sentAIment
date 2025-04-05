@@ -1,366 +1,100 @@
 [
   {
-    "title": "Otis Worldwide (OTIS) Receives a Hold from Wells Fargo",
-    "published": 1713158400,
-    "posting_price": 96.08890813,
-    "close_price": 94.51448822,
-    "percent_change": -1.63850328
+    "title": "Students Innovate to Improve Access to Urban Green Space",
+    "published": 1715081469,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 93.66000366210938,
+      "2024-05-07T14:30:00+00:00": 93.83000183105469,
+      "2024-05-07T15:30:00+00:00": 93.69999694824219,
+      "2024-05-07T16:30:00+00:00": 94.16999816894531,
+      "2024-05-07T17:30:00+00:00": 93.9800033569336,
+      "2024-05-07T18:30:00+00:00": 93.66999816894531,
+      "2024-05-07T19:30:00+00:00": 93.70999908447266
+    },
+    "sentiment": 0.7236931920051575
   },
   {
-    "title": "Calculating The Intrinsic Value Of Otis Worldwide Corporation (NYSE:OTIS)",
-    "published": 1712856333,
-    "posting_price": 95.83306377,
-    "close_price": 96.40379333,
-    "percent_change": 0.59554556
+    "title": "Otis Furthers STEM Education in China  with 160 Scholarships for Female Students",
+    "published": 1714586400,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 91.29000091552734,
+      "2024-05-01T14:30:00+00:00": 91.06999969482422,
+      "2024-05-01T15:30:00+00:00": 91.5199966430664,
+      "2024-05-01T16:30:00+00:00": 91.93499755859375,
+      "2024-05-01T17:30:00+00:00": 91.7699966430664,
+      "2024-05-01T18:30:00+00:00": 91.93000030517578,
+      "2024-05-01T19:30:00+00:00": 92.49500274658203
+    },
+    "sentiment": 0.7578783631324768
   },
   {
-    "title": "Otis Hong Kong Receives \"Outstanding Elevator Business Award\" in 01 Gold Medal Awards 2023",
-    "published": 1712805900,
-    "posting_price": 95.83306377,
-    "close_price": 96.40379333,
-    "percent_change": 0.59554556
+    "title": "Otis Worldwide Now #231 Largest Company, Surpassing AMETEK",
+    "published": 1715660700,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 97.19000244140625,
+      "2024-05-14T14:30:00+00:00": 97.30000305175781,
+      "2024-05-14T15:30:00+00:00": 97.19000244140625,
+      "2024-05-14T16:30:00+00:00": 97.02999877929688,
+      "2024-05-14T17:30:00+00:00": 96.8949966430664,
+      "2024-05-14T18:30:00+00:00": 96.91000366210938,
+      "2024-05-14T19:30:00+00:00": 97.01000213623047
+    },
+    "sentiment": 0.6338109970092773
   },
   {
-    "title": "Otis First Quarter 2024 Earnings Advisory",
-    "published": 1712746800,
-    "posting_price": 96.1971521,
-    "close_price": 95.74450684,
-    "percent_change": -0.47053915
+    "title": "Otis Worldwide price target raised by $6 at Argus, here's why",
+    "published": 1715586960,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 97.2699966430664,
+      "2024-05-13T14:30:00+00:00": 96.8499984741211,
+      "2024-05-13T15:30:00+00:00": 96.38999938964844,
+      "2024-05-13T16:30:00+00:00": 96.3499984741211,
+      "2024-05-13T17:30:00+00:00": 96.01300048828125,
+      "2024-05-13T18:30:00+00:00": 96.25499725341797,
+      "2024-05-13T19:30:00+00:00": 96.23500061035156
+    },
+    "sentiment": 0.7213843464851379
   },
   {
-    "title": "Otis Worldwide Corp. stock rises Tuesday, outperforms market",
-    "published": 1712635440,
-    "posting_price": 96.70882532,
-    "close_price": 97.53540039,
-    "percent_change": 0.8547049
+    "title": "Wells Fargo Reaffirms Their Hold Rating on Otis Worldwide (OTIS)",
+    "published": 1716180720,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 96.80000305175781,
+      "2024-05-20T14:30:00+00:00": 96.8499984741211,
+      "2024-05-20T15:30:00+00:00": 96.9800033569336,
+      "2024-05-20T16:30:00+00:00": 97.12000274658203,
+      "2024-05-20T17:30:00+00:00": 97.04000091552734,
+      "2024-05-20T18:30:00+00:00": 97.08000183105469,
+      "2024-05-20T19:30:00+00:00": 97.0999984741211
+    },
+    "sentiment": 0.8248773813247681
   },
   {
-    "title": "Otis Worldwide price target raised by $4 at Wolfe Research, here's why",
-    "published": 1712554380,
-    "posting_price": 96.5513947,
-    "close_price": 96.46282959,
-    "percent_change": -0.09172846
+    "title": "Otis Worldwide Corp. stock rises Friday, outperforms market",
+    "published": 1715918400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 96.80000305175781,
+      "2024-05-17T14:30:00+00:00": 96.55000305175781,
+      "2024-05-17T15:30:00+00:00": 96.4000015258789,
+      "2024-05-17T16:30:00+00:00": 96.27999877929688,
+      "2024-05-17T17:30:00+00:00": 96.43000030517578,
+      "2024-05-17T18:30:00+00:00": 96.58000183105469,
+      "2024-05-17T19:30:00+00:00": 96.80000305175781
+    },
+    "sentiment": 0.901034414768219
   },
   {
-    "title": "Otis Worldwide (OTIS) Gets a Hold from Wells Fargo",
-    "published": 1712553600,
-    "posting_price": 96.5513947,
-    "close_price": 96.46282959,
-    "percent_change": -0.09172846
-  },
-  {
-    "title": "Here's Why Otis Worldwide (OTIS) is a Strong Growth Stock",
-    "published": 1712151911,
-    "posting_price": 96.18729938,
-    "close_price": 96.67930603,
-    "percent_change": 0.51150896
-  },
-  {
-    "title": "Otis Worldwide initiated with neutral view at Melius Research",
-    "published": 1712036400,
-    "posting_price": 96.73835436,
-    "close_price": 96.18730927,
-    "percent_change": -0.56962421
-  },
-  {
-    "title": "Otis Worldwide price target raised by $5 at Barclays, here's why",
-    "published": 1712031780,
-    "posting_price": 96.73835436,
-    "close_price": 96.18730927,
-    "percent_change": -0.56962421
-  },
-  {
-    "title": "Otis Worldwide (OTIS) Gets a Hold from Barclays",
-    "published": 1712025480,
-    "posting_price": 96.73835436,
-    "close_price": 96.18730927,
-    "percent_change": -0.56962421
-  },
-  {
-    "title": "Otis India Volunteers Create Urban Forests of Native Trees and Plants",
-    "published": 1714486500,
-    "posting_price": 91.43451614,
-    "close_price": 89.74201202,
-    "percent_change": -1.85105603
-  },
-  {
-    "title": "Otis Worldwide (NYSE:OTIS) Is Increasing Its Dividend To $0.39",
-    "published": 1714472300,
-    "posting_price": 91.43451614,
-    "close_price": 89.74201202,
-    "percent_change": -1.85105603
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Industrial Goods Stocks: Archer Daniels Midland (ADM), Otis Worldwide (OTIS) and Element Fleet Management (OtherELEEF)",
-    "published": 1714467120,
-    "posting_price": 91.43451614,
-    "close_price": 89.74201202,
-    "percent_change": -1.85105603
-  },
-  {
-    "title": "Otis Wins Maintenance Portfolio with SMRT Trains, Singapore's Pioneer Rail Operator",
-    "published": 1714444200,
-    "posting_price": 91.43451614,
-    "close_price": 89.74201202,
-    "percent_change": -1.85105603
-  },
-  {
-    "title": "A Dive into Otis Worldwide (OTIS) International Revenue Trends and Forecasts",
-    "published": 1714404240,
-    "posting_price": 90.98187123,
-    "close_price": 91.87732697,
-    "percent_change": 0.98421337
-  },
-  {
-    "title": "Otis Worldwide First Quarter 2024 Earnings: In Line With Expectations",
-    "published": 1714222517,
-    "posting_price": 90.98187123,
-    "close_price": 91.87732697,
-    "percent_change": 0.98421337
-  },
-  {
-    "title": "Otis Worldwide Corp (OTIS): A Strategic SWOT Insight",
-    "published": 1714204877,
-    "posting_price": 90.98187123,
-    "close_price": 91.87732697,
-    "percent_change": 0.98421337
-  },
-  {
-    "title": "Weyerhaeuser's (WY) Shares Up on Q1 Earnings Beat, Net Sales Lag",
-    "published": 1714148040,
-    "posting_price": 91.51324983,
-    "close_price": 90.72603607,
-    "percent_change": -0.86021834
-  },
-  {
-    "title": "Otis Worldwide Corporation (NYSE:OTIS) First-Quarter Results: Here's What Analysts Are Forecasting For This Year",
-    "published": 1714126125,
-    "posting_price": 91.51324983,
-    "close_price": 90.72603607,
-    "percent_change": -0.86021834
-  },
-  {
-    "title": "Otis Worldwide Corporation (NYSE:OTIS) Q1 2024 Earnings Call Transcript",
-    "published": 1714055784,
-    "posting_price": 92.14300415,
-    "close_price": 91.53291321,
-    "percent_change": -0.66211314
-  },
-  {
-    "title": "Watsco (WSO) Q1 Earnings & Revenues Lag, Margins Down Y/Y",
-    "published": 1714053120,
-    "posting_price": 92.14300415,
-    "close_price": 91.53291321,
-    "percent_change": -0.66211314
-  },
-  {
-    "title": "Q1 2024 Otis Worldwide Corp Earnings Call",
-    "published": 1714022043,
-    "posting_price": 92.14300415,
-    "close_price": 91.53291321,
-    "percent_change": -0.66211314
-  },
-  {
-    "title": "Otis Worldwide Corp (OTIS) Q1 2024 Earnings Call Transcript Highlights: Robust Growth Amidst ...",
-    "published": 1714007160,
-    "posting_price": 92.14300415,
-    "close_price": 91.53291321,
-    "percent_change": -0.66211314
-  },
-  {
-    "title": "Otis Worldwide (OTIS) Q1 2024 Earnings Call Transcript",
-    "published": 1713984316,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "OTIS Q1 Earnings Beat, Organic Sales Up, '24 View Raised",
-    "published": 1713980640,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide (OTIS) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates",
-    "published": 1713965434,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide Corp (OTIS) Q1 Earnings: Solid Service Growth and Margin Expansion",
-    "published": 1713958317,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide Corporation (OTIS) Q1 2024 Earnings Call Transcript",
-    "published": 1713957930,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide (OTIS) Beats Q1 Earnings Estimates",
-    "published": 1713957302,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Liftmaker Otis beats first-quarter profit estimates on high demand for maintenance",
-    "published": 1713955844,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "OTIS REPORTS FIRST QUARTER 2024 RESULTS",
-    "published": 1713953040,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "OTIS Stock Earnings: Otis Worldwide Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1713952500,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "A Repeat of 2022? 7 Defensive Stocks to Buy Before the Correction.",
-    "published": 1713942420,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide Reaches Analyst Target Price",
-    "published": 1713942240,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide: Q1 Earnings Snapshot",
-    "published": 1713939190,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide sees FY24 adjusted EPS $3.83-$3.90, consensus $3.87",
-    "published": 1713937980,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide reports Q1 EPS 88c, consensus 87c",
-    "published": 1713937860,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide CEO: We delivered for our shareholders in Q1",
-    "published": 1713936180,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Worldwide Non-GAAP EPS of $0.88 beats by $0.02, revenue of $3.44B misses by $20M",
-    "published": 1713935580,
-    "posting_price": 95.36074296,
-    "close_price": 91.87733459,
-    "percent_change": -3.65287461
-  },
-  {
-    "title": "Otis Announces 14.7 Percent Increase in Quarterly Dividend to $0.39 per Share",
-    "published": 1713903300,
-    "posting_price": 95.0852062,
-    "close_price": 95.91178131,
-    "percent_change": 0.86929938
-  },
-  {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1713864720,
-    "posting_price": 95.0852062,
-    "close_price": 95.91178131,
-    "percent_change": 0.86929938
-  },
-  {
-    "title": "Otis Worldwide raises dividend by 14.7% to $0.39",
-    "published": 1713843180,
-    "posting_price": 95.0852062,
-    "close_price": 95.91178131,
-    "percent_change": 0.86929938
-  },
-  {
-    "title": "Otis Worldwide raises quarterly dividend 14.7% to 39c per share",
-    "published": 1713842280,
-    "posting_price": 95.0852062,
-    "close_price": 95.91178131,
-    "percent_change": 0.86929938
-  },
-  {
-    "title": "Otis Worldwide (OTIS) to Post Q1 Earnings: Factors to Note",
-    "published": 1713805140,
-    "posting_price": 93.9043964,
-    "close_price": 94.7506485,
-    "percent_change": 0.90118475
-  },
-  {
-    "title": "Science Based Targets Initiative Approves Otis Targets for Reducing Greenhouse Gas Emissions",
-    "published": 1713800700,
-    "posting_price": 93.9043964,
-    "close_price": 94.7506485,
-    "percent_change": 0.90118475
-  },
-  {
-    "title": "Otis Worldwide's emissions reduction targets approved by SBTi",
-    "published": 1713765900,
-    "posting_price": 93.9043964,
-    "close_price": 94.7506485,
-    "percent_change": 0.90118475
-  },
-  {
-    "title": "Otis Worldwide (OTIS) Receives a Hold from Wells Fargo",
-    "published": 1713764340,
-    "posting_price": 93.9043964,
-    "close_price": 94.7506485,
-    "percent_change": 0.90118475
-  },
-  {
-    "title": "Here's Why Otis Worldwide (OTIS) is a Strong Growth Stock",
-    "published": 1713534307,
-    "posting_price": 94.37672172,
-    "close_price": 93.58950806,
-    "percent_change": -0.83411846
-  },
-  {
-    "title": "Gear Up for Otis Worldwide (OTIS) Q1 Earnings: Wall Street Estimates for Key Metrics",
-    "published": 1713532525,
-    "posting_price": 94.37672172,
-    "close_price": 93.58950806,
-    "percent_change": -0.83411846
-  },
-  {
-    "title": "Interesting OTIS Put And Call Options For December 20th",
-    "published": 1713520980,
-    "posting_price": 94.37672172,
-    "close_price": 93.58950806,
-    "percent_change": -0.83411846
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Airbus Group SE (OtherEADSF), Otis Worldwide (OTIS) and GE Aerospace (GE)",
-    "published": 1713323460,
-    "posting_price": 95.07538337,
-    "close_price": 93.44191742,
-    "percent_change": -1.71807453
+    "title": "Otis Worldwide Corp. stock falls Thursday, underperforms market",
+    "published": 1715832060,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 96.79000091552734,
+      "2024-05-16T14:30:00+00:00": 96.41000366210938,
+      "2024-05-16T15:30:00+00:00": 96.48999786376953,
+      "2024-05-16T16:30:00+00:00": 96.33999633789062,
+      "2024-05-16T17:30:00+00:00": 96.55999755859375,
+      "2024-05-16T18:30:00+00:00": 96.6500015258789,
+      "2024-05-16T19:30:00+00:00": 96.8499984741211
+    },
+    "sentiment": 0.9665741324424744
   }
 ]

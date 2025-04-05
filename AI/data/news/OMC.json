@@ -1,541 +1,212 @@
 [
   {
-    "title": "Company results and shares on the move",
-    "published": 1713205741,
-    "posting_price": 88.52111102,
-    "close_price": 87.81317902,
-    "percent_change": -0.79973239
+    "title": "Barclays Upgrades Omnicom Group (OMC)",
+    "published": 1715085431,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 96.12000274658203,
+      "2024-05-07T14:30:00+00:00": 94.69999694824219,
+      "2024-05-07T15:30:00+00:00": 93.97000122070312,
+      "2024-05-07T16:30:00+00:00": 94.17500305175781,
+      "2024-05-07T17:30:00+00:00": 94.4000015258789,
+      "2024-05-07T18:30:00+00:00": 93.71499633789062,
+      "2024-05-07T19:30:00+00:00": 94.6500015258789
+    },
+    "sentiment": 0.9444634318351746
   },
   {
-    "title": "Omnicom (OMC) to Post Q1 Earnings: What's in the Cards?",
-    "published": 1713194280,
-    "posting_price": 88.52111102,
-    "close_price": 87.81317902,
-    "percent_change": -0.79973239
+    "title": "Omnicom: Barclays raises its recommendation",
+    "published": 1715070496,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 96.12000274658203,
+      "2024-05-07T14:30:00+00:00": 94.69999694824219,
+      "2024-05-07T15:30:00+00:00": 93.97000122070312,
+      "2024-05-07T16:30:00+00:00": 94.17500305175781,
+      "2024-05-07T17:30:00+00:00": 94.4000015258789,
+      "2024-05-07T18:30:00+00:00": 93.71499633789062,
+      "2024-05-07T19:30:00+00:00": 94.6500015258789
+    },
+    "sentiment": 0.825965166091919
   },
   {
-    "title": "Omnicom Q1 2024 Earnings Preview",
-    "published": 1713156060,
-    "posting_price": 88.52111102,
-    "close_price": 87.81317902,
-    "percent_change": -0.79973239
+    "title": "Omnicom declares $0.70 dividend",
+    "published": 1715054700,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 96.12000274658203,
+      "2024-05-07T14:30:00+00:00": 94.69999694824219,
+      "2024-05-07T15:30:00+00:00": 93.97000122070312,
+      "2024-05-07T16:30:00+00:00": 94.17500305175781,
+      "2024-05-07T17:30:00+00:00": 94.4000015258789,
+      "2024-05-07T18:30:00+00:00": 93.71499633789062,
+      "2024-05-07T19:30:00+00:00": 94.6500015258789
+    },
+    "sentiment": 0.919342041015625
   },
   {
-    "title": "Notable earnings after Tuesday's close",
-    "published": 1713156060,
-    "posting_price": 88.52111102,
-    "close_price": 87.81317902,
-    "percent_change": -0.79973239
+    "title": "Asian Investors Seek Diversification Amidst an Uncertain Global Economy, According to New FleishmanHillard Report on Asset Management in Asia",
+    "published": 1715047200,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 96.12000274658203,
+      "2024-05-07T14:30:00+00:00": 94.69999694824219,
+      "2024-05-07T15:30:00+00:00": 93.97000122070312,
+      "2024-05-07T16:30:00+00:00": 94.17500305175781,
+      "2024-05-07T17:30:00+00:00": 94.4000015258789,
+      "2024-05-07T18:30:00+00:00": 93.71499633789062,
+      "2024-05-07T19:30:00+00:00": 94.6500015258789
+    },
+    "sentiment": 0.6573978066444397
   },
   {
-    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
-    "published": 1713078360,
-    "posting_price": 88.52111102,
-    "close_price": 87.81317902,
-    "percent_change": -0.79973239
+    "title": "The total return for Omnicom Group (NYSE:OMC) investors has risen faster than earnings growth over the last five years",
+    "published": 1714990652,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 93.30999755859375,
+      "2024-05-06T14:30:00+00:00": 92.82499694824219,
+      "2024-05-06T15:30:00+00:00": 92.66000366210938,
+      "2024-05-06T16:30:00+00:00": 92.81999969482422,
+      "2024-05-06T17:30:00+00:00": 92.91000366210938,
+      "2024-05-06T18:30:00+00:00": 93.06999969482422,
+      "2024-05-06T19:30:00+00:00": 93.12999725341797
+    },
+    "sentiment": 0.9479405879974365
   },
   {
-    "title": "Countdown to Omnicom (OMC) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS",
-    "published": 1712841315,
-    "posting_price": 89.23873528,
-    "close_price": 89.78181458,
-    "percent_change": 0.60856902
+    "title": "The Zacks Analyst Blog Highlights Thermo Fisher Scientific, Disney, Southern Copper, Tractor Supply and Omnicom",
+    "published": 1714649640,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 94.27999877929688,
+      "2024-05-02T14:30:00+00:00": 93.30999755859375,
+      "2024-05-02T15:30:00+00:00": 93.72219848632812,
+      "2024-05-02T16:30:00+00:00": 93.2249984741211,
+      "2024-05-02T17:30:00+00:00": 93.4000015258789,
+      "2024-05-02T18:30:00+00:00": 93.29000091552734,
+      "2024-05-02T19:30:00+00:00": 92.7699966430664
+    },
+    "sentiment": 0.9404797554016113
   },
   {
-    "title": "Publicis Flags Tech Rebound as Revenue Growth Beats Expectations",
-    "published": 1712814900,
-    "posting_price": 89.23873528,
-    "close_price": 89.78181458,
-    "percent_change": 0.60856902
+    "title": "Qifu Technology (QFIN) to Report Q1 Earnings: What to Expect?",
+    "published": 1715792820,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 96.94999694824219,
+      "2024-05-15T14:30:00+00:00": 96.76000213623047,
+      "2024-05-15T15:30:00+00:00": 97.43000030517578,
+      "2024-05-15T16:30:00+00:00": 97.30000305175781,
+      "2024-05-15T17:30:00+00:00": 97.31500244140625,
+      "2024-05-15T18:30:00+00:00": 97.3949966430664,
+      "2024-05-15T19:30:00+00:00": 97.5999984741211
+    },
+    "sentiment": 0.9329805374145508
   },
   {
-    "title": "Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1712756710,
-    "posting_price": 89.90788656,
-    "close_price": 88.98660278,
-    "percent_change": -1.0246974
+    "title": "OMNICOM TO PRESENT AT THE J.P. MORGAN TECHNOLOGY, MEDIA AND COMMUNICATIONS CONFERENCE",
+    "published": 1715778000,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 96.94999694824219,
+      "2024-05-15T14:30:00+00:00": 96.76000213623047,
+      "2024-05-15T15:30:00+00:00": 97.43000030517578,
+      "2024-05-15T16:30:00+00:00": 97.30000305175781,
+      "2024-05-15T17:30:00+00:00": 97.31500244140625,
+      "2024-05-15T18:30:00+00:00": 97.3949966430664,
+      "2024-05-15T19:30:00+00:00": 97.5999984741211
+    },
+    "sentiment": 0.9292089939117432
   },
   {
-    "title": "Buy 9 Sustainable Dividend Dogs Of Barron's Top 100",
-    "published": 1712740500,
-    "posting_price": 89.90788656,
-    "close_price": 88.98660278,
-    "percent_change": -1.0246974
+    "title": "Zacks.com featured highlights Medpace, American Axle, Diebold Nixdorf, Euronet and Omnicom",
+    "published": 1715677200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 97.0199966430664,
+      "2024-05-14T14:30:00+00:00": 97.2300033569336,
+      "2024-05-14T15:30:00+00:00": 96.36000061035156,
+      "2024-05-14T16:30:00+00:00": 96.51000213623047,
+      "2024-05-14T17:30:00+00:00": 96.4000015258789,
+      "2024-05-14T18:30:00+00:00": 96.20999908447266,
+      "2024-05-14T19:30:00+00:00": 96.5250015258789
+    },
+    "sentiment": 0.9449653029441833
   },
   {
-    "title": "Maintaining Hold on Omnicom Group Amid Balanced Growth Prospects and Valuation",
-    "published": 1712736360,
-    "posting_price": 89.90788656,
-    "close_price": 88.98660278,
-    "percent_change": -1.0246974
-  },
-  {
-    "title": "Reasons to Retain Omnicom (OMC) Stock in Your Portfolio Now",
-    "published": 1712673540,
-    "posting_price": 90.18911672,
-    "close_price": 91.10070801,
-    "percent_change": 1.01075531
-  },
-  {
-    "title": "Why Omnicom (OMC) is a Top Value Stock for the Long-Term",
-    "published": 1712670007,
-    "posting_price": 90.18911672,
-    "close_price": 91.10070801,
-    "percent_change": 1.01075531
-  },
-  {
-    "title": "Omnicom Schedules First Quarter 2024 Earnings Release and Conference Call",
-    "published": 1712602620,
-    "posting_price": 90.41217618,
-    "close_price": 90.26670837,
-    "percent_change": -0.16089405
-  },
-  {
-    "title": "Return Trends At Omnicom Group (NYSE:OMC) Aren't Appealing",
-    "published": 1712577708,
-    "posting_price": 90.41217618,
-    "close_price": 90.26670837,
-    "percent_change": -0.16089405
-  },
-  {
-    "title": "OMNICOM MEDIA GROUP RANKED #1 FOR NET NEW BUSINESS FOR SECOND CONSECUTIVE YEAR",
-    "published": 1712242800,
-    "posting_price": 92.72994448,
-    "close_price": 90.32489777,
-    "percent_change": -2.59360309
-  },
-  {
-    "title": "Ascential fleshes out GBP850 million shareholder return proposals",
-    "published": 1712205060,
-    "posting_price": 92.72994448,
-    "close_price": 90.32489777,
-    "percent_change": -2.59360309
-  },
-  {
-    "title": "Top 9 buy-rated stocks in communications - Citi",
-    "published": 1712138880,
-    "posting_price": 92.29353966,
-    "close_price": 91.94441986,
-    "percent_change": -0.37827111
-  },
-  {
-    "title": "From $50 to $50,000: 3 Stocks Under $100 That Could Skyrocket Your Wealth by 2026",
-    "published": 1712127840,
-    "posting_price": 92.29353966,
-    "close_price": 91.94441986,
-    "percent_change": -0.37827111
-  },
-  {
-    "title": "Omnicom price target raised by $10 at Macquarie, here's why",
-    "published": 1712058720,
-    "posting_price": 93.38938145,
-    "close_price": 92.4292984,
-    "percent_change": -1.02804305
-  },
-  {
-    "title": "S&P 500's Q1 Standouts: Energy, Communication Sectors In The Lead \u2014 10 Top-Performing Stocks",
-    "published": 1712051880,
-    "posting_price": 93.38938145,
-    "close_price": 92.4292984,
-    "percent_change": -1.02804305
-  },
-  {
-    "title": "Omnicom Establishes Scholarship for Journalism Students at Mercer University",
-    "published": 1714482000,
-    "posting_price": 92.37112106,
-    "close_price": 90.03395844,
-    "percent_change": -2.53018757
-  },
-  {
-    "title": "FTI Consulting (FCN) Stock Gains Since Q1 Earnings Beat",
-    "published": 1714400880,
-    "posting_price": 93.31179556,
-    "close_price": 92.99176788,
-    "percent_change": -0.34296594
-  },
-  {
-    "title": "How to Find Strong Business Services Stocks Slated for Positive Earnings Surprises",
-    "published": 1714395609,
-    "posting_price": 93.31179556,
-    "close_price": 92.99176788,
-    "percent_change": -0.34296594
-  },
-  {
-    "title": "Interesting OMC Put And Call Options For December 20th",
-    "published": 1714383900,
-    "posting_price": 93.31179556,
-    "close_price": 92.99176788,
-    "percent_change": -0.34296594
-  },
-  {
-    "title": "Tech Spending Still Proves Thorny for Some Advertising Companies",
-    "published": 1714156800,
-    "posting_price": 93.77729133,
-    "close_price": 92.99177551,
-    "percent_change": -0.8376397
-  },
-  {
-    "title": "Is MoneyLion (ML) Outperforming Other Business Services Stocks This Year?",
-    "published": 1714138812,
-    "posting_price": 93.77729133,
-    "close_price": 92.99177551,
-    "percent_change": -0.8376397
-  },
-  {
-    "title": "S&P Global (SPGI) Q1 Earnings & Revenues Beat Estimates",
-    "published": 1714058580,
-    "posting_price": 92.41960018,
-    "close_price": 93.78697968,
-    "percent_change": 1.4795341
-  },
-  {
-    "title": "Here's Why Omnicom (OMC) is a Strong Value Stock",
-    "published": 1714052410,
-    "posting_price": 92.41960018,
-    "close_price": 93.78697968,
-    "percent_change": 1.4795341
-  },
-  {
-    "title": "Fiserv (FI) Q1 Earnings Surpass Estimates, Revenues Miss",
-    "published": 1713889620,
-    "posting_price": 90.88736564,
-    "close_price": 91.37225342,
-    "percent_change": 0.53350405
-  },
-  {
-    "title": "Why This 1 Momentum Stock Could Be a Great Addition to Your Portfolio",
-    "published": 1713880208,
-    "posting_price": 90.88736564,
-    "close_price": 91.37225342,
-    "percent_change": 0.53350405
+    "title": "12 Best Marketing Stocks to Buy",
+    "published": 1715384394,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 95.75,
+      "2024-05-10T14:30:00+00:00": 96.08999633789062,
+      "2024-05-10T15:30:00+00:00": 95.9000015258789,
+      "2024-05-10T16:30:00+00:00": 96.51000213623047,
+      "2024-05-10T17:30:00+00:00": 95.94999694824219,
+      "2024-05-10T18:30:00+00:00": 95.70999908447266,
+      "2024-05-10T19:30:00+00:00": 95.9000015258789
+    },
+    "sentiment": 0.9052743315696716
   },
   {
     "title": "Should Value Investors Buy Omnicom Group (OMC) Stock?",
-    "published": 1713879615,
-    "posting_price": 90.88736564,
-    "close_price": 91.37225342,
-    "percent_change": 0.53350405
+    "published": 1715262015,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 95.06999969482422,
+      "2024-05-09T14:30:00+00:00": 95.55000305175781,
+      "2024-05-09T15:30:00+00:00": 95.48500061035156,
+      "2024-05-09T16:30:00+00:00": 95.33000183105469,
+      "2024-05-09T17:30:00+00:00": 95.47000122070312,
+      "2024-05-09T18:30:00+00:00": 95.4000015258789,
+      "2024-05-09T19:30:00+00:00": 95.19999694824219
+    },
+    "sentiment": 0.9347166419029236
   },
   {
-    "title": "Omnicom price target raised by $6 at Argus, here's why",
-    "published": 1713860760,
-    "posting_price": 90.88736564,
-    "close_price": 91.37225342,
-    "percent_change": 0.53350405
+    "title": "Omnicom Announces Major Expansion in India with Four State-of-the-Art Centers of Excellence",
+    "published": 1715221800,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 95.06999969482422,
+      "2024-05-09T14:30:00+00:00": 95.55000305175781,
+      "2024-05-09T15:30:00+00:00": 95.48500061035156,
+      "2024-05-09T16:30:00+00:00": 95.33000183105469,
+      "2024-05-09T17:30:00+00:00": 95.47000122070312,
+      "2024-05-09T18:30:00+00:00": 95.4000015258789,
+      "2024-05-09T19:30:00+00:00": 95.19999694824219
+    },
+    "sentiment": 0.9219132661819458
   },
   {
-    "title": "Omnicom\u2019s bets on precision marketing contribute to growth bump",
-    "published": 1713783402,
-    "posting_price": 90.48005616,
-    "close_price": 90.93584442,
-    "percent_change": 0.50374445
+    "title": "Will Top-Line Improvement Aid GigaCloud's (GCT) Q1 Earnings?",
+    "published": 1715184900,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 94.3499984741211,
+      "2024-05-08T14:30:00+00:00": 94.99500274658203,
+      "2024-05-08T15:30:00+00:00": 94.7300033569336,
+      "2024-05-08T16:30:00+00:00": 94.94000244140625,
+      "2024-05-08T17:30:00+00:00": 95.0199966430664,
+      "2024-05-08T18:30:00+00:00": 94.98999786376953,
+      "2024-05-08T19:30:00+00:00": 95.11000061035156
+    },
+    "sentiment": 0.9407326579093933
   },
   {
-    "title": "Dividend yield and growth stock list by Goldman",
-    "published": 1713780600,
-    "posting_price": 90.48005616,
-    "close_price": 90.93584442,
-    "percent_change": 0.50374445
+    "title": "Is Nuvei (NVEI) Stock Outpacing Its Business Services Peers This Year?",
+    "published": 1716298811,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 96.01000213623047,
+      "2024-05-21T14:30:00+00:00": 95.55999755859375,
+      "2024-05-21T15:30:00+00:00": 95.70999908447266,
+      "2024-05-21T16:30:00+00:00": 95.06999969482422,
+      "2024-05-21T17:30:00+00:00": 94.95999908447266,
+      "2024-05-21T18:30:00+00:00": 94.83999633789062,
+      "2024-05-21T19:30:00+00:00": 94.90499877929688
+    },
+    "sentiment": 0.5586826801300049
   },
   {
-    "title": "Top high growth investment ratio stocks from each sector - GS",
-    "published": 1713756360,
-    "posting_price": 90.48005616,
-    "close_price": 90.93584442,
-    "percent_change": 0.50374445
-  },
-  {
-    "title": "Omnicom (OMC) International Revenue Performance Explored",
-    "published": 1713530220,
-    "posting_price": 89.10297841,
-    "close_price": 89.82061768,
-    "percent_change": 0.80540436
-  },
-  {
-    "title": "Omnicom Group Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions",
-    "published": 1713523666,
-    "posting_price": 89.10297841,
-    "close_price": 89.82061768,
-    "percent_change": 0.80540436
-  },
-  {
-    "title": "Commit To Buy Omnicom Group At $75, Earn 24.3% Annualized Using Options",
-    "published": 1713436620,
-    "posting_price": 90.25700617,
-    "close_price": 88.73445892,
-    "percent_change": -1.68690201
-  },
-  {
-    "title": "Omnicom Group First Quarter 2024 Earnings: EPS Beats Expectations",
-    "published": 1713434589,
-    "posting_price": 90.25700617,
-    "close_price": 88.73445892,
-    "percent_change": -1.68690201
-  },
-  {
-    "title": "Thoughts For Thursday: Earnings In Earnest",
-    "published": 1713430020,
-    "posting_price": 90.25700617,
-    "close_price": 88.73445892,
-    "percent_change": -1.68690201
-  },
-  {
-    "title": "Decoding Omnicom Group Inc (OMC): A Strategic SWOT Insight",
-    "published": 1713416544,
-    "posting_price": 90.25700617,
-    "close_price": 88.73445892,
-    "percent_change": -1.68690201
-  },
-  {
-    "title": "Omnicom Group (OMC) Gets a Hold from Barclays",
-    "published": 1713414360,
-    "posting_price": 90.25700617,
-    "close_price": 88.73445892,
-    "percent_change": -1.68690201
-  },
-  {
-    "title": "3 Top Rated Stocks to Buy After Q1 Earnings Beat Estimates",
-    "published": 1713391740,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "MCDONALD'S EXTENDS \"THE ORIGINAL MOUTHFUL\" CAMPAIGN WITH A MODERN MAKE-OVER OF THE CLASSIC BIG MAC\u00ae PROMO",
-    "published": 1713383460,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom's (OMC) Q1 Earnings Beat Estimates, Increase Y/Y",
-    "published": 1713372900,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Wells Fargo Upgrades Omnicom Group (OMC)",
-    "published": 1713361617,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "United Airlines, Eli Lilly rise; JB Hunt, Travelers fall, Wednesday, 4/17/2024",
-    "published": 1713358020,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom Group Inc. (NYSE:OMC) Q1 2024 Earnings Call Transcript",
-    "published": 1713356721,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom: EPS up 4% in Q1",
-    "published": 1713345041,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom rises after Wells Fargo upgrades on trends favoring strong EPS growth",
-    "published": 1713344100,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Amazon, Apple initiated: Wall Street's top analyst calls",
-    "published": 1713343440,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Analysts Offer Insights on Communication Services Companies: Meta Platforms (META) and Omnicom Group (OMC)",
-    "published": 1713341460,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Fly Intel: Pre-market Movers",
-    "published": 1713340620,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom Group, Inc: Economic barometer",
-    "published": 1713339503,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom Group Inc (OMC) Q1 2024 Earnings Call Transcript Highlights: Strategic Acquisitions and ...",
-    "published": 1713337387,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Omnicom price target raised by $4 at JPMorgan, here's why",
-    "published": 1713328980,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Wells upgrades Omnicom to Overweight on organic growth upside",
-    "published": 1713328680,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Wells Fargo gets more bullish on Omnicom, upgrades shares",
-    "published": 1713326460,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Analyst Ratings For Omnicom Group",
-    "published": 1713319500,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Stock market today: Asian shares gain despite Wall Street's tech-led retreat",
-    "published": 1713317700,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Stock market today: Wall Street dips to send S&P 500 to its longest losing streak since January",
-    "published": 1713317700,
-    "posting_price": 90.52853823,
-    "close_price": 89.65573883,
-    "percent_change": -0.9641152
-  },
-  {
-    "title": "Compared to Estimates, Omnicom (OMC) Q1 Earnings: A Look at Key Metrics",
-    "published": 1713304804,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Group Inc. Reports Strong First Quarter 2024 Results, Surpassing Analyst Expectations",
-    "published": 1713303115,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom (OMC) Beats Q1 Earnings and Revenue Estimates",
-    "published": 1713302104,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom beats quarterly profit on strong ad spending",
-    "published": 1713299746,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Group Inc. 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713298881,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Group Inc. (OMC) Q1 2024 Earnings Call Transcript",
-    "published": 1713298870,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Reports First Quarter 2024 Results",
-    "published": 1713297780,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom : Q1 2024 Investor Presentation",
-    "published": 1713285071,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom: Q1 Earnings Snapshot",
-    "published": 1713284049,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "OMC Stock Earnings: Omnicom Group Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713254340,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Earnings Scheduled For April 16, 2024",
-    "published": 1713247140,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Fly Intel: After-Hours Movers",
-    "published": 1713243060,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Group Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
-    "published": 1713240900,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Group Q1 Earnings Call and Future Financial Outlook",
-    "published": 1713237840,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom Non-GAAP EPS of $1.67 beats by $0.14, revenue of $3.63B beats by $10M",
-    "published": 1713236880,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
-  },
-  {
-    "title": "Omnicom reports Q1 adjusted EPS $1.67, consensus $1.55",
-    "published": 1713236700,
-    "posting_price": 87.56103706,
-    "close_price": 88.21078491,
-    "percent_change": 0.74205134
+    "title": "Why Is Omnicom (OMC) Up 5.6% Since Last Earnings Report?",
+    "published": 1715873410,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 97.37999725341797,
+      "2024-05-16T14:30:00+00:00": 97.4800033569336,
+      "2024-05-16T15:30:00+00:00": 97.08000183105469,
+      "2024-05-16T16:30:00+00:00": 96.91999816894531,
+      "2024-05-16T17:30:00+00:00": 96.63999938964844,
+      "2024-05-16T18:30:00+00:00": 96.56999969482422,
+      "2024-05-16T19:30:00+00:00": 96.69000244140625
+    },
+    "sentiment": 0.7872049808502197
   }
 ]

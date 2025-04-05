@@ -1,408 +1,212 @@
 [
   {
-    "title": "Settlement Reached in FirstEnergy Ohio Utilities' Grid Modernization Plan",
-    "published": 1713198840,
-    "posting_price": 36.07458457,
-    "close_price": 35.86362457,
-    "percent_change": -0.58478844
+    "title": "Tree-Trimming Work Underway to Help Prevent or Minimize Power Outages Across Greater Cleveland",
+    "published": 1715791980,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 40.18000030517578,
+      "2024-05-15T14:30:00+00:00": 40.439998626708984,
+      "2024-05-15T15:30:00+00:00": 40.525001525878906,
+      "2024-05-15T16:30:00+00:00": 40.480098724365234,
+      "2024-05-15T17:30:00+00:00": 40.53499984741211,
+      "2024-05-15T18:30:00+00:00": 40.51499938964844,
+      "2024-05-15T19:30:00+00:00": 40.43000030517578
+    },
+    "sentiment": 0.8507550358772278
   },
   {
-    "title": "FirstEnergy's Ohio utilities reach settlement on Grid Mod II plan",
-    "published": 1713181200,
-    "posting_price": 36.07458457,
-    "close_price": 35.86362457,
-    "percent_change": -0.58478844
+    "title": "FirstEnergy Corp. - Tree-Trimming Work Underway to Help Prevent or Minimize Power Outages in Maryland",
+    "published": 1715758224,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 40.18000030517578,
+      "2024-05-15T14:30:00+00:00": 40.439998626708984,
+      "2024-05-15T15:30:00+00:00": 40.525001525878906,
+      "2024-05-15T16:30:00+00:00": 40.480098724365234,
+      "2024-05-15T17:30:00+00:00": 40.53499984741211,
+      "2024-05-15T18:30:00+00:00": 40.51499938964844,
+      "2024-05-15T19:30:00+00:00": 40.43000030517578
+    },
+    "sentiment": 0.8549660444259644
   },
   {
-    "title": "FE Battery Metals Strikes Lithium in Quebec",
-    "published": 1713172140,
-    "posting_price": 36.07458457,
-    "close_price": 35.86362457,
-    "percent_change": -0.58478844
+    "title": "Carl Icahn's Fund trims stakes in Icahn Enterprises, exits FirstEnergy and Newell among Q1 buy/sell",
+    "published": 1715747040,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 40.18000030517578,
+      "2024-05-15T14:30:00+00:00": 40.439998626708984,
+      "2024-05-15T15:30:00+00:00": 40.525001525878906,
+      "2024-05-15T16:30:00+00:00": 40.480098724365234,
+      "2024-05-15T17:30:00+00:00": 40.53499984741211,
+      "2024-05-15T18:30:00+00:00": 40.51499938964844,
+      "2024-05-15T19:30:00+00:00": 40.43000030517578
+    },
+    "sentiment": 0.8553538918495178
   },
   {
-    "title": "FE Battery Metals Drills 1.01 Percent Lithium Oxide Over 8 Meters at Augustus Lithium Property",
-    "published": 1713168060,
-    "posting_price": 36.07458457,
-    "close_price": 35.86362457,
-    "percent_change": -0.58478844
+    "title": "Tree-Trimming Work Underway to Help Prevent or Minimize Power Outages in Maryland",
+    "published": 1715703960,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 39.959999084472656,
+      "2024-05-14T14:30:00+00:00": 39.810001373291016,
+      "2024-05-14T15:30:00+00:00": 39.64500045776367,
+      "2024-05-14T16:30:00+00:00": 39.665000915527344,
+      "2024-05-14T17:30:00+00:00": 39.654998779296875,
+      "2024-05-14T18:30:00+00:00": 39.709999084472656,
+      "2024-05-14T19:30:00+00:00": 39.76499938964844
+    },
+    "sentiment": 0.8322098851203918
   },
   {
-    "title": "FirstEnergy (NYSE:FE) Has Announced That It Will Be Increasing Its Dividend To $0.425",
-    "published": 1713101976,
-    "posting_price": 36.07458457,
-    "close_price": 35.86362457,
-    "percent_change": -0.58478844
+    "title": "FirstEnergy Using Helicopters and Infrared Technology for Vegetation Management Inspections",
+    "published": 1715576888,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 40.0,
+      "2024-05-13T14:30:00+00:00": 40.11000061035156,
+      "2024-05-13T15:30:00+00:00": 40.060001373291016,
+      "2024-05-13T16:30:00+00:00": 39.93000030517578,
+      "2024-05-13T17:30:00+00:00": 39.8650016784668,
+      "2024-05-13T18:30:00+00:00": 39.81999969482422,
+      "2024-05-13T19:30:00+00:00": 39.755001068115234
+    },
+    "sentiment": 0.8884105682373047
   },
   {
-    "title": "15 Industries with the Highest Electricity Consumption in the US",
-    "published": 1713040140,
-    "posting_price": 36.07458457,
-    "close_price": 35.86362457,
-    "percent_change": -0.58478844
+    "title": "Looking Into FirstEnergy's Recent Short Interest",
+    "published": 1715257980,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 39.470001220703125,
+      "2024-05-09T14:30:00+00:00": 39.669898986816406,
+      "2024-05-09T15:30:00+00:00": 39.7400016784668,
+      "2024-05-09T16:30:00+00:00": 39.75,
+      "2024-05-09T17:30:00+00:00": 39.69499969482422,
+      "2024-05-09T18:30:00+00:00": 39.775001525878906,
+      "2024-05-09T19:30:00+00:00": 39.7599983215332
+    },
+    "sentiment": 0.9381771683692932
   },
   {
-    "title": "FirstEnergy (FE) Rides on Investments, Infrastructure Upgrade",
-    "published": 1712928120,
-    "posting_price": 36.04581303,
-    "close_price": 35.87320709,
-    "percent_change": -0.47885157
+    "title": "Interesting FE Put And Call Options For June 2025",
+    "published": 1715161020,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 39.220001220703125,
+      "2024-05-08T14:30:00+00:00": 39.5,
+      "2024-05-08T15:30:00+00:00": 39.54499816894531,
+      "2024-05-08T16:30:00+00:00": 39.345001220703125,
+      "2024-05-08T17:30:00+00:00": 39.51499938964844,
+      "2024-05-08T18:30:00+00:00": 39.55500030517578,
+      "2024-05-08T19:30:00+00:00": 39.560001373291016
+    },
+    "sentiment": 0.9490625262260437
   },
   {
-    "title": "FirstEnergy made secret $1 million payment in 2017 to support \u2018Husted campaign\u2019 in Ohio",
-    "published": 1712761809,
-    "posting_price": 36.51568784,
-    "close_price": 36.28554535,
-    "percent_change": -0.63025648
+    "title": "FirstEnergy Holds 2024 Annual Meeting",
+    "published": 1716384000,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 40.2599983215332,
+      "2024-05-22T14:30:00+00:00": 40.27000045776367,
+      "2024-05-22T15:30:00+00:00": 40.36000061035156,
+      "2024-05-22T16:30:00+00:00": 40.220001220703125,
+      "2024-05-22T17:30:00+00:00": 40.20000076293945,
+      "2024-05-22T18:30:00+00:00": 39.97999954223633,
+      "2024-05-22T19:30:00+00:00": 39.97999954223633
+    },
+    "sentiment": 0.9480739831924438
   },
   {
-    "title": "Tree-Trimming Work Underway to Help Prevent or Minimize Power Outages for JCP&L Customers",
-    "published": 1712759580,
-    "posting_price": 36.51568784,
-    "close_price": 36.28554535,
-    "percent_change": -0.63025648
+    "title": "Electric Grid Enhancements Completed in the Mahoning Valley",
+    "published": 1716261910,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 40.08000183105469,
+      "2024-05-21T14:30:00+00:00": 40.53499984741211,
+      "2024-05-21T15:30:00+00:00": 40.2400016784668,
+      "2024-05-21T16:30:00+00:00": 40.30500030517578,
+      "2024-05-21T17:30:00+00:00": 40.439998626708984,
+      "2024-05-21T18:30:00+00:00": 40.40999984741211,
+      "2024-05-21T19:30:00+00:00": 40.439998626708984
+    },
+    "sentiment": 0.9351344704627991
   },
   {
-    "title": "FirstEnergy (FE) is a Top-Ranked Momentum Stock: Should You Buy?",
-    "published": 1712757012,
-    "posting_price": 36.51568784,
-    "close_price": 36.28554535,
-    "percent_change": -0.63025648
+    "title": "The Evolution Of Retail Within Fallen Angels",
+    "published": 1716215100,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 40.09000015258789,
+      "2024-05-20T14:30:00+00:00": 39.97999954223633,
+      "2024-05-20T15:30:00+00:00": 40.060001373291016,
+      "2024-05-20T16:30:00+00:00": 40.064998626708984,
+      "2024-05-20T17:30:00+00:00": 40.07500076293945,
+      "2024-05-20T18:30:00+00:00": 40.025001525878906,
+      "2024-05-20T19:30:00+00:00": 39.94499969482422
+    },
+    "sentiment": 0.8858047127723694
   },
   {
-    "title": "Goldman Sachs Initiates Coverage of FirstEnergy (FE) with Buy Recommendation",
-    "published": 1712745349,
-    "posting_price": 36.51568784,
-    "close_price": 36.28554535,
-    "percent_change": -0.63025648
+    "title": "FirstEnergy Names Deandra Williams-Lewis Chief Privacy Officer",
+    "published": 1716180367,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 40.09000015258789,
+      "2024-05-20T14:30:00+00:00": 39.97999954223633,
+      "2024-05-20T15:30:00+00:00": 40.060001373291016,
+      "2024-05-20T16:30:00+00:00": 40.064998626708984,
+      "2024-05-20T17:30:00+00:00": 40.07500076293945,
+      "2024-05-20T18:30:00+00:00": 40.025001525878906,
+      "2024-05-20T19:30:00+00:00": 39.94499969482422
+    },
+    "sentiment": 0.9170286059379578
   },
   {
-    "title": "Dollar Consolidates Softer Ahead of Tomorrow's CPI",
-    "published": 1712650680,
-    "posting_price": 36.91843013,
-    "close_price": 36.8896637,
-    "percent_change": -0.07791889
+    "title": "FE Crosses Above Average Analyst Target",
+    "published": 1715841720,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 40.22999954223633,
+      "2024-05-16T14:30:00+00:00": 40.41999816894531,
+      "2024-05-16T15:30:00+00:00": 40.380001068115234,
+      "2024-05-16T16:30:00+00:00": 40.400001525878906,
+      "2024-05-16T17:30:00+00:00": 40.345001220703125,
+      "2024-05-16T18:30:00+00:00": 40.435001373291016,
+      "2024-05-16T19:30:00+00:00": 40.34000015258789
+    },
+    "sentiment": 0.7172475457191467
   },
   {
-    "title": "FirstEnergy initiated with bullish view at Goldman Sachs, here's why",
-    "published": 1712632920,
-    "posting_price": 36.91843013,
-    "close_price": 36.8896637,
-    "percent_change": -0.07791889
+    "title": "Imprisoned former Ohio House Speaker Larry Householder pleads not guilty to new charges",
+    "published": 1717146720,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 39.08000183105469,
+      "2024-05-31T14:30:00+00:00": 39.38999938964844,
+      "2024-05-31T15:30:00+00:00": 39.54999923706055,
+      "2024-05-31T16:30:00+00:00": 39.599998474121094,
+      "2024-05-31T17:30:00+00:00": 39.72999954223633,
+      "2024-05-31T18:30:00+00:00": 39.900001525878906,
+      "2024-05-31T19:30:00+00:00": 40.005001068115234
+    },
+    "sentiment": 0.7514969706535339
   },
   {
-    "title": "FirstEnergy to Webcast First Quarter Earnings Teleconference",
-    "published": 1712159400,
-    "posting_price": 36.83213206,
-    "close_price": 36.57322311,
-    "percent_change": -0.70294315
+    "title": "Goldman Sachs likes Utilities and has Buy ratings on SO, AEP, NEE, among others",
+    "published": 1717060500,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 38.720001220703125,
+      "2024-05-30T14:30:00+00:00": 38.630001068115234,
+      "2024-05-30T15:30:00+00:00": 38.744998931884766,
+      "2024-05-30T16:30:00+00:00": 38.790000915527344,
+      "2024-05-30T17:30:00+00:00": 38.814998626708984,
+      "2024-05-30T18:30:00+00:00": 38.845001220703125,
+      "2024-05-30T19:30:00+00:00": 38.95500183105469
+    },
+    "sentiment": 0.7925022840499878
   },
   {
-    "title": "PPL's Arm Receives Approval for $326M in Infrastructure Upgrade",
-    "published": 1712149920,
-    "posting_price": 36.83213206,
-    "close_price": 36.57322311,
-    "percent_change": -0.70294315
-  },
-  {
-    "title": "FirstEnergy's Pennsylvania unit seeks electric rate review",
-    "published": 1712068435,
-    "posting_price": 36.82254338,
-    "close_price": 36.88966751,
-    "percent_change": 0.18229086
-  },
-  {
-    "title": "FirstEnergy Pennsylvania Will File Rate Review to Support Continued Service Reliability Enhancements for Customers",
-    "published": 1712057400,
-    "posting_price": 36.82254338,
-    "close_price": 36.88966751,
-    "percent_change": 0.18229086
-  },
-  {
-    "title": "FirstEnergy: Dividend Distribution Potential, And Cheap Valuation",
-    "published": 1712054875,
-    "posting_price": 36.82254338,
-    "close_price": 36.88966751,
-    "percent_change": 0.18229086
-  },
-  {
-    "title": "FirstEnergy Corp. (NYSE:FE) Q1 2024 Earnings Call Transcript",
-    "published": 1714498128,
-    "posting_price": 36.98555443,
-    "close_price": 36.7650032,
-    "percent_change": -0.59631722
-  },
-  {
-    "title": "Public Service Enterprise's first-quarter profit drags as interest cost weighs",
-    "published": 1714482425,
-    "posting_price": 36.98555443,
-    "close_price": 36.7650032,
-    "percent_change": -0.59631722
-  },
-  {
-    "title": "RBC Capital Sticks to Its Buy Rating for FirstEnergy (FE)",
-    "published": 1714466820,
-    "posting_price": 36.98555443,
-    "close_price": 36.7650032,
-    "percent_change": -0.59631722
-  },
-  {
-    "title": "FirstEnergy may \u2018put a little money on the table\u2019 to help end HB 6 bribery litigation: CEO",
-    "published": 1714382799,
-    "posting_price": 36.75541659,
-    "close_price": 37.1869278,
-    "percent_change": 1.17400713
-  },
-  {
-    "title": "Nearly 500 Trees to be Planted Across Mahoning Valley on Arbor Day Today",
-    "published": 1714364949,
-    "posting_price": 36.75541659,
-    "close_price": 37.1869278,
-    "percent_change": 1.17400713
-  },
-  {
-    "title": "Analysts Conflicted on These Utilities Names: FirstEnergy (FE) and California Water Service (CWT)",
-    "published": 1714303920,
-    "posting_price": 36.75541659,
-    "close_price": 37.1869278,
-    "percent_change": 1.17400713
-  },
-  {
-    "title": "FirstEnergy Corp (FE) (Q1 2024) Earnings Call Transcript Highlights: Navigating Financial ...",
-    "published": 1714201818,
-    "posting_price": 36.75541659,
-    "close_price": 37.1869278,
-    "percent_change": 1.17400713
-  },
-  {
-    "title": "Q1 2024 FirstEnergy Corp Earnings Call",
-    "published": 1714191393,
-    "posting_price": 36.75541659,
-    "close_price": 37.1869278,
-    "percent_change": 1.17400713
-  },
-  {
-    "title": "FirstEnergy Corp. (FE) Q1 2024 Earnings Call Transcript",
-    "published": 1714137849,
-    "posting_price": 36.63075327,
-    "close_price": 36.56362915,
-    "percent_change": -0.18324526
-  },
-  {
-    "title": "FirstEnergy (FE) Q1 Earnings Beat Estimates, Revenues Lag",
-    "published": 1714131060,
-    "posting_price": 36.63075327,
-    "close_price": 36.56362915,
-    "percent_change": -0.18324526
-  },
-  {
-    "title": "FE Battery Metals Completes Private Placement Tranche",
-    "published": 1714123080,
-    "posting_price": 36.63075327,
-    "close_price": 36.56362915,
-    "percent_change": -0.18324526
-  },
-  {
-    "title": "FE Battery Metals Corp. Announces Closing of Private Placement",
-    "published": 1714122000,
-    "posting_price": 36.63075327,
-    "close_price": 36.56362915,
-    "percent_change": -0.18324526
-  },
-  {
-    "title": "Decoding FirstEnergy Corp (FE): A Strategic SWOT Insight",
-    "published": 1714107897,
-    "posting_price": 36.63075327,
-    "close_price": 36.56362915,
-    "percent_change": -0.18324526
-  },
-  {
-    "title": "Here's What Key Metrics Tell Us About FirstEnergy (FE) Q1 Earnings",
-    "published": 1714086006,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy Corp Reports Mixed First Quarter 2024 Results, Aligns Closely with Analyst Projections",
-    "published": 1714083160,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy (FE) Q1 Earnings Surpass Estimates",
-    "published": 1714081508,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy Announces First Quarter 2024 Financial Results",
-    "published": 1714076400,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy misses first-quarter profit estimates on unfavorable weather",
-    "published": 1714065313,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy: Q1 Earnings Snapshot",
-    "published": 1714063514,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FE Stock Earnings: FirstEnergy Misses EPS, Beats Revenue for Q1 2024",
-    "published": 1714031700,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy Unveils 1Q 2024 Strategic and Financial Highlights",
-    "published": 1714017240,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy Non-GAAP EPS of $0.55 beats by $0.01",
-    "published": 1714015620,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy reports Q1 adjusted EPS 55c, consensus 56c",
-    "published": 1714015440,
-    "posting_price": 36.65952449,
-    "close_price": 36.98555756,
-    "percent_change": 0.88935433
-  },
-  {
-    "title": "FirstEnergy Q1 2024 Earnings Preview",
-    "published": 1713933420,
-    "posting_price": 36.33348925,
-    "close_price": 36.72664642,
-    "percent_change": 1.08207931
-  },
-  {
-    "title": "FirstEnergy Set to Plant More Than 25,000 Trees in 2024",
-    "published": 1713892260,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "Earnings Preview: PSEG (PEG) Q1 Earnings Expected to Decline",
-    "published": 1713880874,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "NextEra Energy (NEE) Q1 Earnings Beat Estimates, Sales Lag",
-    "published": 1713880380,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "What's in the Cards for FirstEnergy (FE) This Earnings Season?",
-    "published": 1713879000,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "FE Battery Metals Unveils High-Grade Lithium Finds",
-    "published": 1713863280,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "FirstEnergy price target raised by $5 at BofA, here's why",
-    "published": 1713861000,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "FE Battery Metals Drills 1.05 Percent Lithium Oxide Over 8.75 Meters at Augustus Lithium Property",
-    "published": 1713859200,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "Dive Into Dividends: Top 10 Yield Stocks (SA Quant)",
-    "published": 1713855600,
-    "posting_price": 36.63075438,
-    "close_price": 36.554039,
-    "percent_change": -0.20942888
-  },
-  {
-    "title": "FirstEnergy (FE) Gets a Buy from RBC Capital",
-    "published": 1713775740,
-    "posting_price": 36.49650687,
-    "close_price": 36.64034271,
-    "percent_change": 0.39410851
-  },
-  {
-    "title": "FirstEnergy price target lowered by $1 at Scotiabank, here's why",
-    "published": 1713774420,
-    "posting_price": 36.49650687,
-    "close_price": 36.64034271,
-    "percent_change": 0.39410851
-  },
-  {
-    "title": "Work Underway to Upgrade Electric System in Erie County, Pennsylvania",
-    "published": 1713452700,
-    "posting_price": 36.0554012,
-    "close_price": 36.0841713,
-    "percent_change": 0.07979415
-  },
-  {
-    "title": "Earnings Preview: FirstEnergy (FE) Q1 Earnings Expected to Decline",
-    "published": 1713448913,
-    "posting_price": 36.0554012,
-    "close_price": 36.0841713,
-    "percent_change": 0.07979415
-  },
-  {
-    "title": "FE June 21st Options Begin Trading",
-    "published": 1713434040,
-    "posting_price": 36.0554012,
-    "close_price": 36.0841713,
-    "percent_change": 0.07979415
-  },
-  {
-    "title": "Peering Into FirstEnergy's Recent Short Interest",
-    "published": 1713270780,
-    "posting_price": 35.74854687,
-    "close_price": 35.31703568,
-    "percent_change": -1.20707337
-  },
-  {
-    "title": "FirstEnergy Names John Combs Senior Vice President, Shared Services",
-    "published": 1713269700,
-    "posting_price": 35.74854687,
-    "close_price": 35.31703568,
-    "percent_change": -1.20707337
-  },
-  {
-    "title": "FE Battery Metals Reports Positive Lithium Exploration",
-    "published": 1713244080,
-    "posting_price": 35.74854687,
-    "close_price": 35.31703568,
-    "percent_change": -1.20707337
+    "title": "FirstEnergy price target raised by $4 at Morgan Stanley, here's why",
+    "published": 1716886380,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 38.9900016784668,
+      "2024-05-28T14:30:00+00:00": 38.974998474121094,
+      "2024-05-28T15:30:00+00:00": 38.974998474121094,
+      "2024-05-28T16:30:00+00:00": 39.064998626708984,
+      "2024-05-28T17:30:00+00:00": 38.875,
+      "2024-05-28T18:30:00+00:00": 38.880001068115234,
+      "2024-05-28T19:30:00+00:00": 38.84000015258789
+    },
+    "sentiment": 0.7124553322792053
   }
 ]

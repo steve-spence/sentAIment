@@ -1,443 +1,196 @@
 [
   {
-    "title": "Arthur J. Gallagher Breaks Below 200-Day Moving Average - Notable for AJG",
-    "published": 1713153300,
-    "posting_price": 235.41502704,
-    "close_price": 230.16880798,
-    "percent_change": -2.22849795
+    "title": "Arthur J. Gallagher & Co. Acquires Health Insurance Consultants Australia",
+    "published": 1715000400,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 240.44000244140625,
+      "2024-05-06T14:30:00+00:00": 240.9949951171875,
+      "2024-05-06T15:30:00+00:00": 240.9499969482422,
+      "2024-05-06T16:30:00+00:00": 241.39500427246094,
+      "2024-05-06T17:30:00+00:00": 242.55499267578125,
+      "2024-05-06T18:30:00+00:00": 242.27999877929688,
+      "2024-05-06T19:30:00+00:00": 242.02999877929688
+    },
+    "sentiment": 0.9390704035758972
   },
   {
-    "title": "Insiders At Arthur J. Gallagher Sold US$17m In Stock, Alluding To Potential Weakness",
-    "published": 1713006065,
-    "posting_price": 235.41501143,
-    "close_price": 230.16879272,
-    "percent_change": -2.22849795
+    "title": "Arthur J. Gallagher acquires Health Insurance Consultants Australia",
+    "published": 1714982700,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 240.44000244140625,
+      "2024-05-06T14:30:00+00:00": 240.9949951171875,
+      "2024-05-06T15:30:00+00:00": 240.9499969482422,
+      "2024-05-06T16:30:00+00:00": 241.39500427246094,
+      "2024-05-06T17:30:00+00:00": 242.55499267578125,
+      "2024-05-06T18:30:00+00:00": 242.27999877929688,
+      "2024-05-06T19:30:00+00:00": 242.02999877929688
+    },
+    "sentiment": 0.9371135830879211
   },
   {
-    "title": "AON & ReliaQuest Enhance Offerings in Cyber Risk Management",
-    "published": 1712844420,
-    "posting_price": 236.70424394,
-    "close_price": 236.19847107,
-    "percent_change": -0.21367292
+    "title": "$1000 Invested In This Stock 10 Years Ago Would Be Worth $5,300 Today",
+    "published": 1714732380,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 237.16000366210938,
+      "2024-05-03T14:30:00+00:00": 236.67999267578125,
+      "2024-05-03T15:30:00+00:00": 235.47500610351562,
+      "2024-05-03T16:30:00+00:00": 237.35000610351562,
+      "2024-05-03T17:30:00+00:00": 237.85000610351562,
+      "2024-05-03T18:30:00+00:00": 239.02000427246094,
+      "2024-05-03T19:30:00+00:00": 239.11000061035156
+    },
+    "sentiment": 0.9509309530258179
   },
   {
-    "title": "Truist Securities Downgrades Arthur J. Gallagher (AJG)",
-    "published": 1712790020,
-    "posting_price": 237.28938094,
-    "close_price": 238.03317261,
-    "percent_change": 0.31345342
+    "title": "Full Video Coverage: Readiness and the Road to IPO Panel from IPO Edge Bootcamp at Nasdaq",
+    "published": 1715634898,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 250.6699981689453,
+      "2024-05-13T14:30:00+00:00": 250.6750030517578,
+      "2024-05-13T15:30:00+00:00": 250.16000366210938,
+      "2024-05-13T16:30:00+00:00": 249.25,
+      "2024-05-13T17:30:00+00:00": 250.00999450683594,
+      "2024-05-13T18:30:00+00:00": 250.1199951171875,
+      "2024-05-13T19:30:00+00:00": 249.98500061035156
+    },
+    "sentiment": 0.9375340938568115
   },
   {
-    "title": "Arthur J. Gallagher downgraded at Truist on macro risks",
-    "published": 1712748540,
-    "posting_price": 237.28938094,
-    "close_price": 238.03317261,
-    "percent_change": 0.31345342
+    "title": "Arthur J. Gallagher & Co. Acquires Acumen Advisors, Inc.",
+    "published": 1715605200,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 250.6699981689453,
+      "2024-05-13T14:30:00+00:00": 250.6750030517578,
+      "2024-05-13T15:30:00+00:00": 250.16000366210938,
+      "2024-05-13T16:30:00+00:00": 249.25,
+      "2024-05-13T17:30:00+00:00": 250.00999450683594,
+      "2024-05-13T18:30:00+00:00": 250.1199951171875,
+      "2024-05-13T19:30:00+00:00": 249.98500061035156
+    },
+    "sentiment": 0.9247931241989136
   },
   {
-    "title": "Arthur J Gallagher & Co (AJG) Gets a Sell from Bank of America Securities",
-    "published": 1712741760,
-    "posting_price": 237.28938094,
-    "close_price": 238.03317261,
-    "percent_change": 0.31345342
+    "title": "Arthur J. Gallagher acquires Acumen Advisors",
+    "published": 1715587380,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 250.6699981689453,
+      "2024-05-13T14:30:00+00:00": 250.6750030517578,
+      "2024-05-13T15:30:00+00:00": 250.16000366210938,
+      "2024-05-13T16:30:00+00:00": 249.25,
+      "2024-05-13T17:30:00+00:00": 250.00999450683594,
+      "2024-05-13T18:30:00+00:00": 250.1199951171875,
+      "2024-05-13T19:30:00+00:00": 249.98500061035156
+    },
+    "sentiment": 0.9366211891174316
   },
   {
-    "title": "$100 Invested In Arthur J. Gallagher 20 Years Ago Would Be Worth This Much Today",
-    "published": 1712741760,
-    "posting_price": 237.28938094,
-    "close_price": 238.03317261,
-    "percent_change": 0.31345342
+    "title": "Arthur J. Gallagher: Positive On Both Organic And Inorganic Growth",
+    "published": 1715418463,
+    "day_prices": {},
+    "sentiment": 0.7486478090286255
   },
   {
-    "title": "Arthur J. Gallagher just downgraded at Truist, here's why",
-    "published": 1712725680,
-    "posting_price": 237.28938094,
-    "close_price": 238.03317261,
-    "percent_change": 0.31345342
+    "title": "Top Analyst Reports for Salesforce, BP & Southern Co.",
+    "published": 1715202120,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 246.6300048828125,
+      "2024-05-08T14:30:00+00:00": 245.32000732421875,
+      "2024-05-08T15:30:00+00:00": 246.5500030517578,
+      "2024-05-08T16:30:00+00:00": 246.44000244140625,
+      "2024-05-08T17:30:00+00:00": 245.34500122070312,
+      "2024-05-08T18:30:00+00:00": 245.22999572753906,
+      "2024-05-08T19:30:00+00:00": 245.2550048828125
+    },
+    "sentiment": 0.9315452575683594
   },
   {
-    "title": "Insurance Data Spooks Analyst Amid Industry Jitters, Arthur J. Gallagher Loses Favor",
-    "published": 1712711220,
-    "posting_price": 237.28938094,
-    "close_price": 238.03317261,
-    "percent_change": 0.31345342
+    "title": "Arthur J. Gallagher & Co. Acquires CCI Surety, Inc.",
+    "published": 1716469200,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 256.9800109863281,
+      "2024-05-23T14:30:00+00:00": 255.23500061035156,
+      "2024-05-23T15:30:00+00:00": 253.52000427246094,
+      "2024-05-23T16:30:00+00:00": 253.66000366210938,
+      "2024-05-23T17:30:00+00:00": 252.56149291992188,
+      "2024-05-23T18:30:00+00:00": 250.88999938964844,
+      "2024-05-23T19:30:00+00:00": 250.7100067138672
+    },
+    "sentiment": 0.9189720749855042
   },
   {
-    "title": "Arch Capital (ACGL) Unit to Expand in Middle-Market P&C Segment",
-    "published": 1712592120,
-    "posting_price": 241.68270188,
-    "close_price": 242.13890076,
-    "percent_change": 0.18875943
+    "title": "Arthur J. Gallagher acquires CCI Surety",
+    "published": 1716451320,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 256.9800109863281,
+      "2024-05-23T14:30:00+00:00": 255.23500061035156,
+      "2024-05-23T15:30:00+00:00": 253.52000427246094,
+      "2024-05-23T16:30:00+00:00": 253.66000366210938,
+      "2024-05-23T17:30:00+00:00": 252.56149291992188,
+      "2024-05-23T18:30:00+00:00": 250.88999938964844,
+      "2024-05-23T19:30:00+00:00": 250.7100067138672
+    },
+    "sentiment": 0.9284304976463318
   },
   {
-    "title": "(AJG) - Analyzing Arthur J. Gallagher's Short Interest",
-    "published": 1712566860,
-    "posting_price": 241.68270188,
-    "close_price": 242.13890076,
-    "percent_change": 0.18875943
+    "title": "Arthur J. Gallagher (AJG) Rises 15% YTD: More Room to Grow?",
+    "published": 1716396900,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 257.9800109863281,
+      "2024-05-22T14:30:00+00:00": 258.5849914550781,
+      "2024-05-22T15:30:00+00:00": 257.260009765625,
+      "2024-05-22T16:30:00+00:00": 258.29998779296875,
+      "2024-05-22T17:30:00+00:00": 257.7099914550781,
+      "2024-05-22T18:30:00+00:00": 257.3399963378906,
+      "2024-05-22T19:30:00+00:00": 257.4574890136719
+    },
+    "sentiment": 0.9291080236434937
   },
   {
-    "title": "Arthur J. Gallagher & Co. Announces First Quarter 2024 Earnings Release And Conference Call Date",
-    "published": 1712348100,
-    "posting_price": 238.66786964,
-    "close_price": 241.9703064,
-    "percent_change": 1.38369558
+    "title": "Video Highlights from 2023 CorpGov Palm Beach Forum",
+    "published": 1716309126,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 257.3399963378906,
+      "2024-05-21T14:30:00+00:00": 256.8900146484375,
+      "2024-05-21T15:30:00+00:00": 257.6099853515625,
+      "2024-05-21T16:30:00+00:00": 257.4800109863281,
+      "2024-05-21T17:30:00+00:00": 257.4800109863281,
+      "2024-05-21T18:30:00+00:00": 257.4800109863281,
+      "2024-05-21T19:30:00+00:00": 257.510009765625
+    },
+    "sentiment": 0.9356644749641418
   },
   {
-    "title": "Assurant (AIZ) Bolsters UK Presence With iSmash Acquisition",
-    "published": 1712332920,
-    "posting_price": 238.66786964,
-    "close_price": 241.9703064,
-    "percent_change": 1.38369558
+    "title": "Arthur J. Gallagher & Co. stock underperforms Monday when compared to competitors",
+    "published": 1716177300,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 257.6499938964844,
+      "2024-05-20T14:30:00+00:00": 257.4425048828125,
+      "2024-05-20T15:30:00+00:00": 257.99249267578125,
+      "2024-05-20T16:30:00+00:00": 257.29998779296875,
+      "2024-05-20T17:30:00+00:00": 257.37249755859375,
+      "2024-05-20T18:30:00+00:00": 257.1199951171875,
+      "2024-05-20T19:30:00+00:00": 256.7799987792969
+    },
+    "sentiment": 0.9602959752082825
   },
   {
-    "title": "Arthur J. Gallagher & Co. stock underperforms Thursday when compared to competitors",
-    "published": 1712202960,
-    "posting_price": 245.18347976,
-    "close_price": 238.31085205,
-    "percent_change": -2.80305497
+    "title": "Insider Sell: Director David Johnson Sells Shares of Arthur J. Gallagher & Co (AJG)",
+    "published": 1716640920,
+    "day_prices": {},
+    "sentiment": 0.7220514416694641
   },
   {
-    "title": "Special Olympics International and Gallagher Announce Renewed Global Partnership to Further Support Special Olympics Sports and Athletes Around the World",
-    "published": 1712149200,
-    "posting_price": 243.52732736,
-    "close_price": 243.33889771,
-    "percent_change": -0.07737516
-  },
-  {
-    "title": "Arthur J. Gallagher (AJG) Expands With Strategic Acquisition",
-    "published": 1712067960,
-    "posting_price": 246.03636165,
-    "close_price": 243.32896423,
-    "percent_change": -1.1004054
-  },
-  {
-    "title": "Arthur J. Gallagher price target raised by $24 at TD Cowen, here's why",
-    "published": 1712040720,
-    "posting_price": 246.03636165,
-    "close_price": 243.32896423,
-    "percent_change": -1.1004054
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. (NYSE:AJG) Q1 2024 Earnings Call Transcript",
-    "published": 1714482941,
-    "posting_price": 232.04315452,
-    "close_price": 232.74728394,
-    "percent_change": 0.30344762
-  },
-  {
-    "title": "17 Best Insurance Dividend Stocks To Invest In Right Now",
-    "published": 1714425768,
-    "posting_price": 231.85473339,
-    "close_price": 231.61672974,
-    "percent_change": -0.10265206
-  },
-  {
-    "title": "The \u201chighest quality\u201d stocks within each sector - GS",
-    "published": 1714393320,
-    "posting_price": 231.85473339,
-    "close_price": 231.61672974,
-    "percent_change": -0.10265206
-  },
-  {
-    "title": "Piper Sandler Keeps Their Hold Rating on Arthur J Gallagher & Co (AJG)",
-    "published": 1714370100,
-    "posting_price": 231.85473339,
-    "close_price": 231.61672974,
-    "percent_change": -0.10265206
-  },
-  {
-    "title": "Arthur J. Gallagher price target lowered by $1 at Piper Sandler, here's why",
-    "published": 1714369980,
-    "posting_price": 231.85473339,
-    "close_price": 231.61672974,
-    "percent_change": -0.10265206
-  },
-  {
-    "title": "With rate cuts pushed out, Goldman looks at quality stocks",
-    "published": 1714271220,
-    "posting_price": 231.85474866,
-    "close_price": 231.616745,
-    "percent_change": -0.10265205
-  },
-  {
-    "title": "Arthur J. Gallagher First Quarter 2024 Earnings: In Line With Expectations",
-    "published": 1714220987,
-    "posting_price": 231.85473339,
-    "close_price": 231.61672974,
-    "percent_change": -0.10265206
-  },
-  {
-    "title": "Arthur J. Gallagher (AJG) Q1 Earnings Beat, Revenues Rise Y/Y",
-    "published": 1714134840,
-    "posting_price": 234.98857609,
-    "close_price": 232.17208862,
-    "percent_change": -1.19856357
-  },
-  {
-    "title": "Arthur J Gallagher & Co (AJG) Receives a Sell from KBW",
-    "published": 1714134600,
-    "posting_price": 234.98857609,
-    "close_price": 232.17208862,
-    "percent_change": -1.19856357
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Financial Companies: Customers Bancorp (CUBI) and Arthur J Gallagher & Co (AJG)",
-    "published": 1714113180,
-    "posting_price": 234.98857609,
-    "close_price": 232.17208862,
-    "percent_change": -1.19856357
-  },
-  {
-    "title": "Analysts Conflicted on These Financial Names: Arthur J Gallagher & Co (AJG) and Associated Banc-Corp (ASB)",
-    "published": 1714110060,
-    "posting_price": 234.98857609,
-    "close_price": 232.17208862,
-    "percent_change": -1.19856357
-  },
-  {
-    "title": "Arthur J Gallagher & Co (AJG) Gets a Buy from RBC Capital",
-    "published": 1714109760,
-    "posting_price": 234.98857609,
-    "close_price": 232.17208862,
-    "percent_change": -1.19856357
-  },
-  {
-    "title": "Arthur J. Gallagher & Co (AJG) Q1 2024 Earnings Call Transcript Highlights: Robust Growth ...",
-    "published": 1714095900,
-    "posting_price": 234.98857609,
-    "close_price": 232.17208862,
-    "percent_change": -1.19856357
-  },
-  {
-    "title": "Arthur J. Gallagher (AJG) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1714084208,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. (AJG) Q1 2024 Earnings Call Transcript",
-    "published": 1714083429,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. Reports First Quarter 2024 Earnings, Surpasses Analyst Expectations",
-    "published": 1714081955,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. Announces First Quarter 2024 Financial Results",
-    "published": 1714076100,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J. Gallagher's first-quarter profit jumps on higher commissions, fees",
-    "published": 1714065365,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J. Gallagher: Q1 Earnings Snapshot",
-    "published": 1714062704,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights Marsh & McLennan, Aon, Arthur J. Gallagher, Willis Towers Watson and Brown and Brown",
-    "published": 1714048080,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "5 Bigwigs Likely to Gain on Earnings After Closing Bell Today",
-    "published": 1714042860,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J Gallagher & Co (AJG) Receives a Buy from Goldman Sachs",
-    "published": 1714040160,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "AJG Stock Earnings: Arthur J. Gallagher Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714031700,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J Gallagher & Co Unveils Earnings and Future Insights",
-    "published": 1714017120,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J.Gallagher Non-GAAP EPS of $3.49 beats by $0.08, revenue of $3.26B beats by $70M",
-    "published": 1714016700,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J. Gallagher reports Q1 adjusted EPS $3.49, consensus $3.41",
-    "published": 1714015260,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Arthur J.Gallagher declares $0.60 dividend",
-    "published": 1714008600,
-    "posting_price": 234.36379647,
-    "close_price": 234.98857117,
-    "percent_change": 0.26658328
-  },
-  {
-    "title": "Watch These 5 Insurance Stocks for Q1 Earnings: Beat or Miss?",
-    "published": 1713982800,
-    "posting_price": 235.55387617,
-    "close_price": 234.8497467,
-    "percent_change": -0.29892502
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. Announces Regular Second Quarter Dividend",
-    "published": 1713975378,
-    "posting_price": 235.55387617,
-    "close_price": 234.8497467,
-    "percent_change": -0.29892502
-  },
-  {
-    "title": "5 Stocks From the Thriving Insurance Brokerage Industry",
-    "published": 1713969660,
-    "posting_price": 235.55387617,
-    "close_price": 234.8497467,
-    "percent_change": -0.29892502
-  },
-  {
-    "title": "Should You Buy Arthur J. Gallagher (AJG) Ahead of Earnings?",
-    "published": 1713961080,
-    "posting_price": 235.55387617,
-    "close_price": 234.8497467,
-    "percent_change": -0.29892502
-  },
-  {
-    "title": "Will Arthur J. Gallagher (AJG) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1713888615,
-    "posting_price": 236.47615589,
-    "close_price": 235.9009552,
-    "percent_change": -0.24323835
-  },
-  {
-    "title": "VOE: Ahead Of Peers In 2024, But Average In The Long Term",
-    "published": 1713865679,
-    "posting_price": 236.47615589,
-    "close_price": 235.9009552,
-    "percent_change": -0.24323835
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. Acquires Prasidium Credit Insurance",
-    "published": 1713819600,
-    "posting_price": 236.38690655,
-    "close_price": 235.55386353,
-    "percent_change": -0.35240658
-  },
-  {
-    "title": "What Analyst Projections for Key Metrics Reveal About Arthur J. Gallagher (AJG) Q1 Earnings",
-    "published": 1713791767,
-    "posting_price": 236.38690655,
-    "close_price": 235.55386353,
-    "percent_change": -0.35240658
-  },
-  {
-    "title": "What Awaits Arthur J. Gallagher (AJG) This Earnings Season?",
-    "published": 1713789240,
-    "posting_price": 236.38690655,
-    "close_price": 235.55386353,
-    "percent_change": -0.35240658
-  },
-  {
-    "title": "Arthur J. Gallagher acquires Prasidium Credit Insurance",
-    "published": 1713759180,
-    "posting_price": 236.38690655,
-    "close_price": 235.55386353,
-    "percent_change": -0.35240658
-  },
-  {
-    "title": "Arthur J. Gallagher acquires Prasidium Credit Insurance, terms not disclosed",
-    "published": 1713758460,
-    "posting_price": 236.38690655,
-    "close_price": 235.55386353,
-    "percent_change": -0.35240658
-  },
-  {
-    "title": "IPO Edge Bootcamp at Nasdaq\u200b with ICR, Goodmans, KPMG, Gallagher, Vinson & Elkins on May 6",
-    "published": 1713466469,
-    "posting_price": 231.10102535,
-    "close_price": 232.05308533,
-    "percent_change": 0.41196701
-  },
-  {
-    "title": "Arthur J. Gallagher (AJG) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713448905,
-    "posting_price": 231.10102535,
-    "close_price": 232.05308533,
-    "percent_change": 0.41196701
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. Acquires Fontenelle & Goodreau Insurance, LLC",
-    "published": 1713445200,
-    "posting_price": 231.10102535,
-    "close_price": 232.05308533,
-    "percent_change": 0.41196701
-  },
-  {
-    "title": "Schneider honored as Best-In-Class Employer by Gallagher",
-    "published": 1713430800,
-    "posting_price": 231.10102535,
-    "close_price": 232.05308533,
-    "percent_change": 0.41196701
-  },
-  {
-    "title": "Arthur J. Gallagher & Co. acquires Fontenelle & Goodreau Insurance",
-    "published": 1713428160,
-    "posting_price": 231.10102535,
-    "close_price": 232.05308533,
-    "percent_change": 0.41196701
-  },
-  {
-    "title": "Arthur J. Gallagher acquires Fontenelle & Goodreau Insurance",
-    "published": 1713427320,
-    "posting_price": 231.10102535,
-    "close_price": 232.05308533,
-    "percent_change": 0.41196701
-  },
-  {
-    "title": "Arthur J. Gallagher & Co.'s (NYSE:AJG) institutional investors lost 5.2% last week but have benefitted from longer-term gains",
-    "published": 1713355221,
-    "posting_price": 230.19856292,
-    "close_price": 228.61181641,
-    "percent_change": -0.68929471
-  },
-  {
-    "title": "Reasons Why Investors Should Retain Arthur J. Gallagher (AJG)",
-    "published": 1713272820,
-    "posting_price": 230.0795559,
-    "close_price": 229.51426697,
-    "percent_change": -0.24569281
+    "title": "Do Its Financials Have Any Role To Play In Driving Arthur J. Gallagher & Co.'s (NYSE:AJG) Stock Up Recently?",
+    "published": 1716557166,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 250.88999938964844,
+      "2024-05-24T14:30:00+00:00": 251.19500732421875,
+      "2024-05-24T15:30:00+00:00": 251.89999389648438,
+      "2024-05-24T16:30:00+00:00": 251.9550018310547,
+      "2024-05-24T17:30:00+00:00": 251.67999267578125,
+      "2024-05-24T18:30:00+00:00": 251.7781982421875,
+      "2024-05-24T19:30:00+00:00": 251.49000549316406
+    },
+    "sentiment": 0.680456817150116
   }
 ]

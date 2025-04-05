@@ -1,632 +1,198 @@
 [
   {
-    "title": "Laboratory Corporation of America Holdings (NYSE:LH) Has Announced A Dividend Of $0.72",
-    "published": 1713207819,
-    "posting_price": 204.35171819,
-    "close_price": 200.76730347,
-    "percent_change": -1.75404188
+    "title": "Healthcare Surprise Billing Of Laboratory Tests",
+    "published": 1715062330,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 201.99000549316406,
+      "2024-05-07T14:30:00+00:00": 201.85000610351562,
+      "2024-05-07T15:30:00+00:00": 201.24000549316406,
+      "2024-05-07T16:30:00+00:00": 200.61000061035156,
+      "2024-05-07T17:30:00+00:00": 200.4499969482422,
+      "2024-05-07T18:30:00+00:00": 200.25,
+      "2024-05-07T19:30:00+00:00": 201.05499267578125
+    },
+    "sentiment": 0.6576898694038391
   },
   {
-    "title": "Labcorp Announces First-of-Its-Kind Test for Early Indication of Neurodegenerative Diseases and Brain Injuries Using a Blood Draw",
-    "published": 1713178800,
-    "posting_price": 204.35171819,
-    "close_price": 200.76730347,
-    "percent_change": -1.75404188
+    "title": "FDA Approves ColoSense\u2122 \u2013 Geneoscopy's Noninvasive Multi-target Stool RNA (mt-sRNA) Colorectal Cancer Screening Test",
+    "published": 1715011200,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 202.41000366210938,
+      "2024-05-06T14:30:00+00:00": 201.21499633789062,
+      "2024-05-06T15:30:00+00:00": 200.19000244140625,
+      "2024-05-06T16:30:00+00:00": 199.8300018310547,
+      "2024-05-06T17:30:00+00:00": 200.3300018310547,
+      "2024-05-06T18:30:00+00:00": 200.72000122070312,
+      "2024-05-06T19:30:00+00:00": 200.02000427246094
+    },
+    "sentiment": 0.7676966190338135
   },
   {
-    "title": "Labcorp's (LH) At-Home Mpox Testing Kit Gets the FDA's EUA Nod",
-    "published": 1712927400,
-    "posting_price": 202.6335732,
-    "close_price": 203.14703369,
-    "percent_change": 0.25339359
+    "title": "Geneoscopy to launch ColoSense in collaboration with Labcorp after FDA approval",
+    "published": 1714964520,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 202.41000366210938,
+      "2024-05-06T14:30:00+00:00": 201.21499633789062,
+      "2024-05-06T15:30:00+00:00": 200.19000244140625,
+      "2024-05-06T16:30:00+00:00": 199.8300018310547,
+      "2024-05-06T17:30:00+00:00": 200.3300018310547,
+      "2024-05-06T18:30:00+00:00": 200.72000122070312,
+      "2024-05-06T19:30:00+00:00": 200.02000427246094
+    },
+    "sentiment": 0.7747716307640076
   },
   {
-    "title": "Myriad Genetics (MYGN) Announces Favorable Research Results",
-    "published": 1712844000,
-    "posting_price": 205.2996494,
-    "close_price": 203.90734863,
-    "percent_change": -0.67817981
+    "title": "Fourth Circuit Court Of Appeals Revives Class Action Over Labcorp's Deceptive Patient Acknowledgment Form",
+    "published": 1714644671,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 201.57000732421875,
+      "2024-05-02T14:30:00+00:00": 200.39999389648438,
+      "2024-05-02T15:30:00+00:00": 199.57000732421875,
+      "2024-05-02T16:30:00+00:00": 199.47000122070312,
+      "2024-05-02T17:30:00+00:00": 200.3000030517578,
+      "2024-05-02T18:30:00+00:00": 200.49000549316406,
+      "2024-05-02T19:30:00+00:00": 199.75
+    },
+    "sentiment": 0.9195696711540222
   },
   {
-    "title": "Labcorp Declares Quarterly Dividend",
-    "published": 1712833140,
-    "posting_price": 205.2996494,
-    "close_price": 203.90734863,
-    "percent_change": -0.67817981
+    "title": "Labcorp Introduces First Trimester Screening Test to Assess Preeclampsia Risk during Pregnancy",
+    "published": 1715774400,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 212.25999450683594,
+      "2024-05-15T14:30:00+00:00": 211.15499877929688,
+      "2024-05-15T15:30:00+00:00": 212.03500366210938,
+      "2024-05-15T16:30:00+00:00": 212.2899932861328,
+      "2024-05-15T17:30:00+00:00": 212.80999755859375,
+      "2024-05-15T18:30:00+00:00": 212.77999877929688,
+      "2024-05-15T19:30:00+00:00": 213.1699981689453
+    },
+    "sentiment": 0.7868399620056152
   },
   {
-    "title": "Laboratory Corp Announces Upcoming Cash Dividend Payout",
-    "published": 1712821980,
-    "posting_price": 205.2996494,
-    "close_price": 203.90734863,
-    "percent_change": -0.67817981
+    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Bolt Biotherapeutics (BOLT), Laboratory (LH) and Biophytis (OtherBPTSY)",
+    "published": 1715750580,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 212.25999450683594,
+      "2024-05-15T14:30:00+00:00": 211.15499877929688,
+      "2024-05-15T15:30:00+00:00": 212.03500366210938,
+      "2024-05-15T16:30:00+00:00": 212.2899932861328,
+      "2024-05-15T17:30:00+00:00": 212.80999755859375,
+      "2024-05-15T18:30:00+00:00": 212.77999877929688,
+      "2024-05-15T19:30:00+00:00": 213.1699981689453
+    },
+    "sentiment": 0.6095501780509949
   },
   {
-    "title": "Laboratory Corporation of America declares $0.72 dividend",
-    "published": 1712819220,
-    "posting_price": 205.2996494,
-    "close_price": 203.90734863,
-    "percent_change": -0.67817981
-  },
-  {
-    "title": "Labcorp Receives FDA Emergency Use Authorization for Mpox PCR Test Home Collection Kit",
-    "published": 1712746140,
-    "posting_price": 205.95138634,
-    "close_price": 204.56895447,
-    "percent_change": -0.67124184
-  },
-  {
-    "title": "Labcorp wins FDA emergency use nod for monkeypox test",
-    "published": 1712736420,
-    "posting_price": 205.95138634,
-    "close_price": 204.56895447,
-    "percent_change": -0.67124184
-  },
-  {
-    "title": "Labcorp Gets Emergency Authorization from FDA for Home Kit to Detect Monkeypox",
-    "published": 1712734241,
-    "posting_price": 205.95138634,
-    "close_price": 204.56895447,
-    "percent_change": -0.67124184
-  },
-  {
-    "title": "Vltava Fund Q1 2024 Letter To Shareholders",
-    "published": 1712734200,
-    "posting_price": 205.95138634,
-    "close_price": 204.56895447,
-    "percent_change": -0.67124184
-  },
-  {
-    "title": "Labcorp receives FDA EUA for  Mpox PCR Test Home Collection Kit",
-    "published": 1712728440,
-    "posting_price": 205.95138634,
-    "close_price": 204.56895447,
-    "percent_change": -0.67124184
-  },
-  {
-    "title": "How a 1% Dividend Equals 68% Yearly Gains",
-    "published": 1712721660,
-    "posting_price": 205.95138634,
-    "close_price": 204.56895447,
-    "percent_change": -0.67124184
-  },
-  {
-    "title": "Labcorp Announces Expansion of Precision Oncology Portfolio to Support Pharmaceutical, Biopharma, and Clinical Research in Advancing Drug Development Programs",
-    "published": 1712670874,
-    "posting_price": 208.85445708,
-    "close_price": 207.41279602,
-    "percent_change": -0.69027067
-  },
-  {
-    "title": "Labcorp's (LH) Strategic Alliances Aid Amid Macroeconomic Woes",
-    "published": 1712667780,
-    "posting_price": 208.85445708,
-    "close_price": 207.41279602,
-    "percent_change": -0.69027067
-  },
-  {
-    "title": "Labcorp (LH) Extends MRD Clinical Research With New Launch",
-    "published": 1712583240,
-    "posting_price": 208.49897005,
-    "close_price": 207.48190308,
-    "percent_change": -0.48780431
-  },
-  {
-    "title": "Do You Think Laboratory Corporation of America Holdings (LH) Valuation is Not Attractive Anymore?",
-    "published": 1712574598,
-    "posting_price": 208.49897005,
-    "close_price": 207.48190308,
-    "percent_change": -0.48780431
-  },
-  {
-    "title": "Here\u2019s Why Vltava Fund Sold Lockheed Martin Corporation (LMT)",
-    "published": 1712574180,
-    "posting_price": 208.49897005,
-    "close_price": 207.48190308,
-    "percent_change": -0.48780431
-  },
-  {
-    "title": "Labcorp Launches Labcorp Plasma Detect Extending Leadership into Molecular Residual Disease Clinical Research",
-    "published": 1712561311,
-    "posting_price": 208.49897005,
-    "close_price": 207.48190308,
-    "percent_change": -0.48780431
-  },
-  {
-    "title": "Laboratory Corp. of America Holdings stock underperforms Monday when compared to competitors",
-    "published": 1712549940,
-    "posting_price": 208.49897005,
-    "close_price": 207.48190308,
-    "percent_change": -0.48780431
-  },
-  {
-    "title": "Labcorp Launches Labcorp\u00ae Plasma Detect\u2122 Extending Leadership into Molecular Residual Disease (MRD) Clinical Research",
-    "published": 1712314800,
-    "posting_price": 208.35087473,
-    "close_price": 208.60760498,
-    "percent_change": 0.12322015
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Genfit SA (GNFT) and Laboratory (LH)",
-    "published": 1712301660,
-    "posting_price": 208.35087473,
-    "close_price": 208.60760498,
-    "percent_change": 0.12322015
-  },
-  {
-    "title": "Labcorp announces launch of Labcorp Plasma Detect",
-    "published": 1712297040,
-    "posting_price": 208.35087473,
-    "close_price": 208.60760498,
-    "percent_change": 0.12322015
-  },
-  {
-    "title": "Insider Sell: EVP, President Diagnostics & COO Mark Schroeder Sells Shares of Laboratory ...",
-    "published": 1712156465,
-    "posting_price": 208.93345393,
-    "close_price": 209.57530212,
-    "percent_change": 0.30720221
-  },
-  {
-    "title": "Insider Sell: EVP, Chief Marketing Officer Amy Summy Sells 3,500 Shares of Laboratory Corp of ...",
-    "published": 1712156456,
-    "posting_price": 208.93345393,
-    "close_price": 209.57530212,
-    "percent_change": 0.30720221
+    "title": "Fortrea (FTRE) Faces Challenges Post-Spinoff, Lowers FY24 Guidance",
+    "published": 1715562900,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 208.30999755859375,
+      "2024-05-13T14:30:00+00:00": 210.19000244140625,
+      "2024-05-13T15:30:00+00:00": 210.32000732421875,
+      "2024-05-13T16:30:00+00:00": 210.88499450683594,
+      "2024-05-13T17:30:00+00:00": 210.82000732421875,
+      "2024-05-13T18:30:00+00:00": 210.72999572753906,
+      "2024-05-13T19:30:00+00:00": 210.71499633789062
+    },
+    "sentiment": 0.7823213338851929
   },
   {
     "title": "Here's Why Investors Should Retain Labcorp (LH) Stock for Now",
-    "published": 1712071200,
-    "posting_price": 213.42633691,
-    "close_price": 209.28894043,
-    "percent_change": -1.93855948
-  },
-  {
-    "title": "Labcorp to Present Diverse Portfolio of Precision Oncology Research at the Annual Meeting of the American Association for Cancer Research",
-    "published": 1712055600,
-    "posting_price": 213.42633691,
-    "close_price": 209.28894043,
-    "percent_change": -1.93855948
-  },
-  {
-    "title": "Laboratory Corporation of America Holdings (NYSE:LH) Q1 2024 Earnings Call Transcript",
-    "published": 1714499900,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Decoding Laboratory Corp of America Holdings (LH): A Strategic SWOT Insight",
-    "published": 1714475040,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Laboratory Corporation of America Holdings (NYSE:LH) Is Due To Pay A Dividend Of $0.72",
-    "published": 1714472434,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Final LDT rule lifts overhang on Quest and Labcorp, says Jefferies",
-    "published": 1714462620,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Analysts\u2019 Top Healthcare Picks: Laboratory (LH), Amgen (AMGN)",
-    "published": 1714460520,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Edwards Lifesciences (EW), Bristol-Myers Squibb (BMY) and Laboratory (LH)",
-    "published": 1714443660,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Strong Performance and Strategic Acquisitions Justify Buy Rating for Laboratory Corporation of America Holdings",
-    "published": 1714441620,
-    "posting_price": 200.65867635,
-    "close_price": 198.84176636,
-    "percent_change": -0.90547293
-  },
-  {
-    "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1714398010,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights 10x Genomics, Cardinal Health, Hologic, Boston Scientific and LabCorp",
-    "published": 1714389600,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "FDA brings lab tests under federal oversight in bid to improve accuracy and safety",
-    "published": 1714389180,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "Labcorp Receives FDA Approval for First Companion Diagnostic for Use with Pfizer's Newly Approved Gene Therapy to Treat Patients with Hemophilia B",
-    "published": 1714388400,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "Quest Diagnostics, LabCorp climb following FDA testing oversight rule",
-    "published": 1714387800,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "US FDA publishes final rule for laboratory developed tests",
-    "published": 1714384528,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "Labcorp\u2019s companion diagnostic approved for use with Pfizer\u2019s hemophilia B gene therapy",
-    "published": 1714372500,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "Labcorp: FDA approves nAbCyte Anti-AAVRh74var HB-FE Assay",
-    "published": 1714370640,
-    "posting_price": 196.50153997,
-    "close_price": 201.60662842,
-    "percent_change": 2.59798903
-  },
-  {
-    "title": "Integer Holdings (ITGR) Q1 Earnings Top Estimates, Margins Up",
-    "published": 1714151220,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "3 Medical Products Stocks Set to Beat This Earnings Season",
-    "published": 1714145400,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Laboratory Corporation of America Holdings First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags",
-    "published": 1714127574,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Laboratory (LH), Fusion Pharmaceuticals (FUSN) and Integer Holdings (ITGR)",
-    "published": 1714113060,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Weitz Conservative Allocation Fund Q1 2024 Commentary",
-    "published": 1714112400,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Labcorp price target lowered by $11 at Baird, here's why",
-    "published": 1714110720,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Weitz Multi Cap Equity Fund Q1 2024 Commentary",
-    "published": 1714110000,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Weitz Large Cap Equity Fund Q1 2024 Commentary",
-    "published": 1714109400,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Labcorp price target lowered by $21 at Barclays, here's why",
-    "published": 1714109160,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Q1 2024 Laboratory Corporation of America Holdings Earnings Call",
-    "published": 1714108016,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Universal Health (UHS), Laboratory (LH) and Bristol-Myers Squibb (BMY)",
-    "published": 1714105560,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Laboratory (LH) Receives a Hold from Barclays",
-    "published": 1714103340,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Analyst Ratings For Laboratory Corp",
-    "published": 1714097220,
-    "posting_price": 194.60563821,
-    "close_price": 195.90905762,
-    "percent_change": 0.66977474
-  },
-  {
-    "title": "Labcorp to acquire Invitae\u2019s assets for $239M",
-    "published": 1714065060,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Laboratory Corporation of America Holdings (LH) Q1 2024 Earnings Call Transcript",
-    "published": 1714060526,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp (LH) Tops Q1 Earnings Estimates, Raises 2024 EPS View",
-    "published": 1714054680,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Compared to Estimates, Labcorp (LH) Q1 Earnings: A Look at Key Metrics",
-    "published": 1714051839,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Laboratory Corp of America Holdings (LH) Q1 Earnings: Surpasses Revenue Forecasts and Updates ...",
-    "published": 1714048526,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp Announces 2024 First Quarter Results",
-    "published": 1714042680,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "LH Stock Earnings: Laboratory Corp Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714042560,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp: Q1 Earnings Snapshot",
-    "published": 1714028832,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp narrows FY24 adjusted EPS view to $14.45-$15.35 from $14.30-$15.40",
-    "published": 1714025940,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp reports Q1 adjusted EPS $3.68, consensus $3.48",
-    "published": 1714025820,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Laboratory Corporation of America beats Q1 estimates",
-    "published": 1714024980,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp wins bid to purchase assets of Invitae for $239M",
-    "published": 1714021740,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Intelligent Bio Solutions\u2019 Fingerprint Drug Screening Technology Poised For Massive Growth",
-    "published": 1714020300,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp wins bid to acquire select Invitae assets for $239 mln",
-    "published": 1714013160,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Clinical lab operator Labcorp to buy bankrupt genetic test maker Invitae for $239 million",
-    "published": 1714011945,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Clinical lab operator Labcorp to buy bankrupt genetic test maker Invitae for $239 mln",
-    "published": 1714011793,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Labcorp Announces Winning Bid for Select Assets of Invitae",
-    "published": 1714008420,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Invitae Enters into Agreement with Labcorp for Sale of Business",
-    "published": 1714007940,
-    "posting_price": 202.19908967,
-    "close_price": 195.85969543,
-    "percent_change": -3.13522393
-  },
-  {
-    "title": "Watch These 3 MedTech Stocks This Earnings Season: Beat or Miss?",
-    "published": 1713981360,
-    "posting_price": 204.22336643,
-    "close_price": 205.32929993,
-    "percent_change": 0.54153132
-  },
-  {
-    "title": "Laboratory Corporation of America Q1 2024 Earnings Preview",
-    "published": 1713962940,
-    "posting_price": 204.22336643,
-    "close_price": 205.32929993,
-    "percent_change": 0.54153132
-  },
-  {
-    "title": "Notable earnings before Thursday's open",
-    "published": 1713953820,
-    "posting_price": 204.22336643,
-    "close_price": 205.32929993,
-    "percent_change": 0.54153132
-  },
-  {
-    "title": "Invitae enters into agreement with Labcorp for $239M sale of business",
-    "published": 1713947100,
-    "posting_price": 204.22336643,
-    "close_price": 205.32929993,
-    "percent_change": 0.54153132
-  },
-  {
-    "title": "Notable companies reporting before tomorrow's open",
-    "published": 1713943500,
-    "posting_price": 204.22336643,
-    "close_price": 205.32929993,
-    "percent_change": 0.54153132
-  },
-  {
-    "title": "Madison Mid Cap Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713930000,
-    "posting_price": 204.22336643,
-    "close_price": 205.32929993,
-    "percent_change": 0.54153132
-  },
-  {
-    "title": "Exploring Analyst Estimates for Labcorp (LH) Q1 Earnings, Beyond Revenue and EPS",
-    "published": 1713791770,
-    "posting_price": 199.71071951,
-    "close_price": 200.52043152,
-    "percent_change": 0.40544244
-  },
-  {
-    "title": "Goldman\u2019s buybacks basket: Buyback growth will be 13% in 2024",
-    "published": 1713788940,
-    "posting_price": 199.71071951,
-    "close_price": 200.52043152,
-    "percent_change": 0.40544244
-  },
-  {
-    "title": "5 Large-Cap Medical Stocks to Buy Ahead of Q1 Earnings",
-    "published": 1713527160,
-    "posting_price": 198.20981,
-    "close_price": 198.95039368,
-    "percent_change": 0.37363624
-  },
-  {
-    "title": "Mayar Capital Q1 2024 Letter To Partners",
-    "published": 1713526800,
-    "posting_price": 198.20981,
-    "close_price": 198.95039368,
-    "percent_change": 0.37363624
-  },
-  {
-    "title": "Labcorp (LH) Expected to Beat Earnings Estimates: Should You Buy? (Revised)",
-    "published": 1713519240,
-    "posting_price": 198.20981,
-    "close_price": 198.95039368,
-    "percent_change": 0.37363624
-  },
-  {
-    "title": "Why Labcorp (LH) Could Beat Earnings Estimates Again",
-    "published": 1713456616,
-    "posting_price": 197.04462759,
-    "close_price": 196.94587708,
-    "percent_change": -0.05011581
-  },
-  {
-    "title": "Labcorp (LH) Expected to Beat Earnings Estimates: Should You Buy?",
-    "published": 1713448918,
-    "posting_price": 197.04462759,
-    "close_price": 196.94587708,
-    "percent_change": -0.05011581
-  },
-  {
-    "title": "Interesting LH Put And Call Options For June 21st",
-    "published": 1713435600,
-    "posting_price": 197.04462759,
-    "close_price": 196.94587708,
-    "percent_change": -0.05011581
-  },
-  {
-    "title": "Labcorp (LH) to Report Q1 Earnings: What's in the Cards?",
-    "published": 1713271320,
-    "posting_price": 201.67573985,
-    "close_price": 199.39472961,
-    "percent_change": -1.13102857
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Verastem (VSTM), Laboratory (LH) and Longboard Pharmaceuticals (LBPH)",
-    "published": 1713243660,
-    "posting_price": 201.67573985,
-    "close_price": 199.39472961,
-    "percent_change": -1.13102857
-  },
-  {
-    "title": "Laboratory Corp. of America Holdings stock outperforms competitors despite losses on the day",
-    "published": 1713240900,
-    "posting_price": 201.67573985,
-    "close_price": 199.39472961,
-    "percent_change": -1.13102857
+    "published": 1715265660,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 201.52999877929688,
+      "2024-05-09T14:30:00+00:00": 202.58999633789062,
+      "2024-05-09T15:30:00+00:00": 202.40499877929688,
+      "2024-05-09T16:30:00+00:00": 202.76499938964844,
+      "2024-05-09T17:30:00+00:00": 203.6750030517578,
+      "2024-05-09T18:30:00+00:00": 204.6199951171875,
+      "2024-05-09T19:30:00+00:00": 205.64999389648438
+    },
+    "sentiment": 0.9353310465812683
+  },
+  {
+    "title": "Labcorp to Webcast Its Annual Meeting of Shareholders",
+    "published": 1715165940,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 202.3300018310547,
+      "2024-05-08T14:30:00+00:00": 201.27000427246094,
+      "2024-05-08T15:30:00+00:00": 201.30499267578125,
+      "2024-05-08T16:30:00+00:00": 201.4600067138672,
+      "2024-05-08T17:30:00+00:00": 201.24000549316406,
+      "2024-05-08T18:30:00+00:00": 201.6199951171875,
+      "2024-05-08T19:30:00+00:00": 201.55999755859375
+    },
+    "sentiment": 0.9294286966323853
+  },
+  {
+    "title": "OPKO Health Inc (OPK) Q1 2024 Earnings Call Transcript Highlights: Strategic Moves Amid ...",
+    "published": 1715154269,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 202.3300018310547,
+      "2024-05-08T14:30:00+00:00": 201.27000427246094,
+      "2024-05-08T15:30:00+00:00": 201.30499267578125,
+      "2024-05-08T16:30:00+00:00": 201.4600067138672,
+      "2024-05-08T17:30:00+00:00": 201.24000549316406,
+      "2024-05-08T18:30:00+00:00": 201.6199951171875,
+      "2024-05-08T19:30:00+00:00": 201.55999755859375
+    },
+    "sentiment": 0.5142397284507751
+  },
+  {
+    "title": "Labcorp Holdings (NYSE:LH) Is Due To Pay A Dividend Of $0.72",
+    "published": 1716287417,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 206.25,
+      "2024-05-21T14:30:00+00:00": 206.6999969482422,
+      "2024-05-21T15:30:00+00:00": 205.86500549316406,
+      "2024-05-21T16:30:00+00:00": 205.52000427246094,
+      "2024-05-21T17:30:00+00:00": 205.57000732421875,
+      "2024-05-21T18:30:00+00:00": 205.4250030517578,
+      "2024-05-21T19:30:00+00:00": 205.6999969482422
+    },
+    "sentiment": 0.9495958089828491
+  },
+  {
+    "title": "Laboratory of America : Labcorp Announces Retirement of Dr. R. Sanders Williams and Mr. Jean-Luc B\u00e9lingard from Its Board of Directors",
+    "published": 1715876772,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 212.9600067138672,
+      "2024-05-16T14:30:00+00:00": 215.0,
+      "2024-05-16T15:30:00+00:00": 214.61500549316406,
+      "2024-05-16T16:30:00+00:00": 214.5399932861328,
+      "2024-05-16T17:30:00+00:00": 214.33999633789062,
+      "2024-05-16T18:30:00+00:00": 214.50999450683594,
+      "2024-05-16T19:30:00+00:00": 214.3800048828125
+    },
+    "sentiment": 0.541199803352356
+  },
+  {
+    "title": "Labcorp (LH) to Assess Preeclampsia Risk With New Test",
+    "published": 1715867340,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 212.9600067138672,
+      "2024-05-16T14:30:00+00:00": 215.0,
+      "2024-05-16T15:30:00+00:00": 214.61500549316406,
+      "2024-05-16T16:30:00+00:00": 214.5399932861328,
+      "2024-05-16T17:30:00+00:00": 214.33999633789062,
+      "2024-05-16T18:30:00+00:00": 214.50999450683594,
+      "2024-05-16T19:30:00+00:00": 214.3800048828125
+    },
+    "sentiment": 0.8040882349014282
+  },
+  {
+    "title": "Laboratory Corp. of America Holdings stock underperforms Thursday when compared to competitors",
+    "published": 1715833140,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 212.9600067138672,
+      "2024-05-16T14:30:00+00:00": 215.0,
+      "2024-05-16T15:30:00+00:00": 214.61500549316406,
+      "2024-05-16T16:30:00+00:00": 214.5399932861328,
+      "2024-05-16T17:30:00+00:00": 214.33999633789062,
+      "2024-05-16T18:30:00+00:00": 214.50999450683594,
+      "2024-05-16T19:30:00+00:00": 214.3800048828125
+    },
+    "sentiment": 0.9258095026016235
   }
 ]

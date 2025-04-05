@@ -1,576 +1,226 @@
 [
   {
-    "title": "STX May 31st Options Begin Trading",
-    "published": 1712831760,
-    "posting_price": 85.6107053,
-    "close_price": 86.25190735,
-    "percent_change": 0.74897415
+    "title": "Unveiling Seagate Technology Holdings PLC (STX)'s Value: Is It Really Priced Right? A ...",
+    "published": 1714987980,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 88.06999969482422,
+      "2024-05-06T14:30:00+00:00": 89.68009948730469,
+      "2024-05-06T15:30:00+00:00": 89.90519714355469,
+      "2024-05-06T16:30:00+00:00": 90.01499938964844,
+      "2024-05-06T17:30:00+00:00": 89.88999938964844,
+      "2024-05-06T18:30:00+00:00": 89.87000274658203,
+      "2024-05-06T19:30:00+00:00": 89.80999755859375
+    },
+    "sentiment": 0.884981632232666
   },
   {
-    "title": "Strike Energy Director Sells Shares Amid Closed Period",
-    "published": 1712806080,
-    "posting_price": 85.6107053,
-    "close_price": 86.25190735,
-    "percent_change": 0.74897415
+    "title": "Seagate Earnings Could Grow 10 Times in Just 2 Years, Analyst Says. Here\u2019s Why.",
+    "published": 1714575960,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 86.97000122070312,
+      "2024-05-01T14:30:00+00:00": 86.02999877929688,
+      "2024-05-01T15:30:00+00:00": 84.74500274658203,
+      "2024-05-01T16:30:00+00:00": 85.33499908447266,
+      "2024-05-01T17:30:00+00:00": 85.36000061035156,
+      "2024-05-01T18:30:00+00:00": 86.27999877929688,
+      "2024-05-01T19:30:00+00:00": 87.0199966430664
+    },
+    "sentiment": 0.7963060736656189
   },
   {
-    "title": "Seagate price target raised by $5 at Susquehanna, here's why",
-    "published": 1712732160,
-    "posting_price": 86.04788361,
-    "close_price": 85.48439789,
-    "percent_change": -0.65485134
+    "title": "Wedbush gets more bullish on Seagate, upgrades shares",
+    "published": 1714542780,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 86.97000122070312,
+      "2024-05-01T14:30:00+00:00": 86.02999877929688,
+      "2024-05-01T15:30:00+00:00": 84.74500274658203,
+      "2024-05-01T16:30:00+00:00": 85.33499908447266,
+      "2024-05-01T17:30:00+00:00": 85.36000061035156,
+      "2024-05-01T18:30:00+00:00": 86.27999877929688,
+      "2024-05-01T19:30:00+00:00": 87.0199966430664
+    },
+    "sentiment": 0.8063012957572937
   },
   {
-    "title": "Analysts Offer Insights on Technology Companies: Silicon Motion (SIMO) and Seagate Tech (STX)",
-    "published": 1712725320,
-    "posting_price": 86.04788361,
-    "close_price": 85.48439789,
-    "percent_change": -0.65485134
+    "title": "Is Booz Allen Hamilton (BAH) Outperforming Other Business Services Stocks This Year?",
+    "published": 1715780409,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 97.19999694824219,
+      "2024-05-15T14:30:00+00:00": 97.9800033569336,
+      "2024-05-15T15:30:00+00:00": 97.94000244140625,
+      "2024-05-15T16:30:00+00:00": 98.05999755859375,
+      "2024-05-15T17:30:00+00:00": 98.59500122070312,
+      "2024-05-15T18:30:00+00:00": 97.9000015258789,
+      "2024-05-15T19:30:00+00:00": 98.70999908447266
+    },
+    "sentiment": 0.8791908621788025
   },
   {
-    "title": "Seagate Technology to Report Fiscal Third Quarter 2024 Financial Results on April 23, 2024",
-    "published": 1712693100,
-    "posting_price": 87.47603205,
-    "close_price": 86.98055267,
-    "percent_change": -0.5664173
+    "title": "Looking Into Seagate Tech Hldgs's Recent Short Interest",
+    "published": 1715761260,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 97.19999694824219,
+      "2024-05-15T14:30:00+00:00": 97.9800033569336,
+      "2024-05-15T15:30:00+00:00": 97.94000244140625,
+      "2024-05-15T16:30:00+00:00": 98.05999755859375,
+      "2024-05-15T17:30:00+00:00": 98.59500122070312,
+      "2024-05-15T18:30:00+00:00": 97.9000015258789,
+      "2024-05-15T19:30:00+00:00": 98.70999908447266
+    },
+    "sentiment": 0.9293219447135925
   },
   {
-    "title": "Mizuho Securities Sticks to Their Buy Rating for Seagate Tech (STX)",
-    "published": 1712661360,
-    "posting_price": 87.47603205,
-    "close_price": 86.98055267,
-    "percent_change": -0.5664173
+    "title": "Western Digital and Seagate Stocks Score Buy Ratings. Look for Storage Demand Recovery.",
+    "published": 1715697300,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 94.54000091552734,
+      "2024-05-14T14:30:00+00:00": 95.98999786376953,
+      "2024-05-14T15:30:00+00:00": 95.52999877929688,
+      "2024-05-14T16:30:00+00:00": 95.2750015258789,
+      "2024-05-14T17:30:00+00:00": 95.45999908447266,
+      "2024-05-14T18:30:00+00:00": 95.61000061035156,
+      "2024-05-14T19:30:00+00:00": 96.06999969482422
+    },
+    "sentiment": 0.743746817111969
   },
   {
-    "title": "Western Digital plans to raise flash, hard drive prices amid supply shortage - report",
-    "published": 1712657520,
-    "posting_price": 87.47603205,
-    "close_price": 86.98055267,
-    "percent_change": -0.5664173
+    "title": "Seagate initiated with bullish view at Citi, here's why",
+    "published": 1715663100,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 94.54000091552734,
+      "2024-05-14T14:30:00+00:00": 95.98999786376953,
+      "2024-05-14T15:30:00+00:00": 95.52999877929688,
+      "2024-05-14T16:30:00+00:00": 95.2750015258789,
+      "2024-05-14T17:30:00+00:00": 95.45999908447266,
+      "2024-05-14T18:30:00+00:00": 95.61000061035156,
+      "2024-05-14T19:30:00+00:00": 96.06999969482422
+    },
+    "sentiment": 0.7322568893432617
   },
   {
-    "title": "Western Digital, Seagate see Buy ratings reiterated at Mizuho",
-    "published": 1712652300,
-    "posting_price": 87.47603205,
-    "close_price": 86.98055267,
-    "percent_change": -0.5664173
+    "title": "Strike Energy Announces Share Cancellation",
+    "published": 1715587080,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 94.55000305175781,
+      "2024-05-13T14:30:00+00:00": 92.87999725341797,
+      "2024-05-13T15:30:00+00:00": 93.69999694824219,
+      "2024-05-13T16:30:00+00:00": 93.81999969482422,
+      "2024-05-13T17:30:00+00:00": 93.38999938964844,
+      "2024-05-13T18:30:00+00:00": 93.04000091552734,
+      "2024-05-13T19:30:00+00:00": 92.88800048828125
+    },
+    "sentiment": 0.8421592712402344
   },
   {
-    "title": "STX May 24th Options Begin Trading",
-    "published": 1712225280,
-    "posting_price": 90.41974778,
-    "close_price": 88.17552948,
-    "percent_change": -2.48200018
-  },
-  {
-    "title": "Meme Coins Were The Most Profitable Crypto Narrative In Q1: Report",
-    "published": 1712119020,
-    "posting_price": 87.13599274,
-    "close_price": 89.02074432,
-    "percent_change": 2.16300007
-  },
-  {
-    "title": "Shield Therapeutics on Track for Positive Cashflow by 2025",
-    "published": 1714443180,
-    "posting_price": 83.00701321,
-    "close_price": 83.46363068,
-    "percent_change": 0.55009505
-  },
-  {
-    "title": "GET READY: Whitbread, Glencore, and St James's Place at 0700 BST",
-    "published": 1714440660,
-    "posting_price": 83.00701321,
-    "close_price": 83.46363068,
-    "percent_change": 0.55009505
-  },
-  {
-    "title": "Seagate\u2019s Strategic Shake-Up: Navigating the High Stakes of Acquisitions and Financial Maneuvers",
-    "published": 1714266060,
-    "posting_price": 83.53164089,
-    "close_price": 83.62879181,
-    "percent_change": 0.11630434
-  },
-  {
-    "title": "Seagate Technology Holdings (NASDAQ:STX) Has Announced A Dividend Of $0.70",
-    "published": 1714221170,
-    "posting_price": 83.53164089,
-    "close_price": 83.62879181,
-    "percent_change": 0.11630434
-  },
-  {
-    "title": "Decoding Seagate Technology Holdings PLC (STX): A Strategic SWOT Insight",
-    "published": 1714194445,
-    "posting_price": 83.53164089,
-    "close_price": 83.62879181,
-    "percent_change": 0.11630434
-  },
-  {
-    "title": "Solid Demand, Upbeat View to Fuel Seagate (STX) Post Q3 Earnings",
-    "published": 1714147500,
-    "posting_price": 85.11522009,
-    "close_price": 83.58992767,
-    "percent_change": -1.79203252
-  },
-  {
-    "title": "Seagate (STX) Moves to Buy: Rationale Behind the Upgrade",
-    "published": 1714147210,
-    "posting_price": 85.11522009,
-    "close_price": 83.58992767,
-    "percent_change": -1.79203252
-  },
-  {
-    "title": "Seagate Technology Holdings Third Quarter 2024 Earnings: EPS Beats Expectations",
-    "published": 1714127286,
-    "posting_price": 85.11522009,
-    "close_price": 83.58992767,
-    "percent_change": -1.79203252
-  },
-  {
-    "title": "Buy Rating for Seagate Technology on Strong Data Center Performance and Positive Margin Outlook",
-    "published": 1714094100,
-    "posting_price": 85.11522009,
-    "close_price": 83.58992767,
-    "percent_change": -1.79203252
-  },
-  {
-    "title": "Seagate Technology Holdings plc Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions",
-    "published": 1714040659,
-    "posting_price": 83.45392645,
-    "close_price": 84.77519989,
-    "percent_change": 1.583237
-  },
-  {
-    "title": "Seagate Technology: Valuation Needs To Go Down Some More To Be Attractive",
-    "published": 1714033696,
-    "posting_price": 83.45392645,
-    "close_price": 84.77519989,
-    "percent_change": 1.583237
-  },
-  {
-    "title": "Seagate Tech Refines Executive Severance Compensation Rules",
-    "published": 1714017240,
-    "posting_price": 83.45392645,
-    "close_price": 84.77519989,
-    "percent_change": 1.583237
-  },
-  {
-    "title": "(STX) - Analyzing Seagate Tech Hldgs's Short Interest",
-    "published": 1714011480,
-    "posting_price": 83.45392645,
-    "close_price": 84.77519989,
-    "percent_change": 1.583237
-  },
-  {
-    "title": "Seagate Technology Holdings plc (NASDAQ:STX) Q3 2024 Earnings Call Transcript",
-    "published": 1713968887,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Q3 2024 Seagate Technology Holdings PLC Earnings Call",
-    "published": 1713965947,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate's (STX) Q3 Earnings Beat Estimates, Revenues Miss",
-    "published": 1713956640,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate Reports Solid Q3 Results and Sells ASIC Assets to Broadcom",
-    "published": 1713953700,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate Technology declares $0.70 dividend",
-    "published": 1713953460,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate price target raised by $20 at Northland, here's why",
-    "published": 1713950880,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate maintains Buy rating from analysts despite HAMR hiccup",
-    "published": 1713947220,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Alkami Technology (ALKT), Cellebrite DI (CLBT) and Seagate Tech (STX)",
-    "published": 1713945060,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "What To Expect From Western Digital\u2019s (WDC) Q1 Earnings",
-    "published": 1713942231,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate price target raised by $5 at UBS, here's why",
-    "published": 1713939000,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Texas Instruments (TXN) and Seagate Tech (STX)",
-    "published": 1713937200,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate Technology: A Strong Buy on HAMR Advancements and Anticipated Margin Improvements",
-    "published": 1713933720,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate Technology Plc (STX) Q3 2024 Earnings Call Transcript",
-    "published": 1713931217,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Balancing Act: Hold Rating on Seagate Amidst Near-term Gains and Technological Uncertainties",
-    "published": 1713927360,
-    "posting_price": 85.0666384,
-    "close_price": 84.62945557,
-    "percent_change": -0.51392983
-  },
-  {
-    "title": "Seagate (STX) Reports Q3 Earnings: What Key Metrics Have to Say",
-    "published": 1713909607,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Technology Holdings PLC (STX) Q3 Fiscal 2024 Earnings Overview",
-    "published": 1713907891,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate (STX) Q3 Earnings Beat Estimates",
-    "published": 1713907204,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Reports Mixed Quarter, Forecasts Return To Sales Growth",
-    "published": 1713906261,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Profit Tops Street Estimates as Data-Center Demand Picks Up",
-    "published": 1713906120,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Technology Holdings plc (STX) Q3 2024 Earnings Call Transcript",
-    "published": 1713903423,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "No Surprises In Seagate Technology's (NASDAQ:STX) Q1 Sales Numbers, Provides Encouraging Quarterly Guidance",
-    "published": 1713903312,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Technology Reports Fiscal Third Quarter 2024 Financial Results",
-    "published": 1713902700,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Technology to Sell Assets to Broadcom Subsidiary for $600 Million",
-    "published": 1713891247,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate forecasts higher Q4 profit on boost from cloud customers",
-    "published": 1713890629,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate: Fiscal Q3 Earnings Snapshot",
-    "published": 1713889080,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Digital China Holdings (OtherDCHIF) and Seagate Tech (STX)",
-    "published": 1713871260,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "STX Stock Earnings: Seagate Tech Hldgs Beats EPS, Misses Revenue for Q3 2024",
-    "published": 1713862500,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate expects price improvement through remainder of 2024",
-    "published": 1713847980,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate says demand environment improving",
-    "published": 1713846240,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate jumps further post-market on solid third quarter results",
-    "published": 1713843900,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Tech Announces Dividend and Upcoming Fiscal Webcast",
-    "published": 1713842580,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Technology Non-GAAP EPS of $0.33 beats by $0.07, revenue of $1.66B in-line",
-    "published": 1713842100,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate sees Q4 EPS 50c-90c, consensus 60c",
-    "published": 1713841860,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate reports Q3 EPS 33c, consensus 29c",
-    "published": 1713841800,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate options imply 7.0% move in share price post-earnings",
-    "published": 1713835200,
-    "posting_price": 83.21104047,
-    "close_price": 84.065979,
-    "percent_change": 1.02743401
-  },
-  {
-    "title": "Seagate Drives Progress on Its Renewable Energy and Circularity Programs",
-    "published": 1713818880,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
-  },
-  {
-    "title": "Should You Buy Seagate Technology (STX) Ahead of Earnings?",
-    "published": 1713798660,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
-  },
-  {
-    "title": "Seagate's Winning Strategy: HAMR Technology, Growing Margins, And Upcoming Demand Cycle",
-    "published": 1713789257,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "title": "Strike Energy Overview at Macquarie Conference",
+    "published": 1715147280,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 88.76000213623047,
+      "2024-05-08T14:30:00+00:00": 89.58999633789062,
+      "2024-05-08T15:30:00+00:00": 89.73999786376953,
+      "2024-05-08T16:30:00+00:00": 89.7300033569336,
+      "2024-05-08T17:30:00+00:00": 89.68000030517578,
+      "2024-05-08T18:30:00+00:00": 89.87000274658203,
+      "2024-05-08T19:30:00+00:00": 89.9000015258789
+    },
+    "sentiment": 0.9074519276618958
   },
   {
     "title": "Seagate Drives Progress on its Renewable Energy and Circularity Programs | Seagate US",
-    "published": 1713785229,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "published": 1716439030,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 95.91999816894531,
+      "2024-05-23T14:30:00+00:00": 95.94499969482422,
+      "2024-05-23T15:30:00+00:00": 95.2699966430664,
+      "2024-05-23T16:30:00+00:00": 95.2490005493164,
+      "2024-05-23T17:30:00+00:00": 94.56999969482422,
+      "2024-05-23T18:30:00+00:00": 93.73999786376953,
+      "2024-05-23T19:30:00+00:00": 93.05000305175781
+    },
+    "sentiment": 0.7732651829719543
   },
   {
-    "title": "Seagate Technology : Drives Progress on its Renewable Energy and Circularity Programs",
-    "published": 1713773171,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "title": "Strike Energy Seeks ASX Quotation for New Shares",
+    "published": 1716341340,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 94.04000091552734,
+      "2024-05-22T14:30:00+00:00": 94.9000015258789,
+      "2024-05-22T15:30:00+00:00": 94.7699966430664,
+      "2024-05-22T16:30:00+00:00": 94.48999786376953,
+      "2024-05-22T17:30:00+00:00": 94.75,
+      "2024-05-22T18:30:00+00:00": 93.88999938964844,
+      "2024-05-22T19:30:00+00:00": 94.33999633789062
+    },
+    "sentiment": 0.9242836236953735
   },
   {
-    "title": "Western Digital slips as Raymond James cuts on valuation concerns",
-    "published": 1713770820,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "title": "Strike Energy Director Bolsters Shareholding",
+    "published": 1716194280,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 95.26000213623047,
+      "2024-05-20T14:30:00+00:00": 95.97000122070312,
+      "2024-05-20T15:30:00+00:00": 96.53500366210938,
+      "2024-05-20T16:30:00+00:00": 96.43000030517578,
+      "2024-05-20T17:30:00+00:00": 96.53500366210938,
+      "2024-05-20T18:30:00+00:00": 96.66999816894531,
+      "2024-05-20T19:30:00+00:00": 96.97000122070312
+    },
+    "sentiment": 0.898034930229187
   },
   {
-    "title": "What To Expect From Seagate Technology\u2019s (STX) Q1 Earnings",
-    "published": 1713769250,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "title": "Unveiling Seagate Technology Holdings PLC (STX)'s Value: Is It Really Priced Right? A ...",
+    "published": 1715930040,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 98.5,
+      "2024-05-17T14:30:00+00:00": 96.43499755859375,
+      "2024-05-17T15:30:00+00:00": 96.0250015258789,
+      "2024-05-17T16:30:00+00:00": 95.87999725341797,
+      "2024-05-17T17:30:00+00:00": 95.62000274658203,
+      "2024-05-17T18:30:00+00:00": 94.83999633789062,
+      "2024-05-17T19:30:00+00:00": 95.31500244140625
+    },
+    "sentiment": 0.884981632232666
   },
   {
-    "title": "Strike Energy Records Strong Quarter, Prepares for Drilling",
-    "published": 1713765480,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
+    "published": 1715867410,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 98.9000015258789,
+      "2024-05-16T14:30:00+00:00": 98.86499786376953,
+      "2024-05-16T15:30:00+00:00": 98.97949981689453,
+      "2024-05-16T16:30:00+00:00": 98.88999938964844,
+      "2024-05-16T17:30:00+00:00": 98.69000244140625,
+      "2024-05-16T18:30:00+00:00": 98.56999969482422,
+      "2024-05-16T19:30:00+00:00": 98.36000061035156
+    },
+    "sentiment": 0.8873241543769836
   },
   {
-    "title": "Western Digital price target raised by $10 at Barclays, here's why",
-    "published": 1713761700,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
+    "title": "Citigroup Says Buy These 2 Storage Stocks Amid Cyclical Demand Recovery",
+    "published": 1715863283,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 98.9000015258789,
+      "2024-05-16T14:30:00+00:00": 98.86499786376953,
+      "2024-05-16T15:30:00+00:00": 98.97949981689453,
+      "2024-05-16T16:30:00+00:00": 98.88999938964844,
+      "2024-05-16T17:30:00+00:00": 98.69000244140625,
+      "2024-05-16T18:30:00+00:00": 98.56999969482422,
+      "2024-05-16T19:30:00+00:00": 98.36000061035156
+    },
+    "sentiment": 0.5441227555274963
   },
   {
-    "title": "Seagate price target lowered by $5 at Barclays, here's why",
-    "published": 1713761580,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Advanced Micro Devices (AMD) and Seagate Tech (STX)",
-    "published": 1713760860,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
-  },
-  {
-    "title": "Seagate Technology Q3 2024 Earnings Preview",
-    "published": 1713760560,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
-  },
-  {
-    "title": "Barclays Reaffirms Their Hold Rating on Seagate Tech (STX)",
-    "published": 1713753960,
-    "posting_price": 80.26732567,
-    "close_price": 82.75442505,
-    "percent_change": 3.0985203
-  },
-  {
-    "title": "First Week of December 20th Options Trading For Seagate Technology Holdings (STX)",
-    "published": 1713520740,
-    "posting_price": 81.38457166,
-    "close_price": 80.11187744,
-    "percent_change": -1.56380281
-  },
-  {
-    "title": "Optimistic Outlook for Seagate Technology with Strong HAMR HDD Prospects and Cloud Storage Demand",
-    "published": 1713517560,
-    "posting_price": 81.38457166,
-    "close_price": 80.11187744,
-    "percent_change": -1.56380281
-  },
-  {
-    "title": "What Analyst Projections for Key Metrics Reveal About Seagate (STX) Q3 Earnings",
-    "published": 1713446122,
-    "posting_price": 81.40400442,
-    "close_price": 81.06397247,
-    "percent_change": -0.41770912
-  },
-  {
-    "title": "Factors to Note Ahead of Seagate's (STX) Q3 Earnings Release",
-    "published": 1713445200,
-    "posting_price": 81.40400442,
-    "close_price": 81.06397247,
-    "percent_change": -0.41770912
-  },
-  {
-    "title": "State Street Corporation Takes Stake in Strike Energy",
-    "published": 1713413340,
-    "posting_price": 81.40400442,
-    "close_price": 81.06397247,
-    "percent_change": -0.41770912
-  },
-  {
-    "title": "Triangle Energy Prepares for Key Perth Basin Well",
-    "published": 1713340680,
-    "posting_price": 82.53096543,
-    "close_price": 81.80232239,
-    "percent_change": -0.88287231
-  },
-  {
-    "title": "Triangle Energy Embarks on Perth Basin Drilling Campaign",
-    "published": 1713337920,
-    "posting_price": 82.53096543,
-    "close_price": 81.80232239,
-    "percent_change": -0.88287231
-  },
-  {
-    "title": "Seagate Technology : Illustrative Table of Potential Dilutive Impact of Exchangeable Senior Notes due 2028",
-    "published": 1713285442,
-    "posting_price": 81.16112924,
-    "close_price": 81.29714203,
-    "percent_change": 0.16758366
-  },
-  {
-    "title": "Seagate (STX) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713276055,
-    "posting_price": 81.16112924,
-    "close_price": 81.29714203,
-    "percent_change": 0.16758366
-  },
-  {
-    "title": "Seagate Technology Holdings PLC stock underperforms Tuesday when compared to competitors",
-    "published": 1713240900,
-    "posting_price": 81.16112924,
-    "close_price": 81.29714203,
-    "percent_change": 0.16758366
-  },
-  {
-    "title": "Seagate Tech Issues $1.5B Exchangeable Senior Notes",
-    "published": 1713237840,
-    "posting_price": 81.16112924,
-    "close_price": 81.29714203,
-    "percent_change": 0.16758366
+    "title": "AI investing: UBS lists stocks providing exposure to turbocharged AI investment cycle",
+    "published": 1715825280,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 98.9000015258789,
+      "2024-05-16T14:30:00+00:00": 98.86499786376953,
+      "2024-05-16T15:30:00+00:00": 98.97949981689453,
+      "2024-05-16T16:30:00+00:00": 98.88999938964844,
+      "2024-05-16T17:30:00+00:00": 98.69000244140625,
+      "2024-05-16T18:30:00+00:00": 98.56999969482422,
+      "2024-05-16T19:30:00+00:00": 98.36000061035156
+    },
+    "sentiment": 0.9401262998580933
   }
 ]

@@ -1,611 +1,134 @@
 [
   {
-    "title": "Winners And Losers Of Q4: Karat Packaging (NASDAQ:KRT) Vs The Rest Of The Specialty Equipment Distributors Stocks",
-    "published": 1742979892,
-    "posting_price": 653.61999512,
-    "close_price": 641.59997559,
-    "percent_change": -1.83899202
-  },
-  {
-    "title": "Specialty Equipment Distributors Stocks Q4 Highlights: SiteOne (NYSE:SITE)",
-    "published": 1742288803,
-    "posting_price": 616.92999268,
-    "close_price": 609.05999756,
-    "percent_change": -1.27567069
-  },
-  {
-    "title": "Strategic Business Plans Aid Armstrong World Amid High Costs",
-    "published": 1741957740,
-    "posting_price": 607.09997559,
-    "close_price": 622.91998291,
-    "percent_change": 2.60583231
-  },
-  {
-    "title": "2 Large-Cap Stocks with Solid Fundamentals and 1 to Brush Off",
-    "published": 1741957279,
-    "posting_price": 607.09997559,
-    "close_price": 622.91998291,
-    "percent_change": 2.60583231
-  },
-  {
-    "title": "Karat Packaging (KRT) To Report Earnings Tomorrow: Here Is What To Expect",
-    "published": 1741780913,
-    "posting_price": 610.08001709,
-    "close_price": 609.34997559,
-    "percent_change": -0.11966324
-  },
-  {
-    "title": "3 Market-Beating Stocks to Target This Week",
-    "published": 1741352495,
-    "posting_price": 623.59997559,
-    "close_price": 628.76000977,
-    "percent_change": 0.82745901
-  },
-  {
-    "title": "This Beaten-Down Industrial Stock Wants to Call America Home. Why It\u2019s Time to Buy.",
-    "published": 1741268340,
-    "posting_price": 624.92999268,
-    "close_price": 625.88000488,
-    "percent_change": 0.15201898
-  },
-  {
-    "title": "Hudson Technologies (HDSN) Reports Q4: Everything You Need To Know Ahead Of Earnings",
-    "published": 1741179876,
-    "posting_price": 600.75,
-    "close_price": 633.89001465,
-    "percent_change": 5.51644022
-  },
-  {
-    "title": "Custom Truck One Source (CTOS) Reports Earnings Tomorrow: What To Expect",
-    "published": 1741006978,
-    "posting_price": 647.0,
-    "close_price": 617.52001953,
-    "percent_change": -4.5564112
-  },
-  {
-    "title": "Herc, H&E Equipment Services Sign Merger Agreement Following United Rentals Deal Termination",
-    "published": 1739996424,
-    "posting_price": 709.26000977,
-    "close_price": 709.30999756,
-    "percent_change": 0.00704788
-  },
-  {
-    "title": "Top Midday Stories: Medtronic Shares Tumble on Revenue Miss; CNBC's Faber Reportedly Says Walgreens-Sycamore Deal Talks 'Now Alive'",
-    "published": 1739897656,
-    "posting_price": 727.0,
-    "close_price": 720.34997559,
-    "percent_change": -0.91472138
-  },
-  {
-    "title": "H&E Receives Superior Acquisition Offer From Herc; United Rentals Drops $4.8 Billion Deal",
-    "published": 1739894368,
-    "posting_price": 727.0,
-    "close_price": 720.34997559,
-    "percent_change": -0.91472138
-  },
-  {
-    "title": "Interesting URI Put And Call Options For April 19th",
-    "published": 1713173640,
-    "posting_price": 681.96655789,
-    "close_price": 660.78735352,
-    "percent_change": -3.10560747
-  },
-  {
-    "title": "United Rentals price target raised by $178 at Morgan Stanley, here's why",
-    "published": 1713145620,
-    "posting_price": 681.96655789,
-    "close_price": 660.78735352,
-    "percent_change": -3.10560747
-  },
-  {
-    "title": "Can United Rentals, Inc.'s (NYSE:URI) ROE Continue To Surpass The Industry Average?",
-    "published": 1713006074,
-    "posting_price": 681.96662088,
-    "close_price": 660.78741455,
-    "percent_change": -3.10560747
-  },
-  {
-    "title": "What Stocks Should You Buy Right Now?",
-    "published": 1712956200,
-    "posting_price": 668.32942443,
-    "close_price": 668.78533936,
-    "percent_change": 0.0682171
-  },
-  {
-    "title": "Here's Why United Rentals (URI) is a Strong Growth Stock",
-    "published": 1712929511,
-    "posting_price": 668.32942443,
-    "close_price": 668.78533936,
-    "percent_change": 0.0682171
-  },
-  {
-    "title": "United Rentals, Inc. First Quarter 2024 Conference Call and Audio Webcast Thursday, April 25, 2024 at 8: 30 a.m.",
-    "published": 1712908491,
-    "posting_price": 668.32942443,
-    "close_price": 668.78533936,
-    "percent_change": 0.0682171
-  },
-  {
-    "title": "Notable Friday Option Activity: URI, DVN, MAR",
-    "published": 1712888340,
-    "posting_price": 668.32942443,
-    "close_price": 668.78533936,
-    "percent_change": 0.0682171
-  },
-  {
-    "title": "United Rentals, Inc. First Quarter 2024 Conference Call and Audio Webcast Thursday, April 25, 2024 at 8:30 a.m. (ET)",
-    "published": 1712866500,
-    "posting_price": 675.36610124,
-    "close_price": 679.5682373,
-    "percent_change": 0.62220121
-  },
-  {
-    "title": "United Rentals, Inc. First Quarter 2024 Conference Call and Audio Webcast Thursday, April 25, 2024 at 8: 30 a.m. (ET)",
-    "published": 1712852286,
-    "posting_price": 675.36610124,
-    "close_price": 679.5682373,
-    "percent_change": 0.62220121
-  },
-  {
-    "title": "Sorry Campers, The Fed Is Not Riding To The Rescue",
-    "published": 1712848093,
-    "posting_price": 675.36610124,
-    "close_price": 679.5682373,
-    "percent_change": 0.62220121
-  },
-  {
-    "title": "These 2 Construction Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-    "published": 1712840410,
-    "posting_price": 675.36610124,
-    "close_price": 679.5682373,
-    "percent_change": 0.62220121
-  },
-  {
-    "title": "United Rentals: Take Profits While You Can",
-    "published": 1712750025,
-    "posting_price": 673.2649884,
-    "close_price": 676.03997803,
-    "percent_change": 0.41216901
-  },
-  {
-    "title": "S&P 500 Giant, IBD Stock Of The Day, Closes In On Buy Point After $1 Billion Acquisition",
-    "published": 1712595465,
-    "posting_price": 703.21515185,
-    "close_price": 696.684021,
-    "percent_change": -0.92875286
-  },
-  {
-    "title": "United Rentals Moves Up In Market Cap Rank, Passing Ross Stores",
-    "published": 1712549400,
-    "posting_price": 703.21515185,
-    "close_price": 696.684021,
-    "percent_change": -0.92875286
-  },
-  {
-    "title": "Here's Why United Rentals (URI) Fell More Than Broader Market",
-    "published": 1712268918,
-    "posting_price": 708.56693371,
-    "close_price": 687.63549805,
-    "percent_change": -2.954052
-  },
-  {
-    "title": "Are You Looking for a Top Momentum Pick? Why United Rentals (URI) is a Great Choice",
-    "published": 1712246410,
-    "posting_price": 708.56693371,
-    "close_price": 687.63549805,
-    "percent_change": -2.954052
-  },
-  {
-    "title": "Why United Rentals (URI) is a Top Momentum Stock for the Long-Term",
-    "published": 1712238609,
-    "posting_price": 708.56693371,
-    "close_price": 687.63549805,
-    "percent_change": -2.954052
-  },
-  {
-    "title": "United Rentals Inc. stock underperforms Thursday when compared to competitors",
-    "published": 1712202960,
-    "posting_price": 708.56693371,
-    "close_price": 687.63549805,
-    "percent_change": -2.954052
-  },
-  {
-    "title": "United Rentals Insiders Sell US$10m Of Stock, Possibly Signalling Caution",
-    "published": 1712142025,
-    "posting_price": 686.406678,
-    "close_price": 699.83569336,
-    "percent_change": 1.9564226
-  },
-  {
-    "title": "Will United Rentals (URI) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1712074214,
-    "posting_price": 693.75037001,
-    "close_price": 685.61364746,
-    "percent_change": -1.17286028
-  },
-  {
-    "title": "United Rentals (URI) Receives a Sell from Bernstein",
-    "published": 1712039760,
-    "posting_price": 693.75037001,
-    "close_price": 685.61364746,
-    "percent_change": -1.17286028
-  },
-  {
-    "title": "United Rentals Inc President & CEO Matthew Flannery Sells Company Shares",
-    "published": 1714518041,
-    "posting_price": 693.38378101,
-    "close_price": 662.02624512,
-    "percent_change": -4.52239247
-  },
-  {
-    "title": "United Rentals Just Became A Dividend Growth Stock",
-    "published": 1714492800,
-    "posting_price": 693.38378101,
-    "close_price": 662.02624512,
-    "percent_change": -4.52239247
-  },
-  {
-    "title": "United Rentals Selected for Newsweek\u2019s Most Trustworthy Companies in America 2024 List",
-    "published": 1714482900,
-    "posting_price": 693.38378101,
-    "close_price": 662.02624512,
-    "percent_change": -4.52239247
-  },
-  {
-    "title": "Caesars Entertainment, Inc. Appoints Kim Harris Jones to Board of Directors",
-    "published": 1714406700,
-    "posting_price": 691.74839689,
-    "close_price": 706.3270874,
-    "percent_change": 2.10751345
-  },
-  {
-    "title": "United Rentals (URI) is a Top-Ranked Growth Stock: Should You Buy?",
-    "published": 1714398311,
-    "posting_price": 691.74839689,
-    "close_price": 706.3270874,
-    "percent_change": 2.10751345
-  },
-  {
-    "title": "United Rentals price target raised by $3 at Truist, here's why",
-    "published": 1714376340,
-    "posting_price": 691.74839689,
-    "close_price": 706.3270874,
-    "percent_change": 2.10751345
-  },
-  {
-    "title": "Oppenheimer Reaffirms Their Hold Rating on United Rentals (URI)",
-    "published": 1714374120,
-    "posting_price": 691.74839689,
-    "close_price": 706.3270874,
-    "percent_change": 2.10751345
-  },
-  {
-    "title": "Truist Financial Remains a Buy on United Rentals (URI)",
-    "published": 1714373400,
-    "posting_price": 691.74839689,
-    "close_price": 706.3270874,
-    "percent_change": 2.10751345
-  },
-  {
-    "title": "Choice Equities Capital Q4 2023 Letter",
-    "published": 1714201800,
-    "posting_price": 691.74845667,
-    "close_price": 706.32714844,
-    "percent_change": 2.10751345
-  },
-  {
-    "title": "How to Boost Your Portfolio with Top Construction Stocks Set to Beat Earnings",
-    "published": 1714136411,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "United Rentals, Inc. (NYSE:URI) Q1 2024 Earnings Call Transcript",
-    "published": 1714135578,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "United Rentals, Inc. Just Beat EPS By 5.9%: Here's What Analysts Think Will Happen Next",
-    "published": 1714132232,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "United Rentals Inc (URI) (Q1 2024) Earnings Call Transcript Highlights: Record Earnings and ...",
-    "published": 1714115342,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "Stifel Nicolaus Sticks to Their Buy Rating for United Rentals (URI)",
-    "published": 1714114320,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "United Rentals: Strong Performance and Strategic Positioning Justify Buy Rating",
-    "published": 1714101960,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "Q1 2024 United Rentals Inc Earnings Call",
-    "published": 1714098423,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "KeyBanc Keeps Their Hold Rating on United Rentals (URI)",
-    "published": 1714095300,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "Deep Dive Into United Rentals Stock: Analyst Perspectives (5 Ratings)",
-    "published": 1714093260,
-    "posting_price": 679.16195226,
-    "close_price": 684.63262939,
-    "percent_change": 0.80550406
-  },
-  {
-    "title": "United Rentals (URI) Stock Up on Q1 Earnings & Revenue Beat",
-    "published": 1714064040,
-    "posting_price": 673.92903537,
-    "close_price": 684.75152588,
-    "percent_change": 1.60587984
-  },
-  {
-    "title": "Caterpillar Crushes Earnings Views, But Light Sales Dent Dow Jones Heavyweight",
-    "published": 1714044048,
-    "posting_price": 673.92903537,
-    "close_price": 684.75152588,
-    "percent_change": 1.60587984
-  },
-  {
-    "title": "United Rentals, Inc. (URI) Q1 2024 Earnings Call Transcript",
-    "published": 1714043348,
-    "posting_price": 673.92903537,
-    "close_price": 684.75152588,
-    "percent_change": 1.60587984
-  },
-  {
-    "title": "United Rentals (URI)'s Market Valuation: A Comprehensive Analysis",
-    "published": 1714029240,
-    "posting_price": 673.92903537,
-    "close_price": 684.75152588,
-    "percent_change": 1.60587984
-  },
-  {
-    "title": "Decoding United Rentals Inc (URI): A Strategic SWOT Insight",
-    "published": 1714021584,
-    "posting_price": 673.92903537,
-    "close_price": 684.75152588,
-    "percent_change": 1.60587984
-  },
-  {
-    "title": "United Rentals (URI) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1713999620,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals Inc (URI) Surpasses Analysts' Q1 Revenue Projections and Raises 2024 Guidance",
-    "published": 1713995530,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals Declares Quarterly Cash Dividend",
-    "published": 1713990300,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "Caterpillar Crushes Earnings Views, But Light Sales Dents Dow Jones Heavyweight",
-    "published": 1713990048,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals Announces Record First Quarter Results and Raises 2024 Guidance to Reflect the Acquisition of Yak",
-    "published": 1713989700,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals profit beats expectations on higher equipment demand",
-    "published": 1713979385,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "Caterpillar Earnings Due; Will Dow Jones Heavyweight Crush It Again?",
-    "published": 1713976908,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals: Q1 Earnings Snapshot",
-    "published": 1713976089,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals (URI) Receives a Buy from Bank of America Securities",
-    "published": 1713947160,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "URI Stock Earnings: United Rentals Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713945480,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals Reaches Analyst Target Price",
-    "published": 1713941880,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals: Underlying Concerns Prompt Sell Rating Despite Q1 Beat and 2024 Guidance Hike",
-    "published": 1713935760,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals Outlines 2024 Financial Projections and Health",
-    "published": 1713930300,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals Non-GAAP EPS of $9.15 beats by $0.81, revenue of $3.49B beats by $40M",
-    "published": 1713929400,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals raises FY24 revenue view to $14.95B-$15.45B, consensus $15.04B",
-    "published": 1713929160,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "United Rentals reports Q1 adjusted EPS $9.15, consensus $8.32",
-    "published": 1713929160,
-    "posting_price": 658.27002234,
-    "close_price": 649.3404541,
-    "percent_change": -1.35652057
-  },
-  {
-    "title": "5 Construction Stocks Likely to Beat Q1 Earnings Estimates",
-    "published": 1713885240,
-    "posting_price": 635.21765923,
-    "close_price": 655.41571045,
-    "percent_change": 3.17970556
-  },
-  {
-    "title": "Are Investors Undervaluing United Rentals (URI) Right Now?",
-    "published": 1713879614,
-    "posting_price": 635.21765923,
-    "close_price": 655.41571045,
-    "percent_change": 3.17970556
-  },
-  {
-    "title": "Estimating The Fair Value Of United Rentals, Inc. (NYSE:URI)",
-    "published": 1713873699,
-    "posting_price": 635.21765923,
-    "close_price": 655.41571045,
-    "percent_change": 3.17970556
-  },
-  {
-    "title": "Things to Consider Before United Rentals' (URI) Q1 Earnings",
-    "published": 1713797760,
-    "posting_price": 626.8034805,
-    "close_price": 623.68157959,
-    "percent_change": -0.49806694
-  },
-  {
-    "title": "Zacks Value Trader Highlights: Netflix, United Rentals, NVIDIA, Cintas and Valero Energy",
-    "published": 1713790440,
-    "posting_price": 626.8034805,
-    "close_price": 623.68157959,
-    "percent_change": -0.49806694
-  },
-  {
-    "title": "Barclays Reaffirms Their Sell Rating on United Rentals (URI)",
-    "published": 1713754020,
-    "posting_price": 626.8034805,
-    "close_price": 623.68157959,
-    "percent_change": -0.49806694
-  },
-  {
-    "title": "Top 5 S&P 500 Giants Set To Beat On Q1 Earnings Next Week",
-    "published": 1713672000,
-    "posting_price": 626.80354184,
-    "close_price": 623.68164062,
-    "percent_change": -0.49806694
-  },
-  {
-    "title": "United Rentals (URI) Stock Moves -0.72%: What You Should Know",
-    "published": 1713564918,
-    "posting_price": 628.10181806,
-    "close_price": 622.73022461,
-    "percent_change": -0.85521062
-  },
-  {
-    "title": "How to Find Stocks with Moats",
-    "published": 1713540660,
-    "posting_price": 628.10181806,
-    "close_price": 622.73022461,
-    "percent_change": -0.85521062
-  },
-  {
-    "title": "Countdown to United Rentals (URI) Q1 Earnings: Wall Street Forecasts for Key Metrics",
-    "published": 1713532522,
-    "posting_price": 628.10181806,
-    "close_price": 622.73022461,
-    "percent_change": -0.85521062
-  },
-  {
-    "title": "URI December 20th Options Begin Trading",
-    "published": 1713434040,
-    "posting_price": 635.01948698,
-    "close_price": 627.22967529,
-    "percent_change": -1.22670435
-  },
-  {
-    "title": "H&E Equipment: Rental Business With Ambitions",
-    "published": 1713415491,
-    "posting_price": 635.01948698,
-    "close_price": 627.22967529,
-    "percent_change": -1.22670435
-  },
-  {
-    "title": "(URI) - Analyzing United Rentals's Short Interest",
-    "published": 1713406860,
-    "posting_price": 635.01948698,
-    "close_price": 627.22967529,
-    "percent_change": -1.22670435
-  },
-  {
-    "title": "United Rentals (URI) Reports Next Week: Wall Street Expects Earnings Growth",
-    "published": 1713362478,
-    "posting_price": 649.3305417,
-    "close_price": 630.53979492,
-    "percent_change": -2.89386461
-  },
-  {
-    "title": "RSI Alert: United Rentals Now Oversold",
-    "published": 1713322920,
-    "posting_price": 649.3305417,
-    "close_price": 630.53979492,
-    "percent_change": -2.89386461
+    "title": "United Rentals goes ex dividend tomorrow",
+    "published": 1714988580,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 675.0,
+      "2024-05-06T14:30:00+00:00": 677.280029296875,
+      "2024-05-06T15:30:00+00:00": 674.1199951171875,
+      "2024-05-06T16:30:00+00:00": 677.780029296875,
+      "2024-05-06T17:30:00+00:00": 677.6500244140625,
+      "2024-05-06T18:30:00+00:00": 680.3200073242188,
+      "2024-05-06T19:30:00+00:00": 680.2150268554688
+    },
+    "sentiment": 0.925540030002594
+  },
+  {
+    "title": "Most Investors Think They're Boring Companies. But These 2 Businesses Are Unstoppable and Are Reaching New Highs in 2024.",
+    "published": 1714808340,
+    "day_prices": {},
+    "sentiment": 0.5026298761367798
+  },
+  {
+    "title": "Shareholders May Be More Conservative With United Rentals, Inc.'s (NYSE:URI) CEO Compensation For Now",
+    "published": 1714736656,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 678.0800170898438,
+      "2024-05-03T14:30:00+00:00": 676.1400146484375,
+      "2024-05-03T15:30:00+00:00": 667.3099975585938,
+      "2024-05-03T16:30:00+00:00": 669.5399780273438,
+      "2024-05-03T17:30:00+00:00": 666.7100219726562,
+      "2024-05-03T18:30:00+00:00": 668.719970703125,
+      "2024-05-03T19:30:00+00:00": 668.4600219726562
+    },
+    "sentiment": 0.7207534313201904
+  },
+  {
+    "title": "KBR's Q1 Earnings & Revenues Beat Estimates, Backlog High",
+    "published": 1714575000,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 664.4099731445312,
+      "2024-05-01T14:30:00+00:00": 654.4550170898438,
+      "2024-05-01T15:30:00+00:00": 654.3400268554688,
+      "2024-05-01T16:30:00+00:00": 653.8699951171875,
+      "2024-05-01T17:30:00+00:00": 651.77001953125,
+      "2024-05-01T18:30:00+00:00": 659.510009765625,
+      "2024-05-01T19:30:00+00:00": 664.9199829101562
+    },
+    "sentiment": 0.9047137498855591
+  },
+  {
+    "title": "United Rentals, Inc. (NYSE:URI) Delivered A Better ROE Than Its Industry",
+    "published": 1715688016,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 701.0,
+      "2024-05-14T14:30:00+00:00": 700.2122192382812,
+      "2024-05-14T15:30:00+00:00": 694.739990234375,
+      "2024-05-14T16:30:00+00:00": 690.3699951171875,
+      "2024-05-14T17:30:00+00:00": 691.0499877929688,
+      "2024-05-14T18:30:00+00:00": 693.2393188476562,
+      "2024-05-14T19:30:00+00:00": 696.6199951171875
+    },
+    "sentiment": 0.9549930095672607
+  },
+  {
+    "title": "United Rentals Inc. stock outperforms competitors despite losses on the day",
+    "published": 1715659200,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 701.0,
+      "2024-05-14T14:30:00+00:00": 700.2122192382812,
+      "2024-05-14T15:30:00+00:00": 694.739990234375,
+      "2024-05-14T16:30:00+00:00": 690.3699951171875,
+      "2024-05-14T17:30:00+00:00": 691.0499877929688,
+      "2024-05-14T18:30:00+00:00": 693.2393188476562,
+      "2024-05-14T19:30:00+00:00": 696.6199951171875
+    },
+    "sentiment": 0.9321715235710144
+  },
+  {
+    "title": "Investors in United Rentals (NYSE:URI) have seen massive returns of 441% over the past five years",
+    "published": 1715166022,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 665.3099975585938,
+      "2024-05-08T14:30:00+00:00": 665.030029296875,
+      "2024-05-08T15:30:00+00:00": 669.489990234375,
+      "2024-05-08T16:30:00+00:00": 671.1074829101562,
+      "2024-05-08T17:30:00+00:00": 669.8400268554688,
+      "2024-05-08T18:30:00+00:00": 677.3599853515625,
+      "2024-05-08T19:30:00+00:00": 677.9600219726562
+    },
+    "sentiment": 0.9417219758033752
+  },
+  {
+    "title": "JPM lists stocks with the least price swings, most attractive option-sale candidates",
+    "published": 1716263280,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 698.9400024414062,
+      "2024-05-21T14:30:00+00:00": 695.5,
+      "2024-05-21T15:30:00+00:00": 694.1599731445312,
+      "2024-05-21T16:30:00+00:00": 691.780029296875,
+      "2024-05-21T17:30:00+00:00": 690.25,
+      "2024-05-21T18:30:00+00:00": 691.4000244140625,
+      "2024-05-21T19:30:00+00:00": 693.2000122070312
+    },
+    "sentiment": 0.8605014681816101
+  },
+  {
+    "title": "United Rentals Inc. stock outperforms competitors on strong trading day",
+    "published": 1715918400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 689.3900146484375,
+      "2024-05-17T14:30:00+00:00": 683.2100219726562,
+      "2024-05-17T15:30:00+00:00": 682.3200073242188,
+      "2024-05-17T16:30:00+00:00": 683.030029296875,
+      "2024-05-17T17:30:00+00:00": 682.1099853515625,
+      "2024-05-17T18:30:00+00:00": 680.77001953125,
+      "2024-05-17T19:30:00+00:00": 684.7349853515625
+    },
+    "sentiment": 0.9401113390922546
+  },
+  {
+    "title": "Unveiling United Rentals (URI)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1715851980,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 708.2999877929688,
+      "2024-05-16T14:30:00+00:00": 690.9149780273438,
+      "2024-05-16T15:30:00+00:00": 689.0050048828125,
+      "2024-05-16T16:30:00+00:00": 685.8699951171875,
+      "2024-05-16T17:30:00+00:00": 685.8300170898438,
+      "2024-05-16T18:30:00+00:00": 681.9600219726562,
+      "2024-05-16T19:30:00+00:00": 687.7799072265625
+    },
+    "sentiment": 0.8607104420661926
   }
 ]

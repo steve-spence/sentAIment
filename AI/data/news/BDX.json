@@ -1,275 +1,422 @@
 [
   {
-    "title": "Steris: Moving On, Losing Its Teeth",
-    "published": 1713074165,
-    "posting_price": 233.03714813,
-    "close_price": 230.6882019,
-    "percent_change": -1.00797072
+    "title": "Becton Dickinson and : BD, City of Hope to Offer Pharmacy Residency Program for Medication-Use Safety and Policy",
+    "published": 1714981507,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 236.80999755859375,
+      "2024-05-06T14:30:00+00:00": 236.86500549316406,
+      "2024-05-06T15:30:00+00:00": 236.52999877929688,
+      "2024-05-06T16:30:00+00:00": 236.59500122070312,
+      "2024-05-06T17:30:00+00:00": 237.44000244140625,
+      "2024-05-06T18:30:00+00:00": 237.10000610351562,
+      "2024-05-06T19:30:00+00:00": 235.7100067138672
+    },
+    "sentiment": 0.8584907650947571
   },
   {
-    "title": "Here's Why You Should Hold BD (BDX) Stock in Your Portfolio",
-    "published": 1712934240,
-    "posting_price": 235.0224635,
-    "close_price": 231.13047791,
-    "percent_change": -1.65600578
+    "title": "Becton Dickinson (BDX) Receives a Buy from Barclays",
+    "published": 1714966740,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 236.80999755859375,
+      "2024-05-06T14:30:00+00:00": 236.86500549316406,
+      "2024-05-06T15:30:00+00:00": 236.52999877929688,
+      "2024-05-06T16:30:00+00:00": 236.59500122070312,
+      "2024-05-06T17:30:00+00:00": 237.44000244140625,
+      "2024-05-06T18:30:00+00:00": 237.10000610351562,
+      "2024-05-06T19:30:00+00:00": 235.7100067138672
+    },
+    "sentiment": 0.4941478371620178
   },
   {
-    "title": "ClearBridge Appreciation Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712753700,
-    "posting_price": 239.16997242,
-    "close_price": 236.85050964,
-    "percent_change": -0.96979682
+    "title": "Analysts Conflicted on These Healthcare Names: Springworks Therapeutics (SWTX) and Becton Dickinson (BDX)",
+    "published": 1714960920,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 236.80999755859375,
+      "2024-05-06T14:30:00+00:00": 236.86500549316406,
+      "2024-05-06T15:30:00+00:00": 236.52999877929688,
+      "2024-05-06T16:30:00+00:00": 236.59500122070312,
+      "2024-05-06T17:30:00+00:00": 237.44000244140625,
+      "2024-05-06T18:30:00+00:00": 237.10000610351562,
+      "2024-05-06T19:30:00+00:00": 235.7100067138672
+    },
+    "sentiment": 0.5520312786102295
   },
   {
-    "title": "BD Named a Best Employer for Excellence in Employee Well-Being",
-    "published": 1712744021,
-    "posting_price": 239.16997242,
-    "close_price": 236.85050964,
-    "percent_change": -0.96979682
+    "title": "Becton, Dickinson and Company (NYSE:BDX) Q2 2024 Earnings Call Transcript",
+    "published": 1714750780,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 238.77000427246094,
+      "2024-05-03T14:30:00+00:00": 237.89999389648438,
+      "2024-05-03T15:30:00+00:00": 235.10000610351562,
+      "2024-05-03T16:30:00+00:00": 237.47000122070312,
+      "2024-05-03T17:30:00+00:00": 237.30999755859375,
+      "2024-05-03T18:30:00+00:00": 236.97000122070312,
+      "2024-05-03T19:30:00+00:00": 236.4499969482422
+    },
+    "sentiment": 0.9270893931388855
   },
   {
-    "title": "GSH Corporation Announces Director Retirement",
-    "published": 1712638080,
-    "posting_price": 238.50164405,
-    "close_price": 241.58770752,
-    "percent_change": 1.29393803
+    "title": "Becton Dickinson Second Quarter 2024 Earnings: EPS Beats Expectations",
+    "published": 1714735566,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 238.77000427246094,
+      "2024-05-03T14:30:00+00:00": 237.89999389648438,
+      "2024-05-03T15:30:00+00:00": 235.10000610351562,
+      "2024-05-03T16:30:00+00:00": 237.47000122070312,
+      "2024-05-03T17:30:00+00:00": 237.30999755859375,
+      "2024-05-03T18:30:00+00:00": 236.97000122070312,
+      "2024-05-03T19:30:00+00:00": 236.4499969482422
+    },
+    "sentiment": 0.8212023377418518
   },
   {
-    "title": "BD's (BDX) Latest Product to Offer Wider Access to Researchers",
-    "published": 1712586420,
-    "posting_price": 241.39112779,
-    "close_price": 237.56794739,
-    "percent_change": -1.58381148
+    "title": "Stock Market News for May 3, 2024",
+    "published": 1714725420,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 238.77000427246094,
+      "2024-05-03T14:30:00+00:00": 237.89999389648438,
+      "2024-05-03T15:30:00+00:00": 235.10000610351562,
+      "2024-05-03T16:30:00+00:00": 237.47000122070312,
+      "2024-05-03T17:30:00+00:00": 237.30999755859375,
+      "2024-05-03T18:30:00+00:00": 236.97000122070312,
+      "2024-05-03T19:30:00+00:00": 236.4499969482422
+    },
+    "sentiment": 0.924159824848175
   },
   {
-    "title": "YieldBoost Becton, Dickinson To 6.8% Using Options",
-    "published": 1712572380,
-    "posting_price": 241.39112779,
-    "close_price": 237.56794739,
-    "percent_change": -1.58381148
+    "title": "Becton Dickinson & Co (BDX) Q2 2024 Earnings Call Transcript Highlights: Strong Growth and ...",
+    "published": 1714719692,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 238.77000427246094,
+      "2024-05-03T14:30:00+00:00": 237.89999389648438,
+      "2024-05-03T15:30:00+00:00": 235.10000610351562,
+      "2024-05-03T16:30:00+00:00": 237.47000122070312,
+      "2024-05-03T17:30:00+00:00": 237.30999755859375,
+      "2024-05-03T18:30:00+00:00": 236.97000122070312,
+      "2024-05-03T19:30:00+00:00": 236.4499969482422
+    },
+    "sentiment": 0.931101381778717
   },
   {
-    "title": "BD Increases Access to Cutting-Edge Image-Enabled, Spectral Cell Sorters",
-    "published": 1712560113,
-    "posting_price": 241.39112779,
-    "close_price": 237.56794739,
-    "percent_change": -1.58381148
+    "title": "Wells Fargo Sticks to Its Buy Rating for Becton Dickinson (BDX)",
+    "published": 1714715160,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 238.77000427246094,
+      "2024-05-03T14:30:00+00:00": 237.89999389648438,
+      "2024-05-03T15:30:00+00:00": 235.10000610351562,
+      "2024-05-03T16:30:00+00:00": 237.47000122070312,
+      "2024-05-03T17:30:00+00:00": 237.30999755859375,
+      "2024-05-03T18:30:00+00:00": 236.97000122070312,
+      "2024-05-03T19:30:00+00:00": 236.4499969482422
+    },
+    "sentiment": 0.8683102130889893
   },
   {
-    "title": "ClearBridge Dividend Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712385900,
-    "posting_price": 241.39115879,
-    "close_price": 237.56797791,
-    "percent_change": -1.58381148
+    "title": "Q2 2024 Becton Dickinson and Co Earnings Call",
+    "published": 1714703201,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 238.77000427246094,
+      "2024-05-03T14:30:00+00:00": 237.89999389648438,
+      "2024-05-03T15:30:00+00:00": 235.10000610351562,
+      "2024-05-03T16:30:00+00:00": 237.47000122070312,
+      "2024-05-03T17:30:00+00:00": 237.30999755859375,
+      "2024-05-03T18:30:00+00:00": 236.97000122070312,
+      "2024-05-03T19:30:00+00:00": 236.4499969482422
+    },
+    "sentiment": 0.9322196245193481
   },
   {
-    "title": "AngioDynamics upgraded at Oppenheimer on pipeline progress",
-    "published": 1712305200,
-    "posting_price": 238.87509533,
-    "close_price": 241.9414978,
-    "percent_change": 1.28368446
+    "title": "Here's Why Becton Dickinson (BDX) is a Strong Value Stock",
+    "published": 1714657210,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.8137710690498352
   },
   {
-    "title": "Becton Dickinson announes commercial release of cell sorters",
-    "published": 1712296320,
-    "posting_price": 238.87509533,
-    "close_price": 241.9414978,
-    "percent_change": 1.28368446
+    "title": "Becton Dickinson (BDX) Surpasses Q2 Earnings and Revenue Estimates",
+    "published": 1714650006,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.9543578624725342
   },
   {
-    "title": "BD to Announce Financial Results for its Second Quarter of Fiscal 2024",
-    "published": 1712261700,
-    "posting_price": 241.56803194,
-    "close_price": 238.87510681,
-    "percent_change": -1.11476883
+    "title": "Becton, Dickinson and Company (BDX) Q2 2024 Earnings Call Transcript",
+    "published": 1714646734,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.9378864169120789
   },
   {
-    "title": "Why Becton Dickinson (BDX) is a Top Value Stock for the Long-Term",
-    "published": 1712238011,
-    "posting_price": 241.56803194,
-    "close_price": 238.87510681,
-    "percent_change": -1.11476883
+    "title": "BDX Stock Earnings: Becton, Dickinson Beats EPS, Beats Revenue for Q2 2024",
+    "published": 1714643700,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.6210153698921204
   },
   {
-    "title": "Citi opens 90-day catalyst watch on Becton Dickinson",
-    "published": 1712212740,
-    "posting_price": 241.56803194,
-    "close_price": 238.87510681,
-    "percent_change": -1.11476883
+    "title": "Becton Dickinson and : Earnings Release Q2 FY24",
+    "published": 1714636803,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.909205973148346
   },
   {
-    "title": "Rich Returns at a Discount: 3 Dividend Aristocrats Trading at 52-Week Lows",
-    "published": 1712191680,
-    "posting_price": 241.56803194,
-    "close_price": 238.87510681,
-    "percent_change": -1.11476883
+    "title": "Becton Dickinson: Fiscal Q2 Earnings Snapshot",
+    "published": 1714632137,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.8415255546569824
   },
   {
-    "title": "BDX vs. MMSI: Which Stock Is the Better Value Option?",
-    "published": 1712158811,
-    "posting_price": 237.38122514,
-    "close_price": 239.40583801,
-    "percent_change": 0.85289511
+    "title": "Becton Dickinson reports Q2 adjusted EPS $3.17, consensus $2.97",
+    "published": 1714628820,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.8002025485038757
   },
   {
-    "title": "Citi opens 'positive catalyst watch' on Becton Dickinson into earnings",
-    "published": 1712119680,
-    "posting_price": 237.38122514,
-    "close_price": 239.40583801,
-    "percent_change": 0.85289511
+    "title": "Becton, Dickinson files for automatic mixed securities shelf",
+    "published": 1714625460,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 243.0,
+      "2024-05-02T14:30:00+00:00": 240.11500549316406,
+      "2024-05-02T15:30:00+00:00": 235.5500030517578,
+      "2024-05-02T16:30:00+00:00": 230.82000732421875,
+      "2024-05-02T17:30:00+00:00": 232.92999267578125,
+      "2024-05-02T18:30:00+00:00": 235.9149932861328,
+      "2024-05-02T19:30:00+00:00": 239.6199951171875
+    },
+    "sentiment": 0.9477691650390625
   },
   {
-    "title": "11 Magnificent Dividend Growth Stocks to Buy and Hold Forever",
-    "published": 1712088765,
-    "posting_price": 238.74734721,
-    "close_price": 236.87998962,
-    "percent_change": -0.782148
+    "title": "Insider Sale: EVP & President Medical Michael Garrison Sells Shares of Becton Dickinson ...",
+    "published": 1714590056,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 234.02999877929688,
+      "2024-05-01T14:30:00+00:00": 232.69500732421875,
+      "2024-05-01T15:30:00+00:00": 233.27499389648438,
+      "2024-05-01T16:30:00+00:00": 234.1199951171875,
+      "2024-05-01T17:30:00+00:00": 234.1199951171875,
+      "2024-05-01T18:30:00+00:00": 234.97999572753906,
+      "2024-05-01T19:30:00+00:00": 235.21499633789062
+    },
+    "sentiment": 0.9137520790100098
   },
   {
-    "title": "AngioDynamics (ANGO) Settles Patent Litigations With BD",
-    "published": 1712068320,
-    "posting_price": 238.74734721,
-    "close_price": 236.87998962,
-    "percent_change": -0.782148
+    "title": "Becton, Dickinson Q2 2024 Earnings Preview",
+    "published": 1714559820,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 234.02999877929688,
+      "2024-05-01T14:30:00+00:00": 232.69500732421875,
+      "2024-05-01T15:30:00+00:00": 233.27499389648438,
+      "2024-05-01T16:30:00+00:00": 234.1199951171875,
+      "2024-05-01T17:30:00+00:00": 234.1199951171875,
+      "2024-05-01T18:30:00+00:00": 234.97999572753906,
+      "2024-05-01T19:30:00+00:00": 235.21499633789062
+    },
+    "sentiment": 0.9272539615631104
   },
   {
-    "title": "AngioDynamics Resolves Decade-Long Patent Litigation With Becton, Dickinson In Settlement Agreement",
-    "published": 1712044620,
-    "posting_price": 238.74734721,
-    "close_price": 236.87998962,
-    "percent_change": -0.782148
+    "title": "Biden's New Tariffs On Chinese Imports Are A 'Clear Giveaway' To These Two Tesla Rivals, Jim Cramer Says: 'I Like This Policy'",
+    "published": 1715754360,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 236.0399932861328,
+      "2024-05-15T14:30:00+00:00": 235.2449951171875,
+      "2024-05-15T15:30:00+00:00": 236.91000366210938,
+      "2024-05-15T16:30:00+00:00": 237.3000946044922,
+      "2024-05-15T17:30:00+00:00": 237.30499267578125,
+      "2024-05-15T18:30:00+00:00": 237.4199981689453,
+      "2024-05-15T19:30:00+00:00": 237.07000732421875
+    },
+    "sentiment": 0.8980489373207092
   },
   {
-    "title": "BD Board Declares Dividend",
-    "published": 1714508100,
-    "posting_price": 228.81102041,
-    "close_price": 230.57028198,
-    "percent_change": 0.768871
+    "title": "AngioDynamics: A Story To Monitor",
+    "published": 1715696866,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 238.02999877929688,
+      "2024-05-14T14:30:00+00:00": 237.30999755859375,
+      "2024-05-14T15:30:00+00:00": 235.8000030517578,
+      "2024-05-14T16:30:00+00:00": 235.0399932861328,
+      "2024-05-14T17:30:00+00:00": 234.5800018310547,
+      "2024-05-14T18:30:00+00:00": 234.72000122070312,
+      "2024-05-14T19:30:00+00:00": 235.20750427246094
+    },
+    "sentiment": 0.9100652933120728
   },
   {
-    "title": "Becton, Dickinson declares $0.95 dividend",
-    "published": 1714448280,
-    "posting_price": 228.81102041,
-    "close_price": 230.57028198,
-    "percent_change": 0.768871
+    "title": "U.S. to issue new tariffs against Chinese-made medical supplies: Reuters",
+    "published": 1715341500,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 235.0,
+      "2024-05-10T14:30:00+00:00": 234.61000061035156,
+      "2024-05-10T15:30:00+00:00": 234.2100067138672,
+      "2024-05-10T16:30:00+00:00": 234.5175018310547,
+      "2024-05-10T17:30:00+00:00": 234.63499450683594,
+      "2024-05-10T18:30:00+00:00": 234.27999877929688,
+      "2024-05-10T19:30:00+00:00": 234.89999389648438
+    },
+    "sentiment": 0.67955082654953
   },
   {
-    "title": "BD to Present at Bank of America Securities Health Care Conference 2024",
-    "published": 1714421700,
-    "posting_price": 227.85766833,
-    "close_price": 229.43019104,
-    "percent_change": 0.69013377
-  },
-  {
-    "title": "Sustained Product Demand Likely to Aid BD's (BDX) Q2 Earnings",
-    "published": 1714407660,
-    "posting_price": 227.85766833,
-    "close_price": 229.43019104,
-    "percent_change": 0.69013377
-  },
-  {
-    "title": "Unveiling Becton Dickinson (BDX) Q2 Outlook: Wall Street Estimates for Key Metrics",
-    "published": 1714396560,
-    "posting_price": 227.85766833,
-    "close_price": 229.43019104,
-    "percent_change": 0.69013377
-  },
-  {
-    "title": "Looking Into Becton Dickinson's Recent Short Interest",
-    "published": 1714391220,
-    "posting_price": 227.85766833,
-    "close_price": 229.43019104,
-    "percent_change": 0.69013377
-  },
-  {
-    "title": "How Much Will $10k Invested in These Dividend Aristocrats Grow to by 2025?",
-    "published": 1714125600,
-    "posting_price": 226.04926859,
-    "close_price": 227.57264709,
-    "percent_change": 0.67391437
-  },
-  {
-    "title": "BCAL Diagnostics Advances Breast Cancer Detection Test",
-    "published": 1714033680,
-    "posting_price": 229.89213257,
-    "close_price": 226.52104187,
-    "percent_change": -1.46637932
-  },
-  {
-    "title": "Madison Sustainable Equity Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713933000,
-    "posting_price": 228.3392574,
-    "close_price": 229.81349182,
-    "percent_change": 0.64563336
-  },
-  {
-    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
-    "published": 1713872040,
-    "posting_price": 230.55061862,
-    "close_price": 230.33439636,
-    "percent_change": -0.09378516
-  },
-  {
-    "title": "Madison Investors Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713865800,
-    "posting_price": 230.55061862,
-    "close_price": 230.33439636,
-    "percent_change": -0.09378516
-  },
-  {
-    "title": "Revelyst Announces Chief Supply Chain Officer",
-    "published": 1713855600,
-    "posting_price": 230.55061862,
-    "close_price": 230.33439636,
-    "percent_change": -0.09378516
-  },
-  {
-    "title": "Analysts Are Bullish on Top Healthcare Stocks: Biohaven Ltd. (BHVN), Becton Dickinson (BDX)",
-    "published": 1713852660,
-    "posting_price": 230.55061862,
-    "close_price": 230.33439636,
-    "percent_change": -0.09378516
-  },
-  {
-    "title": "Top 5 U.S. Giants at Lucrative Valuations Amid April Turmoil",
-    "published": 1713788880,
-    "posting_price": 230.68820807,
-    "close_price": 229.86264038,
-    "percent_change": -0.35787165
+    "title": "See Which Of The Latest 13F Filers Holds Becton, Dickinson & Co",
+    "published": 1715252700,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 234.13999938964844,
+      "2024-05-09T14:30:00+00:00": 235.72000122070312,
+      "2024-05-09T15:30:00+00:00": 235.1999969482422,
+      "2024-05-09T16:30:00+00:00": 234.81500244140625,
+      "2024-05-09T17:30:00+00:00": 234.75,
+      "2024-05-09T18:30:00+00:00": 234.85499572753906,
+      "2024-05-09T19:30:00+00:00": 235.27000427246094
+    },
+    "sentiment": 0.9528407454490662
   },
   {
     "title": "5 Dividend Growth Stocks With Upside To Analyst Targets",
-    "published": 1713777960,
-    "posting_price": 230.68820807,
-    "close_price": 229.86264038,
-    "percent_change": -0.35787165
+    "published": 1716443580,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 233.77000427246094,
+      "2024-05-23T14:30:00+00:00": 231.77000427246094,
+      "2024-05-23T15:30:00+00:00": 230.5050048828125,
+      "2024-05-23T16:30:00+00:00": 231.0800018310547,
+      "2024-05-23T17:30:00+00:00": 230.34300231933594,
+      "2024-05-23T18:30:00+00:00": 229.7899932861328,
+      "2024-05-23T19:30:00+00:00": 230.0500030517578
+    },
+    "sentiment": 0.7689886689186096
   },
   {
-    "title": "BDX or MMSI: Which Is the Better Value Stock Right Now?",
-    "published": 1713541209,
-    "posting_price": 230.66854987,
-    "close_price": 230.09851074,
-    "percent_change": -0.24712477
+    "title": "Trade Winds Turning: 3 Stocks Poised to Gain from Biden\u2019s China Tariffs",
+    "published": 1716262380,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 237.6699981689453,
+      "2024-05-21T14:30:00+00:00": 236.63999938964844,
+      "2024-05-21T15:30:00+00:00": 236.05999755859375,
+      "2024-05-21T16:30:00+00:00": 235.5449981689453,
+      "2024-05-21T17:30:00+00:00": 235.21499633789062,
+      "2024-05-21T18:30:00+00:00": 234.7899932861328,
+      "2024-05-21T19:30:00+00:00": 234.65499877929688
+    },
+    "sentiment": 0.9078536629676819
   },
   {
-    "title": "Interesting BDX Put And Call Options For December 20th",
-    "published": 1713433380,
-    "posting_price": 228.61442386,
-    "close_price": 229.1451416,
-    "percent_change": 0.23214534
+    "title": "Becton, Dickinson and Company: Stagnating All Along",
+    "published": 1715852272,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 236.64999389648438,
+      "2024-05-16T14:30:00+00:00": 236.61500549316406,
+      "2024-05-16T15:30:00+00:00": 237.49000549316406,
+      "2024-05-16T16:30:00+00:00": 237.49000549316406,
+      "2024-05-16T17:30:00+00:00": 237.43150329589844,
+      "2024-05-16T18:30:00+00:00": 237.0399932861328,
+      "2024-05-16T19:30:00+00:00": 236.48500061035156
+    },
+    "sentiment": 0.9539134502410889
   },
   {
-    "title": "Should You Hold Becton, Dickinson and Company (BDX)?",
-    "published": 1713432930,
-    "posting_price": 228.61442386,
-    "close_price": 229.1451416,
-    "percent_change": 0.23214534
+    "title": "PayPal upgraded, UiPath downgraded: Wall Street's top analyst calls",
+    "published": 1717059600,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 225.3699951171875,
+      "2024-05-30T14:30:00+00:00": 225.2550048828125,
+      "2024-05-30T15:30:00+00:00": 225.75999450683594,
+      "2024-05-30T16:30:00+00:00": 225.2899932861328,
+      "2024-05-30T17:30:00+00:00": 225.9199981689453,
+      "2024-05-30T18:30:00+00:00": 225.8800048828125,
+      "2024-05-30T19:30:00+00:00": 226.25
+    },
+    "sentiment": 0.4873175323009491
   },
   {
-    "title": "ClearBridge Appreciation ESG Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1713427200,
-    "posting_price": 228.61442386,
-    "close_price": 229.1451416,
-    "percent_change": 0.23214534
+    "title": "Becton Dickinson initiated with bullish view at Goldman Sachs, here's why",
+    "published": 1717041120,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 225.3699951171875,
+      "2024-05-30T14:30:00+00:00": 225.2550048828125,
+      "2024-05-30T15:30:00+00:00": 225.75999450683594,
+      "2024-05-30T16:30:00+00:00": 225.2899932861328,
+      "2024-05-30T17:30:00+00:00": 225.9199981689453,
+      "2024-05-30T18:30:00+00:00": 225.8800048828125,
+      "2024-05-30T19:30:00+00:00": 226.25
+    },
+    "sentiment": 0.8958392143249512
+  },
+  {
+    "title": "BCAL Diagnostics Clarifies Recent Share Activity",
+    "published": 1717037520,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 225.3699951171875,
+      "2024-05-30T14:30:00+00:00": 225.2550048828125,
+      "2024-05-30T15:30:00+00:00": 225.75999450683594,
+      "2024-05-30T16:30:00+00:00": 225.2899932861328,
+      "2024-05-30T17:30:00+00:00": 225.9199981689453,
+      "2024-05-30T18:30:00+00:00": 225.8800048828125,
+      "2024-05-30T19:30:00+00:00": 226.25
+    },
+    "sentiment": 0.927634596824646
+  },
+  {
+    "title": "BCAL Diagnostics Awaits Capital Raising Event",
+    "published": 1716985140,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 225.1999969482422,
+      "2024-05-29T14:30:00+00:00": 225.2698974609375,
+      "2024-05-29T15:30:00+00:00": 225.7100067138672,
+      "2024-05-29T16:30:00+00:00": 225.17999267578125,
+      "2024-05-29T17:30:00+00:00": 225.80499267578125,
+      "2024-05-29T18:30:00+00:00": 225.60499572753906,
+      "2024-05-29T19:30:00+00:00": 225.7449951171875
+    },
+    "sentiment": 0.8759535551071167
   }
 ]

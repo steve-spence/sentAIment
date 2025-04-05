@@ -1,387 +1,156 @@
 [
   {
-    "title": "Notable Two Hundred Day Moving Average Cross - GPC",
-    "published": 1712832360,
-    "posting_price": 144.10463646,
-    "close_price": 141.71856689,
-    "percent_change": -1.65578959
+    "title": "Genuine Parts : GPC Investor Presentation May 2024",
+    "published": 1714741387,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 157.0800018310547,
+      "2024-05-03T14:30:00+00:00": 157.42999267578125,
+      "2024-05-03T15:30:00+00:00": 157.16000366210938,
+      "2024-05-03T16:30:00+00:00": 157.58999633789062,
+      "2024-05-03T17:30:00+00:00": 157.5991973876953,
+      "2024-05-03T18:30:00+00:00": 157.73500061035156,
+      "2024-05-03T19:30:00+00:00": 157.69000244140625
+    },
+    "sentiment": 0.9449345469474792
   },
   {
-    "title": "Genuine Parts: A Dividend King That Offers Real Value (Rating Upgrade)",
-    "published": 1712736900,
-    "posting_price": 144.44412812,
-    "close_price": 143.82336426,
-    "percent_change": -0.42976054
+    "title": "Genuine Parts (GPC) Price Target Increased by 9.127% to 170.721",
+    "published": 1714616350,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 157.72999572753906,
+      "2024-05-02T14:30:00+00:00": 157.4886016845703,
+      "2024-05-02T15:30:00+00:00": 156.52000427246094,
+      "2024-05-02T16:30:00+00:00": 156.44000244140625,
+      "2024-05-02T17:30:00+00:00": 156.6199951171875,
+      "2024-05-02T18:30:00+00:00": 156.6699981689453,
+      "2024-05-02T19:30:00+00:00": 156.72999572753906
+    },
+    "sentiment": 0.9575628638267517
   },
   {
-    "title": "With 80% ownership of the shares, Genuine Parts Company (NYSE:GPC) is heavily dominated by institutional owners",
-    "published": 1712574415,
-    "posting_price": 145.80205182,
-    "close_price": 145.88934326,
-    "percent_change": 0.05986983
+    "title": "Genuine Parts acquires Motor Parts & Equipment auto parts store",
+    "published": 1714548960,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 156.8699951171875,
+      "2024-05-01T14:30:00+00:00": 156.94000244140625,
+      "2024-05-01T15:30:00+00:00": 156.92999267578125,
+      "2024-05-01T16:30:00+00:00": 157.60499572753906,
+      "2024-05-01T17:30:00+00:00": 157.05999755859375,
+      "2024-05-01T18:30:00+00:00": 157.4499969482422,
+      "2024-05-01T19:30:00+00:00": 157.91000366210938
+    },
+    "sentiment": 0.9443202018737793
   },
   {
-    "title": "Genuine Parts Stock (NYSE:GPC): Dividend King Trading at a Discount",
-    "published": 1712378310,
-    "posting_price": 145.80203657,
-    "close_price": 145.889328,
-    "percent_change": 0.05986983
+    "title": "Genuine Parts a Top Ranked SAFE Dividend Stock With 2.6% Yield (GPC)",
+    "published": 1715754120,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 156.0,
+      "2024-05-15T14:30:00+00:00": 155.5,
+      "2024-05-15T15:30:00+00:00": 154.9886016845703,
+      "2024-05-15T16:30:00+00:00": 155.25999450683594,
+      "2024-05-15T17:30:00+00:00": 155.35499572753906,
+      "2024-05-15T18:30:00+00:00": 155.57000732421875,
+      "2024-05-15T19:30:00+00:00": 155.1199951171875
+    },
+    "sentiment": 0.7713302373886108
   },
   {
-    "title": "Genuine Parts price target raised by $10 at Truist, here's why",
-    "published": 1712038620,
-    "posting_price": 149.80792204,
-    "close_price": 149.16775513,
-    "percent_change": -0.42732514
+    "title": "Value Propositions of Williams-Sonoma and Its Peers",
+    "published": 1715241660,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 154.83999633789062,
+      "2024-05-09T14:30:00+00:00": 154.53500366210938,
+      "2024-05-09T15:30:00+00:00": 154.9250030517578,
+      "2024-05-09T16:30:00+00:00": 154.69500732421875,
+      "2024-05-09T17:30:00+00:00": 154.97000122070312,
+      "2024-05-09T18:30:00+00:00": 154.9600067138672,
+      "2024-05-09T19:30:00+00:00": 155.17999267578125
+    },
+    "sentiment": 0.8384953141212463
   },
   {
-    "title": "Genuine Parts Company Announces Changes to the Board and Declares Regular Quarterly Dividend",
-    "published": 1714480200,
-    "posting_price": 155.52088609,
-    "close_price": 152.48497009,
-    "percent_change": -1.95209536
+    "title": "Genuine Parts Co. stock underperforms Wednesday when compared to competitors",
+    "published": 1715141520,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 154.0399932861328,
+      "2024-05-08T14:30:00+00:00": 154.17999267578125,
+      "2024-05-08T15:30:00+00:00": 154.0399932861328,
+      "2024-05-08T16:30:00+00:00": 153.77000427246094,
+      "2024-05-08T17:30:00+00:00": 153.97000122070312,
+      "2024-05-08T18:30:00+00:00": 153.91000366210938,
+      "2024-05-08T19:30:00+00:00": 154.41000366210938
+    },
+    "sentiment": 0.9398477077484131
   },
   {
-    "title": "Genuine Parts Company Board Changes and Shareholder Decisions",
-    "published": 1714464180,
-    "posting_price": 155.52088609,
-    "close_price": 152.48497009,
-    "percent_change": -1.95209536
+    "title": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q1 2024 Update",
+    "published": 1716325956,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 151.8300018310547,
+      "2024-05-21T14:30:00+00:00": 151.07000732421875,
+      "2024-05-21T15:30:00+00:00": 151.1750030517578,
+      "2024-05-21T16:30:00+00:00": 150.27000427246094,
+      "2024-05-21T17:30:00+00:00": 150.75,
+      "2024-05-21T18:30:00+00:00": 151.1699981689453,
+      "2024-05-21T19:30:00+00:00": 151.25
+    },
+    "sentiment": 0.947879433631897
   },
   {
-    "title": "Genuine Parts declares $1.00 dividend",
-    "published": 1714462980,
-    "posting_price": 155.52088609,
-    "close_price": 152.48497009,
-    "percent_change": -1.95209536
+    "title": "Are Investors Undervaluing Genuine Parts Company (NYSE:GPC) By 28%?",
+    "published": 1716303856,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 151.8300018310547,
+      "2024-05-21T14:30:00+00:00": 151.07000732421875,
+      "2024-05-21T15:30:00+00:00": 151.1750030517578,
+      "2024-05-21T16:30:00+00:00": 150.27000427246094,
+      "2024-05-21T17:30:00+00:00": 150.75,
+      "2024-05-21T18:30:00+00:00": 151.1699981689453,
+      "2024-05-21T19:30:00+00:00": 151.25
+    },
+    "sentiment": 0.9343728423118591
   },
   {
-    "title": "Analysts Conflicted on These Consumer Cyclical Names: Genuine Parts Company (GPC), Albany International (AIN) and Crown Holdings (CCK)",
-    "published": 1714458180,
-    "posting_price": 155.52088609,
-    "close_price": 152.48497009,
-    "percent_change": -1.95209536
+    "title": "Here are the biggest single-session post-results gains from the recent earnings season",
+    "published": 1715910360,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 154.83999633789062,
+      "2024-05-17T14:30:00+00:00": 153.36000061035156,
+      "2024-05-17T15:30:00+00:00": 152.52000427246094,
+      "2024-05-17T16:30:00+00:00": 152.47500610351562,
+      "2024-05-17T17:30:00+00:00": 152.6999969482422,
+      "2024-05-17T18:30:00+00:00": 153.10499572753906,
+      "2024-05-17T19:30:00+00:00": 152.89500427246094
+    },
+    "sentiment": 0.7174323797225952
   },
   {
-    "title": "Genuine Parts Company Announces CEO Leadership Transition",
-    "published": 1714422600,
-    "posting_price": 155.66640212,
-    "close_price": 156.51994324,
-    "percent_change": 0.54831429
+    "title": "Genuine Parts Co. stock outperforms competitors on strong trading day",
+    "published": 1717128840,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 140.7100067138672,
+      "2024-05-31T14:30:00+00:00": 141.51499938964844,
+      "2024-05-31T15:30:00+00:00": 141.8000030517578,
+      "2024-05-31T16:30:00+00:00": 142.16000366210938,
+      "2024-05-31T17:30:00+00:00": 142.84730529785156,
+      "2024-05-31T18:30:00+00:00": 143.2899932861328,
+      "2024-05-31T19:30:00+00:00": 143.11000061035156
+    },
+    "sentiment": 0.9395856857299805
   },
   {
-    "title": "Genuine Parts Company Announces CEO Transition and Board Expansion",
-    "published": 1714363380,
-    "posting_price": 155.66640212,
-    "close_price": 156.51994324,
-    "percent_change": 0.54831429
-  },
-  {
-    "title": "Genuine Parts announces CEO transition",
-    "published": 1714362000,
-    "posting_price": 155.66640212,
-    "close_price": 156.51994324,
-    "percent_change": 0.54831429
-  },
-  {
-    "title": "Genuine Parts names Will Stengel as CEO, succeeding Paul Donahue",
-    "published": 1714361580,
-    "posting_price": 155.66640212,
-    "close_price": 156.51994324,
-    "percent_change": 0.54831429
-  },
-  {
-    "title": "7 Stocks to Buy if Inflation Continues to Reign in 2024",
-    "published": 1714196580,
-    "posting_price": 155.66638694,
-    "close_price": 156.51992798,
-    "percent_change": 0.54831429
-  },
-  {
-    "title": "Inflation Is Not Going Away. 2 Stocks That Will Thrive, 1 That Will Dive",
-    "published": 1714065104,
-    "posting_price": 156.26773413,
-    "close_price": 156.22894287,
-    "percent_change": -0.02482359
-  },
-  {
-    "title": "Genuine Parts (GPC) Could Be a Great Choice",
-    "published": 1714059903,
-    "posting_price": 156.26773413,
-    "close_price": 156.22894287,
-    "percent_change": -0.02482359
-  },
-  {
-    "title": "Main Street\u2019s Next Winners? 3 Stocks I\u2019m Bullish on Using the Peter Lynch Approach.",
-    "published": 1713988515,
-    "posting_price": 158.16886067,
-    "close_price": 156.93702698,
-    "percent_change": -0.77880923
-  },
-  {
-    "title": "Genuine Parts: Buy Rated On Promising Signs Of Growth Turnaround",
-    "published": 1713585357,
-    "posting_price": 157.91664917,
-    "close_price": 158.18823242,
-    "percent_change": 0.17197886
-  },
-  {
-    "title": "Genuine Parts Company (NYSE:GPC) Q1 2024 Earnings Call Transcript",
-    "published": 1713533287,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Genuine Parts First Quarter 2024 Earnings: Misses Expectations",
-    "published": 1713529056,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Genuine Parts price target raised by $16 at Truist, here's why",
-    "published": 1713515280,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Genuine Parts price target raised by $30 at Wedbush, here's why",
-    "published": 1713511980,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Genuine Parts Co (GPC) (Q1 2024) Earnings Call Transcript Highlights: Key Financial Metrics and ...",
-    "published": 1713510135,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Skechers USA (SKX), Genuine Parts Company (GPC) and Beyond Inc (BYON)",
-    "published": 1713510120,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Decoding Genuine Parts Co (GPC): A Strategic SWOT Insight",
-    "published": 1713503092,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Q1 2024 Genuine Parts Co Earnings Call",
-    "published": 1713493854,
-    "posting_price": 156.16104003,
-    "close_price": 157.50926208,
-    "percent_change": 0.86335366
-  },
-  {
-    "title": "Why Genuine Parts Stock Jumped Today",
-    "published": 1713455970,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts (GPC) Shares Skyrocket, What You Need To Know",
-    "published": 1713455546,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts (GPC) Q1 Earnings Beat, Sales Miss Estimates",
-    "published": 1713448860,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Buy Rating Affirmed for Genuine Parts Company Amid Improving U.S. Auto Trends and Positive Outlook",
-    "published": 1713443160,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts Company (GPC) Q1 2024 Earnings Call Transcript",
-    "published": 1713440288,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts rises 12.3%",
-    "published": 1713438060,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts (NYSE:GPC) Misses Q1 Sales Targets",
-    "published": 1713438047,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "GPC Stock Earnings: Genuine Parts Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1713437820,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts Company Reports First Quarter 2024 Results and Updates Full-Year Outlook",
-    "published": 1713437700,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "WNW and LUXH among Consumer Discretionary movers",
-    "published": 1713435480,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "What's Driving Genuine Parts Co's Surprising 16% Stock Rally?",
-    "published": 1713435420,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts rises 9.6%",
-    "published": 1713430860,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts rises 14.1%",
-    "published": 1713430080,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts lifts profit forecast as US prospects brighten",
-    "published": 1713427825,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts Company raises FY24 profit guidance",
-    "published": 1713426060,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts Co (GPC) Q1 2024 Earnings: Adjusted EPS Beats Estimates Amidst Modest Sales Growth",
-    "published": 1713425520,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts : First Quarter 2024 Earnings Presentation",
-    "published": 1713424452,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts : GPC 1Q24 Earnings Presentation Deck",
-    "published": 1713424452,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts: Q1 Earnings Snapshot",
-    "published": 1713423732,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts reports mixed Q1 results; updates FY24 outlook",
-    "published": 1713420060,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts raises FY24 adjusted EPS $9.80-$9.95 from $9.70-$9.90",
-    "published": 1713420060,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts reports Q1 adjusted EPS $2.22, consensus $2.16",
-    "published": 1713419880,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts Company upbeat outlook, rally lifts auto parts sector",
-    "published": 1713414240,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts' stock soars to pace the S&P 500's gainers. Here's why.",
-    "published": 1713407864,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Noteworthy Thursday Option Activity: GPC, SNPS, EYPT",
-    "published": 1713406740,
-    "posting_price": 151.19493538,
-    "close_price": 155.41418457,
-    "percent_change": 2.7906022
-  },
-  {
-    "title": "Genuine Parts Q1 2024 Earnings Preview",
-    "published": 1713352500,
-    "posting_price": 140.94262028,
-    "close_price": 139.73989868,
-    "percent_change": -0.85334131
-  },
-  {
-    "title": "Genuine Parts (GPC) Reports Q1: Everything You Need To Know Ahead Of Earnings",
-    "published": 1713337245,
-    "posting_price": 140.94262028,
-    "close_price": 139.73989868,
-    "percent_change": -0.85334131
-  },
-  {
-    "title": "Evercore ISI Remains a Hold on Genuine Parts Company (GPC)",
-    "published": 1713322920,
-    "posting_price": 140.94262028,
-    "close_price": 139.73989868,
-    "percent_change": -0.85334131
-  },
-  {
-    "title": "Genuine Parts Co. stock outperforms competitors despite losses on the day",
-    "published": 1713240900,
-    "posting_price": 140.32184818,
-    "close_price": 140.20545959,
-    "percent_change": -0.08294403
+    "title": "Genuine Parts Company to Present at the Evercore ISI Consumer and Retail Conference",
+    "published": 1716985800,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 140.47000122070312,
+      "2024-05-29T14:30:00+00:00": 140.0050048828125,
+      "2024-05-29T15:30:00+00:00": 139.80999755859375,
+      "2024-05-29T16:30:00+00:00": 139.8800048828125,
+      "2024-05-29T17:30:00+00:00": 139.76499938964844,
+      "2024-05-29T18:30:00+00:00": 139.44000244140625,
+      "2024-05-29T19:30:00+00:00": 139.38999938964844
+    },
+    "sentiment": 0.9233320355415344
   }
 ]

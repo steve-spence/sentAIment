@@ -1,1080 +1,658 @@
 [
   {
-    "title": "Here's Why PVH Corp (PVH) is Rallying Ahead of the Industry",
-    "published": 1713203520,
-    "posting_price": 129.90876903,
-    "close_price": 126.13955688,
-    "percent_change": -2.90143012
-  },
-  {
-    "title": "The 3 Best Cruise Stocks to Buy Now: Q2 Edition",
-    "published": 1713198900,
-    "posting_price": 129.90876903,
-    "close_price": 126.13955688,
-    "percent_change": -2.90143012
-  },
-  {
-    "title": "Nerdy's (NRDY) Varsity Tutors for Schools Collabs with Prague HS",
-    "published": 1713195660,
-    "posting_price": 129.90876903,
-    "close_price": 126.13955688,
-    "percent_change": -2.90143012
-  },
-  {
-    "title": "RCL vs. ATAT: Which Stock Is the Better Value Option?",
-    "published": 1713195612,
-    "posting_price": 129.90876903,
-    "close_price": 126.13955688,
-    "percent_change": -2.90143012
-  },
-  {
-    "title": "Why Royal Caribbean (RCL) is a Top Value Stock for the Long-Term",
-    "published": 1713188410,
-    "posting_price": 129.90876903,
-    "close_price": 126.13955688,
-    "percent_change": -2.90143012
-  },
-  {
-    "title": "Cruise Industry Turnaround Sends Royal Caribbean (NYSE:RCL) Ticking Up",
-    "published": 1713182580,
-    "posting_price": 129.90876903,
-    "close_price": 126.13955688,
-    "percent_change": -2.90143012
-  },
-  {
-    "title": "I Just Took a 3-Night Royal Caribbean Cruise -- Here's What I Loved, and What I Didn't",
-    "published": 1713105010,
-    "posting_price": 129.90876117,
-    "close_price": 126.13954926,
-    "percent_change": -2.90143011
-  },
-  {
-    "title": "Caesars (CZR) Launches Mobile Wagering at Harrah's Gulf Coast",
-    "published": 1712927760,
-    "posting_price": 130.31545071,
-    "close_price": 126.63550568,
-    "percent_change": -2.82387469
-  },
-  {
-    "title": "Bert Hernandez Named Brand President of Silversea",
-    "published": 1712926500,
-    "posting_price": 130.31545071,
-    "close_price": 126.63550568,
-    "percent_change": -2.82387469
-  },
-  {
-    "title": "ROYAL CARIBBEAN GROUP TO HOLD CONFERENCE CALL ON FIRST QUARTER 2024 EARNINGS",
-    "published": 1712871000,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "BTIG downgrades Avita to neutral, cites lowered guidance",
-    "published": 1712835120,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "Analyst Scoreboard: 10 Ratings For Royal Caribbean Gr",
-    "published": 1712833620,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "Returns Are Gaining Momentum At Royal Caribbean Cruises (NYSE:RCL)",
-    "published": 1712833235,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "Interesting RCL Put And Call Options For May 31st",
-    "published": 1712828460,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "Royal Caribbean price target raised by $4 at Barclays, here's why",
-    "published": 1712810460,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Royal Caribbean (RCL) and American Axle (AXL)",
-    "published": 1712801460,
-    "posting_price": 129.82940311,
-    "close_price": 132.66622925,
-    "percent_change": 2.18504135
-  },
-  {
-    "title": "Here's Why You Should Steer Clear of Vail Resorts (MTN) Now",
-    "published": 1712761380,
-    "posting_price": 130.58323243,
-    "close_price": 129.83930969,
-    "percent_change": -0.56969239
-  },
-  {
-    "title": "A NEW SUMMER ANTHEM MAKES ITS WAY TO AUSTRALIA IN 2025-26; Royal Caribbean's Anthem of the Seas is Set for its Down Under Debut, joining Voyager of the Seas in November 2025",
-    "published": 1712749333,
-    "posting_price": 130.58323243,
-    "close_price": 129.83930969,
-    "percent_change": -0.56969239
-  },
-  {
-    "title": "RCI Hospitality (RICK) Provides Q2 Business Update, Stock Down",
-    "published": 1712747940,
-    "posting_price": 130.58323243,
-    "close_price": 129.83930969,
-    "percent_change": -0.56969239
-  },
-  {
-    "title": "Carnival Eyes Real Estate Jackpot: Reportedly Plans To Sell Miami HQ Amid Post-Pandemic Shifts",
-    "published": 1712729040,
-    "posting_price": 130.58323243,
-    "close_price": 129.83930969,
-    "percent_change": -0.56969239
-  },
-  {
-    "title": "Royal Caribbean : A NEW SUMMER ANTHEM MAKES ITS WAY TO AUSTRALIA IN 2025-26",
-    "published": 1712707506,
-    "posting_price": 130.58323243,
-    "close_price": 129.83930969,
-    "percent_change": -0.56969239
-  },
-  {
-    "title": "Wall Street Favorites: 3 Cruise Stocks with Strong Buy Ratings for April 2024",
-    "published": 1712681702,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "JAKKS Pacific (JAKK) Unveils Partnership With Epic Story Media",
-    "published": 1712674860,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "Is Royal Caribbean Cruises (RCL) Stock Undervalued Right Now?",
-    "published": 1712670015,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "Here's Why Mattel (MAT) Is an Attractive Pick Right Now",
-    "published": 1712661900,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "Norwegian Cruise (NCLH) Unveils Ambitious Fleet Expansion",
-    "published": 1712661780,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "This Is What Whales Are Betting On Royal Caribbean Gr",
-    "published": 1712653380,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "Royal Caribbean Group stock underperforms Tuesday when compared to competitors",
-    "published": 1712635440,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "5 Stocks to Buy as Interest Rates Begin to Fall",
-    "published": 1712630520,
-    "posting_price": 136.52471296,
-    "close_price": 132.10084534,
-    "percent_change": -3.240342
-  },
-  {
-    "title": "'NOTHING COMES CLOSE' TO THE ELEVATED EXPERIENCE OF CELEBRITY CRUISES",
-    "published": 1712598000,
-    "posting_price": 136.00891589,
-    "close_price": 137.16943359,
-    "percent_change": 0.8532659
-  },
-  {
-    "title": "Churchill Downs (CHDN) Launches Terre Haute Casino Resort",
-    "published": 1712587560,
-    "posting_price": 136.00891589,
-    "close_price": 137.16943359,
-    "percent_change": 0.8532659
-  },
-  {
-    "title": "Century Casinos (CNTY) Boosts Missouri Footing With New Hotel",
-    "published": 1712583540,
-    "posting_price": 136.00891589,
-    "close_price": 137.16943359,
-    "percent_change": 0.8532659
-  },
-  {
-    "title": "Nerdy (NRDY) Partners With Rossville for Varsity Tutors Access",
-    "published": 1712583360,
-    "posting_price": 136.00891589,
-    "close_price": 137.16943359,
-    "percent_change": 0.8532659
-  },
-  {
-    "title": "Carnival or Royal Caribbean: Bank of America Chooses the Superior Cruise Stock to Buy",
-    "published": 1712573400,
-    "posting_price": 136.00891589,
-    "close_price": 137.16943359,
-    "percent_change": 0.8532659
-  },
-  {
-    "title": "Royal Caribbean (RCL) Ascends But Remains Behind Market: Some Facts to Note",
-    "published": 1712353518,
-    "posting_price": 135.88990159,
-    "close_price": 134.91784668,
-    "percent_change": -0.71532535
-  },
-  {
-    "title": "Universal Technical (UTI) Unveils New HVACR Training Program",
-    "published": 1712332080,
-    "posting_price": 135.88990159,
-    "close_price": 134.91784668,
-    "percent_change": -0.71532535
-  },
-  {
-    "title": "Cruise line operator Viking Holdings files for IPO",
-    "published": 1712314560,
-    "posting_price": 135.88990159,
-    "close_price": 134.91784668,
-    "percent_change": -0.71532535
-  },
-  {
-    "title": "Viking Holdings files for IPO",
-    "published": 1712313540,
-    "posting_price": 135.88990159,
-    "close_price": 134.91784668,
-    "percent_change": -0.71532535
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights American Public Education, Hyatt Hotels, PVH, Royal Caribbean Cruises and Interface",
-    "published": 1712313000,
-    "posting_price": 135.88990159,
-    "close_price": 134.91784668,
-    "percent_change": -0.71532535
-  },
-  {
-    "title": "RCL, CCL, MGM: Which Leisure Stock Is the Best Buy?",
-    "published": 1712297580,
-    "posting_price": 135.88990159,
-    "close_price": 134.91784668,
-    "percent_change": -0.71532535
-  },
-  {
-    "title": "Coast Guard searching for man who jumped off cruise ship in Bahamas",
-    "published": 1712260860,
-    "posting_price": 138.8160042,
-    "close_price": 133.94578552,
-    "percent_change": -3.50839855
-  },
-  {
-    "title": "The 3 Best Cruise Stocks to Buy in April 2024",
-    "published": 1712250900,
-    "posting_price": 138.8160042,
-    "close_price": 133.94578552,
-    "percent_change": -3.50839855
-  },
-  {
-    "title": "Hilton (HLT) Expands Luxury Portfolio With Sydell Group Buyout",
-    "published": 1712236560,
-    "posting_price": 138.8160042,
-    "close_price": 133.94578552,
-    "percent_change": -3.50839855
-  },
-  {
-    "title": "5 Must-Buy Stocks as Consumer Sentiment Soars to 3-Year High",
-    "published": 1712232420,
-    "posting_price": 138.8160042,
-    "close_price": 133.94578552,
-    "percent_change": -3.50839855
-  },
-  {
-    "title": "Buy Carnival Stock. Choppy Market Conditions Will Pass.",
-    "published": 1712212200,
-    "posting_price": 138.8160042,
-    "close_price": 133.94578552,
-    "percent_change": -3.50839855
-  },
-  {
-    "title": "Whirlpool (WHR) Progresses Well With Portfolio Transformation",
-    "published": 1712162820,
-    "posting_price": 136.08827269,
-    "close_price": 137.36782837,
-    "percent_change": 0.94023949
-  },
-  {
-    "title": "ROYAL CARIBBEAN AND MAKE-A-WISH JOIN FORCES IN COMMITMENT TO KIDS AND FAMILIES WORLDWIDE",
-    "published": 1712153100,
-    "posting_price": 136.08827269,
-    "close_price": 137.36782837,
-    "percent_change": 0.94023949
-  },
-  {
-    "title": "Wyndham Hotels (WH), WaterWalk Team Up, Boost Upscale Line-up",
-    "published": 1712151660,
-    "posting_price": 136.08827269,
-    "close_price": 137.36782837,
-    "percent_change": 0.94023949
-  },
-  {
-    "title": "Wall Street Analysts Think Royal Caribbean (RCL) Is a Good Investment: Is It?",
-    "published": 1712151009,
-    "posting_price": 136.08827269,
-    "close_price": 137.36782837,
-    "percent_change": 0.94023949
-  },
-  {
-    "title": "Royal Caribbean Cruises Ltd. (RCL) Is a Trending Stock: Facts to Know Before Betting on It",
-    "published": 1712149213,
-    "posting_price": 136.08827269,
-    "close_price": 137.36782837,
-    "percent_change": 0.94023949
-  },
-  {
-    "title": "Cruise Stocks Sail on Some Rough Waters",
-    "published": 1712089569,
-    "posting_price": 136.98100015,
-    "close_price": 136.33625793,
-    "percent_change": -0.47068004
-  },
-  {
-    "title": "Why Royal Caribbean (RCL) Could Beat Earnings Estimates Again",
-    "published": 1712074217,
-    "posting_price": 136.98100015,
-    "close_price": 136.33625793,
-    "percent_change": -0.47068004
-  },
-  {
-    "title": "Royal Caribbean (RCL) is a Great Momentum Stock: Should You Buy?",
-    "published": 1712073607,
-    "posting_price": 136.98100015,
-    "close_price": 136.33625793,
-    "percent_change": -0.47068004
-  },
-  {
-    "title": "Snail (SNAL) Q4 Earnings & Revenues Miss Estimates, Stock Down",
-    "published": 1712071260,
-    "posting_price": 136.98100015,
-    "close_price": 136.33625793,
-    "percent_change": -0.47068004
-  },
-  {
-    "title": "Noteworthy Tuesday Option Activity: RCL, TSLA, UNH",
-    "published": 1712060220,
-    "posting_price": 136.98100015,
-    "close_price": 136.33625793,
-    "percent_change": -0.47068004
-  },
-  {
-    "title": "Norwegian Cruise Line Earnings Can Reinvigorate the Stock. Here\u2019s How.",
-    "published": 1714507200,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "All You Need to Know About Royal Caribbean (RCL) Rating Upgrade to Strong Buy",
-    "published": 1714492809,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Q1 2024 Earnings Call Transcript",
-    "published": 1714490341,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Is Royal Caribbean Cruises (RCL) Stock Outpacing Its Consumer Discretionary Peers This Year?",
-    "published": 1714484408,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Wall Street Bulls Look Optimistic About Royal Caribbean (RCL): Should You Buy?",
-    "published": 1714483810,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Royal Caribbean Cruises Ltd. (RCL) Hits Fresh High: Is There Still Room to Run?",
-    "published": 1714482905,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "HARD ROCK INTERNATIONAL, SEMINOLE GAMING, ROYAL CARIBBEAN INTERNATIONAL AND CELEBRITY CRUISES ANNOUNCE GLOBAL PARTNERSHIP, BRINGING TRAVEL BENEFITS ACROSS LAND AND SEA",
-    "published": 1714477525,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Consumer Cyclical Stocks: Coty (COTY), Royal Caribbean (RCL) and Murphy USA (MUSA)",
-    "published": 1714468260,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Barclays Just Raised Its Price Target on These 3 Stocks",
-    "published": 1714456200,
-    "posting_price": 141.18662884,
-    "close_price": 138.49859619,
-    "percent_change": -1.90388613
-  },
-  {
-    "title": "Stock Market Crash Alert: 3 Must-Buy Cruise Stocks When Prices Plunge",
-    "published": 1714422600,
-    "posting_price": 139.85748657,
-    "close_price": 142.19836426,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Why Royal Caribbean (RCL) is a Top Momentum Stock for the Long-Term",
-    "published": 1714398611,
-    "posting_price": 139.85748657,
-    "close_price": 142.19836426,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Royal Caribbean Group Reports First Quarter Results and Increases Full Year Guidance on Continued Strong Demand",
-    "published": 1714391668,
-    "posting_price": 139.85748657,
-    "close_price": 142.19836426,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Royal Caribbean Stock (NYSE:RCL): Undervalued and Outperforming",
-    "published": 1714372620,
-    "posting_price": 139.85748657,
-    "close_price": 142.19836426,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Affluent Americans are driving US economy and likely delaying need for Fed rate cuts",
-    "published": 1714370400,
-    "posting_price": 139.85748657,
-    "close_price": 142.19836426,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Royal Caribbean price target raised by $39 at HSBC, here's why",
-    "published": 1714369440,
-    "posting_price": 139.85748657,
-    "close_price": 142.19836426,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "IPO watch: Cruise line operator Viking to go public as it looks to cash in on baby boomer buzz",
-    "published": 1714211820,
-    "posting_price": 139.85747156,
-    "close_price": 142.198349,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Royal Caribbean Group (RCL): Navigating Through Financial Seas - A SWOT Analysis",
-    "published": 1714194486,
-    "posting_price": 139.85747156,
-    "close_price": 142.198349,
-    "percent_change": 1.6737593
-  },
-  {
-    "title": "Hard Rock International, Royal Caribbean International and Celebrity Cruises Announce Global Partnership, Bringing Travel Benefits Across Land and Sea",
-    "published": 1714156920,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean ups 2024 outlook after \u201cstrongest WAVE season\u201d ever",
-    "published": 1714147341,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "3 Reasons Royal Caribbean Stock Can Double Again in 2024",
-    "published": 1714146600,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean adds rewards member benefits through partnership with Hard Rock International and Seminole Gaming",
-    "published": 1714123800,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean Group (RCL) Q1 2024 Earnings Call Transcript Highlights: Surpassing ...",
-    "published": 1714115971,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
+    "title": "Exclusive-Royal Caribbean recruiting thousands to meet surging demand, sources say",
+    "published": 1715103336,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 143.39999389648438,
+      "2024-05-07T14:30:00+00:00": 143.3000030517578,
+      "2024-05-07T15:30:00+00:00": 143.33999633789062,
+      "2024-05-07T16:30:00+00:00": 143.42999267578125,
+      "2024-05-07T17:30:00+00:00": 143.18499755859375,
+      "2024-05-07T18:30:00+00:00": 142.35499572753906,
+      "2024-05-07T19:30:00+00:00": 142.0500030517578
+    },
+    "sentiment": 0.9085707068443298
+  },
+  {
+    "title": "Best Growth Stocks to Buy for May 7th",
+    "published": 1715082120,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 143.39999389648438,
+      "2024-05-07T14:30:00+00:00": 143.3000030517578,
+      "2024-05-07T15:30:00+00:00": 143.33999633789062,
+      "2024-05-07T16:30:00+00:00": 143.42999267578125,
+      "2024-05-07T17:30:00+00:00": 143.18499755859375,
+      "2024-05-07T18:30:00+00:00": 142.35499572753906,
+      "2024-05-07T19:30:00+00:00": 142.0500030517578
+    },
+    "sentiment": 0.8787187933921814
+  },
+  {
+    "title": "$100 Invested In This Stock 15 Years Ago Would Be Worth $900 Today",
+    "published": 1714998960,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 139.58999633789062,
+      "2024-05-06T14:30:00+00:00": 141.16000366210938,
+      "2024-05-06T15:30:00+00:00": 141.49000549316406,
+      "2024-05-06T16:30:00+00:00": 141.72000122070312,
+      "2024-05-06T17:30:00+00:00": 143.14500427246094,
+      "2024-05-06T18:30:00+00:00": 142.86500549316406,
+      "2024-05-06T19:30:00+00:00": 142.72999572753906
+    },
+    "sentiment": 0.9403102397918701
+  },
+  {
+    "title": "RCL or ATAT: Which Is the Better Value Stock Right Now?",
+    "published": 1714664408,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 139.11000061035156,
+      "2024-05-02T14:30:00+00:00": 137.1829071044922,
+      "2024-05-02T15:30:00+00:00": 137.9250030517578,
+      "2024-05-02T16:30:00+00:00": 136.81500244140625,
+      "2024-05-02T17:30:00+00:00": 137.27999877929688,
+      "2024-05-02T18:30:00+00:00": 138.47000122070312,
+      "2024-05-02T19:30:00+00:00": 138.22999572753906
+    },
+    "sentiment": 0.9195367097854614
+  },
+  {
+    "title": "Royal Caribbean Keeps Delivering - Fade The Rally Before Adding",
+    "published": 1714658400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 139.11000061035156,
+      "2024-05-02T14:30:00+00:00": 137.1829071044922,
+      "2024-05-02T15:30:00+00:00": 137.9250030517578,
+      "2024-05-02T16:30:00+00:00": 136.81500244140625,
+      "2024-05-02T17:30:00+00:00": 137.27999877929688,
+      "2024-05-02T18:30:00+00:00": 138.47000122070312,
+      "2024-05-02T19:30:00+00:00": 138.22999572753906
+    },
+    "sentiment": 0.836902379989624
+  },
+  {
+    "title": "The Latest Analyst Ratings For Royal Caribbean Gr",
+    "published": 1714651500,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 139.11000061035156,
+      "2024-05-02T14:30:00+00:00": 137.1829071044922,
+      "2024-05-02T15:30:00+00:00": 137.9250030517578,
+      "2024-05-02T16:30:00+00:00": 136.81500244140625,
+      "2024-05-02T17:30:00+00:00": 137.27999877929688,
+      "2024-05-02T18:30:00+00:00": 138.47000122070312,
+      "2024-05-02T19:30:00+00:00": 138.22999572753906
+    },
+    "sentiment": 0.9332754015922546
+  },
+  {
+    "title": "Royal Caribbean price target raised by $10 at BofA, here's why",
+    "published": 1714634820,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 139.11000061035156,
+      "2024-05-02T14:30:00+00:00": 137.1829071044922,
+      "2024-05-02T15:30:00+00:00": 137.9250030517578,
+      "2024-05-02T16:30:00+00:00": 136.81500244140625,
+      "2024-05-02T17:30:00+00:00": 137.27999877929688,
+      "2024-05-02T18:30:00+00:00": 138.47000122070312,
+      "2024-05-02T19:30:00+00:00": 138.22999572753906
+    },
+    "sentiment": 0.7782909870147705
+  },
+  {
+    "title": "Royal Caribbean Cruises (RCL) Price Target Increased by 6.419% to 160.654",
+    "published": 1714587938,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 139.14999389648438,
+      "2024-05-01T14:30:00+00:00": 134.80999755859375,
+      "2024-05-01T15:30:00+00:00": 135.0800018310547,
+      "2024-05-01T16:30:00+00:00": 136.38499450683594,
+      "2024-05-01T17:30:00+00:00": 135.44000244140625,
+      "2024-05-01T18:30:00+00:00": 137.07000732421875,
+      "2024-05-01T19:30:00+00:00": 138.5
+    },
+    "sentiment": 0.9571754336357117
+  },
+  {
+    "title": "Norwegian Cruise Line Stock Sinks After Earnings Beat, Guidance Hiked. Here\u2019s Why.",
+    "published": 1714571400,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 139.14999389648438,
+      "2024-05-01T14:30:00+00:00": 134.80999755859375,
+      "2024-05-01T15:30:00+00:00": 135.0800018310547,
+      "2024-05-01T16:30:00+00:00": 136.38499450683594,
+      "2024-05-01T17:30:00+00:00": 135.44000244140625,
+      "2024-05-01T18:30:00+00:00": 137.07000732421875,
+      "2024-05-01T19:30:00+00:00": 138.5
+    },
+    "sentiment": 0.8197950124740601
+  },
+  {
+    "title": "The Zacks Rank Explained: How to Find Strong Buy Consumer Discretionary Stocks",
+    "published": 1714570803,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 139.14999389648438,
+      "2024-05-01T14:30:00+00:00": 134.80999755859375,
+      "2024-05-01T15:30:00+00:00": 135.0800018310547,
+      "2024-05-01T16:30:00+00:00": 136.38499450683594,
+      "2024-05-01T17:30:00+00:00": 135.44000244140625,
+      "2024-05-01T18:30:00+00:00": 137.07000732421875,
+      "2024-05-01T19:30:00+00:00": 138.5
+    },
+    "sentiment": 0.9197333455085754
+  },
+  {
+    "title": "Norwegian Cruise Line Beats Earnings Estimates, Hikes Guidance. Why the Stock Is Falling.",
+    "published": 1714565820,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 139.14999389648438,
+      "2024-05-01T14:30:00+00:00": 134.80999755859375,
+      "2024-05-01T15:30:00+00:00": 135.0800018310547,
+      "2024-05-01T16:30:00+00:00": 136.38499450683594,
+      "2024-05-01T17:30:00+00:00": 135.44000244140625,
+      "2024-05-01T18:30:00+00:00": 137.07000732421875,
+      "2024-05-01T19:30:00+00:00": 138.5
+    },
+    "sentiment": 0.8114917278289795
+  },
+  {
+    "title": "Royal Caribbean set to resume cruises out of Baltimore nearly 2 months after Key Bridge collapse",
+    "published": 1715811669,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 141.58999633789062,
+      "2024-05-15T14:30:00+00:00": 140.6457977294922,
+      "2024-05-15T15:30:00+00:00": 140.38499450683594,
+      "2024-05-15T16:30:00+00:00": 140.8780059814453,
+      "2024-05-15T17:30:00+00:00": 140.35499572753906,
+      "2024-05-15T18:30:00+00:00": 140.3000030517578,
+      "2024-05-15T19:30:00+00:00": 140.6699981689453
+    },
+    "sentiment": 0.6873227953910828
+  },
+  {
+    "title": "Royal Caribbean Group Celebrates Native Cultures, Local Communities and Its Trailblazing Ships in Alaska",
+    "published": 1715773774,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 141.58999633789062,
+      "2024-05-15T14:30:00+00:00": 140.6457977294922,
+      "2024-05-15T15:30:00+00:00": 140.38499450683594,
+      "2024-05-15T16:30:00+00:00": 140.8780059814453,
+      "2024-05-15T17:30:00+00:00": 140.35499572753906,
+      "2024-05-15T18:30:00+00:00": 140.3000030517578,
+      "2024-05-15T19:30:00+00:00": 140.6699981689453
+    },
+    "sentiment": 0.7610664963722229
+  },
+  {
+    "title": "Here's Why You Should Retain Snap-on (SNA) in Your Portfolio",
+    "published": 1715703060,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 142.02999877929688,
+      "2024-05-14T14:30:00+00:00": 140.3699951171875,
+      "2024-05-14T15:30:00+00:00": 140.89999389648438,
+      "2024-05-14T16:30:00+00:00": 141.1291961669922,
+      "2024-05-14T17:30:00+00:00": 141.08999633789062,
+      "2024-05-14T18:30:00+00:00": 140.6811981201172,
+      "2024-05-14T19:30:00+00:00": 141.2100067138672
+    },
+    "sentiment": 0.9309346079826355
+  },
+  {
+    "title": "Top Stock Picks for Week of May 13, 2024",
+    "published": 1715635860,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 142.0,
+      "2024-05-13T14:30:00+00:00": 142.1999969482422,
+      "2024-05-13T15:30:00+00:00": 141.36000061035156,
+      "2024-05-13T16:30:00+00:00": 141.24000549316406,
+      "2024-05-13T17:30:00+00:00": 141.00999450683594,
+      "2024-05-13T18:30:00+00:00": 141.2050018310547,
+      "2024-05-13T19:30:00+00:00": 141.05999755859375
+    },
+    "sentiment": 0.9172635078430176
+  },
+  {
+    "title": "Thanks to Better-Than-Expected Bookings, Royal Caribbean Expects Record Earnings in 2024. What Does It Mean for Investors?",
+    "published": 1715507400,
+    "day_prices": {},
+    "sentiment": 0.8316368460655212
+  },
+  {
+    "title": "Best Growth Stocks to Buy for May 10th",
+    "published": 1715347980,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 143.0,
+      "2024-05-10T14:30:00+00:00": 141.60000610351562,
+      "2024-05-10T15:30:00+00:00": 141.0,
+      "2024-05-10T16:30:00+00:00": 140.8000030517578,
+      "2024-05-10T17:30:00+00:00": 140.88999938964844,
+      "2024-05-10T18:30:00+00:00": 140.72500610351562,
+      "2024-05-10T19:30:00+00:00": 141.10000610351562
+    },
+    "sentiment": 0.8779965043067932
+  },
+  {
+    "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Delivered A Better ROE Than Its Industry",
+    "published": 1715259628,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 141.33999633789062,
+      "2024-05-09T14:30:00+00:00": 141.57000732421875,
+      "2024-05-09T15:30:00+00:00": 142.27000427246094,
+      "2024-05-09T16:30:00+00:00": 141.3300018310547,
+      "2024-05-09T17:30:00+00:00": 141.6300048828125,
+      "2024-05-09T18:30:00+00:00": 141.61000061035156,
+      "2024-05-09T19:30:00+00:00": 141.8000030517578
+    },
+    "sentiment": 0.9581902623176575
+  },
+  {
+    "title": "The 3 Best Travel Stocks to Buy in May 2024",
+    "published": 1715248800,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 141.33999633789062,
+      "2024-05-09T14:30:00+00:00": 141.57000732421875,
+      "2024-05-09T15:30:00+00:00": 142.27000427246094,
+      "2024-05-09T16:30:00+00:00": 141.3300018310547,
+      "2024-05-09T17:30:00+00:00": 141.6300048828125,
+      "2024-05-09T18:30:00+00:00": 141.61000061035156,
+      "2024-05-09T19:30:00+00:00": 141.8000030517578
+    },
+    "sentiment": 0.8706332445144653
+  },
+  {
+    "title": "Earnings Estimates Rising for Royal Caribbean (RCL): Will It Gain?",
+    "published": 1715185205,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 140.17999267578125,
+      "2024-05-08T14:30:00+00:00": 141.10000610351562,
+      "2024-05-08T15:30:00+00:00": 140.72000122070312,
+      "2024-05-08T16:30:00+00:00": 141.05999755859375,
+      "2024-05-08T17:30:00+00:00": 140.97999572753906,
+      "2024-05-08T18:30:00+00:00": 141.1999969482422,
+      "2024-05-08T19:30:00+00:00": 141.11500549316406
+    },
+    "sentiment": 0.8737587332725525
+  },
+  {
+    "title": "TESTING THE WATERS: ROYAL CARIBBEAN'S UTOPIA OF THE SEAS BEGINS TESTS AT SEA",
+    "published": 1715168182,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 140.17999267578125,
+      "2024-05-08T14:30:00+00:00": 141.10000610351562,
+      "2024-05-08T15:30:00+00:00": 140.72000122070312,
+      "2024-05-08T16:30:00+00:00": 141.05999755859375,
+      "2024-05-08T17:30:00+00:00": 140.97999572753906,
+      "2024-05-08T18:30:00+00:00": 141.1999969482422,
+      "2024-05-08T19:30:00+00:00": 141.11500549316406
+    },
+    "sentiment": 0.8768805265426636
+  },
+  {
+    "title": "Royal Caribbean (NYSE:RCL) Goes on a Hiring Spree Amid Buoyant Demand",
+    "published": 1715149440,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 140.17999267578125,
+      "2024-05-08T14:30:00+00:00": 141.10000610351562,
+      "2024-05-08T15:30:00+00:00": 140.72000122070312,
+      "2024-05-08T16:30:00+00:00": 141.05999755859375,
+      "2024-05-08T17:30:00+00:00": 140.97999572753906,
+      "2024-05-08T18:30:00+00:00": 141.1999969482422,
+      "2024-05-08T19:30:00+00:00": 141.11500549316406
+    },
+    "sentiment": 0.9634918570518494
+  },
+  {
+    "title": "Cruising With Kids? 3 Money-Saving Tips You Need to Know",
+    "published": 1716489013,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 147.82000732421875,
+      "2024-05-23T14:30:00+00:00": 147.5800018310547,
+      "2024-05-23T15:30:00+00:00": 147.23500061035156,
+      "2024-05-23T16:30:00+00:00": 147.94000244140625,
+      "2024-05-23T17:30:00+00:00": 147.85000610351562,
+      "2024-05-23T18:30:00+00:00": 145.4600067138672,
+      "2024-05-23T19:30:00+00:00": 145.60000610351562
+    },
+    "sentiment": 0.9222561120986938
+  },
+  {
+    "title": "THE SUITE LIFE: CELEBRITY CRUISES ELEVATES 'THE RETREAT' EXPERIENCE",
+    "published": 1716469200,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 147.82000732421875,
+      "2024-05-23T14:30:00+00:00": 147.5800018310547,
+      "2024-05-23T15:30:00+00:00": 147.23500061035156,
+      "2024-05-23T16:30:00+00:00": 147.94000244140625,
+      "2024-05-23T17:30:00+00:00": 147.85000610351562,
+      "2024-05-23T18:30:00+00:00": 145.4600067138672,
+      "2024-05-23T19:30:00+00:00": 145.60000610351562
+    },
+    "sentiment": 0.5906112194061279
+  },
+  {
+    "title": "Insider Sale: Michael Bayley Sells 49,155 Shares of Royal Caribbean Group (RCL)",
+    "published": 1716419220,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 150.27000427246094,
+      "2024-05-22T14:30:00+00:00": 149.71499633789062,
+      "2024-05-22T15:30:00+00:00": 148.96499633789062,
+      "2024-05-22T16:30:00+00:00": 149.28500366210938,
+      "2024-05-22T17:30:00+00:00": 148.9199981689453,
+      "2024-05-22T18:30:00+00:00": 147.1699981689453,
+      "2024-05-22T19:30:00+00:00": 147.1699981689453
+    },
+    "sentiment": 0.930768609046936
+  },
+  {
+    "title": "3 Cruise Stocks to Buy Now: May 2024",
+    "published": 1716385200,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 150.27000427246094,
+      "2024-05-22T14:30:00+00:00": 149.71499633789062,
+      "2024-05-22T15:30:00+00:00": 148.96499633789062,
+      "2024-05-22T16:30:00+00:00": 149.28500366210938,
+      "2024-05-22T17:30:00+00:00": 148.9199981689453,
+      "2024-05-22T18:30:00+00:00": 147.1699981689453,
+      "2024-05-22T19:30:00+00:00": 147.1699981689453
+    },
+    "sentiment": 0.9327905774116516
+  },
+  {
+    "title": "Academy Sports (ASO) Expands to Ohio, Boosts Growth Prospects",
+    "published": 1716383760,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 150.27000427246094,
+      "2024-05-22T14:30:00+00:00": 149.71499633789062,
+      "2024-05-22T15:30:00+00:00": 148.96499633789062,
+      "2024-05-22T16:30:00+00:00": 149.28500366210938,
+      "2024-05-22T17:30:00+00:00": 148.9199981689453,
+      "2024-05-22T18:30:00+00:00": 147.1699981689453,
+      "2024-05-22T19:30:00+00:00": 147.1699981689453
+    },
+    "sentiment": 0.9519818425178528
+  },
+  {
+    "title": "5 Relative Price Strength Stocks With Strong Return Potential",
+    "published": 1716381420,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 150.27000427246094,
+      "2024-05-22T14:30:00+00:00": 149.71499633789062,
+      "2024-05-22T15:30:00+00:00": 148.96499633789062,
+      "2024-05-22T16:30:00+00:00": 149.28500366210938,
+      "2024-05-22T17:30:00+00:00": 148.9199981689453,
+      "2024-05-22T18:30:00+00:00": 147.1699981689453,
+      "2024-05-22T19:30:00+00:00": 147.1699981689453
+    },
+    "sentiment": 0.8867628574371338
+  },
+  {
+    "title": "Spectrum Brands (SPB) Unveils Offering & Share Repurchase Plan",
+    "published": 1716309660,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 146.86000061035156,
+      "2024-05-21T14:30:00+00:00": 148.55999755859375,
+      "2024-05-21T15:30:00+00:00": 148.82000732421875,
+      "2024-05-21T16:30:00+00:00": 149.8000030517578,
+      "2024-05-21T17:30:00+00:00": 149.80999755859375,
+      "2024-05-21T18:30:00+00:00": 149.9698944091797,
+      "2024-05-21T19:30:00+00:00": 150.30999755859375
+    },
+    "sentiment": 0.9377998113632202
+  },
+  {
+    "title": "Norwegian Cruise (NCLH) '24 View up on Strong Demand, Stock Up",
+    "published": 1716296400,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 146.86000061035156,
+      "2024-05-21T14:30:00+00:00": 148.55999755859375,
+      "2024-05-21T15:30:00+00:00": 148.82000732421875,
+      "2024-05-21T16:30:00+00:00": 149.8000030517578,
+      "2024-05-21T17:30:00+00:00": 149.80999755859375,
+      "2024-05-21T18:30:00+00:00": 149.9698944091797,
+      "2024-05-21T19:30:00+00:00": 150.30999755859375
+    },
+    "sentiment": 0.9491633772850037
+  },
+  {
+    "title": "Zacks.com featured highlights include Hanesbrands, Royal Caribbean Cruises, Allstate and Aptiv",
+    "published": 1716286260,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 146.86000061035156,
+      "2024-05-21T14:30:00+00:00": 148.55999755859375,
+      "2024-05-21T15:30:00+00:00": 148.82000732421875,
+      "2024-05-21T16:30:00+00:00": 149.8000030517578,
+      "2024-05-21T17:30:00+00:00": 149.80999755859375,
+      "2024-05-21T18:30:00+00:00": 149.9698944091797,
+      "2024-05-21T19:30:00+00:00": 150.30999755859375
+    },
+    "sentiment": 0.9381203055381775
+  },
+  {
+    "title": "NCLH, CCL, RCL: Here\u2019s Why These Cruise Stocks Gained Yesterday",
+    "published": 1716259080,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 146.86000061035156,
+      "2024-05-21T14:30:00+00:00": 148.55999755859375,
+      "2024-05-21T15:30:00+00:00": 148.82000732421875,
+      "2024-05-21T16:30:00+00:00": 149.8000030517578,
+      "2024-05-21T17:30:00+00:00": 149.80999755859375,
+      "2024-05-21T18:30:00+00:00": 149.9698944091797,
+      "2024-05-21T19:30:00+00:00": 150.30999755859375
+    },
+    "sentiment": 0.7616699934005737
+  },
+  {
+    "title": "Cruise Stocks Rise After Norwegian Boosts Outlook",
+    "published": 1716227100,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.7771295309066772
+  },
+  {
+    "title": "H World (HTHT) Q1 Earnings Miss, Revenues Surpass Estimates",
+    "published": 1716221460,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.6354832649230957
+  },
+  {
+    "title": "4 High Earnings Yield Value Stocks to Maximize Returns",
+    "published": 1716208740,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.6635943651199341
+  },
+  {
+    "title": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+    "published": 1716208620,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.8837459683418274
+  },
+  {
+    "title": "What's Driving Royal Caribbean Group's Surprising 22% Stock Rally?",
+    "published": 1716196320,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.8685510754585266
+  },
+  {
+    "title": "CCL, NCLH, RCL: Why Are Cruise Stocks Up Today?",
+    "published": 1716176520,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.6251347064971924
+  },
+  {
+    "title": "Stock market today: Asian shares mostly decline after Nasdaq ticks to a record high",
+    "published": 1716163440,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 143.67999267578125,
+      "2024-05-20T14:30:00+00:00": 148.0399932861328,
+      "2024-05-20T15:30:00+00:00": 149.77999877929688,
+      "2024-05-20T16:30:00+00:00": 149.7100067138672,
+      "2024-05-20T17:30:00+00:00": 148.5399932861328,
+      "2024-05-20T18:30:00+00:00": 148.19000244140625,
+      "2024-05-20T19:30:00+00:00": 148.22000122070312
+    },
+    "sentiment": 0.9702519178390503
+  },
+  {
+    "title": "Everything churning in the right director for cruise industry - analyst",
+    "published": 1716105960,
+    "day_prices": {},
+    "sentiment": 0.884933352470398
+  },
+  {
+    "title": "How to Find Strong Buy Consumer Discretionary Stocks Using the Zacks Rank",
+    "published": 1715953204,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 143.32000732421875,
+      "2024-05-17T14:30:00+00:00": 143.47999572753906,
+      "2024-05-17T15:30:00+00:00": 142.97999572753906,
+      "2024-05-17T16:30:00+00:00": 142.49000549316406,
+      "2024-05-17T17:30:00+00:00": 142.5800018310547,
+      "2024-05-17T18:30:00+00:00": 142.1199951171875,
+      "2024-05-17T19:30:00+00:00": 141.6300048828125
+    },
+    "sentiment": 0.9257646203041077
+  },
+  {
+    "title": "CELEBRITY CRUISES FIRST-EVER EDGE SERIES ALASKA ITINERARIES SET SAIL",
+    "published": 1715950800,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 143.32000732421875,
+      "2024-05-17T14:30:00+00:00": 143.47999572753906,
+      "2024-05-17T15:30:00+00:00": 142.97999572753906,
+      "2024-05-17T16:30:00+00:00": 142.49000549316406,
+      "2024-05-17T17:30:00+00:00": 142.5800018310547,
+      "2024-05-17T18:30:00+00:00": 142.1199951171875,
+      "2024-05-17T19:30:00+00:00": 141.6300048828125
+    },
+    "sentiment": 0.8269359469413757
   },
   {
     "title": "Royal Caribbean price target raised by $6 at Wells Fargo, here's why",
-    "published": 1714115220,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Q1 2024 Royal Caribbean Cruises Ltd Earnings Call",
-    "published": 1714114774,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean price target raised by $10 at Susquehanna, here's why",
-    "published": 1714113300,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean (RCL) Receives a Buy from Truist Financial",
-    "published": 1714113060,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean price target raised by $4 at Mizuho, here's why",
-    "published": 1714110360,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean price target raised by $11 at Barclays, here's why",
-    "published": 1714109340,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean: Strong Q1 Earnings and Promising Outlook Justify a Buy Rating",
-    "published": 1714109220,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean price target raised by $8 at Citi, here's why",
-    "published": 1714108500,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean: Strong Financial Performance and Growth Outlook Justify Buy Rating",
-    "published": 1714106280,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Barclays Keeps Their Buy Rating on Royal Caribbean (RCL)",
-    "published": 1714103280,
-    "posting_price": 138.13156563,
-    "close_price": 139.45079041,
-    "percent_change": 0.95504947
-  },
-  {
-    "title": "Royal Caribbean Cruises (RCL) Q1 2024 Earnings Call Transcript",
-    "published": 1714080613,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean customers are booking more experiences: CFO",
-    "published": 1714078418,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean (RCL) Tops Q1 Earnings Estimates, Ups '24 View",
-    "published": 1714067820,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Earnings Tick All the Boxes. The Stock Is Sailing Higher.",
-    "published": 1714054440,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Cruises Ltd. 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1714052286,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Cruises Ltd. (RCL) Q1 2024 Earnings Call Transcript",
-    "published": 1714052170,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Compared to Estimates, Royal Caribbean (RCL) Q1 Earnings: A Look at Key Metrics",
-    "published": 1714051835,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Climbs In Buy Zone, Hikes Outlook On Strong Demand",
-    "published": 1714050452,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Surpasses Analyst EPS Estimates and Boosts Full-Year Guidance Amid Strong Demand",
-    "published": 1714045929,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean (RCL) Q1 Earnings and Revenues Surpass Estimates",
-    "published": 1714045209,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean (NYSE:RCL) Surprises With Q1 Sales",
-    "published": 1714042008,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean lifts profit view again on cruise boom, higher prices",
-    "published": 1714041389,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Cruises Through Q1 As Demand And Pricing Remains High",
-    "published": 1714041300,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "RCL Stock Earnings: Royal Caribbean Gr Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714039140,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "RCL Earnings: Royal Caribbean Sails Past Q1 Estimates, Hikes Outlook",
-    "published": 1714036620,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean : RCG 1Q24 Earnings Call Presentation",
-    "published": 1714035967,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean\u2019s stock rallies toward a record on \u2018very robust\u2019 cruise demand",
-    "published": 1714029300,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean: Q1 Earnings Snapshot",
-    "published": 1714027333,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean lifts annual profit forecast on robust cruising demand",
-    "published": 1714026744,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean hikes guidance after strong Wave Season results",
-    "published": 1714025640,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean sees FY24 adjusted EPS $10.70-$10.90, consensus $10.06",
-    "published": 1714023840,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean sees Q2 adjusted EPS $2.65-$2.72, consensus $2.37",
-    "published": 1714023780,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean sees FY24 fuel expenses $1.18B",
-    "published": 1714023720,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean sees Q2 fuel expenses $291M",
-    "published": 1714023660,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean reports Q1 adjusted EPS $1.77, consensus $1.33",
-    "published": 1714023600,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Cruises Non-GAAP EPS of $1.77, revenue of $3.7B",
-    "published": 1714023180,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Buy Rating Affirmed for Royal Caribbean with Target Price Increase Amidst Strong Performance and Strategic Growth",
-    "published": 1714012560,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean price target raised by $5 at Macquarie, here's why",
-    "published": 1714012200,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean sees record bookings as demand for experiences and travel grow",
-    "published": 1714010340,
-    "posting_price": 138.12165452,
-    "close_price": 136.3560791,
-    "percent_change": -1.27827561
-  },
-  {
-    "title": "Royal Caribbean Stock Can Cruise Higher After Earnings. What Investors Need to Hear.",
-    "published": 1713988800,
-    "posting_price": 135.60225853,
-    "close_price": 135.62208557,
-    "percent_change": 0.01462147
-  },
-  {
-    "title": "Is Royal Caribbean Cruises (NYSE:RCL) A Risky Investment?",
-    "published": 1713963627,
-    "posting_price": 135.60225853,
-    "close_price": 135.62208557,
-    "percent_change": 0.01462147
-  },
-  {
-    "title": "Royal Caribbean Cruises Q1 2024 Earnings Preview",
-    "published": 1713962580,
-    "posting_price": 135.60225853,
-    "close_price": 135.62208557,
-    "percent_change": 0.01462147
-  },
-  {
-    "title": "Tactile Systems Technology and ESCO Technologies have been highlighted as Zacks Bull and Bear of the Day",
-    "published": 1713958740,
-    "posting_price": 135.60225853,
-    "close_price": 135.62208557,
-    "percent_change": 0.01462147
-  },
-  {
-    "title": "Royal Caribbean (RCL) To Report Earnings Tomorrow: Here Is What To Expect",
-    "published": 1713942057,
-    "posting_price": 135.60225853,
-    "close_price": 135.62208557,
-    "percent_change": 0.01462147
-  },
-  {
-    "title": "Royal Caribbean Group stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713931560,
-    "posting_price": 135.60225853,
-    "close_price": 135.62208557,
-    "percent_change": 0.01462147
-  },
-  {
-    "title": "Earnings Preview: Caesars Entertainment (CZR) Q1 Earnings Expected to Decline",
-    "published": 1713880872,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "How to Play Royal Caribbean (RCL) Ahead of Q1 Earnings?",
-    "published": 1713878760,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "These 2 Consumer Discretionary Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-    "published": 1713877213,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "FIRST CELEBRITY CRUISES GUESTS ENJOY PERFECT DAY AT COCOCAY",
-    "published": 1713877200,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "S&P 500 stocks with the biggest estimated EPS increase this season",
-    "published": 1713874200,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "Royal Caribbean Group - Progress Report on our Sustainability Journey",
-    "published": 1713873044,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "CONSTRUCTION BEGINS ON ROYAL CARIBBEAN'S FIRST ROYAL BEACH CLUB; The New Experience on Paradise Island in The Bahamas Opens in 2025",
-    "published": 1713873041,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "The Top 3 Cruise Stocks to Buy in April 2024",
-    "published": 1713848640,
-    "posting_price": 131.48587856,
-    "close_price": 135.56257629,
-    "percent_change": 3.10048332
-  },
-  {
-    "title": "CONSTRUCTION BEGINS ON ROYAL CARIBBEAN'S FIRST ROYAL BEACH CLUB",
-    "published": 1713816780,
-    "posting_price": 128.92676386,
-    "close_price": 130.92048645,
-    "percent_change": 1.54639931
-  },
-  {
-    "title": "10 Best Multibagger Stocks to Buy Now",
-    "published": 1713813189,
-    "posting_price": 128.92676386,
-    "close_price": 130.92048645,
-    "percent_change": 1.54639931
-  },
-  {
-    "title": "Insights Into Royal Caribbean (RCL) Q1: Wall Street Projections for Key Metrics",
-    "published": 1713791758,
-    "posting_price": 128.92676386,
-    "close_price": 130.92048645,
-    "percent_change": 1.54639931
-  },
-  {
-    "title": "Vail Resorts (MTN) Reports Ski Season Metrics, Skier Visits Fall",
-    "published": 1713789660,
-    "posting_price": 128.92676386,
-    "close_price": 130.92048645,
-    "percent_change": 1.54639931
-  },
-  {
-    "title": "Royal Caribbean Group Shares Comprehensive Update on its Decarbonization Journey",
-    "published": 1713787200,
-    "posting_price": 128.92676386,
-    "close_price": 130.92048645,
-    "percent_change": 1.54639931
-  },
-  {
-    "title": "Cruise operator Viking to valued at up to $10.7 billion after IPO terms set",
-    "published": 1713768720,
-    "posting_price": 128.92676386,
-    "close_price": 130.92048645,
-    "percent_change": 1.54639931
-  },
-  {
-    "title": "15 Best Cruise Lines in the US",
-    "published": 1713483543,
-    "posting_price": 127.38933545,
-    "close_price": 126.60574341,
-    "percent_change": -0.61511589
-  },
-  {
-    "title": "RCL December 20th Options Begin Trading",
-    "published": 1713432840,
-    "posting_price": 127.38933545,
-    "close_price": 126.60574341,
-    "percent_change": -0.61511589
-  },
-  {
-    "title": "Carnival Corporation Stock (NYSE:CCL): Huge Debt Pile Is a Limiting Factor",
-    "published": 1713402660,
-    "posting_price": 127.38933545,
-    "close_price": 126.60574341,
-    "percent_change": -0.61511589
-  },
-  {
-    "title": "Wyndham Hotels (WH) Enhances Business Travel Solutions",
-    "published": 1713364200,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "Mizuho Initiates Coverage of Royal Caribbean Cruises (RCL) with Buy Recommendation",
-    "published": 1713361532,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "Zacks Value Investor Highlights: JD.com, Owens Corning, Royal Caribbean Cruises, Toyota Motor and Pilgrim's Pride",
-    "published": 1713348000,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "ReadCloud Reports Record Quarter and Growth",
-    "published": 1713343680,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "Royal Caribbean's asset mix and destinations drive Buy rating from Mizuho",
-    "published": 1713339960,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "Royal Caribbean's asset mix and destinations drives Buy rating from Mizuho",
-    "published": 1713339600,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "3 Best Stocks to Buy Now, 4/17/2024, According to Top Analysts",
-    "published": 1713336360,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "Royal Caribbean initiated with bullish view at Mizuho, here's why",
-    "published": 1713326220,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "Royal Caribbean Poised for Growth: A Buy Rating with a Bright Outlook",
-    "published": 1713326160,
-    "posting_price": 128.4506686,
-    "close_price": 126.93306732,
-    "percent_change": -1.18146624
-  },
-  {
-    "title": "NeoGames (NGMS) to Bolster BIG Brazil's Caesars Brazil Presence",
-    "published": 1713286440,
-    "posting_price": 124.63186617,
-    "close_price": 125.57416534,
-    "percent_change": 0.756066
-  },
-  {
-    "title": "Wyndham Hotels (WH) Expands in Dominican Republic With New Hotel",
-    "published": 1713281880,
-    "posting_price": 124.63186617,
-    "close_price": 125.57416534,
-    "percent_change": 0.756066
-  },
-  {
-    "title": "Value Investors: Screen with the PEG Ratio",
-    "published": 1713278340,
-    "posting_price": 124.63186617,
-    "close_price": 125.57416534,
-    "percent_change": 0.756066
-  },
-  {
-    "title": "Royal Caribbean Cruises Ltd. (RCL) is Attracting Investor Attention: Here is What You Should Know",
-    "published": 1713272415,
-    "posting_price": 124.63186617,
-    "close_price": 125.57416534,
-    "percent_change": 0.756066
-  },
-  {
-    "title": "Despite shrinking by US$2.9b in the past week, Royal Caribbean Cruises (NYSE:RCL) shareholders are still up 101% over 1 year",
-    "published": 1713265235,
-    "posting_price": 124.63186617,
-    "close_price": 125.57416534,
-    "percent_change": 0.756066
-  },
-  {
-    "title": "Carnival promotes Lars Ljoen to chief maritime officer",
-    "published": 1713246300,
-    "posting_price": 124.63186617,
-    "close_price": 125.57416534,
-    "percent_change": 0.756066
+    "published": 1715928600,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 143.32000732421875,
+      "2024-05-17T14:30:00+00:00": 143.47999572753906,
+      "2024-05-17T15:30:00+00:00": 142.97999572753906,
+      "2024-05-17T16:30:00+00:00": 142.49000549316406,
+      "2024-05-17T17:30:00+00:00": 142.5800018310547,
+      "2024-05-17T18:30:00+00:00": 142.1199951171875,
+      "2024-05-17T19:30:00+00:00": 141.6300048828125
+    },
+    "sentiment": 0.7350743412971497
+  },
+  {
+    "title": "Royal Caribbean Group stock underperforms Friday when compared to competitors",
+    "published": 1715918400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 143.32000732421875,
+      "2024-05-17T14:30:00+00:00": 143.47999572753906,
+      "2024-05-17T15:30:00+00:00": 142.97999572753906,
+      "2024-05-17T16:30:00+00:00": 142.49000549316406,
+      "2024-05-17T17:30:00+00:00": 142.5800018310547,
+      "2024-05-17T18:30:00+00:00": 142.1199951171875,
+      "2024-05-17T19:30:00+00:00": 141.6300048828125
+    },
+    "sentiment": 0.7169501185417175
+  },
+  {
+    "title": "Churchill Downs (CHDN) Expands With New Resort in Indiana",
+    "published": 1715878320,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 141.0,
+      "2024-05-16T14:30:00+00:00": 140.6699981689453,
+      "2024-05-16T15:30:00+00:00": 141.6199951171875,
+      "2024-05-16T16:30:00+00:00": 143.06500244140625,
+      "2024-05-16T17:30:00+00:00": 143.17999267578125,
+      "2024-05-16T18:30:00+00:00": 142.4499969482422,
+      "2024-05-16T19:30:00+00:00": 143.02499389648438
+    },
+    "sentiment": 0.8380717635154724
+  },
+  {
+    "title": "Brokers Suggest Investing in Royal Caribbean (RCL): Read This Before Placing a Bet",
+    "published": 1715866211,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 141.0,
+      "2024-05-16T14:30:00+00:00": 140.6699981689453,
+      "2024-05-16T15:30:00+00:00": 141.6199951171875,
+      "2024-05-16T16:30:00+00:00": 143.06500244140625,
+      "2024-05-16T17:30:00+00:00": 143.17999267578125,
+      "2024-05-16T18:30:00+00:00": 142.4499969482422,
+      "2024-05-16T19:30:00+00:00": 143.02499389648438
+    },
+    "sentiment": 0.9460781216621399
+  },
+  {
+    "title": "3 Cruise Stocks to Buy as Viking Makes Waves With Blockbuster IPO",
+    "published": 1715850240,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 141.0,
+      "2024-05-16T14:30:00+00:00": 140.6699981689453,
+      "2024-05-16T15:30:00+00:00": 141.6199951171875,
+      "2024-05-16T16:30:00+00:00": 143.06500244140625,
+      "2024-05-16T17:30:00+00:00": 143.17999267578125,
+      "2024-05-16T18:30:00+00:00": 142.4499969482422,
+      "2024-05-16T19:30:00+00:00": 143.02499389648438
+    },
+    "sentiment": 0.656857430934906
+  },
+  {
+    "title": "Royal Caribbean CEO sells $3.4M in common stock",
+    "published": 1715832060,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 141.0,
+      "2024-05-16T14:30:00+00:00": 140.6699981689453,
+      "2024-05-16T15:30:00+00:00": 141.6199951171875,
+      "2024-05-16T16:30:00+00:00": 143.06500244140625,
+      "2024-05-16T17:30:00+00:00": 143.17999267578125,
+      "2024-05-16T18:30:00+00:00": 142.4499969482422,
+      "2024-05-16T19:30:00+00:00": 143.02499389648438
+    },
+    "sentiment": 0.9451425671577454
   }
 ]

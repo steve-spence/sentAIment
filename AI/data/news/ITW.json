@@ -1,387 +1,226 @@
 [
   {
-    "title": "Reasons Why IDEX (IEX) Stock Should be in Your Portfolio",
-    "published": 1713184560,
-    "posting_price": 252.02631002,
-    "close_price": 249.4223175,
-    "percent_change": -1.03322249
+    "title": "Here's Why Illinois Tool Works (ITW) is a Strong Growth Stock",
+    "published": 1715003112,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 245.0399932861328,
+      "2024-05-06T14:30:00+00:00": 244.92999267578125,
+      "2024-05-06T15:30:00+00:00": 244.5050048828125,
+      "2024-05-06T16:30:00+00:00": 243.8300018310547,
+      "2024-05-06T17:30:00+00:00": 244.0655975341797,
+      "2024-05-06T18:30:00+00:00": 244.7100067138672,
+      "2024-05-06T19:30:00+00:00": 244.1999969482422
+    },
+    "sentiment": 0.546729326248169
   },
   {
-    "title": "Wells Fargo Sticks to Its Sell Rating for Illinois Tool Works (ITW)",
-    "published": 1713158340,
-    "posting_price": 252.02631002,
-    "close_price": 249.4223175,
-    "percent_change": -1.03322249
+    "title": "Illinois Tool Works Inc. Just Beat EPS By 16%: Here's What Analysts Think Will Happen Next",
+    "published": 1714734636,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 243.4199981689453,
+      "2024-05-03T14:30:00+00:00": 242.10499572753906,
+      "2024-05-03T15:30:00+00:00": 242.2801055908203,
+      "2024-05-03T16:30:00+00:00": 242.74000549316406,
+      "2024-05-03T17:30:00+00:00": 242.7700958251953,
+      "2024-05-03T18:30:00+00:00": 243.16000366210938,
+      "2024-05-03T19:30:00+00:00": 243.63999938964844
+    },
+    "sentiment": 0.84278804063797
   },
   {
-    "title": "Boeing weighs on large-cap industrials in turbulent week",
-    "published": 1713067380,
-    "posting_price": 252.02632544,
-    "close_price": 249.42233276,
-    "percent_change": -1.03322249
+    "title": "Illinois Tool Works Inc.\u00a0 declares $1.40 dividend",
+    "published": 1714730400,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 243.4199981689453,
+      "2024-05-03T14:30:00+00:00": 242.10499572753906,
+      "2024-05-03T15:30:00+00:00": 242.2801055908203,
+      "2024-05-03T16:30:00+00:00": 242.74000549316406,
+      "2024-05-03T17:30:00+00:00": 242.7700958251953,
+      "2024-05-03T18:30:00+00:00": 243.16000366210938,
+      "2024-05-03T19:30:00+00:00": 243.63999938964844
+    },
+    "sentiment": 0.9278111457824707
   },
   {
-    "title": "Ensemble Capital Management Q1 2024 Letter",
-    "published": 1712988600,
-    "posting_price": 252.02631002,
-    "close_price": 249.4223175,
-    "percent_change": -1.03322249
+    "title": "Illinois Tool Works First Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
+    "published": 1714646987,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 242.7100067138672,
+      "2024-05-02T14:30:00+00:00": 241.8300018310547,
+      "2024-05-02T15:30:00+00:00": 242.0,
+      "2024-05-02T16:30:00+00:00": 242.07000732421875,
+      "2024-05-02T17:30:00+00:00": 242.78500366210938,
+      "2024-05-02T18:30:00+00:00": 242.19000244140625,
+      "2024-05-02T19:30:00+00:00": 242.0500030517578
+    },
+    "sentiment": 0.9332556128501892
   },
   {
-    "title": "ITW Schedules First Quarter 2024 Earnings Webcast",
-    "published": 1712864220,
-    "posting_price": 254.46323159,
-    "close_price": 253.20545959,
-    "percent_change": -0.49428438
+    "title": "Illinois Tool Works Inc. (NYSE:ITW) Q1 2024 Earnings Call Transcript",
+    "published": 1714570611,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.9010000824928284
   },
   {
-    "title": "With 82% institutional ownership, Illinois Tool Works Inc. (NYSE:ITW) is a favorite amongst the big guns",
-    "published": 1712750431,
-    "posting_price": 255.89787343,
-    "close_price": 254.78749084,
-    "percent_change": -0.4339163
+    "title": "Miller Electric Mfg. LLC Releases Cutting-Edge OptX\u2122 2kW Handheld Laser Welder",
+    "published": 1714554900,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.6620333790779114
   },
   {
-    "title": "Reasons Why Ingersoll Rand (IR) Should be in Your Portfolio",
-    "published": 1712668860,
-    "posting_price": 257.97123546,
-    "close_price": 258.02035522,
-    "percent_change": 0.01904079
+    "title": "Illinois Tool Works price target lowered by $15 at Argus, here's why",
+    "published": 1714553700,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.804256796836853
   },
   {
-    "title": "Here's Why Hold Strategy is Apt for Illinois Tool (ITW) Stock",
-    "published": 1712588100,
-    "posting_price": 259.19952181,
-    "close_price": 257.48974609,
-    "percent_change": -0.65963691
+    "title": "Illinois Tool Works Inc (ITW) Q1 2024 Earnings Call Transcript Highlights: Key Financial ...",
+    "published": 1714547677,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.8539883494377136
   },
   {
-    "title": "Illinois Tool Works price target raised by $11 at Citi, here's why",
-    "published": 1712557860,
-    "posting_price": 259.19952181,
-    "close_price": 257.48974609,
-    "percent_change": -0.65963691
+    "title": "Truist Financial Reaffirms Their Buy Rating on Illinois Tool Works (ITW)",
+    "published": 1714544160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.7637316584587097
   },
   {
-    "title": "Illinois Tool Works price target raised by $7 at Wolfe Research, here's why",
-    "published": 1712554320,
-    "posting_price": 259.19952181,
-    "close_price": 257.48974609,
-    "percent_change": -0.65963691
+    "title": "Illinois Tool Works: Maintaining Sell Rating Amid Limited Growth and Margin Concerns",
+    "published": 1714539420,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.7348644733428955
   },
   {
-    "title": "Wells Fargo Remains a Sell on Illinois Tool Works (ITW)",
-    "published": 1712553600,
-    "posting_price": 259.19952181,
-    "close_price": 257.48974609,
-    "percent_change": -0.65963691
+    "title": "Analysts Offer Insights on Industrial Goods Companies: FTAI Aviation (FTAI), Illinois Tool Works (ITW) and Archer Daniels Midland (ADM)",
+    "published": 1714531620,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 244.88999938964844,
+      "2024-05-01T14:30:00+00:00": 243.58999633789062,
+      "2024-05-01T15:30:00+00:00": 243.69960021972656,
+      "2024-05-01T16:30:00+00:00": 243.94000244140625,
+      "2024-05-01T17:30:00+00:00": 244.27999877929688,
+      "2024-05-01T18:30:00+00:00": 244.4550018310547,
+      "2024-05-01T19:30:00+00:00": 243.97500610351562
+    },
+    "sentiment": 0.9303749799728394
   },
   {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
-    "published": 1712394285,
-    "posting_price": 259.19955253,
-    "close_price": 257.48977661,
-    "percent_change": -0.65963691
+    "title": "Reasons to Retain Illinois Tool (ITW) Stock in Your Portfolio",
+    "published": 1715361420,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 250.72999572753906,
+      "2024-05-10T14:30:00+00:00": 249.9250030517578,
+      "2024-05-10T15:30:00+00:00": 249.55999755859375,
+      "2024-05-10T16:30:00+00:00": 249.8719024658203,
+      "2024-05-10T17:30:00+00:00": 250.05999755859375,
+      "2024-05-10T18:30:00+00:00": 250.17999267578125,
+      "2024-05-10T19:30:00+00:00": 250.39999389648438
+    },
+    "sentiment": 0.9328249096870422
   },
   {
-    "title": "Illinois Tool Works (ITW) Could Be a Great Choice",
-    "published": 1712331907,
-    "posting_price": 258.55098214,
-    "close_price": 258.37411499,
-    "percent_change": -0.06840707
+    "title": "Illinois Tool Works (ITW) is a Top Dividend Stock Right Now: Should You Buy?",
+    "published": 1715183106,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 246.69000244140625,
+      "2024-05-08T14:30:00+00:00": 246.77999877929688,
+      "2024-05-08T15:30:00+00:00": 247.02999877929688,
+      "2024-05-08T16:30:00+00:00": 247.05999755859375,
+      "2024-05-08T17:30:00+00:00": 246.7949981689453,
+      "2024-05-08T18:30:00+00:00": 247.23489379882812,
+      "2024-05-08T19:30:00+00:00": 247.36500549316406
+    },
+    "sentiment": 0.9229973554611206
   },
   {
-    "title": "Illinois Tool Works price target raised by $6 at Barclays, here's why",
-    "published": 1712031660,
-    "posting_price": 261.47925559,
-    "close_price": 259.34692383,
-    "percent_change": -0.81548793
+    "title": "Illinois Tool Works Inc. stock outperforms competitors despite losses on the day",
+    "published": 1716349620,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 247.9600067138672,
+      "2024-05-22T14:30:00+00:00": 249.4600067138672,
+      "2024-05-22T15:30:00+00:00": 248.79100036621094,
+      "2024-05-22T16:30:00+00:00": 249.35000610351562,
+      "2024-05-22T17:30:00+00:00": 249.0399932861328,
+      "2024-05-22T18:30:00+00:00": 248.00999450683594,
+      "2024-05-22T19:30:00+00:00": 248.11000061035156
+    },
+    "sentiment": 0.9348229765892029
   },
   {
-    "title": "Where Illinois Tool Works Stands With Analysts",
-    "published": 1712026800,
-    "posting_price": 261.47925559,
-    "close_price": 259.34692383,
-    "percent_change": -0.81548793
+    "title": "Illinois Tool Works Inc. (NYSE:ITW) is a favorite amongst institutional investors who own 82%",
+    "published": 1715985004,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 250.22000122070312,
+      "2024-05-17T14:30:00+00:00": 249.0050048828125,
+      "2024-05-17T15:30:00+00:00": 248.9949951171875,
+      "2024-05-17T16:30:00+00:00": 249.13999938964844,
+      "2024-05-17T17:30:00+00:00": 249.72000122070312,
+      "2024-05-17T18:30:00+00:00": 250.0500030517578,
+      "2024-05-17T19:30:00+00:00": 250.11000061035156
+    },
+    "sentiment": 0.8501373529434204
   },
   {
-    "title": "Illinois Tool Works (ITW) Receives a Rating Update from a Top Analyst",
-    "published": 1712025480,
-    "posting_price": 261.47925559,
-    "close_price": 259.34692383,
-    "percent_change": -0.81548793
-  },
-  {
-    "title": "Illinois Tool Works (ITW) Q1 2024 Earnings Call Transcript",
-    "published": 1714500969,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool (ITW) Q1 Earnings Beat Estimates, Revenues Miss",
-    "published": 1714500000,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works Inc. (ITW) Q1 2024 Earnings: Exceeds EPS Estimates Amidst Market Challenges",
-    "published": 1714487527,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works (ITW) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1714485609,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works Inc. (ITW) Q1 2024 Earnings Call Transcript",
-    "published": 1714484589,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works (ITW) Q1 Earnings Surpass Estimates",
-    "published": 1714483204,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "ITW Reports First Quarter 2024 Results",
-    "published": 1714478400,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "ITW Stock Earnings: Illinois Tool Works Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1714478040,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Mixed Signals For Illinois Tool Works: Q1 Profit Soars, Revenue Stumbles",
-    "published": 1714478040,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works raises 2024 profit forecast",
-    "published": 1714469642,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works: Q1 Earnings Snapshot",
-    "published": 1714465031,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works: Hold Rating Affirmed Amid Mixed Financial Performance and Steady Outlook",
-    "published": 1714464420,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works Inc.\u00a0 Non-GAAP EPS of $2.44 beats by $0.08, revenue of $4B misses by $30M",
-    "published": 1714460880,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works raises FY24 EPS to $10.30-$10.70, consensus $10.14",
-    "published": 1714460820,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "Illinois Tool Works reports Q1 EPS $2.73, consensus $2.36",
-    "published": 1714460820,
-    "posting_price": 246.08135645,
-    "close_price": 239.87110901,
-    "percent_change": -2.52365621
-  },
-  {
-    "title": "What Does Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Indicate?",
-    "published": 1714399214,
-    "posting_price": 243.72302256,
-    "close_price": 244.91201782,
-    "percent_change": 0.48784692
-  },
-  {
-    "title": "Illinois Tool Works Q1 2024 Earnings Preview",
-    "published": 1714392240,
-    "posting_price": 243.72302256,
-    "close_price": 244.91201782,
-    "percent_change": 0.48784692
-  },
-  {
-    "title": "Notable earnings before Tuesday's open",
-    "published": 1714386060,
-    "posting_price": 243.72302256,
-    "close_price": 244.91201782,
-    "percent_change": 0.48784692
-  },
-  {
-    "title": "Illinois Tool (ITW) to Report Q1 Earnings: What to Expect?",
-    "published": 1714053840,
-    "posting_price": 245.89466756,
-    "close_price": 243.8507843,
-    "percent_change": -0.83120276
-  },
-  {
-    "title": "Parker-Hannifin (PH) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1714053709,
-    "posting_price": 245.89466756,
-    "close_price": 243.8507843,
-    "percent_change": -0.83120276
-  },
-  {
-    "title": "Illinois Tool Works (ITW) Q1 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-    "published": 1714050926,
-    "posting_price": 245.89466756,
-    "close_price": 243.8507843,
-    "percent_change": -0.83120276
-  },
-  {
-    "title": "ITW Crosses Above Average Analyst Target",
-    "published": 1714034640,
-    "posting_price": 245.89466756,
-    "close_price": 243.8507843,
-    "percent_change": -0.83120276
-  },
-  {
-    "title": "Graco Inc. (GGG) Lags Q1 Earnings and Revenue Estimates",
-    "published": 1713995105,
-    "posting_price": 245.82588851,
-    "close_price": 247.38827515,
-    "percent_change": 0.63556636
-  },
-  {
-    "title": "Illinois Tool Works price target lowered by $5 at JPMorgan, here's why",
-    "published": 1713939300,
-    "posting_price": 245.82588851,
-    "close_price": 247.38827515,
-    "percent_change": 0.63556636
-  },
-  {
-    "title": "Lincoln Electric: Welding Play Doing Really Well",
-    "published": 1713932881,
-    "posting_price": 245.82588851,
-    "close_price": 247.38827515,
-    "percent_change": 0.63556636
-  },
-  {
-    "title": "Illinois Tool Works (ITW) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713880868,
-    "posting_price": 246.31718233,
-    "close_price": 246.28770447,
-    "percent_change": -0.01196744
-  },
-  {
-    "title": "Estimating The Intrinsic Value Of Illinois Tool Works Inc. (NYSE:ITW)",
-    "published": 1713877214,
-    "posting_price": 246.31718233,
-    "close_price": 246.28770447,
-    "percent_change": -0.01196744
-  },
-  {
-    "title": "Layoffs 2024: 3 Stocks That Ought to Copy Tesla\u2019s Job Cuts",
-    "published": 1713870000,
-    "posting_price": 246.31718233,
-    "close_price": 246.28770447,
-    "percent_change": -0.01196744
-  },
-  {
-    "title": "Illinois Tool Works (ITW) Could Be a Great Choice",
-    "published": 1713800708,
-    "posting_price": 246.74953134,
-    "close_price": 245.61950684,
-    "percent_change": -0.45796419
-  },
-  {
-    "title": "Wells Fargo Remains a Sell on Illinois Tool Works (ITW)",
-    "published": 1713764340,
-    "posting_price": 246.74953134,
-    "close_price": 245.61950684,
-    "percent_change": -0.45796419
-  },
-  {
-    "title": "Ensemble Capital - IDEX Corp:\u00a0 A Mundane Company Ready To Fire On All Cylinders",
-    "published": 1713604200,
-    "posting_price": 246.74954667,
-    "close_price": 245.61952209,
-    "percent_change": -0.4579642
-  },
-  {
-    "title": "Here's Why Hold Strategy is Apt for Stanley Black (SWK) Stock",
-    "published": 1713452280,
-    "posting_price": 246.179617,
-    "close_price": 244.50914001,
-    "percent_change": -0.67856024
-  },
-  {
-    "title": "5 Industrial Product Stocks to Buy on Stable Demand in March",
-    "published": 1713443880,
-    "posting_price": 246.179617,
-    "close_price": 244.50914001,
-    "percent_change": -0.67856024
-  },
-  {
-    "title": "Here's Why Investing in Zebra Technologies (ZBRA) Makes Sense",
-    "published": 1713366180,
-    "posting_price": 248.35126273,
-    "close_price": 245.20681763,
-    "percent_change": -1.26612809
-  },
-  {
-    "title": "Down -5.68% in 4 Weeks, Here's Why You Should You Buy the Dip in Illinois Tool Works (ITW)",
-    "published": 1713360905,
-    "posting_price": 248.35126273,
-    "close_price": 245.20681763,
-    "percent_change": -1.26612809
-  },
-  {
-    "title": "Illinois Tool Works price target raised by $1 at Stifel, here's why",
-    "published": 1713336180,
-    "posting_price": 248.35126273,
-    "close_price": 245.20681763,
-    "percent_change": -1.26612809
-  },
-  {
-    "title": "Illinois Tool Works Inc. stock underperforms Wednesday when compared to competitors",
-    "published": 1713325680,
-    "posting_price": 248.35126273,
-    "close_price": 245.20681763,
-    "percent_change": -1.26612809
-  },
-  {
-    "title": "Here's Why Investors Should Retain Nordson (NDSN) Stock",
-    "published": 1713281400,
-    "posting_price": 249.45180168,
-    "close_price": 246.8478241,
-    "percent_change": -1.04388005
-  },
-  {
-    "title": "Chart Industries (GTLS) Secures Liquefaction Equipment Order",
-    "published": 1713280920,
-    "posting_price": 249.45180168,
-    "close_price": 246.8478241,
-    "percent_change": -1.04388005
+    "title": "How To YieldBoost Illinois Tool Works To 8.8% Using Options",
+    "published": 1715942040,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 250.22000122070312,
+      "2024-05-17T14:30:00+00:00": 249.0050048828125,
+      "2024-05-17T15:30:00+00:00": 248.9949951171875,
+      "2024-05-17T16:30:00+00:00": 249.13999938964844,
+      "2024-05-17T17:30:00+00:00": 249.72000122070312,
+      "2024-05-17T18:30:00+00:00": 250.0500030517578,
+      "2024-05-17T19:30:00+00:00": 250.11000061035156
+    },
+    "sentiment": 0.8440205454826355
   }
 ]

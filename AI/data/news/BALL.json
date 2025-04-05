@@ -1,380 +1,86 @@
 [
   {
-    "title": "That Average Bond Auction Sparked A Weird Reaction In Stocks Today",
-    "published": 1712808180,
-    "posting_price": 65.89446461,
-    "close_price": 65.48977661,
-    "percent_change": -0.61414567
+    "title": "Ball Corporation: Debt Reduction Measures Imply Significant Upside Potential",
+    "published": 1715011391,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 68.86000061035156,
+      "2024-05-06T14:30:00+00:00": 69.43000030517578,
+      "2024-05-06T15:30:00+00:00": 68.97000122070312,
+      "2024-05-06T16:30:00+00:00": 68.86000061035156,
+      "2024-05-06T17:30:00+00:00": 68.75499725341797,
+      "2024-05-06T18:30:00+00:00": 68.82499694824219,
+      "2024-05-06T19:30:00+00:00": 68.55999755859375
+    },
+    "sentiment": 0.7249672412872314
   },
   {
-    "title": "Parnassus Value Equity Fund's Strategic Moves: Spotlight on Amdocs Ltd with a -1.7% Impact",
-    "published": 1712808120,
-    "posting_price": 65.89446461,
-    "close_price": 65.48977661,
-    "percent_change": -0.61414567
+    "title": "Ball Corp. price target raised by $1 at Barclays, here's why",
+    "published": 1714966560,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 68.86000061035156,
+      "2024-05-06T14:30:00+00:00": 69.43000030517578,
+      "2024-05-06T15:30:00+00:00": 68.97000122070312,
+      "2024-05-06T16:30:00+00:00": 68.86000061035156,
+      "2024-05-06T17:30:00+00:00": 68.75499725341797,
+      "2024-05-06T18:30:00+00:00": 68.82499694824219,
+      "2024-05-06T19:30:00+00:00": 68.55999755859375
+    },
+    "sentiment": 0.6619385480880737
   },
   {
-    "title": "Why Ball (BALL) is Poised to Beat Earnings Estimates Again",
-    "published": 1712765416,
-    "posting_price": 64.84820018,
-    "close_price": 65.90432739,
-    "percent_change": 1.62861453
+    "title": "Ball (BALL) Price Target Increased by 6.568% to 73.294",
+    "published": 1714614601,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 69.0,
+      "2024-05-02T14:30:00+00:00": 68.20999908447266,
+      "2024-05-02T15:30:00+00:00": 68.3499984741211,
+      "2024-05-02T16:30:00+00:00": 68.22000122070312,
+      "2024-05-02T17:30:00+00:00": 68.40499877929688,
+      "2024-05-02T18:30:00+00:00": 68.30000305175781,
+      "2024-05-02T19:30:00+00:00": 68.09500122070312
+    },
+    "sentiment": 0.9552810192108154
   },
   {
-    "title": "12 Best Packaging Stocks to Buy According to Hedge Funds",
-    "published": 1712674124,
-    "posting_price": 66.08199111,
-    "close_price": 66.48667908,
-    "percent_change": 0.61240281
+    "title": "Looking Into Ball's Recent Short Interest",
+    "published": 1715678280,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 69.70999908447266,
+      "2024-05-14T14:30:00+00:00": 70.04000091552734,
+      "2024-05-14T15:30:00+00:00": 69.97000122070312,
+      "2024-05-14T16:30:00+00:00": 69.90499877929688,
+      "2024-05-14T17:30:00+00:00": 69.83999633789062,
+      "2024-05-14T18:30:00+00:00": 69.91500091552734,
+      "2024-05-14T19:30:00+00:00": 70.02999877929688
+    },
+    "sentiment": 0.9363701939582825
   },
   {
-    "title": "How Is The Market Feeling About Ball?",
-    "published": 1712567940,
-    "posting_price": 65.82536353,
-    "close_price": 65.74639893,
-    "percent_change": -0.11996075
+    "title": "$1000 Invested In This Stock 15 Years Ago Would Be Worth $7,200 Today",
+    "published": 1715920560,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 70.31999969482422,
+      "2024-05-17T14:30:00+00:00": 69.97000122070312,
+      "2024-05-17T15:30:00+00:00": 69.86499786376953,
+      "2024-05-17T16:30:00+00:00": 69.79000091552734,
+      "2024-05-17T17:30:00+00:00": 69.88999938964844,
+      "2024-05-17T18:30:00+00:00": 69.97000122070312,
+      "2024-05-17T19:30:00+00:00": 70.06999969482422
+    },
+    "sentiment": 0.9503496289253235
   },
   {
-    "title": "Barclays Downgrades Ball (BALL)",
-    "published": 1712240618,
-    "posting_price": 65.34171401,
-    "close_price": 65.13443756,
-    "percent_change": -0.31721918
-  },
-  {
-    "title": "Ball Corp. just downgraded at Barclays, here's why",
-    "published": 1712201760,
-    "posting_price": 65.34171401,
-    "close_price": 65.13443756,
-    "percent_change": -0.31721918
-  },
-  {
-    "title": "Celanese downgraded at J.P. Morgan, Barclays on valuation",
-    "published": 1712193540,
-    "posting_price": 65.34171401,
-    "close_price": 65.13443756,
-    "percent_change": -0.31721918
-  },
-  {
-    "title": "Ball Corp. price target raised by $8 at RBC Capital, here's why",
-    "published": 1714379940,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "These Analysts Boost Their Forecasts On Ball Following Earnings Beat",
-    "published": 1714378800,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp. price target raised by $7 at Truist, here's why",
-    "published": 1714378500,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp. price target raised by $11 at Loop Capital, here's why",
-    "published": 1714376220,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Analysts Are Bullish on Top Consumer Cyclical Stocks: PUMA SE NPV (PMMAF), Ball (BALL)",
-    "published": 1714374780,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Truist Financial Sticks to Their Hold Rating for Ball (BALL)",
-    "published": 1714373640,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "RBC Capital Sticks to Their Buy Rating for Ball (BALL)",
-    "published": 1714370880,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp. price target raised by $6 at Mizuho, here's why",
-    "published": 1714369860,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp. price target raised by $8 at Baird, here's why",
-    "published": 1714369860,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp. price target raised by $4 at Wells Fargo, here's why",
-    "published": 1714367880,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Maintaining Hold: Balanced Risk/Reward Amid Global Volume Recovery and Market Valuation",
-    "published": 1714364160,
-    "posting_price": 69.33920819,
-    "close_price": 69.80311584,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball (NYSE:BALL) Has Affirmed Its Dividend Of $0.20",
-    "published": 1714307545,
-    "posting_price": 69.33921577,
-    "close_price": 69.80312347,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Strong First Quarter Results Justify a Buy Rating for Ball Corp. with Increased Price Target",
-    "published": 1714301160,
-    "posting_price": 69.33921577,
-    "close_price": 69.80312347,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball : Q1 2024 Earnings Conference Call Transcript",
-    "published": 1714237927,
-    "posting_price": 69.33921577,
-    "close_price": 69.80312347,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball First Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
-    "published": 1714220655,
-    "posting_price": 69.33921577,
-    "close_price": 69.80312347,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp (BALL) (Q1 2024) Earnings Call Transcript Highlights: Navigating Market Dynamics with ...",
-    "published": 1714202111,
-    "posting_price": 69.33921577,
-    "close_price": 69.80312347,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Q1 2024 Ball Corp Earnings Call",
-    "published": 1714195809,
-    "posting_price": 69.33921577,
-    "close_price": 69.80312347,
-    "percent_change": 0.66904088
-  },
-  {
-    "title": "Ball Corp (BALL) Tops on Q1 Earnings, Completes Aerospace Sale",
-    "published": 1714143900,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Corporation (BALL) Q1 2024 Earnings Call Transcript",
-    "published": 1714138328,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Tech Stocks Rebound As Magnificent 7 Roar On Strong Earnings, Energy Giants Tumble: What's Driving Markets Friday?",
-    "published": 1714135800,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Corp. says 'very comfortable' buying back stock at this level",
-    "published": 1714129380,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Reports First Quarter 2024 Results",
-    "published": 1714125600,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "BALL Stock Earnings: Ball Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1714125300,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Corp's GAAP profit swells on sale of aerospace business",
-    "published": 1714124580,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Early notable gainers among liquid option names on April 26th",
-    "published": 1714121700,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Beer can maker Ball Corp lags sales estimates on slowing demand",
-    "published": 1714113283,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball: Q1 Earnings Snapshot",
-    "published": 1714112171,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Corp. sees FY24 comparable EPS growth, consensus $3.04",
-    "published": 1714108260,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Corp. reports Q1 comparable EPS 68c, consensus 56c",
-    "published": 1714108200,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Ball Non-GAAP EPS of $0.68 beats by $0.14, revenue of $2.87B misses by $270M",
-    "published": 1714108140,
-    "posting_price": 65.63783861,
-    "close_price": 68.89505768,
-    "percent_change": 4.96241061
-  },
-  {
-    "title": "Why Earnings Season Could Be Great for Ball Corp (BALL)",
-    "published": 1714048800,
-    "posting_price": 64.85807931,
-    "close_price": 64.60144806,
-    "percent_change": -0.39568124
-  },
-  {
-    "title": "Several Insiders Invested In Ball Flagging Positive News",
-    "published": 1714047807,
-    "posting_price": 64.85807931,
-    "close_price": 64.60144806,
-    "percent_change": -0.39568124
-  },
-  {
-    "title": "Ball Q1 2024 Earnings Preview",
-    "published": 1714046460,
-    "posting_price": 64.85807931,
-    "close_price": 64.60144806,
-    "percent_change": -0.39568124
-  },
-  {
-    "title": "Notable earnings before Friday's open",
-    "published": 1714039620,
-    "posting_price": 64.85807931,
-    "close_price": 64.60144806,
-    "percent_change": -0.39568124
-  },
-  {
-    "title": "Board Declares Quarterly Dividend; Increases Share Repurchase Authorization and Elects New Officer",
-    "published": 1713992220,
-    "posting_price": 64.41391791,
-    "close_price": 64.34482574,
-    "percent_change": -0.1072628
-  },
-  {
-    "title": "RBC Capital Remains a Buy on Ball (BALL)",
-    "published": 1713948360,
-    "posting_price": 64.41391791,
-    "close_price": 64.34482574,
-    "percent_change": -0.1072628
-  },
-  {
-    "title": "Softs Report - Wednesday, April 24",
-    "published": 1713939540,
-    "posting_price": 64.41391791,
-    "close_price": 64.34482574,
-    "percent_change": -0.1072628
-  },
-  {
-    "title": "Ball declares $0.20 dividend",
-    "published": 1713931980,
-    "posting_price": 64.41391791,
-    "close_price": 64.34482574,
-    "percent_change": -0.1072628
-  },
-  {
-    "title": "Ball Corp. approves share repurchase program for up to 40 million shares",
-    "published": 1713931260,
-    "posting_price": 64.41391791,
-    "close_price": 64.34482574,
-    "percent_change": -0.1072628
-  },
-  {
-    "title": "Ball Corp. board approves repurchase of up to 40M common shares",
-    "published": 1713931140,
-    "posting_price": 64.41391791,
-    "close_price": 64.34482574,
-    "percent_change": -0.1072628
-  },
-  {
-    "title": "Analyzing Q1 Earnings Beat or Miss for CAT & Four Industrial Stocks",
-    "published": 1713888300,
-    "posting_price": 64.35468905,
-    "close_price": 64.65080261,
-    "percent_change": 0.4601274
-  },
-  {
-    "title": "Ball Corp (BALL) to Report Q1 Earnings: What's in Store?",
-    "published": 1713800940,
-    "posting_price": 64.32507197,
-    "close_price": 64.58170319,
-    "percent_change": 0.39895986
-  },
-  {
-    "title": "Analysts Estimate Ball (BALL) to Report a Decline in Earnings: What to Look Out for",
-    "published": 1713535229,
-    "posting_price": 63.42686878,
-    "close_price": 64.10791779,
-    "percent_change": 1.07375474
-  },
-  {
-    "title": "O-I Glass cut at BofA, seeing weak demand for glass-packaged alcohol products",
-    "published": 1713530040,
-    "posting_price": 63.42686878,
-    "close_price": 64.10791779,
-    "percent_change": 1.07375474
-  },
-  {
-    "title": "Defense spending and defense stocks: Why they don't always reflect each other",
-    "published": 1713249180,
-    "posting_price": 63.66376486,
-    "close_price": 62.94322968,
-    "percent_change": -1.13178223
-  },
-  {
-    "title": "Ball Corp. stock falls Tuesday, underperforms market",
-    "published": 1713240900,
-    "posting_price": 63.66376486,
-    "close_price": 62.94322968,
-    "percent_change": -1.13178223
+    "title": "Ball Corp. stock rises Friday, outperforms market",
+    "published": 1717128840,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 68.55000305175781,
+      "2024-05-31T14:30:00+00:00": 68.83000183105469,
+      "2024-05-31T15:30:00+00:00": 68.6500015258789,
+      "2024-05-31T16:30:00+00:00": 68.4800033569336,
+      "2024-05-31T17:30:00+00:00": 68.6050033569336,
+      "2024-05-31T18:30:00+00:00": 68.51499938964844,
+      "2024-05-31T19:30:00+00:00": 68.5
+    },
+    "sentiment": 0.9117111563682556
   }
 ]

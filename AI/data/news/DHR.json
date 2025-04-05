@@ -1,758 +1,292 @@
 [
   {
-    "title": "Ensemble Capital Management Q1 2024 Letter",
-    "published": 1712988600,
-    "posting_price": 241.58169185,
-    "close_price": 238.8903656,
-    "percent_change": -1.11404396
-  },
-  {
-    "title": "Reasons Why Danaher (DHR) Should be in Your Portfolio Now",
-    "published": 1712939400,
-    "posting_price": 241.60163237,
-    "close_price": 239.1794281,
-    "percent_change": -1.00256122
-  },
-  {
-    "title": "This Is What Whales Are Betting On Danaher",
-    "published": 1712925360,
-    "posting_price": 241.60163237,
-    "close_price": 239.1794281,
-    "percent_change": -1.00256122
-  },
-  {
-    "title": "Here It Is! My 20-Stock 6-Figure Market-Beating Dividend Portfolio",
-    "published": 1712905200,
-    "posting_price": 241.60163237,
-    "close_price": 239.1794281,
-    "percent_change": -1.00256122
-  },
-  {
-    "title": "Wall Street Favorites: 3 Healthcare Stocks With Strong Buy Ratings for April 2024",
-    "published": 1712867400,
-    "posting_price": 245.51899461,
-    "close_price": 243.21641541,
-    "percent_change": -0.93784157
-  },
-  {
-    "title": "Interesting DHR Put And Call Options For May 31st",
-    "published": 1712829900,
-    "posting_price": 245.51899461,
-    "close_price": 243.21641541,
-    "percent_change": -0.93784157
-  },
-  {
-    "title": "908 Devices: Rare Early-Stage Bioprocess Investment Opportunity",
-    "published": 1712753399,
-    "posting_price": 244.03379793,
-    "close_price": 245.08041382,
-    "percent_change": 0.42888153
-  },
-  {
-    "title": "RBC Capital Keeps Their Hold Rating on B&G Foods (BGS)",
-    "published": 1712738760,
-    "posting_price": 244.03379793,
-    "close_price": 245.08041382,
-    "percent_change": 0.42888153
-  },
-  {
-    "title": "Danaher price target raised by $20 at Barclays, here's why",
-    "published": 1712724360,
-    "posting_price": 244.03379793,
-    "close_price": 245.08041382,
-    "percent_change": 0.42888153
-  },
-  {
-    "title": "Oakmark Global Select Fund: First Calendar Quarter 2024",
-    "published": 1712715600,
-    "posting_price": 244.03379793,
-    "close_price": 245.08041382,
-    "percent_change": 0.42888153
-  },
-  {
-    "title": "Danaher (DHR) Receives a Hold from Barclays",
-    "published": 1712713620,
-    "posting_price": 244.03379793,
-    "close_price": 245.08041382,
-    "percent_change": 0.42888153
-  },
-  {
-    "title": "Oakmark Global Fund: First Calendar Quarter 2024 Commentary",
-    "published": 1712658300,
-    "posting_price": 245.77816466,
-    "close_price": 248.99778748,
-    "percent_change": 1.30997106
-  },
-  {
-    "title": "The Ultimate 5: Unveiling My All-Time Favorite Dividend Growth Investments",
-    "published": 1712646000,
-    "posting_price": 245.77816466,
-    "close_price": 248.99778748,
-    "percent_change": 1.30997106
-  },
-  {
-    "title": "Veralto: A Solid Start Since The Spin-Off",
-    "published": 1712638961,
-    "posting_price": 245.77816466,
-    "close_price": 248.99778748,
-    "percent_change": 1.30997106
-  },
-  {
-    "title": "RBC Capital Reaffirms Their Buy Rating on Danaher (DHR)",
-    "published": 1712566080,
-    "posting_price": 243.75468396,
-    "close_price": 243.46562195,
-    "percent_change": -0.11858726
-  },
-  {
-    "title": "Jim Cramer Isn't Going With This Tech Company: 'It's Complicated. I'm A Nvidia Guy'",
-    "published": 1712561460,
-    "posting_price": 243.75468396,
-    "close_price": 243.46562195,
-    "percent_change": -0.11858726
-  },
-  {
-    "title": "Here's Why Danaher (DHR) Gained But Lagged the Market Today",
-    "published": 1712354421,
-    "posting_price": 241.35243967,
-    "close_price": 243.49552917,
-    "percent_change": 0.88795021
-  },
-  {
-    "title": "BME: Trading At A Historical Discount To NAV",
-    "published": 1712317631,
-    "posting_price": 241.35243967,
-    "close_price": 243.49552917,
-    "percent_change": 0.88795021
-  },
-  {
-    "title": "Investors Heavily Search Danaher Corporation (DHR): Here is What You Need to Know",
-    "published": 1712235611,
-    "posting_price": 245.6884628,
-    "close_price": 241.12316895,
-    "percent_change": -1.85816371
-  },
-  {
-    "title": "Interesting DHR Put And Call Options For May 24th",
-    "published": 1712223600,
-    "posting_price": 245.6884628,
-    "close_price": 241.12316895,
-    "percent_change": -1.85816371
-  },
-  {
-    "title": "Bio-Techne: Secular Growth Opportunities Always Exhibit Financial Excellence",
-    "published": 1712220187,
-    "posting_price": 245.6884628,
-    "close_price": 241.12316895,
-    "percent_change": -1.85816371
-  },
-  {
-    "title": "Danaher Corp: An Exploration into Its Intrinsic Value",
-    "published": 1712210460,
-    "posting_price": 245.6884628,
-    "close_price": 241.12316895,
-    "percent_change": -1.85816371
-  },
-  {
-    "title": "Unpacking the Latest Options Trading Trends in Danaher",
-    "published": 1712200860,
-    "posting_price": 245.6884628,
-    "close_price": 241.12316895,
-    "percent_change": -1.85816371
-  },
-  {
-    "title": "Cepheid Announces World Health Organization Prequalification of Xpert HIV-1 Qualitative Test",
-    "published": 1712127600,
-    "posting_price": 245.21000113,
-    "close_price": 243.55532837,
-    "percent_change": -0.67479824
-  },
-  {
-    "title": "Danaher (DHR) Suffers a Larger Drop Than the General Market: Key Insights",
-    "published": 1712096118,
-    "posting_price": 244.21320854,
-    "close_price": 245.15019226,
-    "percent_change": 0.38367446
-  },
-  {
-    "title": "Analysts Think This 170% Dividend Grower Is \u201cOld News.\u201d They\u2019re Wrong.",
-    "published": 1714449660,
-    "posting_price": 245.70839316,
-    "close_price": 245.82800293,
-    "percent_change": 0.04867956
-  },
-  {
-    "title": "Fortive Corporation: Growing Into The Valuation",
-    "published": 1714401560,
-    "posting_price": 245.45918223,
-    "close_price": 246.02735901,
-    "percent_change": 0.23147506
-  },
-  {
-    "title": "See Which Of The Latest 13F Filers Holds Danaher",
-    "published": 1714385580,
-    "posting_price": 245.45918223,
-    "close_price": 246.02735901,
-    "percent_change": 0.23147506
-  },
-  {
-    "title": "Fly Insider: Zura Bio, Google among week's notable insider trades",
-    "published": 1714356660,
-    "posting_price": 245.45918223,
-    "close_price": 246.02735901,
-    "percent_change": 0.23147506
-  },
-  {
-    "title": "Danaher Corporation: A Good Medium Term Bet",
-    "published": 1714219680,
-    "posting_price": 245.45918223,
-    "close_price": 246.02735901,
-    "percent_change": 0.23147506
-  },
-  {
-    "title": "ABT, DHR, DXCM: Which \u201cStrong Buy\u201d Healthcare Stock Has More Upside?",
-    "published": 1714158562,
-    "posting_price": 242.89743568,
-    "close_price": 245.78813171,
-    "percent_change": 1.19008915
-  },
-  {
-    "title": "Buy Rating on Danaher: Strong Biotech Performance and Growth Potential Despite Market Challenges",
-    "published": 1714093620,
-    "posting_price": 242.89743568,
-    "close_price": 245.78813171,
-    "percent_change": 1.19008915
-  },
-  {
-    "title": "Senior Vice President - General Counsel Brian Ellis Sells 4,000 Shares of Danaher Corp (DHR)",
-    "published": 1714086043,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "Danaher Q1: The Worst Time Has Already Passed",
-    "published": 1714064468,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "Honeywell (HON) Q1 Earnings Beat, Aerospace Sales Rise Y/Y",
-    "published": 1714062540,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Danaher, Regeneron Pharmaceuticals, Palo Alto Networks, Workday and American Electric Power",
-    "published": 1714049040,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "Danaher First Quarter 2024 Earnings: Beats Expectations",
-    "published": 1714041843,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "Danaher Corp. stock falls Thursday, underperforms market",
-    "published": 1714016400,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "Value Vs. Growth? Danaher Says Why Not Both?",
-    "published": 1714015304,
-    "posting_price": 249.12737737,
-    "close_price": 245.01065063,
-    "percent_change": -1.65245859
-  },
-  {
-    "title": "Top Stock Reports for Danaher, Regeneron Pharmaceuticals & Palo Alto Networks",
-    "published": 1713988260,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "It\u2019s Time to Expand Beyond Big Tech Stocks, This Expert Says. Where to Look.",
-    "published": 1713976200,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher Corporation (NYSE:DHR) Q1 2024 Earnings Call Transcript",
-    "published": 1713966775,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher price target raised by $12 at BofA, here's why",
-    "published": 1713947040,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher Corp (DHR) Q1 2024 Earnings Call Transcript Highlights: Navigating Challenges with ...",
-    "published": 1713942075,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Tesla To $180? Here Are 10 Top Analyst Forecasts For Wednesday",
-    "published": 1713941400,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher price target raised by $10 at TD Cowen, here's why",
-    "published": 1713939780,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "RBC Capital Sticks to Its Buy Rating for Danaher (DHR)",
-    "published": 1713937620,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher price target raised by $12 at Baird, here's why",
-    "published": 1713937260,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher price target raised by $10 at Citi, here's why",
-    "published": 1713936780,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Decoding Danaher Corp (DHR): A Strategic SWOT Insight",
-    "published": 1713934963,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Danaher price target raised by $10 at Barclays, here's why",
-    "published": 1713932940,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Fate Therapeutics (FATE), Danaher (DHR) and Roche Holding AG (OtherRHHVF)",
-    "published": 1713930660,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Q1 2024 Danaher Corp Earnings Call",
-    "published": 1713925078,
-    "posting_price": 248.23026184,
-    "close_price": 249.60583496,
-    "percent_change": 0.55415206
-  },
-  {
-    "title": "Stocks to Watch Tuesday: GM, Spotify, UPS, Tesla",
-    "published": 1713877197,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Earnings Today: PulteGroup, Danaher Rally; JetBlue Dives",
-    "published": 1713886396,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher (DHR) Q1 Earnings Beat, Biotechnology Sales Dip Y/Y",
-    "published": 1713886140,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Stock Jumps After Earnings Beat. It Shrugs Off Falling Sales Outlook.",
-    "published": 1713883440,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher (DHR) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1713879026,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Stocks Rally On Weaker PMI Data, Tech Earnings Optimism, Dollar Falls: What's Driving Markets Tuesday?",
-    "published": 1713875880,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Novartis, Danaher rise; Nucor, Cadence Design Systems fall, Tuesday, 4/23/2024",
-    "published": 1713874020,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Corp (DHR) Q1 2024 Earnings: Mixed Results Amid Market Challenges",
-    "published": 1713871912,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher (DHR) Surpasses Q1 Earnings and Revenue Estimates",
-    "published": 1713870604,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Corporation 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713868764,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Corporation (DHR) Q1 2024 Earnings Call Transcript",
-    "published": 1713868748,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Reports First Quarter 2024 Results",
-    "published": 1713866400,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "HealthStream Reports Upbeat Results, Joins Spotify, Ryder System And Other Big Stocks Moving Higher On Tuesday",
-    "published": 1713866100,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "DHR Stock Earnings: Danaher Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713866040,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Here\u2019s Why Cooper Investors Sold Danaher Corporation (DHR)",
-    "published": 1713865051,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Biggest stock movers today: SPOT, GM, DHR, IBRX, NVS, and more",
-    "published": 1713862620,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Early notable gainers among liquid option names on April 23rd",
-    "published": 1713862560,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Analysts Offer Insights on Healthcare Companies: Danaher (DHR), Neurocrine (NBIX) and Medtronic (MDT)",
-    "published": 1713861720,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Biggest stock movers today: GM, DHR, IBRX, NVS, and more",
-    "published": 1713861600,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Biggest stock movers today: DHR, IBRX, NVS, and more",
-    "published": 1713858180,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "TOP NEWS: Danaher sets guidance as first quarter revenue falls",
-    "published": 1713855000,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Posts Fall in 1Q Earnings, Continues to Expects Lower Annual Sales",
-    "published": 1713854828,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher: Q1 Earnings Snapshot",
-    "published": 1713852489,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher gains as Q1 results exceed expectations",
-    "published": 1713852120,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher sees FY24 revenue down low-single digits, consensus $24.05B",
-    "published": 1713848820,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher sees Q2 revenue down mid-single digits, consensus $5.73B",
-    "published": 1713848760,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher reports Q1 adjusted EPS $1.92, consensus $1.71",
-    "published": 1713848640,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Non-GAAP EPS of $1.92 beats by $0.21, revenue of $5.8B beats by $180M",
-    "published": 1713848580,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Tuesday Sector Leaders: Healthcare, Technology & Communications",
-    "published": 1713836880,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "GLOBAL BRIEFING: Japan's business activity growth speeds up in April",
-    "published": 1713832500,
-    "posting_price": 253.90199518,
-    "close_price": 252.29716492,
-    "percent_change": -0.63206682
-  },
-  {
-    "title": "Danaher Q1 2024 Earnings Preview",
-    "published": 1713790260,
-    "posting_price": 235.20225912,
-    "close_price": 235.3218689,
-    "percent_change": 0.05085401
-  },
-  {
-    "title": "Spotlight on Danaher: Analyzing the Surge in Options Activity",
-    "published": 1713787620,
-    "posting_price": 235.20225912,
-    "close_price": 235.3218689,
-    "percent_change": 0.05085401
-  },
-  {
-    "title": "THQ: Collecting A High Yield From Increased Medical Spending",
-    "published": 1713614580,
-    "posting_price": 235.20224387,
-    "close_price": 235.32185364,
-    "percent_change": 0.05085401
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 21",
-    "published": 1713606785,
-    "posting_price": 235.20224387,
-    "close_price": 235.32185364,
-    "percent_change": 0.05085401
-  },
-  {
-    "title": "Ensemble Capital - IDEX Corp:\u00a0 A Mundane Company Ready To Fire On All Cylinders",
-    "published": 1713604200,
-    "posting_price": 235.20224387,
-    "close_price": 235.32185364,
-    "percent_change": 0.05085401
-  },
-  {
-    "title": "Why Danaher (DHR) Might Surprise This Earnings Season",
-    "published": 1713534720,
-    "posting_price": 237.01639175,
-    "close_price": 234.75367737,
-    "percent_change": -0.95466578
+    "title": "Danaher Announces Quarterly Dividend",
+    "published": 1715112900,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 246.5399932861328,
+      "2024-05-07T14:30:00+00:00": 247.23500061035156,
+      "2024-05-07T15:30:00+00:00": 247.5399932861328,
+      "2024-05-07T16:30:00+00:00": 248.3699951171875,
+      "2024-05-07T17:30:00+00:00": 248.67999267578125,
+      "2024-05-07T18:30:00+00:00": 248.07000732421875,
+      "2024-05-07T19:30:00+00:00": 248.5
+    },
+    "sentiment": 0.8302991986274719
+  },
+  {
+    "title": "How Is The Market Feeling About Danaher?",
+    "published": 1714982640,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 248.7100067138672,
+      "2024-05-06T14:30:00+00:00": 248.97999572753906,
+      "2024-05-06T15:30:00+00:00": 247.97999572753906,
+      "2024-05-06T16:30:00+00:00": 247.2100067138672,
+      "2024-05-06T17:30:00+00:00": 247.42999267578125,
+      "2024-05-06T18:30:00+00:00": 247.92999267578125,
+      "2024-05-06T19:30:00+00:00": 247.3249969482422
+    },
+    "sentiment": 0.8805707097053528
+  },
+  {
+    "title": "Enovis: Solid Growth, But Unstable Financial Footing",
+    "published": 1714930200,
+    "day_prices": {},
+    "sentiment": 0.9625318050384521
+  },
+  {
+    "title": "Curiox Biosystems and Beckman Coulter Life Sciences Announce a Partnership Combining C-FREE\u2122 Technology with DURA  Innovations for Hands-Free Washed Sample Preparation for Flow Cytometry",
+    "published": 1714741560,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 249.5399932861328,
+      "2024-05-03T14:30:00+00:00": 248.75,
+      "2024-05-03T15:30:00+00:00": 248.67999267578125,
+      "2024-05-03T16:30:00+00:00": 248.99000549316406,
+      "2024-05-03T17:30:00+00:00": 248.57000732421875,
+      "2024-05-03T18:30:00+00:00": 248.69000244140625,
+      "2024-05-03T19:30:00+00:00": 248.24000549316406
+    },
+    "sentiment": 0.8597186207771301
+  },
+  {
+    "title": "Curiox Biosystems and Beckman Coulter Life Sciences Announce a Partnership Combining C-FREE\u2122 Technology with DURA Innovations for Hands-Free Washed Sample Preparation for Flow Cytometry",
+    "published": 1714727228,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 249.5399932861328,
+      "2024-05-03T14:30:00+00:00": 248.75,
+      "2024-05-03T15:30:00+00:00": 248.67999267578125,
+      "2024-05-03T16:30:00+00:00": 248.99000549316406,
+      "2024-05-03T17:30:00+00:00": 248.57000732421875,
+      "2024-05-03T18:30:00+00:00": 248.69000244140625,
+      "2024-05-03T19:30:00+00:00": 248.24000549316406
+    },
+    "sentiment": 0.8597186207771301
+  },
+  {
+    "title": "B&G Foods (BGS) Gets a Hold from RBC Capital",
+    "published": 1714639620,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 248.99000549316406,
+      "2024-05-02T14:30:00+00:00": 244.1699981689453,
+      "2024-05-02T15:30:00+00:00": 244.00999450683594,
+      "2024-05-02T16:30:00+00:00": 244.27000427246094,
+      "2024-05-02T17:30:00+00:00": 245.44000244140625,
+      "2024-05-02T18:30:00+00:00": 246.60000610351562,
+      "2024-05-02T19:30:00+00:00": 246.5500030517578
+    },
+    "sentiment": 0.9224773049354553
   },
   {
     "title": "Danaher call volume above normal and directionally bullish",
-    "published": 1713525960,
-    "posting_price": 237.01639175,
-    "close_price": 234.75367737,
-    "percent_change": -0.95466578
+    "published": 1714556700,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 246.25999450683594,
+      "2024-05-01T14:30:00+00:00": 245.41000366210938,
+      "2024-05-01T15:30:00+00:00": 245.24000549316406,
+      "2024-05-01T16:30:00+00:00": 245.7899932861328,
+      "2024-05-01T17:30:00+00:00": 245.4550018310547,
+      "2024-05-01T18:30:00+00:00": 247.22000122070312,
+      "2024-05-01T19:30:00+00:00": 248.49000549316406
+    },
+    "sentiment": 0.8943324685096741
   },
   {
-    "title": "13 Best Low Volatility Stocks to Buy According to Hedge Funds",
-    "published": 1713472023,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "Novo Nordisk owner to acquire major stake in Australian life sciences firm",
+    "published": 1715762280,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 260.0,
+      "2024-05-15T14:30:00+00:00": 260.82501220703125,
+      "2024-05-15T15:30:00+00:00": 262.80999755859375,
+      "2024-05-15T16:30:00+00:00": 263.3900146484375,
+      "2024-05-15T17:30:00+00:00": 263.2200012207031,
+      "2024-05-15T18:30:00+00:00": 262.375,
+      "2024-05-15T19:30:00+00:00": 263.260009765625
+    },
+    "sentiment": 0.8600006699562073
   },
   {
-    "title": "Will Danaher (DHR) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1713456616,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "ValueAct top Q1 buys, sells: FLUT, PAYC, DHR, others",
+    "published": 1715744700,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 260.0,
+      "2024-05-15T14:30:00+00:00": 260.82501220703125,
+      "2024-05-15T15:30:00+00:00": 262.80999755859375,
+      "2024-05-15T16:30:00+00:00": 263.3900146484375,
+      "2024-05-15T17:30:00+00:00": 263.2200012207031,
+      "2024-05-15T18:30:00+00:00": 262.375,
+      "2024-05-15T19:30:00+00:00": 263.260009765625
+    },
+    "sentiment": 0.9387619495391846
   },
   {
-    "title": "Danaher (DHR) Gears Up to Post Q1 Earnings: Is a Beat Likely?",
-    "published": 1713452280,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "$1000 Invested In Danaher 10 Years Ago Would Be Worth This Much Today",
+    "published": 1715596380,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 253.0,
+      "2024-05-13T14:30:00+00:00": 253.72999572753906,
+      "2024-05-13T15:30:00+00:00": 253.24000549316406,
+      "2024-05-13T16:30:00+00:00": 252.7949981689453,
+      "2024-05-13T17:30:00+00:00": 252.70680236816406,
+      "2024-05-13T18:30:00+00:00": 252.4149932861328,
+      "2024-05-13T19:30:00+00:00": 251.77459716796875
+    },
+    "sentiment": 0.9119783043861389
   },
   {
-    "title": "Curious about Danaher (DHR) Q1 Performance? Explore Wall Street Estimates for Key Metrics",
-    "published": 1713446121,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "Questor: This biotech giant is backed by the world\u2019s best fund managers",
+    "published": 1715540400,
+    "day_prices": {},
+    "sentiment": 0.729428768157959
   },
   {
-    "title": "If You Invested $100 In This Stock 10 Years Ago, You Would Have $500 Today",
-    "published": 1713438360,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "West Pharmaceutical: Pick And Shovels Of The Injectable Drug Industry",
+    "published": 1715423830,
+    "day_prices": {},
+    "sentiment": 0.9241202473640442
   },
   {
-    "title": "D.R. Horton Stock (NYSE:DHI): Build Your Portfolio from the Ground Up",
-    "published": 1713435480,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "Danaher Launches Collaboration with Johns Hopkins University Aiming to Improve Neurological Diagnosis",
+    "published": 1715252400,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 249.6199951171875,
+      "2024-05-09T14:30:00+00:00": 249.05999755859375,
+      "2024-05-09T15:30:00+00:00": 249.4199981689453,
+      "2024-05-09T16:30:00+00:00": 250.07000732421875,
+      "2024-05-09T17:30:00+00:00": 250.19000244140625,
+      "2024-05-09T18:30:00+00:00": 250.27999877929688,
+      "2024-05-09T19:30:00+00:00": 250.94000244140625
+    },
+    "sentiment": 0.7752364277839661
   },
   {
-    "title": "DHR December 20th Options Begin Trading",
-    "published": 1713433500,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "B&G Foods (BGS) Gets a Sell from Piper Sandler",
+    "published": 1715233920,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 249.6199951171875,
+      "2024-05-09T14:30:00+00:00": 249.05999755859375,
+      "2024-05-09T15:30:00+00:00": 249.4199981689453,
+      "2024-05-09T16:30:00+00:00": 250.07000732421875,
+      "2024-05-09T17:30:00+00:00": 250.19000244140625,
+      "2024-05-09T18:30:00+00:00": 250.27999877929688,
+      "2024-05-09T19:30:00+00:00": 250.94000244140625
+    },
+    "sentiment": 0.7071226835250854
   },
   {
-    "title": "Ensemble Fund Q1 2024 Investment Update",
-    "published": 1713431700,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "Danaher Corporation (DHR) Is a Trending Stock: Facts to Know Before Betting on It",
+    "published": 1715173211,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 249.3000030517578,
+      "2024-05-08T14:30:00+00:00": 249.50999450683594,
+      "2024-05-08T15:30:00+00:00": 248.7899932861328,
+      "2024-05-08T16:30:00+00:00": 248.55499267578125,
+      "2024-05-08T17:30:00+00:00": 248.47000122070312,
+      "2024-05-08T18:30:00+00:00": 249.11000061035156,
+      "2024-05-08T19:30:00+00:00": 249.27999877929688
+    },
+    "sentiment": 0.9341886639595032
   },
   {
-    "title": "Suddenly, There's An Alternative - The Important Case For Wide Moat Dividend Stocks",
-    "published": 1713423600,
-    "posting_price": 231.51412783,
-    "close_price": 235.60096741,
-    "percent_change": 1.76526574
+    "title": "Is Agilent A Buy Before Earnings? Examining The Pros And Cons",
+    "published": 1716461802,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 267.17999267578125,
+      "2024-05-23T14:30:00+00:00": 265.510009765625,
+      "2024-05-23T15:30:00+00:00": 265.260009765625,
+      "2024-05-23T16:30:00+00:00": 266.0234069824219,
+      "2024-05-23T17:30:00+00:00": 265.07000732421875,
+      "2024-05-23T18:30:00+00:00": 263.7099914550781,
+      "2024-05-23T19:30:00+00:00": 262.0199890136719
+    },
+    "sentiment": 0.9229612946510315
   },
   {
-    "title": "HSBC Upgrades Danaher (DHR)",
-    "published": 1713379659,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
+    "title": "Discovery Harbour Shareholders Approve New Incentive Plans",
+    "published": 1716351000,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 267.3900146484375,
+      "2024-05-22T14:30:00+00:00": 268.4800109863281,
+      "2024-05-22T15:30:00+00:00": 268.2900085449219,
+      "2024-05-22T16:30:00+00:00": 268.9100036621094,
+      "2024-05-22T17:30:00+00:00": 268.0950012207031,
+      "2024-05-22T18:30:00+00:00": 267.32000732421875,
+      "2024-05-22T19:30:00+00:00": 267.875
+    },
+    "sentiment": 0.790114164352417
   },
   {
-    "title": "Forecasting The Future: 7 Analyst Projections For Danaher",
-    "published": 1713351780,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
+    "title": "Top Stock Reports for UnitedHealth, Danaher & Abbott",
+    "published": 1716224880,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 265.6400146484375,
+      "2024-05-20T14:30:00+00:00": 266.9599914550781,
+      "2024-05-20T15:30:00+00:00": 267.0423889160156,
+      "2024-05-20T16:30:00+00:00": 267.114990234375,
+      "2024-05-20T17:30:00+00:00": 266.8999938964844,
+      "2024-05-20T18:30:00+00:00": 266.9949951171875,
+      "2024-05-20T19:30:00+00:00": 267.42498779296875
+    },
+    "sentiment": 0.9334580898284912
   },
   {
-    "title": "Amazon, Apple initiated: Wall Street's top analyst calls",
-    "published": 1713343440,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
+    "title": "Insider Sale: President & CEO Rainer Blair Sells 9,005 Shares of Danaher Corp (DHR)",
+    "published": 1715986868,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 265.0299987792969,
+      "2024-05-17T14:30:00+00:00": 264.05999755859375,
+      "2024-05-17T15:30:00+00:00": 264.67498779296875,
+      "2024-05-17T16:30:00+00:00": 264.4700012207031,
+      "2024-05-17T17:30:00+00:00": 264.20440673828125,
+      "2024-05-17T18:30:00+00:00": 264.6875,
+      "2024-05-17T19:30:00+00:00": 265.4700012207031
+    },
+    "sentiment": 0.9363381862640381
   },
   {
-    "title": "Unusually active option classes on open April 17th",
-    "published": 1713343260,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
+    "title": "A Better Way To Crash The GLP-1 Party",
+    "published": 1717085400,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 248.9499969482422,
+      "2024-05-30T14:30:00+00:00": 250.63499450683594,
+      "2024-05-30T15:30:00+00:00": 251.25999450683594,
+      "2024-05-30T16:30:00+00:00": 253.0,
+      "2024-05-30T17:30:00+00:00": 252.9199981689453,
+      "2024-05-30T18:30:00+00:00": 252.24000549316406,
+      "2024-05-30T19:30:00+00:00": 252.97999572753906
+    },
+    "sentiment": 0.8735634684562683
   },
   {
-    "title": "The Art of Valuation: Discovering Danaher Corp's Intrinsic Value",
-    "published": 1713333660,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
+    "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2024 Update",
+    "published": 1717016058,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 253.47000122070312,
+      "2024-05-29T14:30:00+00:00": 255.24000549316406,
+      "2024-05-29T15:30:00+00:00": 255.0,
+      "2024-05-29T16:30:00+00:00": 255.3000030517578,
+      "2024-05-29T17:30:00+00:00": 255.5399932861328,
+      "2024-05-29T18:30:00+00:00": 256.20001220703125,
+      "2024-05-29T19:30:00+00:00": 256.1300048828125
+    },
+    "sentiment": 0.9409561157226562
   },
   {
-    "title": "HSBC upgrades Danaher to Buy on biotech funding recovery",
-    "published": 1713333060,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
+    "title": "EQLS: AI-Powered Long-Short ETF",
+    "published": 1716917310,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 262.55999755859375,
+      "2024-05-28T14:30:00+00:00": 260.8500061035156,
+      "2024-05-28T15:30:00+00:00": 257.5400085449219,
+      "2024-05-28T16:30:00+00:00": 257.9750061035156,
+      "2024-05-28T17:30:00+00:00": 257.80999755859375,
+      "2024-05-28T18:30:00+00:00": 257.8699951171875,
+      "2024-05-28T19:30:00+00:00": 257.3500061035156
+    },
+    "sentiment": 0.9225150346755981
   },
   {
-    "title": "AdaptHealth names Suzanne Foster as CEO",
-    "published": 1713324780,
-    "posting_price": 239.64790683,
-    "close_price": 238.62121582,
-    "percent_change": -0.42841643
-  },
-  {
-    "title": "FHLC: Healthcare Dashboard For April",
-    "published": 1713284682,
-    "posting_price": 240.32573006,
-    "close_price": 239.56816101,
-    "percent_change": -0.31522594
-  },
-  {
-    "title": "HSBC gets more bullish on Danaher, upgrades shares",
-    "published": 1713244740,
-    "posting_price": 240.32573006,
-    "close_price": 239.56816101,
-    "percent_change": -0.31522594
+    "title": "Sartorius AG: It's A Good Long-Term Play, But 'Wait And See' Approach Is More Conservative Now",
+    "published": 1716795511,
+    "day_prices": {},
+    "sentiment": 0.8889304995536804
   }
 ]

@@ -1,884 +1,350 @@
 [
   {
-    "title": "How to manage a portfolio amid geopolitical tensions",
-    "published": 1713198749,
-    "posting_price": 99.38038644,
-    "close_price": 97.87343597,
-    "percent_change": -1.51634596
+    "title": "GE Aerospace: First Standalone Results Back Up Premium Valuation",
+    "published": 1715012703,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 101.79000091552734,
+      "2024-05-06T14:30:00+00:00": 101.87000274658203,
+      "2024-05-06T15:30:00+00:00": 101.86000061035156,
+      "2024-05-06T16:30:00+00:00": 101.82499694824219,
+      "2024-05-06T17:30:00+00:00": 102.0,
+      "2024-05-06T18:30:00+00:00": 102.00499725341797,
+      "2024-05-06T19:30:00+00:00": 101.70999908447266
+    },
+    "sentiment": 0.9448932409286499
   },
   {
-    "title": "Sharpen Your Defense: 3 Military Stocks Guarding Your Wealth",
-    "published": 1713196320,
-    "posting_price": 99.38038644,
-    "close_price": 97.87343597,
-    "percent_change": -1.51634596
+    "title": "RTX's (NYSE:RTX) Shareholders Will Receive A Bigger Dividend Than Last Year",
+    "published": 1714991532,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 101.79000091552734,
+      "2024-05-06T14:30:00+00:00": 101.87000274658203,
+      "2024-05-06T15:30:00+00:00": 101.86000061035156,
+      "2024-05-06T16:30:00+00:00": 101.82499694824219,
+      "2024-05-06T17:30:00+00:00": 102.0,
+      "2024-05-06T18:30:00+00:00": 102.00499725341797,
+      "2024-05-06T19:30:00+00:00": 101.70999908447266
+    },
+    "sentiment": 0.8306666612625122
   },
   {
-    "title": "Unusually active option classes on open April 15th",
-    "published": 1713170460,
-    "posting_price": 99.38038644,
-    "close_price": 97.87343597,
-    "percent_change": -1.51634596
+    "title": "Spirit Airlines to furlough 260 pilots in September",
+    "published": 1714989600,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 101.79000091552734,
+      "2024-05-06T14:30:00+00:00": 101.87000274658203,
+      "2024-05-06T15:30:00+00:00": 101.86000061035156,
+      "2024-05-06T16:30:00+00:00": 101.82499694824219,
+      "2024-05-06T17:30:00+00:00": 102.0,
+      "2024-05-06T18:30:00+00:00": 102.00499725341797,
+      "2024-05-06T19:30:00+00:00": 101.70999908447266
+    },
+    "sentiment": 0.9267296195030212
   },
   {
-    "title": "Lockheed Martin Upgraded, Defense Stocks Rise After Missile-Heavy Weekend Over Israel",
-    "published": 1713140001,
-    "posting_price": 99.38038644,
-    "close_price": 97.87343597,
-    "percent_change": -1.51634596
+    "title": "RTX Dividend Increase",
+    "published": 1714786200,
+    "day_prices": {},
+    "sentiment": 0.9352659583091736
   },
   {
-    "title": "Why RTX (RTX) is a Top Value Stock for the Long-Term",
-    "published": 1712929210,
-    "posting_price": 99.5369488,
-    "close_price": 97.95171356,
-    "percent_change": -1.59260984
+    "title": "RTX Board of Directors Increases Quarterly Cash Dividend",
+    "published": 1714680900,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 101.19999694824219,
+      "2024-05-02T14:30:00+00:00": 101.62999725341797,
+      "2024-05-02T15:30:00+00:00": 101.36180114746094,
+      "2024-05-02T16:30:00+00:00": 101.48999786376953,
+      "2024-05-02T17:30:00+00:00": 101.66000366210938,
+      "2024-05-02T18:30:00+00:00": 101.68000030517578,
+      "2024-05-02T19:30:00+00:00": 101.62000274658203
+    },
+    "sentiment": 0.744083046913147
   },
   {
-    "title": "Noteworthy Friday Option Activity: RTX, HOOD, DE",
-    "published": 1712888460,
-    "posting_price": 99.5369488,
-    "close_price": 97.95171356,
-    "percent_change": -1.59260984
+    "title": "RTX's Pratt & Whitney Canada and Angola's TAAG Airlines sign Fleet Management\u2122 Program agreement for PW150A engines",
+    "published": 1714568400,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 101.31999969482422,
+      "2024-05-01T14:30:00+00:00": 101.5199966430664,
+      "2024-05-01T15:30:00+00:00": 101.67500305175781,
+      "2024-05-01T16:30:00+00:00": 101.88999938964844,
+      "2024-05-01T17:30:00+00:00": 101.91000366210938,
+      "2024-05-01T18:30:00+00:00": 101.83999633789062,
+      "2024-05-01T19:30:00+00:00": 101.63999938964844
+    },
+    "sentiment": 0.9099047183990479
   },
   {
-    "title": "RTX's Options Frenzy: What You Need to Know",
-    "published": 1712839680,
-    "posting_price": 99.17488554,
-    "close_price": 98.61711884,
-    "percent_change": -0.5624072
+    "title": "Is RTX Corporation Stock Going to $119? 1 Wall Street Analyst Thinks So.",
+    "published": 1714563420,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 101.31999969482422,
+      "2024-05-01T14:30:00+00:00": 101.5199966430664,
+      "2024-05-01T15:30:00+00:00": 101.67500305175781,
+      "2024-05-01T16:30:00+00:00": 101.88999938964844,
+      "2024-05-01T17:30:00+00:00": 101.91000366210938,
+      "2024-05-01T18:30:00+00:00": 101.83999633789062,
+      "2024-05-01T19:30:00+00:00": 101.63999938964844
+    },
+    "sentiment": 0.9139846563339233
   },
   {
-    "title": "RTX's Pratt & Whitney announces GTF MRO capacity expansion at West Palm Beach facility; Engine center's GTF capacity to increase 40% by 2025",
-    "published": 1712839225,
-    "posting_price": 99.17488554,
-    "close_price": 98.61711884,
-    "percent_change": -0.5624072
+    "title": "RTX Corp's Dividend Analysis",
+    "published": 1715770886,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 105.48999786376953,
+      "2024-05-15T14:30:00+00:00": 105.30999755859375,
+      "2024-05-15T15:30:00+00:00": 105.55999755859375,
+      "2024-05-15T16:30:00+00:00": 105.4000015258789,
+      "2024-05-15T17:30:00+00:00": 105.49749755859375,
+      "2024-05-15T18:30:00+00:00": 105.18499755859375,
+      "2024-05-15T19:30:00+00:00": 105.30000305175781
+    },
+    "sentiment": 0.9446842074394226
   },
   {
-    "title": "RTX : Fokker Services America and RTX's Collins Aerospace sign IDG repair capability agreement",
-    "published": 1712837349,
-    "posting_price": 99.17488554,
-    "close_price": 98.61711884,
-    "percent_change": -0.5624072
+    "title": "Defending the skies together: Partnership powers NASAMS\u2019 success",
+    "published": 1715699414,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 105.80000305175781,
+      "2024-05-14T14:30:00+00:00": 105.81999969482422,
+      "2024-05-14T15:30:00+00:00": 105.79000091552734,
+      "2024-05-14T16:30:00+00:00": 105.94999694824219,
+      "2024-05-14T17:30:00+00:00": 105.80999755859375,
+      "2024-05-14T18:30:00+00:00": 105.84349822998047,
+      "2024-05-14T19:30:00+00:00": 105.77999877929688
+    },
+    "sentiment": 0.497784823179245
   },
   {
-    "title": "RTX's Pratt & Whitney Canada surpasses 25 million PT6A flying hours on Textron Aviation's Cessna Caravan",
-    "published": 1712827884,
-    "posting_price": 99.17488554,
-    "close_price": 98.61711884,
-    "percent_change": -0.5624072
+    "title": "RTX's Collins Aerospace delivers first TruNet AR-1500 networked communications airborne radio to Europe",
+    "published": 1715672536,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 105.80000305175781,
+      "2024-05-14T14:30:00+00:00": 105.81999969482422,
+      "2024-05-14T15:30:00+00:00": 105.79000091552734,
+      "2024-05-14T16:30:00+00:00": 105.94999694824219,
+      "2024-05-14T17:30:00+00:00": 105.80999755859375,
+      "2024-05-14T18:30:00+00:00": 105.84349822998047,
+      "2024-05-14T19:30:00+00:00": 105.77999877929688
+    },
+    "sentiment": 0.7124977707862854
   },
   {
-    "title": "RTX's Pratt & Whitney announces GTF MRO capacity expansion at West Palm Beach facility",
-    "published": 1712827884,
-    "posting_price": 99.17488554,
-    "close_price": 98.61711884,
-    "percent_change": -0.5624072
+    "title": "Looking Into RTX's Recent Short Interest",
+    "published": 1715651160,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 105.80000305175781,
+      "2024-05-14T14:30:00+00:00": 105.81999969482422,
+      "2024-05-14T15:30:00+00:00": 105.79000091552734,
+      "2024-05-14T16:30:00+00:00": 105.94999694824219,
+      "2024-05-14T17:30:00+00:00": 105.80999755859375,
+      "2024-05-14T18:30:00+00:00": 105.84349822998047,
+      "2024-05-14T19:30:00+00:00": 105.77999877929688
+    },
+    "sentiment": 0.9358726143836975
   },
   {
-    "title": "Raytheon: Tailwinds From A Defense Boom Will Converge Nicely With Economic Strength",
-    "published": 1712776106,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
+    "title": "RTX's Pratt & Whitney receives Transport Canada type certification for PW545D engine",
+    "published": 1715608800,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 106.44000244140625,
+      "2024-05-13T14:30:00+00:00": 107.26000213623047,
+      "2024-05-13T15:30:00+00:00": 107.55999755859375,
+      "2024-05-13T16:30:00+00:00": 107.0199966430664,
+      "2024-05-13T17:30:00+00:00": 106.5707015991211,
+      "2024-05-13T18:30:00+00:00": 106.0999984741211,
+      "2024-05-13T19:30:00+00:00": 105.9800033569336
+    },
+    "sentiment": 0.8079259395599365
   },
   {
-    "title": "RTX provides Blue Canyon satellite to help solve a crucial climate challenge",
-    "published": 1712757600,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
+    "title": "RTX's Pratt & Whitney receives Transport Canada type certification for PW545D",
+    "published": 1715590920,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 106.44000244140625,
+      "2024-05-13T14:30:00+00:00": 107.26000213623047,
+      "2024-05-13T15:30:00+00:00": 107.55999755859375,
+      "2024-05-13T16:30:00+00:00": 107.0199966430664,
+      "2024-05-13T17:30:00+00:00": 106.5707015991211,
+      "2024-05-13T18:30:00+00:00": 106.0999984741211,
+      "2024-05-13T19:30:00+00:00": 105.9800033569336
+    },
+    "sentiment": 0.7471263408660889
   },
   {
-    "title": "RTX : Ascentia to receive significant upgrades",
-    "published": 1712753467,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
+    "title": "Wizz Air Stock: A Buy On Strong Engine Crisis Management",
+    "published": 1715492369,
+    "day_prices": {},
+    "sentiment": 0.8097745776176453
   },
   {
-    "title": "RTX's Pratt & Whitney to Invest $20 Million in West Palm Beach Engine Center",
-    "published": 1712747681,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
-  },
-  {
-    "title": "RTX : Satair extends parts distribution agreement with RTX's Collins Aerospace",
-    "published": 1712744947,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
-  },
-  {
-    "title": "RTX's Pratt & Whitney announces $20M investment to increase GTF MRO capacity",
-    "published": 1712741700,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
-  },
-  {
-    "title": "Uber, Emerson Electric, Caterpillar among top industrial Quant picks ahead of Q1 earnings",
-    "published": 1712715660,
-    "posting_price": 98.75411773,
-    "close_price": 99.18467712,
-    "percent_change": 0.43599133
-  },
-  {
-    "title": "RTX's Pratt & Whitney announces North American Technology Accelerator",
-    "published": 1712671200,
-    "posting_price": 98.90090086,
-    "close_price": 99.41952515,
-    "percent_change": 0.52438783
-  },
-  {
-    "title": "RTX's Raytheon completes critical milestone for VIIRS program",
-    "published": 1712584800,
-    "posting_price": 99.5075947,
-    "close_price": 99.69351196,
-    "percent_change": 0.18683726
-  },
-  {
-    "title": "RTX's Raytheon completes critical milestone for VIIRS program; Company completes thermal vacuum testing of the fourth sensor",
-    "published": 1712576173,
-    "posting_price": 99.5075947,
-    "close_price": 99.69351196,
-    "percent_change": 0.18683726
-  },
-  {
-    "title": "Spirit to defer Airbus plane deliveries, furlough 260 pilots this year",
-    "published": 1712572140,
-    "posting_price": 99.5075947,
-    "close_price": 99.69351196,
-    "percent_change": 0.18683726
-  },
-  {
-    "title": "Spirit Airlines to defer Airbus deliveries, furlough pilots to boost liquidity",
-    "published": 1712558160,
-    "posting_price": 99.5075947,
-    "close_price": 99.69351196,
-    "percent_change": 0.18683726
-  },
-  {
-    "title": "Cosmic Profits: 3 Space Stocks With Sky-High Potential",
-    "published": 1712394120,
-    "posting_price": 99.5075947,
-    "close_price": 99.69351196,
-    "percent_change": 0.18683726
-  },
-  {
-    "title": "RTX Corporation: Neither Value Nor Growth",
-    "published": 1712334984,
-    "posting_price": 97.3156669,
-    "close_price": 99.50759888,
-    "percent_change": 2.25239373
-  },
-  {
-    "title": "RTX Corporation Is In The Right Place At The Right Time",
-    "published": 1712318559,
-    "posting_price": 97.3156669,
-    "close_price": 99.50759888,
-    "percent_change": 2.25239373
-  },
-  {
-    "title": "Raytheon Technologies call volume above normal and directionally bullish",
-    "published": 1712317560,
-    "posting_price": 97.3156669,
-    "close_price": 99.50759888,
-    "percent_change": 2.25239373
+    "title": "RTX Unusual Options Activity",
+    "published": 1715340060,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 106.0,
+      "2024-05-10T14:30:00+00:00": 105.76000213623047,
+      "2024-05-10T15:30:00+00:00": 105.9800033569336,
+      "2024-05-10T16:30:00+00:00": 106.04000091552734,
+      "2024-05-10T17:30:00+00:00": 106.01499938964844,
+      "2024-05-10T18:30:00+00:00": 106.25,
+      "2024-05-10T19:30:00+00:00": 106.4000015258789
+    },
+    "sentiment": 0.9328030943870544
   },
   {
     "title": "RTX Corp. stock outperforms competitors on strong trading day",
-    "published": 1712288700,
-    "posting_price": 97.3156669,
-    "close_price": 99.50759888,
-    "percent_change": 2.25239373
-  },
-  {
-    "title": "Spotlight on RTX: Analyzing the Surge in Options Activity",
-    "published": 1712287860,
-    "posting_price": 97.3156669,
-    "close_price": 99.50759888,
-    "percent_change": 2.25239373
-  },
-  {
-    "title": "RTX : In the middle of a mission, these UAVs learned new tricks",
-    "published": 1712242989,
-    "posting_price": 96.17077161,
-    "close_price": 97.17866516,
-    "percent_change": 1.04802481
-  },
-  {
-    "title": "RTX : Ships of the Navy",
-    "published": 1712222228,
-    "posting_price": 96.17077161,
-    "close_price": 97.17866516,
-    "percent_change": 1.04802481
-  },
-  {
-    "title": "Jefferies Reaffirms Their Hold Rating on Raytheon Technologies (RTX)",
-    "published": 1712214960,
-    "posting_price": 96.17077161,
-    "close_price": 97.17866516,
-    "percent_change": 1.04802481
-  },
-  {
-    "title": "Raytheon Technologies (RTX) Receives a Buy from Wells Fargo",
-    "published": 1712210820,
-    "posting_price": 96.17077161,
-    "close_price": 97.17866516,
-    "percent_change": 1.04802481
-  },
-  {
-    "title": "Why RTX (RTX) is Poised to Beat Earnings Estimates Again",
-    "published": 1712074215,
-    "posting_price": 95.66193591,
-    "close_price": 96.4349823,
-    "percent_change": 0.80810239
-  },
-  {
-    "title": "RTX Stock Has 23% Upside, According to 1 Wall Street Analyst",
-    "published": 1712069184,
-    "posting_price": 95.66193591,
-    "close_price": 96.4349823,
-    "percent_change": 0.80810239
-  },
-  {
-    "title": "RTX to release first quarter results on April 23, 2024",
-    "published": 1712059200,
-    "posting_price": 95.66193591,
-    "close_price": 96.4349823,
-    "percent_change": 0.80810239
-  },
-  {
-    "title": "Raytheon Technologies: Hold Rating Amidst GTF Engine Concerns and Financial Uncertainties",
-    "published": 1712042760,
-    "posting_price": 95.66193591,
-    "close_price": 96.4349823,
-    "percent_change": 0.80810239
-  },
-  {
-    "title": "RTX edges higher for its seventh straight session",
-    "published": 1712028120,
-    "posting_price": 95.66193591,
-    "close_price": 96.4349823,
-    "percent_change": 0.80810239
-  },
-  {
-    "title": "1 Wall Street Analyst Says RTX Stock Has 18% Upside",
-    "published": 1714481243,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "The meaning of mentorship: A look at RTX\u2019s employee resource group for the armed services community",
-    "published": 1714478959,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "Leading beyond limits: A look at RTX\u2019s Asian Pacific Islander employee resource group",
-    "published": 1714478959,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "RTX's Raytheon awards contract to Spain's Sener for missile production support; Spanish partner to contribute to European GEM-T missile development and production",
-    "published": 1714474030,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "RTX's Pratt & Whitney awarded $65.8 million F100 engine maintenance contract for Saudi Arabia's F-15s",
-    "published": 1714474030,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Heartland Express (HTLD) and Raytheon Technologies (RTX)",
-    "published": 1714452120,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "RTX price target raised by $10 at Barclays, here's why",
-    "published": 1714450440,
-    "posting_price": 100.14363363,
-    "close_price": 99.3412323,
-    "percent_change": -0.80125046
-  },
-  {
-    "title": "RTX's Raytheon awards contract to Spain's Sener for missile production support",
-    "published": 1714399200,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "RTX Corporation: A Solid Investment But Looking More Expensive These Days",
-    "published": 1714389951,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "RTX Unusual Options Activity For April 29",
-    "published": 1714388880,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "RTX's Collins Aerospace celebrates groundbreaking of new solar farm at Rockford campus; New installation will help supply roughly 10 percent of Rockford plant's electricity needs annually",
-    "published": 1714387905,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "RTX's Collins Aerospace celebrates groundbreaking of new solar farm at Rockford campus",
-    "published": 1714387751,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "14 Strongest Military Forces in the Middle East",
-    "published": 1714336169,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "U.S. to rush Patriot missiles to Ukraine as part of $6B aid package",
-    "published": 1714212540,
-    "posting_price": 99.66415159,
-    "close_price": 100.24149323,
-    "percent_change": 0.57928717
-  },
-  {
-    "title": "3 Overvalued Defense Stocks to Sell Before the 2024 Election",
-    "published": 1714149289,
-    "posting_price": 99.36081176,
-    "close_price": 99.23360443,
-    "percent_change": -0.12802565
-  },
-  {
-    "title": "RTX : Collins Aerospace celebrates groundbreaking of new solar farm at Rockford campus",
-    "published": 1714138514,
-    "posting_price": 99.36081176,
-    "close_price": 99.23360443,
-    "percent_change": -0.12802565
-  },
-  {
-    "title": "RTX recognized for industry leading innovation in patented technology",
-    "published": 1714116676,
-    "posting_price": 99.36081176,
-    "close_price": 99.23360443,
-    "percent_change": -0.12802565
-  },
-  {
-    "title": "Raytheon: Customers Out Of Money, Company Selling Weapons For Wars Past",
-    "published": 1714109996,
-    "posting_price": 99.36081176,
-    "close_price": 99.23360443,
-    "percent_change": -0.12802565
-  },
-  {
-    "title": "Decoding RTX Corp (RTX): A Strategic SWOT Insight",
-    "published": 1714107699,
-    "posting_price": 99.36081176,
-    "close_price": 99.23360443,
-    "percent_change": -0.12802565
-  },
-  {
-    "title": "Balancing Act: Hold Rating on Raytheon Technologies Amid Strong Backlog and Divisional Challenges",
-    "published": 1714093380,
-    "posting_price": 99.36081176,
-    "close_price": 99.23360443,
-    "percent_change": -0.12802565
-  },
-  {
-    "title": "RTX awarded $344 million contract to modernize electronics unit for missile development program",
-    "published": 1714046400,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "RTX Corporation Just Recorded A 38% EPS Beat: Here's What Analysts Are Forecasting Next",
-    "published": 1714046170,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "Ukraine, Israel bill to bolster Lockheed, RTX profits",
-    "published": 1714039200,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "RTX awarded $344M contract to modernize electronics unit for missile development program",
-    "published": 1714034820,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "RTX's Raytheon awarded $344M contract",
-    "published": 1714028760,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "RTX price target lowered by $1 at Wells Fargo, here's why",
-    "published": 1714022400,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "A Closer Look at RTX's Options Market Dynamics",
-    "published": 1714012500,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "See Which Of The Latest 13F Filers Holds RTX Corp",
-    "published": 1714009140,
-    "posting_price": 98.73454676,
-    "close_price": 99.52716064,
-    "percent_change": 0.80277259
-  },
-  {
-    "title": "Raytheon Technologies Corporation (NYSE:RTX) Q1 2024 Earnings Call Transcript",
-    "published": 1713969833,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX First Quarter 2024 Earnings: Beats Expectations",
-    "published": 1713959689,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX Stock Price Has More Upside On Big Profit Boost Despite GTF Engine Crisis",
-    "published": 1713957283,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "JetBlue beefs up in-flight entertainment, but investors are unimpressed",
-    "published": 1713955200,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "Balancing Act: Solid Revenue vs. Operational Challenges in Raytheon Technologies",
-    "published": 1713948960,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX price target raised by $9 at Susquehanna, here's why",
-    "published": 1713940860,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX price target raised by $15 at Citi, here's why",
-    "published": 1713938400,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX price target raised by $10 at BofA, here's why",
-    "published": 1713938280,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX price target raised by $2 at UBS, here's why",
-    "published": 1713937740,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "Raytheon Technologies (RTX) Receives a Rating Update from a Top Analyst",
-    "published": 1713937680,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Enovis (ENOV), Raytheon Technologies (RTX) and Axon Enterprise (AXON)",
-    "published": 1713933780,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "Peering Into RTX's Recent Short Interest",
-    "published": 1713930480,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "Q1 2024 RTX Corp Earnings Call",
-    "published": 1713926782,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "RTX Corp (RTX) Q1 2024 Earnings Call Transcript Highlights: Strong Performance and Optimistic ...",
-    "published": 1713920700,
-    "posting_price": 99.53694068,
-    "close_price": 98.85195923,
-    "percent_change": -0.68816808
-  },
-  {
-    "title": "1 Wall Street Analyst Thinks RTX Stock Is Going to $96. Is It a Sell?",
-    "published": 1713906397,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX breaks ground on $115 million expansion of Alabama missile integration facility",
-    "published": 1713905820,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX (RTX) Q1 2024 Earnings Call Transcript",
-    "published": 1713895219,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "Even With Big Gains, I'm Still Convinced RTX Is One Of The Best Dividend Stocks On The Market",
-    "published": 1713881052,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Earnings Buoyed by Aerospace Giant's Record Orders",
-    "published": 1713879504,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX (RTX) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1713879029,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Soars Above Estimates in Q1, Reiterates FY24 Outlook",
-    "published": 1713876900,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Corporation (RTX) Q1 2024 Earnings Call Transcript",
-    "published": 1713875409,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "UPDATE 2-RTX beats estimates on military demand, aviation strength",
-    "published": 1713874647,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Corp (RTX) Q1 2024 Earnings: Surpasses Analyst Revenue Forecasts with Strong Sales Growth",
-    "published": 1713874304,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Stock Earnings: Raytheon Technologies Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713870000,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX beats estimates on military demand, aviation strength",
-    "published": 1713869977,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Reports Q1 2024 Results",
-    "published": 1713869700,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX profit jumps 20% on aviation strength, military demand",
-    "published": 1713869700,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Corporation 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713867064,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "JetBlue says fleet moderization program is 'coming to fruition'",
-    "published": 1713864600,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "JetBlue says 'moving quickly' to execute on standalone plan",
-    "published": 1713863520,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "Buy Rating Affirmed for Raytheon Technologies Amid Strong Financial Performance and Strategic Initiatives",
-    "published": 1713861420,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX 1Q Profit Jumps as Sales Climb",
-    "published": 1713857290,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX : Q1 2024 RTX Earnings Conference Call Presentation",
-    "published": 1713856400,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX: Q1 Earnings Snapshot",
-    "published": 1713855840,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX in charts: Pratt & Whitney sales rise 23%; commercial aerospace backlog reaches $125B in Q1",
-    "published": 1713853260,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX Corporation Non-GAAP EPS of $1.34 beats by $0.11, revenue of $19.3B beats by $900M",
-    "published": 1713852540,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX backs FY24 adjusted EPS view $5.25-$5.40, consensus $5.39",
-    "published": 1713852360,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX reports Q1 adjusted EPS $1.34, consensus $1.23",
-    "published": 1713852240,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "Raytheon Technologies Non-GAAP EPS of $1.34 beats by $0.11, revenue of $19.3B beats by $900M",
-    "published": 1713852120,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX break ground on $115M expansion of Alabama missile integration facility",
-    "published": 1713844740,
-    "posting_price": 98.83238932,
-    "close_price": 99.20423126,
-    "percent_change": 0.3762349
-  },
-  {
-    "title": "RTX awarded $212.51M Navy contract modification",
-    "published": 1713759420,
-    "posting_price": 99.8109381,
-    "close_price": 99.38037872,
-    "percent_change": -0.43137495
-  },
-  {
-    "title": "RTX Q1 results preview: GTF engine recall still weighs on investors",
-    "published": 1713748500,
-    "posting_price": 99.8109381,
-    "close_price": 99.38037872,
-    "percent_change": -0.43137495
-  },
-  {
-    "title": "RTX Q1 results preview: GTF recall still weighs on investors",
-    "published": 1713748140,
-    "posting_price": 99.8109381,
-    "close_price": 99.38037872,
-    "percent_change": -0.43137495
-  },
-  {
-    "title": "RTX : This lab has the power to make electrified flight a reality",
-    "published": 1713529507,
-    "posting_price": 99.35102376,
-    "close_price": 99.38037872,
-    "percent_change": 0.02954671
-  },
-  {
-    "title": "RTX price target raised by $8 at RBC Capital, here's why",
-    "published": 1713509940,
-    "posting_price": 99.35102376,
-    "close_price": 99.38037872,
-    "percent_change": 0.02954671
-  },
-  {
-    "title": "RTX signs its largest renewable electricity deal to date",
-    "published": 1713438000,
-    "posting_price": 98.36269741,
-    "close_price": 98.54862213,
-    "percent_change": 0.18901954
-  },
-  {
-    "title": "RTX Inks Largest Renewable Electricity Agreement: 'On Path To Achieve 2025 Goal'",
-    "published": 1713437400,
-    "posting_price": 98.36269741,
-    "close_price": 98.54862213,
-    "percent_change": 0.18901954
-  },
-  {
-    "title": "RTX's Pratt & Whitney Canada marks 500th PT6 E-Series engine milestone and more than 200,000 hours of flight",
-    "published": 1713434190,
-    "posting_price": 98.36269741,
-    "close_price": 98.54862213,
-    "percent_change": 0.18901954
-  },
-  {
-    "title": "RTX Signs Renewable Electricity Deal for 12 Texas Facilities",
-    "published": 1713426286,
-    "posting_price": 98.36269741,
-    "close_price": 98.54862213,
-    "percent_change": 0.18901954
-  },
-  {
-    "title": "RTX signs renewable electricity deal in Texas, its largest to date",
-    "published": 1713420420,
-    "posting_price": 98.36269741,
-    "close_price": 98.54862213,
-    "percent_change": 0.18901954
-  },
-  {
-    "title": "RTX : Narita airport selects RTX to improve the travel experience for passengers",
-    "published": 1713373634,
-    "posting_price": 99.08681769,
-    "close_price": 98.58776093,
-    "percent_change": -0.50365606
-  },
-  {
-    "title": "RTX Is Heading to a Healthy Correction After Outperforming the Competition",
-    "published": 1713362401,
-    "posting_price": 99.08681769,
-    "close_price": 98.58776093,
-    "percent_change": -0.50365606
-  },
-  {
-    "title": "Why RTX (RTX) is a Top Momentum Stock for the Long-Term",
-    "published": 1713361804,
-    "posting_price": 99.08681769,
-    "close_price": 98.58776093,
-    "percent_change": -0.50365606
-  },
-  {
-    "title": "Zacks Investment Ideas feature highlights: Raytheon, Northrop Grumman, Gold ETF, Silver ETF and Russell 2000",
-    "published": 1713348000,
-    "posting_price": 99.08681769,
-    "close_price": 98.58776093,
-    "percent_change": -0.50365606
-  },
-  {
-    "title": "Steady Income, Steady Growth: 7 Blue-Chip Dividend Stocks to Buy Now",
-    "published": 1713293776,
-    "posting_price": 98.09849285,
-    "close_price": 98.67582703,
-    "percent_change": 0.58852503
-  },
-  {
-    "title": "RTX (RTX) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1713276044,
-    "posting_price": 98.09849285,
-    "close_price": 98.67582703,
-    "percent_change": 0.58852503
-  },
-  {
-    "title": "Unusually active option classes on open April 16th",
-    "published": 1713256860,
-    "posting_price": 98.09849285,
-    "close_price": 98.67582703,
-    "percent_change": 0.58852503
-  },
-  {
-    "title": "SA Analyst Roundtable: What's next for Boeing?",
-    "published": 1713232320,
-    "posting_price": 98.09849285,
-    "close_price": 98.67582703,
-    "percent_change": 0.58852503
-  },
-  {
-    "title": "SA Roundtable: What's next for Boeing?",
-    "published": 1713231900,
-    "posting_price": 98.09849285,
-    "close_price": 98.67582703,
-    "percent_change": 0.58852503
+    "published": 1715226240,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 104.11000061035156,
+      "2024-05-09T14:30:00+00:00": 105.20500183105469,
+      "2024-05-09T15:30:00+00:00": 105.15540313720703,
+      "2024-05-09T16:30:00+00:00": 105.4800033569336,
+      "2024-05-09T17:30:00+00:00": 105.31999969482422,
+      "2024-05-09T18:30:00+00:00": 105.33000183105469,
+      "2024-05-09T19:30:00+00:00": 105.37000274658203
+    },
+    "sentiment": 0.9415888786315918
+  },
+  {
+    "title": "RTX's Collins Aerospace awarded Survivable Airborne Operations Center subcontract",
+    "published": 1716472800,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 106.44000244140625,
+      "2024-05-23T14:30:00+00:00": 106.19999694824219,
+      "2024-05-23T15:30:00+00:00": 106.37999725341797,
+      "2024-05-23T16:30:00+00:00": 106.08999633789062,
+      "2024-05-23T17:30:00+00:00": 105.95999908447266,
+      "2024-05-23T18:30:00+00:00": 105.47000122070312,
+      "2024-05-23T19:30:00+00:00": 105.44000244140625
+    },
+    "sentiment": 0.9163405895233154
+  },
+  {
+    "title": "China starts military drills near Taiwan as \u2018punishment\u2019",
+    "published": 1716457920,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 106.44000244140625,
+      "2024-05-23T14:30:00+00:00": 106.19999694824219,
+      "2024-05-23T15:30:00+00:00": 106.37999725341797,
+      "2024-05-23T16:30:00+00:00": 106.08999633789062,
+      "2024-05-23T17:30:00+00:00": 105.95999908447266,
+      "2024-05-23T18:30:00+00:00": 105.47000122070312,
+      "2024-05-23T19:30:00+00:00": 105.44000244140625
+    },
+    "sentiment": 0.7950263619422913
+  },
+  {
+    "title": "RTX awarded $227.35M Navy contract",
+    "published": 1716437280,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 106.44000244140625,
+      "2024-05-23T14:30:00+00:00": 106.19999694824219,
+      "2024-05-23T15:30:00+00:00": 106.37999725341797,
+      "2024-05-23T16:30:00+00:00": 106.08999633789062,
+      "2024-05-23T17:30:00+00:00": 105.95999908447266,
+      "2024-05-23T18:30:00+00:00": 105.47000122070312,
+      "2024-05-23T19:30:00+00:00": 105.44000244140625
+    },
+    "sentiment": 0.9341442584991455
+  },
+  {
+    "title": "China sanctions US defense-related companies and executives over Russia, Taiwan",
+    "published": 1716379140,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 105.62999725341797,
+      "2024-05-22T14:30:00+00:00": 105.87999725341797,
+      "2024-05-22T15:30:00+00:00": 105.91999816894531,
+      "2024-05-22T16:30:00+00:00": 106.30000305175781,
+      "2024-05-22T17:30:00+00:00": 106.19999694824219,
+      "2024-05-22T18:30:00+00:00": 105.81999969482422,
+      "2024-05-22T19:30:00+00:00": 106.12000274658203
+    },
+    "sentiment": 0.914973795413971
+  },
+  {
+    "title": "Defense stocks: 2 factors this analyst says to consider",
+    "published": 1716330997,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 105.19999694824219,
+      "2024-05-21T14:30:00+00:00": 105.56050109863281,
+      "2024-05-21T15:30:00+00:00": 105.81999969482422,
+      "2024-05-21T16:30:00+00:00": 105.52999877929688,
+      "2024-05-21T17:30:00+00:00": 105.55999755859375,
+      "2024-05-21T18:30:00+00:00": 105.61000061035156,
+      "2024-05-21T19:30:00+00:00": 105.75
+    },
+    "sentiment": 0.9466781616210938
+  },
+  {
+    "title": "RTX's Collins Aerospace offers solution for passengers with reduced mobility",
+    "published": 1716210360,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 104.5199966430664,
+      "2024-05-20T14:30:00+00:00": 104.87000274658203,
+      "2024-05-20T15:30:00+00:00": 105.18000030517578,
+      "2024-05-20T16:30:00+00:00": 105.27999877929688,
+      "2024-05-20T17:30:00+00:00": 105.28500366210938,
+      "2024-05-20T18:30:00+00:00": 105.1500015258789,
+      "2024-05-20T19:30:00+00:00": 105.15499877929688
+    },
+    "sentiment": 0.7199570536613464
+  },
+  {
+    "title": "RTX awarded $196.64M Defense logistics Agency contract",
+    "published": 1716179820,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 104.5199966430664,
+      "2024-05-20T14:30:00+00:00": 104.87000274658203,
+      "2024-05-20T15:30:00+00:00": 105.18000030517578,
+      "2024-05-20T16:30:00+00:00": 105.27999877929688,
+      "2024-05-20T17:30:00+00:00": 105.28500366210938,
+      "2024-05-20T18:30:00+00:00": 105.1500015258789,
+      "2024-05-20T19:30:00+00:00": 105.15499877929688
+    },
+    "sentiment": 0.9375472068786621
+  },
+  {
+    "title": "Behind the Scenes of RTX's Latest Options Trends",
+    "published": 1716172500,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 104.5199966430664,
+      "2024-05-20T14:30:00+00:00": 104.87000274658203,
+      "2024-05-20T15:30:00+00:00": 105.18000030517578,
+      "2024-05-20T16:30:00+00:00": 105.27999877929688,
+      "2024-05-20T17:30:00+00:00": 105.28500366210938,
+      "2024-05-20T18:30:00+00:00": 105.1500015258789,
+      "2024-05-20T19:30:00+00:00": 105.15499877929688
+    },
+    "sentiment": 0.9369949102401733
+  },
+  {
+    "title": "Wells Fargo Sticks to Their Buy Rating for Raytheon Technologies (RTX)",
+    "published": 1715925360,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 104.69000244140625,
+      "2024-05-17T14:30:00+00:00": 104.44000244140625,
+      "2024-05-17T15:30:00+00:00": 104.3499984741211,
+      "2024-05-17T16:30:00+00:00": 103.94999694824219,
+      "2024-05-17T17:30:00+00:00": 104.2699966430664,
+      "2024-05-17T18:30:00+00:00": 104.35009765625,
+      "2024-05-17T19:30:00+00:00": 104.31999969482422
+    },
+    "sentiment": 0.7839020490646362
+  },
+  {
+    "title": "Smart Money Is Betting Big In RTX Options",
+    "published": 1715825160,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 104.5,
+      "2024-05-16T14:30:00+00:00": 104.93000030517578,
+      "2024-05-16T15:30:00+00:00": 105.16000366210938,
+      "2024-05-16T16:30:00+00:00": 105.18000030517578,
+      "2024-05-16T17:30:00+00:00": 105.08000183105469,
+      "2024-05-16T18:30:00+00:00": 104.47000122070312,
+      "2024-05-16T19:30:00+00:00": 104.25
+    },
+    "sentiment": 0.7778268456459045
   }
 ]

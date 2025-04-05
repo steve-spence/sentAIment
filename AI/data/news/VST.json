@@ -1,338 +1,532 @@
 [
   {
-    "title": "Energy Transition Today - Hydrogen Surge Powers Zero-Emission Transportation Revolution",
-    "published": 1743073635,
-    "posting_price": 120.25,
-    "close_price": 119.30999756,
-    "percent_change": -0.78170681
+    "title": "Check Out What Whales Are Doing With VST",
+    "published": 1715083560,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 82.87999725341797,
+      "2024-05-07T14:30:00+00:00": 83.80000305175781,
+      "2024-05-07T15:30:00+00:00": 83.5,
+      "2024-05-07T16:30:00+00:00": 82.95999908447266,
+      "2024-05-07T17:30:00+00:00": 82.87999725341797,
+      "2024-05-07T18:30:00+00:00": 81.83000183105469,
+      "2024-05-07T19:30:00+00:00": 81.88999938964844
+    },
+    "sentiment": 0.9315165877342224
   },
   {
-    "title": "Energy Transition Today - Solar Giants Unite to Accelerate Global Clean Energy Shift",
-    "published": 1742900832,
-    "posting_price": 134.00999451,
-    "close_price": 131.80999756,
-    "percent_change": -1.64166632
+    "title": "Analysts Offer Insights on Utilities Companies: Vistra Energy (VST), Brookfield Renewable Partners (BEP) and ONE Gas (OGS)",
+    "published": 1715064780,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 82.87999725341797,
+      "2024-05-07T14:30:00+00:00": 83.80000305175781,
+      "2024-05-07T15:30:00+00:00": 83.5,
+      "2024-05-07T16:30:00+00:00": 82.95999908447266,
+      "2024-05-07T17:30:00+00:00": 82.87999725341797,
+      "2024-05-07T18:30:00+00:00": 81.83000183105469,
+      "2024-05-07T19:30:00+00:00": 81.88999938964844
+    },
+    "sentiment": 0.9359232187271118
   },
   {
-    "title": "4 S&P 500 Stocks Down 20% or More That You'll Regret Not Buying",
-    "published": 1742722800,
-    "posting_price": 134.97999573,
-    "close_price": 134.94000244,
-    "percent_change": -0.02962905
+    "title": "AI Play Rises On S&P 500 News; Bitcoin Miner Soars On Small-Cap Entry",
+    "published": 1715026358,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 82.30999755859375,
+      "2024-05-06T14:30:00+00:00": 82.9000015258789,
+      "2024-05-06T15:30:00+00:00": 82.83000183105469,
+      "2024-05-06T16:30:00+00:00": 82.2300033569336,
+      "2024-05-06T17:30:00+00:00": 81.8499984741211,
+      "2024-05-06T18:30:00+00:00": 81.79920196533203,
+      "2024-05-06T19:30:00+00:00": 82.76000213623047
+    },
+    "sentiment": 0.8176407217979431
   },
   {
-    "title": "2 Hidden AI Stocks to Buy in the S&P 500 Sell-Off",
-    "published": 1742642400,
-    "posting_price": 134.97999573,
-    "close_price": 134.94000244,
-    "percent_change": -0.02962905
+    "title": "BioCryst Pharmaceuticals, Freshpet rise; Luminar, Integra fall, Monday, 5/6/2024",
+    "published": 1714998900,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 82.30999755859375,
+      "2024-05-06T14:30:00+00:00": 82.9000015258789,
+      "2024-05-06T15:30:00+00:00": 82.83000183105469,
+      "2024-05-06T16:30:00+00:00": 82.2300033569336,
+      "2024-05-06T17:30:00+00:00": 81.8499984741211,
+      "2024-05-06T18:30:00+00:00": 81.79920196533203,
+      "2024-05-06T19:30:00+00:00": 82.76000213623047
+    },
+    "sentiment": 0.624583899974823
   },
   {
-    "title": "Here Are Billionaire David Tepper's 5 Biggest Stock Holdings",
-    "published": 1742553900,
-    "posting_price": 129.78999329,
-    "close_price": 130.58000183,
-    "percent_change": 0.60868216
+    "title": "Vistra Energy\u2019s Stockholder Decisions and Director Elections",
+    "published": 1714966440,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 82.30999755859375,
+      "2024-05-06T14:30:00+00:00": 82.9000015258789,
+      "2024-05-06T15:30:00+00:00": 82.83000183105469,
+      "2024-05-06T16:30:00+00:00": 82.2300033569336,
+      "2024-05-06T17:30:00+00:00": 81.8499984741211,
+      "2024-05-06T18:30:00+00:00": 81.79920196533203,
+      "2024-05-06T19:30:00+00:00": 82.76000213623047
+    },
+    "sentiment": 0.9488654136657715
   },
   {
-    "title": "Energy Transition Today - India's Emerging Role in Shaping Global Energy Markets",
-    "published": 1742468839,
-    "posting_price": 127.52999878,
-    "close_price": 131.8999939,
-    "percent_change": 3.42664092
+    "title": "AI Play Joins S&P 500, Bitcoin Miner Rallies On Demotion",
+    "published": 1714780838,
+    "day_prices": {},
+    "sentiment": 0.38195517659187317
   },
   {
-    "title": "Jim Cramer Says Wait for Pullback to Buy Vistra (VST)",
-    "published": 1742418394,
-    "posting_price": 124.78436753,
-    "close_price": 129.62600708,
-    "percent_change": 3.88000488
+    "title": "Vistra to Join S&P 500 Index, Replacing Pioneer Natural Resources",
+    "published": 1714775280,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 80.5999984741211,
+      "2024-05-03T14:30:00+00:00": 82.0,
+      "2024-05-03T15:30:00+00:00": 81.82980346679688,
+      "2024-05-03T16:30:00+00:00": 82.41000366210938,
+      "2024-05-03T17:30:00+00:00": 82.30999755859375,
+      "2024-05-03T18:30:00+00:00": 82.45999908447266,
+      "2024-05-03T19:30:00+00:00": 81.95999908447266
+    },
+    "sentiment": 0.8938267827033997
   },
   {
-    "title": "Investors Heavily Search Vistra Corp. (VST): Here is What You Need to Know",
-    "published": 1742389216,
-    "posting_price": 124.78436753,
-    "close_price": 129.62600708,
-    "percent_change": 3.88000488
+    "title": "Vistra Corp. to join S&P 500 index, replacing Pioneer Natural Resources",
+    "published": 1714717620,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 80.5999984741211,
+      "2024-05-03T14:30:00+00:00": 82.0,
+      "2024-05-03T15:30:00+00:00": 81.82980346679688,
+      "2024-05-03T16:30:00+00:00": 82.41000366210938,
+      "2024-05-03T17:30:00+00:00": 82.30999755859375,
+      "2024-05-03T18:30:00+00:00": 82.45999908447266,
+      "2024-05-03T19:30:00+00:00": 81.95999908447266
+    },
+    "sentiment": 0.91273432970047
   },
   {
-    "title": "Energy Transition Update - CIP's Flagship Fund Surpasses Target Fueling Global Energy Expansion",
-    "published": 1742296045,
-    "posting_price": 124.66456629,
-    "close_price": 124.24529266,
-    "percent_change": -0.33632141
+    "title": "Vistra Declares Dividend on Common Stock, Series B Preferred Stock and Series C Preferred Stock",
+    "published": 1714692720,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.44999694824219,
+      "2024-05-02T14:30:00+00:00": 77.5,
+      "2024-05-02T15:30:00+00:00": 78.24500274658203,
+      "2024-05-02T16:30:00+00:00": 79.08999633789062,
+      "2024-05-02T17:30:00+00:00": 79.62999725341797,
+      "2024-05-02T18:30:00+00:00": 80.47000122070312,
+      "2024-05-02T19:30:00+00:00": 80.5
+    },
+    "sentiment": 0.9419494271278381
   },
   {
-    "title": "Vistra (NYSE:VST) Jumps 15% Following Strong 2024 Earnings Report",
-    "published": 1742232500,
-    "posting_price": 123.38678152,
-    "close_price": 126.07214355,
-    "percent_change": 2.1763774
+    "title": "Third Point Investors - Vistra: In A Pole Position To Capitalize On Trends",
+    "published": 1714640100,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.44999694824219,
+      "2024-05-02T14:30:00+00:00": 77.5,
+      "2024-05-02T15:30:00+00:00": 78.24500274658203,
+      "2024-05-02T16:30:00+00:00": 79.08999633789062,
+      "2024-05-02T17:30:00+00:00": 79.62999725341797,
+      "2024-05-02T18:30:00+00:00": 80.47000122070312,
+      "2024-05-02T19:30:00+00:00": 80.5
+    },
+    "sentiment": 0.7597656846046448
   },
   {
-    "title": "Billionaire David Tepper Sells Amazon Stock and Buys an AI Stock Wall Street Says May Soar 55%",
-    "published": 1742112180,
-    "posting_price": 123.38678152,
-    "close_price": 126.07214355,
-    "percent_change": 2.1763774
+    "title": "Third Point - Vistra: In A Pole Position To Capitalize On Trends",
+    "published": 1714636740,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 77.44999694824219,
+      "2024-05-02T14:30:00+00:00": 77.5,
+      "2024-05-02T15:30:00+00:00": 78.24500274658203,
+      "2024-05-02T16:30:00+00:00": 79.08999633789062,
+      "2024-05-02T17:30:00+00:00": 79.62999725341797,
+      "2024-05-02T18:30:00+00:00": 80.47000122070312,
+      "2024-05-02T19:30:00+00:00": 80.5
+    },
+    "sentiment": 0.7650054097175598
   },
   {
-    "title": "Is Vistra Corp (VST) The Top Beaten Down Large Cap Stock That Can Double According To Wall Street?",
-    "published": 1741967116,
-    "posting_price": 120.84117923,
-    "close_price": 124.24529266,
-    "percent_change": 2.81701441
+    "title": "Victory Square Technologies Reports 2023 Financial Results",
+    "published": 1714553700,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 75.66999816894531,
+      "2024-05-01T14:30:00+00:00": 75.5,
+      "2024-05-01T15:30:00+00:00": 75.66999816894531,
+      "2024-05-01T16:30:00+00:00": 75.4000015258789,
+      "2024-05-01T17:30:00+00:00": 77.0199966430664,
+      "2024-05-01T18:30:00+00:00": 77.75559997558594,
+      "2024-05-01T19:30:00+00:00": 77.86000061035156
+    },
+    "sentiment": 0.9146703481674194
   },
   {
-    "title": "Vistra to Report First Quarter Results on May 8, 2024",
-    "published": 1713213000,
-    "posting_price": 70.24325646,
-    "close_price": 67.65487671,
-    "percent_change": -3.68488006
+    "title": "VST Stock Earnings: Vistra Misses EPS, Beats Revenue for Q1 2024",
+    "published": 1715777940,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 93.5,
+      "2024-05-15T14:30:00+00:00": 97.5,
+      "2024-05-15T15:30:00+00:00": 96.0,
+      "2024-05-15T16:30:00+00:00": 96.00350189208984,
+      "2024-05-15T17:30:00+00:00": 96.6416015625,
+      "2024-05-15T18:30:00+00:00": 96.22000122070312,
+      "2024-05-15T19:30:00+00:00": 96.48500061035156
+    },
+    "sentiment": 0.4074621796607971
   },
   {
-    "title": "Vistra Energy (VST) Gets a Buy from Seaport Global",
-    "published": 1713166560,
-    "posting_price": 70.24325646,
-    "close_price": 67.65487671,
-    "percent_change": -3.68488006
+    "title": "Victory Square Technologies Corporate Update",
+    "published": 1715760000,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 93.5,
+      "2024-05-15T14:30:00+00:00": 97.5,
+      "2024-05-15T15:30:00+00:00": 96.0,
+      "2024-05-15T16:30:00+00:00": 96.00350189208984,
+      "2024-05-15T17:30:00+00:00": 96.6416015625,
+      "2024-05-15T18:30:00+00:00": 96.22000122070312,
+      "2024-05-15T19:30:00+00:00": 96.48500061035156
+    },
+    "sentiment": 0.9207543730735779
   },
   {
-    "title": "Fitch Rates Vistra Operations' Sr Secured Notes 'BBB-'/'RR1' and Sr Unsecured Notes 'BB'/'RR4'",
-    "published": 1712731995,
-    "posting_price": 68.01190167,
-    "close_price": 70.17384338,
-    "percent_change": 3.17876968
+    "title": "Stanley Druckenmiller's Strategic Moves: A Deep Dive into NVIDIA's Significant Portfolio Reduction",
+    "published": 1715749500,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 93.5,
+      "2024-05-15T14:30:00+00:00": 97.5,
+      "2024-05-15T15:30:00+00:00": 96.0,
+      "2024-05-15T16:30:00+00:00": 96.00350189208984,
+      "2024-05-15T17:30:00+00:00": 96.6416015625,
+      "2024-05-15T18:30:00+00:00": 96.22000122070312,
+      "2024-05-15T19:30:00+00:00": 96.48500061035156
+    },
+    "sentiment": 0.6038233637809753
   },
   {
-    "title": "Vistra Prices Private Offerings of $500 Million of Senior Secured Notes and $1 Billion of Senior Unsecured Notes",
-    "published": 1712718840,
-    "posting_price": 68.01190167,
-    "close_price": 70.17384338,
-    "percent_change": 3.17876968
+    "title": "Is Vistra Corp (VST) Set to Underperform? Analyzing the Factors Limiting Growth",
+    "published": 1715594520,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 94.52999877929688,
+      "2024-05-13T14:30:00+00:00": 93.77999877929688,
+      "2024-05-13T15:30:00+00:00": 93.08999633789062,
+      "2024-05-13T16:30:00+00:00": 93.36499786376953,
+      "2024-05-13T17:30:00+00:00": 92.41999816894531,
+      "2024-05-13T18:30:00+00:00": 91.63999938964844,
+      "2024-05-13T19:30:00+00:00": 91.2300033569336
+    },
+    "sentiment": 0.7138112187385559
   },
   {
-    "title": "Vistra prices debt offering via issuance of senior notes",
-    "published": 1712716200,
-    "posting_price": 68.01190167,
-    "close_price": 70.17384338,
-    "percent_change": 3.17876968
+    "title": "This S&P 500 Company Just Said It Goes With AI Data Centers 'Like Peanut Butter And Jelly'",
+    "published": 1715349110,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 94.73999786376953,
+      "2024-05-10T14:30:00+00:00": 92.98500061035156,
+      "2024-05-10T15:30:00+00:00": 93.03600311279297,
+      "2024-05-10T16:30:00+00:00": 93.7582015991211,
+      "2024-05-10T17:30:00+00:00": 92.6500015258789,
+      "2024-05-10T18:30:00+00:00": 92.95500183105469,
+      "2024-05-10T19:30:00+00:00": 93.16000366210938
+    },
+    "sentiment": 0.9293993711471558
   },
   {
-    "title": "Utility Stocks Gain Ahead of Inflation Data -- Utilities Roundup",
-    "published": 1712683037,
-    "posting_price": 74.27954392,
-    "close_price": 68.95402527,
-    "percent_change": -7.16956294
+    "title": "The surprising reason why utilities stocks have suddenly transformed into the hottest sector on Wall Street",
+    "published": 1715323980,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 94.73999786376953,
+      "2024-05-10T14:30:00+00:00": 92.98500061035156,
+      "2024-05-10T15:30:00+00:00": 93.03600311279297,
+      "2024-05-10T16:30:00+00:00": 93.7582015991211,
+      "2024-05-10T17:30:00+00:00": 92.6500015258789,
+      "2024-05-10T18:30:00+00:00": 92.95500183105469,
+      "2024-05-10T19:30:00+00:00": 93.16000366210938
+    },
+    "sentiment": 0.6843846440315247
   },
   {
-    "title": "Is Trending Stock Vistra Corp. (VST) a Buy Now?",
-    "published": 1712667610,
-    "posting_price": 74.27954392,
-    "close_price": 68.95402527,
-    "percent_change": -7.16956294
+    "title": "Vistra Corp. (NYSE:VST) Q1 2024 Earnings Call Transcript",
+    "published": 1715271477,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 89.55999755859375,
+      "2024-05-09T14:30:00+00:00": 91.54000091552734,
+      "2024-05-09T15:30:00+00:00": 92.18000030517578,
+      "2024-05-09T16:30:00+00:00": 92.68000030517578,
+      "2024-05-09T17:30:00+00:00": 92.56999969482422,
+      "2024-05-09T18:30:00+00:00": 92.27999877929688,
+      "2024-05-09T19:30:00+00:00": 92.75
+    },
+    "sentiment": 0.9351116418838501
   },
   {
-    "title": "Vistra Announces Private Offerings of Senior Secured Notes and Senior Unsecured Notes",
-    "published": 1712667480,
-    "posting_price": 74.27954392,
-    "close_price": 68.95402527,
-    "percent_change": -7.16956294
+    "title": "Vistra price target raised by $25 at UBS, here's why",
+    "published": 1715240640,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 89.55999755859375,
+      "2024-05-09T14:30:00+00:00": 91.54000091552734,
+      "2024-05-09T15:30:00+00:00": 92.18000030517578,
+      "2024-05-09T16:30:00+00:00": 92.68000030517578,
+      "2024-05-09T17:30:00+00:00": 92.56999969482422,
+      "2024-05-09T18:30:00+00:00": 92.27999877929688,
+      "2024-05-09T19:30:00+00:00": 92.75
+    },
+    "sentiment": 0.6596480011940002
   },
   {
-    "title": "Smart Money Is Betting Big In VST Options",
-    "published": 1712660640,
-    "posting_price": 74.27954392,
-    "close_price": 68.95402527,
-    "percent_change": -7.16956294
+    "title": "Vistra Energy call buyer realizes 16% same-day gains",
+    "published": 1715238000,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 89.55999755859375,
+      "2024-05-09T14:30:00+00:00": 91.54000091552734,
+      "2024-05-09T15:30:00+00:00": 92.18000030517578,
+      "2024-05-09T16:30:00+00:00": 92.68000030517578,
+      "2024-05-09T17:30:00+00:00": 92.56999969482422,
+      "2024-05-09T18:30:00+00:00": 92.27999877929688,
+      "2024-05-09T19:30:00+00:00": 92.75
+    },
+    "sentiment": 0.8939598202705383
   },
   {
-    "title": "MNTK, WAVE, SUUN, and KEN are among utility movers",
-    "published": 1712625720,
-    "posting_price": 74.27954392,
-    "close_price": 68.95402527,
-    "percent_change": -7.16956294
+    "title": "Vistra Corp. (VST) Q1 2024 Earnings Call Transcript",
+    "published": 1715187190,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 81.77999877929688,
+      "2024-05-08T14:30:00+00:00": 88.98999786376953,
+      "2024-05-08T15:30:00+00:00": 87.25499725341797,
+      "2024-05-08T16:30:00+00:00": 87.7300033569336,
+      "2024-05-08T17:30:00+00:00": 88.58000183105469,
+      "2024-05-08T18:30:00+00:00": 90.97000122070312,
+      "2024-05-08T19:30:00+00:00": 90.05000305175781
+    },
+    "sentiment": 0.9301400184631348
   },
   {
-    "title": "Why Vistra Corp. (VST) Dipped More Than Broader Market Today",
-    "published": 1712613621,
-    "posting_price": 74.33904019,
-    "close_price": 73.80351257,
-    "percent_change": -0.72038544
+    "title": "Why Upstart Shares Are Trading Lower By Around 10%? Here Are Other Stocks Moving In Wednesday's Mid-Day Session",
+    "published": 1715172240,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 81.77999877929688,
+      "2024-05-08T14:30:00+00:00": 88.98999786376953,
+      "2024-05-08T15:30:00+00:00": 87.25499725341797,
+      "2024-05-08T16:30:00+00:00": 87.7300033569336,
+      "2024-05-08T17:30:00+00:00": 88.58000183105469,
+      "2024-05-08T18:30:00+00:00": 90.97000122070312,
+      "2024-05-08T19:30:00+00:00": 90.05000305175781
+    },
+    "sentiment": 0.7508617639541626
   },
   {
-    "title": "Vistra Energy call volume above normal and directionally bullish",
-    "published": 1712573160,
-    "posting_price": 74.33904019,
-    "close_price": 73.80351257,
-    "percent_change": -0.72038544
+    "title": "Vistra : 2024 First Quarter Presentation",
+    "published": 1715152399,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 81.77999877929688,
+      "2024-05-08T14:30:00+00:00": 88.98999786376953,
+      "2024-05-08T15:30:00+00:00": 87.25499725341797,
+      "2024-05-08T16:30:00+00:00": 87.7300033569336,
+      "2024-05-08T17:30:00+00:00": 88.58000183105469,
+      "2024-05-08T18:30:00+00:00": 90.97000122070312,
+      "2024-05-08T19:30:00+00:00": 90.05000305175781
+    },
+    "sentiment": 0.9356690645217896
   },
   {
-    "title": "VST, PAM, CEG, and KEN are among utility movers",
-    "published": 1712279400,
-    "posting_price": 69.8663988,
-    "close_price": 74.70597839,
-    "percent_change": 6.92690574
+    "title": "Vistra reports Q1 revenue $3.05B, consensus $2.78B",
+    "published": 1715148480,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 81.77999877929688,
+      "2024-05-08T14:30:00+00:00": 88.98999786376953,
+      "2024-05-08T15:30:00+00:00": 87.25499725341797,
+      "2024-05-08T16:30:00+00:00": 87.7300033569336,
+      "2024-05-08T17:30:00+00:00": 88.58000183105469,
+      "2024-05-08T18:30:00+00:00": 90.97000122070312,
+      "2024-05-08T19:30:00+00:00": 90.05000305175781
+    },
+    "sentiment": 0.9116083383560181
   },
   {
-    "title": "The Return Trends At Vistra (NYSE:VST) Look Promising",
-    "published": 1712229094,
-    "posting_price": 73.94235354,
-    "close_price": 69.95565796,
-    "percent_change": -5.39162657
+    "title": "Aaon to replace Vistra in S&P 400 at open on 5/8",
+    "published": 1715140500,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 81.77999877929688,
+      "2024-05-08T14:30:00+00:00": 88.98999786376953,
+      "2024-05-08T15:30:00+00:00": 87.25499725341797,
+      "2024-05-08T16:30:00+00:00": 87.7300033569336,
+      "2024-05-08T17:30:00+00:00": 88.58000183105469,
+      "2024-05-08T18:30:00+00:00": 90.97000122070312,
+      "2024-05-08T19:30:00+00:00": 90.05000305175781
+    },
+    "sentiment": 0.9009150266647339
   },
   {
-    "title": "Vistra Moves Up In Market Cap Rank, Passing Builders FirstSource",
-    "published": 1712201760,
-    "posting_price": 73.94235354,
-    "close_price": 69.95565796,
-    "percent_change": -5.39162657
+    "title": "VST, WAVE, ARIS, and GNE are among utility movers",
+    "published": 1715130900,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 81.77999877929688,
+      "2024-05-08T14:30:00+00:00": 88.98999786376953,
+      "2024-05-08T15:30:00+00:00": 87.25499725341797,
+      "2024-05-08T16:30:00+00:00": 87.7300033569336,
+      "2024-05-08T17:30:00+00:00": 88.58000183105469,
+      "2024-05-08T18:30:00+00:00": 90.97000122070312,
+      "2024-05-08T19:30:00+00:00": 90.05000305175781
+    },
+    "sentiment": 0.9348152875900269
   },
   {
-    "title": "$100 Invested In This Stock 5 Years Ago Would Be Worth $300 Today",
-    "published": 1712108100,
-    "posting_price": 70.65977711,
-    "close_price": 73.14898682,
-    "percent_change": 3.52281002
+    "title": "Looking At Vistra's Recent Unusual Options Activity",
+    "published": 1716456060,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 96.0,
+      "2024-05-23T14:30:00+00:00": 94.77999877929688,
+      "2024-05-23T15:30:00+00:00": 96.08999633789062,
+      "2024-05-23T16:30:00+00:00": 96.02999877929688,
+      "2024-05-23T17:30:00+00:00": 97.53500366210938,
+      "2024-05-23T18:30:00+00:00": 96.48999786376953,
+      "2024-05-23T19:30:00+00:00": 96.26000213623047
+    },
+    "sentiment": 0.8955761790275574
   },
   {
-    "title": "Vistra's Options: A Look at What the Big Money is Thinking",
-    "published": 1714448880,
-    "posting_price": 77.18527455,
-    "close_price": 75.21175385,
-    "percent_change": -2.55686167
+    "title": "Victory Square Adds Tirzepatide to Weight Loss Offerings",
+    "published": 1716426480,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 96.0,
+      "2024-05-23T14:30:00+00:00": 94.77999877929688,
+      "2024-05-23T15:30:00+00:00": 96.08999633789062,
+      "2024-05-23T16:30:00+00:00": 96.02999877929688,
+      "2024-05-23T17:30:00+00:00": 97.53500366210938,
+      "2024-05-23T18:30:00+00:00": 96.48999786376953,
+      "2024-05-23T19:30:00+00:00": 96.26000213623047
+    },
+    "sentiment": 0.7113310694694519
   },
   {
-    "title": "Third Point\u2019s Dan Loeb adds to its investment in Advance Auto Parts",
-    "published": 1714444140,
-    "posting_price": 77.18527455,
-    "close_price": 75.21175385,
-    "percent_change": -2.55686167
+    "title": "TXU Energy Announces Recipients of 2024 Energy Leadership Awards",
+    "published": 1716404400,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 94.06999969482422,
+      "2024-05-22T14:30:00+00:00": 93.2750015258789,
+      "2024-05-22T15:30:00+00:00": 93.5250015258789,
+      "2024-05-22T16:30:00+00:00": 94.43499755859375,
+      "2024-05-22T17:30:00+00:00": 94.0999984741211,
+      "2024-05-22T18:30:00+00:00": 93.58000183105469,
+      "2024-05-22T19:30:00+00:00": 93.76000213623047
+    },
+    "sentiment": 0.6570228934288025
   },
   {
-    "title": "If You Invested $100 In This Stock 5 Years Ago, You Would Have $300 Today",
-    "published": 1714388460,
-    "posting_price": 72.7027119,
-    "close_price": 77.31419373,
-    "percent_change": 6.3429296
+    "title": "3 Growth Stocks That Could Be Millionaire-Makers: May Edition",
+    "published": 1716316588,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.7699966430664,
+      "2024-05-21T14:30:00+00:00": 93.0,
+      "2024-05-21T15:30:00+00:00": 93.02999877929688,
+      "2024-05-21T16:30:00+00:00": 93.25,
+      "2024-05-21T17:30:00+00:00": 93.49500274658203,
+      "2024-05-21T18:30:00+00:00": 93.36000061035156,
+      "2024-05-21T19:30:00+00:00": 93.66999816894531
+    },
+    "sentiment": 0.9056153297424316
   },
   {
-    "title": "Vistra Energy put volume heavy and directionally bearish",
-    "published": 1714383300,
-    "posting_price": 72.7027119,
-    "close_price": 77.31419373,
-    "percent_change": 6.3429296
+    "title": "The Unlikely Stocks That Became a Hot Bet on AI",
+    "published": 1716283800,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.7699966430664,
+      "2024-05-21T14:30:00+00:00": 93.0,
+      "2024-05-21T15:30:00+00:00": 93.02999877929688,
+      "2024-05-21T16:30:00+00:00": 93.25,
+      "2024-05-21T17:30:00+00:00": 93.49500274658203,
+      "2024-05-21T18:30:00+00:00": 93.36000061035156,
+      "2024-05-21T19:30:00+00:00": 93.66999816894531
+    },
+    "sentiment": 0.8122376203536987
   },
   {
-    "title": "Tesla\u2019s Autopilot Breakout Is Only The First Event Of A Busy News Week",
-    "published": 1714365480,
-    "posting_price": 72.7027119,
-    "close_price": 77.31419373,
-    "percent_change": 6.3429296
+    "title": "First Solar soars as UBS touts 'straight line' from AI-driven electricity demand",
+    "published": 1716260580,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.7699966430664,
+      "2024-05-21T14:30:00+00:00": 93.0,
+      "2024-05-21T15:30:00+00:00": 93.02999877929688,
+      "2024-05-21T16:30:00+00:00": 93.25,
+      "2024-05-21T17:30:00+00:00": 93.49500274658203,
+      "2024-05-21T18:30:00+00:00": 93.36000061035156,
+      "2024-05-21T19:30:00+00:00": 93.66999816894531
+    },
+    "sentiment": 0.8719669580459595
   },
   {
-    "title": "Here's Why Shareholders May Want To Be Cautious With Increasing Vistra Corp.'s (NYSE:VST) CEO Pay Packet",
-    "published": 1714129718,
-    "posting_price": 72.06801279,
-    "close_price": 72.09776306,
-    "percent_change": 0.04128082
+    "title": "Nvidia\u2019s stock is a bargain \u2014 provided this pattern continues",
+    "published": 1716197940,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 95.9749984741211,
+      "2024-05-20T14:30:00+00:00": 92.30999755859375,
+      "2024-05-20T15:30:00+00:00": 91.83000183105469,
+      "2024-05-20T16:30:00+00:00": 91.0999984741211,
+      "2024-05-20T17:30:00+00:00": 91.95999908447266,
+      "2024-05-20T18:30:00+00:00": 91.7300033569336,
+      "2024-05-20T19:30:00+00:00": 91.55000305175781
+    },
+    "sentiment": 0.8386820554733276
   },
   {
-    "title": "NorthWestern (NWE) Q1 Earnings Lag Estimates",
-    "published": 1714092002,
-    "posting_price": 72.06801279,
-    "close_price": 72.09776306,
-    "percent_change": 0.04128082
+    "title": "Shell, Constellation, First Solar among Barron's roundtable energy picks",
+    "published": 1716116100,
+    "day_prices": {},
+    "sentiment": 0.92171710729599
   },
   {
-    "title": "Wall Street Analysts See Vistra (VST) as a Buy: Should You Invest?",
-    "published": 1714051811,
-    "posting_price": 67.10942575,
-    "close_price": 71.87958527,
-    "percent_change": 7.10803209
+    "title": "Jim Cramer Recommends Buying This Sports Betting Company's Stock: 'I Think It's Terrific'",
+    "published": 1715932800,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 94.04000091552734,
+      "2024-05-17T14:30:00+00:00": 96.02999877929688,
+      "2024-05-17T15:30:00+00:00": 96.08000183105469,
+      "2024-05-17T16:30:00+00:00": 95.47000122070312,
+      "2024-05-17T17:30:00+00:00": 95.16000366210938,
+      "2024-05-17T18:30:00+00:00": 94.52999877929688,
+      "2024-05-17T19:30:00+00:00": 93.91999816894531
+    },
+    "sentiment": 0.6927013397216797
   },
   {
-    "title": "Is Most-Watched Stock Vistra Corp. (VST) Worth Betting on Now?",
-    "published": 1714050016,
-    "posting_price": 67.10942575,
-    "close_price": 71.87958527,
-    "percent_change": 7.10803209
+    "title": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+    "published": 1715908980,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 94.04000091552734,
+      "2024-05-17T14:30:00+00:00": 96.02999877929688,
+      "2024-05-17T15:30:00+00:00": 96.08000183105469,
+      "2024-05-17T16:30:00+00:00": 95.47000122070312,
+      "2024-05-17T17:30:00+00:00": 95.16000366210938,
+      "2024-05-17T18:30:00+00:00": 94.52999877929688,
+      "2024-05-17T19:30:00+00:00": 93.91999816894531
+    },
+    "sentiment": 0.9471481442451477
   },
   {
-    "title": "Vanguard\u2019s Hidden Gems: 3 Smaller ETFs Poised for Big Gains",
-    "published": 1714024980,
-    "posting_price": 67.10942575,
-    "close_price": 71.87958527,
-    "percent_change": 7.10803209
+    "title": "RBC Capital Remains a Buy on Vistra Energy (VST)",
+    "published": 1715849160,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 97.0,
+      "2024-05-16T14:30:00+00:00": 96.20999908447266,
+      "2024-05-16T15:30:00+00:00": 96.68000030517578,
+      "2024-05-16T16:30:00+00:00": 95.48999786376953,
+      "2024-05-16T17:30:00+00:00": 95.69999694824219,
+      "2024-05-16T18:30:00+00:00": 94.7699966430664,
+      "2024-05-16T19:30:00+00:00": 93.7699966430664
+    },
+    "sentiment": 0.9448050260543823
   },
   {
-    "title": "Fitch Affirms Vistra's Ratings; Outlook Stable",
-    "published": 1713938427,
-    "posting_price": 69.42013894,
-    "close_price": 69.87632751,
-    "percent_change": 0.65714154
-  },
-  {
-    "title": "Vistra Corp. (VST) Rises Higher Than Market: Key Facts",
-    "published": 1713822619,
-    "posting_price": 65.58218851,
-    "close_price": 66.16730499,
-    "percent_change": 0.8921881
-  },
-  {
-    "title": "Janney Montgomery Scott Initiates Coverage of Vistra (VST) with Buy Recommendation",
-    "published": 1713457426,
-    "posting_price": 68.41849695,
-    "close_price": 65.33425903,
-    "percent_change": -4.50790072
-  },
-  {
-    "title": "What 7 Analyst Ratings Have To Say About Vistra",
-    "published": 1713423960,
-    "posting_price": 68.41849695,
-    "close_price": 65.33425903,
-    "percent_change": -4.50790072
-  },
-  {
-    "title": "Janney Montgomery Scott initiates 'undervalued' Vistra with a Buy",
-    "published": 1713422520,
-    "posting_price": 68.41849695,
-    "close_price": 65.33425903,
-    "percent_change": -4.50790072
-  },
-  {
-    "title": "Vistra initiated with bullish view at Janney Montgomery Scott, here's why",
-    "published": 1713418920,
-    "posting_price": 68.41849695,
-    "close_price": 65.33425903,
-    "percent_change": -4.50790072
-  },
-  {
-    "title": "Vistra Reaches Analyst Target Price",
-    "published": 1713418140,
-    "posting_price": 68.41849695,
-    "close_price": 65.33425903,
-    "percent_change": -4.50790072
-  },
-  {
-    "title": "Vistra (VST) Price Target Increased by 17.65% to 69.87",
-    "published": 1713333412,
-    "posting_price": 68.05156381,
-    "close_price": 68.08131409,
-    "percent_change": 0.04371726
-  },
-  {
-    "title": "Vistra Corp. (VST) Stock Sinks As Market Gains: Here's Why",
-    "published": 1713304220,
-    "posting_price": 67.80364191,
-    "close_price": 67.04001617,
-    "percent_change": -1.12623116
-  },
-  {
-    "title": "$1000 Invested In Vistra 5 Years Ago Would Be Worth This Much Today",
-    "published": 1713261720,
-    "posting_price": 67.80364191,
-    "close_price": 67.04001617,
-    "percent_change": -1.12623116
+    "title": "Coatue Management top Q1 moves: exits Apple, Disney, takes in Qualcomm, piles into TSMC",
+    "published": 1715821800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 97.0,
+      "2024-05-16T14:30:00+00:00": 96.20999908447266,
+      "2024-05-16T15:30:00+00:00": 96.68000030517578,
+      "2024-05-16T16:30:00+00:00": 95.48999786376953,
+      "2024-05-16T17:30:00+00:00": 95.69999694824219,
+      "2024-05-16T18:30:00+00:00": 94.7699966430664,
+      "2024-05-16T19:30:00+00:00": 93.7699966430664
+    },
+    "sentiment": 0.8820857405662537
   }
 ]

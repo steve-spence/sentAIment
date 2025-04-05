@@ -1,639 +1,518 @@
 [
   {
-    "title": "CME Group Metals Complex Reaches All-Time Daily Volume Record",
-    "published": 1713207900,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "CME Group: Appealing Business Characteristics That Could Benefit From Geopolitical Uncertainty",
-    "published": 1713178550,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "CME Group International Average Daily Volume Reached Quarterly Record of 7.4 Million Contracts in Q1 2024",
-    "published": 1713164400,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "Commodity Roundup: Israel-Iran conflict adds to gold's safe-haven appeal",
-    "published": 1713157380,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "CME Group reports Q1 international ADV 7.4M contracts",
-    "published": 1713154200,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "CME reports record Q1 international average daily volume of 7.4 mln contracts",
-    "published": 1713149340,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "GLOBAL BRIEFING: Middle East escalation hurts risk appetite",
-    "published": 1713141240,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "Stock market today: Asian shares track Wall Street slump triggered by strong US spending data",
-    "published": 1713140820,
-    "posting_price": 201.70397799,
-    "close_price": 197.10676575,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "CME bans Russian-origin aluminium after U.S., UK impose new sanctions",
-    "published": 1713119709,
-    "posting_price": 201.70399361,
-    "close_price": 197.10678101,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "UPDATE 2-LME bans Russian-origin metal after UK, US impose new sanctions",
-    "published": 1713024774,
-    "posting_price": 201.70399361,
-    "close_price": 197.10678101,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "US and Britain ban trading Russian metals on biggest world exchanges",
-    "published": 1712980320,
-    "posting_price": 201.70399361,
-    "close_price": 197.10678101,
-    "percent_change": -2.27918769
-  },
-  {
-    "title": "The US and UK restrict the trade of Russian-origin metals",
-    "published": 1712945520,
-    "posting_price": 203.00383583,
-    "close_price": 200.23213196,
-    "percent_change": -1.36534557
-  },
-  {
-    "title": "Piper Sandler Sticks to Its Buy Rating for CME Group (CME)",
-    "published": 1712906880,
-    "posting_price": 203.00383583,
-    "close_price": 200.23213196,
-    "percent_change": -1.36534557
-  },
-  {
-    "title": "Here It Is! My 20-Stock 6-Figure Market-Beating Dividend Portfolio",
-    "published": 1712905200,
-    "posting_price": 203.00383583,
-    "close_price": 200.23213196,
-    "percent_change": -1.36534557
-  },
-  {
-    "title": "Canadian Metals Inc. Initiates Share Consolidation",
-    "published": 1712900280,
-    "posting_price": 203.00383583,
-    "close_price": 200.23213196,
-    "percent_change": -1.36534557
-  },
-  {
-    "title": "Stock market today: Asia stocks are mostly lower after Wall St rebound led by Big Tech",
-    "published": 1712803980,
-    "posting_price": 202.24878032,
-    "close_price": 203.35746765,
-    "percent_change": 0.54817998
-  },
-  {
-    "title": "Fed Suffers Setback in Inflation Fight. But It\u2019s Too Early to Talk Rate Hikes.",
-    "published": 1712770800,
-    "posting_price": 201.10187823,
-    "close_price": 202.62153625,
-    "percent_change": 0.75566575
-  },
-  {
-    "title": "Stock market today: Asian shares are mixed, taking hot US inflation data in stride",
-    "published": 1712718300,
-    "posting_price": 201.10187823,
-    "close_price": 202.62153625,
-    "percent_change": 0.75566575
-  },
-  {
-    "title": "CME Group Micro U.S. Treasury Futures Surpass 100,000 Contracts Traded",
-    "published": 1712683740,
-    "posting_price": 204.31322048,
-    "close_price": 200.49972534,
-    "percent_change": -1.86649456
-  },
-  {
-    "title": "CME Group price target raised by $3 at Morgan Stanley, here's why",
-    "published": 1712647920,
-    "posting_price": 204.31322048,
-    "close_price": 200.49972534,
-    "percent_change": -1.86649456
-  },
-  {
-    "title": "Stock market today: Asian markets are mixed after a slow day on Wall St ahead of US inflation update",
-    "published": 1712635800,
-    "posting_price": 204.31322048,
-    "close_price": 200.49972534,
-    "percent_change": -1.86649456
-  },
-  {
-    "title": "Record-Breaking Block Trade in SOFR Futures Elevates Treasury Market",
-    "published": 1712632740,
-    "posting_price": 204.31322048,
-    "close_price": 200.49972534,
-    "percent_change": -1.86649456
-  },
-  {
-    "title": "CME Group (CME) Gets a Hold from Barclays",
-    "published": 1712551860,
-    "posting_price": 201.70397395,
-    "close_price": 203.33833313,
-    "percent_change": 0.81027614
-  },
-  {
-    "title": "Stock market today: Asia stocks rise with market focus on signs of interest rate cut",
-    "published": 1712532300,
-    "posting_price": 201.70398909,
-    "close_price": 203.33834839,
-    "percent_change": 0.81027614
-  },
-  {
-    "title": "Financials Up on Rate Bets -- Financials Roundup",
-    "published": 1712339152,
-    "posting_price": 202.0194131,
-    "close_price": 201.74224854,
-    "percent_change": -0.13719699
-  },
-  {
-    "title": "CME Group downgraded to Hold from Buy at Deutsche Bank (earlier)",
-    "published": 1712308920,
-    "posting_price": 202.0194131,
-    "close_price": 201.74224854,
-    "percent_change": -0.13719699
-  },
-  {
-    "title": "CME Group cut to Hold at Deutsche Bank on lower trading volume outlook",
-    "published": 1712308620,
-    "posting_price": 202.0194131,
-    "close_price": 201.74224854,
-    "percent_change": -0.13719699
-  },
-  {
-    "title": "SPDR ETF Report For Thursday, April 4",
-    "published": 1712217360,
-    "posting_price": 203.73977367,
-    "close_price": 202.82225037,
-    "percent_change": -0.45034079
-  },
-  {
-    "title": "CME Group Inc: Network effect",
-    "published": 1712205510,
-    "posting_price": 203.73977367,
-    "close_price": 202.82225037,
-    "percent_change": -0.45034079
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Skyward Specialty Insurance Group, Inc. (SKWD) and CME Group (CME)",
-    "published": 1712148060,
-    "posting_price": 205.29767224,
-    "close_price": 202.65020752,
-    "percent_change": -1.28957367
-  },
-  {
-    "title": "Analyst Scoreboard: 4 Ratings For CME Gr",
-    "published": 1712116980,
-    "posting_price": 205.29767224,
-    "close_price": 202.65020752,
-    "percent_change": -1.28957367
-  },
-  {
-    "title": "Barclays Remains a Hold on CME Group (CME)",
-    "published": 1712113020,
-    "posting_price": 205.29767224,
-    "close_price": 202.65020752,
-    "percent_change": -1.28957367
-  },
-  {
-    "title": "US NYMEX natgas average daily futures, options volume rises in March",
-    "published": 1712068051,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "CME Group \u20acSTR Options to Launch on May 20",
-    "published": 1712067840,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "Lithium Trading Hits Record on CME as Funds Seize Budding Market",
-    "published": 1712065558,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "Farmer sentiment improves as interest rate expectations shift",
-    "published": 1712064600,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "Tullett Prebon launches battery metals trading desk",
-    "published": 1712061833,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "CME Group Reports March and Q1 2024 Market Statistics",
-    "published": 1712057400,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights NVIDIA, CME Group, Coinbase Global and BlackRock",
-    "published": 1712051160,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "CME Group ADV falls month-on-month in March",
-    "published": 1712042100,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "CME Group reached ADV of 24.3M contracts in March",
-    "published": 1712039520,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "Stock market today: Global stocks mixed after strong US factory data prompt Wall St retreat",
-    "published": 1712029320,
-    "posting_price": 202.65975616,
-    "close_price": 205.29766846,
-    "percent_change": 1.30164585
-  },
-  {
-    "title": "CME Saw Busiest Day for Yen Trades Since 2016 as Currency Surged",
-    "published": 1714483411,
-    "posting_price": 199.85938361,
-    "close_price": 200.36593628,
-    "percent_change": 0.25345453
-  },
-  {
-    "title": "FMX-owner BGC's profit jumps on rates, energy trading",
-    "published": 1714478453,
-    "posting_price": 199.85938361,
-    "close_price": 200.36593628,
-    "percent_change": 0.25345453
-  },
-  {
-    "title": "CME Group Shares Cross Below 200 DMA",
-    "published": 1714473060,
-    "posting_price": 199.85938361,
-    "close_price": 200.36593628,
-    "percent_change": 0.25345453
-  },
-  {
-    "title": "$1000 Invested In CME Gr 20 Years Ago Would Be Worth This Much Today",
-    "published": 1714448100,
-    "posting_price": 199.85938361,
-    "close_price": 200.36593628,
-    "percent_change": 0.25345453
-  },
-  {
-    "title": "Nasdaq: Operating Leverage Embedded Given Revenue Mix; Multiple Expansion Is Warranted",
-    "published": 1714146076,
-    "posting_price": 202.54505626,
-    "close_price": 201.6084137,
-    "percent_change": -0.46243664
-  },
-  {
-    "title": "CME Group Inc. (NASDAQ:CME) Q1 2024 Earnings Call Transcript",
-    "published": 1714069224,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Cantor's Lutnick Is Ready to Take on the CME",
-    "published": 1714065210,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Nasdaq's (NDAQ) Q1 Earnings Miss, Revenues Top, Dividend Raised",
-    "published": 1714064820,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "BGC Group takes aim at 'heavyweight champ' CME exchange",
-    "published": 1714063541,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "KBW Reaffirms Their Hold Rating on CME Group (CME)",
-    "published": 1714048020,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Lutnick Lands Wall Street Giants for His Futures Fight With CME",
-    "published": 1714042800,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: CME Group (CME) and Synchrony Financial (SYF)",
-    "published": 1714028820,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "CME Group Inc (CME) Q1 2024 Earnings Call Transcript Highlights: Robust Growth and Strategic ...",
-    "published": 1714028674,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Deep Dive Into CME Gr Stock: Analyst Perspectives (7 Ratings)",
-    "published": 1714028400,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "CME Group price target raised by $7 at BofA, here's why",
-    "published": 1714025580,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Financial Companies: GooseHead Insurance (GSHD), Raymond James Financial (RJF) and CME Group (CME)",
-    "published": 1714025520,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "Q1 2024 CME Group Inc Earnings Call",
-    "published": 1714018930,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "CME Group price target raised by $2 at Barclays, here's why",
-    "published": 1714017600,
-    "posting_price": 202.95605176,
-    "close_price": 203.13763428,
-    "percent_change": 0.08946889
-  },
-  {
-    "title": "CME Group (CME) Q1 Earnings Top Estimates, Revenues Rise Y/Y",
-    "published": 1713967140,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME (CME) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1713965429,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "Treasury Yields Rise, Tesla Jumps On Cheaper Model Pledge, Yen Plummets To 34-Year Lows: What's Driving Markets Wednesday?",
-    "published": 1713962700,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group Inc (CME) Q1 2024 Earnings: Adjusted EPS Outperforms Estimates",
-    "published": 1713961895,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group (CME) Q1 2024 Earnings Call Transcript",
-    "published": 1713961802,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "UPDATE 3-CME Group's profit beats on rising US Treasuries-related derivatives demand",
-    "published": 1713958704,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group's adjusted profit beats on rising US Treasuries-related derivatives demand",
-    "published": 1713957354,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group Inc. Reports First-Quarter 2024 Financial Results",
-    "published": 1713956400,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Stock Earnings: CME Gr Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713956220,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group Q1 earnings beat consensus, as clearing and transaction fees rise",
-    "published": 1713943680,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME: Q1 Earnings Snapshot",
-    "published": 1713942840,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group's first-quarter adjusted profit rises on trading strength",
-    "published": 1713942417,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Non-GAAP EPS of $2.50 beats by $0.05, revenue of $1.5B beats by $20M",
-    "published": 1713938880,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group reports Q1 EPS adjusted $2.50, consensus $2.45",
-    "published": 1713938580,
-    "posting_price": 206.09094923,
-    "close_price": 203.1854248,
-    "percent_change": -1.40982631
-  },
-  {
-    "title": "CME Group U.S. Credit Futures to Begin Trading on June 17",
-    "published": 1713877200,
-    "posting_price": 205.49836119,
-    "close_price": 207.18051147,
-    "percent_change": 0.81857114
-  },
-  {
-    "title": "CME Q1 2024 Earnings Preview",
-    "published": 1713871380,
-    "posting_price": 205.49836119,
-    "close_price": 207.18051147,
-    "percent_change": 0.81857114
-  },
-  {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1713864720,
-    "posting_price": 205.49836119,
-    "close_price": 207.18051147,
-    "percent_change": 0.81857114
-  },
-  {
-    "title": "Is CME Group (CME) Far From an Average Business?",
-    "published": 1713857361,
-    "posting_price": 205.49836119,
-    "close_price": 207.18051147,
-    "percent_change": 0.81857114
-  },
-  {
-    "title": "Not A Millionaire? No Problem! Here's A 10-Stock Portfolio To Retire Comfortably",
-    "published": 1713855620,
-    "posting_price": 205.49836119,
-    "close_price": 207.18051147,
-    "percent_change": 0.81857114
-  },
-  {
-    "title": "Stock market today: Tokyo's Nikkei leads Asian gains following Wall Street rally",
-    "published": 1713841680,
-    "posting_price": 205.49836119,
-    "close_price": 207.18051147,
-    "percent_change": 0.81857114
-  },
-  {
-    "title": "That One Important Chart Dividend Investors Need To Watch",
-    "published": 1713769200,
-    "posting_price": 203.86401685,
-    "close_price": 205.9475708,
-    "percent_change": 1.02203125
-  },
-  {
-    "title": "Earnings week ahead: Tesla, Meta Platforms, Google, Microsoft, Intel, Exxon Mobil, and more",
-    "published": 1713683100,
-    "posting_price": 203.86401685,
-    "close_price": 205.9475708,
-    "percent_change": 1.02203125
-  },
-  {
-    "title": "20 Years To $300k? Building A $10,000 Dividend Portfolio From Scratch",
-    "published": 1713596400,
-    "posting_price": 203.86401685,
-    "close_price": 205.9475708,
-    "percent_change": 1.02203125
-  },
-  {
-    "title": "Here's What to Expect From CME Group (CME) in Q1 Earnings",
-    "published": 1713544440,
-    "posting_price": 201.93337334,
-    "close_price": 203.61550903,
-    "percent_change": 0.8330152
-  },
-  {
-    "title": "CME Group: A Sleep Well At Night Company To Own",
-    "published": 1713426992,
-    "posting_price": 200.85335396,
-    "close_price": 200.37547302,
-    "percent_change": -0.2379253
-  },
-  {
-    "title": "Suddenly, There's An Alternative - The Important Case For Wide Moat Dividend Stocks",
-    "published": 1713423600,
-    "posting_price": 200.85335396,
-    "close_price": 200.37547302,
-    "percent_change": -0.2379253
-  },
-  {
-    "title": "Stock market today: Asian markets sink, with Japan\u2019s Nikkei down 3.5%, as Mideast tensions flare",
-    "published": 1713413880,
-    "posting_price": 200.85335396,
-    "close_price": 200.37547302,
-    "percent_change": -0.2379253
-  },
-  {
-    "title": "Why the Stock Market Will Continue to Fall and What to Do Now",
-    "published": 1713408420,
-    "posting_price": 200.85335396,
-    "close_price": 200.37547302,
-    "percent_change": -0.2379253
-  },
-  {
-    "title": "CME Group (CME) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1713362466,
-    "posting_price": 198.85583051,
-    "close_price": 199.1999054,
-    "percent_change": 0.17302731
+    "title": "CME to expand suite of short-term WTI crude oil options",
+    "published": 1715073360,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 208.6300048828125,
+      "2024-05-07T14:30:00+00:00": 207.94000244140625,
+      "2024-05-07T15:30:00+00:00": 207.6365966796875,
+      "2024-05-07T16:30:00+00:00": 207.96499633789062,
+      "2024-05-07T17:30:00+00:00": 207.89999389648438,
+      "2024-05-07T18:30:00+00:00": 208.32000732421875,
+      "2024-05-07T19:30:00+00:00": 208.11500549316406
+    },
+    "sentiment": 0.6440075635910034
+  },
+  {
+    "title": "Stock market today: Asian shares mixed after calm day on Wall St",
+    "published": 1715049000,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 208.6300048828125,
+      "2024-05-07T14:30:00+00:00": 207.94000244140625,
+      "2024-05-07T15:30:00+00:00": 207.6365966796875,
+      "2024-05-07T16:30:00+00:00": 207.96499633789062,
+      "2024-05-07T17:30:00+00:00": 207.89999389648438,
+      "2024-05-07T18:30:00+00:00": 208.32000732421875,
+      "2024-05-07T19:30:00+00:00": 208.11500549316406
+    },
+    "sentiment": 0.8816121816635132
+  },
+  {
+    "title": "July 19th Options Now Available For CME Group",
+    "published": 1714731360,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 205.82000732421875,
+      "2024-05-03T14:30:00+00:00": 205.8699951171875,
+      "2024-05-03T15:30:00+00:00": 205.53500366210938,
+      "2024-05-03T16:30:00+00:00": 206.92999267578125,
+      "2024-05-03T17:30:00+00:00": 207.27999877929688,
+      "2024-05-03T18:30:00+00:00": 206.97500610351562,
+      "2024-05-03T19:30:00+00:00": 207.4199981689453
+    },
+    "sentiment": 0.9429358243942261
+  },
+  {
+    "title": "CME Group Reports Record April ADV of 26.5 Million Contracts, with Double-Digit Growth Across All Asset Classes",
+    "published": 1714649400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 209.55999755859375,
+      "2024-05-02T14:30:00+00:00": 207.1699981689453,
+      "2024-05-02T15:30:00+00:00": 208.25,
+      "2024-05-02T16:30:00+00:00": 208.0399932861328,
+      "2024-05-02T17:30:00+00:00": 207.73500061035156,
+      "2024-05-02T18:30:00+00:00": 207.6199951171875,
+      "2024-05-02T19:30:00+00:00": 207.5
+    },
+    "sentiment": 0.9490034580230713
+  },
+  {
+    "title": "CME Group reports record April ADV of 26.5M contracts",
+    "published": 1714633320,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 209.55999755859375,
+      "2024-05-02T14:30:00+00:00": 207.1699981689453,
+      "2024-05-02T15:30:00+00:00": 208.25,
+      "2024-05-02T16:30:00+00:00": 208.0399932861328,
+      "2024-05-02T17:30:00+00:00": 207.73500061035156,
+      "2024-05-02T18:30:00+00:00": 207.6199951171875,
+      "2024-05-02T19:30:00+00:00": 207.5
+    },
+    "sentiment": 0.8439077138900757
+  },
+  {
+    "title": "Stock market today: Asian shares advance ahead of US jobs report",
+    "published": 1714619340,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 209.55999755859375,
+      "2024-05-02T14:30:00+00:00": 207.1699981689453,
+      "2024-05-02T15:30:00+00:00": 208.25,
+      "2024-05-02T16:30:00+00:00": 208.0399932861328,
+      "2024-05-02T17:30:00+00:00": 207.73500061035156,
+      "2024-05-02T18:30:00+00:00": 207.6199951171875,
+      "2024-05-02T19:30:00+00:00": 207.5
+    },
+    "sentiment": 0.8835092186927795
+  },
+  {
+    "title": "CME Group Reaches New Milestones in Aluminum Futures as New Clients Double",
+    "published": 1714579920,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 208.9499969482422,
+      "2024-05-01T14:30:00+00:00": 209.3249969482422,
+      "2024-05-01T15:30:00+00:00": 209.77999877929688,
+      "2024-05-01T16:30:00+00:00": 209.81500244140625,
+      "2024-05-01T17:30:00+00:00": 209.8300018310547,
+      "2024-05-01T18:30:00+00:00": 209.73500061035156,
+      "2024-05-01T19:30:00+00:00": 209.5500030517578
+    },
+    "sentiment": 0.9351028800010681
+  },
+  {
+    "title": "UPDATE 2-Trafigura, IXM caught in COMEX copper short squeeze as prices hit record",
+    "published": 1715786824,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 209.83999633789062,
+      "2024-05-15T14:30:00+00:00": 208.05999755859375,
+      "2024-05-15T15:30:00+00:00": 209.42999267578125,
+      "2024-05-15T16:30:00+00:00": 209.0800018310547,
+      "2024-05-15T17:30:00+00:00": 208.86000061035156,
+      "2024-05-15T18:30:00+00:00": 208.66000366210938,
+      "2024-05-15T19:30:00+00:00": 208.47000122070312
+    },
+    "sentiment": 0.8814120292663574
+  },
+  {
+    "title": "B3 Q1 2024: The Expected Recovery Has Not Yet Occurred",
+    "published": 1715764347,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 209.83999633789062,
+      "2024-05-15T14:30:00+00:00": 208.05999755859375,
+      "2024-05-15T15:30:00+00:00": 209.42999267578125,
+      "2024-05-15T16:30:00+00:00": 209.0800018310547,
+      "2024-05-15T17:30:00+00:00": 208.86000061035156,
+      "2024-05-15T18:30:00+00:00": 208.66000366210938,
+      "2024-05-15T19:30:00+00:00": 208.47000122070312
+    },
+    "sentiment": 0.5385059118270874
+  },
+  {
+    "title": "Market Today: Cisco Surges on Strong Guidance, Major Hedge Fund Portfolio Updates",
+    "published": 1715747580,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 209.83999633789062,
+      "2024-05-15T14:30:00+00:00": 208.05999755859375,
+      "2024-05-15T15:30:00+00:00": 209.42999267578125,
+      "2024-05-15T16:30:00+00:00": 209.0800018310547,
+      "2024-05-15T17:30:00+00:00": 208.86000061035156,
+      "2024-05-15T18:30:00+00:00": 208.66000366210938,
+      "2024-05-15T19:30:00+00:00": 208.47000122070312
+    },
+    "sentiment": 0.9407756924629211
+  },
+  {
+    "title": "Intercontinental Exchange Faces Headwinds As The CME/ICE Grip On Futures Weakens",
+    "published": 1715692744,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 209.1300048828125,
+      "2024-05-14T14:30:00+00:00": 208.36700439453125,
+      "2024-05-14T15:30:00+00:00": 207.66000366210938,
+      "2024-05-14T16:30:00+00:00": 207.6909942626953,
+      "2024-05-14T17:30:00+00:00": 208.4290008544922,
+      "2024-05-14T18:30:00+00:00": 208.7550048828125,
+      "2024-05-14T19:30:00+00:00": 209.44000244140625
+    },
+    "sentiment": 0.969585120677948
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds CME Group",
+    "published": 1715337180,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 212.69000244140625,
+      "2024-05-10T14:30:00+00:00": 211.38999938964844,
+      "2024-05-10T15:30:00+00:00": 211.30999755859375,
+      "2024-05-10T16:30:00+00:00": 210.3800048828125,
+      "2024-05-10T17:30:00+00:00": 209.52999877929688,
+      "2024-05-10T18:30:00+00:00": 208.25,
+      "2024-05-10T19:30:00+00:00": 208.33999633789062
+    },
+    "sentiment": 0.9470171928405762
+  },
+  {
+    "title": "CME Group Inc. Announces Preliminary Results from its 2024 Annual Meeting of Shareholders",
+    "published": 1715278200,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 211.83999633789062,
+      "2024-05-09T14:30:00+00:00": 211.6699981689453,
+      "2024-05-09T15:30:00+00:00": 212.05999755859375,
+      "2024-05-09T16:30:00+00:00": 213.1300048828125,
+      "2024-05-09T17:30:00+00:00": 213.1300048828125,
+      "2024-05-09T18:30:00+00:00": 212.48500061035156,
+      "2024-05-09T19:30:00+00:00": 212.97000122070312
+    },
+    "sentiment": 0.9356134533882141
+  },
+  {
+    "title": "CME declares $1.15 dividend",
+    "published": 1715240400,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 211.83999633789062,
+      "2024-05-09T14:30:00+00:00": 211.6699981689453,
+      "2024-05-09T15:30:00+00:00": 212.05999755859375,
+      "2024-05-09T16:30:00+00:00": 213.1300048828125,
+      "2024-05-09T17:30:00+00:00": 213.1300048828125,
+      "2024-05-09T18:30:00+00:00": 212.48500061035156,
+      "2024-05-09T19:30:00+00:00": 212.97000122070312
+    },
+    "sentiment": 0.8134133219718933
+  },
+  {
+    "title": "Stock market today: Asian shares mixed after Wall Street's lull stretches to a 2nd day",
+    "published": 1715137260,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 208.8699951171875,
+      "2024-05-08T14:30:00+00:00": 207.08999633789062,
+      "2024-05-08T15:30:00+00:00": 207.5,
+      "2024-05-08T16:30:00+00:00": 208.64500427246094,
+      "2024-05-08T17:30:00+00:00": 209.9199981689453,
+      "2024-05-08T18:30:00+00:00": 210.27000427246094,
+      "2024-05-08T19:30:00+00:00": 210.86500549316406
+    },
+    "sentiment": 0.7286333441734314
+  },
+  {
+    "title": "CME Group Breaks Below 200-Day Moving Average - Notable for CME",
+    "published": 1716374460,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 208.8699951171875,
+      "2024-05-22T14:30:00+00:00": 210.5850067138672,
+      "2024-05-22T15:30:00+00:00": 210.35000610351562,
+      "2024-05-22T16:30:00+00:00": 210.8249969482422,
+      "2024-05-22T17:30:00+00:00": 210.97000122070312,
+      "2024-05-22T18:30:00+00:00": 211.02000427246094,
+      "2024-05-22T19:30:00+00:00": 211.64999389648438
+    },
+    "sentiment": 0.5739490985870361
   },
   {
     "title": "CME Group Inc. Cl A stock outperforms competitors on strong trading day",
-    "published": 1713325680,
-    "posting_price": 198.85583051,
-    "close_price": 199.1999054,
-    "percent_change": 0.17302731
+    "published": 1716349620,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 208.8699951171875,
+      "2024-05-22T14:30:00+00:00": 210.5850067138672,
+      "2024-05-22T15:30:00+00:00": 210.35000610351562,
+      "2024-05-22T16:30:00+00:00": 210.8249969482422,
+      "2024-05-22T17:30:00+00:00": 210.97000122070312,
+      "2024-05-22T18:30:00+00:00": 211.02000427246094,
+      "2024-05-22T19:30:00+00:00": 211.64999389648438
+    },
+    "sentiment": 0.9286198019981384
   },
   {
-    "title": "$100 Invested In This Stock 20 Years Ago Would Be Worth $900 Today",
-    "published": 1713240360,
-    "posting_price": 198.17724118,
-    "close_price": 197.34571838,
-    "percent_change": -0.41958542
+    "title": "CME Group expands fixed income offerings",
+    "published": 1716276600,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 212.0,
+      "2024-05-21T14:30:00+00:00": 211.99000549316406,
+      "2024-05-21T15:30:00+00:00": 211.4250030517578,
+      "2024-05-21T16:30:00+00:00": 210.99000549316406,
+      "2024-05-21T17:30:00+00:00": 211.03500366210938,
+      "2024-05-21T18:30:00+00:00": 210.99000549316406,
+      "2024-05-21T19:30:00+00:00": 211.0
+    },
+    "sentiment": 0.6151724457740784
+  },
+  {
+    "title": "JPM lists stocks with the least price swings, most attractive option-sale candidates",
+    "published": 1716263280,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 212.0,
+      "2024-05-21T14:30:00+00:00": 211.99000549316406,
+      "2024-05-21T15:30:00+00:00": 211.4250030517578,
+      "2024-05-21T16:30:00+00:00": 210.99000549316406,
+      "2024-05-21T17:30:00+00:00": 211.03500366210938,
+      "2024-05-21T18:30:00+00:00": 210.99000549316406,
+      "2024-05-21T19:30:00+00:00": 211.0
+    },
+    "sentiment": 0.8605014681816101
+  },
+  {
+    "title": "Paradigm Shift! 4 Of My Favorite Dividend Stocks To Buy Right Now",
+    "published": 1716105600,
+    "day_prices": {},
+    "sentiment": 0.9134523868560791
+  },
+  {
+    "title": "Here's Why You Should Stay Invested in CME Group (CME) Stock",
+    "published": 1715963400,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 214.32000732421875,
+      "2024-05-17T14:30:00+00:00": 213.1649932861328,
+      "2024-05-17T15:30:00+00:00": 213.0,
+      "2024-05-17T16:30:00+00:00": 212.5399932861328,
+      "2024-05-17T17:30:00+00:00": 213.2100067138672,
+      "2024-05-17T18:30:00+00:00": 212.53500366210938,
+      "2024-05-17T19:30:00+00:00": 212.9199981689453
+    },
+    "sentiment": 0.9159337878227234
+  },
+  {
+    "title": "Crypto Roundup: MSTR\u2019s MSCI Inclusion; Hong Kong ETFs; COIN\u2019s Australia Move",
+    "published": 1715937840,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 214.32000732421875,
+      "2024-05-17T14:30:00+00:00": 213.1649932861328,
+      "2024-05-17T15:30:00+00:00": 213.0,
+      "2024-05-17T16:30:00+00:00": 212.5399932861328,
+      "2024-05-17T17:30:00+00:00": 213.2100067138672,
+      "2024-05-17T18:30:00+00:00": 212.53500366210938,
+      "2024-05-17T19:30:00+00:00": 212.9199981689453
+    },
+    "sentiment": 0.934177041053772
+  },
+  {
+    "title": "Bitcoin Derivatives Traders Sees Short-Term Correction in BTC Despite Softer Inflation",
+    "published": 1715925092,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 214.32000732421875,
+      "2024-05-17T14:30:00+00:00": 213.1649932861328,
+      "2024-05-17T15:30:00+00:00": 213.0,
+      "2024-05-17T16:30:00+00:00": 212.5399932861328,
+      "2024-05-17T17:30:00+00:00": 213.2100067138672,
+      "2024-05-17T18:30:00+00:00": 212.53500366210938,
+      "2024-05-17T19:30:00+00:00": 212.9199981689453
+    },
+    "sentiment": 0.8270264863967896
+  },
+  {
+    "title": "Coinbase Stock Is Down. A New Crypto-Trading Rival May Be About to Emerge.",
+    "published": 1715893800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 208.25999450683594,
+      "2024-05-16T14:30:00+00:00": 211.4600067138672,
+      "2024-05-16T15:30:00+00:00": 211.30999755859375,
+      "2024-05-16T16:30:00+00:00": 211.38999938964844,
+      "2024-05-16T17:30:00+00:00": 211.89999389648438,
+      "2024-05-16T18:30:00+00:00": 212.10850524902344,
+      "2024-05-16T19:30:00+00:00": 212.78500366210938
+    },
+    "sentiment": 0.9441669583320618
+  },
+  {
+    "title": "Coinbase stock slides after report of CME planning to launch bitcoin trading",
+    "published": 1715862960,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 208.25999450683594,
+      "2024-05-16T14:30:00+00:00": 211.4600067138672,
+      "2024-05-16T15:30:00+00:00": 211.30999755859375,
+      "2024-05-16T16:30:00+00:00": 211.38999938964844,
+      "2024-05-16T17:30:00+00:00": 211.89999389648438,
+      "2024-05-16T18:30:00+00:00": 212.10850524902344,
+      "2024-05-16T19:30:00+00:00": 212.78500366210938
+    },
+    "sentiment": 0.8926723599433899
+  },
+  {
+    "title": "UPDATE 2-CME boosts margins for copper futures after sizzling rally to record",
+    "published": 1715860953,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 208.25999450683594,
+      "2024-05-16T14:30:00+00:00": 211.4600067138672,
+      "2024-05-16T15:30:00+00:00": 211.30999755859375,
+      "2024-05-16T16:30:00+00:00": 211.38999938964844,
+      "2024-05-16T17:30:00+00:00": 211.89999389648438,
+      "2024-05-16T18:30:00+00:00": 212.10850524902344,
+      "2024-05-16T19:30:00+00:00": 212.78500366210938
+    },
+    "sentiment": 0.9453320503234863
+  },
+  {
+    "title": "Futures exchange operator CME Group plans to launch bitcoin trading, FT reports",
+    "published": 1715848203,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 208.25999450683594,
+      "2024-05-16T14:30:00+00:00": 211.4600067138672,
+      "2024-05-16T15:30:00+00:00": 211.30999755859375,
+      "2024-05-16T16:30:00+00:00": 211.38999938964844,
+      "2024-05-16T17:30:00+00:00": 211.89999389648438,
+      "2024-05-16T18:30:00+00:00": 212.10850524902344,
+      "2024-05-16T19:30:00+00:00": 212.78500366210938
+    },
+    "sentiment": 0.9104905724525452
+  },
+  {
+    "title": "What You Missed On Wall Street On Thursday",
+    "published": 1715829360,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 208.25999450683594,
+      "2024-05-16T14:30:00+00:00": 211.4600067138672,
+      "2024-05-16T15:30:00+00:00": 211.30999755859375,
+      "2024-05-16T16:30:00+00:00": 211.38999938964844,
+      "2024-05-16T17:30:00+00:00": 211.89999389648438,
+      "2024-05-16T18:30:00+00:00": 212.10850524902344,
+      "2024-05-16T19:30:00+00:00": 212.78500366210938
+    },
+    "sentiment": 0.9199742078781128
+  },
+  {
+    "title": "CME Group Eyes Bitcoin Trading Amid Surging Wall Street Demand (UPDATED)",
+    "published": 1715823900,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 208.25999450683594,
+      "2024-05-16T14:30:00+00:00": 211.4600067138672,
+      "2024-05-16T15:30:00+00:00": 211.30999755859375,
+      "2024-05-16T16:30:00+00:00": 211.38999938964844,
+      "2024-05-16T17:30:00+00:00": 211.89999389648438,
+      "2024-05-16T18:30:00+00:00": 212.10850524902344,
+      "2024-05-16T19:30:00+00:00": 212.78500366210938
+    },
+    "sentiment": 0.7984527349472046
+  },
+  {
+    "title": "A Major Market Reversal Is Increasingly Likely",
+    "published": 1717157070,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 205.0,
+      "2024-05-31T14:30:00+00:00": 203.2550048828125,
+      "2024-05-31T15:30:00+00:00": 203.2949981689453,
+      "2024-05-31T16:30:00+00:00": 202.9499969482422,
+      "2024-05-31T17:30:00+00:00": 202.88999938964844,
+      "2024-05-31T18:30:00+00:00": 203.0399932861328,
+      "2024-05-31T19:30:00+00:00": 202.99000549316406
+    },
+    "sentiment": 0.8557172417640686
+  },
+  {
+    "title": "CME says issue impacting S&P, Dow Jones indices has been resolved",
+    "published": 1717068000,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 206.42999267578125,
+      "2024-05-30T14:30:00+00:00": 206.35000610351562,
+      "2024-05-30T15:30:00+00:00": 206.57000732421875,
+      "2024-05-30T16:30:00+00:00": 206.25999450683594,
+      "2024-05-30T17:30:00+00:00": 207.11000061035156,
+      "2024-05-30T18:30:00+00:00": 206.45440673828125,
+      "2024-05-30T19:30:00+00:00": 206.30999755859375
+    },
+    "sentiment": 0.9246465563774109
+  },
+  {
+    "title": "Issues with data feeds halted S&P 500 and Dow Jones Industrial Average",
+    "published": 1717067100,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 206.42999267578125,
+      "2024-05-30T14:30:00+00:00": 206.35000610351562,
+      "2024-05-30T15:30:00+00:00": 206.57000732421875,
+      "2024-05-30T16:30:00+00:00": 206.25999450683594,
+      "2024-05-30T17:30:00+00:00": 207.11000061035156,
+      "2024-05-30T18:30:00+00:00": 206.45440673828125,
+      "2024-05-30T19:30:00+00:00": 206.30999755859375
+    },
+    "sentiment": 0.7211204171180725
+  },
+  {
+    "title": "S&P 500, Dow index values frozen, CME confirms to CNBC",
+    "published": 1717066260,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 206.42999267578125,
+      "2024-05-30T14:30:00+00:00": 206.35000610351562,
+      "2024-05-30T15:30:00+00:00": 206.57000732421875,
+      "2024-05-30T16:30:00+00:00": 206.25999450683594,
+      "2024-05-30T17:30:00+00:00": 207.11000061035156,
+      "2024-05-30T18:30:00+00:00": 206.45440673828125,
+      "2024-05-30T19:30:00+00:00": 206.30999755859375
+    },
+    "sentiment": 0.7008696794509888
+  },
+  {
+    "title": "Stock market today: Asian shares shrug off latest Wall St rout as Chinese factory activity weakens.",
+    "published": 1717038960,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 206.42999267578125,
+      "2024-05-30T14:30:00+00:00": 206.35000610351562,
+      "2024-05-30T15:30:00+00:00": 206.57000732421875,
+      "2024-05-30T16:30:00+00:00": 206.25999450683594,
+      "2024-05-30T17:30:00+00:00": 207.11000061035156,
+      "2024-05-30T18:30:00+00:00": 206.45440673828125,
+      "2024-05-30T19:30:00+00:00": 206.30999755859375
+    },
+    "sentiment": 0.9571700692176819
+  },
+  {
+    "title": "CME Group Inc. Announces Second-Quarter 2024 Earnings Release, Conference Call",
+    "published": 1716982200,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 207.99000549316406,
+      "2024-05-29T14:30:00+00:00": 207.32000732421875,
+      "2024-05-29T15:30:00+00:00": 206.81500244140625,
+      "2024-05-29T16:30:00+00:00": 206.7550048828125,
+      "2024-05-29T17:30:00+00:00": 206.8000030517578,
+      "2024-05-29T18:30:00+00:00": 206.8614044189453,
+      "2024-05-29T19:30:00+00:00": 207.16000366210938
+    },
+    "sentiment": 0.8593262434005737
+  },
+  {
+    "title": "Stock market today: World shares are mostly higher after rebound on Wall St",
+    "published": 1716766080,
+    "day_prices": {},
+    "sentiment": 0.9308928847312927
+  },
+  {
+    "title": "CME Group Adjusted Interest Rate Total Return Futures Reach Record Open Interest, Volume",
+    "published": 1716567420,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 212.97000122070312,
+      "2024-05-24T14:30:00+00:00": 213.63999938964844,
+      "2024-05-24T15:30:00+00:00": 213.5749969482422,
+      "2024-05-24T16:30:00+00:00": 213.75,
+      "2024-05-24T17:30:00+00:00": 214.5800018310547,
+      "2024-05-24T18:30:00+00:00": 214.27999877929688,
+      "2024-05-24T19:30:00+00:00": 214.6300048828125
+    },
+    "sentiment": 0.6735948920249939
+  },
+  {
+    "title": "US Paves Way for Ether ETFs in Test of Crypto Demand Beyond Bitcoin",
+    "published": 1716540006,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 212.97000122070312,
+      "2024-05-24T14:30:00+00:00": 213.63999938964844,
+      "2024-05-24T15:30:00+00:00": 213.5749969482422,
+      "2024-05-24T16:30:00+00:00": 213.75,
+      "2024-05-24T17:30:00+00:00": 214.5800018310547,
+      "2024-05-24T18:30:00+00:00": 214.27999877929688,
+      "2024-05-24T19:30:00+00:00": 214.6300048828125
+    },
+    "sentiment": 0.8610410690307617
   }
 ]

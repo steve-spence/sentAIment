@@ -1,555 +1,622 @@
 [
   {
-    "title": "A Closer Look at 15 Analyst Recommendations For Devon Energy",
-    "published": 1713143040,
-    "posting_price": 51.95286551,
-    "close_price": 51.00404358,
-    "percent_change": -1.82631299
+    "title": "Exxon Mobil Plays It Safe With Hydrocarbons, Sidelines Direct Air Capture",
+    "published": 1714988286,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 50.86000061035156,
+      "2024-05-06T14:30:00+00:00": 51.334999084472656,
+      "2024-05-06T15:30:00+00:00": 51.290000915527344,
+      "2024-05-06T16:30:00+00:00": 51.43000030517578,
+      "2024-05-06T17:30:00+00:00": 50.95000076293945,
+      "2024-05-06T18:30:00+00:00": 50.8849983215332,
+      "2024-05-06T19:30:00+00:00": 50.77000045776367
+    },
+    "sentiment": 0.9351491928100586
   },
   {
-    "title": "Devon Energy (DVN) Stock Moves -0.89%: What You Should Know",
-    "published": 1712958318,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "Is Devon Energy Stock Going to $57? 1 Wall Street Analyst Thinks So.",
+    "published": 1714910460,
+    "day_prices": {},
+    "sentiment": 0.9149194955825806
   },
   {
-    "title": "3 Overlooked Stocks That Can Easily Double in 2024",
-    "published": 1712952678,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "FTC's attack on high-profile exec rattles oil industry, sparks concern over deals",
+    "published": 1714808100,
+    "day_prices": {},
+    "sentiment": 0.9225859642028809
   },
   {
-    "title": "Billionaire Leon Cooperman\u2019s Family, Children and Investments",
-    "published": 1712933690,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "Devon Energy : First Quarter 2024 Q&A Webcast - Commentary Transcript",
+    "published": 1714749428,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 51.209999084472656,
+      "2024-05-03T14:30:00+00:00": 50.4900016784668,
+      "2024-05-03T15:30:00+00:00": 50.27000045776367,
+      "2024-05-03T16:30:00+00:00": 50.5099983215332,
+      "2024-05-03T17:30:00+00:00": 50.380001068115234,
+      "2024-05-03T18:30:00+00:00": 50.290000915527344,
+      "2024-05-03T19:30:00+00:00": 50.404998779296875
+    },
+    "sentiment": 0.9453116655349731
   },
   {
-    "title": "Oil Prices Spike Above $90 A Barrel As Iran-Israel Tensions Escalate: US Energy Stocks Eye 9th Week Of Gains",
-    "published": 1712920680,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "Devon Energy Corp (DVN) Q1 2024 Earnings Call Transcript Highlights: Surpassing Targets and ...",
+    "published": 1714722491,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 51.209999084472656,
+      "2024-05-03T14:30:00+00:00": 50.4900016784668,
+      "2024-05-03T15:30:00+00:00": 50.27000045776367,
+      "2024-05-03T16:30:00+00:00": 50.5099983215332,
+      "2024-05-03T17:30:00+00:00": 50.380001068115234,
+      "2024-05-03T18:30:00+00:00": 50.290000915527344,
+      "2024-05-03T19:30:00+00:00": 50.404998779296875
+    },
+    "sentiment": 0.9051764607429504
   },
   {
-    "title": "US Energy Stocks Eye 9th Week Of Gains As Iran-Israel Tensions Escalate: Oil Prices Spike Above $90 A Barrel",
-    "published": 1712920320,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "Decoding Devon Energy Corp (DVN): A Strategic SWOT Insight",
+    "published": 1714712902,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 51.209999084472656,
+      "2024-05-03T14:30:00+00:00": 50.4900016784668,
+      "2024-05-03T15:30:00+00:00": 50.27000045776367,
+      "2024-05-03T16:30:00+00:00": 50.5099983215332,
+      "2024-05-03T17:30:00+00:00": 50.380001068115234,
+      "2024-05-03T18:30:00+00:00": 50.290000915527344,
+      "2024-05-03T19:30:00+00:00": 50.404998779296875
+    },
+    "sentiment": 0.9174366593360901
   },
   {
-    "title": "Devon Energy: The Turnaround Is Just Getting Started",
-    "published": 1712919322,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "Devon Energy (DVN) Beats on Q1 Earnings, Raises 2024 View",
+    "published": 1714647420,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 51.119998931884766,
+      "2024-05-02T14:30:00+00:00": 51.13999938964844,
+      "2024-05-02T15:30:00+00:00": 50.654998779296875,
+      "2024-05-02T16:30:00+00:00": 50.220001220703125,
+      "2024-05-02T17:30:00+00:00": 50.58000183105469,
+      "2024-05-02T18:30:00+00:00": 50.36000061035156,
+      "2024-05-02T19:30:00+00:00": 50.540000915527344
+    },
+    "sentiment": 0.8013703227043152
   },
   {
-    "title": "Oil Giant's Longest Advance In 17 Years Faces This Hurdle",
-    "published": 1712898150,
-    "posting_price": 52.73709933,
-    "close_price": 51.72050095,
-    "percent_change": -1.92767216
+    "title": "Assessing Devon Energy: Insights From 17 Financial Analysts",
+    "published": 1714636800,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 51.119998931884766,
+      "2024-05-02T14:30:00+00:00": 51.13999938964844,
+      "2024-05-02T15:30:00+00:00": 50.654998779296875,
+      "2024-05-02T16:30:00+00:00": 50.220001220703125,
+      "2024-05-02T17:30:00+00:00": 50.58000183105469,
+      "2024-05-02T18:30:00+00:00": 50.36000061035156,
+      "2024-05-02T19:30:00+00:00": 50.540000915527344
+    },
+    "sentiment": 0.8266963958740234
   },
   {
-    "title": "These 2 Oils-Energy Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-    "published": 1712840409,
-    "posting_price": 52.75646018,
-    "close_price": 52.18523026,
-    "percent_change": -1.08276772
+    "title": "Devon Energy (DVN) Receives a New Rating from a Top Analyst",
+    "published": 1714633140,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 51.119998931884766,
+      "2024-05-02T14:30:00+00:00": 51.13999938964844,
+      "2024-05-02T15:30:00+00:00": 50.654998779296875,
+      "2024-05-02T16:30:00+00:00": 50.220001220703125,
+      "2024-05-02T17:30:00+00:00": 50.58000183105469,
+      "2024-05-02T18:30:00+00:00": 50.36000061035156,
+      "2024-05-02T19:30:00+00:00": 50.540000915527344
+    },
+    "sentiment": 0.8565279841423035
   },
   {
-    "title": "Attractive call overwriting opportunities for Russell 1000 stocks - JPM",
-    "published": 1712839980,
-    "posting_price": 52.75646018,
-    "close_price": 52.18523026,
-    "percent_change": -1.08276772
+    "title": "Devon Energy: A Strong Buy on Impressive Production Guidance and Capital Discipline",
+    "published": 1714628280,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 51.119998931884766,
+      "2024-05-02T14:30:00+00:00": 51.13999938964844,
+      "2024-05-02T15:30:00+00:00": 50.654998779296875,
+      "2024-05-02T16:30:00+00:00": 50.220001220703125,
+      "2024-05-02T17:30:00+00:00": 50.58000183105469,
+      "2024-05-02T18:30:00+00:00": 50.36000061035156,
+      "2024-05-02T19:30:00+00:00": 50.540000915527344
+    },
+    "sentiment": 0.9523859620094299
   },
   {
-    "title": "Devon Energy price target raised by $14 at Scotiabank, here's why",
-    "published": 1712822280,
-    "posting_price": 52.75646018,
-    "close_price": 52.18523026,
-    "percent_change": -1.08276772
+    "title": "Spotlight on Devon Energy: Analyzing the Surge in Options Activity",
+    "published": 1714614840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 51.119998931884766,
+      "2024-05-02T14:30:00+00:00": 51.13999938964844,
+      "2024-05-02T15:30:00+00:00": 50.654998779296875,
+      "2024-05-02T16:30:00+00:00": 50.220001220703125,
+      "2024-05-02T17:30:00+00:00": 50.58000183105469,
+      "2024-05-02T18:30:00+00:00": 50.36000061035156,
+      "2024-05-02T19:30:00+00:00": 50.540000915527344
+    },
+    "sentiment": 0.8571653366088867
   },
   {
-    "title": "DVN Crosses Above Average Analyst Target",
-    "published": 1712818140,
-    "posting_price": 52.75646018,
-    "close_price": 52.18523026,
-    "percent_change": -1.08276772
+    "title": "Devon Energy (DVN) Beats Q1 Earnings Estimates",
+    "published": 1714598406,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.8863148093223572
   },
   {
-    "title": "Devon Energy price target raised by $7 at Citi, here's why",
-    "published": 1712812140,
-    "posting_price": 52.75646018,
-    "close_price": 52.18523026,
-    "percent_change": -1.08276772
+    "title": "Devon Energy beats Q1 profit estimate on higher production",
+    "published": 1714594549,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.9123233556747437
   },
   {
-    "title": "Devon Energy: A Strong Buy on Rising Productivity and M&A Potential",
-    "published": 1712810820,
-    "posting_price": 52.75646018,
-    "close_price": 52.18523026,
-    "percent_change": -1.08276772
+    "title": "Devon Energy: Q1 Earnings Snapshot",
+    "published": 1714580411,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.5890802145004272
   },
   {
-    "title": "Barclays Initiates Coverage of Devon Energy (DVN) with Equal-Weight Recommendation",
-    "published": 1712771482,
-    "posting_price": 52.29172864,
-    "close_price": 52.77582169,
-    "percent_change": 0.92575454
+    "title": "Devon Energy : First Quarter 2024 Supplemental Tables",
+    "published": 1714580112,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.947902500629425
   },
   {
-    "title": "Think Oil Is Going Higher? 3 Dividend Stocks to Buy Now",
-    "published": 1712756700,
-    "posting_price": 52.29172864,
-    "close_price": 52.77582169,
-    "percent_change": 0.92575454
+    "title": "Devon Energy : Q1 2024 Earnings News Release",
+    "published": 1714580111,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.9332743883132935
   },
   {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Energy Stocks: Devon Energy (DVN) and Kodiak Gas Services, Inc. (KGS)",
-    "published": 1712728260,
-    "posting_price": 52.29172864,
-    "close_price": 52.77582169,
-    "percent_change": 0.92575454
+    "title": "Devon Energy : Q1 2024 Supplemental Tables",
+    "published": 1714580111,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.9457772374153137
   },
   {
-    "title": "Devon Energy (DVN) Outpaces Stock Market Gains: What You Should Know",
-    "published": 1712699418,
-    "posting_price": 51.8657329,
-    "close_price": 52.41759872,
-    "percent_change": 1.06402781
+    "title": "Devon Energy: A Cautious Hold Amidst Strong Q1 Performance and Sustainability Concerns",
+    "published": 1714550160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.8601051568984985
   },
   {
-    "title": "Will Devon Energy (DVN) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1712679014,
-    "posting_price": 51.8657329,
-    "close_price": 52.41759872,
-    "percent_change": 1.06402781
+    "title": "Devon Energy Announces Q1 2024 Financials",
+    "published": 1714534680,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.9159330725669861
   },
   {
-    "title": "A Closer Look at Devon Energy's Options Market Dynamics",
-    "published": 1712654400,
-    "posting_price": 51.8657329,
-    "close_price": 52.41759872,
-    "percent_change": 1.06402781
+    "title": "Devon Energy raises FY24 production forecast by 2% to 655,000-675,000 Boe/d",
+    "published": 1714533720,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.9311471581459045
   },
   {
-    "title": "Devon Energy Corp. stock outperforms competitors on strong trading day",
-    "published": 1712635440,
-    "posting_price": 51.8657329,
-    "close_price": 52.41759872,
-    "percent_change": 1.06402781
+    "title": "Devon Energy Non-GAAP EPS of $1.16 beats by $0.05, revenue of $3.6B in-line",
+    "published": 1714533600,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 50.959999084472656,
+      "2024-05-01T14:30:00+00:00": 50.58000183105469,
+      "2024-05-01T15:30:00+00:00": 50.17499923706055,
+      "2024-05-01T16:30:00+00:00": 50.005001068115234,
+      "2024-05-01T17:30:00+00:00": 50.03499984741211,
+      "2024-05-01T18:30:00+00:00": 50.220001220703125,
+      "2024-05-01T19:30:00+00:00": 50.52000045776367
+    },
+    "sentiment": 0.7000066637992859
   },
   {
-    "title": "Devon Energy initiated with neutral view at Barclays",
-    "published": 1712634840,
-    "posting_price": 51.8657329,
-    "close_price": 52.41759872,
-    "percent_change": 1.06402781
-  },
-  {
-    "title": "Devon Energy Stock Has 24% Upside, According to 1 Wall Street Analyst",
-    "published": 1712611082,
-    "posting_price": 51.78827514,
-    "close_price": 51.73018265,
-    "percent_change": -0.11217305
-  },
-  {
-    "title": "Company News for Apr 8, 2024",
-    "published": 1712582820,
-    "posting_price": 51.78827514,
-    "close_price": 51.73018265,
-    "percent_change": -0.11217305
-  },
-  {
-    "title": "Devon Energy price target raised by $5 at JPMorgan, here's why",
-    "published": 1712556720,
-    "posting_price": 51.78827514,
-    "close_price": 51.73018265,
-    "percent_change": -0.11217305
-  },
-  {
-    "title": "Oil Is Up, These 3 Energy Stocks Are Set to Reward Investors",
-    "published": 1712349669,
-    "posting_price": 51.10085881,
-    "close_price": 51.57527161,
-    "percent_change": 0.92838518
-  },
-  {
-    "title": "Looking At Devon Energy's Recent Unusual Options Activity",
-    "published": 1712320380,
-    "posting_price": 51.10085881,
-    "close_price": 51.57527161,
-    "percent_change": 0.92838518
-  },
-  {
-    "title": "Devon Energy price target lowered by $3 at Truist, here's why",
-    "published": 1712303520,
-    "posting_price": 51.10085881,
-    "close_price": 51.57527161,
-    "percent_change": 0.92838518
-  },
-  {
-    "title": "Devon Energy: Likely Fairly Valued\u00a0(Rating Downgrade)",
-    "published": 1712238062,
-    "posting_price": 51.26545207,
-    "close_price": 50.86849594,
-    "percent_change": -0.77431509
-  },
-  {
-    "title": "This Ultra-High-Yield Dividend Stock Is Miles Ahead of Its Industry. Is It a Buy?",
-    "published": 1712232900,
-    "posting_price": 51.26545207,
-    "close_price": 50.86849594,
-    "percent_change": -0.77431509
-  },
-  {
-    "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds",
-    "published": 1712202309,
-    "posting_price": 51.26545207,
-    "close_price": 50.86849594,
-    "percent_change": -0.77431509
-  },
-  {
-    "title": "Devon Energy's Options: A Look at What the Big Money is Thinking",
-    "published": 1712142240,
-    "posting_price": 50.20044955,
-    "close_price": 51.09118271,
-    "percent_change": 1.77435295
-  },
-  {
-    "title": "The Fed-Proof Portfolio: 3 Overlooked Stocks Built for Long-Term Success",
-    "published": 1712140200,
-    "posting_price": 50.20044955,
-    "close_price": 51.09118271,
-    "percent_change": 1.77435295
-  },
-  {
-    "title": "Here's Why Devon Energy Shares Gushed Higher in March",
-    "published": 1712131459,
-    "posting_price": 50.20044955,
-    "close_price": 51.09118271,
-    "percent_change": 1.77435295
-  },
-  {
-    "title": "Devon Energy (DVN) Rises As Market Takes a Dip: Key Facts",
-    "published": 1712094320,
-    "posting_price": 49.62921655,
-    "close_price": 49.97776413,
-    "percent_change": 0.70230321
-  },
-  {
-    "title": "Brokers Suggest Investing in Devon Energy (DVN): Read This Before Placing a Bet",
-    "published": 1712064610,
-    "posting_price": 49.62921655,
-    "close_price": 49.97776413,
-    "percent_change": 0.70230321
-  },
-  {
-    "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the S&P 500?",
-    "published": 1712064600,
-    "posting_price": 49.62921655,
-    "close_price": 49.97776413,
-    "percent_change": 0.70230321
-  },
-  {
-    "title": "These 4 Measures Indicate That Devon Energy (NYSE:DVN) Is Using Debt Reasonably Well",
-    "published": 1712059228,
-    "posting_price": 49.62921655,
-    "close_price": 49.97776413,
-    "percent_change": 0.70230321
-  },
-  {
-    "title": "Company earnings coming Wednesday",
-    "published": 1714502352,
-    "posting_price": 51.07181734,
-    "close_price": 49.55176544,
-    "percent_change": -2.97630274
-  },
-  {
-    "title": "UPDATE 2-Texas operators turn to flaring amid weak gas prices",
-    "published": 1714492365,
-    "posting_price": 51.07181734,
-    "close_price": 49.55176544,
-    "percent_change": -2.97630274
-  },
-  {
-    "title": "Devon Energy Q1 earnings on deck; what to expect",
-    "published": 1714480380,
-    "posting_price": 51.07181734,
-    "close_price": 49.55176544,
-    "percent_change": -2.97630274
-  },
-  {
-    "title": "Northern Oil and Gas (NOG) Surpasses Q1 Earnings and Revenue Estimates",
-    "published": 1714475702,
-    "posting_price": 51.07181734,
-    "close_price": 49.55176544,
-    "percent_change": -2.97630274
-  },
-  {
-    "title": "Devon Energy: Expecting A Light Q1 Earnings",
-    "published": 1714473289,
-    "posting_price": 51.07181734,
-    "close_price": 49.55176544,
-    "percent_change": -2.97630274
-  },
-  {
-    "title": "Texas operators turn to flaring amid weak gas prices",
-    "published": 1714471200,
-    "posting_price": 51.07181734,
-    "close_price": 49.55176544,
-    "percent_change": -2.97630274
-  },
-  {
-    "title": "Estimating The Intrinsic Value Of Devon Energy Corporation (NYSE:DVN)",
-    "published": 1714392023,
-    "posting_price": 50.82976957,
-    "close_price": 51.39131927,
-    "percent_change": 1.10476539
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 29 \u2013 May 02, 2024",
-    "published": 1714370460,
-    "posting_price": 50.82976957,
-    "close_price": 51.39131927,
-    "percent_change": 1.10476539
-  },
-  {
-    "title": "Devon Energy: Buy, Sell, or Hold?",
-    "published": 1714253340,
-    "posting_price": 50.82976957,
-    "close_price": 51.39131927,
-    "percent_change": 1.10476539
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Energy Stocks: Tenaris SA (TS), Kinder Morgan (KMI) and Devon Energy (DVN)",
-    "published": 1714114320,
-    "posting_price": 50.76199776,
-    "close_price": 51.03308868,
-    "percent_change": 0.53404305
-  },
-  {
-    "title": "Earnings Preview: Murphy Oil (MUR) Q1 Earnings Expected to Decline",
-    "published": 1714053712,
-    "posting_price": 50.38440588,
-    "close_price": 50.93627167,
-    "percent_change": 1.0953107
-  },
-  {
-    "title": "Top 10 S&P 500 energy stocks of 2024, with earnings from XOM and CVX on deck",
-    "published": 1714011420,
-    "posting_price": 50.38440588,
-    "close_price": 50.93627167,
-    "percent_change": 1.0953107
-  },
-  {
-    "title": "Devon Energy (DVN) Stock Slides as Market Rises: Facts to Know Before You Trade",
-    "published": 1713995419,
-    "posting_price": 50.53931426,
-    "close_price": 50.44249344,
-    "percent_change": -0.19157525
-  },
-  {
-    "title": "Analysts Estimate Devon Energy (DVN) to Report a Decline in Earnings: What to Look Out for",
-    "published": 1713967313,
-    "posting_price": 50.53931426,
-    "close_price": 50.44249344,
-    "percent_change": -0.19157525
-  },
-  {
-    "title": "2 Wall Street Analysts Thinks Devon Energy Stock Is Going to $60. Is It a Buy Around $52?",
-    "published": 1713959780,
-    "posting_price": 50.53931426,
-    "close_price": 50.44249344,
-    "percent_change": -0.19157525
-  },
-  {
-    "title": "Devon Energy Corp. stock underperforms Wednesday when compared to competitors",
-    "published": 1713931560,
-    "posting_price": 50.53931426,
-    "close_price": 50.44249344,
-    "percent_change": -0.19157525
-  },
-  {
-    "title": "Barclays Sticks to Their Hold Rating for Devon Energy (DVN)",
-    "published": 1713930420,
-    "posting_price": 50.53931426,
-    "close_price": 50.44249344,
-    "percent_change": -0.19157525
-  },
-  {
-    "title": "Devon Energy Stock Has 25.4% Upside, According to 1 Wall Street Analyst",
-    "published": 1713902520,
-    "posting_price": 50.31663466,
-    "close_price": 50.89754486,
-    "percent_change": 1.15450925
-  },
-  {
-    "title": "Best Energy Stocks To Invest In Now? 3 To Know",
-    "published": 1713879945,
-    "posting_price": 50.31663466,
-    "close_price": 50.89754486,
-    "percent_change": 1.15450925
-  },
-  {
-    "title": "Devon Energy price target raised by $1 at Stifel, here's why",
-    "published": 1713862680,
-    "posting_price": 50.31663466,
-    "close_price": 50.89754486,
-    "percent_change": 1.15450925
-  },
-  {
-    "title": "Devon Energy price target raised by $3 at Truist, here's why",
-    "published": 1713774780,
-    "posting_price": 49.91967658,
-    "close_price": 50.47154236,
-    "percent_change": 1.10550752
-  },
-  {
-    "title": "Devon Energy price target raised by $13 at Susquehanna, here's why",
-    "published": 1713767640,
-    "posting_price": 49.91967658,
-    "close_price": 50.47154236,
-    "percent_change": 1.10550752
-  },
-  {
-    "title": "Devon Energy (DVN) Receives a Rating Update from a Top Analyst",
-    "published": 1713766560,
-    "posting_price": 49.91967658,
-    "close_price": 50.47154236,
-    "percent_change": 1.10550752
-  },
-  {
-    "title": "Devon Energy Corporation's (NYSE:DVN) Stock's On An Uptrend: Are Strong Financials Guiding The Market?",
-    "published": 1713704414,
-    "posting_price": 49.91967658,
-    "close_price": 50.47154236,
-    "percent_change": 1.10550752
-  },
-  {
-    "title": "10 Stocks American Politicians are Buying in 2024",
-    "published": 1713703154,
-    "posting_price": 49.91967658,
-    "close_price": 50.47154236,
-    "percent_change": 1.10550752
-  },
-  {
-    "title": "Think Crude Oil Is Going to $100 a Barrel? Then You'll Love These 3 Dividend Stocks.",
-    "published": 1713692700,
-    "posting_price": 49.91967658,
-    "close_price": 50.47154236,
-    "percent_change": 1.10550752
+    "title": "Dividend picks by SA analysts: PFE, DVN, SBUX and LOW",
+    "published": 1715769720,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 49.619998931884766,
+      "2024-05-15T14:30:00+00:00": 48.900001525878906,
+      "2024-05-15T15:30:00+00:00": 49.470001220703125,
+      "2024-05-15T16:30:00+00:00": 49.470001220703125,
+      "2024-05-15T17:30:00+00:00": 49.58000183105469,
+      "2024-05-15T18:30:00+00:00": 49.45500183105469,
+      "2024-05-15T19:30:00+00:00": 49.400001525878906
+    },
+    "sentiment": 0.9400587677955627
   },
   {
     "title": "Devon Energy price target raised by $1 at Piper Sandler, here's why",
-    "published": 1713508080,
-    "posting_price": 49.89062871,
-    "close_price": 50.18108749,
-    "percent_change": 0.58219106
+    "published": 1715667840,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 50.0,
+      "2024-05-14T14:30:00+00:00": 49.72999954223633,
+      "2024-05-14T15:30:00+00:00": 49.95100021362305,
+      "2024-05-14T16:30:00+00:00": 49.56999969482422,
+      "2024-05-14T17:30:00+00:00": 49.70650100708008,
+      "2024-05-14T18:30:00+00:00": 49.65999984741211,
+      "2024-05-14T19:30:00+00:00": 49.790000915527344
+    },
+    "sentiment": 0.7939924001693726
   },
   {
-    "title": "Piper Sandler Reaffirms Their Buy Rating on Devon Energy (DVN)",
-    "published": 1713507960,
-    "posting_price": 49.89062871,
-    "close_price": 50.18108749,
-    "percent_change": 0.58219106
+    "title": "Devon Energy price target raised by $4 at Mizuho, here's why",
+    "published": 1715581140,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 50.2400016784668,
+      "2024-05-13T14:30:00+00:00": 50.029998779296875,
+      "2024-05-13T15:30:00+00:00": 49.790000915527344,
+      "2024-05-13T16:30:00+00:00": 49.82500076293945,
+      "2024-05-13T17:30:00+00:00": 49.730098724365234,
+      "2024-05-13T18:30:00+00:00": 49.79999923706055,
+      "2024-05-13T19:30:00+00:00": 49.875
+    },
+    "sentiment": 0.6934099197387695
   },
   {
-    "title": "Devon Energy (DVN) Falls More Steeply Than Broader Market: What Investors Need to Know",
-    "published": 1713476720,
-    "posting_price": 50.28758894,
-    "close_price": 49.79381561,
-    "percent_change": -0.98189899
+    "title": "Devon Energy Stock: Buy, Sell, or Hold?",
+    "published": 1715438820,
+    "day_prices": {},
+    "sentiment": 0.9277998805046082
   },
   {
-    "title": "How Much Will Devon Energy Pay in Dividends This Year?",
-    "published": 1713446400,
-    "posting_price": 50.28758894,
-    "close_price": 49.79381561,
-    "percent_change": -0.98189899
+    "title": "Devon Energy price target raised by $2 at RBC Capital, here's why",
+    "published": 1715237520,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 50.689998626708984,
+      "2024-05-09T14:30:00+00:00": 51.08000183105469,
+      "2024-05-09T15:30:00+00:00": 51.0099983215332,
+      "2024-05-09T16:30:00+00:00": 50.900001525878906,
+      "2024-05-09T17:30:00+00:00": 50.959999084472656,
+      "2024-05-09T18:30:00+00:00": 50.86000061035156,
+      "2024-05-09T19:30:00+00:00": 50.8849983215332
+    },
+    "sentiment": 0.7697838544845581
   },
   {
-    "title": "Riding the Oil Wave: 3 Stocks to Buy Amid Middle East Tensions",
-    "published": 1713384660,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "With 71% ownership of the shares, Devon Energy Corporation (NYSE:DVN) is heavily dominated by institutional owners",
+    "published": 1715173214,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 50.40999984741211,
+      "2024-05-08T14:30:00+00:00": 50.790000915527344,
+      "2024-05-08T15:30:00+00:00": 51.0,
+      "2024-05-08T16:30:00+00:00": 50.59000015258789,
+      "2024-05-08T17:30:00+00:00": 50.5099983215332,
+      "2024-05-08T18:30:00+00:00": 50.41999816894531,
+      "2024-05-08T19:30:00+00:00": 50.599998474121094
+    },
+    "sentiment": 0.9356972575187683
   },
   {
-    "title": "Devon Energy (DVN) Price Target Increased by 5.25% to 57.66",
-    "published": 1713361517,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "Devon Energy (DVN) Receives a Rating Update from a Top Analyst",
+    "published": 1715160360,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 50.40999984741211,
+      "2024-05-08T14:30:00+00:00": 50.790000915527344,
+      "2024-05-08T15:30:00+00:00": 51.0,
+      "2024-05-08T16:30:00+00:00": 50.59000015258789,
+      "2024-05-08T17:30:00+00:00": 50.5099983215332,
+      "2024-05-08T18:30:00+00:00": 50.41999816894531,
+      "2024-05-08T19:30:00+00:00": 50.599998474121094
+    },
+    "sentiment": 0.7852236032485962
   },
   {
-    "title": "Devon Energy Corporation (DVN) is Attracting Investor Attention: Here is What You Should Know",
-    "published": 1713358817,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "Ovintiv: Better Choices Available In Oil And Gas Sector (Rating Downgrade)",
+    "published": 1716477196,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 49.16999816894531,
+      "2024-05-23T14:30:00+00:00": 48.76499938964844,
+      "2024-05-23T15:30:00+00:00": 48.54999923706055,
+      "2024-05-23T16:30:00+00:00": 48.584999084472656,
+      "2024-05-23T17:30:00+00:00": 48.369998931884766,
+      "2024-05-23T18:30:00+00:00": 48.2400016784668,
+      "2024-05-23T19:30:00+00:00": 48.16999816894531
+    },
+    "sentiment": 0.5863699316978455
   },
   {
-    "title": "While shareholders of Devon Energy (NYSE:DVN) are in the black over 3 years, those who bought a week ago aren't so fortunate",
-    "published": 1713351624,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "Analyst Favorites With Strong Buyback Activity: Devon Energy Ranks As a Top Pick",
+    "published": 1716466980,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 49.16999816894531,
+      "2024-05-23T14:30:00+00:00": 48.76499938964844,
+      "2024-05-23T15:30:00+00:00": 48.54999923706055,
+      "2024-05-23T16:30:00+00:00": 48.584999084472656,
+      "2024-05-23T17:30:00+00:00": 48.369998931884766,
+      "2024-05-23T18:30:00+00:00": 48.2400016784668,
+      "2024-05-23T19:30:00+00:00": 48.16999816894531
+    },
+    "sentiment": 0.9025309085845947
   },
   {
-    "title": "3 Top Oil Stocks to Buy as Crude Prices Continue Rising",
-    "published": 1713345480,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "Biden Plans Release Of 1 Million Barrels Of Gasoline To Curb Northeast Prices: 'Because He's Unable To Drill Properly,' Trump Says",
+    "published": 1716371340,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 49.310001373291016,
+      "2024-05-22T14:30:00+00:00": 48.81999969482422,
+      "2024-05-22T15:30:00+00:00": 48.7400016784668,
+      "2024-05-22T16:30:00+00:00": 49.02000045776367,
+      "2024-05-22T17:30:00+00:00": 48.96500015258789,
+      "2024-05-22T18:30:00+00:00": 48.709999084472656,
+      "2024-05-22T19:30:00+00:00": 48.560001373291016
+    },
+    "sentiment": 0.8656324744224548
   },
   {
     "title": "Wells Fargo Reaffirms Their Buy Rating on Devon Energy (DVN)",
-    "published": 1713333960,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "published": 1716266520,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 49.79999923706055,
+      "2024-05-21T14:30:00+00:00": 50.185001373291016,
+      "2024-05-21T15:30:00+00:00": 50.089698791503906,
+      "2024-05-21T16:30:00+00:00": 49.7599983215332,
+      "2024-05-21T17:30:00+00:00": 49.810001373291016,
+      "2024-05-21T18:30:00+00:00": 49.70000076293945,
+      "2024-05-21T19:30:00+00:00": 49.820098876953125
+    },
+    "sentiment": 0.7959493398666382
   },
   {
-    "title": "Devon Energy price target raised by $1 at Wells Fargo, here's why",
-    "published": 1713333780,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "These 3 High-Yield Dividend Stocks Are Gushing Cash",
+    "published": 1716190020,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 49.75,
+      "2024-05-20T14:30:00+00:00": 49.90999984741211,
+      "2024-05-20T15:30:00+00:00": 49.94499969482422,
+      "2024-05-20T16:30:00+00:00": 49.90629959106445,
+      "2024-05-20T17:30:00+00:00": 49.775001525878906,
+      "2024-05-20T18:30:00+00:00": 49.90999984741211,
+      "2024-05-20T19:30:00+00:00": 49.959999084472656
+    },
+    "sentiment": 0.5989711880683899
   },
   {
-    "title": "14 companies with a near-term catalyst around 1Q earnings - MS",
-    "published": 1713317940,
-    "posting_price": 50.38440799,
-    "close_price": 50.02617645,
-    "percent_change": -0.71099682
+    "title": "2 Energy Stocks That Wall Street Fell in Love With This Week",
+    "published": 1715950444,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 49.41999816894531,
+      "2024-05-17T14:30:00+00:00": 49.400001525878906,
+      "2024-05-17T15:30:00+00:00": 49.32500076293945,
+      "2024-05-17T16:30:00+00:00": 49.119998931884766,
+      "2024-05-17T17:30:00+00:00": 49.30540084838867,
+      "2024-05-17T18:30:00+00:00": 49.65999984741211,
+      "2024-05-17T19:30:00+00:00": 49.744998931884766
+    },
+    "sentiment": 0.792438805103302
   },
   {
-    "title": "Value and Growth? Buy These 3 Underpriced Stocks in April.",
-    "published": 1713292499,
-    "posting_price": 50.7039049,
-    "close_price": 50.51995087,
-    "percent_change": -0.36280052
+    "title": "Is Devon Energy Stock a Buy?",
+    "published": 1715932860,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 49.41999816894531,
+      "2024-05-17T14:30:00+00:00": 49.400001525878906,
+      "2024-05-17T15:30:00+00:00": 49.32500076293945,
+      "2024-05-17T16:30:00+00:00": 49.119998931884766,
+      "2024-05-17T17:30:00+00:00": 49.30540084838867,
+      "2024-05-17T18:30:00+00:00": 49.65999984741211,
+      "2024-05-17T19:30:00+00:00": 49.744998931884766
+    },
+    "sentiment": 0.9277210831642151
   },
   {
-    "title": "Don\u2019t Miss Out: 7 Hot Energy Stocks You Need to Own Now",
-    "published": 1713262500,
-    "posting_price": 50.7039049,
-    "close_price": 50.51995087,
-    "percent_change": -0.36280052
+    "title": "ConocoPhillips Knocks It Out Of The Park With Purchase Of Marathon Oil",
+    "published": 1717148304,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 47.7400016784668,
+      "2024-05-31T14:30:00+00:00": 48.165000915527344,
+      "2024-05-31T15:30:00+00:00": 48.20000076293945,
+      "2024-05-31T16:30:00+00:00": 48.474998474121094,
+      "2024-05-31T17:30:00+00:00": 48.60499954223633,
+      "2024-05-31T18:30:00+00:00": 48.82500076293945,
+      "2024-05-31T19:30:00+00:00": 48.73500061035156
+    },
+    "sentiment": 0.6122081279754639
   },
   {
-    "title": "3 Momentum Stocks That Are Seriously Losing Their Mojo. Sell Now?",
-    "published": 1713261600,
-    "posting_price": 50.7039049,
-    "close_price": 50.51995087,
-    "percent_change": -0.36280052
+    "title": "ConocoPhillips: Much Better Than Usual",
+    "published": 1716992517,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.9363223910331726
+  },
+  {
+    "title": "These companies are expected to be the fastest earnings growers in the cheap S&P 500 energy sector",
+    "published": 1716984720,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.8224050402641296
+  },
+  {
+    "title": "ConcoPhillips CEO says Marathon opportunity came to his attention a few weeks ago",
+    "published": 1716975060,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.8682775497436523
+  },
+  {
+    "title": "M&A News: Marathon Oil Rises on Potential Deal with ConocoPhillips",
+    "published": 1716971220,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.8561989068984985
+  },
+  {
+    "title": "DVN Makes Notable Cross Below Critical Moving Average",
+    "published": 1716967440,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.9251111149787903
+  },
+  {
+    "title": "ConocoPhillips Scooping Up Marathon Oil In $22.5 Billion Deal",
+    "published": 1716959033,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.7819504737854004
+  },
+  {
+    "title": "Smart Money Is Betting Big In DVN Options",
+    "published": 1716949080,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 48.65999984741211,
+      "2024-05-29T14:30:00+00:00": 47.56999969482422,
+      "2024-05-29T15:30:00+00:00": 47.22999954223633,
+      "2024-05-29T16:30:00+00:00": 47.11000061035156,
+      "2024-05-29T17:30:00+00:00": 46.900001525878906,
+      "2024-05-29T18:30:00+00:00": 46.814998626708984,
+      "2024-05-29T19:30:00+00:00": 46.880001068115234
+    },
+    "sentiment": 0.7952132821083069
+  },
+  {
+    "title": "WTI Crude Hits $80, Notches Best Day In Over 2 Months: 'Peak Oil Demand Still A Decade Away'",
+    "published": 1716865020,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 48.369998931884766,
+      "2024-05-28T14:30:00+00:00": 48.529998779296875,
+      "2024-05-28T15:30:00+00:00": 48.82500076293945,
+      "2024-05-28T16:30:00+00:00": 48.7400016784668,
+      "2024-05-28T17:30:00+00:00": 48.665000915527344,
+      "2024-05-28T18:30:00+00:00": 48.65999984741211,
+      "2024-05-28T19:30:00+00:00": 48.81999969482422
+    },
+    "sentiment": 0.7370172142982483
+  },
+  {
+    "title": "2 High-Yield Energy Stocks to Buy Hand Over Fist and 1 to Avoid",
+    "published": 1716542400,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 48.47999954223633,
+      "2024-05-24T14:30:00+00:00": 48.36000061035156,
+      "2024-05-24T15:30:00+00:00": 48.36000061035156,
+      "2024-05-24T16:30:00+00:00": 48.43000030517578,
+      "2024-05-24T17:30:00+00:00": 48.28499984741211,
+      "2024-05-24T18:30:00+00:00": 48.10499954223633,
+      "2024-05-24T19:30:00+00:00": 48.02000045776367
+    },
+    "sentiment": 0.9264326095581055
+  },
+  {
+    "title": "Piper Sandler Sticks to Its Buy Rating for Devon Energy (DVN)",
+    "published": 1716529560,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 48.47999954223633,
+      "2024-05-24T14:30:00+00:00": 48.36000061035156,
+      "2024-05-24T15:30:00+00:00": 48.36000061035156,
+      "2024-05-24T16:30:00+00:00": 48.43000030517578,
+      "2024-05-24T17:30:00+00:00": 48.28499984741211,
+      "2024-05-24T18:30:00+00:00": 48.10499954223633,
+      "2024-05-24T19:30:00+00:00": 48.02000045776367
+    },
+    "sentiment": 0.8156733512878418
   }
 ]

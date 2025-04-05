@@ -1,555 +1,358 @@
 [
   {
-    "title": "The Zacks Analyst Blog Highlights The Progressive, Toyota Motor, Iron Mountain, Vulcan Materials and Vipshop",
-    "published": 1713190200,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
+    "title": "KBW Issues a Hold Rating on Progressive (PGR)",
+    "published": 1715084820,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 216.3300018310547,
+      "2024-05-07T14:30:00+00:00": 214.39999389648438,
+      "2024-05-07T15:30:00+00:00": 214.24620056152344,
+      "2024-05-07T16:30:00+00:00": 213.9199981689453,
+      "2024-05-07T17:30:00+00:00": 213.96499633789062,
+      "2024-05-07T18:30:00+00:00": 213.9636993408203,
+      "2024-05-07T19:30:00+00:00": 214.11000061035156
+    },
+    "sentiment": 0.8940185904502869
   },
   {
-    "title": "Company News for Apr 15, 2024",
-    "published": 1713187680,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
+    "title": "Decoding Progressive Corp (PGR): A Strategic SWOT Insight",
+    "published": 1715058146,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 216.3300018310547,
+      "2024-05-07T14:30:00+00:00": 214.39999389648438,
+      "2024-05-07T15:30:00+00:00": 214.24620056152344,
+      "2024-05-07T16:30:00+00:00": 213.9199981689453,
+      "2024-05-07T17:30:00+00:00": 213.96499633789062,
+      "2024-05-07T18:30:00+00:00": 213.9636993408203,
+      "2024-05-07T19:30:00+00:00": 214.11000061035156
+    },
+    "sentiment": 0.9055832624435425
   },
   {
-    "title": "Where Progressive Stands With Analysts",
-    "published": 1713182580,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
+    "title": "Turbulent Times: 3 Stocks That Could Outperform in a Market Crash",
+    "published": 1714939200,
+    "day_prices": {},
+    "sentiment": 0.46427494287490845
   },
   {
-    "title": "Analysts Offer Insights on Financial Companies: Progressive (PGR), Unum Group (UNM) and Wells Fargo (WFC)",
-    "published": 1713180060,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
+    "title": "Here\u2019s Why Progressive (PGR) was 31% Up in Q1",
+    "published": 1714729163,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 207.8000030517578,
+      "2024-05-03T14:30:00+00:00": 206.02000427246094,
+      "2024-05-03T15:30:00+00:00": 206.5050048828125,
+      "2024-05-03T16:30:00+00:00": 208.5198974609375,
+      "2024-05-03T17:30:00+00:00": 208.60000610351562,
+      "2024-05-03T18:30:00+00:00": 208.3800048828125,
+      "2024-05-03T19:30:00+00:00": 208.75
+    },
+    "sentiment": 0.8817529678344727
   },
   {
-    "title": "Citi Remains a Hold on Progressive (PGR)",
-    "published": 1713179820,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
+    "title": "Soaring Premiums, Soaring Profits: 3 Top Insurance Stocks to Own Now",
+    "published": 1714560240,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 210.25999450683594,
+      "2024-05-01T14:30:00+00:00": 211.97500610351562,
+      "2024-05-01T15:30:00+00:00": 212.94000244140625,
+      "2024-05-01T16:30:00+00:00": 212.88499450683594,
+      "2024-05-01T17:30:00+00:00": 213.13499450683594,
+      "2024-05-01T18:30:00+00:00": 213.25999450683594,
+      "2024-05-01T19:30:00+00:00": 213.2899932861328
+    },
+    "sentiment": 0.5754077434539795
+  },
+  {
+    "title": "Progressive (PGR) Stock Gains 34% YTD: Will the Rally Last?",
+    "published": 1715796360,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 207.36000061035156,
+      "2024-05-15T14:30:00+00:00": 211.13999938964844,
+      "2024-05-15T15:30:00+00:00": 210.22500610351562,
+      "2024-05-15T16:30:00+00:00": 209.91000366210938,
+      "2024-05-15T17:30:00+00:00": 209.1199951171875,
+      "2024-05-15T18:30:00+00:00": 208.60000610351562,
+      "2024-05-15T19:30:00+00:00": 208.6999969482422
+    },
+    "sentiment": 0.6882600784301758
+  },
+  {
+    "title": "Buy These 4 Low-Beta Stocks to Counter Market Volatility",
+    "published": 1715773800,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 207.36000061035156,
+      "2024-05-15T14:30:00+00:00": 211.13999938964844,
+      "2024-05-15T15:30:00+00:00": 210.22500610351562,
+      "2024-05-15T16:30:00+00:00": 209.91000366210938,
+      "2024-05-15T17:30:00+00:00": 209.1199951171875,
+      "2024-05-15T18:30:00+00:00": 208.60000610351562,
+      "2024-05-15T19:30:00+00:00": 208.6999969482422
+    },
+    "sentiment": 0.7999010682106018
+  },
+  {
+    "title": "Progressive Corp. Unveils April 2024 Financial Performance",
+    "published": 1715760840,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 207.36000061035156,
+      "2024-05-15T14:30:00+00:00": 211.13999938964844,
+      "2024-05-15T15:30:00+00:00": 210.22500610351562,
+      "2024-05-15T16:30:00+00:00": 209.91000366210938,
+      "2024-05-15T17:30:00+00:00": 209.1199951171875,
+      "2024-05-15T18:30:00+00:00": 208.60000610351562,
+      "2024-05-15T19:30:00+00:00": 208.6999969482422
+    },
+    "sentiment": 0.9435765743255615
+  },
+  {
+    "title": "Progressive reports April EPS 72c",
+    "published": 1715757480,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 207.36000061035156,
+      "2024-05-15T14:30:00+00:00": 211.13999938964844,
+      "2024-05-15T15:30:00+00:00": 210.22500610351562,
+      "2024-05-15T16:30:00+00:00": 209.91000366210938,
+      "2024-05-15T17:30:00+00:00": 209.1199951171875,
+      "2024-05-15T18:30:00+00:00": 208.60000610351562,
+      "2024-05-15T19:30:00+00:00": 208.6999969482422
+    },
+    "sentiment": 0.8373982906341553
+  },
+  {
+    "title": "3 Must-Sell Stocks: Protect Your Profits from the Looming 2024 Hurricane Season Chaos",
+    "published": 1715695759,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 212.11000061035156,
+      "2024-05-14T14:30:00+00:00": 214.1199951171875,
+      "2024-05-14T15:30:00+00:00": 213.77000427246094,
+      "2024-05-14T16:30:00+00:00": 213.52999877929688,
+      "2024-05-14T17:30:00+00:00": 213.44000244140625,
+      "2024-05-14T18:30:00+00:00": 213.47999572753906,
+      "2024-05-14T19:30:00+00:00": 213.72999572753906
+    },
+    "sentiment": 0.8835722208023071
+  },
+  {
+    "title": "Are You a Growth Investor? This 1 Stock Could Be the Perfect Pick",
+    "published": 1715607911,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 216.5,
+      "2024-05-13T14:30:00+00:00": 214.22500610351562,
+      "2024-05-13T15:30:00+00:00": 214.1750030517578,
+      "2024-05-13T16:30:00+00:00": 214.0500030517578,
+      "2024-05-13T17:30:00+00:00": 214.0,
+      "2024-05-13T18:30:00+00:00": 213.97500610351562,
+      "2024-05-13T19:30:00+00:00": 213.14500427246094
+    },
+    "sentiment": 0.8564961552619934
+  },
+  {
+    "title": "$100 Invested In Progressive 15 Years Ago Would Be Worth This Much Today",
+    "published": 1715592900,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 216.5,
+      "2024-05-13T14:30:00+00:00": 214.22500610351562,
+      "2024-05-13T15:30:00+00:00": 214.1750030517578,
+      "2024-05-13T16:30:00+00:00": 214.0500030517578,
+      "2024-05-13T17:30:00+00:00": 214.0,
+      "2024-05-13T18:30:00+00:00": 213.97500610351562,
+      "2024-05-13T19:30:00+00:00": 213.14500427246094
+    },
+    "sentiment": 0.9005959033966064
+  },
+  {
+    "title": "Progressive Corp. stock underperforms Thursday when compared to competitors",
+    "published": 1715226240,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 214.5500030517578,
+      "2024-05-09T14:30:00+00:00": 214.72500610351562,
+      "2024-05-09T15:30:00+00:00": 214.5,
+      "2024-05-09T16:30:00+00:00": 214.36000061035156,
+      "2024-05-09T17:30:00+00:00": 214.64999389648438,
+      "2024-05-09T18:30:00+00:00": 213.85000610351562,
+      "2024-05-09T19:30:00+00:00": 213.6999969482422
+    },
+    "sentiment": 0.9074568152427673
+  },
+  {
+    "title": "Progressive Corp (PGR) Q1 2024 Earnings Call Transcript Highlights: Strategic Insights and ...",
+    "published": 1715153172,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 216.4600067138672,
+      "2024-05-08T14:30:00+00:00": 217.1999969482422,
+      "2024-05-08T15:30:00+00:00": 217.01499938964844,
+      "2024-05-08T16:30:00+00:00": 216.3800048828125,
+      "2024-05-08T17:30:00+00:00": 216.51739501953125,
+      "2024-05-08T18:30:00+00:00": 216.42999267578125,
+      "2024-05-08T19:30:00+00:00": 216.25
+    },
+    "sentiment": 0.8315190076828003
+  },
+  {
+    "title": "3 Top-Ranked Large Caps To Buy For Growth",
+    "published": 1716427020,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 205.75,
+      "2024-05-23T14:30:00+00:00": 207.1300048828125,
+      "2024-05-23T15:30:00+00:00": 205.84500122070312,
+      "2024-05-23T16:30:00+00:00": 205.27000427246094,
+      "2024-05-23T17:30:00+00:00": 204.39999389648438,
+      "2024-05-23T18:30:00+00:00": 203.38999938964844,
+      "2024-05-23T19:30:00+00:00": 204.0399932861328
+    },
+    "sentiment": 0.8570529222488403
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Stocks recently featured in the blog include: The Progressive, Emerson Electric, The TJX Companies, AutoZone and TransDigm",
+    "published": 1716289560,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 207.99000549316406,
+      "2024-05-21T14:30:00+00:00": 210.47000122070312,
+      "2024-05-21T15:30:00+00:00": 210.9499969482422,
+      "2024-05-21T16:30:00+00:00": 210.1199951171875,
+      "2024-05-21T17:30:00+00:00": 209.3699951171875,
+      "2024-05-21T18:30:00+00:00": 209.2100067138672,
+      "2024-05-21T19:30:00+00:00": 208.7899932861328
+    },
+    "sentiment": 0.9518533945083618
+  },
+  {
+    "title": "Analysts Offer Insights on Financial Companies: Progressive (PGR) and Webster Financial (WBS)",
+    "published": 1716195780,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 209.0,
+      "2024-05-20T14:30:00+00:00": 208.4600067138672,
+      "2024-05-20T15:30:00+00:00": 208.38499450683594,
+      "2024-05-20T16:30:00+00:00": 207.69000244140625,
+      "2024-05-20T17:30:00+00:00": 207.52999877929688,
+      "2024-05-20T18:30:00+00:00": 207.3699951171875,
+      "2024-05-20T19:30:00+00:00": 207.08999633789062
+    },
+    "sentiment": 0.9256528615951538
+  },
+  {
+    "title": "Progressive price target lowered by $1 at Wells Fargo, here's why",
+    "published": 1716184080,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 209.0,
+      "2024-05-20T14:30:00+00:00": 208.4600067138672,
+      "2024-05-20T15:30:00+00:00": 208.38499450683594,
+      "2024-05-20T16:30:00+00:00": 207.69000244140625,
+      "2024-05-20T17:30:00+00:00": 207.52999877929688,
+      "2024-05-20T18:30:00+00:00": 207.3699951171875,
+      "2024-05-20T19:30:00+00:00": 207.08999633789062
+    },
+    "sentiment": 0.8573171496391296
+  },
+  {
+    "title": "S&P 500 Achieves a New Milestone: 5 Non-Tech Picks",
+    "published": 1715949060,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 209.30999755859375,
+      "2024-05-17T14:30:00+00:00": 208.0399932861328,
+      "2024-05-17T15:30:00+00:00": 208.03500366210938,
+      "2024-05-17T16:30:00+00:00": 207.86000061035156,
+      "2024-05-17T17:30:00+00:00": 208.25999450683594,
+      "2024-05-17T18:30:00+00:00": 208.6999969482422,
+      "2024-05-17T19:30:00+00:00": 209.1300048828125
+    },
+    "sentiment": 0.883693516254425
+  },
+  {
+    "title": "5 Must-Buy High-Flying U.S. Giants on Favorable Economic Data",
+    "published": 1715948160,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 209.30999755859375,
+      "2024-05-17T14:30:00+00:00": 208.0399932861328,
+      "2024-05-17T15:30:00+00:00": 208.03500366210938,
+      "2024-05-17T16:30:00+00:00": 207.86000061035156,
+      "2024-05-17T17:30:00+00:00": 208.25999450683594,
+      "2024-05-17T18:30:00+00:00": 208.6999969482422,
+      "2024-05-17T19:30:00+00:00": 209.1300048828125
+    },
+    "sentiment": 0.8599593043327332
+  },
+  {
+    "title": "Progressive (PGR) Gets a Buy from BMO Capital",
+    "published": 1715916360,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 209.30999755859375,
+      "2024-05-17T14:30:00+00:00": 208.0399932861328,
+      "2024-05-17T15:30:00+00:00": 208.03500366210938,
+      "2024-05-17T16:30:00+00:00": 207.86000061035156,
+      "2024-05-17T17:30:00+00:00": 208.25999450683594,
+      "2024-05-17T18:30:00+00:00": 208.6999969482422,
+      "2024-05-17T19:30:00+00:00": 209.1300048828125
+    },
+    "sentiment": 0.7122001647949219
+  },
+  {
+    "title": "Planet Green Appoints Mr. Steven Sirbovan to Advisory Board",
+    "published": 1715878800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 209.99000549316406,
+      "2024-05-16T14:30:00+00:00": 207.7100067138672,
+      "2024-05-16T15:30:00+00:00": 206.57000732421875,
+      "2024-05-16T16:30:00+00:00": 206.30999755859375,
+      "2024-05-16T17:30:00+00:00": 207.0740966796875,
+      "2024-05-16T18:30:00+00:00": 206.47000122070312,
+      "2024-05-16T19:30:00+00:00": 207.33999633789062
+    },
+    "sentiment": 0.9206878542900085
   },
   {
     "title": "Progressive (PGR) Receives a Hold from KBW",
-    "published": 1713170820,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
-  },
-  {
-    "title": "Progressive price target raised by $6 at Wells Fargo, here's why",
-    "published": 1713158580,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
-  },
-  {
-    "title": "Could This Be The Mystery Stock Billionaire Warren Buffett Has Been Adding to Berkshire Hathaway's Portfolio?",
-    "published": 1713088980,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
-  },
-  {
-    "title": "Progressive First Quarter 2024 Earnings: Beats Expectations",
-    "published": 1713010738,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
-  },
-  {
-    "title": "Progressive: Record Policy-Count Growth Amid Sky-High Auto Premiums (Rating Downgrade)",
-    "published": 1713006900,
-    "posting_price": 203.6599858,
-    "close_price": 202.51307678,
-    "percent_change": -0.56314892
-  },
-  {
-    "title": "Progressive's (PGR) Q1 Earnings, Revenues Top, Premiums Rise Y/Y",
-    "published": 1712934660,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Sticky Inflation Delays Rate Cut Expectations: 5 Low-Beta Picks",
-    "published": 1712928420,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights ServiceNow, The Progressive, Analog Devices, The Southern Company and Welltower",
-    "published": 1712927220,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-    "published": 1712924940,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "JPMorgan Chase, Advanced Micro Devices fall; Progressive, Exxon Mobil rise, 4/12/2024",
-    "published": 1712924760,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive Reports March 2024 Results",
-    "published": 1712924100,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "PGR Stock Earnings: Progressive Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1712923080,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive: This Winner Has Much More Long-Term Upside",
-    "published": 1712921425,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive's profit beats expectations on strong demand for insurance policies",
-    "published": 1712918283,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive: Q1 Earnings Snapshot",
-    "published": 1712910420,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive GAAP EPS of $3.94 beats by $0.64, net premiums earned of $16.15B misses by $1.06B",
-    "published": 1712906760,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive reports March EPS $1.52",
-    "published": 1712906460,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Progressive reports Q1 EPS $3.94, consensus $3.17",
-    "published": 1712906340,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Earnings Scheduled For April 12, 2024",
-    "published": 1712902860,
-    "posting_price": 203.89523924,
-    "close_price": 199.87614441,
-    "percent_change": -1.97115678
-  },
-  {
-    "title": "Top Research Reports for ServiceNow, Progressive & Analog Devices",
-    "published": 1712860260,
-    "posting_price": 202.17978948,
-    "close_price": 198.26852417,
-    "percent_change": -1.93454812
-  },
-  {
-    "title": "Progressive price target raised by $19 at Morgan Stanley, here's why",
-    "published": 1712814540,
-    "posting_price": 202.17978948,
-    "close_price": 198.26852417,
-    "percent_change": -1.93454812
-  },
-  {
-    "title": "Wells Fargo Keeps Their Buy Rating on Progressive (PGR)",
-    "published": 1712814420,
-    "posting_price": 202.17978948,
-    "close_price": 198.26852417,
-    "percent_change": -1.93454812
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: KKR & Co (KKR) and Progressive (PGR)",
-    "published": 1712811060,
-    "posting_price": 202.17978948,
-    "close_price": 198.26852417,
-    "percent_change": -1.93454812
-  },
-  {
-    "title": "Progressive Q4 2024 Earnings Preview",
-    "published": 1712797440,
-    "posting_price": 202.17978948,
-    "close_price": 198.26852417,
-    "percent_change": -1.93454812
-  },
-  {
-    "title": "Bank of America Securities Reaffirms Their Buy Rating on Progressive (PGR)",
-    "published": 1712741940,
-    "posting_price": 199.92517517,
-    "close_price": 202.08175659,
-    "percent_change": 1.07869428
-  },
-  {
-    "title": "Is a Beat in Store for Progressive (PGR) This Earnings Season?",
-    "published": 1712684160,
-    "posting_price": 206.40474686,
-    "close_price": 200.76821899,
-    "percent_change": -2.7308131
-  },
-  {
-    "title": "Progressive price target raised by $31 at JPMorgan, here's why",
-    "published": 1712555040,
-    "posting_price": 206.54196283,
-    "close_price": 206.23808289,
-    "percent_change": -0.14712746
-  },
-  {
-    "title": "Progressive (PGR) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-    "published": 1712325607,
-    "posting_price": 206.09104783,
-    "close_price": 206.83604431,
-    "percent_change": 0.36148901
-  },
-  {
-    "title": "US Labor Market Heats Up In March: Payrolls Grow By 303,000, Highest In 10 Months, Dampen June Rate Cut Hopes (UPDATED)",
-    "published": 1712305140,
-    "posting_price": 206.09104783,
-    "close_price": 206.83604431,
-    "percent_change": 0.36148901
-  },
-  {
-    "title": "Progressive Corp. stock rises Friday, still underperforms market",
-    "published": 1712288700,
-    "posting_price": 206.09104783,
-    "close_price": 206.83604431,
-    "percent_change": 0.36148901
-  },
-  {
-    "title": "Time to Buy These Red-Hot Property and Casualty Insurance Stocks",
-    "published": 1712273880,
-    "posting_price": 207.0321064,
-    "close_price": 205.11079407,
-    "percent_change": -0.92802627
-  },
-  {
-    "title": "A 20% Job Cut at Berkshire\u2019s Geico Highlights Challenge for Car Insurer",
-    "published": 1712248200,
-    "posting_price": 207.0321064,
-    "close_price": 205.11079407,
-    "percent_change": -0.92802627
-  },
-  {
-    "title": "Unveiling the Hidden Gem in the Stock Market - How Progressive's Quiet Surge Mirrors Nvidia's Early Days and Promises Explosive Growth Ahead!",
-    "published": 1712208000,
-    "posting_price": 207.0321064,
-    "close_price": 205.11079407,
-    "percent_change": -0.92802627
-  },
-  {
-    "title": "A Closer Look at Progressive's Options Market Dynamics",
-    "published": 1712202600,
-    "posting_price": 207.0321064,
-    "close_price": 205.11079407,
-    "percent_change": -0.92802627
-  },
-  {
-    "title": "The Art Of Selling Stocks: A Q1 Portfolio Review",
-    "published": 1712162372,
-    "posting_price": 206.14005742,
-    "close_price": 206.6105957,
-    "percent_change": 0.22826145
-  },
-  {
-    "title": "Progressive : CLEVELAND GUARDIANS, PROGRESSIVE INSURANCE\u00ae EXTEND NAMING RIGHTS TO PROGRESSIVE FIELD THROUGH 2036",
-    "published": 1712155928,
-    "posting_price": 206.14005742,
-    "close_price": 206.6105957,
-    "percent_change": 0.22826145
-  },
-  {
-    "title": "Here's How Much $1000 Invested In Progressive 15 Years Ago Would Be Worth Today",
-    "published": 1712142240,
-    "posting_price": 206.14005742,
-    "close_price": 206.6105957,
-    "percent_change": 0.22826145
-  },
-  {
-    "title": "Buy Rating for Progressive\u2019s Stock: A Strong Long-Term Investment with Compelling Growth Prospects",
-    "published": 1712120820,
-    "posting_price": 206.14005742,
-    "close_price": 206.6105957,
-    "percent_change": 0.22826145
-  },
-  {
-    "title": "This Demand Zone In S&P 500 Needs To Hold",
-    "published": 1712111640,
-    "posting_price": 206.14005742,
-    "close_price": 206.6105957,
-    "percent_change": 0.22826145
-  },
-  {
-    "title": "Top 5 Momentum Stocks for April After a Strong March",
-    "published": 1712058840,
-    "posting_price": 205.71859226,
-    "close_price": 205.78717041,
-    "percent_change": 0.0333359
-  },
-  {
-    "title": "Progressive price target lowered by $1 at BofA, here's why",
-    "published": 1712035320,
-    "posting_price": 205.71859226,
-    "close_price": 205.78717041,
-    "percent_change": 0.0333359
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Progressive (PGR) and Blackstone Group (BX)",
-    "published": 1712032320,
-    "posting_price": 205.71859226,
-    "close_price": 205.78717041,
-    "percent_change": 0.0333359
-  },
-  {
-    "title": "Dow Jones Leader Microsoft, Magnificent Seven Stock Google Boast Rising Profit Estimates",
-    "published": 1712030398,
-    "posting_price": 205.71859226,
-    "close_price": 205.78717041,
-    "percent_change": 0.0333359
-  },
-  {
-    "title": "Progressive Announces Investor Relations Call",
-    "published": 1714507560,
-    "posting_price": 202.75814168,
-    "close_price": 204.14031982,
-    "percent_change": 0.68168811
-  },
-  {
-    "title": "See Which Of The Latest 13F Filers Holds Progressive",
-    "published": 1714472580,
-    "posting_price": 202.75814168,
-    "close_price": 204.14031982,
-    "percent_change": 0.68168811
-  },
-  {
-    "title": "Progressive Insurance\u00ae Continued Growth Leads to More Than 10,000 Open Roles in 2024",
-    "published": 1714408320,
-    "posting_price": 203.89527747,
-    "close_price": 202.59152222,
-    "percent_change": -0.63942396
-  },
-  {
-    "title": "The Progressive Corporation (PGR) Is a Trending Stock: Facts to Know Before Betting on It",
-    "published": 1714395615,
-    "posting_price": 203.89527747,
-    "close_price": 202.59152222,
-    "percent_change": -0.63942396
-  },
-  {
-    "title": "Progressive : Insurance\u00ae Continued Growth Leads to More Than 10,000 Open Roles in 2024",
-    "published": 1714392129,
-    "posting_price": 203.89527747,
-    "close_price": 202.59152222,
-    "percent_change": -0.63942396
-  },
-  {
-    "title": "Oppenheimer Keeps Their Buy Rating on Progress Software (PRGS)",
-    "published": 1714374000,
-    "posting_price": 203.89527747,
-    "close_price": 202.59152222,
-    "percent_change": -0.63942396
-  },
-  {
-    "title": "Kinsale Capital (KNSL) Q1 Earnings Top, Premiums Rise Y/Y",
-    "published": 1714150860,
-    "posting_price": 204.88533886,
-    "close_price": 203.92468262,
-    "percent_change": -0.46887505
-  },
-  {
-    "title": "Sail Through Market Volatility With These 4 Low-Beta Stocks",
-    "published": 1714135680,
-    "posting_price": 204.88533886,
-    "close_price": 203.92468262,
-    "percent_change": -0.46887505
-  },
-  {
-    "title": "$1000 Invested In This Stock 10 Years Ago Would Be Worth $8,600 Today",
-    "published": 1714105980,
-    "posting_price": 204.88533886,
-    "close_price": 203.92468262,
-    "percent_change": -0.46887505
-  },
-  {
-    "title": "Wall Street Analysts Think Progressive (PGR) Is a Good Investment: Is It?",
-    "published": 1714051811,
-    "posting_price": 207.95356544,
-    "close_price": 205.92442322,
-    "percent_change": -0.97576698
-  },
-  {
-    "title": "Artisan Global Value Fund Q1 2024 Commentary",
-    "published": 1714026600,
-    "posting_price": 207.95356544,
-    "close_price": 205.92442322,
-    "percent_change": -0.97576698
-  },
-  {
-    "title": "IAK: How This Fund Could Act As 'Insurance' In A Market Downturn",
-    "published": 1713935136,
-    "posting_price": 209.59058785,
-    "close_price": 208.01235962,
-    "percent_change": -0.7530053
-  },
-  {
-    "title": "Madison Sustainable Equity Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713933000,
-    "posting_price": 209.59058785,
-    "close_price": 208.01235962,
-    "percent_change": -0.7530053
-  },
-  {
-    "title": "Brown & Brown (BRO) Q1 Earnings & Revenues Surpass Estimates",
-    "published": 1713870660,
-    "posting_price": 209.51217759,
-    "close_price": 209.79646301,
-    "percent_change": 0.13568921
-  },
-  {
-    "title": "Big Monthly Dividends From Big Tech: JEPQ Vs. JEPI",
-    "published": 1713860100,
-    "posting_price": 209.51217759,
-    "close_price": 209.79646301,
-    "percent_change": 0.13568921
-  },
-  {
-    "title": "Progressive, Q2 Holdings And 2 Other Stocks Insiders Are Selling",
-    "published": 1713771480,
-    "posting_price": 210.81592994,
-    "close_price": 208.79658508,
-    "percent_change": -0.9578711
-  },
-  {
-    "title": "$1000 Invested In This Stock 20 Years Ago Would Be Worth $9,900 Today",
-    "published": 1713747960,
-    "posting_price": 210.81592994,
-    "close_price": 208.79658508,
-    "percent_change": -0.9578711
-  },
-  {
-    "title": "Director Devin Johnson Sells 1,000 Shares of Progressive Corp (PGR)",
-    "published": 1713553262,
-    "posting_price": 206.73801667,
-    "close_price": 210.45323181,
-    "percent_change": 1.79706432
-  },
-  {
-    "title": "Allstate, IBD Stock Of The Day, Rides Higher Insurance Rates, Better Luck Into Buy Zone",
-    "published": 1713505067,
-    "posting_price": 206.73801667,
-    "close_price": 210.45323181,
-    "percent_change": 1.79706432
-  },
-  {
-    "title": "Agree To Purchase Progressive At $135, Earn 3% Using Options",
-    "published": 1713436320,
-    "posting_price": 205.22841477,
-    "close_price": 205.61071777,
-    "percent_change": 0.18628171
-  },
-  {
-    "title": "The Progressive Corporation (PGR) Rose on Increased Underwriting Profits",
-    "published": 1713426554,
-    "posting_price": 205.22841477,
-    "close_price": 205.61071777,
-    "percent_change": 0.18628171
-  },
-  {
-    "title": "Want to save on your auto insurance? An agent explains how",
-    "published": 1713389436,
-    "posting_price": 204.95394476,
-    "close_price": 204.9931488,
-    "percent_change": 0.01912822
-  },
-  {
-    "title": "CET: Overweight Insurance Exposure Warrants Caution",
-    "published": 1713367147,
-    "posting_price": 204.95394476,
-    "close_price": 204.9931488,
-    "percent_change": 0.01912822
-  },
-  {
-    "title": "Progressive (PGR) Price Target Increased by 5.51% to 231.68",
-    "published": 1713333923,
-    "posting_price": 204.95394476,
-    "close_price": 204.9931488,
-    "percent_change": 0.01912822
-  },
-  {
-    "title": "Progressive\u2019s Strong Underwriting Performance Signals Buy Rating",
-    "published": 1713332160,
-    "posting_price": 204.95394476,
-    "close_price": 204.9931488,
-    "percent_change": 0.01912822
-  },
-  {
-    "title": "Progressive price target lowered by $6 at BofA, here's why",
-    "published": 1713331500,
-    "posting_price": 204.95394476,
-    "close_price": 204.9931488,
-    "percent_change": 0.01912822
-  },
-  {
-    "title": "Planet Green Appoints Dr. Sandy M. Archibald as New Director and Grant Options",
-    "published": 1713286800,
-    "posting_price": 203.56197184,
-    "close_price": 204.23835754,
-    "percent_change": 0.33227508
-  },
-  {
-    "title": "Investors Heavily Search The Progressive Corporation (PGR): Here is What You Need to Know",
-    "published": 1713272417,
-    "posting_price": 203.56197184,
-    "close_price": 204.23835754,
-    "percent_change": 0.33227508
-  },
-  {
-    "title": "Analysts Offer Insights on Financial Companies: Blackstone Group (BX), Progressive (PGR) and China Minsheng Banking (OtherCGMBF)",
-    "published": 1713251460,
-    "posting_price": 203.56197184,
-    "close_price": 204.23835754,
-    "percent_change": 0.33227508
-  },
-  {
-    "title": "Progressive price target raised by $2 at UBS, here's why",
-    "published": 1713250620,
-    "posting_price": 203.56197184,
-    "close_price": 204.23835754,
-    "percent_change": 0.33227508
-  },
-  {
-    "title": "Planet Green Welcomes New Expert Director",
-    "published": 1713245880,
-    "posting_price": 203.56197184,
-    "close_price": 204.23835754,
-    "percent_change": 0.33227508
+    "published": 1715862420,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 209.99000549316406,
+      "2024-05-16T14:30:00+00:00": 207.7100067138672,
+      "2024-05-16T15:30:00+00:00": 206.57000732421875,
+      "2024-05-16T16:30:00+00:00": 206.30999755859375,
+      "2024-05-16T17:30:00+00:00": 207.0740966796875,
+      "2024-05-16T18:30:00+00:00": 206.47000122070312,
+      "2024-05-16T19:30:00+00:00": 207.33999633789062
+    },
+    "sentiment": 0.9027031064033508
+  },
+  {
+    "title": "Beyond The Numbers: 20 Analysts Discuss Progressive Stock",
+    "published": 1715861100,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 209.99000549316406,
+      "2024-05-16T14:30:00+00:00": 207.7100067138672,
+      "2024-05-16T15:30:00+00:00": 206.57000732421875,
+      "2024-05-16T16:30:00+00:00": 206.30999755859375,
+      "2024-05-16T17:30:00+00:00": 207.0740966796875,
+      "2024-05-16T18:30:00+00:00": 206.47000122070312,
+      "2024-05-16T19:30:00+00:00": 207.33999633789062
+    },
+    "sentiment": 0.9370161294937134
+  },
+  {
+    "title": "Progressive price target raised by $7 at BofA, here's why",
+    "published": 1715840220,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 209.99000549316406,
+      "2024-05-16T14:30:00+00:00": 207.7100067138672,
+      "2024-05-16T15:30:00+00:00": 206.57000732421875,
+      "2024-05-16T16:30:00+00:00": 206.30999755859375,
+      "2024-05-16T17:30:00+00:00": 207.0740966796875,
+      "2024-05-16T18:30:00+00:00": 206.47000122070312,
+      "2024-05-16T19:30:00+00:00": 207.33999633789062
+    },
+    "sentiment": 0.8252474069595337
+  },
+  {
+    "title": "Buy Rating Affirmed for Progressive Amid Solid Performance and Growth Prospects",
+    "published": 1715836020,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 209.99000549316406,
+      "2024-05-16T14:30:00+00:00": 207.7100067138672,
+      "2024-05-16T15:30:00+00:00": 206.57000732421875,
+      "2024-05-16T16:30:00+00:00": 206.30999755859375,
+      "2024-05-16T17:30:00+00:00": 207.0740966796875,
+      "2024-05-16T18:30:00+00:00": 206.47000122070312,
+      "2024-05-16T19:30:00+00:00": 207.33999633789062
+    },
+    "sentiment": 0.9499173760414124
   }
 ]

@@ -1,1003 +1,230 @@
 [
   {
-    "title": "Homebuilder confidence unchanged in April on mortgage rates",
-    "published": 1713198986,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "KBW Keeps Their Buy Rating on DR Horton (DHI)",
+    "published": 1715084760,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 151.85000610351562,
+      "2024-05-07T14:30:00+00:00": 152.88009643554688,
+      "2024-05-07T15:30:00+00:00": 152.17999267578125,
+      "2024-05-07T16:30:00+00:00": 152.6300048828125,
+      "2024-05-07T17:30:00+00:00": 152.0399932861328,
+      "2024-05-07T18:30:00+00:00": 151.56910705566406,
+      "2024-05-07T19:30:00+00:00": 151.72500610351562
+    },
+    "sentiment": 0.907665491104126
   },
   {
-    "title": "What Analyst Projections for Key Metrics Reveal About D.R. Horton (DHI) Q2 Earnings",
-    "published": 1713187160,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "Chevron, Yum! Brands And 2 Other Stocks Insiders Are Selling",
+    "published": 1715066100,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 151.85000610351562,
+      "2024-05-07T14:30:00+00:00": 152.88009643554688,
+      "2024-05-07T15:30:00+00:00": 152.17999267578125,
+      "2024-05-07T16:30:00+00:00": 152.6300048828125,
+      "2024-05-07T17:30:00+00:00": 152.0399932861328,
+      "2024-05-07T18:30:00+00:00": 151.56910705566406,
+      "2024-05-07T19:30:00+00:00": 151.72500610351562
+    },
+    "sentiment": 0.9334544539451599
   },
   {
-    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
-    "published": 1713178620,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "Investors in D.R. Horton (NYSE:DHI) have seen splendid returns of 259% over the past five years",
+    "published": 1714829684,
+    "day_prices": {},
+    "sentiment": 0.8590047359466553
   },
   {
-    "title": "D.R. Horton price target lowered by $5 at BTIG, here's why",
-    "published": 1713163620,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "Why D.R. Horton (DHI) is a Top Value Stock for the Long-Term",
+    "published": 1715780412,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 151.77999877929688,
+      "2024-05-15T14:30:00+00:00": 153.77999877929688,
+      "2024-05-15T15:30:00+00:00": 153.9600067138672,
+      "2024-05-15T16:30:00+00:00": 154.84500122070312,
+      "2024-05-15T17:30:00+00:00": 156.5050048828125,
+      "2024-05-15T18:30:00+00:00": 155.75999450683594,
+      "2024-05-15T19:30:00+00:00": 156.66000366210938
+    },
+    "sentiment": 0.9102571606636047
   },
   {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Consumer Cyclical Stocks: Penn National Gaming (PENN) and DR Horton (DHI)",
-    "published": 1713163260,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "Soros Fund Management's top buy and sells in Q1",
+    "published": 1715751180,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 151.77999877929688,
+      "2024-05-15T14:30:00+00:00": 153.77999877929688,
+      "2024-05-15T15:30:00+00:00": 153.9600067138672,
+      "2024-05-15T16:30:00+00:00": 154.84500122070312,
+      "2024-05-15T17:30:00+00:00": 156.5050048828125,
+      "2024-05-15T18:30:00+00:00": 155.75999450683594,
+      "2024-05-15T19:30:00+00:00": 156.66000366210938
+    },
+    "sentiment": 0.8918415307998657
   },
   {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
-    "published": 1713160860,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "S&P 500, Nasdaq 100, Dow Jones Shatter Record Highs In Unstoppable Bull Market Rally",
+    "published": 1715743320,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 151.77999877929688,
+      "2024-05-15T14:30:00+00:00": 153.77999877929688,
+      "2024-05-15T15:30:00+00:00": 153.9600067138672,
+      "2024-05-15T16:30:00+00:00": 154.84500122070312,
+      "2024-05-15T17:30:00+00:00": 156.5050048828125,
+      "2024-05-15T18:30:00+00:00": 155.75999450683594,
+      "2024-05-15T19:30:00+00:00": 156.66000366210938
+    },
+    "sentiment": 0.7128360867500305
   },
   {
-    "title": "Wells Fargo Keeps Their Buy Rating on DR Horton (DHI)",
-    "published": 1713158760,
-    "posting_price": 149.71985643,
-    "close_price": 147.71818542,
-    "percent_change": -1.33694425
+    "title": "Stock market today: Wall Street rallies to records after inflation slows",
+    "published": 1715741820,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 151.77999877929688,
+      "2024-05-15T14:30:00+00:00": 153.77999877929688,
+      "2024-05-15T15:30:00+00:00": 153.9600067138672,
+      "2024-05-15T16:30:00+00:00": 154.84500122070312,
+      "2024-05-15T17:30:00+00:00": 156.5050048828125,
+      "2024-05-15T18:30:00+00:00": 155.75999450683594,
+      "2024-05-15T19:30:00+00:00": 156.66000366210938
+    },
+    "sentiment": 0.9079775810241699
   },
   {
-    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
-    "published": 1713078360,
-    "posting_price": 149.7198719,
-    "close_price": 147.71820068,
-    "percent_change": -1.33694425
+    "title": "Home builders\u2019 stocks have soared since we said they were cheap. These five are expected to grow profits rapidly through 2025.",
+    "published": 1715160480,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 149.99000549316406,
+      "2024-05-08T14:30:00+00:00": 149.92999267578125,
+      "2024-05-08T15:30:00+00:00": 149.0800018310547,
+      "2024-05-08T16:30:00+00:00": 148.52999877929688,
+      "2024-05-08T17:30:00+00:00": 148.35000610351562,
+      "2024-05-08T18:30:00+00:00": 148.75,
+      "2024-05-08T19:30:00+00:00": 148.13999938964844
+    },
+    "sentiment": 0.9310067296028137
   },
   {
-    "title": "Bank earnings, housing, Trump trial: What to Watch Next Week",
-    "published": 1712954695,
-    "posting_price": 148.12447039,
-    "close_price": 150.33425903,
-    "percent_change": 1.49184577
+    "title": "Toll Brothers (TOL) Q2 Earnings Miss, Revenues Beat, Guidance Up",
+    "published": 1716385560,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 148.5,
+      "2024-05-22T14:30:00+00:00": 146.4949951171875,
+      "2024-05-22T15:30:00+00:00": 145.8000030517578,
+      "2024-05-22T16:30:00+00:00": 146.1999969482422,
+      "2024-05-22T17:30:00+00:00": 146.1300048828125,
+      "2024-05-22T18:30:00+00:00": 144.49000549316406,
+      "2024-05-22T19:30:00+00:00": 144.55999755859375
+    },
+    "sentiment": 0.8125450611114502
   },
   {
-    "title": "DocuSign upgraded, Arista downgraded: Wall Street's top analyst calls",
-    "published": 1712911020,
-    "posting_price": 148.12447039,
-    "close_price": 150.33425903,
-    "percent_change": 1.49184577
+    "title": "Wall Street Analysts Just Trimmed Price Target for D.R. Horton, Inc. (NYSE:DHI)",
+    "published": 1716306035,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 149.8300018310547,
+      "2024-05-21T14:30:00+00:00": 148.9250030517578,
+      "2024-05-21T15:30:00+00:00": 149.02999877929688,
+      "2024-05-21T16:30:00+00:00": 148.91000366210938,
+      "2024-05-21T17:30:00+00:00": 148.80999755859375,
+      "2024-05-21T18:30:00+00:00": 148.97999572753906,
+      "2024-05-21T19:30:00+00:00": 149.22500610351562
+    },
+    "sentiment": 0.7894224524497986
   },
   {
-    "title": "D.R. Horton just downgraded at Zelman\t, here's why",
-    "published": 1712904540,
-    "posting_price": 148.12447039,
-    "close_price": 150.33425903,
-    "percent_change": 1.49184577
+    "title": "3 Homebuilder Stocks to Buy on Tight Supply and High Demand",
+    "published": 1716123600,
+    "day_prices": {},
+    "sentiment": 0.8971350789070129
+  },
+  {
+    "title": "D.R. Horton, Inc. Announces the Passing of Company Founder and Chairman, Donald R. Horton",
+    "published": 1715941800,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 152.30999755859375,
+      "2024-05-17T14:30:00+00:00": 151.88999938964844,
+      "2024-05-17T15:30:00+00:00": 151.5399932861328,
+      "2024-05-17T16:30:00+00:00": 151.47000122070312,
+      "2024-05-17T17:30:00+00:00": 151.61000061035156,
+      "2024-05-17T18:30:00+00:00": 151.6300048828125,
+      "2024-05-17T19:30:00+00:00": 151.52000427246094
+    },
+    "sentiment": 0.9074622988700867
+  },
+  {
+    "title": "D.R. Horton price target lowered by $10 at Citi, here's why",
+    "published": 1715920620,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 152.30999755859375,
+      "2024-05-17T14:30:00+00:00": 151.88999938964844,
+      "2024-05-17T15:30:00+00:00": 151.5399932861328,
+      "2024-05-17T16:30:00+00:00": 151.47000122070312,
+      "2024-05-17T17:30:00+00:00": 151.61000061035156,
+      "2024-05-17T18:30:00+00:00": 151.6300048828125,
+      "2024-05-17T19:30:00+00:00": 151.52000427246094
+    },
+    "sentiment": 0.8532339334487915
+  },
+  {
+    "title": "Stock market today: Asian shares retreat after Wall St edges back from records",
+    "published": 1715828220,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 156.5800018310547,
+      "2024-05-16T14:30:00+00:00": 154.3834991455078,
+      "2024-05-16T15:30:00+00:00": 154.47000122070312,
+      "2024-05-16T16:30:00+00:00": 153.97500610351562,
+      "2024-05-16T17:30:00+00:00": 153.41000366210938,
+      "2024-05-16T18:30:00+00:00": 152.38999938964844,
+      "2024-05-16T19:30:00+00:00": 152.6300048828125
+    },
+    "sentiment": 0.9641387462615967
   },
   {
     "title": "Here's Why D.R. Horton (DHI) is a Strong Value Stock",
-    "published": 1712842806,
-    "posting_price": 147.87673464,
-    "close_price": 149.32350159,
-    "percent_change": 0.97836009
-  },
-  {
-    "title": "Long-term mortgage rates near 7% mark",
-    "published": 1712834460,
-    "posting_price": 147.87673464,
-    "close_price": 149.32350159,
-    "percent_change": 0.97836009
-  },
-  {
-    "title": "The 3 Top Home Builder Stocks to Buy in April 2024",
-    "published": 1712776813,
-    "posting_price": 149.68022062,
-    "close_price": 146.90560913,
-    "percent_change": -1.85369281
-  },
-  {
-    "title": "Property stocks drop as hot inflation data weigh on rate-cut bets",
-    "published": 1712745420,
-    "posting_price": 149.68022062,
-    "close_price": 146.90560913,
-    "percent_change": -1.85369281
-  },
-  {
-    "title": "Stock market today: Asian shares are mixed, taking hot US inflation data in stride",
-    "published": 1712718300,
-    "posting_price": 149.68022062,
-    "close_price": 146.90560913,
-    "percent_change": -1.85369281
-  },
-  {
-    "title": "Stock market today: Wall Street falls after hot inflation report burns hopes for a June rate cut",
-    "published": 1712718300,
-    "posting_price": 149.68022062,
-    "close_price": 146.90560913,
-    "percent_change": -1.85369281
-  },
-  {
-    "title": "D.R. Horton (DHI) Rises Higher Than Market: Key Facts",
-    "published": 1712700921,
-    "posting_price": 157.00321036,
-    "close_price": 156.93383789,
-    "percent_change": -0.04418538
-  },
-  {
-    "title": "Quarterly Update: Analyzing Cavco's Triumph In Affordable Housing",
-    "published": 1712649479,
-    "posting_price": 157.00321036,
-    "close_price": 156.93383789,
-    "percent_change": -0.04418538
-  },
-  {
-    "title": "DR Horton (DHI) Receives a Buy from Wells Fargo",
-    "published": 1712553480,
-    "posting_price": 157.16178297,
-    "close_price": 155.31864929,
-    "percent_change": -1.17276201
-  },
-  {
-    "title": "Forestar Group (NYSE:FOR): An Attractive Investment Amid Anticipated Housing Uptick",
-    "published": 1712551680,
-    "posting_price": 157.16178297,
-    "close_price": 155.31864929,
-    "percent_change": -1.17276201
-  },
-  {
-    "title": "D.R. Horton Shares Building Value on Heavy Institutional Demand",
-    "published": 1712349305,
-    "posting_price": 154.71416298,
-    "close_price": 157.08248901,
-    "percent_change": 1.53077519
-  },
-  {
-    "title": "D.R. Horton price target raised by $25 at Citi, here's why",
-    "published": 1712292420,
-    "posting_price": 154.71416298,
-    "close_price": 157.08248901,
-    "percent_change": 1.53077519
-  },
-  {
-    "title": "3 Top Ways to Play 2024\u2019s Wild Real Estate Market",
-    "published": 1712289480,
-    "posting_price": 154.71416298,
-    "close_price": 157.08248901,
-    "percent_change": 1.53077519
-  },
-  {
-    "title": "Mortgage rates show little movement, rates not expected to decrease meaningfully",
-    "published": 1712229600,
-    "posting_price": 158.53916936,
-    "close_price": 154.71417236,
-    "percent_change": -2.41265109
-  },
-  {
-    "title": "D.R. Horton price target raised by $20 at Barclays, here's why",
-    "published": 1712206140,
-    "posting_price": 158.53916936,
-    "close_price": 154.71417236,
-    "percent_change": -2.41265109
-  },
-  {
-    "title": "D.R. Horton Inc. stock outperforms competitors despite losses on the day",
-    "published": 1712202960,
-    "posting_price": 158.53916936,
-    "close_price": 154.71417236,
-    "percent_change": -2.41265109
-  },
-  {
-    "title": "D.R. Horton (DHI) Surpasses Market Returns: Some Facts Worth Knowing",
-    "published": 1712182519,
-    "posting_price": 153.09895434,
-    "close_price": 156.38885498,
-    "percent_change": 2.14887205
-  },
-  {
-    "title": "Wedbush Downgrades D.R. Horton (DHI)",
-    "published": 1712101150,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Homebuilding sector may be affected by seasonality: Analyst",
-    "published": 1712090426,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Lennar, DHI, LGIH, MTH, CCS downgraded as Wedbush gets bearish on homebuilders",
-    "published": 1712050860,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Estee Lauder upgraded, Petco downgraded: Wall Street's top analyst calls",
-    "published": 1712048040,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Dick\u2019s Sporting Goods (DKS), ACV Auctions (ACVA) and DR Horton (DHI)",
-    "published": 1712047860,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Wedbush more bearish on D.R. Horton, downgrades to Underperform",
-    "published": 1712036880,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Wedbush gets more bearish on D.R. Horton, downgrades shares",
-    "published": 1712036520,
-    "posting_price": 155.46727086,
-    "close_price": 154.23851013,
-    "percent_change": -0.79036618
-  },
-  {
-    "title": "Here is What to Know Beyond Why D.R. Horton, Inc. (DHI) is a Trending Stock",
-    "published": 1714482010,
-    "posting_price": 142.93200661,
-    "close_price": 141.19787598,
-    "percent_change": -1.21325564
-  },
-  {
-    "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
-    "published": 1714398011,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "Mortgage Rates Are Above 7%. How to Score a Lower One.",
-    "published": 1714282200,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "D.R. Horton: Long-Term Dividend Growth - Just Getting Started",
-    "published": 1714384800,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "Forestar Group Stock To Benefit From The Real Estate Shortage",
-    "published": 1714383303,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "M/I Homes:\u00a0Strong Foundations Will Allow It To Continue Growing",
-    "published": 1714298853,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "Monthly Options Series: Earn A Potentially Consistent 10% Income (May 2024)",
-    "published": 1714296600,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 28",
-    "published": 1714210198,
-    "posting_price": 145.23094734,
-    "close_price": 144.64630127,
-    "percent_change": -0.40256301
-  },
-  {
-    "title": "Biggest Landlords Pile Into 'Build-To-Rent' Single-Family Houses, But Sell Older Houses Into This Overpriced Market",
-    "published": 1714131000,
-    "posting_price": 143.61570327,
-    "close_price": 144.01208496,
-    "percent_change": 0.27600164
-  },
-  {
-    "title": "Peering Into D.R. Horton's Recent Short Interest",
-    "published": 1714122960,
-    "posting_price": 143.61570327,
-    "close_price": 144.01208496,
-    "percent_change": 0.27600164
-  },
-  {
-    "title": "D.R. Horton: Looking Like 'Dead Money' At Best",
-    "published": 1714113611,
-    "posting_price": 143.61570327,
-    "close_price": 144.01208496,
-    "percent_change": 0.27600164
-  },
-  {
-    "title": "California's $250 Million 'Dream For All' Program Shells Out $150K In First-Time Homebuyer Funds Despite State's $73 Billion Deficit",
-    "published": 1714066463,
-    "posting_price": 141.58434237,
-    "close_price": 142.8923645,
-    "percent_change": 0.9238466
-  },
-  {
-    "title": "10 Best Consumer Discretionary Dividend Stocks To Buy According to Analysts",
-    "published": 1714059459,
-    "posting_price": 141.58434237,
-    "close_price": 142.8923645,
-    "percent_change": 0.9238466
-  },
-  {
-    "title": "APA Corp Leads Smead Value Fund's Q1 2024 Portfolio Adjustments with 0.68% Impact",
-    "published": 1714021260,
-    "posting_price": 141.58434237,
-    "close_price": 142.8923645,
-    "percent_change": 0.9238466
-  },
-  {
-    "title": "Decoding D.R. Horton Inc (DHI): A Strategic SWOT Insight",
-    "published": 1713934890,
-    "posting_price": 146.27141542,
-    "close_price": 144.79492188,
-    "percent_change": -1.00942042
-  },
-  {
-    "title": "The Top 3 Homebuilder Stocks Worth Adding to Your April Buy List",
-    "published": 1713892817,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "PulteGroup Stock Jumps on Earnings Beat. \u2018Shortage of Several Million Homes\u2019 Spurs Demand.",
-    "published": 1713877080,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "VOE: Ahead Of Peers In 2024, But Average In The Long Term",
-    "published": 1713865679,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "Baron Real Estate Fund Q1 2024 Shareholder Letter",
-    "published": 1713862200,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "XHB: 3 Negatives And 2 Positives For Home Builders",
-    "published": 1713858488,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Wayfair (W), DR Horton (DHI) and Aristocrat Leisure Limited (OtherARLUF)",
-    "published": 1713856260,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "Wall Street Set To Open Higher As Tesla Kicks Off 'Magnificent 7' Earnings: Why This Analyst Thinks Market Weakness Is A 'Healthy Pullback'",
-    "published": 1713853440,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "Wall Street Set To Open Higher As Tesla To Kick Off 'Magnificent 7' Earnings: Why This Analyst Thinks Market Weakness Is A 'Healthy Pullback'",
-    "published": 1713852120,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "Third Avenue International Real Estate Value Fund Q1 2024 Portfolio Manager Commentary",
-    "published": 1713849300,
-    "posting_price": 143.239169,
-    "close_price": 146.68760681,
-    "percent_change": 2.40746846
-  },
-  {
-    "title": "Housing market: Mortgage rates bear down on homebuilder stocks",
-    "published": 1713823875,
-    "posting_price": 142.14915731,
-    "close_price": 141.77261353,
-    "percent_change": -0.26489343
-  },
-  {
-    "title": "This Bargain-Priced Homebuilder Stock Just Raised Its Guidance. Is It a Buy Now?",
-    "published": 1713712020,
-    "posting_price": 142.14915731,
-    "close_price": 141.77261353,
-    "percent_change": -0.26489343
-  },
-  {
-    "title": "Earnings Beat: D.R. Horton, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
-    "published": 1713616369,
-    "posting_price": 142.14914201,
-    "close_price": 141.77259827,
-    "percent_change": -0.26489343
-  },
-  {
-    "title": "D.R. Horton, Inc. (NYSE:DHI) Q2 2024 Earnings Call Transcript",
-    "published": 1713539462,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Stock Market News for Apr 19, 2024",
-    "published": 1713533040,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "DR Horton (DHI) Gets a Buy from KBW",
-    "published": 1713529560,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Q2 2024 Forestar Group Inc Earnings Call",
-    "published": 1713525168,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Netflix To Rally Around 31%? Here Are 10 Top Analyst Forecasts For Friday",
-    "published": 1713514680,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "These Analysts Revise Their Forecasts On D.R. Horton After Q2 Results",
-    "published": 1713514260,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton price target lowered by $1 at RBC Capital, here's why",
-    "published": 1713513360,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "DR Horton (DHI) Gets a Hold from Seaport Global",
-    "published": 1713512760,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton Inc (DHI) Q2 2024 Earnings Call Transcript Highlights: Robust Growth Amid Market ...",
-    "published": 1713510074,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Analysts Are Neutral on These Consumer Cyclical Stocks: Starbucks (SBUX), DR Horton (DHI)",
-    "published": 1713509460,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton price target lowered by $1 at BTIG, here's why",
-    "published": 1713508020,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton price target lowered by $14 at BofA, here's why",
-    "published": 1713506520,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton price target raised by $8 at UBS, here's why",
-    "published": 1713504840,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton Earnings Beat Spurs Buy Rating Amid Positive Outlook and Resilient Margins",
-    "published": 1713500220,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.R. Horton price target lowered by $10 at Barclays, here's why",
-    "published": 1713500220,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Q2 2024 DR Horton Inc Earnings Call",
-    "published": 1713498046,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Analysts Conflicted on These Consumer Cyclical Names: Rivian Automotive (RIVN), DR Horton (DHI) and Caesars Entertainment (CZR)",
-    "published": 1713496320,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "DR Horton (DHI) Receives a Rating Update from a Top Analyst",
-    "published": 1713495420,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "$100 Invested In D.R. Horton 10 Years Ago Would Be Worth This Much Today",
-    "published": 1713490620,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "Investor Optimism Edges Lower; S&P 500 Settles Lower For Fifth Session",
-    "published": 1713489720,
-    "posting_price": 144.79492786,
-    "close_price": 140.90057373,
-    "percent_change": -2.6895653
-  },
-  {
-    "title": "D.r. Horton (DHI) Q2 2024 Earnings Call Transcript",
-    "published": 1713459611,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton (DHI) Stock Up on Q2 Earnings Beat, Orders Rise",
-    "published": 1713453720,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Housing: DR Horton raises 2024 outlook amid supply slowdown",
-    "published": 1713449000,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Compared to Estimates, D.R. Horton (DHI) Q2 Earnings: A Look at Key Metrics",
-    "published": 1713447014,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton Stock Rises After Earnings Beat, Good News on Margins",
-    "published": 1713446760,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Ally Financial, CSX rise; Equifax, Synovus Financial fall, Thursday, 4/18/2024",
-    "published": 1713442620,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Stocks Edge Higher As Earnings Provide Support, Tesla Sinks To 15-Month Lows, Bitcoin Rebounds: What's Driving Markets Thursday?",
-    "published": 1713442440,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton, Inc. (DHI) Q2 2024 Earnings Call Transcript",
-    "published": 1713440585,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton (DHI) Q2 Earnings and Revenues Surpass Estimates",
-    "published": 1713440404,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton (DHI) Q2 Earnings Beat Raises Hopes for Homebuilders Amid Rising Rates",
-    "published": 1713438900,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Long-term mortgage rates surpass 7% for 1st time in 2024",
-    "published": 1713438840,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Crude Oil Edges Lower; Bio-Path Holdings Shares Spike Higher",
-    "published": 1713438660,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "UPDATE 2-D.R. Horton forecasts strong fiscal 2024 on tight supply of existing homes",
-    "published": 1713437715,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton Inc (DHI) Surpasses Analyst Expectations with Strong Fiscal 2024 Second Quarter Results",
-    "published": 1713437520,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton forecasts strong fiscal 2024 on tight supply of existing homes",
-    "published": 1713436771,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton, Inc., America's Builder, Reports Fiscal 2024 Second Quarter Earnings and Declares Quarterly Dividend of $0.30 Per Share",
-    "published": 1713436200,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton Inc (DHI)'s Winning Formula: Financial Metrics and Competitive Strengths",
-    "published": 1713434580,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights NVR, KB Home, Toll Brothers, D.R. Horton and PulteGroup",
-    "published": 1713434400,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "DHI Stock Earnings: D.R. Horton Beats EPS, Beats Revenue for Q2 2024",
-    "published": 1713434040,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Dow Surges Over 100 Points; D.R. Horton Posts Upbeat Earnings",
-    "published": 1713431100,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Biggest stock movers today: TSM, EFX, DUOL, and more",
-    "published": 1713430920,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "DHI Earnings: D.R. Horton Jumps on Robust Q2 Performance",
-    "published": 1713429840,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: DR Horton (DHI), Sands China (OtherSCHYF) and PDD Holdings (PDD)",
-    "published": 1713429120,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton says customers reacting very positively to incentives",
-    "published": 1713427860,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "DR Horton: 29% EPS growth in Q2",
-    "published": 1713426030,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Wedbush Keeps Their Sell Rating on DR Horton (DHI)",
-    "published": 1713425760,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Stocks Close Lower As Middle East Tensions Rise Again; Nvidia Tests Key Level",
-    "published": 1713425732,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Earnings Scheduled For April 18, 2024",
-    "published": 1713424320,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton\u2019s stock rallies as limited home supply boosts profit and sales",
-    "published": 1713423420,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton guides higher for FY2024 revenue after strong Q2 beat",
-    "published": 1713423300,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton: Fiscal Q2 Earnings Snapshot",
-    "published": 1713422347,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Forestar Group: Fiscal Q2 Earnings Snapshot",
-    "published": 1713422280,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Forestar Reports Fiscal 2024 Second Quarter Results",
-    "published": 1713421800,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton, Inc. Shines Bright: 24% Surge In Net Income",
-    "published": 1713421560,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton beats top-line and bottom-line estimates; updates FY24 outlook",
-    "published": 1713420780,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D. R. Horton declares $0.30 dividend",
-    "published": 1713420360,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves Today, April 18, 2024",
-    "published": 1713420360,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Wall Street Looks To Snap 4-Day Losing Streak As Traders Eye Fed Speeches, Netflix Earnings: Analyst Pencils S&P 500's Next 'Major' Downside Support",
-    "published": 1713419820,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton reports Q2 homes closed increased 15% to 22,548 homes",
-    "published": 1713418740,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D. R. Horton beats top-line and bottom-line estimates; updates FY24 outlook",
-    "published": 1713418620,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton raises FY24 revenue view to $36.7B-$37.7B from $36B-$37.3B",
-    "published": 1713418380,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton reports Q2 EPS $3.52, consensus $3.06",
-    "published": 1713418260,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Stock Futures Rise as Semiconductor Shares Rebound; Fed's Interest Rate Decisions Awaited",
-    "published": 1713417480,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Stock market today: Wall Street ticks higher following more reports showing a resilient US economy",
-    "published": 1713413880,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "D.R. Horton, Netflix And 3 Stocks To Watch Heading Into Thursday",
-    "published": 1713405240,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Investor Sentiment Decreases Further, S&P 500 Falls For Fourth Straight Session",
-    "published": 1713405240,
-    "posting_price": 151.61255815,
-    "close_price": 144.55712891,
-    "percent_change": -4.65359158
-  },
-  {
-    "title": "Dow Jones Rises After Jobless Claims; Tesla Slides To New Low On Downgrade",
-    "published": 1713394494,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "Netflix earnings, Fed comments, housing data: What to Watch",
-    "published": 1713388846,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "D.R. Horton\u2019s Earnings Carry More Weight Than Usual. What Analysts Are Watching.",
-    "published": 1713387600,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "Solid Business Model & Strong Housing Demand Benefit NVR",
-    "published": 1713365100,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "Don't Miss These 5 Earnings Charts",
-    "published": 1713364920,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "March Sees U.S. Housing Starts & Permits Fall Below Expectations",
-    "published": 1713364920,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "D. R. Horton Q2 2024 Earnings Preview",
-    "published": 1713352500,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "Market Slips Again As Q1 Earnings Roll On",
-    "published": 1713346200,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "Smart Money Is Betting Big In DHI Options",
-    "published": 1713322980,
-    "posting_price": 145.96423166,
-    "close_price": 144.41838074,
-    "percent_change": -1.05906146
-  },
-  {
-    "title": "Homebuilder stocks close lower on weak housing starts data",
-    "published": 1713299158,
-    "posting_price": 145.86515141,
-    "close_price": 144.72558594,
-    "percent_change": -0.78124587
-  },
-  {
-    "title": "Drop in Housing Starts Hammers Builder Stocks",
-    "published": 1713280502,
-    "posting_price": 145.86515141,
-    "close_price": 144.72558594,
-    "percent_change": -0.78124587
-  },
-  {
-    "title": "D.R. Horton (DHI) to Report Q2 Earnings: What's in Store?",
-    "published": 1713274920,
-    "posting_price": 145.86515141,
-    "close_price": 144.72558594,
-    "percent_change": -0.78124587
-  },
-  {
-    "title": "Super Micro Computer To Rally Around 70%? Here Are 10 Top Analyst Forecasts For Tuesday",
-    "published": 1713253200,
-    "posting_price": 145.86515141,
-    "close_price": 144.72558594,
-    "percent_change": -0.78124587
-  },
-  {
-    "title": "Stock market today: Wall Street drifts in mixed trading as Treasury yields rise more",
-    "published": 1713241560,
-    "posting_price": 145.86515141,
-    "close_price": 144.72558594,
-    "percent_change": -0.78124587
-  },
-  {
-    "title": "D.R. Horton: Housing Supply Shortage Unresolved, Leaving Ample Room For Alpha",
-    "published": 1713239117,
-    "posting_price": 145.86515141,
-    "close_price": 144.72558594,
-    "percent_change": -0.78124587
+    "published": 1717162810,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 146.52000427246094,
+      "2024-05-31T14:30:00+00:00": 145.9149932861328,
+      "2024-05-31T15:30:00+00:00": 145.74000549316406,
+      "2024-05-31T16:30:00+00:00": 145.4499969482422,
+      "2024-05-31T17:30:00+00:00": 145.375,
+      "2024-05-31T18:30:00+00:00": 145.47999572753906,
+      "2024-05-31T19:30:00+00:00": 145.89500427246094
+    },
+    "sentiment": 0.8190014362335205
+  },
+  {
+    "title": "D.R. Horton, Inc. to Release 2024 Third Quarter Earnings on July 18, 2024",
+    "published": 1717103400,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 142.64999389648438,
+      "2024-05-30T14:30:00+00:00": 143.6999969482422,
+      "2024-05-30T15:30:00+00:00": 144.3300018310547,
+      "2024-05-30T16:30:00+00:00": 144.36000061035156,
+      "2024-05-30T17:30:00+00:00": 144.65499877929688,
+      "2024-05-30T18:30:00+00:00": 145.0749969482422,
+      "2024-05-30T19:30:00+00:00": 145.6300048828125
+    },
+    "sentiment": 0.9323300719261169
+  },
+  {
+    "title": "D.R. Horton Inc. stock underperforms Wednesday when compared to competitors",
+    "published": 1716955140,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 140.9499969482422,
+      "2024-05-29T14:30:00+00:00": 140.73500061035156,
+      "2024-05-29T15:30:00+00:00": 141.0399932861328,
+      "2024-05-29T16:30:00+00:00": 140.98500061035156,
+      "2024-05-29T17:30:00+00:00": 141.2100067138672,
+      "2024-05-29T18:30:00+00:00": 140.9550018310547,
+      "2024-05-29T19:30:00+00:00": 141.38999938964844
+    },
+    "sentiment": 0.9456530213356018
+  },
+  {
+    "title": "Every Stock Warren Buffett Bought Over the Last 12 Months, Ranked From Best to Worst",
+    "published": 1716717000,
+    "day_prices": {},
+    "sentiment": 0.7840056419372559
   }
 ]

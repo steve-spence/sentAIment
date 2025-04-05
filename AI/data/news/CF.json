@@ -1,282 +1,268 @@
 [
   {
-    "title": "CF Industries price target lowered by $5 at RBC Capital, here's why",
-    "published": 1713163500,
-    "posting_price": 76.44568832,
-    "close_price": 76.14334106,
-    "percent_change": -0.39550597
+    "title": "Analysts Offer Insights on Materials Companies: Cf Industries Holdings (CF), Huntsman (HUN) and Galiano Gold (GAU)",
+    "published": 1715065560,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 74.44999694824219,
+      "2024-05-07T14:30:00+00:00": 74.73999786376953,
+      "2024-05-07T15:30:00+00:00": 74.5824966430664,
+      "2024-05-07T16:30:00+00:00": 74.88749694824219,
+      "2024-05-07T17:30:00+00:00": 74.77999877929688,
+      "2024-05-07T18:30:00+00:00": 74.5,
+      "2024-05-07T19:30:00+00:00": 74.42500305175781
+    },
+    "sentiment": 0.9160922169685364
   },
   {
-    "title": "CF Industries Holdings Inc. stock falls Friday, underperforms market",
-    "published": 1712895660,
-    "posting_price": 77.82089534,
-    "close_price": 76.17259979,
-    "percent_change": -2.11806295
+    "title": "CF Industries price target lowered by $6 at Scotiabank, here's why",
+    "published": 1714985460,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 74.66000366210938,
+      "2024-05-06T14:30:00+00:00": 74.40509796142578,
+      "2024-05-06T15:30:00+00:00": 74.87999725341797,
+      "2024-05-06T16:30:00+00:00": 74.95999908447266,
+      "2024-05-06T17:30:00+00:00": 74.98999786376953,
+      "2024-05-06T18:30:00+00:00": 75.0,
+      "2024-05-06T19:30:00+00:00": 74.56999969482422
+    },
+    "sentiment": 0.8221481442451477
   },
   {
-    "title": "Nutrien (NTR) Gains on Strong Demand Amid Pricing Woes",
-    "published": 1712844000,
-    "posting_price": 78.65968755,
-    "close_price": 78.84499359,
-    "percent_change": 0.23557943
+    "title": "The Latest Analyst Ratings For CF Industries Holdings",
+    "published": 1714964580,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 74.66000366210938,
+      "2024-05-06T14:30:00+00:00": 74.40509796142578,
+      "2024-05-06T15:30:00+00:00": 74.87999725341797,
+      "2024-05-06T16:30:00+00:00": 74.95999908447266,
+      "2024-05-06T17:30:00+00:00": 74.98999786376953,
+      "2024-05-06T18:30:00+00:00": 75.0,
+      "2024-05-06T19:30:00+00:00": 74.56999969482422
+    },
+    "sentiment": 0.9404172897338867
   },
   {
-    "title": "Albemarle upgraded at BofA, saying lithium pricing has bottomed",
-    "published": 1712748540,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "Analysts\u2019 Opinions Are Mixed on These Materials Stocks: Cf Industries Holdings (CF), MP Materials (MP) and Vulcan Materials (VMC)",
+    "published": 1714732380,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 74.11000061035156,
+      "2024-05-03T14:30:00+00:00": 74.11000061035156,
+      "2024-05-03T15:30:00+00:00": 73.44999694824219,
+      "2024-05-03T16:30:00+00:00": 73.71499633789062,
+      "2024-05-03T17:30:00+00:00": 74.0,
+      "2024-05-03T18:30:00+00:00": 74.08999633789062,
+      "2024-05-03T19:30:00+00:00": 73.77999877929688
+    },
+    "sentiment": 0.6012464761734009
   },
   {
-    "title": "B of A Securities Downgrades CF Industries Holdings (CF)",
-    "published": 1712747041,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "Q1 2024 CF Industries Holdings Inc Earnings Call",
+    "published": 1714721232,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 74.11000061035156,
+      "2024-05-03T14:30:00+00:00": 74.11000061035156,
+      "2024-05-03T15:30:00+00:00": 73.44999694824219,
+      "2024-05-03T16:30:00+00:00": 73.71499633789062,
+      "2024-05-03T17:30:00+00:00": 74.0,
+      "2024-05-03T18:30:00+00:00": 74.08999633789062,
+      "2024-05-03T19:30:00+00:00": 73.77999877929688
+    },
+    "sentiment": 0.7386588454246521
   },
   {
-    "title": "Decoding 7 Analyst Evaluations For CF Industries Holdings",
-    "published": 1712739960,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "Decoding CF Industries Holdings Inc (CF): A Strategic SWOT Insight",
+    "published": 1714713117,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 74.11000061035156,
+      "2024-05-03T14:30:00+00:00": 74.11000061035156,
+      "2024-05-03T15:30:00+00:00": 73.44999694824219,
+      "2024-05-03T16:30:00+00:00": 73.71499633789062,
+      "2024-05-03T17:30:00+00:00": 74.0,
+      "2024-05-03T18:30:00+00:00": 74.08999633789062,
+      "2024-05-03T19:30:00+00:00": 73.77999877929688
+    },
+    "sentiment": 0.9197619557380676
   },
   {
-    "title": "Wells Fargo Sticks to Its Buy Rating for CF Holdings (CF)",
-    "published": 1712736540,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "CF Industries' (CF) Earnings and Sales Miss Estimates in Q1",
+    "published": 1714653840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.5,
+      "2024-05-02T14:30:00+00:00": 74.59500122070312,
+      "2024-05-02T15:30:00+00:00": 73.33999633789062,
+      "2024-05-02T16:30:00+00:00": 73.38999938964844,
+      "2024-05-02T17:30:00+00:00": 73.8499984741211,
+      "2024-05-02T18:30:00+00:00": 73.67500305175781,
+      "2024-05-02T19:30:00+00:00": 73.98999786376953
+    },
+    "sentiment": 0.9670047760009766
   },
   {
-    "title": "CF Industries downgraded to Neutral at BofA on softer ag fundamentals",
-    "published": 1712726940,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "Wall Street Analysts Are Neutral on Top Materials Picks",
+    "published": 1714635720,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 76.5,
+      "2024-05-02T14:30:00+00:00": 74.59500122070312,
+      "2024-05-02T15:30:00+00:00": 73.33999633789062,
+      "2024-05-02T16:30:00+00:00": 73.38999938964844,
+      "2024-05-02T17:30:00+00:00": 73.8499984741211,
+      "2024-05-02T18:30:00+00:00": 73.67500305175781,
+      "2024-05-02T19:30:00+00:00": 73.98999786376953
+    },
+    "sentiment": 0.6174686551094055
   },
   {
-    "title": "BofA gets more bearish on CF Industries, downgrades shares",
-    "published": 1712726580,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "CF (CF) Reports Q1 Earnings: What Key Metrics Have to Say",
+    "published": 1714604405,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 78.9000015258789,
+      "2024-05-01T14:30:00+00:00": 77.86000061035156,
+      "2024-05-01T15:30:00+00:00": 77.63500213623047,
+      "2024-05-01T16:30:00+00:00": 77.73999786376953,
+      "2024-05-01T17:30:00+00:00": 77.97000122070312,
+      "2024-05-01T18:30:00+00:00": 77.87999725341797,
+      "2024-05-01T19:30:00+00:00": 78.29000091552734
+    },
+    "sentiment": 0.9440757632255554
   },
   {
-    "title": "Barclays Remains a Hold on CF Holdings (CF)",
-    "published": 1712713680,
-    "posting_price": 77.51855365,
-    "close_price": 78.89375305,
-    "percent_change": 1.77402613
+    "title": "CF Industries Holdings, Inc. Reports First Quarter 2024 Net Earnings of $194 Million, Adjusted EBITDA of $459 Million",
+    "published": 1714597200,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 78.9000015258789,
+      "2024-05-01T14:30:00+00:00": 77.86000061035156,
+      "2024-05-01T15:30:00+00:00": 77.63500213623047,
+      "2024-05-01T16:30:00+00:00": 77.73999786376953,
+      "2024-05-01T17:30:00+00:00": 77.97000122070312,
+      "2024-05-01T18:30:00+00:00": 77.87999725341797,
+      "2024-05-01T19:30:00+00:00": 78.29000091552734
+    },
+    "sentiment": 0.9366986155509949
   },
   {
-    "title": "Here's Why You Should Hold Onto CF Industries (CF) Stock For Now",
-    "published": 1712662080,
-    "posting_price": 78.02572494,
-    "close_price": 79.11808777,
-    "percent_change": 1.40000344
+    "title": "CF: Q1 Earnings Snapshot",
+    "published": 1714583528,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 78.9000015258789,
+      "2024-05-01T14:30:00+00:00": 77.86000061035156,
+      "2024-05-01T15:30:00+00:00": 77.63500213623047,
+      "2024-05-01T16:30:00+00:00": 77.73999786376953,
+      "2024-05-01T17:30:00+00:00": 77.97000122070312,
+      "2024-05-01T18:30:00+00:00": 77.87999725341797,
+      "2024-05-01T19:30:00+00:00": 78.29000091552734
+    },
+    "sentiment": 0.8191372156143188
   },
   {
-    "title": "This Is What Whales Are Betting On CF Industries Holdings",
-    "published": 1712625600,
-    "posting_price": 78.02572494,
-    "close_price": 79.11808777,
-    "percent_change": 1.40000344
+    "title": "CF Industries GAAP EPS of $1.03 misses by $0.59, revenue of $1.47B beats by $10M",
+    "published": 1714536480,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 78.9000015258789,
+      "2024-05-01T14:30:00+00:00": 77.86000061035156,
+      "2024-05-01T15:30:00+00:00": 77.63500213623047,
+      "2024-05-01T16:30:00+00:00": 77.73999786376953,
+      "2024-05-01T17:30:00+00:00": 77.97000122070312,
+      "2024-05-01T18:30:00+00:00": 77.87999725341797,
+      "2024-05-01T19:30:00+00:00": 78.29000091552734
+    },
+    "sentiment": 0.5776749849319458
   },
   {
-    "title": "Canaccord Genuity Strengthens Scottish Presence",
-    "published": 1712560080,
-    "posting_price": 83.10714862,
-    "close_price": 77.82090759,
-    "percent_change": -6.3607537
+    "title": "CF Industries says Q1 average selling prices declined",
+    "published": 1714536240,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 78.9000015258789,
+      "2024-05-01T14:30:00+00:00": 77.86000061035156,
+      "2024-05-01T15:30:00+00:00": 77.63500213623047,
+      "2024-05-01T16:30:00+00:00": 77.73999786376953,
+      "2024-05-01T17:30:00+00:00": 77.97000122070312,
+      "2024-05-01T18:30:00+00:00": 77.87999725341797,
+      "2024-05-01T19:30:00+00:00": 78.29000091552734
+    },
+    "sentiment": 0.8969360589981079
   },
   {
-    "title": "Tesla, Two Huge Spinoffs Among Big S&P 500 Stock Movers Monday",
-    "published": 1712553552,
-    "posting_price": 83.10714862,
-    "close_price": 77.82090759,
-    "percent_change": -6.3607537
+    "title": "Intrepid Potash (IPI) Q1 Earnings Lag, Sales Beat Estimates",
+    "published": 1715604240,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 74.33000183105469,
+      "2024-05-13T14:30:00+00:00": 75.08000183105469,
+      "2024-05-13T15:30:00+00:00": 74.63999938964844,
+      "2024-05-13T16:30:00+00:00": 74.2300033569336,
+      "2024-05-13T17:30:00+00:00": 73.94999694824219,
+      "2024-05-13T18:30:00+00:00": 74.19499969482422,
+      "2024-05-13T19:30:00+00:00": 74.3499984741211
+    },
+    "sentiment": 0.9197729229927063
   },
   {
-    "title": "CF Industries Holdings Inc. stock falls Monday, underperforms market",
-    "published": 1712549940,
-    "posting_price": 83.10714862,
-    "close_price": 77.82090759,
-    "percent_change": -6.3607537
+    "title": "Cf Industries Holdings (CF) Receives a Hold from Barclays",
+    "published": 1715568480,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 74.33000183105469,
+      "2024-05-13T14:30:00+00:00": 75.08000183105469,
+      "2024-05-13T15:30:00+00:00": 74.63999938964844,
+      "2024-05-13T16:30:00+00:00": 74.2300033569336,
+      "2024-05-13T17:30:00+00:00": 73.94999694824219,
+      "2024-05-13T18:30:00+00:00": 74.19499969482422,
+      "2024-05-13T19:30:00+00:00": 74.3499984741211
+    },
+    "sentiment": 0.8377172946929932
   },
   {
-    "title": "Stock losers of Republican policy if Trump wins - GS",
-    "published": 1712310060,
-    "posting_price": 83.21442966,
-    "close_price": 83.00961304,
-    "percent_change": -0.24613113
+    "title": "Canaccord Genuity Announces Q4 and Full-Year Results",
+    "published": 1716428400,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 79.43000030517578,
+      "2024-05-23T14:30:00+00:00": 78.12000274658203,
+      "2024-05-23T15:30:00+00:00": 78.13999938964844,
+      "2024-05-23T16:30:00+00:00": 78.44000244140625,
+      "2024-05-23T17:30:00+00:00": 78.38500213623047,
+      "2024-05-23T18:30:00+00:00": 78.1050033569336,
+      "2024-05-23T19:30:00+00:00": 78.33000183105469
+    },
+    "sentiment": 0.9164893627166748
   },
   {
-    "title": "CF Industries Holdings Inc. stock rises Wednesday, outperforms market",
-    "published": 1712118120,
-    "posting_price": 80.9711883,
-    "close_price": 81.15650177,
-    "percent_change": 0.22886347
+    "title": "Bullish Two Hundred Day Moving Average Cross - CF",
+    "published": 1716348420,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 77.72000122070312,
+      "2024-05-22T14:30:00+00:00": 78.98999786376953,
+      "2024-05-22T15:30:00+00:00": 79.48999786376953,
+      "2024-05-22T16:30:00+00:00": 80.33999633789062,
+      "2024-05-22T17:30:00+00:00": 80.44999694824219,
+      "2024-05-22T18:30:00+00:00": 79.52999877929688,
+      "2024-05-22T19:30:00+00:00": 79.54000091552734
+    },
+    "sentiment": 0.8554245829582214
   },
   {
-    "title": "Early notable gainers among liquid option names on April 2nd",
-    "published": 1712048160,
-    "posting_price": 81.47835699,
-    "close_price": 80.89316559,
-    "percent_change": -0.71821699
+    "title": "Unveiling CF Industries Holdings (CF)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1715843580,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 74.80999755859375,
+      "2024-05-16T14:30:00+00:00": 76.0,
+      "2024-05-16T15:30:00+00:00": 76.44499969482422,
+      "2024-05-16T16:30:00+00:00": 76.94000244140625,
+      "2024-05-16T17:30:00+00:00": 76.77999877929688,
+      "2024-05-16T18:30:00+00:00": 76.93499755859375,
+      "2024-05-16T19:30:00+00:00": 77.33000183105469
+    },
+    "sentiment": 0.8537864089012146
   },
   {
-    "title": "CF (CF) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-    "published": 1714482922,
-    "posting_price": 78.88400127,
-    "close_price": 77.02114105,
-    "percent_change": -2.36151842
-  },
-  {
-    "title": "CF Industries Q1 2024 Earnings Preview",
-    "published": 1714481100,
-    "posting_price": 78.88400127,
-    "close_price": 77.02114105,
-    "percent_change": -2.36151842
-  },
-  {
-    "title": "CF Industries: Flat EPS Growth Ahead, Soft Price Action Into Q1 Earnings",
-    "published": 1714468800,
-    "posting_price": 78.88400127,
-    "close_price": 77.02114105,
-    "percent_change": -2.36151842
-  },
-  {
-    "title": "Berkshire Hathaway Inc Takes the Lead in Fairholme Focused Income Fund's Q1 2024 Portfolio",
-    "published": 1714449720,
-    "posting_price": 78.88400127,
-    "close_price": 77.02114105,
-    "percent_change": -2.36151842
-  },
-  {
-    "title": "Exxon Makes a Long-Shot Bet on Climate Tech. Sizing Up the Costs.",
-    "published": 1714406400,
-    "posting_price": 78.49386698,
-    "close_price": 78.83522797,
-    "percent_change": 0.43488874
-  },
-  {
-    "title": "GLOBAL BROKER RATINGS: Stifel cuts Caterpillar; HSBC likes Ashtead",
-    "published": 1714116780,
-    "posting_price": 77.69411296,
-    "close_price": 78.02571869,
-    "percent_change": 0.42680934
-  },
-  {
-    "title": "LONDON BROKER RATINGS: Peel Hunt cuts ConvaTec to 'reduce'",
-    "published": 1714105980,
-    "posting_price": 77.69411296,
-    "close_price": 78.02571869,
-    "percent_change": 0.42680934
-  },
-  {
-    "title": "Analysts Estimate CF Industries (CF) to Report a Decline in Earnings: What to Look Out for",
-    "published": 1713967310,
-    "posting_price": 76.51396744,
-    "close_price": 77.2942276,
-    "percent_change": 1.01976173
-  },
-  {
-    "title": "Analysts Are Bullish on Top Materials Stocks: Royal Gold (RGLD), CF Holdings (CF)",
-    "published": 1713502260,
-    "posting_price": 77.67459955,
-    "close_price": 77.50879669,
-    "percent_change": -0.21345827
-  },
-  {
-    "title": "CF Industries Holdings, Inc. Declares Quarterly Dividend and Confirms Dates for First Quarter 2024 Results and Conference Call",
-    "published": 1713472200,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries (CF), JERA Execute Joint Development Agreement",
-    "published": 1713442260,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries and JERA Announce JDA to Develop Greenfield Low-Carbon Ammonia Production Capacity in U.S.",
-    "published": 1713434192,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries And Japan's JERA Explore Low-Carbon Ammonia Production: Details",
-    "published": 1713422700,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries, JERA announce joint development agreement",
-    "published": 1713414240,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries declares $0.50 dividend",
-    "published": 1713411840,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries and JERA to engage in greenfield low-carbon ammonia production",
-    "published": 1713409860,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries and JERA Announce Joint Development Agreement to Develop Greenfield Low-Carbon Ammonia Production Capacity in the United States",
-    "published": 1713402000,
-    "posting_price": 78.61091609,
-    "close_price": 77.62583923,
-    "percent_change": -1.25310441
-  },
-  {
-    "title": "CF Industries Holdings, Inc. and JERA Co., Inc. Announce Joint Development Agreement to Develop Greenfield Low-Carbon Ammonia Production Capacity in the United States",
-    "published": 1713387600,
-    "posting_price": 76.26039495,
-    "close_price": 75.88002014,
-    "percent_change": -0.49878421
-  },
-  {
-    "title": "MOO ETF: Agriculture Stocks Are Inexpensive and Defensive",
-    "published": 1713345060,
-    "posting_price": 76.26039495,
-    "close_price": 75.88002014,
-    "percent_change": -0.49878421
-  },
-  {
-    "title": "CF Industries and JERA enter joint development agreement on Louisiana facility",
-    "published": 1713341880,
-    "posting_price": 76.26039495,
-    "close_price": 75.88002014,
-    "percent_change": -0.49878421
-  },
-  {
-    "title": "Berenberg Bank Reaffirms Their Hold Rating on CF Holdings (CF)",
-    "published": 1713315960,
-    "posting_price": 76.26039495,
-    "close_price": 75.88002014,
-    "percent_change": -0.49878421
-  },
-  {
-    "title": "Grains in Demand: 3 Agriculture Stocks to Ride the Food Shortage Wave",
-    "published": 1713294893,
-    "posting_price": 76.18236175,
-    "close_price": 75.83124542,
-    "percent_change": -0.46088927
+    "title": "Canaccord Genuity Expands with Cantab Acquisition",
+    "published": 1717139340,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 76.97000122070312,
+      "2024-05-31T14:30:00+00:00": 77.31999969482422,
+      "2024-05-31T15:30:00+00:00": 77.54000091552734,
+      "2024-05-31T16:30:00+00:00": 77.66000366210938,
+      "2024-05-31T17:30:00+00:00": 78.30000305175781,
+      "2024-05-31T18:30:00+00:00": 78.52999877929688,
+      "2024-05-31T19:30:00+00:00": 78.72000122070312
+    },
+    "sentiment": 0.8508011698722839
   }
 ]

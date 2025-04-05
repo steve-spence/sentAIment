@@ -1,387 +1,452 @@
 [
   {
-    "title": "Seaport Global Keeps Their Hold Rating on Constellation Energy Corporation (CEG)",
-    "published": 1713166560,
-    "posting_price": 192.76968187,
-    "close_price": 184.13879395,
-    "percent_change": -4.47730568
+    "title": "Analysts Are Neutral on These Utilities Stocks: NextEra Energy (NEE), Constellation Energy Corporation (CEG)",
+    "published": 1715064180,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 198.6999969482422,
+      "2024-05-07T14:30:00+00:00": 203.4149932861328,
+      "2024-05-07T15:30:00+00:00": 203.63499450683594,
+      "2024-05-07T16:30:00+00:00": 201.3300018310547,
+      "2024-05-07T17:30:00+00:00": 200.2100067138672,
+      "2024-05-07T18:30:00+00:00": 199.46499633789062,
+      "2024-05-07T19:30:00+00:00": 200.24000549316406
+    },
+    "sentiment": 0.8064648509025574
   },
   {
-    "title": "QQQ ETF Update, 4/15/2024\ufffd\ufffd\ufffd",
-    "published": 1713159000,
-    "posting_price": 192.76968187,
-    "close_price": 184.13879395,
-    "percent_change": -4.47730568
+    "title": "Are Investors Undervaluing Constellation Energy Corporation (NASDAQ:CEG) By 39%?",
+    "published": 1714910425,
+    "day_prices": {},
+    "sentiment": 0.8601064682006836
   },
   {
-    "title": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
-    "published": 1712917980,
-    "posting_price": 190.65418564,
-    "close_price": 190.3661499,
-    "percent_change": -0.15107759
+    "title": "Constellation Energy Corporation Declares Dividend",
+    "published": 1714590600,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 186.25,
+      "2024-05-01T14:30:00+00:00": 185.24000549316406,
+      "2024-05-01T15:30:00+00:00": 185.18499755859375,
+      "2024-05-01T16:30:00+00:00": 186.1699981689453,
+      "2024-05-01T17:30:00+00:00": 186.92999267578125,
+      "2024-05-01T18:30:00+00:00": 187.00999450683594,
+      "2024-05-01T19:30:00+00:00": 186.5
+    },
+    "sentiment": 0.9327202439308167
   },
   {
-    "title": "Energy-Guzzling AI Is Also the Future of Energy Savings",
-    "published": 1712914200,
-    "posting_price": 190.65418564,
-    "close_price": 190.3661499,
-    "percent_change": -0.15107759
+    "title": "AI Is Electrifying These Power Producers\u2019 Shares",
+    "published": 1715770800,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 220.13999938964844,
+      "2024-05-15T14:30:00+00:00": 223.27999877929688,
+      "2024-05-15T15:30:00+00:00": 223.0,
+      "2024-05-15T16:30:00+00:00": 222.5399932861328,
+      "2024-05-15T17:30:00+00:00": 223.18499755859375,
+      "2024-05-15T18:30:00+00:00": 223.67999267578125,
+      "2024-05-15T19:30:00+00:00": 223.49130249023438
+    },
+    "sentiment": 0.8189586400985718
   },
   {
-    "title": "SPY ETF Update, 4/12/2024",
-    "published": 1712896500,
-    "posting_price": 190.65418564,
-    "close_price": 190.3661499,
-    "percent_change": -0.15107759
+    "title": "FT: Underappreciated CEF Well Positioned For Net Zero And The Provision Of Income",
+    "published": 1715685170,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 214.5,
+      "2024-05-14T14:30:00+00:00": 215.99000549316406,
+      "2024-05-14T15:30:00+00:00": 214.91000366210938,
+      "2024-05-14T16:30:00+00:00": 215.22000122070312,
+      "2024-05-14T17:30:00+00:00": 214.97000122070312,
+      "2024-05-14T18:30:00+00:00": 216.08810424804688,
+      "2024-05-14T19:30:00+00:00": 216.59500122070312
+    },
+    "sentiment": 0.733600378036499
   },
   {
-    "title": "Do markets even need rate cuts with strong fundamentals?",
-    "published": 1712871352,
-    "posting_price": 190.26684587,
-    "close_price": 191.56793213,
-    "percent_change": 0.68382185
+    "title": "Analysts Are Bullish on Top Utilities Stocks: Fluence Energy (FLNC), Algonquin Power & Utilities (AQN)",
+    "published": 1715581860,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 217.0,
+      "2024-05-13T14:30:00+00:00": 217.32000732421875,
+      "2024-05-13T15:30:00+00:00": 213.36000061035156,
+      "2024-05-13T16:30:00+00:00": 213.9149932861328,
+      "2024-05-13T17:30:00+00:00": 213.2949981689453,
+      "2024-05-13T18:30:00+00:00": 213.27000427246094,
+      "2024-05-13T19:30:00+00:00": 213.63999938964844
+    },
+    "sentiment": 0.7123502492904663
   },
   {
-    "title": "Magnificent Misfits: 3 Non-Tech Stocks to Outshine the FAANG Gang in 2024",
-    "published": 1712839620,
-    "posting_price": 190.26684587,
-    "close_price": 191.56793213,
-    "percent_change": 0.68382185
+    "title": "Tap Into Trends: 3 Thematic ETFs to Capture the Market\u2019s Pulse",
+    "published": 1715563800,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 217.0,
+      "2024-05-13T14:30:00+00:00": 217.32000732421875,
+      "2024-05-13T15:30:00+00:00": 213.36000061035156,
+      "2024-05-13T16:30:00+00:00": 213.9149932861328,
+      "2024-05-13T17:30:00+00:00": 213.2949981689453,
+      "2024-05-13T18:30:00+00:00": 213.27000427246094,
+      "2024-05-13T19:30:00+00:00": 213.63999938964844
+    },
+    "sentiment": 0.5914444327354431
   },
   {
-    "title": "Cheat Sheet: Those Other AI Beneficiaries",
-    "published": 1712836980,
-    "posting_price": 190.26684587,
-    "close_price": 191.56793213,
-    "percent_change": 0.68382185
+    "title": "These 10 Large Cap Stocks Shined Brightest Last Week (May 5-May 11, 2024): Are They In Your Portfolio?",
+    "published": 1715517300,
+    "day_prices": {},
+    "sentiment": 0.9158815741539001
   },
   {
-    "title": "Electrical Utilities: AI Power Play",
-    "published": 1712833620,
-    "posting_price": 190.26684587,
-    "close_price": 191.56793213,
-    "percent_change": 0.68382185
+    "title": "Constellation Energy Corp (CEG) Q1 2024 Earnings: Aligns with EPS Projections, Surpasses ...",
+    "published": 1715398320,
+    "day_prices": {},
+    "sentiment": 0.9546400308609009
   },
   {
-    "title": "QQQ ETF Update, 4/11/2024",
-    "published": 1712816580,
-    "posting_price": 190.26684587,
-    "close_price": 191.56793213,
-    "percent_change": 0.68382185
+    "title": "Constellation Energy First Quarter 2024 Earnings: EPS Beats Expectations, Revenues Lag",
+    "published": 1715337144,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 220.52000427246094,
+      "2024-05-10T14:30:00+00:00": 214.27999877929688,
+      "2024-05-10T15:30:00+00:00": 214.97000122070312,
+      "2024-05-10T16:30:00+00:00": 216.30999755859375,
+      "2024-05-10T17:30:00+00:00": 212.88999938964844,
+      "2024-05-10T18:30:00+00:00": 214.2899932861328,
+      "2024-05-10T19:30:00+00:00": 214.78500366210938
+    },
+    "sentiment": 0.886931300163269
   },
   {
-    "title": "Constellation Energy's (NASDAQ:CEG) Returns Have Hit A Wall",
-    "published": 1712754024,
-    "posting_price": 182.25172829,
-    "close_price": 189.78016663,
-    "percent_change": 4.13079119
+    "title": "Constellation Energy price target raised by $23 at Evercore ISI, here's why",
+    "published": 1715329200,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 220.52000427246094,
+      "2024-05-10T14:30:00+00:00": 214.27999877929688,
+      "2024-05-10T15:30:00+00:00": 214.97000122070312,
+      "2024-05-10T16:30:00+00:00": 216.30999755859375,
+      "2024-05-10T17:30:00+00:00": 212.88999938964844,
+      "2024-05-10T18:30:00+00:00": 214.2899932861328,
+      "2024-05-10T19:30:00+00:00": 214.78500366210938
+    },
+    "sentiment": 0.7331660389900208
   },
   {
-    "title": "ClearBridge Value Equity Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1712753400,
-    "posting_price": 182.25172829,
-    "close_price": 189.78016663,
-    "percent_change": 4.13079119
+    "title": "Analysts Offer Insights on Utilities Companies: Fluence Energy (FLNC) and Constellation Energy Corporation (CEG)",
+    "published": 1715322660,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 220.52000427246094,
+      "2024-05-10T14:30:00+00:00": 214.27999877929688,
+      "2024-05-10T15:30:00+00:00": 214.97000122070312,
+      "2024-05-10T16:30:00+00:00": 216.30999755859375,
+      "2024-05-10T17:30:00+00:00": 212.88999938964844,
+      "2024-05-10T18:30:00+00:00": 214.2899932861328,
+      "2024-05-10T19:30:00+00:00": 214.78500366210938
+    },
+    "sentiment": 0.9368612766265869
   },
   {
-    "title": "Early notable gainers among liquid option names on April 10th",
-    "published": 1712739360,
-    "posting_price": 182.25172829,
-    "close_price": 189.78016663,
-    "percent_change": 4.13079119
+    "title": "Constellation Reports First Quarter 2024 Results",
+    "published": 1715251800,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 205.42999267578125,
+      "2024-05-09T14:30:00+00:00": 207.52499389648438,
+      "2024-05-09T15:30:00+00:00": 209.91000366210938,
+      "2024-05-09T16:30:00+00:00": 214.89999389648438,
+      "2024-05-09T17:30:00+00:00": 211.99000549316406,
+      "2024-05-09T18:30:00+00:00": 213.22000122070312,
+      "2024-05-09T19:30:00+00:00": 214.8699951171875
+    },
+    "sentiment": 0.9470021724700928
   },
   {
-    "title": "YieldBoost Constellation Energy Corp To 6.3% Using Options",
-    "published": 1712658900,
-    "posting_price": 191.28983844,
-    "close_price": 186.82044983,
-    "percent_change": -2.33644853
+    "title": "CEG Stock Earnings: Constellation Energy Beats EPS, Misses Revenue for Q1 2024",
+    "published": 1715248860,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 205.42999267578125,
+      "2024-05-09T14:30:00+00:00": 207.52499389648438,
+      "2024-05-09T15:30:00+00:00": 209.91000366210938,
+      "2024-05-09T16:30:00+00:00": 214.89999389648438,
+      "2024-05-09T17:30:00+00:00": 211.99000549316406,
+      "2024-05-09T18:30:00+00:00": 213.22000122070312,
+      "2024-05-09T19:30:00+00:00": 214.8699951171875
+    },
+    "sentiment": 0.6617098450660706
   },
   {
-    "title": "QQQ ETF Update, 4/9/2024",
-    "published": 1712639520,
-    "posting_price": 191.28983844,
-    "close_price": 186.82044983,
-    "percent_change": -2.33644853
+    "title": "Constellation Energy Non-GAAP EPS of $1.82 beats by $0.53, revenue of $6.16B misses by $620M",
+    "published": 1715234220,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 205.42999267578125,
+      "2024-05-09T14:30:00+00:00": 207.52499389648438,
+      "2024-05-09T15:30:00+00:00": 209.91000366210938,
+      "2024-05-09T16:30:00+00:00": 214.89999389648438,
+      "2024-05-09T17:30:00+00:00": 211.99000549316406,
+      "2024-05-09T18:30:00+00:00": 213.22000122070312,
+      "2024-05-09T19:30:00+00:00": 214.8699951171875
+    },
+    "sentiment": 0.7162679433822632
   },
   {
-    "title": "3 Energy Stocks Stand Among S&P 500's Top 10 Performers In 2024 As Oil Prices Reach $90",
-    "published": 1712632860,
-    "posting_price": 191.28983844,
-    "close_price": 186.82044983,
-    "percent_change": -2.33644853
+    "title": "Constellation Energy affirms FY24 adjusted EPS $7.23-$8.03, consensus $7.41",
+    "published": 1715234100,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 205.42999267578125,
+      "2024-05-09T14:30:00+00:00": 207.52499389648438,
+      "2024-05-09T15:30:00+00:00": 209.91000366210938,
+      "2024-05-09T16:30:00+00:00": 214.89999389648438,
+      "2024-05-09T17:30:00+00:00": 211.99000549316406,
+      "2024-05-09T18:30:00+00:00": 213.22000122070312,
+      "2024-05-09T19:30:00+00:00": 214.8699951171875
+    },
+    "sentiment": 0.7153773307800293
   },
   {
-    "title": "Nuclear Reactors to the Rescue: 3 Atomic Stocks to Power the AI Boom",
-    "published": 1712628360,
-    "posting_price": 191.28983844,
-    "close_price": 186.82044983,
-    "percent_change": -2.33644853
+    "title": "Constellation Energy pops to record high as higher nuke power generation lifts Q1",
+    "published": 1715221440,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 205.42999267578125,
+      "2024-05-09T14:30:00+00:00": 207.52499389648438,
+      "2024-05-09T15:30:00+00:00": 209.91000366210938,
+      "2024-05-09T16:30:00+00:00": 214.89999389648438,
+      "2024-05-09T17:30:00+00:00": 211.99000549316406,
+      "2024-05-09T18:30:00+00:00": 213.22000122070312,
+      "2024-05-09T19:30:00+00:00": 214.8699951171875
+    },
+    "sentiment": 0.9430223107337952
   },
   {
-    "title": "SPY ETF Update, 4/8/2024",
-    "published": 1712554200,
-    "posting_price": 193.5394106,
-    "close_price": 190.67402649,
-    "percent_change": -1.48051712
+    "title": "Constellation Energy Q1 2024 Earnings Preview",
+    "published": 1715165400,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 198.23880004882812,
+      "2024-05-08T14:30:00+00:00": 206.8800048828125,
+      "2024-05-08T15:30:00+00:00": 204.08999633789062,
+      "2024-05-08T16:30:00+00:00": 203.94000244140625,
+      "2024-05-08T17:30:00+00:00": 205.32000732421875,
+      "2024-05-08T18:30:00+00:00": 207.05999755859375,
+      "2024-05-08T19:30:00+00:00": 207.55810546875
+    },
+    "sentiment": 0.9046809673309326
   },
   {
-    "title": "QQQ ETF Update, 4/5/2024",
-    "published": 1712321220,
-    "posting_price": 181.07975722,
-    "close_price": 191.76655579,
-    "percent_change": 5.90170803
+    "title": "The Nasdaq 100 Vault: 3 Stellar Stocks to Lock Up Now",
+    "published": 1716456720,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 223.5666046142578,
+      "2024-05-23T14:30:00+00:00": 224.49000549316406,
+      "2024-05-23T15:30:00+00:00": 225.82000732421875,
+      "2024-05-23T16:30:00+00:00": 227.14999389648438,
+      "2024-05-23T17:30:00+00:00": 227.22999572753906,
+      "2024-05-23T18:30:00+00:00": 222.5,
+      "2024-05-23T19:30:00+00:00": 222.0399932861328
+    },
+    "sentiment": 0.680923342704773
   },
   {
-    "title": "Decoding Constellation Energy's Options Activity: What's the Big Picture?",
-    "published": 1712284380,
-    "posting_price": 181.07975722,
-    "close_price": 191.76655579,
-    "percent_change": 5.90170803
+    "title": "Parallel Universes? AI, Energy And Chips",
+    "published": 1716301593,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 215.92999267578125,
+      "2024-05-21T14:30:00+00:00": 219.6699981689453,
+      "2024-05-21T15:30:00+00:00": 218.56500244140625,
+      "2024-05-21T16:30:00+00:00": 219.81500244140625,
+      "2024-05-21T17:30:00+00:00": 220.6876983642578,
+      "2024-05-21T18:30:00+00:00": 220.4199981689453,
+      "2024-05-21T19:30:00+00:00": 220.9499969482422
+    },
+    "sentiment": 0.9234459400177002
   },
   {
-    "title": "VST, PAM, CEG, and KEN are among utility movers",
-    "published": 1712279400,
-    "posting_price": 181.07975722,
-    "close_price": 191.76655579,
-    "percent_change": 5.90170803
+    "title": "Early notable gainers among liquid option names on May 21st",
+    "published": 1716281700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 215.92999267578125,
+      "2024-05-21T14:30:00+00:00": 219.6699981689453,
+      "2024-05-21T15:30:00+00:00": 218.56500244140625,
+      "2024-05-21T16:30:00+00:00": 219.81500244140625,
+      "2024-05-21T17:30:00+00:00": 220.6876983642578,
+      "2024-05-21T18:30:00+00:00": 220.4199981689453,
+      "2024-05-21T19:30:00+00:00": 220.9499969482422
+    },
+    "sentiment": 0.9036432504653931
   },
   {
-    "title": "Goldman Sachs spotlights Q1 winners and losers, naming: Bitcoin, NVDA, BA, TSLA, and more",
-    "published": 1712221380,
-    "posting_price": 192.12411103,
-    "close_price": 181.86437988,
-    "percent_change": -5.34015803
+    "title": "Parallel Universes? AI, Energy, And Chips",
+    "published": 1716256440,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 215.92999267578125,
+      "2024-05-21T14:30:00+00:00": 219.6699981689453,
+      "2024-05-21T15:30:00+00:00": 218.56500244140625,
+      "2024-05-21T16:30:00+00:00": 219.81500244140625,
+      "2024-05-21T17:30:00+00:00": 220.6876983642578,
+      "2024-05-21T18:30:00+00:00": 220.4199981689453,
+      "2024-05-21T19:30:00+00:00": 220.9499969482422
+    },
+    "sentiment": 0.9170815348625183
   },
   {
-    "title": "Moody\u2019s Upgrades Constellation\u2019s Credit Rating as Policy Support and Growing Demand for Clean Energy Fuel Strong Financial Performance",
-    "published": 1712157000,
-    "posting_price": 187.19783863,
-    "close_price": 188.96572876,
-    "percent_change": 0.94439666
+    "title": "Constellation Energy price target raised by $40 at KeyBanc, here's why",
+    "published": 1716182700,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 213.9499969482422,
+      "2024-05-20T14:30:00+00:00": 213.27000427246094,
+      "2024-05-20T15:30:00+00:00": 213.57000732421875,
+      "2024-05-20T16:30:00+00:00": 213.78179931640625,
+      "2024-05-20T17:30:00+00:00": 214.47500610351562,
+      "2024-05-20T18:30:00+00:00": 214.99000549316406,
+      "2024-05-20T19:30:00+00:00": 214.8000030517578
+    },
+    "sentiment": 0.6197225451469421
   },
   {
-    "title": "The Top 3 S&P 500 Stocks Of Q1 2024",
-    "published": 1712134506,
-    "posting_price": 187.19783863,
-    "close_price": 188.96572876,
-    "percent_change": 0.94439666
+    "title": "Shell, Constellation, First Solar among Barron's roundtable energy picks",
+    "published": 1716116100,
+    "day_prices": {},
+    "sentiment": 0.92171710729599
   },
   {
-    "title": "QQQ ETF Update, 4/3/2024",
-    "published": 1712123160,
-    "posting_price": 187.19783863,
-    "close_price": 188.96572876,
-    "percent_change": 0.94439666
+    "title": "Utility stocks an AI play? Up 8% in May alone, third-best S&P sector performer YTD",
+    "published": 1716004260,
+    "day_prices": {},
+    "sentiment": 0.9456485509872437
   },
   {
-    "title": "NextEra: Bigger Dividend, Healthy Momentum, Bode Well (A.I. Too)",
-    "published": 1712062223,
-    "posting_price": 183.42866261,
-    "close_price": 186.85023499,
-    "percent_change": 1.86534227
+    "title": "QQQ ETF Update, 5/16/2024",
+    "published": 1715839560,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 223.66000366210938,
+      "2024-05-16T14:30:00+00:00": 223.67999267578125,
+      "2024-05-16T15:30:00+00:00": 223.08999633789062,
+      "2024-05-16T16:30:00+00:00": 221.69500732421875,
+      "2024-05-16T17:30:00+00:00": 220.86500549316406,
+      "2024-05-16T18:30:00+00:00": 219.52999877929688,
+      "2024-05-16T19:30:00+00:00": 218.02999877929688
+    },
+    "sentiment": 0.9370436668395996
   },
   {
-    "title": "QQQ ETF Update, 4/30/2024\ufffd\ufffd\ufffd",
-    "published": 1714455660,
-    "posting_price": 187.32696033,
-    "close_price": 184.67512512,
-    "percent_change": -1.41561856
+    "title": "Coatue Management top Q1 moves: exits Apple, Disney, takes in Qualcomm, piles into TSMC",
+    "published": 1715821800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 223.66000366210938,
+      "2024-05-16T14:30:00+00:00": 223.67999267578125,
+      "2024-05-16T15:30:00+00:00": 223.08999633789062,
+      "2024-05-16T16:30:00+00:00": 221.69500732421875,
+      "2024-05-16T17:30:00+00:00": 220.86500549316406,
+      "2024-05-16T18:30:00+00:00": 219.52999877929688,
+      "2024-05-16T19:30:00+00:00": 218.02999877929688
+    },
+    "sentiment": 0.8820857405662537
   },
   {
-    "title": "GLOBAL BRIEFING: HSBC CEO to retire; first-quarter profit edges down",
-    "published": 1714438080,
-    "posting_price": 187.32696033,
-    "close_price": 184.67512512,
-    "percent_change": -1.41561856
+    "title": "Constellation Energy's Options Frenzy: What You Need to Know",
+    "published": 1717148220,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 224.05999755859375,
+      "2024-05-31T14:30:00+00:00": 215.5,
+      "2024-05-31T15:30:00+00:00": 212.33999633789062,
+      "2024-05-31T16:30:00+00:00": 210.67999267578125,
+      "2024-05-31T17:30:00+00:00": 213.6121063232422,
+      "2024-05-31T18:30:00+00:00": 212.52999877929688,
+      "2024-05-31T19:30:00+00:00": 214.21499633789062
+    },
+    "sentiment": 0.9455054998397827
   },
   {
-    "title": "Global company events calendar",
-    "published": 1714382940,
-    "posting_price": 187.14818192,
-    "close_price": 187.32696533,
-    "percent_change": 0.0955304
+    "title": "Constellation Energy price target raised by $114 at BofA, here's why",
+    "published": 1717055340,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 221.11000061035156,
+      "2024-05-30T14:30:00+00:00": 222.28500366210938,
+      "2024-05-30T15:30:00+00:00": 223.1999969482422,
+      "2024-05-30T16:30:00+00:00": 222.9600067138672,
+      "2024-05-30T17:30:00+00:00": 223.97000122070312,
+      "2024-05-30T18:30:00+00:00": 223.85000610351562,
+      "2024-05-30T19:30:00+00:00": 223.97999572753906
+    },
+    "sentiment": 0.8090721368789673
   },
   {
-    "title": "QQQ ETF Update, 4/26/2024\ufffd\ufffd\ufffd",
-    "published": 1714134720,
-    "posting_price": 185.64348847,
-    "close_price": 187.08859253,
-    "percent_change": 0.77842971
+    "title": "Cerro Grande Mining Corporation Announces its Second Fiscal Quarter ended March 31, 2024 results compared to the same period in 2023",
+    "published": 1717054920,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 221.11000061035156,
+      "2024-05-30T14:30:00+00:00": 222.28500366210938,
+      "2024-05-30T15:30:00+00:00": 223.1999969482422,
+      "2024-05-30T16:30:00+00:00": 222.9600067138672,
+      "2024-05-30T17:30:00+00:00": 223.97000122070312,
+      "2024-05-30T18:30:00+00:00": 223.85000610351562,
+      "2024-05-30T19:30:00+00:00": 223.97999572753906
+    },
+    "sentiment": 0.9304394125938416
   },
   {
-    "title": "ClearBridge Global Infrastructure Income Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1714126200,
-    "posting_price": 185.64348847,
-    "close_price": 187.08859253,
-    "percent_change": 0.77842971
+    "title": "XLU and its 10 top holdings on course for May win as AI investing lights up utility stocks",
+    "published": 1717047600,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 221.11000061035156,
+      "2024-05-30T14:30:00+00:00": 222.28500366210938,
+      "2024-05-30T15:30:00+00:00": 223.1999969482422,
+      "2024-05-30T16:30:00+00:00": 222.9600067138672,
+      "2024-05-30T17:30:00+00:00": 223.97000122070312,
+      "2024-05-30T18:30:00+00:00": 223.85000610351562,
+      "2024-05-30T19:30:00+00:00": 223.97999572753906
+    },
+    "sentiment": 0.6989040374755859
   },
   {
-    "title": "The Sound Shore Fund Q1 2024 Letter To Shareholders",
-    "published": 1713942900,
-    "posting_price": 185.45974562,
-    "close_price": 184.89363098,
-    "percent_change": -0.30524933
+    "title": "Constellation Energy: A Balanced Hold Rating Amid Market Pricing and Strong Fundamentals",
+    "published": 1717042020,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 221.11000061035156,
+      "2024-05-30T14:30:00+00:00": 222.28500366210938,
+      "2024-05-30T15:30:00+00:00": 223.1999969482422,
+      "2024-05-30T16:30:00+00:00": 222.9600067138672,
+      "2024-05-30T17:30:00+00:00": 223.97000122070312,
+      "2024-05-30T18:30:00+00:00": 223.85000610351562,
+      "2024-05-30T19:30:00+00:00": 223.97999572753906
+    },
+    "sentiment": 0.9318656325340271
   },
   {
-    "title": "QQQ ETF Update, 4/24/2024",
-    "published": 1713932940,
-    "posting_price": 185.45974562,
-    "close_price": 184.89363098,
-    "percent_change": -0.30524933
+    "title": "Constellation Energy's Options: A Look at What the Big Money is Thinking",
+    "published": 1716892440,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 232.74000549316406,
+      "2024-05-28T14:30:00+00:00": 230.07000732421875,
+      "2024-05-28T15:30:00+00:00": 231.77999877929688,
+      "2024-05-28T16:30:00+00:00": 232.75,
+      "2024-05-28T17:30:00+00:00": 231.6699981689453,
+      "2024-05-28T18:30:00+00:00": 231.52999877929688,
+      "2024-05-28T19:30:00+00:00": 230.27000427246094
+    },
+    "sentiment": 0.9315033555030823
   },
   {
-    "title": "QQQ ETF Update, 4/23/2024",
-    "published": 1713846000,
-    "posting_price": 182.71853748,
-    "close_price": 186.96942139,
-    "percent_change": 2.32646559
+    "title": "Constellation Energy price target raised by $30 at Morgan Stanley, here's why",
+    "published": 1716886200,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 232.74000549316406,
+      "2024-05-28T14:30:00+00:00": 230.07000732421875,
+      "2024-05-28T15:30:00+00:00": 231.77999877929688,
+      "2024-05-28T16:30:00+00:00": 232.75,
+      "2024-05-28T17:30:00+00:00": 231.6699981689453,
+      "2024-05-28T18:30:00+00:00": 231.52999877929688,
+      "2024-05-28T19:30:00+00:00": 230.27000427246094
+    },
+    "sentiment": 0.794791042804718
   },
   {
-    "title": "7 High-Flying Stocks That Are Majorly Overdue for a Pullback",
-    "published": 1713789960,
-    "posting_price": 180.36464272,
-    "close_price": 181.97361755,
-    "percent_change": 0.89206776
-  },
-  {
-    "title": "Vistra Adds Vital Nuclear Power Capacity",
-    "published": 1713787475,
-    "posting_price": 180.36464272,
-    "close_price": 181.97361755,
-    "percent_change": 0.89206776
-  },
-  {
-    "title": "Constellation Energy : Former Miss America Grace Stanke Begins Career as Nuclear Engineer and Advocate At Constellation",
-    "published": 1713780018,
-    "posting_price": 180.36464272,
-    "close_price": 181.97361755,
-    "percent_change": 0.89206776
-  },
-  {
-    "title": "Hidden AI stock plays: Here are the companies powering the next revolution",
-    "published": 1713713424,
-    "posting_price": 180.36465784,
-    "close_price": 181.97363281,
-    "percent_change": 0.89206776
-  },
-  {
-    "title": "FUTY: Utilities Dashboard For April",
-    "published": 1713549070,
-    "posting_price": 182.05308592,
-    "close_price": 179.66940308,
-    "percent_change": -1.30933394
-  },
-  {
-    "title": "Constellation Energy put volume heavy and directionally bearish",
-    "published": 1713524160,
-    "posting_price": 182.05308592,
-    "close_price": 179.66940308,
-    "percent_change": -1.30933394
-  },
-  {
-    "title": "Looking At Constellation Energy's Recent Unusual Options Activity",
-    "published": 1713523680,
-    "posting_price": 182.05308592,
-    "close_price": 179.66940308,
-    "percent_change": -1.30933394
-  },
-  {
-    "title": "Clearway Signs PPA and Begins Construction on Dan's Mountain Wind Project in Maryland",
-    "published": 1713519080,
-    "posting_price": 182.05308592,
-    "close_price": 179.66940308,
-    "percent_change": -1.30933394
-  },
-  {
-    "title": "QQQ ETF Update, 4/19/2024",
-    "published": 1713503280,
-    "posting_price": 182.05308592,
-    "close_price": 179.66940308,
-    "percent_change": -1.30933394
-  },
-  {
-    "title": "Smart Money Is Betting Big In CEG Options",
-    "published": 1713442800,
-    "posting_price": 184.8638459,
-    "close_price": 182.60928345,
-    "percent_change": -1.21957998
-  },
-  {
-    "title": "Constellation Energy Corporation's (NASDAQ:CEG) Stock On An Uptrend: Could Fundamentals Be Driving The Momentum?",
-    "published": 1713438031,
-    "posting_price": 184.8638459,
-    "close_price": 182.60928345,
-    "percent_change": -1.21957998
-  },
-  {
-    "title": "Challenger Energy secures Uruguay project funding, shares rise",
-    "published": 1713432900,
-    "posting_price": 184.8638459,
-    "close_price": 182.60928345,
-    "percent_change": -1.21957998
-  },
-  {
-    "title": "SPY ETF Update, 4/18/2024",
-    "published": 1713421500,
-    "posting_price": 184.8638459,
-    "close_price": 182.60928345,
-    "percent_change": -1.21957998
-  },
-  {
-    "title": "Challenger Energy Secures Major Strategic Investment",
-    "published": 1713405180,
-    "posting_price": 184.8638459,
-    "close_price": 182.60928345,
-    "percent_change": -1.21957998
-  },
-  {
-    "title": "Hidden gen. AI picks that should be on investors' radars",
-    "published": 1713370667,
-    "posting_price": 186.64165566,
-    "close_price": 184.13879395,
-    "percent_change": -1.34099845
-  },
-  {
-    "title": "Constellation Seeks License to Operate Dresden Clean Energy Center for an Additional 20 Years",
-    "published": 1713362400,
-    "posting_price": 186.64165566,
-    "close_price": 184.13879395,
-    "percent_change": -1.34099845
-  },
-  {
-    "title": "Constellation Energy : Seeks License Renewal of Dresden Clean Energy Center Through 2051",
-    "published": 1713357375,
-    "posting_price": 186.64165566,
-    "close_price": 184.13879395,
-    "percent_change": -1.34099845
-  },
-  {
-    "title": "Constellation seeks license to operate Dresden center for additional 20 years",
-    "published": 1713344520,
-    "posting_price": 186.64165566,
-    "close_price": 184.13879395,
-    "percent_change": -1.34099845
-  },
-  {
-    "title": "QQQ ETF Update, 4/17/2024",
-    "published": 1713333180,
-    "posting_price": 186.64165566,
-    "close_price": 184.13879395,
-    "percent_change": -1.34099845
-  },
-  {
-    "title": "CEG June 21st Options Begin Trading",
-    "published": 1713260580,
-    "posting_price": 183.77130468,
-    "close_price": 185.38027954,
-    "percent_change": 0.87553106
-  },
-  {
-    "title": "SPY ETF Update, 4/16/2024",
-    "published": 1713243840,
-    "posting_price": 183.77130468,
-    "close_price": 185.38027954,
-    "percent_change": 0.87553106
+    "title": "Challenger Energy Welcomes New Investment and Director",
+    "published": 1716861180,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 232.74000549316406,
+      "2024-05-28T14:30:00+00:00": 230.07000732421875,
+      "2024-05-28T15:30:00+00:00": 231.77999877929688,
+      "2024-05-28T16:30:00+00:00": 232.75,
+      "2024-05-28T17:30:00+00:00": 231.6699981689453,
+      "2024-05-28T18:30:00+00:00": 231.52999877929688,
+      "2024-05-28T19:30:00+00:00": 230.27000427246094
+    },
+    "sentiment": 0.7685614228248596
   }
 ]

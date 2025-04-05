@@ -1,352 +1,748 @@
 [
   {
-    "title": "U.K. games market rose 4.4% year-over-year in 2023, GI.biz reports",
-    "published": 1713180540,
-    "posting_price": 127.53106571,
-    "close_price": 126.3772049,
-    "percent_change": -0.90476842
+    "title": "Investors Knock Out EA Stock After Game Publisher's March-Quarter Miss",
+    "published": 1715119083,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.9516661763191223
   },
   {
-    "title": "Will Electronic Arts (EA) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1712938214,
-    "posting_price": 127.84937121,
-    "close_price": 127.21276093,
-    "percent_change": -0.49793775
+    "title": "Electronic Arts (NASDAQ:EA) Posts Q1 Sales In Line With Estimates But Full-Year Sales Guidance Misses Expectations",
+    "published": 1715115377,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.8047424554824829
   },
   {
-    "title": "EA Drops UK Quality Team, Leaves 40 Apex Legends Staffers In Limbo",
-    "published": 1712887560,
-    "posting_price": 127.84937121,
-    "close_price": 127.21276093,
-    "percent_change": -0.49793775
+    "title": "UPDATE 2-Electronic Arts forecasts annual bookings below estimates as gamers cut spending",
+    "published": 1715112629,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.9645338654518127
   },
   {
-    "title": "Electronic Arts (NASDAQ:EA) Will Be Hoping To Turn Its Returns On Capital Around",
-    "published": 1712832039,
-    "posting_price": 128.39646456,
-    "close_price": 128.4959259,
-    "percent_change": 0.07746424
+    "title": "Electronic Arts forecasts lower annual bookings as gamers cut back amid high inflation",
+    "published": 1715112300,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.9672220945358276
   },
   {
-    "title": "EA May 31st Options Begin Trading",
-    "published": 1712831760,
-    "posting_price": 128.39646456,
-    "close_price": 128.4959259,
-    "percent_change": 0.07746424
+    "title": "Electronic Arts : Prepared Remarks Q4 2024",
+    "published": 1715104075,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.9446300864219666
   },
   {
-    "title": "Electronic Arts : The Battlefield team is expanding as we look to the future of the series",
-    "published": 1712801828,
-    "posting_price": 128.39646456,
-    "close_price": 128.4959259,
-    "percent_change": 0.07746424
+    "title": "Electronic Arts: Fiscal Q4 Earnings Snapshot",
+    "published": 1715099426,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.4905959665775299
   },
   {
-    "title": "Electronic Arts: A Solid Business But Shares Trade At A Rich Valuation",
-    "published": 1712795450,
-    "posting_price": 128.39646456,
-    "close_price": 128.4959259,
-    "percent_change": 0.07746424
+    "title": "Electronic Arts declares $0.19 dividend",
+    "published": 1715078880,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.8957865834236145
   },
   {
-    "title": "EA shelved plans to develop remake of 'Dead Space 2,' VGC reports",
-    "published": 1712752560,
-    "posting_price": 129.21209368,
-    "close_price": 128.61528015,
-    "percent_change": -0.46188674
+    "title": "Electronic Arts Breaks Above 200-Day Moving Average - Bullish for EA",
+    "published": 1715078340,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.869716227054596
   },
   {
-    "title": "EA to raise price of monthly, annual EA Play subscriptions: report",
-    "published": 1712747520,
-    "posting_price": 129.21209368,
-    "close_price": 128.61528015,
-    "percent_change": -0.46188674
+    "title": "Options Volatility and Implied Earnings Moves Today, May 07, 2024",
+    "published": 1715061960,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.9205999374389648
   },
   {
-    "title": "Electronic Arts raising price of EA Play subscription, GamesIndustry.biz reports",
-    "published": 1712744340,
-    "posting_price": 129.21209368,
-    "close_price": 128.61528015,
-    "percent_change": -0.46188674
+    "title": "Electronic Arts sees FY25 EPS $3.34-$4.00, consensus $7.57",
+    "published": 1715052960,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.4850715398788452
   },
   {
-    "title": "EA tells IGN 'Dead Space 2' remake report is false",
-    "published": 1712711400,
-    "posting_price": 129.21209368,
-    "close_price": 128.61528015,
-    "percent_change": -0.46188674
+    "title": "Electronic Arts dips 5% on bookings miss, light full-year outlook",
+    "published": 1715052600,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.9675647020339966
   },
   {
-    "title": "Electronic Arts : Hans van Veenendaal of EA has created breakthrough game patching tech which reduces patch times, saves costs, and supports sustainability.",
-    "published": 1712674269,
-    "posting_price": 129.79900219,
-    "close_price": 129.99794006,
-    "percent_change": 0.1532661
+    "title": "Electronic Arts GAAP EPS of $0.67, revenue of $1.66B misses by $110M",
+    "published": 1715051520,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.5384239554405212
+  },
+  {
+    "title": "Investor Optimism Decreases Slightly, But Dow Records Gains For 4th Day",
+    "published": 1715050380,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.6732267737388611
+  },
+  {
+    "title": "GLOBAL BRIEFING: Reserve Bank of Australia keeps rates on hold",
+    "published": 1715042100,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 130.5399932861328,
+      "2024-05-07T14:30:00+00:00": 131.35000610351562,
+      "2024-05-07T15:30:00+00:00": 131.10000610351562,
+      "2024-05-07T16:30:00+00:00": 130.75,
+      "2024-05-07T17:30:00+00:00": 130.55999755859375,
+      "2024-05-07T18:30:00+00:00": 130.2899932861328,
+      "2024-05-07T19:30:00+00:00": 130.35000610351562
+    },
+    "sentiment": 0.7833429574966431
+  },
+  {
+    "title": "Insider Sale: COO Laura Miele Sells 2,000 Shares of Electronic Arts Inc (EA)",
+    "published": 1714825740,
+    "day_prices": {},
+    "sentiment": 0.9235131740570068
+  },
+  {
+    "title": "Electronic Arts : has partnered with Tech Coalition and FOSI to foster and support safe, inclusive spaces for millions of video game players worldwide.",
+    "published": 1714745592,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 129.1199951171875,
+      "2024-05-03T14:30:00+00:00": 129.24000549316406,
+      "2024-05-03T15:30:00+00:00": 129.31500244140625,
+      "2024-05-03T16:30:00+00:00": 129.58999633789062,
+      "2024-05-03T17:30:00+00:00": 129.4199981689453,
+      "2024-05-03T18:30:00+00:00": 129.55999755859375,
+      "2024-05-03T19:30:00+00:00": 129.4199981689453
+    },
+    "sentiment": 0.8331608176231384
+  },
+  {
+    "title": "Insights Into Electronic Arts (EA) Q4: Wall Street Projections for Key Metrics",
+    "published": 1714655721,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 128.74000549316406,
+      "2024-05-02T14:30:00+00:00": 127.37000274658203,
+      "2024-05-02T15:30:00+00:00": 127.18000030517578,
+      "2024-05-02T16:30:00+00:00": 127.59500122070312,
+      "2024-05-02T17:30:00+00:00": 127.69999694824219,
+      "2024-05-02T18:30:00+00:00": 128.16000366210938,
+      "2024-05-02T19:30:00+00:00": 128.02999877929688
+    },
+    "sentiment": 0.8342288136482239
+  },
+  {
+    "title": "Electronic Arts Q4 Earnings Preview: In Search For The Next Blockbuster Game",
+    "published": 1714640400,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 128.74000549316406,
+      "2024-05-02T14:30:00+00:00": 127.37000274658203,
+      "2024-05-02T15:30:00+00:00": 127.18000030517578,
+      "2024-05-02T16:30:00+00:00": 127.59500122070312,
+      "2024-05-02T17:30:00+00:00": 127.69999694824219,
+      "2024-05-02T18:30:00+00:00": 128.16000366210938,
+      "2024-05-02T19:30:00+00:00": 128.02999877929688
+    },
+    "sentiment": 0.8437648415565491
+  },
+  {
+    "title": "Unity Appoints Matthew Bromberg as New CEO",
+    "published": 1714580100,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 126.56500244140625,
+      "2024-05-01T14:30:00+00:00": 127.66000366210938,
+      "2024-05-01T15:30:00+00:00": 127.88999938964844,
+      "2024-05-01T16:30:00+00:00": 128.27000427246094,
+      "2024-05-01T17:30:00+00:00": 128.35000610351562,
+      "2024-05-01T18:30:00+00:00": 128.29319763183594,
+      "2024-05-01T19:30:00+00:00": 129.3800048828125
+    },
+    "sentiment": 0.9067317843437195
+  },
+  {
+    "title": "Electronic Arts price target lowered by $5 at Roth MKM, here's why",
+    "published": 1714546800,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 126.56500244140625,
+      "2024-05-01T14:30:00+00:00": 127.66000366210938,
+      "2024-05-01T15:30:00+00:00": 127.88999938964844,
+      "2024-05-01T16:30:00+00:00": 128.27000427246094,
+      "2024-05-01T17:30:00+00:00": 128.35000610351562,
+      "2024-05-01T18:30:00+00:00": 128.29319763183594,
+      "2024-05-01T19:30:00+00:00": 129.3800048828125
+    },
+    "sentiment": 0.8278465270996094
+  },
+  {
+    "title": "GameStop: Beware The Rally (Technical Analysis)",
+    "published": 1715774572,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 127.1500015258789,
+      "2024-05-15T14:30:00+00:00": 127.30000305175781,
+      "2024-05-15T15:30:00+00:00": 127.54000091552734,
+      "2024-05-15T16:30:00+00:00": 128.2675018310547,
+      "2024-05-15T17:30:00+00:00": 128.19500732421875,
+      "2024-05-15T18:30:00+00:00": 128.38150024414062,
+      "2024-05-15T19:30:00+00:00": 127.77999877929688
+    },
+    "sentiment": 0.9270437955856323
+  },
+  {
+    "title": "Lee Ainslie's Strategic Moves in Q1 2024: A Deep Dive into Coupang Inc's Significant Reduction",
+    "published": 1715757660,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 127.1500015258789,
+      "2024-05-15T14:30:00+00:00": 127.30000305175781,
+      "2024-05-15T15:30:00+00:00": 127.54000091552734,
+      "2024-05-15T16:30:00+00:00": 128.2675018310547,
+      "2024-05-15T17:30:00+00:00": 128.19500732421875,
+      "2024-05-15T18:30:00+00:00": 128.38150024414062,
+      "2024-05-15T19:30:00+00:00": 127.77999877929688
+    },
+    "sentiment": 0.49988868832588196
   },
   {
     "title": "What You Missed This Week in Video Games",
-    "published": 1712662380,
-    "posting_price": 129.79900219,
-    "close_price": 129.99794006,
-    "percent_change": 0.1532661
+    "published": 1715685840,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 125.94999694824219,
+      "2024-05-14T14:30:00+00:00": 126.44999694824219,
+      "2024-05-14T15:30:00+00:00": 126.11280059814453,
+      "2024-05-14T16:30:00+00:00": 126.66999816894531,
+      "2024-05-14T17:30:00+00:00": 126.30999755859375,
+      "2024-05-14T18:30:00+00:00": 126.4000015258789,
+      "2024-05-14T19:30:00+00:00": 126.62000274658203
+    },
+    "sentiment": 0.9021713137626648
   },
   {
-    "title": "Electronic Arts Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
-    "published": 1712635440,
-    "posting_price": 129.79900219,
-    "close_price": 129.99794006,
-    "percent_change": 0.1532661
+    "title": "Gaming industry: How to level up your investments",
+    "published": 1715635899,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 127.43000030517578,
+      "2024-05-13T14:30:00+00:00": 127.80000305175781,
+      "2024-05-13T15:30:00+00:00": 127.66999816894531,
+      "2024-05-13T16:30:00+00:00": 127.05999755859375,
+      "2024-05-13T17:30:00+00:00": 127.04000091552734,
+      "2024-05-13T18:30:00+00:00": 126.83000183105469,
+      "2024-05-13T19:30:00+00:00": 126.62000274658203
+    },
+    "sentiment": 0.9193829298019409
   },
   {
-    "title": "Why I'm Not Buying Take-Two Interactive Stock Right Now, and Considering This Stock Instead",
-    "published": 1712578500,
-    "posting_price": 129.6000421,
-    "close_price": 129.31158447,
-    "percent_change": -0.22257526
+    "title": "Warner Bros. Discovery's failed Suicide Squad game highlights industry woes",
+    "published": 1715407260,
+    "day_prices": {},
+    "sentiment": 0.6524603366851807
   },
   {
-    "title": "20 Largest Video Game Publishers by Revenue in the World",
-    "published": 1712543187,
-    "posting_price": 129.6000421,
-    "close_price": 129.31158447,
-    "percent_change": -0.22257526
+    "title": "Roblox And Electronic Arts Are Struggling With Muted Player Spending",
+    "published": 1715363973,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 126.16000366210938,
+      "2024-05-10T14:30:00+00:00": 126.87999725341797,
+      "2024-05-10T15:30:00+00:00": 126.69999694824219,
+      "2024-05-10T16:30:00+00:00": 127.1050033569336,
+      "2024-05-10T17:30:00+00:00": 126.95500183105469,
+      "2024-05-10T18:30:00+00:00": 126.80999755859375,
+      "2024-05-10T19:30:00+00:00": 127.01000213623047
+    },
+    "sentiment": 0.9607870578765869
   },
   {
-    "title": "3 Stocks to Sell in April Before They Crash & Burn",
-    "published": 1712343751,
-    "posting_price": 128.53572588,
-    "close_price": 129.60005188,
-    "percent_change": 0.82803905
+    "title": "Is Roblox (RBLX) Stock on the Brink of Death? Lower Player Spending Might Say Yes.",
+    "published": 1715251080,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 125.2699966430664,
+      "2024-05-09T14:30:00+00:00": 126.77999877929688,
+      "2024-05-09T15:30:00+00:00": 126.27999877929688,
+      "2024-05-09T16:30:00+00:00": 126.26000213623047,
+      "2024-05-09T17:30:00+00:00": 126.4800033569336,
+      "2024-05-09T18:30:00+00:00": 126.59500122070312,
+      "2024-05-09T19:30:00+00:00": 126.8499984741211
+    },
+    "sentiment": 0.4459987282752991
   },
   {
-    "title": "Apple lays off more than 600 workers in California in its first major round of post-pandemic cuts",
-    "published": 1712298000,
-    "posting_price": 128.53572588,
-    "close_price": 129.60005188,
-    "percent_change": 0.82803905
+    "title": "How NFL\u2019s Troy Vincent balances the game\u2019s thrill and safety",
+    "published": 1715248502,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 125.2699966430664,
+      "2024-05-09T14:30:00+00:00": 126.77999877929688,
+      "2024-05-09T15:30:00+00:00": 126.27999877929688,
+      "2024-05-09T16:30:00+00:00": 126.26000213623047,
+      "2024-05-09T17:30:00+00:00": 126.4800033569336,
+      "2024-05-09T18:30:00+00:00": 126.59500122070312,
+      "2024-05-09T19:30:00+00:00": 126.8499984741211
+    },
+    "sentiment": 0.9101775884628296
   },
   {
-    "title": "May 24th Options Now Available For Electronic Arts (EA)",
-    "published": 1712225340,
-    "posting_price": 132.49464051,
-    "close_price": 128.87391663,
-    "percent_change": -2.73273233
+    "title": "Microsoft Shakes Up Xbox Division, Closes Renowned Studios in Major Cost-Cutting Move",
+    "published": 1715243220,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 125.2699966430664,
+      "2024-05-09T14:30:00+00:00": 126.77999877929688,
+      "2024-05-09T15:30:00+00:00": 126.27999877929688,
+      "2024-05-09T16:30:00+00:00": 126.26000213623047,
+      "2024-05-09T17:30:00+00:00": 126.4800033569336,
+      "2024-05-09T18:30:00+00:00": 126.59500122070312,
+      "2024-05-09T19:30:00+00:00": 126.8499984741211
+    },
+    "sentiment": 0.950250506401062
   },
   {
-    "title": "Insider Sell: COO Laura Miele Sells 2,000 Shares of Electronic Arts Inc (EA)",
-    "published": 1712122104,
-    "posting_price": 131.48004148,
-    "close_price": 131.81825256,
-    "percent_change": 0.25723378
+    "title": "GLOBAL BROKER RATINGS: Higher price targets for Puma and Henkel",
+    "published": 1715238540,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 125.2699966430664,
+      "2024-05-09T14:30:00+00:00": 126.77999877929688,
+      "2024-05-09T15:30:00+00:00": 126.27999877929688,
+      "2024-05-09T16:30:00+00:00": 126.26000213623047,
+      "2024-05-09T17:30:00+00:00": 126.4800033569336,
+      "2024-05-09T18:30:00+00:00": 126.59500122070312,
+      "2024-05-09T19:30:00+00:00": 126.8499984741211
+    },
+    "sentiment": 0.9553639888763428
   },
   {
-    "title": "Playtika: Geopolitical Risks And Growth Stagnation Weigh On Shares",
-    "published": 1712114489,
-    "posting_price": 131.48004148,
-    "close_price": 131.81825256,
-    "percent_change": 0.25723378
+    "title": "Unity Software dips following mixed Q1 2024 results as new CEO prepares to step in",
+    "published": 1715227980,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 125.2699966430664,
+      "2024-05-09T14:30:00+00:00": 126.77999877929688,
+      "2024-05-09T15:30:00+00:00": 126.27999877929688,
+      "2024-05-09T16:30:00+00:00": 126.26000213623047,
+      "2024-05-09T17:30:00+00:00": 126.4800033569336,
+      "2024-05-09T18:30:00+00:00": 126.59500122070312,
+      "2024-05-09T19:30:00+00:00": 126.8499984741211
+    },
+    "sentiment": 0.9684479236602783
   },
   {
-    "title": "EA's Respawn investigating account reset issues in 'Apex Legends'",
-    "published": 1712062320,
-    "posting_price": 132.28575864,
-    "close_price": 131.45019531,
-    "percent_change": -0.63163513
+    "title": "Electronic Arts Inc. (NASDAQ:EA) Q4 2024 Earnings Call Transcript",
+    "published": 1715187501,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.9293095469474792
   },
   {
-    "title": "Earnings Preview: Electronic Arts (EA) Q4 Earnings Expected to Decline",
-    "published": 1714485670,
-    "posting_price": 126.71541116,
-    "close_price": 126.14842987,
-    "percent_change": -0.44744462
+    "title": "Electronic Arts Inc (EA) (Q4 2024) Earnings Call Transcript Highlights: Strategic Insights and ...",
+    "published": 1715155181,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.8404754400253296
   },
   {
-    "title": "Philip Morris, Accenture And 2 Other Stocks Insiders Are Selling",
-    "published": 1714376040,
-    "posting_price": 126.97403353,
-    "close_price": 127.22270966,
-    "percent_change": 0.19584802
+    "title": "Electronic Arts (EA) Gets a Buy from Wedbush",
+    "published": 1715153760,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.5130602717399597
   },
   {
-    "title": "Billionaire Chase Coleman Has 6% of His Massive Portfolio in This Beaten-Down Tech Stock",
-    "published": 1714290300,
-    "posting_price": 126.97403353,
-    "close_price": 127.22270966,
-    "percent_change": 0.19584802
+    "title": "Analysts Offer Insights on Communication Services Companies: Electronic Arts (EA), America Movil (AMX) and Twilio (TWLO)",
+    "published": 1715149260,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.9155735969543457
   },
   {
-    "title": "ROKU Q1 Loss Narrower Than Expected, Revenues Increase Y/Y",
-    "published": 1714136220,
-    "posting_price": 126.04895802,
-    "close_price": 127.22270966,
-    "percent_change": 0.9311871
+    "title": "Electronic Arts price target lowered by $10 at Baird, here's why",
+    "published": 1715148840,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.858160674571991
   },
   {
-    "title": "EA June 7th Options Begin Trading",
-    "published": 1714132440,
-    "posting_price": 126.04895802,
-    "close_price": 127.22270966,
-    "percent_change": 0.9311871
+    "title": "EA Earnings: Q4 Bookings Miss, Soft Outlook Hurt Stock",
+    "published": 1715144460,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.9492194056510925
   },
   {
-    "title": "The Top 3 Gaming Stocks to Buy in April 2024",
-    "published": 1714041900,
-    "posting_price": 127.8095853,
-    "close_price": 126.63582611,
-    "percent_change": -0.91836554
+    "title": "Electronic Arts (EA) Q4 2024 Earnings Call Transcript",
+    "published": 1715130913,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 127.08999633789062,
+      "2024-05-08T14:30:00+00:00": 127.19999694824219,
+      "2024-05-08T15:30:00+00:00": 127.83999633789062,
+      "2024-05-08T16:30:00+00:00": 127.0,
+      "2024-05-08T17:30:00+00:00": 127.15499877929688,
+      "2024-05-08T18:30:00+00:00": 127.06999969482422,
+      "2024-05-08T19:30:00+00:00": 125.83999633789062
+    },
+    "sentiment": 0.9162856340408325
   },
   {
-    "title": "3 Top Gaming Stocks to Buy in April",
-    "published": 1713948600,
-    "posting_price": 125.83011865,
-    "close_price": 127.46143341,
-    "percent_change": 1.2964422
+    "title": "Video Gaming Stocks Q1 Highlights: Roblox (NYSE:RBLX)",
+    "published": 1716471066,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 135.47000122070312,
+      "2024-05-23T14:30:00+00:00": 135.14999389648438,
+      "2024-05-23T15:30:00+00:00": 134.28469848632812,
+      "2024-05-23T16:30:00+00:00": 134.3800048828125,
+      "2024-05-23T17:30:00+00:00": 134.33999633789062,
+      "2024-05-23T18:30:00+00:00": 134.11000061035156,
+      "2024-05-23T19:30:00+00:00": 134.4600067138672
+    },
+    "sentiment": 0.9426408410072327
   },
   {
-    "title": "A Cautious Perspective of Nintendo",
-    "published": 1713945660,
-    "posting_price": 125.83011865,
-    "close_price": 127.46143341,
-    "percent_change": 1.2964422
+    "title": "Decoding Electronic Arts Inc (EA): A Strategic SWOT Insight",
+    "published": 1716440556,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 135.47000122070312,
+      "2024-05-23T14:30:00+00:00": 135.14999389648438,
+      "2024-05-23T15:30:00+00:00": 134.28469848632812,
+      "2024-05-23T16:30:00+00:00": 134.3800048828125,
+      "2024-05-23T17:30:00+00:00": 134.33999633789062,
+      "2024-05-23T18:30:00+00:00": 134.11000061035156,
+      "2024-05-23T19:30:00+00:00": 134.4600067138672
+    },
+    "sentiment": 0.90301913022995
   },
   {
-    "title": "3 Non-Gamestop Stocks to Buy for the Future of Gaming",
-    "published": 1713935880,
-    "posting_price": 125.83011865,
-    "close_price": 127.46143341,
-    "percent_change": 1.2964422
+    "title": "EA SPORTS FC\u2122 FUTURES Announces Partnership With UNICEF and Shares Year One Impact",
+    "published": 1716375600,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 129.19000244140625,
+      "2024-05-22T14:30:00+00:00": 134.5417938232422,
+      "2024-05-22T15:30:00+00:00": 133.85499572753906,
+      "2024-05-22T16:30:00+00:00": 133.9600067138672,
+      "2024-05-22T17:30:00+00:00": 134.32000732421875,
+      "2024-05-22T18:30:00+00:00": 134.89999389648438,
+      "2024-05-22T19:30:00+00:00": 134.61000061035156
+    },
+    "sentiment": 0.7823259830474854
   },
   {
-    "title": "Electronic Arts Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713931560,
-    "posting_price": 125.83011865,
-    "close_price": 127.46143341,
-    "percent_change": 1.2964422
+    "title": "Why Investors Are Eyeing Electronic Arts Inc (EA): The Key Drivers of Market Outperformance and ...",
+    "published": 1716343860,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 129.19000244140625,
+      "2024-05-22T14:30:00+00:00": 134.5417938232422,
+      "2024-05-22T15:30:00+00:00": 133.85499572753906,
+      "2024-05-22T16:30:00+00:00": 133.9600067138672,
+      "2024-05-22T17:30:00+00:00": 134.32000732421875,
+      "2024-05-22T18:30:00+00:00": 134.89999389648438,
+      "2024-05-22T19:30:00+00:00": 134.61000061035156
+    },
+    "sentiment": 0.8415689468383789
   },
   {
-    "title": "Discover Vibrant Realms and Bantu Myths in Tales of Kenzera\u2122: ZAU, Surgent Studios\u2019 Heartfelt Indie Adventure",
-    "published": 1713888000,
-    "posting_price": 126.62589221,
-    "close_price": 126.46673584,
-    "percent_change": -0.12569023
+    "title": "Electronic Arts (EA) Reveals Features of College Football 25",
+    "published": 1716223560,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 127.54000091552734,
+      "2024-05-20T14:30:00+00:00": 127.11000061035156,
+      "2024-05-20T15:30:00+00:00": 127.91999816894531,
+      "2024-05-20T16:30:00+00:00": 127.91000366210938,
+      "2024-05-20T17:30:00+00:00": 127.31310272216797,
+      "2024-05-20T18:30:00+00:00": 127.43499755859375,
+      "2024-05-20T19:30:00+00:00": 127.83999633789062
+    },
+    "sentiment": 0.9395272135734558
   },
   {
-    "title": "Can Electronic Arts Overcome Gaming Headwinds? What To Expect From Upcoming Q4 Earnings",
-    "published": 1713876540,
-    "posting_price": 126.62589221,
-    "close_price": 126.46673584,
-    "percent_change": -0.12569023
+    "title": "What's New In Consumer Tech World Last Week? News That You Should Know (May 12-May 19, 2024)",
+    "published": 1716186780,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 127.54000091552734,
+      "2024-05-20T14:30:00+00:00": 127.11000061035156,
+      "2024-05-20T15:30:00+00:00": 127.91999816894531,
+      "2024-05-20T16:30:00+00:00": 127.91000366210938,
+      "2024-05-20T17:30:00+00:00": 127.31310272216797,
+      "2024-05-20T18:30:00+00:00": 127.43499755859375,
+      "2024-05-20T19:30:00+00:00": 127.83999633789062
+    },
+    "sentiment": 0.9134979844093323
   },
   {
-    "title": "Unveiling 4 Analyst Insights On Electronic Arts",
-    "published": 1713859560,
-    "posting_price": 126.62589221,
-    "close_price": 126.46673584,
-    "percent_change": -0.12569023
+    "title": "Electronic Arts (EA) Reveals Covers for College Football 25",
+    "published": 1715955960,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 128.13999938964844,
+      "2024-05-17T14:30:00+00:00": 127.7699966430664,
+      "2024-05-17T15:30:00+00:00": 127.09500122070312,
+      "2024-05-17T16:30:00+00:00": 126.9800033569336,
+      "2024-05-17T17:30:00+00:00": 126.93000030517578,
+      "2024-05-17T18:30:00+00:00": 127.31999969482422,
+      "2024-05-17T19:30:00+00:00": 127.4749984741211
+    },
+    "sentiment": 0.9403325319290161
   },
   {
-    "title": "Stifel Nicolaus Keeps Their Buy Rating on Electronic Arts (EA)",
-    "published": 1713857760,
-    "posting_price": 126.62589221,
-    "close_price": 126.46673584,
-    "percent_change": -0.12569023
+    "title": "Game On: Wedbush's Pachter says Xbox studio closures not a 'creeping issue'",
+    "published": 1715939520,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 128.13999938964844,
+      "2024-05-17T14:30:00+00:00": 127.7699966430664,
+      "2024-05-17T15:30:00+00:00": 127.09500122070312,
+      "2024-05-17T16:30:00+00:00": 126.9800033569336,
+      "2024-05-17T17:30:00+00:00": 126.93000030517578,
+      "2024-05-17T18:30:00+00:00": 127.31999969482422,
+      "2024-05-17T19:30:00+00:00": 127.4749984741211
+    },
+    "sentiment": 0.9159147143363953
   },
   {
-    "title": "Analysts Offer Insights on Communication Services Companies: Verizon (VZ) and Electronic Arts (EA)",
-    "published": 1713855000,
-    "posting_price": 126.62589221,
-    "close_price": 126.46673584,
-    "percent_change": -0.12569023
+    "title": "Electronic Arts Inc. stock outperforms competitors despite losses on the day",
+    "published": 1715918520,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 128.13999938964844,
+      "2024-05-17T14:30:00+00:00": 127.7699966430664,
+      "2024-05-17T15:30:00+00:00": 127.09500122070312,
+      "2024-05-17T16:30:00+00:00": 126.9800033569336,
+      "2024-05-17T17:30:00+00:00": 126.93000030517578,
+      "2024-05-17T18:30:00+00:00": 127.31999969482422,
+      "2024-05-17T19:30:00+00:00": 127.4749984741211
+    },
+    "sentiment": 0.9367896914482117
   },
   {
-    "title": "EXCLUSIVE: Madden Gaming Veteran Leads Play-To-Earn Horse Racing Game Photo Finish Into New Growth Phase: 'More People Racing All Day, Every Day'",
-    "published": 1713756000,
-    "posting_price": 127.06355798,
-    "close_price": 126.44684601,
-    "percent_change": -0.48535708
+    "title": "EA SPORTS\u2122 College Football 25 Launches Worldwide on July 19 With Donovan Edwards, Quinn Ewers & Travis Hunter on the Cover",
+    "published": 1715872500,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 128.0449981689453,
+      "2024-05-16T14:30:00+00:00": 127.63500213623047,
+      "2024-05-16T15:30:00+00:00": 128.10000610351562,
+      "2024-05-16T16:30:00+00:00": 128.36000061035156,
+      "2024-05-16T17:30:00+00:00": 128.56500244140625,
+      "2024-05-16T18:30:00+00:00": 128.7550048828125,
+      "2024-05-16T19:30:00+00:00": 128.89999389648438
+    },
+    "sentiment": 0.9390073418617249
   },
   {
-    "title": "Let's Spill The Tea: Top Consumer Tech News From Last Week That You Should Know",
-    "published": 1713693900,
-    "posting_price": 127.06355031,
-    "close_price": 126.44683838,
-    "percent_change": -0.48535707
+    "title": "Electronic Arts Sets Performance-Based Stock Awards for FY2025",
+    "published": 1715829960,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 128.0449981689453,
+      "2024-05-16T14:30:00+00:00": 127.63500213623047,
+      "2024-05-16T15:30:00+00:00": 128.10000610351562,
+      "2024-05-16T16:30:00+00:00": 128.36000061035156,
+      "2024-05-16T17:30:00+00:00": 128.56500244140625,
+      "2024-05-16T18:30:00+00:00": 128.7550048828125,
+      "2024-05-16T19:30:00+00:00": 128.89999389648438
+    },
+    "sentiment": 0.935329794883728
   },
   {
-    "title": "Mayar Capital Q1 2024 Letter To Partners",
-    "published": 1713526800,
-    "posting_price": 125.38251326,
-    "close_price": 126.59604645,
-    "percent_change": 0.96786478
+    "title": "Paving The Way For Microtransactions? The Sims 4 Introduces Controversial Battle Pass-Style Events",
+    "published": 1717125540,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 131.2100067138672,
+      "2024-05-31T14:30:00+00:00": 130.875,
+      "2024-05-31T15:30:00+00:00": 131.02999877929688,
+      "2024-05-31T16:30:00+00:00": 130.5500030517578,
+      "2024-05-31T17:30:00+00:00": 129.6750030517578,
+      "2024-05-31T18:30:00+00:00": 130.4199981689453,
+      "2024-05-31T19:30:00+00:00": 131.0749969482422
+    },
+    "sentiment": 0.8586475849151611
   },
   {
-    "title": "Interesting EA Put And Call Options For December 20th",
-    "published": 1713521460,
-    "posting_price": 125.38251326,
-    "close_price": 126.59604645,
-    "percent_change": 0.96786478
+    "title": "Video Gaming Stocks Q1 Earnings: Take-Two (NASDAQ:TTWO) Firing on All Cylinders",
+    "published": 1716984802,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 131.27999877929688,
+      "2024-05-29T14:30:00+00:00": 132.6699981689453,
+      "2024-05-29T15:30:00+00:00": 132.5749969482422,
+      "2024-05-29T16:30:00+00:00": 132.63999938964844,
+      "2024-05-29T17:30:00+00:00": 132.5749969482422,
+      "2024-05-29T18:30:00+00:00": 132.39999389648438,
+      "2024-05-29T19:30:00+00:00": 132.1999969482422
+    },
+    "sentiment": 0.5479702949523926
   },
   {
-    "title": "Zacks Industry Outlook Highlights Electronic Arts, Mattel and JAKKS Pacific",
-    "published": 1713520800,
-    "posting_price": 125.38251326,
-    "close_price": 126.59604645,
-    "percent_change": 0.96786478
+    "title": "U.S. video game sales fall 3% in April, led by a 43% drop in hardware sales",
+    "published": 1716947640,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 131.27999877929688,
+      "2024-05-29T14:30:00+00:00": 132.6699981689453,
+      "2024-05-29T15:30:00+00:00": 132.5749969482422,
+      "2024-05-29T16:30:00+00:00": 132.63999938964844,
+      "2024-05-29T17:30:00+00:00": 132.5749969482422,
+      "2024-05-29T18:30:00+00:00": 132.39999389648438,
+      "2024-05-29T19:30:00+00:00": 132.1999969482422
+    },
+    "sentiment": 0.9755051732063293
   },
   {
-    "title": "Jack Daniels Parent Company, EA, Cognizant Among 6 Stocks That Shine When Nvidia Slips: Analysis",
-    "published": 1713501240,
-    "posting_price": 125.38251326,
-    "close_price": 126.59604645,
-    "percent_change": 0.96786478
+    "title": "Electronic Arts : Actor and Creative Director Abubakar Salim sits down with EA to discuss creating his first video game, jumping from actor to director, and channeling his grief into art.",
+    "published": 1716905407,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 133.1999969482422,
+      "2024-05-28T14:30:00+00:00": 133.6999969482422,
+      "2024-05-28T15:30:00+00:00": 132.35000610351562,
+      "2024-05-28T16:30:00+00:00": 132.84500122070312,
+      "2024-05-28T17:30:00+00:00": 132.3699951171875,
+      "2024-05-28T18:30:00+00:00": 131.47000122070312,
+      "2024-05-28T19:30:00+00:00": 131.6999969482422
+    },
+    "sentiment": 0.9242005348205566
   },
   {
-    "title": "Challenging The Scope Of A Proposed Class In Qu\u00e9bec Class Proceedings",
-    "published": 1713492911,
-    "posting_price": 125.38251326,
-    "close_price": 126.59604645,
-    "percent_change": 0.96786478
+    "title": "Why Investors Are Eyeing Electronic Arts Inc (EA): The Key Drivers of Market Outperformance and ...",
+    "published": 1716804120,
+    "day_prices": {},
+    "sentiment": 0.8415689468383789
   },
   {
-    "title": "Be One of the 20 - F1\u00ae 24 Delivers All-New Dynamic Handling, Overhauled Career and More",
-    "published": 1713452400,
-    "posting_price": 126.41699703,
-    "close_price": 124.96472931,
-    "percent_change": -1.1487915
-  },
-  {
-    "title": "Analysts Conflicted on These Communication Services Names: Netflix (NFLX) and Electronic Arts (EA)",
-    "published": 1713420660,
-    "posting_price": 126.41699703,
-    "close_price": 124.96472931,
-    "percent_change": -1.1487915
-  },
-  {
-    "title": "Top 3 Consumer Stocks Which Could Rescue Your Portfolio This Quarter",
-    "published": 1713403260,
-    "posting_price": 126.41699703,
-    "close_price": 124.96472931,
-    "percent_change": -1.1487915
-  },
-  {
-    "title": "Top 5 Tech And Telecom Stocks That May Rocket Higher This Month",
-    "published": 1713338520,
-    "posting_price": 126.19816058,
-    "close_price": 125.64112091,
-    "percent_change": -0.44140078
-  },
-  {
-    "title": "EA to Release Fourth Quarter and Fiscal Year 2024 Results on May 7, 2024",
-    "published": 1713297900,
-    "posting_price": 127.04366239,
-    "close_price": 125.87985992,
-    "percent_change": -0.91606496
-  },
-  {
-    "title": "Electronic Arts Inc (EA) Chief Legal Officer Jacob Schatz Sells 1,000 Shares",
-    "published": 1713267480,
-    "posting_price": 127.04366239,
-    "close_price": 125.87985992,
-    "percent_change": -0.91606496
+    "title": "The Sims 4 Updates Arrive Soon: Faster Gameplay, Fewer Glitches, Enhanced Performance",
+    "published": 1716524040,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 134.27000427246094,
+      "2024-05-24T14:30:00+00:00": 134.4600067138672,
+      "2024-05-24T15:30:00+00:00": 135.50999450683594,
+      "2024-05-24T16:30:00+00:00": 135.24000549316406,
+      "2024-05-24T17:30:00+00:00": 135.0500030517578,
+      "2024-05-24T18:30:00+00:00": 135.11000061035156,
+      "2024-05-24T19:30:00+00:00": 135.08999633789062
+    },
+    "sentiment": 0.9274356365203857
   }
 ]

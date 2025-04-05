@@ -1,520 +1,660 @@
 [
   {
-    "title": "Time To Go Shopping, The Tax Pay Sell-Off Is Over",
-    "published": 1713182580,
-    "posting_price": 252.53184125,
-    "close_price": 245.93811035,
-    "percent_change": -2.61104931
+    "title": "KKR and Marriott debut midscale hospitality in Japan",
+    "published": 1715089392,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 236.5,
+      "2024-05-07T14:30:00+00:00": 237.3350067138672,
+      "2024-05-07T15:30:00+00:00": 237.39500427246094,
+      "2024-05-07T16:30:00+00:00": 237.14999389648438,
+      "2024-05-07T17:30:00+00:00": 236.9600067138672,
+      "2024-05-07T18:30:00+00:00": 236.1699981689453,
+      "2024-05-07T19:30:00+00:00": 236.1750030517578
+    },
+    "sentiment": 0.7838141322135925
   },
   {
-    "title": "East 72 - The HongKong And Shanghai Hotels: Backing A Long-Standing Hong Kong Family",
-    "published": 1713098400,
-    "posting_price": 252.53185691,
-    "close_price": 245.93812561,
-    "percent_change": -2.61104931
+    "title": "AC Hotels by Marriott Celebrates Its Brand Debut in Southwest China With the Opening of AC Hotel Chengdu North",
+    "published": 1714736607,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 237.08999633789062,
+      "2024-05-03T14:30:00+00:00": 237.15499877929688,
+      "2024-05-03T15:30:00+00:00": 236.65499877929688,
+      "2024-05-03T16:30:00+00:00": 236.6199951171875,
+      "2024-05-03T17:30:00+00:00": 235.07000732421875,
+      "2024-05-03T18:30:00+00:00": 235.22999572753906,
+      "2024-05-03T19:30:00+00:00": 234.8249969482422
+    },
+    "sentiment": 0.8067611455917358
   },
   {
-    "title": "Why Marriott (MAR) is Poised to Beat Earnings Estimates Again",
-    "published": 1712938212,
-    "posting_price": 253.56147318,
-    "close_price": 248.56173706,
-    "percent_change": -1.97180433
+    "title": "Marriott International, Inc. (NASDAQ:MAR) Q1 2024 Earnings Call Transcript",
+    "published": 1714664476,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9141378402709961
   },
   {
-    "title": "These 2 Consumer Discretionary Stocks Could Beat Earnings: Why They Should Be on Your Radar",
-    "published": 1712926810,
-    "posting_price": 253.56147318,
-    "close_price": 248.56173706,
-    "percent_change": -1.97180433
+    "title": "Westin Debutes Its Next Generation Heavenly Bed",
+    "published": 1714650335,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.7269781827926636
   },
   {
-    "title": "Interesting MAR Put And Call Options For May 31st",
-    "published": 1712831760,
-    "posting_price": 251.58136771,
-    "close_price": 255.97717285,
-    "percent_change": 1.74726975
+    "title": "Marriott International reports solid Q1 2024",
+    "published": 1714649054,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.7316409945487976
   },
   {
-    "title": "East 72 Dynasty Trust Q1 2024 Quarterly Report",
-    "published": 1712830500,
-    "posting_price": 251.58136771,
-    "close_price": 255.97717285,
-    "percent_change": 1.74726975
+    "title": "Here's How Much You Would Have Made Owning Marriott Intl Stock In The Last 20 Years",
+    "published": 1714640760,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9335922002792358
   },
   {
-    "title": "Marriott International : Accelerates Growth in Poland With More Than 10 Anticipated Openings in the Pipeline",
-    "published": 1712829917,
-    "posting_price": 251.58136771,
-    "close_price": 255.97717285,
-    "percent_change": 1.74726975
+    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Carvana Co (CVNA), Marriott International (MAR) and Bally\u2019s Corporation (BALY)",
+    "published": 1714635660,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9184605479240417
   },
   {
-    "title": "25 Countries where Christian Population will Increase the Most by 2050",
-    "published": 1712737330,
-    "posting_price": 249.77948636,
-    "close_price": 251.81900024,
-    "percent_change": 0.81652577
+    "title": "Truist Financial Reaffirms Their Hold Rating on Marriott International (MAR)",
+    "published": 1714633140,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.6496249437332153
   },
   {
-    "title": "Marriott (MAR) Expands Fairfield Brand With European Debut",
-    "published": 1712686320,
-    "posting_price": 252.917967,
-    "close_price": 252.40313721,
-    "percent_change": -0.20355604
+    "title": "Marriott International : MAR Q1 2024 Press Release FINAL",
+    "published": 1714630267,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9492766857147217
+  },
+  {
+    "title": "Buy Rating Affirmed for Marriott International with Positive Growth and Price Target Revision",
+    "published": 1714627200,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9526908993721008
+  },
+  {
+    "title": "Marriott price target raised by $2 at Baird, here's why",
+    "published": 1714626660,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.847199022769928
+  },
+  {
+    "title": "Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Yum! Brands (YUM), Prada SpA (OtherPRDSF) and Marriott International (MAR)",
+    "published": 1714622820,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9374621510505676
+  },
+  {
+    "title": "Maintaining Hold on Marriott: Steady Performance Meets Market Expectations",
+    "published": 1714619760,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.9505115747451782
+  },
+  {
+    "title": "Marriott\u2019s Compliance Challenge: Navigating Risks in Equity Sales and Purchases to Protect Reputation and Investor Trust",
+    "published": 1714611720,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 236.35000610351562,
+      "2024-05-02T14:30:00+00:00": 233.47999572753906,
+      "2024-05-02T15:30:00+00:00": 234.24000549316406,
+      "2024-05-02T16:30:00+00:00": 233.89500427246094,
+      "2024-05-02T17:30:00+00:00": 234.75,
+      "2024-05-02T18:30:00+00:00": 234.64999389648438,
+      "2024-05-02T19:30:00+00:00": 235.02499389648438
+    },
+    "sentiment": 0.8562684059143066
+  },
+  {
+    "title": "Marriott: U.S. Market Is Cooling Amid Global Hotel Boom",
+    "published": 1714579618,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9465352296829224
+  },
+  {
+    "title": "Marriott (MAR) Q1 Earnings Miss Estimates, Revenues Surpass",
+    "published": 1714576440,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9497336745262146
+  },
+  {
+    "title": "Marriott International Inc (MAR) Q1 2024 Earnings: Mixed Results Amidst Revenue Growth and EPS ...",
+    "published": 1714566722,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9680150151252747
+  },
+  {
+    "title": "Marriott International, Inc. (MAR) Q1 2024 Earnings Call Transcript",
+    "published": 1714563127,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9079396724700928
+  },
+  {
+    "title": "Marriott boosts full-year profit view after mixed Q1 results",
+    "published": 1714561967,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9320341348648071
+  },
+  {
+    "title": "Hotel Operator Marriott Slips After Mixed Q1 Earnings",
+    "published": 1714556880,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9684134125709534
+  },
+  {
+    "title": "Marriott International \"pleased with\" quarter despite profit drop",
+    "published": 1714554180,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9370006322860718
+  },
+  {
+    "title": "Sluggish domestic travel weighs on Marriott",
+    "published": 1714551780,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.8878653049468994
+  },
+  {
+    "title": "Marriott sees FY24 adjusted EBITDA $4.96B-$5.09B",
+    "published": 1714549080,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.8605227470397949
+  },
+  {
+    "title": "Marriott: Leisure demand 'remarkably resilient'",
+    "published": 1714548900,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9491680860519409
+  },
+  {
+    "title": "Marriott raises 2024 profit forecast on international travel demand",
+    "published": 1714547054,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.7271038889884949
+  },
+  {
+    "title": "Marriott reports Q1 comparable systemwide constant dollar RevPAR up 4.2%",
+    "published": 1714545840,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9471787214279175
+  },
+  {
+    "title": "Marriott raises FY24 adjusted EPS view to $9.31-$9.65 from $9.18-$9.52",
+    "published": 1714543500,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.9308152794837952
+  },
+  {
+    "title": "Marriott reports Q1 adjusted EPS $2.13, consensus $2.16",
+    "published": 1714543260,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 233.2440948486328,
+      "2024-05-01T14:30:00+00:00": 233.24000549316406,
+      "2024-05-01T15:30:00+00:00": 234.60000610351562,
+      "2024-05-01T16:30:00+00:00": 235.49899291992188,
+      "2024-05-01T17:30:00+00:00": 234.73500061035156,
+      "2024-05-01T18:30:00+00:00": 234.60000610351562,
+      "2024-05-01T19:30:00+00:00": 236.5500030517578
+    },
+    "sentiment": 0.4380275011062622
   },
   {
     "title": "Looking Into Marriott Intl's Recent Short Interest",
-    "published": 1712663280,
-    "posting_price": 252.917967,
-    "close_price": 252.40313721,
-    "percent_change": -0.20355604
-  },
-  {
-    "title": "Fairfield by Marriott Brings the Beauty of Simplicity to Copenhagen for its European Debut",
-    "published": 1712662827,
-    "posting_price": 252.917967,
-    "close_price": 252.40313721,
-    "percent_change": -0.20355604
-  },
-  {
-    "title": "Solar eclipse: Airbnb, United Airlines and other brands set to divvy up $1.5 billion \u2018path of totality\u2019 windfall",
-    "published": 1712591700,
-    "posting_price": 251.71009725,
-    "close_price": 252.14570618,
-    "percent_change": 0.17305978
-  },
-  {
-    "title": "RBC Capital Sticks to Its Buy Rating for Maravai Lifesciences Holdings (MRVI)",
-    "published": 1712566020,
-    "posting_price": 251.71009725,
-    "close_price": 252.14570618,
-    "percent_change": 0.17305978
-  },
-  {
-    "title": "5 Dividends That Will Soar When the Fed Cuts Rates",
-    "published": 1712289720,
-    "posting_price": 246.42322182,
-    "close_price": 251.40316772,
-    "percent_change": 2.02089148
-  },
-  {
-    "title": "40 Least Visited Countries in the World",
-    "published": 1712266479,
-    "posting_price": 250.81904573,
-    "close_price": 246.41333008,
-    "percent_change": -1.75653154
-  },
-  {
-    "title": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
-    "published": 1712234280,
-    "posting_price": 250.81904573,
-    "close_price": 246.41333008,
-    "percent_change": -1.75653154
-  },
-  {
-    "title": "The 3 Best Cruise Stocks to Buy in April 2024",
-    "published": 1712232960,
-    "posting_price": 250.81904573,
-    "close_price": 246.41333008,
-    "percent_change": -1.75653154
-  },
-  {
-    "title": "Marriott International (MAR) Rises Higher Than Market: Key Facts",
-    "published": 1712180721,
-    "posting_price": 244.71045391,
-    "close_price": 248.09642029,
-    "percent_change": 1.38366233
-  },
-  {
-    "title": "Marriott International, Inc. (MAR) is Attracting Investor Attention: Here is What You Should Know",
-    "published": 1712149215,
-    "posting_price": 244.71045391,
-    "close_price": 248.09642029,
-    "percent_change": 1.38366233
-  },
-  {
-    "title": "Hyatt\u2019s CEO on the Strategy Behind Selling $2 Billion in Assets",
-    "published": 1712147700,
-    "posting_price": 244.71045391,
-    "close_price": 248.09642029,
-    "percent_change": 1.38366233
-  },
-  {
-    "title": "Kenya's Tallest Hotel, JW Marriott Nairobi Opens Its Doors in Grand Style",
-    "published": 1712124370,
-    "posting_price": 244.71045391,
-    "close_price": 248.09642029,
-    "percent_change": 1.38366233
-  },
-  {
-    "title": "Why Marriott, Hilton and Hyatt Don\u2019t Own Nearly 99% of Their Hotels",
-    "published": 1712116800,
-    "posting_price": 244.71045391,
-    "close_price": 248.09642029,
-    "percent_change": 1.38366233
-  },
-  {
-    "title": "MARRIOTT INTERNATIONAL ANNOUNCES RELEASE DATE FOR FIRST QUARTER 2024 EARNINGS",
-    "published": 1712089800,
-    "posting_price": 247.68059244,
-    "close_price": 245.27478027,
-    "percent_change": -0.97133657
-  },
-  {
-    "title": "Three Travel Stocks To Pay For Your Next Trip",
-    "published": 1712059740,
-    "posting_price": 247.68059244,
-    "close_price": 245.27478027,
-    "percent_change": -0.97133657
-  },
-  {
-    "title": "Fed rate decision, Qualcomm earnings: What to Watch",
-    "published": 1714513130,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "Westin Hotels & Resorts Bolsters its 'Best in Bed' Reputation with the Global Debut of the Next Generation Heavenly\u00ae Bed",
-    "published": 1714485600,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "Notable companies reporting before tomorrow's open",
-    "published": 1714480800,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "Marriott Q1 2024 Earnings Preview",
-    "published": 1714477980,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1714470660,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "Craig-Hallum Keeps Their Buy Rating on Maravai Lifesciences Holdings (MRVI)",
-    "published": 1714462620,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "Earnings To Watch: Marriott (MAR) Reports Q1 Results Tomorrow",
-    "published": 1714460771,
-    "posting_price": 238.55233287,
-    "close_price": 233.78030396,
-    "percent_change": -2.00041176
-  },
-  {
-    "title": "20 Natural Healing Hot Springs to Visit in the World",
-    "published": 1714423544,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Leisure Demand & Bookings to Aid Marriott (MAR) Q1 Earnings",
-    "published": 1714400220,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Thousands of hotel workers to rally in 18 cities ahead of contract negotiations",
-    "published": 1714385272,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "U.S. and Canadian hotel workers plan May Day rally for higher pay, increased staffing",
-    "published": 1714384260,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Global company events calendar",
-    "published": 1714382940,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Top Stock Reports For Nvidia, Alphabet & Amazon",
-    "published": 1714376700,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "10 Leisure and Recreation Services Stocks to Buy",
-    "published": 1714343158,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "A Key Week: Big Tech Earnings, Fed Rate Decision. What to Know.",
-    "published": 1714289640,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Wall Street Breakfast: The Week Ahead",
-    "published": 1714288946,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Earnings week ahead: Amazon, Apple, Pfizer, AMD, Coca-Cola, Starbucks and more",
-    "published": 1714287780,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "15 Friendliest Countries in Africa",
-    "published": 1714224660,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "The Top 3 Travel Stocks to Buy in April 2024",
-    "published": 1714198800,
-    "posting_price": 239.06716776,
-    "close_price": 238.09692383,
-    "percent_change": -0.40584575
-  },
-  {
-    "title": "Stocks to watch next week: Amazon, Apple, Anglo American and Novo Nordisk",
-    "published": 1714140565,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "Unlocking Q1 Potential of Marriott (MAR): Exploring Wall Street Estimates for Key Metrics",
-    "published": 1714137322,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "June 7th Options Now Available For Marriott International",
-    "published": 1714132440,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "The Top 3 Stocks to Buy in April 2024",
-    "published": 1714131420,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "Marriott signs deal to bring Ritz-Carlton Reserve to Saudi Arabia\u2019s Trojena",
-    "published": 1714125689,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "The Top 3 S&P 500 Stocks to Buy in April 2024",
-    "published": 1714111320,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "Catalyst Watch: Apple earnings, Viking IPO, Chinese EV deliveries and Russell indices' Rank Day",
-    "published": 1714097160,
-    "posting_price": 238.37412483,
-    "close_price": 238.44342041,
-    "percent_change": 0.02907009
-  },
-  {
-    "title": "InterContinental Hotels Group's Share Price Leaves No Room For Error",
-    "published": 1714078506,
-    "posting_price": 239.66119718,
-    "close_price": 239.53248596,
-    "percent_change": -0.05370549
-  },
-  {
-    "title": "Asia Pacific Gen-Zs and Millenials Seek to Unlock Value and Maximize Travel Experience With One Loyalty Program",
-    "published": 1714045578,
-    "posting_price": 239.66119718,
-    "close_price": 239.53248596,
-    "percent_change": -0.05370549
-  },
-  {
-    "title": "Marriott International, Inc: Design Hotels Launches a New Study on Neuroaesthetics",
-    "published": 1714045577,
-    "posting_price": 239.66119718,
-    "close_price": 239.53248596,
-    "percent_change": -0.05370549
-  },
-  {
-    "title": "Marriott International : Signs Agreement With NEOM to Bring the Ritz-Carlton Reserve to Trojena, the Mountains of NEOM",
-    "published": 1714043122,
-    "posting_price": 239.66119718,
-    "close_price": 239.53248596,
-    "percent_change": -0.05370549
-  },
-  {
-    "title": "MAR Crosses Above Average Analyst Target",
-    "published": 1714033260,
-    "posting_price": 239.66119718,
-    "close_price": 239.53248596,
-    "percent_change": -0.05370549
-  },
-  {
-    "title": "Marriott International (MAR) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713967307,
-    "posting_price": 241.74028418,
-    "close_price": 241.63137817,
-    "percent_change": -0.04505083
-  },
-  {
-    "title": "Artisan Mid Cap Value Fund Q1 2024 Commentary",
-    "published": 1713957000,
-    "posting_price": 241.74028418,
-    "close_price": 241.63137817,
-    "percent_change": -0.04505083
-  },
-  {
-    "title": "What's Driving Hilton Worldwide Holdings Inc's Surprising 12% Stock Rally?",
-    "published": 1713953880,
-    "posting_price": 241.74028418,
-    "close_price": 241.63137817,
-    "percent_change": -0.04505083
-  },
-  {
-    "title": "Marriott International Celebrates Milestone on Journey Towards Net-Zero",
-    "published": 1713873037,
-    "posting_price": 235.04757499,
-    "close_price": 237.30488586,
-    "percent_change": 0.96036339
-  },
-  {
-    "title": "Stocks with the least price swings, most attractive option-sale candidates - JPM",
-    "published": 1713872040,
-    "posting_price": 235.04757499,
-    "close_price": 237.30488586,
-    "percent_change": 0.96036339
-  },
-  {
-    "title": "Amazon To Rally Over 37%? Here Are 10 Top Analyst Forecasts For Tuesday",
-    "published": 1713857940,
-    "posting_price": 235.04757499,
-    "close_price": 237.30488586,
-    "percent_change": 0.96036339
-  },
-  {
-    "title": "Marriott price target lowered by $3 at Mizuho, here's why",
-    "published": 1713850680,
-    "posting_price": 235.04757499,
-    "close_price": 237.30488586,
-    "percent_change": 0.96036339
-  },
-  {
-    "title": "Marriott Earns Nod for Hotel Climate Plan, Joining Hilton, Accor, and IHG",
-    "published": 1713801290,
-    "posting_price": 236.18611207,
-    "close_price": 235.04756165,
-    "percent_change": -0.48205646
-  },
-  {
-    "title": "Bank of America Securities Sticks to Its Buy Rating for Marriott International (MAR)",
-    "published": 1713777540,
-    "posting_price": 236.18611207,
-    "close_price": 235.04756165,
-    "percent_change": -0.48205646
-  },
-  {
-    "title": "Marriott verifies emissions reduction targets with SBTi",
-    "published": 1713765780,
-    "posting_price": 236.18611207,
-    "close_price": 235.04756165,
-    "percent_change": -0.48205646
-  },
-  {
-    "title": "Bernstein Reaffirms Their Hold Rating on Marriott International (MAR)",
-    "published": 1713761280,
-    "posting_price": 236.18611207,
-    "close_price": 235.04756165,
-    "percent_change": -0.48205646
-  },
-  {
-    "title": "Marriott price target raised by $1 at Barclays, here's why",
-    "published": 1713500160,
-    "posting_price": 235.01788406,
-    "close_price": 233.65161133,
-    "percent_change": -0.58134841
-  },
-  {
-    "title": "Barclays Keeps Their Hold Rating on Marriott International (MAR)",
-    "published": 1713495480,
-    "posting_price": 235.01788406,
-    "close_price": 233.65161133,
-    "percent_change": -0.58134841
-  },
-  {
-    "title": "Marriott International : Fairfield by Marriott Celebrates 50th Hotel Opening Milestone in Greater China with The Opening of Fairfield by Marriott Chengdu High-Tech Zone",
-    "published": 1713436387,
-    "posting_price": 238.25531298,
-    "close_price": 233.9486084,
-    "percent_change": -1.80760065
-  },
-  {
-    "title": "Marriott International : Highlights Growth and Commitment in T\u00fcrkiye During Visit by President and Chief Executive Officer",
-    "published": 1713345214,
-    "posting_price": 241.64131966,
-    "close_price": 236.08714294,
-    "percent_change": -2.2985211
-  },
-  {
-    "title": "Marriott International Inc. stock underperforms Wednesday when compared to competitors",
-    "published": 1713325680,
-    "posting_price": 241.64131966,
-    "close_price": 236.08714294,
-    "percent_change": -2.2985211
-  },
-  {
-    "title": "If You Invested $1000 In This Stock 20 Years Ago, You Would Have $10,000 Today",
-    "published": 1713322980,
-    "posting_price": 241.64131966,
-    "close_price": 236.08714294,
-    "percent_change": -2.2985211
-  },
-  {
-    "title": "IN BRIEF: Marriott inks multi-property conversion deal in Japan",
-    "published": 1713319020,
-    "posting_price": 241.64131966,
-    "close_price": 236.08714294,
-    "percent_change": -2.2985211
-  },
-  {
-    "title": "Marriott International : and HMI Hotel Group Announces a Multi-property Conversion Deal in Japan",
-    "published": 1713312608,
-    "posting_price": 241.64131966,
-    "close_price": 236.08714294,
-    "percent_change": -2.2985211
+    "published": 1715775600,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 236.75,
+      "2024-05-15T14:30:00+00:00": 236.19000244140625,
+      "2024-05-15T15:30:00+00:00": 236.64999389648438,
+      "2024-05-15T16:30:00+00:00": 236.2100067138672,
+      "2024-05-15T17:30:00+00:00": 236.36500549316406,
+      "2024-05-15T18:30:00+00:00": 236.2449951171875,
+      "2024-05-15T19:30:00+00:00": 235.9499969482422
+    },
+    "sentiment": 0.9354812502861023
+  },
+  {
+    "title": "Aristotle Capital Corporate Credit Q1 2024 Commentary",
+    "published": 1715767200,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 236.75,
+      "2024-05-15T14:30:00+00:00": 236.19000244140625,
+      "2024-05-15T15:30:00+00:00": 236.64999389648438,
+      "2024-05-15T16:30:00+00:00": 236.2100067138672,
+      "2024-05-15T17:30:00+00:00": 236.36500549316406,
+      "2024-05-15T18:30:00+00:00": 236.2449951171875,
+      "2024-05-15T19:30:00+00:00": 235.9499969482422
+    },
+    "sentiment": 0.947716236114502
+  },
+  {
+    "title": "Marriott\u2019s Tribute Portfolio hotel launches in Dubai",
+    "published": 1715763070,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 236.75,
+      "2024-05-15T14:30:00+00:00": 236.19000244140625,
+      "2024-05-15T15:30:00+00:00": 236.64999389648438,
+      "2024-05-15T16:30:00+00:00": 236.2100067138672,
+      "2024-05-15T17:30:00+00:00": 236.36500549316406,
+      "2024-05-15T18:30:00+00:00": 236.2449951171875,
+      "2024-05-15T19:30:00+00:00": 235.9499969482422
+    },
+    "sentiment": 0.8135179281234741
+  },
+  {
+    "title": "Marriott (MAR) Rewards Investors With 21% Dividend Hike",
+    "published": 1715616000,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 241.25,
+      "2024-05-13T14:30:00+00:00": 239.22000122070312,
+      "2024-05-13T15:30:00+00:00": 238.64999389648438,
+      "2024-05-13T16:30:00+00:00": 238.16000366210938,
+      "2024-05-13T17:30:00+00:00": 236.77000427246094,
+      "2024-05-13T18:30:00+00:00": 237.02000427246094,
+      "2024-05-13T19:30:00+00:00": 237.36000061035156
+    },
+    "sentiment": 0.9248597025871277
+  },
+  {
+    "title": "Hotel giants\u2019 ever-growing brands \u2013 why so many, and how are they managed?",
+    "published": 1715612543,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 241.25,
+      "2024-05-13T14:30:00+00:00": 239.22000122070312,
+      "2024-05-13T15:30:00+00:00": 238.64999389648438,
+      "2024-05-13T16:30:00+00:00": 238.16000366210938,
+      "2024-05-13T17:30:00+00:00": 236.77000427246094,
+      "2024-05-13T18:30:00+00:00": 237.02000427246094,
+      "2024-05-13T19:30:00+00:00": 237.36000061035156
+    },
+    "sentiment": 0.9319086074829102
+  },
+  {
+    "title": "Starwood-Led Group Said to Mull Buyout of Logistics Firm ESR",
+    "published": 1715579584,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 241.25,
+      "2024-05-13T14:30:00+00:00": 239.22000122070312,
+      "2024-05-13T15:30:00+00:00": 238.64999389648438,
+      "2024-05-13T16:30:00+00:00": 238.16000366210938,
+      "2024-05-13T17:30:00+00:00": 236.77000427246094,
+      "2024-05-13T18:30:00+00:00": 237.02000427246094,
+      "2024-05-13T19:30:00+00:00": 237.36000061035156
+    },
+    "sentiment": 0.9040640592575073
+  },
+  {
+    "title": "Marriott raises quarterly dividend 21% to 63c per share",
+    "published": 1715340720,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 238.0,
+      "2024-05-10T14:30:00+00:00": 238.75,
+      "2024-05-10T15:30:00+00:00": 237.7949981689453,
+      "2024-05-10T16:30:00+00:00": 238.45899963378906,
+      "2024-05-10T17:30:00+00:00": 239.92999267578125,
+      "2024-05-10T18:30:00+00:00": 239.52999877929688,
+      "2024-05-10T19:30:00+00:00": 240.0500030517578
+    },
+    "sentiment": 0.8818616271018982
+  },
+  {
+    "title": "REDEFINING TODAY'S CHINESE LUXURY TRAVELERS: MARRIOTT INTERNATIONAL STUDY REVEALS DIGITAL JOURNEY AND EXPERIENTIAL LUXURY CRUCIAL FOR TRAVEL CHOICES IN 2024",
+    "published": 1715310000,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 238.0,
+      "2024-05-10T14:30:00+00:00": 238.75,
+      "2024-05-10T15:30:00+00:00": 237.7949981689453,
+      "2024-05-10T16:30:00+00:00": 238.45899963378906,
+      "2024-05-10T17:30:00+00:00": 239.92999267578125,
+      "2024-05-10T18:30:00+00:00": 239.52999877929688,
+      "2024-05-10T19:30:00+00:00": 240.0500030517578
+    },
+    "sentiment": 0.6651009321212769
+  },
+  {
+    "title": "Marriott International Supports Increased Leisure Demand in Canada; Company focused on lifestyle, upper midscale and extended stay brands, as well as market-specific loyalty offerings",
+    "published": 1715256678,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 232.6699981689453,
+      "2024-05-09T14:30:00+00:00": 234.63999938964844,
+      "2024-05-09T15:30:00+00:00": 235.5449981689453,
+      "2024-05-09T16:30:00+00:00": 235.57899475097656,
+      "2024-05-09T17:30:00+00:00": 236.42999267578125,
+      "2024-05-09T18:30:00+00:00": 236.89999389648438,
+      "2024-05-09T19:30:00+00:00": 237.30999755859375
+    },
+    "sentiment": 0.8581364154815674
+  },
+  {
+    "title": "Is Costco Travel Actually Cheaper? We Compared Real Prices on 3 Trips",
+    "published": 1715254213,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 232.6699981689453,
+      "2024-05-09T14:30:00+00:00": 234.63999938964844,
+      "2024-05-09T15:30:00+00:00": 235.5449981689453,
+      "2024-05-09T16:30:00+00:00": 235.57899475097656,
+      "2024-05-09T17:30:00+00:00": 236.42999267578125,
+      "2024-05-09T18:30:00+00:00": 236.89999389648438,
+      "2024-05-09T19:30:00+00:00": 237.30999755859375
+    },
+    "sentiment": 0.8220651149749756
+  },
+  {
+    "title": "Maravai Lifesciences: A Strong Buy on Strategic Positioning and Operational Leverage",
+    "published": 1715235960,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 232.6699981689453,
+      "2024-05-09T14:30:00+00:00": 234.63999938964844,
+      "2024-05-09T15:30:00+00:00": 235.5449981689453,
+      "2024-05-09T16:30:00+00:00": 235.57899475097656,
+      "2024-05-09T17:30:00+00:00": 236.42999267578125,
+      "2024-05-09T18:30:00+00:00": 236.89999389648438,
+      "2024-05-09T19:30:00+00:00": 237.30999755859375
+    },
+    "sentiment": 0.9255483746528625
+  },
+  {
+    "title": "25 Best Kept Secret Places to Visit in Florida",
+    "published": 1715175834,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 235.5500030517578,
+      "2024-05-08T14:30:00+00:00": 235.82000732421875,
+      "2024-05-08T15:30:00+00:00": 235.25999450683594,
+      "2024-05-08T16:30:00+00:00": 235.55999755859375,
+      "2024-05-08T17:30:00+00:00": 234.75,
+      "2024-05-08T18:30:00+00:00": 235.10000610351562,
+      "2024-05-08T19:30:00+00:00": 235.63999938964844
+    },
+    "sentiment": 0.9176056981086731
+  },
+  {
+    "title": "Marriott International: A Hold Rating Amidst Recovery Potential and Market Premium Concerns",
+    "published": 1715153160,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 235.5500030517578,
+      "2024-05-08T14:30:00+00:00": 235.82000732421875,
+      "2024-05-08T15:30:00+00:00": 235.25999450683594,
+      "2024-05-08T16:30:00+00:00": 235.55999755859375,
+      "2024-05-08T17:30:00+00:00": 234.75,
+      "2024-05-08T18:30:00+00:00": 235.10000610351562,
+      "2024-05-08T19:30:00+00:00": 235.63999938964844
+    },
+    "sentiment": 0.8914682865142822
+  },
+  {
+    "title": "Marriott International Study Reveals Digital Journey and Experiential Luxury Crucial for Travel Choices in 2024",
+    "published": 1716378251,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 237.24000549316406,
+      "2024-05-22T14:30:00+00:00": 237.9499969482422,
+      "2024-05-22T15:30:00+00:00": 237.72000122070312,
+      "2024-05-22T16:30:00+00:00": 239.14999389648438,
+      "2024-05-22T17:30:00+00:00": 238.14999389648438,
+      "2024-05-22T18:30:00+00:00": 235.86000061035156,
+      "2024-05-22T19:30:00+00:00": 235.89500427246094
+    },
+    "sentiment": 0.5773808360099792
+  },
+  {
+    "title": "PATRICK MOURATOGLOU PARTNERS WITH THE RITZ-CARLTON NAPLES, TIBUR\u00d3N TO LAUNCH HIS FIRST SIGNATURE TENNIS CENTER IN FLORIDA",
+    "published": 1716318000,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 241.22000122070312,
+      "2024-05-21T14:30:00+00:00": 237.82000732421875,
+      "2024-05-21T15:30:00+00:00": 237.19000244140625,
+      "2024-05-21T16:30:00+00:00": 237.6300048828125,
+      "2024-05-21T17:30:00+00:00": 238.0500030517578,
+      "2024-05-21T18:30:00+00:00": 238.25999450683594,
+      "2024-05-21T19:30:00+00:00": 238.10000610351562
+    },
+    "sentiment": 0.7018217444419861
+  },
+  {
+    "title": "Tourism a boon for Spain's economy but a bane for some locals",
+    "published": 1716258600,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 241.22000122070312,
+      "2024-05-21T14:30:00+00:00": 237.82000732421875,
+      "2024-05-21T15:30:00+00:00": 237.19000244140625,
+      "2024-05-21T16:30:00+00:00": 237.6300048828125,
+      "2024-05-21T17:30:00+00:00": 238.0500030517578,
+      "2024-05-21T18:30:00+00:00": 238.25999450683594,
+      "2024-05-21T19:30:00+00:00": 238.10000610351562
+    },
+    "sentiment": 0.6634090542793274
+  },
+  {
+    "title": "Marriott International to introduce W Hotels to Riyadh\u2019s KAFD",
+    "published": 1716204183,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 238.10000610351562,
+      "2024-05-20T14:30:00+00:00": 238.86000061035156,
+      "2024-05-20T15:30:00+00:00": 239.9499969482422,
+      "2024-05-20T16:30:00+00:00": 239.63999938964844,
+      "2024-05-20T17:30:00+00:00": 238.85000610351562,
+      "2024-05-20T18:30:00+00:00": 239.19000244140625,
+      "2024-05-20T19:30:00+00:00": 240.4600067138672
+    },
+    "sentiment": 0.49975287914276123
+  },
+  {
+    "title": "Here's How Much You Would Have Made Owning Marriott Intl Stock In The Last 20 Years",
+    "published": 1715918700,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 238.9600067138672,
+      "2024-05-17T14:30:00+00:00": 237.22999572753906,
+      "2024-05-17T15:30:00+00:00": 236.90499877929688,
+      "2024-05-17T16:30:00+00:00": 236.9199981689453,
+      "2024-05-17T17:30:00+00:00": 237.3249969482422,
+      "2024-05-17T18:30:00+00:00": 237.16000366210938,
+      "2024-05-17T19:30:00+00:00": 237.1300048828125
+    },
+    "sentiment": 0.9335922002792358
+  },
+  {
+    "title": "Is Most-Watched Stock Marriott International, Inc. (MAR) Worth Betting on Now?",
+    "published": 1715864410,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 235.63999938964844,
+      "2024-05-16T14:30:00+00:00": 235.97000122070312,
+      "2024-05-16T15:30:00+00:00": 236.69000244140625,
+      "2024-05-16T16:30:00+00:00": 238.19000244140625,
+      "2024-05-16T17:30:00+00:00": 238.1199951171875,
+      "2024-05-16T18:30:00+00:00": 237.47000122070312,
+      "2024-05-16T19:30:00+00:00": 238.2100067138672
+    },
+    "sentiment": 0.9000873565673828
   }
 ]

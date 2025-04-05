@@ -1,324 +1,72 @@
 [
   {
-    "title": "Meet the Monster Stock That Continues to Crush the Market",
-    "published": 1742719800,
-    "posting_price": 246.72999573,
-    "close_price": 245.36000061,
-    "percent_change": -0.55526087
+    "title": "Warning: VRSN is at high risk of performing badly",
+    "published": 1715056800,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 170.0,
+      "2024-05-07T14:30:00+00:00": 170.0050048828125,
+      "2024-05-07T15:30:00+00:00": 169.89999389648438,
+      "2024-05-07T16:30:00+00:00": 169.72000122070312,
+      "2024-05-07T17:30:00+00:00": 169.16000366210938,
+      "2024-05-07T18:30:00+00:00": 169.07000732421875,
+      "2024-05-07T19:30:00+00:00": 169.5399932861328
+    },
+    "sentiment": 0.9452232718467712
   },
   {
-    "title": "Warren Buffett Just Upped His Stake in This Monopolistic Tech Stock. Should You?",
-    "published": 1742630400,
-    "posting_price": 246.72999573,
-    "close_price": 245.36000061,
-    "percent_change": -0.55526087
+    "title": "Insider Sale: Director Yehuda Buchalter Sells Shares of VeriSign Inc (VRSN)",
+    "published": 1715690460,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 171.9149932861328,
+      "2024-05-14T14:30:00+00:00": 170.3699951171875,
+      "2024-05-14T15:30:00+00:00": 170.01499938964844,
+      "2024-05-14T16:30:00+00:00": 169.4199981689453,
+      "2024-05-14T17:30:00+00:00": 169.63999938964844,
+      "2024-05-14T18:30:00+00:00": 169.97500610351562,
+      "2024-05-14T19:30:00+00:00": 169.92999267578125
+    },
+    "sentiment": 0.8811037540435791
   },
   {
-    "title": "Warren Buffett Isn't Buying His Favorite Stock, but He's Been Scooping Up Shares of 3 Value Stocks Since 2025 Began",
-    "published": 1741596660,
-    "posting_price": 238.6000061,
-    "close_price": 239.02000427,
-    "percent_change": 0.17602605
+    "title": "Remembering Quant King Jim Simons",
+    "published": 1715564100,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 171.50999450683594,
+      "2024-05-13T14:30:00+00:00": 172.31500244140625,
+      "2024-05-13T15:30:00+00:00": 172.02999877929688,
+      "2024-05-13T16:30:00+00:00": 171.1750030517578,
+      "2024-05-13T17:30:00+00:00": 170.69000244140625,
+      "2024-05-13T18:30:00+00:00": 170.6999969482422,
+      "2024-05-13T19:30:00+00:00": 171.02000427246094
+    },
+    "sentiment": 0.9144690036773682
   },
   {
-    "title": "VeriSign's (NASDAQ:VRSN) investors will be pleased with their respectable 45% return over the last five years",
-    "published": 1741351051,
-    "posting_price": 238.69999695,
-    "close_price": 240.47000122,
-    "percent_change": 0.74151835
+    "title": "Insider Sale: EVP - Engineering & CSO Danny Mcpherson Sells 1,200 Shares of VeriSign Inc (VRSN)",
+    "published": 1716267885,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 171.7899932861328,
+      "2024-05-21T14:30:00+00:00": 171.72000122070312,
+      "2024-05-21T15:30:00+00:00": 171.41000366210938,
+      "2024-05-21T16:30:00+00:00": 172.1999969482422,
+      "2024-05-21T17:30:00+00:00": 172.74099731445312,
+      "2024-05-21T18:30:00+00:00": 173.03500366210938,
+      "2024-05-21T19:30:00+00:00": 173.2899932861328
+    },
+    "sentiment": 0.9325693845748901
   },
   {
-    "title": "3 Mid-Cap Stocks Walking a Fine Line",
-    "published": 1741007111,
-    "posting_price": 237.88000488,
-    "close_price": 240.16000366,
-    "percent_change": 0.95846592
-  },
-  {
-    "title": "Firing on All Cylinders: Shopify (NYSE:SHOP) Q4 Earnings Lead the Way",
-    "published": 1740992540,
-    "posting_price": 237.88000488,
-    "close_price": 240.16000366,
-    "percent_change": 0.95846592
-  },
-  {
-    "title": "Here\u2019s Why Weitz Multi-Cap Equity Fund Exited VeriSign (VRSN)",
-    "published": 1740750292,
-    "posting_price": 234.69999695,
-    "close_price": 237.88000488,
-    "percent_change": 1.35492457
-  },
-  {
-    "title": "Berkshire Hathaway: What Warren Buffett is buying and selling",
-    "published": 1740163526,
-    "posting_price": 233.88999939,
-    "close_price": 231.86999512,
-    "percent_change": -0.86365568
-  },
-  {
-    "title": "Shopify (SHOP) To Report Earnings Tomorrow: Here Is What To Expect",
-    "published": 1739192544,
-    "posting_price": 222.1000061,
-    "close_price": 222.24000549,
-    "percent_change": 0.06303439
-  },
-  {
-    "title": "Billionaire Warren Buffett's Trading Activity Will Be Revealed This Week: Here Are 4 Stocks We Already Know He's Buying or Selling",
-    "published": 1739181960,
-    "posting_price": 222.1000061,
-    "close_price": 222.24000549,
-    "percent_change": 0.06303439
-  },
-  {
-    "title": "Spotting Winners: BigCommerce (NASDAQ:BIGC) And E-commerce Software Stocks In Q4",
-    "published": 1713198092,
-    "posting_price": 187.02000427,
-    "close_price": 183.19999695,
-    "percent_change": -2.04256616
-  },
-  {
-    "title": "VeriSign Inc EVP, General Counsel & Secretary Thomas Indelicarto Sells Company Shares",
-    "published": 1712962832,
-    "posting_price": 189.33000183,
-    "close_price": 185.42999268,
-    "percent_change": -2.05990023
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Verisign (VRSN) and Accenture (ACN)",
-    "published": 1712711520,
-    "posting_price": 187.72999573,
-    "close_price": 188.30999756,
-    "percent_change": 0.30895533
-  },
-  {
-    "title": "VeriSign still seen as 'powerful' free cash flow story ahead of Q1 results: Baird",
-    "published": 1712666100,
-    "posting_price": 187.8999939,
-    "close_price": 189.69000244,
-    "percent_change": 0.95263896
-  },
-  {
-    "title": "Q4 Earnings Highlights: Wix (NASDAQ:WIX) Vs The Rest Of The E-commerce Software Stocks",
-    "published": 1712220554,
-    "posting_price": 189.21000671,
-    "close_price": 187.02999878,
-    "percent_change": -1.15216313
-  },
-  {
-    "title": "Insider Sell: EVP, General Counsel & Secretary Thomas Indelicarto Sells Shares of VeriSign ...",
-    "published": 1712143740,
-    "posting_price": 191.19999695,
-    "close_price": 188.97000122,
-    "percent_change": -1.16631578
-  },
-  {
-    "title": "VeriSign (VRSN) Ascends While Market Falls: Some Facts to Note",
-    "published": 1712095217,
-    "posting_price": 189.42999268,
-    "close_price": 191.41999817,
-    "percent_change": 1.05052292
-  },
-  {
-    "title": "VeriSign, Inc. (NASDAQ:VRSN) Q1 2024 Earnings Call Transcript",
-    "published": 1714496012,
-    "posting_price": 174.0,
-    "close_price": 169.47999573,
-    "percent_change": -2.5977036
-  },
-  {
-    "title": "Here's What Analysts Are Forecasting For VeriSign, Inc. (NASDAQ:VRSN) After Its First-Quarter Results",
-    "published": 1714313494,
-    "posting_price": 176.25999451,
-    "close_price": 175.11000061,
-    "percent_change": -0.65244181
-  },
-  {
-    "title": "VeriSign First Quarter 2024 Earnings: EPS Beats Expectations",
-    "published": 1714226955,
-    "posting_price": 176.25999451,
-    "close_price": 175.11000061,
-    "percent_change": -0.65244181
-  },
-  {
-    "title": "VeriSign (VRSN) Q1 Earnings Up Y/Y, '24 Revenue View Tweaked",
-    "published": 1714150560,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "Q1 2024 VeriSign, Inc Earnings Call",
-    "published": 1714125932,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "VeriSign Inc (VRSN) Q1 2024 Earnings Call Transcript Highlights: Steady Growth Amidst Market ...",
-    "published": 1714117014,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "VeriSign (VRSN): Assessing the Potential for Value Investment",
-    "published": 1714115340,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "VeriSign price target lowered by $15 at Baird, here's why",
-    "published": 1714112280,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Verisign (VRSN) and Intel (INTC)",
-    "published": 1714109520,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "VeriSign price target lowered by $21 at Citi, here's why",
-    "published": 1714108440,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "Decoding VeriSign Inc (VRSN): A Strategic SWOT Insight",
-    "published": 1714107827,
-    "posting_price": 179.30999756,
-    "close_price": 175.47999573,
-    "percent_change": -2.1359667
-  },
-  {
-    "title": "Verisign's Q1 revenue rises on demand for internet services",
-    "published": 1714081450,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign Inc (VRSN) Q1 2024 Earnings: Surpasses Analyst Revenue Forecasts",
-    "published": 1714081429,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign's (NASDAQ:VRSN) Q1 Earnings Results: Revenue In Line With Expectations",
-    "published": 1714076973,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "Verisign Reports First Quarter 2024 Results",
-    "published": 1714075500,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign, Inc. (VRSN) Q1 2024 Earnings Call Transcript",
-    "published": 1714070470,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign: Q1 Earnings Snapshot",
-    "published": 1714061590,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VRSN Stock Earnings: VeriSign Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714028160,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign cuts FY24 revenue view to $1.55B-$1.57B from $1.56B-$1.58B",
-    "published": 1714016280,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign GAAP EPS of $1.92 beats by $0.06, revenue of $384M beats by $2.15M",
-    "published": 1714015200,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "VeriSign reports Q1 EPS $1.92, two estimates $1.86",
-    "published": 1714014540,
-    "posting_price": 184.13999939,
-    "close_price": 182.67999268,
-    "percent_change": -0.79287863
-  },
-  {
-    "title": "Watch These 6 Internet Stocks for Q1 Earnings: Beat or Miss?",
-    "published": 1713964680,
-    "posting_price": 183.49000549,
-    "close_price": 185.55000305,
-    "percent_change": 1.12267562
-  },
-  {
-    "title": "Earnings To Watch: VeriSign (VRSN) Reports Q1 Results Tomorrow",
-    "published": 1713942057,
-    "posting_price": 183.49000549,
-    "close_price": 185.55000305,
-    "percent_change": 1.12267562
-  },
-  {
-    "title": "VeriSign Q1 2024 Earnings Preview",
-    "published": 1713933420,
-    "posting_price": 183.49000549,
-    "close_price": 185.55000305,
-    "percent_change": 1.12267562
-  },
-  {
-    "title": "How to Play VeriSign (VRSN) Ahead of Q1 Earnings Release",
-    "published": 1713811500,
-    "posting_price": 185.05000305,
-    "close_price": 184.74000549,
-    "percent_change": -0.16752097
-  },
-  {
-    "title": "First Week of December 20th Options Trading For Verisign (VRSN)",
-    "published": 1713520740,
-    "posting_price": 184.21000671,
-    "close_price": 184.11999512,
-    "percent_change": -0.04886357
-  },
-  {
-    "title": "Earnings are growing at VeriSign (NASDAQ:VRSN) but shareholders still don't like its prospects",
-    "published": 1713447036,
-    "posting_price": 182.13999939,
-    "close_price": 182.96000671,
-    "percent_change": 0.45020716
-  },
-  {
-    "title": "Interesting VRSN Put And Call Options For July 19th",
-    "published": 1713260460,
-    "posting_price": 183.78999329,
-    "close_price": 182.63000488,
-    "percent_change": -0.63114884
-  },
-  {
-    "title": "VeriSign Inc. stock underperforms Tuesday when compared to competitors",
-    "published": 1713240900,
-    "posting_price": 183.78999329,
-    "close_price": 182.63000488,
-    "percent_change": -0.63114884
+    "title": "VeriSign Inc. stock outperforms competitors on strong trading day",
+    "published": 1715833140,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 169.08999633789062,
+      "2024-05-16T14:30:00+00:00": 170.5800018310547,
+      "2024-05-16T15:30:00+00:00": 170.5800018310547,
+      "2024-05-16T16:30:00+00:00": 170.5,
+      "2024-05-16T17:30:00+00:00": 170.7899932861328,
+      "2024-05-16T18:30:00+00:00": 171.22000122070312,
+      "2024-05-16T19:30:00+00:00": 171.10000610351562
+    },
+    "sentiment": 0.9416130781173706
   }
 ]

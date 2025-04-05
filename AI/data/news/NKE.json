@@ -1,1591 +1,474 @@
 [
   {
-    "title": "3 Brands That Should Sign Caitlin Clark After Her Viral March Madness Run",
-    "published": 1713207600,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Wall Street Bulls Look Optimistic About Nike (NKE): Should You Buy?",
+    "published": 1715088611,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 94.08000183105469,
+      "2024-05-07T14:30:00+00:00": 93.91999816894531,
+      "2024-05-07T15:30:00+00:00": 93.70999908447266,
+      "2024-05-07T16:30:00+00:00": 93.58000183105469,
+      "2024-05-07T17:30:00+00:00": 93.37999725341797,
+      "2024-05-07T18:30:00+00:00": 93.5999984741211,
+      "2024-05-07T19:30:00+00:00": 93.69000244140625
+    },
+    "sentiment": 0.8353619575500488
   },
   {
-    "title": "3 Activewear Stocks I\u2019d Rather Buy Than Lululemon or Nike",
-    "published": 1713205214,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Wolverine's (WWW) Q1 Earnings Coming Up: What Lies Ahead?",
+    "published": 1715007960,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 92.80999755859375,
+      "2024-05-06T14:30:00+00:00": 92.91000366210938,
+      "2024-05-06T15:30:00+00:00": 92.62000274658203,
+      "2024-05-06T16:30:00+00:00": 92.56999969482422,
+      "2024-05-06T17:30:00+00:00": 93.13999938964844,
+      "2024-05-06T18:30:00+00:00": 93.20999908447266,
+      "2024-05-06T19:30:00+00:00": 92.94000244140625
+    },
+    "sentiment": 0.8982044458389282
   },
   {
-    "title": "3 Must-Own Retail Stocks Primed for a Tax Refund Rally",
-    "published": 1713202313,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "MLB and Nike announce 2025 uniforms will have larger jersey lettering and custom-fit pants",
+    "published": 1714767708,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 93.08999633789062,
+      "2024-05-03T14:30:00+00:00": 92.54000091552734,
+      "2024-05-03T15:30:00+00:00": 91.9800033569336,
+      "2024-05-03T16:30:00+00:00": 92.25,
+      "2024-05-03T17:30:00+00:00": 92.23999786376953,
+      "2024-05-03T18:30:00+00:00": 92.33000183105469,
+      "2024-05-03T19:30:00+00:00": 92.33499908447266
+    },
+    "sentiment": 0.8115712404251099
   },
   {
-    "title": "Nike on the back foot as shoppers flock to Adidas for Sunak\u2019s favourite trainers",
-    "published": 1713199909,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Why Nike Stock (NYSE:NKE) Can Sprint Past $110",
+    "published": 1714707480,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 93.08999633789062,
+      "2024-05-03T14:30:00+00:00": 92.54000091552734,
+      "2024-05-03T15:30:00+00:00": 91.9800033569336,
+      "2024-05-03T16:30:00+00:00": 92.25,
+      "2024-05-03T17:30:00+00:00": 92.23999786376953,
+      "2024-05-03T18:30:00+00:00": 92.33000183105469,
+      "2024-05-03T19:30:00+00:00": 92.33499908447266
+    },
+    "sentiment": 0.8703017830848694
   },
   {
-    "title": "Adidas Could Benefit From Nike\u2019s Innovation Struggles, Morgan Stanley Says",
-    "published": 1713195196,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "12 Best Alternatives to Adidas Samba",
+    "published": 1714673748,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 91.33000183105469,
+      "2024-05-02T14:30:00+00:00": 92.01499938964844,
+      "2024-05-02T15:30:00+00:00": 91.61000061035156,
+      "2024-05-02T16:30:00+00:00": 91.625,
+      "2024-05-02T17:30:00+00:00": 91.95999908447266,
+      "2024-05-02T18:30:00+00:00": 92.23500061035156,
+      "2024-05-02T19:30:00+00:00": 92.3499984741211
+    },
+    "sentiment": 0.8469659090042114
   },
   {
-    "title": "Nike Starts Speeding Out Sneakers That Will Shape Its Future",
-    "published": 1713188658,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "In data: Nike, Uniqlo, Adidas among China consumer favourites",
+    "published": 1714642906,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 91.33000183105469,
+      "2024-05-02T14:30:00+00:00": 92.01499938964844,
+      "2024-05-02T15:30:00+00:00": 91.61000061035156,
+      "2024-05-02T16:30:00+00:00": 91.625,
+      "2024-05-02T17:30:00+00:00": 91.95999908447266,
+      "2024-05-02T18:30:00+00:00": 92.23500061035156,
+      "2024-05-02T19:30:00+00:00": 92.3499984741211
+    },
+    "sentiment": 0.8173891305923462
   },
   {
-    "title": "Nike momentum picks up ahead of high-profile product launches",
-    "published": 1713185220,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Video: Dow Movers: NKE, AMZN",
+    "published": 1714558680,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 91.80999755859375,
+      "2024-05-01T14:30:00+00:00": 90.61000061035156,
+      "2024-05-01T15:30:00+00:00": 90.3949966430664,
+      "2024-05-01T16:30:00+00:00": 90.55000305175781,
+      "2024-05-01T17:30:00+00:00": 90.31999969482422,
+      "2024-05-01T18:30:00+00:00": 90.69000244140625,
+      "2024-05-01T19:30:00+00:00": 91.30999755859375
+    },
+    "sentiment": 0.9485387206077576
   },
   {
-    "title": "Nike leans on Air for multiyear innovation cycle",
-    "published": 1713183300,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Earnings To Watch: Live Nation (LYV) Reports Q1 Results Tomorrow",
+    "published": 1714547387,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 91.80999755859375,
+      "2024-05-01T14:30:00+00:00": 90.61000061035156,
+      "2024-05-01T15:30:00+00:00": 90.3949966430664,
+      "2024-05-01T16:30:00+00:00": 90.55000305175781,
+      "2024-05-01T17:30:00+00:00": 90.31999969482422,
+      "2024-05-01T18:30:00+00:00": 90.69000244140625,
+      "2024-05-01T19:30:00+00:00": 91.30999755859375
+    },
+    "sentiment": 0.7180864214897156
   },
   {
-    "title": "Nike Inc (NKE)'s Winning Formula: Financial Metrics and Competitive Strengths",
-    "published": 1713175380,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "3 Stocks to Sell in May Before They Crash & Burn",
+    "published": 1715751480,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 92.29000091552734,
+      "2024-05-15T14:30:00+00:00": 92.30000305175781,
+      "2024-05-15T15:30:00+00:00": 92.25,
+      "2024-05-15T16:30:00+00:00": 91.31999969482422,
+      "2024-05-15T17:30:00+00:00": 91.41000366210938,
+      "2024-05-15T18:30:00+00:00": 90.95500183105469,
+      "2024-05-15T19:30:00+00:00": 91.06999969482422
+    },
+    "sentiment": 0.8186372518539429
   },
   {
-    "title": "Betting On The Swoosh: Why Nike Deserves A Spot In Your Portfolio",
-    "published": 1713169765,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Chairman of Nike Mark Parker sells $15.7M in company shares",
+    "published": 1715747700,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 92.29000091552734,
+      "2024-05-15T14:30:00+00:00": 92.30000305175781,
+      "2024-05-15T15:30:00+00:00": 92.25,
+      "2024-05-15T16:30:00+00:00": 91.31999969482422,
+      "2024-05-15T17:30:00+00:00": 91.41000366210938,
+      "2024-05-15T18:30:00+00:00": 90.95500183105469,
+      "2024-05-15T19:30:00+00:00": 91.06999969482422
+    },
+    "sentiment": 0.9374014735221863
   },
   {
-    "title": "Footwear Stocks Q4 Highlights: Steven Madden (NASDAQ:SHOO)",
-    "published": 1713168097,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "If You Invested $1000 In This Stock 20 Years Ago, You Would Have $11,000 Today",
+    "published": 1715735160,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 92.29000091552734,
+      "2024-05-15T14:30:00+00:00": 92.30000305175781,
+      "2024-05-15T15:30:00+00:00": 92.25,
+      "2024-05-15T16:30:00+00:00": 91.31999969482422,
+      "2024-05-15T17:30:00+00:00": 91.41000366210938,
+      "2024-05-15T18:30:00+00:00": 90.95500183105469,
+      "2024-05-15T19:30:00+00:00": 91.06999969482422
+    },
+    "sentiment": 0.943341851234436
   },
   {
-    "title": "Skechers: A Runaway Growth Story That Won't Give You Blisters",
-    "published": 1713168060,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Converse to cut jobs as part of Nike's cost-savings plan",
+    "published": 1715704847,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 92.98999786376953,
+      "2024-05-14T14:30:00+00:00": 93.55000305175781,
+      "2024-05-14T15:30:00+00:00": 93.34500122070312,
+      "2024-05-14T16:30:00+00:00": 93.13500213623047,
+      "2024-05-14T17:30:00+00:00": 93.05000305175781,
+      "2024-05-14T18:30:00+00:00": 92.94000244140625,
+      "2024-05-14T19:30:00+00:00": 92.95500183105469
+    },
+    "sentiment": 0.9447100758552551
   },
   {
-    "title": "Nike Stock Has 22% Upside, According to 1 Wall Street Analyst",
-    "published": 1713157200,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Spotlight on Nike: Analyzing the Surge in Options Activity",
+    "published": 1715684700,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 92.98999786376953,
+      "2024-05-14T14:30:00+00:00": 93.55000305175781,
+      "2024-05-14T15:30:00+00:00": 93.34500122070312,
+      "2024-05-14T16:30:00+00:00": 93.13500213623047,
+      "2024-05-14T17:30:00+00:00": 93.05000305175781,
+      "2024-05-14T18:30:00+00:00": 92.94000244140625,
+      "2024-05-14T19:30:00+00:00": 92.95500183105469
+    },
+    "sentiment": 0.8470010161399841
   },
   {
-    "title": "Nike (NYSE:NKE) Gains on New Products, Olympic Fervor",
-    "published": 1713152700,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Slowing Economy? That\u2019s Good News for Anheuser-Busch Stock (NYSE:BUD)",
+    "published": 1715574840,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 91.2699966430664,
+      "2024-05-13T14:30:00+00:00": 92.07499694824219,
+      "2024-05-13T15:30:00+00:00": 91.7300033569336,
+      "2024-05-13T16:30:00+00:00": 91.8499984741211,
+      "2024-05-13T17:30:00+00:00": 91.95500183105469,
+      "2024-05-13T18:30:00+00:00": 92.22000122070312,
+      "2024-05-13T19:30:00+00:00": 92.36000061035156
+    },
+    "sentiment": 0.7551548480987549
   },
   {
-    "title": "Dollar Reaching Key Break Point: Brace for Stock Market Impact?",
-    "published": 1713151920,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "Estimating The Fair Value Of NIKE, Inc. (NYSE:NKE)",
+    "published": 1715515213,
+    "day_prices": {},
+    "sentiment": 0.9319171905517578
   },
   {
-    "title": "Nike (NYSE:NKE) Gains With New Products, Olympic Fervor",
-    "published": 1713150000,
-    "posting_price": 91.87537661,
-    "close_price": 91.39435577,
-    "percent_change": -0.52355795
+    "title": "A'ja Wilson and Nike announce the Las Vegas Aces star is getting a signature shoe",
+    "published": 1715458297,
+    "day_prices": {},
+    "sentiment": 0.7881739735603333
   },
   {
-    "title": "Nike\u2019s boss says remote work was hurting innovation, so the company realigned and is \u2018ruthlessly\u2019 focused on building a disruptive pipeline",
-    "published": 1713125019,
-    "posting_price": 91.87536894,
-    "close_price": 91.39434814,
-    "percent_change": -0.52355795
+    "title": "SPY: Get Ready For A Recessionary Bear Market",
+    "published": 1715342292,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 93.06999969482422,
+      "2024-05-10T14:30:00+00:00": 92.05999755859375,
+      "2024-05-10T15:30:00+00:00": 91.8499984741211,
+      "2024-05-10T16:30:00+00:00": 91.41999816894531,
+      "2024-05-10T17:30:00+00:00": 91.45999908447266,
+      "2024-05-10T18:30:00+00:00": 91.2699966430664,
+      "2024-05-10T19:30:00+00:00": 90.94999694824219
+    },
+    "sentiment": 0.7793251872062683
   },
   {
-    "title": "1 Stock That Turned $1,000 Into More Than $800,000",
-    "published": 1713082620,
-    "posting_price": 91.87536894,
-    "close_price": 91.39434814,
-    "percent_change": -0.52355795
+    "title": "Video: Dow Movers: NKE, MMM",
+    "published": 1715334840,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 93.06999969482422,
+      "2024-05-10T14:30:00+00:00": 92.05999755859375,
+      "2024-05-10T15:30:00+00:00": 91.8499984741211,
+      "2024-05-10T16:30:00+00:00": 91.41999816894531,
+      "2024-05-10T17:30:00+00:00": 91.45999908447266,
+      "2024-05-10T18:30:00+00:00": 91.2699966430664,
+      "2024-05-10T19:30:00+00:00": 90.94999694824219
+    },
+    "sentiment": 0.9479938745498657
   },
   {
-    "title": "Olympic track uniforms spark online debate about who designed them and why they're so skimpy",
-    "published": 1713054470,
-    "posting_price": 91.87536894,
-    "close_price": 91.39434814,
-    "percent_change": -0.52355795
+    "title": "Bronte Capital - Hibbett: The JD Sports Bid Conundrum",
+    "published": 1715258400,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 93.63999938964844,
+      "2024-05-09T14:30:00+00:00": 93.54000091552734,
+      "2024-05-09T15:30:00+00:00": 93.41000366210938,
+      "2024-05-09T16:30:00+00:00": 93.30000305175781,
+      "2024-05-09T17:30:00+00:00": 93.94000244140625,
+      "2024-05-09T18:30:00+00:00": 93.61000061035156,
+      "2024-05-09T19:30:00+00:00": 93.27999877929688
+    },
+    "sentiment": 0.9358003735542297
   },
   {
-    "title": "Athletics-Olympians criticise Nike for skimpy women's kit",
-    "published": 1713030098,
-    "posting_price": 91.87538428,
-    "close_price": 91.3943634,
-    "percent_change": -0.52355795
+    "title": "Should You Investigate NIKE, Inc. (NYSE:NKE) At US$93.78?",
+    "published": 1715166031,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 93.12000274658203,
+      "2024-05-08T14:30:00+00:00": 92.95999908447266,
+      "2024-05-08T15:30:00+00:00": 93.3906021118164,
+      "2024-05-08T16:30:00+00:00": 93.33000183105469,
+      "2024-05-08T17:30:00+00:00": 93.1500015258789,
+      "2024-05-08T18:30:00+00:00": 93.33999633789062,
+      "2024-05-08T19:30:00+00:00": 93.26000213623047
+    },
+    "sentiment": 0.9357410669326782
   },
   {
-    "title": "3 Dow Jones Dividend Stocks That Are Within 6% of Their 52-Week Lows to Buy Now",
-    "published": 1713020460,
-    "posting_price": 91.87538428,
-    "close_price": 91.3943634,
-    "percent_change": -0.52355795
-  },
-  {
-    "title": "Wall Street's Top 10 Stock Calls This Week - Saturday, April 13",
-    "published": 1713008400,
-    "posting_price": 91.87538428,
-    "close_price": 91.3943634,
-    "percent_change": -0.52355795
-  },
-  {
-    "title": "Ensemble Capital Management Q1 2024 Letter",
-    "published": 1712988600,
-    "posting_price": 91.87538428,
-    "close_price": 91.3943634,
-    "percent_change": -0.52355795
-  },
-  {
-    "title": "Skimpy Women\u2019s Olympics Uniforms Cause Uproar",
-    "published": 1712933280,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Nike bosses plan 'biggest' Olympics spend as marketing ramps up",
-    "published": 1712927911,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Buy/Sell: Wall Street's top 10 stock calls this week",
-    "published": 1712925480,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Tiger Woods Masters Record: Will Legendary Golfer Make The Cut? Here's What Benzinga Users Say",
-    "published": 1712913300,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Energy, tech, comms among top-rated S&P 500 sectors as Q1 earnings kicks off",
-    "published": 1712912220,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Q4 Earnings Recap: Deckers (NYSE:DECK) Tops Footwear Stocks",
-    "published": 1712910640,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "GLOBAL BROKER RATINGS: JPMorgan raises Persimmon, BoA raises Nike",
-    "published": 1712906940,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Nike: Gearing Up For The Olympics Through Innovation",
-    "published": 1712900600,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "U.S. Wide-Moat Stocks On Sale - The April 2024 Heat Map",
-    "published": 1712898708,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "Nike: China Growth Engine Does Not Exist Anymore",
-    "published": 1712896286,
-    "posting_price": 90.32432542,
-    "close_price": 90.31450653,
-    "percent_change": -0.0108707
-  },
-  {
-    "title": "10 Best High Volume Stocks To Buy According to Hedge Funds",
-    "published": 1712878892,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike Brings Brand Power to Paris Ahead of Olympics; Medalists Dawn Staley and Jordan Chiles\u00a0Meet",
-    "published": 1712875485,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike's one biggest catalyst for 2024: Analyst explains",
-    "published": 1712865588,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike Kicks Off Multi-Year Innovation Cycle",
-    "published": 1712858460,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Why Nike Stock Is Sprinting Higher Today",
-    "published": 1712856758,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike Stock Looks Compelling, BofA Says. It\u2019s Had a Rough Run.",
-    "published": 1712853780,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "NEW YORK MARKET CLOSE: Soft PPI spurs tech stocks ahead of earnings",
-    "published": 1712852280,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "NIKE, Inc. Debuts New Line-Up of Products that Signals Multi-Year Innovation Cycle",
-    "published": 1712844060,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike Stock Jumps On Upgrade As Estimates 'Finally Look Achievable' Ahead Of Paris Olympics",
-    "published": 1712843666,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Paralympian criticizes Nike and Decathlon for refusing to sell single shoes after displaying amputee mannequins",
-    "published": 1712842984,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Attractive call buying opportunities for Russell 1000 stocks - JPM",
-    "published": 1712839980,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
+    "title": "Brokers Suggest Investing in Nike (NKE): Read This Before Placing a Bet",
+    "published": 1716471010,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 92.44999694824219,
+      "2024-05-23T14:30:00+00:00": 91.80999755859375,
+      "2024-05-23T15:30:00+00:00": 91.68000030517578,
+      "2024-05-23T16:30:00+00:00": 92.16000366210938,
+      "2024-05-23T17:30:00+00:00": 91.9802017211914,
+      "2024-05-23T18:30:00+00:00": 91.29000091552734,
+      "2024-05-23T19:30:00+00:00": 91.22000122070312
+    },
+    "sentiment": 0.9461878538131714
   },
   {
     "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
-    "published": 1712839320,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Analyst unveils new Nike price target ahead of big summer for sports",
-    "published": 1712837750,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "IN THE KNOW: Nike back in the game now rebased forecasts look doable",
-    "published": 1712835480,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Wall Street Lunch: Stocks For Amen Corner",
-    "published": 1712834520,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "B of A Securities Upgrades NIKE (NKE)",
-    "published": 1712833776,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1712833380,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "The consumer boycott of Planet Fitness is seen fading like other well-known examples",
-    "published": 1712832060,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Top Seeking Alpha Quant picks in S&P 500 Consumer Discretionary sector ahead of earnings",
-    "published": 1712831340,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "UPDATE 1-Nike pins hopes on Olympics to win back market share",
-    "published": 1712830801,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike: Dow's biggest gainer, BofA upgrades to buy",
-    "published": 1712830420,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "New Balance CEO details the 'next big revolution' in sneakers",
-    "published": 1712829654,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "New Balance CEO Joe Preston\u2019s strategy for the next \u2018it\u2019 shoe",
-    "published": 1712829328,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Unveiling Nike (NKE)'s Value: Is It Really Priced Right? A Comprehensive Guide",
-    "published": 1712827980,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike rallies after BofA says product innovation will boost shares",
-    "published": 1712826480,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Early notable gainers among liquid option names on April 11th",
-    "published": 1712825760,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike Bets On Olympics to Boost Performance Sales: Report",
-    "published": 1712825400,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Unusually active option classes on open April 11th",
-    "published": 1712824860,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "DoorDash upgraded, Airbnb downgraded: Wall Street's top analyst calls",
-    "published": 1712824860,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Apple To $210? Here Are 10 Top Analyst Forecasts For Thursday",
-    "published": 1712820780,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "The Masters tees off, putting spotlight on golf, sports and gaming stocks",
-    "published": 1712818800,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike upgraded to Buy at BofA with expectations rebased",
-    "published": 1712812200,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "BofA gets more bullish on Nike, upgrades shares",
-    "published": 1712811840,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike pins hopes on Olympics to win back market share",
-    "published": 1712811794,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "What You Missed On Wall Street On Thursday",
-    "published": 1712805840,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "The bar is finally low enough for Nike, one analyst says. These big events could help the stock this year.",
-    "published": 1712804940,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "J.P. Morgan Sticks to Their Buy Rating for Nike (NKE)",
-    "published": 1712804760,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "The bar is finally low enough for Nike, analyst says. These big events could help the stock this year.",
-    "published": 1712798880,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Dow's 117-point rally highlighted by gains in shares of Nike, Apple",
-    "published": 1712798880,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike Aims for Olympic Glory to Revive Sales with New Athletic Gear",
-    "published": 1712798280,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Stocks Bounce Back With Tech, Gold Gaining After Modest Producer Inflation Data: What's Driving Markets Thursday?",
-    "published": 1712798220,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike announces new line-up of footwear and apparel products",
-    "published": 1712798160,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "Nike pins hopes on Olympics in race to take back market share",
-    "published": 1712797394,
-    "posting_price": 89.55861667,
-    "close_price": 90.31450653,
-    "percent_change": 0.8440169
-  },
-  {
-    "title": "How New Balance tests or \u2018smashes\u2019 their latest sneaker",
-    "published": 1712762017,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "$125 Million \u2018Made in Old Town\u2019 Project Aims to Transform Portland Into Footwear Manufacturing\u00a0Mecca",
-    "published": 1712761200,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "UPDATE 1-Puma hones focus on speed in Olympic battle with Adidas and Nike",
-    "published": 1712759388,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Biggest Gains in Employee Engagement in the Management Top 250",
-    "published": 1712757600,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Ugly shoes are here to stay: Ugg, Crocs thriving as consumers turn to comfort",
-    "published": 1712752838,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Nike remains a top brand for teens, but shows signs of wavering interest: survey",
-    "published": 1712751120,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Teens Are Spending Less This Year. Where Their Allowances Are Going.",
-    "published": 1712734200,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "GLOBAL BROKER RATINGS: UBS cuts Hugo Boss, Exane BNP raises Shell",
-    "published": 1712731620,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Puma hones focus on speed in Olympic battle with Adidas and Nike",
-    "published": 1712722018,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Masters 2024 Preview: How To Watch, Betting Odds, Tiger Woods Props And Potential Impact Of 2 Pregnant Spouses On Tournament",
-    "published": 1712720700,
-    "posting_price": 88.25298937,
-    "close_price": 87.36947632,
-    "percent_change": -1.00111402
-  },
-  {
-    "title": "Lululemon: Teen shoppers prove 'fickle' about brand loyalty",
-    "published": 1712679356,
-    "posting_price": 88.35114531,
-    "close_price": 89.33282471,
-    "percent_change": 1.11111112
-  },
-  {
-    "title": "Celsius, Starbucks, McDonald's and e.l.f. Beauty stand out in a survey of teenagers",
-    "published": 1712653680,
-    "posting_price": 88.35114531,
-    "close_price": 89.33282471,
-    "percent_change": 1.11111112
-  },
-  {
-    "title": "Celsius, Starbucks, McDonald's and e.l.f Beauty stand out in survey of teenagers",
-    "published": 1712653320,
-    "posting_price": 88.35114531,
-    "close_price": 89.33282471,
-    "percent_change": 1.11111112
-  },
-  {
-    "title": "A Closer Look at Nike's Options Market Dynamics",
-    "published": 1712633520,
-    "posting_price": 88.35114531,
-    "close_price": 89.33282471,
-    "percent_change": 1.11111112
-  },
-  {
-    "title": "3M, Nike share gains lead Dow's 100-point jump",
-    "published": 1712568840,
-    "posting_price": 87.47744885,
-    "close_price": 88.35114288,
-    "percent_change": 0.99876487
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA) and Nike (NKE)",
-    "published": 1712557860,
-    "posting_price": 87.47744885,
-    "close_price": 88.35114288,
-    "percent_change": 0.99876487
-  },
-  {
-    "title": "Bode Rec. and Nike Is Emily Bode\u2019s Love Letter to American Sports\u00a0History",
-    "published": 1712552400,
-    "posting_price": 87.47744885,
-    "close_price": 88.35114288,
-    "percent_change": 0.99876487
-  },
-  {
-    "title": "Nike snaps six-day losing streak",
-    "published": 1712545680,
-    "posting_price": 87.47744885,
-    "close_price": 88.35114288,
-    "percent_change": 0.99876487
-  },
-  {
-    "title": "5 Relatively Secure And Cheap Dividend Stocks To Invest In - April 2024",
-    "published": 1712395800,
-    "posting_price": 87.47744885,
-    "close_price": 88.35114288,
-    "percent_change": 0.99876487
-  },
-  {
-    "title": "Nike, not Fanatics, appears to be culprit in MLB uniform debacle",
-    "published": 1712341198,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "NIKE, Inc. (NKE) is Attracting Investor Attention: Here is What You Should Know",
-    "published": 1712322013,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
-    "published": 1712320680,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "Q4 Earnings Highlights: Nike (NYSE:NKE) Vs The Rest Of The Footwear Stocks",
-    "published": 1712320276,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "Decoding Nike Inc (NKE): A Strategic SWOT Insight",
-    "published": 1712293278,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "Nike Inc. Cl B stock falls Friday, underperforms market",
-    "published": 1712288700,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "Maintaining a Buy Rating for Nike: A Balanced View on Long-term Growth and Short-term Challenges",
-    "published": 1712284560,
-    "posting_price": 87.51672042,
-    "close_price": 87.21239471,
-    "percent_change": -0.34773436
-  },
-  {
-    "title": "Strategic Allocation For A $100,000 Dividend Income Portfolio With A Sustainable Dividend Yield",
-    "published": 1712253600,
-    "posting_price": 89.28373349,
-    "close_price": 87.43817902,
-    "percent_change": -2.06706686
-  },
-  {
-    "title": "Is Lululemon headed for the same fate as Under Armour? - analyst",
-    "published": 1712224500,
-    "posting_price": 89.28373349,
-    "close_price": 87.43817902,
-    "percent_change": -2.06706686
-  },
-  {
-    "title": "If You Invested $1000 In This Stock 20 Years Ago, You Would Have $9,400 Today",
-    "published": 1712223180,
-    "posting_price": 89.28373349,
-    "close_price": 87.43817902,
-    "percent_change": -2.06706686
-  },
-  {
-    "title": "Buy Rating on Nike: Innovation and Consumer Demand Fuel Optimism Amidst Resale Market Concerns",
-    "published": 1712210760,
-    "posting_price": 89.28373349,
-    "close_price": 87.43817902,
-    "percent_change": -2.06706686
-  },
-  {
-    "title": "3 Tech Stock Titans Grappling With Fresh China Challenges",
-    "published": 1712208900,
-    "posting_price": 89.28373349,
-    "close_price": 87.43817902,
-    "percent_change": -2.06706686
-  },
-  {
-    "title": "Lululemon Athletica: Incessant Selling Is Unwarranted",
-    "published": 1712196816,
-    "posting_price": 89.28373349,
-    "close_price": 87.43817902,
-    "percent_change": -2.06706686
-  },
-  {
-    "title": "Judge Dismisses Class Action Accusing Nike of\u00a0Greenwashing",
-    "published": 1712165836,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "April Dogs Of The Dow: Buy 1, Watch 4",
-    "published": 1712143729,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "Better Buy and Hold Stock: Nike Versus Lululemon",
-    "published": 1712143680,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "Analyst Issues Sell Rating on Nike Due to Lackluster Product Launch and Innovation Challenges",
-    "published": 1712143620,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "Top 7 buy-rated stocks in Consumer Discretionary - Citi",
-    "published": 1712140680,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "7 Stocks to Buy on the Brink of Becoming Dividend Royalty",
-    "published": 1712138400,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "From Six Figures to Seven: 3 Cryptos Set to Make Millionaires",
-    "published": 1712123700,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "Markets Are At All-Time Highs... But The Economy Is Slipping",
-    "published": 1712117700,
-    "posting_price": 89.34265221,
-    "close_price": 88.67510986,
-    "percent_change": -0.74717096
-  },
-  {
-    "title": "Is It Time to Buy the Dow\u2019s Worst-Performing Stocks of 2024? 3 to Consider",
-    "published": 1712074269,
-    "posting_price": 90.07890258,
-    "close_price": 89.28373718,
-    "percent_change": -0.88274321
-  },
-  {
-    "title": "Adidas halts sale of some German national team jerseys following resemblance to Nazi SS logo",
-    "published": 1712062723,
-    "posting_price": 90.07890258,
-    "close_price": 89.28373718,
-    "percent_change": -0.88274321
-  },
-  {
-    "title": "These stocks\u2019 price targets have been cut the most by Wall Street analysts in 2024",
-    "published": 1712058420,
-    "posting_price": 90.07890258,
-    "close_price": 89.28373718,
-    "percent_change": -0.88274321
-  },
-  {
-    "title": "Nike And Its Real Value",
-    "published": 1712052784,
-    "posting_price": 90.07890258,
-    "close_price": 89.28373718,
-    "percent_change": -0.88274321
-  },
-  {
-    "title": "Dick's Sporting Goods' Rapid Surge Has Led to Overvaluation",
-    "published": 1712044800,
-    "posting_price": 90.07890258,
-    "close_price": 89.28373718,
-    "percent_change": -0.88274321
-  },
-  {
-    "title": "Discount Alert! 7 Hot Stocks Heading for the Clearance Rack.",
-    "published": 1714498281,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Nike Faces Talent Loss, Lacks Innovation Spark Amid Aggressive Competition, Wedbush Says",
-    "published": 1714495571,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Top 11 Luxury Clothing Stocks to Invest in Now",
-    "published": 1714488884,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "25 Richest Billionaires in Sports Industry",
-    "published": 1714488560,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "A Glimpse Into The Expert Outlook On Nike Through 29 Analysts",
-    "published": 1714474860,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "UPDATE 1-Adidas decided not to match Nike's offer for German soccer federation, CEO says",
-    "published": 1714473782,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Soccer-FIFPRO, Nike and others team up to study ACL injuries in women's game",
-    "published": 1714473455,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Olympics-No joke as Kid Karam eyes breaking new ground in Paris",
-    "published": 1714467513,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Adidas could not match Nike's offer for Germany soccer federation, CEO says",
-    "published": 1714466824,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Analysts Conflicted on These Consumer Cyclical Names: Nike (NKE), Boyd Gaming (BYD) and Taylor Morrison (TMHC)",
-    "published": 1714461060,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "What To Expect From Steven Madden's (SHOO) Q1 Earnings",
-    "published": 1714460785,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Life Time (LTH) Reports Q1: Everything You Need To Know Ahead Of Earnings",
-    "published": 1714460558,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Nike: Trust The Brand Equity",
-    "published": 1714456507,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "UPDATE 3-Samba, Gazelle shoes help drive Adidas sales while North America lags",
-    "published": 1714456407,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "NIKE: Still Overvalued After Poor Stock Performance",
-    "published": 1714450877,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "Adidas Puts Yeezy History Behind, Rides Fashion High With Samba And Gazelle Shoes",
-    "published": 1714449960,
-    "posting_price": 91.20784106,
-    "close_price": 90.56974792,
-    "percent_change": -0.69960338
-  },
-  {
-    "title": "After MLB player grievances over see-through, sweat-drenched uniforms, Nike concedes to 2025 upgrades",
-    "published": 1714412849,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "Correction: Nike Expected to Change Parts of Major League Baseball Uniforms by 2025, The Athletic Reports",
-    "published": 1714407461,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "What You Missed On Wall Street This Morning",
-    "published": 1714390560,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "Nike to alter MLB uniforms by 2025 after complaints, The Athletic reports",
-    "published": 1714382820,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "7 Retirement Stocks to Buy at a 52-Week Low in April",
-    "published": 1714381500,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "5 Dividend Growth Stocks With Upside To Analyst Targets",
-    "published": 1714379580,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "IN THE KNOW: JD Sports buy of Hibbett has \"execution risks\" - Barclays",
-    "published": 1714366740,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "What You Missed On Wall Street On Monday",
-    "published": 1714363200,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "Retail facing challenges this year, but a few names stand out above the rest - analyst",
-    "published": 1714291500,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "3 Growth Stocks to Buy and Hold Forever",
-    "published": 1714288200,
-    "posting_price": 92.70980444,
-    "close_price": 92.33676147,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "3 Fashion Stocks to Buy Before Summer 2024 Heats Up",
-    "published": 1714195920,
-    "posting_price": 92.7098121,
-    "close_price": 92.3367691,
-    "percent_change": -0.40237704
-  },
-  {
-    "title": "The 25 Best Sportswear Brands in the World",
-    "published": 1714132607,
-    "posting_price": 92.85705106,
-    "close_price": 92.39566803,
-    "percent_change": -0.49687452
-  },
-  {
-    "title": "$1000 Invested In Nike 15 Years Ago Would Be Worth This Much Today",
-    "published": 1714122300,
-    "posting_price": 92.85705106,
-    "close_price": 92.39566803,
-    "percent_change": -0.49687452
-  },
-  {
-    "title": "10 Best Consumer Discretionary Dividend Stocks To Buy According to Analysts",
-    "published": 1714059459,
-    "posting_price": 92.27786962,
-    "close_price": 92.21897125,
-    "percent_change": -0.06382719
-  },
-  {
-    "title": "3 Dow Stocks to Buy on the Dip: April 2024",
-    "published": 1714039200,
-    "posting_price": 92.27786962,
-    "close_price": 92.21897125,
-    "percent_change": -0.06382719
-  },
-  {
-    "title": "The Tricky Logistics Behind Direct-to-Consumer Sales Strategies",
-    "published": 1714037400,
-    "posting_price": 92.27786962,
-    "close_price": 92.21897125,
-    "percent_change": -0.06382719
-  },
-  {
-    "title": "What To Expect From Charter's (CHTR) Q1 Earnings",
-    "published": 1714028463,
-    "posting_price": 92.27786962,
-    "close_price": 92.21897125,
-    "percent_change": -0.06382719
-  },
-  {
-    "title": "Wells Fargo Keeps Their Buy Rating on Nike (NKE)",
-    "published": 1714026540,
-    "posting_price": 92.27786962,
-    "close_price": 92.21897125,
-    "percent_change": -0.06382719
-  },
-  {
-    "title": "Nike Inc. Cl B stock falls Thursday, underperforms market",
-    "published": 1714016400,
-    "posting_price": 92.27786962,
-    "close_price": 92.21897125,
-    "percent_change": -0.06382719
-  },
-  {
-    "title": "Forget Nike: Buy This Magnificent Growth Stock Instead",
-    "published": 1713966300,
-    "posting_price": 92.37603538,
-    "close_price": 92.90614319,
-    "percent_change": 0.57385859
-  },
-  {
-    "title": "What To Expect From Mohawk Industries\u2019s (MHK) Q1 Earnings",
-    "published": 1713942458,
-    "posting_price": 92.37603538,
-    "close_price": 92.90614319,
-    "percent_change": 0.57385859
-  },
-  {
-    "title": "Skechers (SKX) Q1 Earnings: What To Expect",
-    "published": 1713942281,
-    "posting_price": 92.37603538,
-    "close_price": 92.90614319,
-    "percent_change": 0.57385859
-  },
-  {
-    "title": "Strategic Education (STRA) To Report Earnings Tomorrow: Here Is What To Expect",
-    "published": 1713942228,
-    "posting_price": 92.37603538,
-    "close_price": 92.90614319,
-    "percent_change": 0.57385859
-  },
-  {
-    "title": "Madison Sustainable Equity Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713933000,
-    "posting_price": 92.37603538,
-    "close_price": 92.90614319,
-    "percent_change": 0.57385859
-  },
-  {
-    "title": "Caitlin Clark is set to sign a new Nike deal valued at $28 million over 8 years, reports say",
-    "published": 1713891054,
-    "posting_price": 92.64108676,
-    "close_price": 92.29749298,
-    "percent_change": -0.37088704
-  },
-  {
-    "title": "Madison Covered Call And Equity Income Fund Q1 2024 Investment Strategy Letter",
-    "published": 1713869400,
-    "posting_price": 92.64108676,
-    "close_price": 92.29749298,
-    "percent_change": -0.37088704
-  },
-  {
-    "title": "Trending tickers: Tesla, ABF, Novartis, Taylor Wimpey, JD Sports",
-    "published": 1713863531,
-    "posting_price": 92.64108676,
-    "close_price": 92.29749298,
-    "percent_change": -0.37088704
-  },
-  {
-    "title": "Churchill Downs (CHDN) Q1 Earnings Report Preview: What To Look For",
-    "published": 1713855687,
-    "posting_price": 92.64108676,
-    "close_price": 92.29749298,
-    "percent_change": -0.37088704
-  },
-  {
-    "title": "3 Blue-Chip Stocks to Buy at a 52-Week Low in April",
-    "published": 1713848640,
-    "posting_price": 92.64108676,
-    "close_price": 92.29749298,
-    "percent_change": -0.37088704
-  },
-  {
-    "title": "30 Countries That Receive the Most Aid From ILO",
-    "published": 1713823007,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Caitlin Clark to sign $28 million deal with Nike to get her own sneaker",
-    "published": 1713820915,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Caitlin Clark will reportedly sign a sneaker deal with Nike",
-    "published": 1713800067,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Nike (NKE) is a Top-Ranked Momentum Stock: Should You Buy?",
-    "published": 1713793806,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Costco Wholesale, NIKE, Fiserv, UnitedHealth and America Movil",
-    "published": 1713793620,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Be Greedy When Others Are Fearful, Even If They Are Fearful For A Good Reason",
-    "published": 1713791083,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Second phase of Nike layoffs to hit Oregon headquarters this summer",
-    "published": 1713787740,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Put $5,000 in These 7 Blue-Chip Stocks Today",
-    "published": 1713782400,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Forget the Noise: Buy These 3 Unfairly Punished Stocks Before Earnings Euphoria Hits",
-    "published": 1713781800,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "LI Stock Alert: Li Auto Crumbles as Competition Forces Price Cuts",
-    "published": 1713779700,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Adient Layoffs 2024: What to Know About the Latest Adient Job Cuts",
-    "published": 1713777780,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Nike Layoffs 2024: What to Know About the Latest Nike Job Cuts",
-    "published": 1713776880,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Nike Reverses Course as Innovation Stalls and Rivals Gain Ground",
-    "published": 1713747600,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Nike Stock (NYSE:NKE): Will the Footwear Giant Regain its Mojo?",
-    "published": 1713697560,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "High-Quality Dividend Growth Near 52-Week Lows: Apple Is Attractive",
-    "published": 1713692167,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Sneakerheads losing interest and spending less",
-    "published": 1713686640,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "7 Budget-Friendly Retail Plays Due for a Tax Refund Spending Boost",
-    "published": 1713685860,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Puma eyes taking on Adidas and Nike in US sports goods market",
-    "published": 1713674220,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Nike Plans Oregon Headquarters Job Cuts Amid Revenue Decline Predictions: Report",
-    "published": 1713581460,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "How Nike Won the Battle for Caitlin Clark",
-    "published": 1713574800,
-    "posting_price": 92.89631983,
-    "close_price": 92.46438599,
-    "percent_change": -0.46496335
-  },
-  {
-    "title": "Nike and Lululemon Athletica Are Cutting Staff in a Tough Year for Sports Gear",
-    "published": 1713562500,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Nike to lay off 740 employees at Oregon headquarters",
-    "published": 1713560263,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Top Analyst Reports for Costco, NIKE & Fiserv",
-    "published": 1713557400,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "GB News to axe 40 jobs weeks after revealing heavy losses",
-    "published": 1713546426,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Nike Layoffs at World Headquarters to Reach 740",
-    "published": 1713542301,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Approximately 740 Nike Employees Being Laid Off In Oregon Layoff Will Take Effect By June 28, 2024 - WARN Notice",
-    "published": 1713541275,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Are These Beaten-Down S&P 500 Members Worth a Buy?",
-    "published": 1713536100,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Higher oil prices, shipping disruptions create a double-edged sword for retailers",
-    "published": 1713532961,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Skechers USA Unlikely To Raise Outlook Due To Eurozone Hurdles, Says Analyst",
-    "published": 1713530760,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Here\u2019s Why Nike (NKE) Fell in Q1",
-    "published": 1713526620,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Athleisure is top dog in the teen closet: Here\u2019s what the numbers say",
-    "published": 1713523260,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Seaport Research footwear/apparel analyst holds analyst/industry conference call",
-    "published": 1713522300,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Down 32%, Is Lululemon Stock (NASDAQ:LULU) a Buy Now?",
-    "published": 1713516600,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Nike's Germany kit deal \"inexplicable\", says Adidas CEO Gulden",
-    "published": 1713508740,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Nike's Sneaker Coup: Reportedly Nears Lucrative Deal With Basketball Sensation Caitlin Clark",
-    "published": 1713507660,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "Nike details some of its jobs cuts tipped off late last year",
-    "published": 1713491820,
-    "posting_price": 93.67184314,
-    "close_price": 92.79814911,
-    "percent_change": -0.93271788
-  },
-  {
-    "title": "$100 Invested In Nike 20 Years Ago Would Be Worth This Much Today",
-    "published": 1713443880,
-    "posting_price": 93.41662402,
-    "close_price": 93.98599243,
-    "percent_change": 0.60949367
-  },
-  {
-    "title": "Wall Street Lunch: A Nike-Caitlin Clark Collab?",
-    "published": 1713443160,
-    "posting_price": 93.41662402,
-    "close_price": 93.98599243,
-    "percent_change": 0.60949367
-  },
-  {
-    "title": "Nike nearing endorsement deal with Caitlin Clark, The Athletic reports",
-    "published": 1713440280,
-    "posting_price": 93.41662402,
-    "close_price": 93.98599243,
-    "percent_change": 0.60949367
-  },
-  {
-    "title": "Ensemble Fund Q1 2024 Investment Update",
-    "published": 1713431700,
-    "posting_price": 93.41662402,
-    "close_price": 93.98599243,
-    "percent_change": 0.60949367
-  },
-  {
-    "title": "Nike is close to inking a huge endorsement deal with Caitlin Clark",
-    "published": 1713423660,
-    "posting_price": 93.41662402,
-    "close_price": 93.98599243,
-    "percent_change": 0.60949367
-  },
-  {
-    "title": "Women\u2019s Sports Boom: Don\u2019t Miss These 7 Stocks Cashing In on Caitlin Clark Mania",
-    "published": 1713385800,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Still-In-The-Woods Adidas Provides Glimpse Of Recovery With A Lifted Guidance",
-    "published": 1713382280,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Nike\u2019s Women\u2019s Olympic Uniform for USA Track and Field Criticized for Being Too Revealing: The Controversy\u00a0Explained",
-    "published": 1713377353,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Adidas Beat Nike in the First Quarter, Warburg Says",
-    "published": 1713351003,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Nike Options Trading: A Deep Dive into Market Sentiment",
-    "published": 1713349140,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Telsey Advisory Reaffirms Their Buy Rating on Nike (NKE)",
-    "published": 1713339960,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "ClearBridge Sustainability Leaders Strategy Q1 2024 Portfolio Manager Commentary",
-    "published": 1713337200,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "History of Nike: Company timeline and facts",
-    "published": 1713333360,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Summer\u2019s Coming: 3 Exciting Stocks to Buy That Aren\u2019t Disney",
-    "published": 1713326460,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Caitlin Clark Will Make $76,000 A Year At The WNBA: Journalist Asks 'Is This Even A Living Wage?'",
-    "published": 1713325860,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Earnings Season Heats Up, Spotting 2 Unusual Reporting Dates In The Consumer Space",
-    "published": 1713323400,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "3 Blue-Chip Stocks to Buy Now: Q2 Edition",
-    "published": 1713322440,
-    "posting_price": 92.87669594,
-    "close_price": 93.10247803,
-    "percent_change": 0.24309875
-  },
-  {
-    "title": "Brian's Big Idea On Shoes",
-    "published": 1713298260,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "Plan For A Secure Retirement With A $100,000 Aggressive, 15-Stock Dividend Growth Portfolio",
-    "published": 1713285418,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "Is Trending Stock NIKE, Inc. (NKE) a Buy Now?",
-    "published": 1713272414,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
-    "published": 1713271140,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "Sephora taps Nike vet to lead Greater China",
-    "published": 1713265080,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "Nike (NKE) Declined as it Warned Shareholders Of a Potential Lower-Than-Expected Growth",
-    "published": 1713259164,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "How Is The Market Feeling About Nike?",
-    "published": 1713255660,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
-  },
-  {
-    "title": "Bernstein Reaffirms Their Buy Rating on Nike (NKE)",
-    "published": 1713234360,
-    "posting_price": 91.33545271,
-    "close_price": 91.679039,
-    "percent_change": 0.37618064
+    "published": 1716468000,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 92.44999694824219,
+      "2024-05-23T14:30:00+00:00": 91.80999755859375,
+      "2024-05-23T15:30:00+00:00": 91.68000030517578,
+      "2024-05-23T16:30:00+00:00": 92.16000366210938,
+      "2024-05-23T17:30:00+00:00": 91.9802017211914,
+      "2024-05-23T18:30:00+00:00": 91.29000091552734,
+      "2024-05-23T19:30:00+00:00": 91.22000122070312
+    },
+    "sentiment": 0.8178455233573914
+  },
+  {
+    "title": "US applications for jobless benefits fall as labor market continues to thrive",
+    "published": 1716453600,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 92.44999694824219,
+      "2024-05-23T14:30:00+00:00": 91.80999755859375,
+      "2024-05-23T15:30:00+00:00": 91.68000030517578,
+      "2024-05-23T16:30:00+00:00": 92.16000366210938,
+      "2024-05-23T17:30:00+00:00": 91.9802017211914,
+      "2024-05-23T18:30:00+00:00": 91.29000091552734,
+      "2024-05-23T19:30:00+00:00": 91.22000122070312
+    },
+    "sentiment": 0.9718044400215149
+  },
+  {
+    "title": "3 Retirement Stocks to Buy at 52-Week Lows",
+    "published": 1716381900,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 91.94999694824219,
+      "2024-05-22T14:30:00+00:00": 92.56500244140625,
+      "2024-05-22T15:30:00+00:00": 92.44999694824219,
+      "2024-05-22T16:30:00+00:00": 92.68000030517578,
+      "2024-05-22T17:30:00+00:00": 92.69000244140625,
+      "2024-05-22T18:30:00+00:00": 92.44000244140625,
+      "2024-05-22T19:30:00+00:00": 92.3550033569336
+    },
+    "sentiment": 0.8518999814987183
+  },
+  {
+    "title": "These athleisure brands are still looking fresh to investors",
+    "published": 1716307622,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.56999969482422,
+      "2024-05-21T14:30:00+00:00": 91.83999633789062,
+      "2024-05-21T15:30:00+00:00": 92.36000061035156,
+      "2024-05-21T16:30:00+00:00": 92.0999984741211,
+      "2024-05-21T17:30:00+00:00": 92.13999938964844,
+      "2024-05-21T18:30:00+00:00": 92.22000122070312,
+      "2024-05-21T19:30:00+00:00": 92.43499755859375
+    },
+    "sentiment": 0.5654691457748413
+  },
+  {
+    "title": "Lululemon continues to lose ground as consumers tastes shift, competition builds",
+    "published": 1716296220,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.56999969482422,
+      "2024-05-21T14:30:00+00:00": 91.83999633789062,
+      "2024-05-21T15:30:00+00:00": 92.36000061035156,
+      "2024-05-21T16:30:00+00:00": 92.0999984741211,
+      "2024-05-21T17:30:00+00:00": 92.13999938964844,
+      "2024-05-21T18:30:00+00:00": 92.22000122070312,
+      "2024-05-21T19:30:00+00:00": 92.43499755859375
+    },
+    "sentiment": 0.9511119723320007
+  },
+  {
+    "title": "Caitlin Clark inks deal to design Wilson basketballs",
+    "published": 1716286020,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.56999969482422,
+      "2024-05-21T14:30:00+00:00": 91.83999633789062,
+      "2024-05-21T15:30:00+00:00": 92.36000061035156,
+      "2024-05-21T16:30:00+00:00": 92.0999984741211,
+      "2024-05-21T17:30:00+00:00": 92.13999938964844,
+      "2024-05-21T18:30:00+00:00": 92.22000122070312,
+      "2024-05-21T19:30:00+00:00": 92.43499755859375
+    },
+    "sentiment": 0.8159241080284119
+  },
+  {
+    "title": "Explainer: Why Nike is targeting Converse for cost-cutting",
+    "published": 1716284509,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.56999969482422,
+      "2024-05-21T14:30:00+00:00": 91.83999633789062,
+      "2024-05-21T15:30:00+00:00": 92.36000061035156,
+      "2024-05-21T16:30:00+00:00": 92.0999984741211,
+      "2024-05-21T17:30:00+00:00": 92.13999938964844,
+      "2024-05-21T18:30:00+00:00": 92.22000122070312,
+      "2024-05-21T19:30:00+00:00": 92.43499755859375
+    },
+    "sentiment": 0.9198075532913208
+  },
+  {
+    "title": "Sell in May and Run Away: 3 Retail Stocks on the Brink of Collapse",
+    "published": 1716260760,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 91.56999969482422,
+      "2024-05-21T14:30:00+00:00": 91.83999633789062,
+      "2024-05-21T15:30:00+00:00": 92.36000061035156,
+      "2024-05-21T16:30:00+00:00": 92.0999984741211,
+      "2024-05-21T17:30:00+00:00": 92.13999938964844,
+      "2024-05-21T18:30:00+00:00": 92.22000122070312,
+      "2024-05-21T19:30:00+00:00": 92.43499755859375
+    },
+    "sentiment": 0.9371578693389893
+  },
+  {
+    "title": "Nike (NKE) Stock Drops Despite Market Gains: Important Facts to Note",
+    "published": 1716241515,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 92.25,
+      "2024-05-20T14:30:00+00:00": 92.306396484375,
+      "2024-05-20T15:30:00+00:00": 91.62999725341797,
+      "2024-05-20T16:30:00+00:00": 91.29149627685547,
+      "2024-05-20T17:30:00+00:00": 91.04000091552734,
+      "2024-05-20T18:30:00+00:00": 91.11000061035156,
+      "2024-05-20T19:30:00+00:00": 91.57499694824219
+    },
+    "sentiment": 0.5629583597183228
+  },
+  {
+    "title": "Under Armour is collapsing \u2014 And Kevin Plank has to take the blame",
+    "published": 1716120180,
+    "day_prices": {},
+    "sentiment": 0.5793961882591248
+  },
+  {
+    "title": "A Few Years From Now, You'll Wish You Bought This High-Growth Stock",
+    "published": 1716029100,
+    "day_prices": {},
+    "sentiment": 0.9070386290550232
+  },
+  {
+    "title": "Former Facebook, Nike DEI Manager Entrusted With 'Doing The Right Thing' Gets Over 5 Years In Prison For $5M Fraud",
+    "published": 1715950380,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 92.01000213623047,
+      "2024-05-17T14:30:00+00:00": 91.90339660644531,
+      "2024-05-17T15:30:00+00:00": 92.08999633789062,
+      "2024-05-17T16:30:00+00:00": 91.87000274658203,
+      "2024-05-17T17:30:00+00:00": 91.8009033203125,
+      "2024-05-17T18:30:00+00:00": 91.92500305175781,
+      "2024-05-17T19:30:00+00:00": 92.02999877929688
+    },
+    "sentiment": 0.7186427712440491
+  },
+  {
+    "title": "Dow at 40K: Leaders and laggards over the last 10,000 points",
+    "published": 1715928000,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 92.01000213623047,
+      "2024-05-17T14:30:00+00:00": 91.90339660644531,
+      "2024-05-17T15:30:00+00:00": 92.08999633789062,
+      "2024-05-17T16:30:00+00:00": 91.87000274658203,
+      "2024-05-17T17:30:00+00:00": 91.8009033203125,
+      "2024-05-17T18:30:00+00:00": 91.92500305175781,
+      "2024-05-17T19:30:00+00:00": 92.02999877929688
+    },
+    "sentiment": 0.749076783657074
+  },
+  {
+    "title": "Under Armour's Plank sets clear vision to restore company to its former glory",
+    "published": 1715862240,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 91.69000244140625,
+      "2024-05-16T14:30:00+00:00": 92.61000061035156,
+      "2024-05-16T15:30:00+00:00": 92.41200256347656,
+      "2024-05-16T16:30:00+00:00": 92.63500213623047,
+      "2024-05-16T17:30:00+00:00": 92.33999633789062,
+      "2024-05-16T18:30:00+00:00": 92.16120147705078,
+      "2024-05-16T19:30:00+00:00": 91.9000015258789
+    },
+    "sentiment": 0.6568553447723389
+  },
+  {
+    "title": "Healthy consumer evidence in earnings calls from PG, MA, DAL, NKE and others - Goldman Sachs",
+    "published": 1715852280,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 91.69000244140625,
+      "2024-05-16T14:30:00+00:00": 92.61000061035156,
+      "2024-05-16T15:30:00+00:00": 92.41200256347656,
+      "2024-05-16T16:30:00+00:00": 92.63500213623047,
+      "2024-05-16T17:30:00+00:00": 92.33999633789062,
+      "2024-05-16T18:30:00+00:00": 92.16120147705078,
+      "2024-05-16T19:30:00+00:00": 91.9000015258789
+    },
+    "sentiment": 0.9335277080535889
   }
 ]

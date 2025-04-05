@@ -1,289 +1,212 @@
 [
   {
-    "title": "Here's Why We Think Jabil (NYSE:JBL) Might Deserve Your Attention Today",
-    "published": 1713104384,
-    "posting_price": 135.31508046,
-    "close_price": 132.32270813,
-    "percent_change": -2.21141082
+    "title": "Jabil: Maybe The Cheapest Way To Buy Into Apple's Success Without Buying Apple",
+    "published": 1714550912,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 116.2300033569336,
+      "2024-05-01T14:30:00+00:00": 114.26000213623047,
+      "2024-05-01T15:30:00+00:00": 112.69000244140625,
+      "2024-05-01T16:30:00+00:00": 112.95999908447266,
+      "2024-05-01T17:30:00+00:00": 113.83000183105469,
+      "2024-05-01T18:30:00+00:00": 114.62000274658203,
+      "2024-05-01T19:30:00+00:00": 115.5199966430664
+    },
+    "sentiment": 0.7254806756973267
   },
   {
-    "title": "Will The Growth Of Indexing Lead To Its Downfall?",
-    "published": 1713012180,
-    "posting_price": 135.31508046,
-    "close_price": 132.32270813,
-    "percent_change": -2.21141082
+    "title": "$1000 Invested In Jabil 15 Years Ago Would Be Worth This Much Today",
+    "published": 1715763780,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 118.69999694824219,
+      "2024-05-15T14:30:00+00:00": 114.5199966430664,
+      "2024-05-15T15:30:00+00:00": 114.05000305175781,
+      "2024-05-15T16:30:00+00:00": 115.05000305175781,
+      "2024-05-15T17:30:00+00:00": 114.95999908447266,
+      "2024-05-15T18:30:00+00:00": 114.5999984741211,
+      "2024-05-15T19:30:00+00:00": 115.7699966430664
+    },
+    "sentiment": 0.9115535616874695
   },
   {
-    "title": "Here's How Much You Would Have Made Owning Jabil Stock In The Last 15 Years",
-    "published": 1712892780,
-    "posting_price": 136.12300221,
-    "close_price": 133.72911072,
-    "percent_change": -1.75862378
+    "title": "Jabil (JBL) Reiterates FY24 Guidance, Withdraws FY25 View",
+    "published": 1716302940,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 118.08999633789062,
+      "2024-05-21T14:30:00+00:00": 118.04000091552734,
+      "2024-05-21T15:30:00+00:00": 118.62000274658203,
+      "2024-05-21T16:30:00+00:00": 118.1449966430664,
+      "2024-05-21T17:30:00+00:00": 118.5,
+      "2024-05-21T18:30:00+00:00": 117.91000366210938,
+      "2024-05-21T19:30:00+00:00": 117.97000122070312
+    },
+    "sentiment": 0.7559655904769897
   },
   {
-    "title": "Enphase Energy, Super Micro most shorted S&P 500 information technology stocks in March",
-    "published": 1712889360,
-    "posting_price": 136.12300221,
-    "close_price": 133.72911072,
-    "percent_change": -1.75862378
+    "title": "Buy Rating Affirmed: Jabil\u2019s Strong Growth Prospects and Strategic Market Positioning",
+    "published": 1716279960,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 118.08999633789062,
+      "2024-05-21T14:30:00+00:00": 118.04000091552734,
+      "2024-05-21T15:30:00+00:00": 118.62000274658203,
+      "2024-05-21T16:30:00+00:00": 118.1449966430664,
+      "2024-05-21T17:30:00+00:00": 118.5,
+      "2024-05-21T18:30:00+00:00": 117.91000366210938,
+      "2024-05-21T19:30:00+00:00": 117.97000122070312
+    },
+    "sentiment": 0.9318840503692627
   },
   {
-    "title": "Insider Sell: SVP, Chief Information Officer May Yap Sells 7,877 Shares of Jabil Inc (JBL)",
-    "published": 1712814806,
-    "posting_price": 136.64168753,
-    "close_price": 137.66906738,
-    "percent_change": 0.75187878
+    "title": "Stocks, Gold Reach New Record Highs, Cruise Stocks Rally, GameStop Sinks: What's Driving Markets Monday?",
+    "published": 1716233641,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.6013320088386536
   },
   {
-    "title": "1 Incredibly Cheap Stock to Buy Before It Starts Soaring Thanks to Artificial Intelligence (AI)",
-    "published": 1712394600,
-    "posting_price": 139.86345993,
-    "close_price": 138.22763062,
-    "percent_change": -1.16959019
+    "title": "Jabil Announces New CEO, Pulls Fiscal 2025 Guidance",
+    "published": 1716224649,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.9025241136550903
   },
   {
-    "title": "Decoding Jabil Inc (JBL): A Strategic SWOT Insight",
-    "published": 1712379719,
-    "posting_price": 139.86345993,
-    "close_price": 138.22763062,
-    "percent_change": -1.16959019
+    "title": "Jabil Reiterates Fiscal Year 2024 Guidance",
+    "published": 1716210600,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.9430285692214966
   },
   {
-    "title": "5 Artificial Intelligence (AI) Hardware Stocks -- Not Named Nvidia -- That Are Crushing the Market and Are Still Cheap",
-    "published": 1712218200,
-    "posting_price": 139.64403497,
-    "close_price": 135.53451538,
-    "percent_change": -2.94285366
+    "title": "What You Missed On Wall Street This Morning",
+    "published": 1716202860,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.9132178425788879
   },
   {
-    "title": "9 Stocks Can Make You Rich In May While Others Flee",
-    "published": 1714510832,
-    "posting_price": 118.42812681,
-    "close_price": 117.06160736,
-    "percent_change": -1.15388083
+    "title": "Overseas Shipholding, Micron, Squarespace, Incyte And Other Big Stocks Moving Higher On Monday",
+    "published": 1716201660,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.9319881200790405
   },
   {
-    "title": "Here's How Much You Would Have Made Owning Jabil Stock In The Last 10 Years",
-    "published": 1714474860,
-    "posting_price": 118.42812681,
-    "close_price": 117.06160736,
-    "percent_change": -1.15388083
+    "title": "Jabil makes key management changes, appoints new CEO",
+    "published": 1716193500,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.8025177121162415
   },
   {
-    "title": "Top 50 stocks with the highest sensitivity to interest rates changes - GS",
-    "published": 1714390920,
-    "posting_price": 117.92938661,
-    "close_price": 119.56521606,
-    "percent_change": 1.38712623
+    "title": "Jabil backs Q3 core EPS view $1.65-$2.05, consensus $1.85",
+    "published": 1716193020,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.40101107954978943
   },
   {
-    "title": "BofA Says These 4 Companies Could Benefit From The Next Apple Product Cycle",
-    "published": 1714385340,
-    "posting_price": 117.92938661,
-    "close_price": 119.56521606,
-    "percent_change": 1.38712623
+    "title": "Analysts Offer Insights on Technology Companies: ServiceNow (NOW), Phunware (PHUN) and Jabil (JBL)",
+    "published": 1716182460,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.9201226234436035
   },
   {
-    "title": "Apple's supplier list indicates China remains key manufacturing base: BofA",
-    "published": 1714381140,
-    "posting_price": 117.92938661,
-    "close_price": 119.56521606,
-    "percent_change": 1.38712623
+    "title": "Jabil's Stock Rises Amid CEO Change and Reaffirmed Guidance",
+    "published": 1716171300,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 113.62000274658203,
+      "2024-05-20T14:30:00+00:00": 121.6449966430664,
+      "2024-05-20T15:30:00+00:00": 122.15499877929688,
+      "2024-05-20T16:30:00+00:00": 121.94000244140625,
+      "2024-05-20T17:30:00+00:00": 122.5,
+      "2024-05-20T18:30:00+00:00": 123.55999755859375,
+      "2024-05-20T19:30:00+00:00": 122.16000366210938
+    },
+    "sentiment": 0.8151679635047913
   },
   {
-    "title": "Pomerantz Law Firm Investigates Claims on Behalf of Investors of Jabil Inc. - JBL",
-    "published": 1714299374,
-    "posting_price": 117.92939413,
-    "close_price": 119.56522369,
-    "percent_change": 1.38712623
+    "title": "Jabil : to Present at Upcoming Conference",
+    "published": 1715937854,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 115.81999969482422,
+      "2024-05-17T14:30:00+00:00": 115.4000015258789,
+      "2024-05-17T15:30:00+00:00": 114.9800033569336,
+      "2024-05-17T16:30:00+00:00": 114.7300033569336,
+      "2024-05-17T17:30:00+00:00": 114.77999877929688,
+      "2024-05-17T18:30:00+00:00": 114.66500091552734,
+      "2024-05-17T19:30:00+00:00": 115.22000122070312
+    },
+    "sentiment": 0.9230667352676392
   },
   {
-    "title": "Microsoft, Alphabet And Meta's Raised AI Capex Outlook Could Benefit These JPMorgan Stock Picks",
-    "published": 1714099320,
-    "posting_price": 118.66750881,
-    "close_price": 117.96928406,
-    "percent_change": -0.58838747
-  },
-  {
-    "title": "Looking Into Jabil's Recent Short Interest",
-    "published": 1713951300,
-    "posting_price": 122.4379007,
-    "close_price": 119.9342804,
-    "percent_change": -2.04480825
-  },
-  {
-    "title": "Apple supplier Jabil benches its CEO as it investigates his conduct\u2014but he\u2019ll still collect his full $1 million salary",
-    "published": 1713901575,
-    "posting_price": 120.13377355,
-    "close_price": 120.58262634,
-    "percent_change": 0.37362748
-  },
-  {
-    "title": "Goldman\u2019s buybacks basket: Buyback growth will be 13% in 2024",
-    "published": 1713788940,
-    "posting_price": 120.51280044,
-    "close_price": 118.82709503,
-    "percent_change": -1.39877706
-  },
-  {
-    "title": "Raymond James Sees Opportunity in These 2 \u2018Strong Buy\u2019 Stocks",
-    "published": 1713787709,
-    "posting_price": 120.51280044,
-    "close_price": 118.82709503,
-    "percent_change": -1.39877706
-  },
-  {
-    "title": "Jabil : Fiscal Year 2023 Impact ReportPrevious Reports",
-    "published": 1713786727,
-    "posting_price": 120.51280044,
-    "close_price": 118.82709503,
-    "percent_change": -1.39877706
-  },
-  {
-    "title": "Analysts Are Bullish on These Technology Stocks: Jabil (JBL), Applied Materials (AMAT)",
-    "published": 1713777720,
-    "posting_price": 120.51280044,
-    "close_price": 118.82709503,
-    "percent_change": -1.39877706
-  },
-  {
-    "title": "Goldman picks top capex and R&D stocks",
-    "published": 1713663840,
-    "posting_price": 120.51280044,
-    "close_price": 118.82709503,
-    "percent_change": -1.39877706
-  },
-  {
-    "title": "These Stocks Moved the Most Today: Netflix, Super Micro, Paramount, American Express, DJT, Jabil, Tesla, and More",
-    "published": 1713558900,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "These Stocks Are Moving the Most Today: Netflix, Paramount, DJT, Jabil, Canopy Growth, American Express, and More",
-    "published": 1713515520,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "Jabil Becomes Oversold",
-    "published": 1713522900,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "Jabil Breaks Below 200-Day Moving Average - Notable for JBL",
-    "published": 1713520800,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "Unveiling Jabil (JBL)'s Market Position: Significantly Overvalued or a Mispriced Opportunity?",
-    "published": 1713519120,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "Analysts Offer Insights on Technology Companies: Microsoft (MSFT), Jabil (JBL) and Datadog (DDOG)",
-    "published": 1713508260,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "Notable Friday Option Activity: JBL, GPRE, SPOT",
-    "published": 1713493200,
-    "posting_price": 126.54742357,
-    "close_price": 118.44806671,
-    "percent_change": -6.40025425
-  },
-  {
-    "title": "Jabil places CEO Wilson on paid leave amid investigation",
-    "published": 1713481015,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Jabil Places CEO Kenneth S. Wilson on Paid Leave Pending Investigation",
-    "published": 1713476700,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Jabil\u2019s stock declines as CEO Kenny Wilson goes on paid leave pending an investigation",
-    "published": 1713429720,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Wall Street Looks To Snap 4-Day Losing Streak As Traders Eye Fed Speeches, Netflix Earnings: Analyst Pencils S&P 500's Next 'Major' Downside Support",
-    "published": 1713419820,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Jabil places CEO Kenneth Wilson on leave amid policy breach investigation",
-    "published": 1713415740,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Jabil CEO on Leave Amid Policy Breach Probe, CFO Steps In",
-    "published": 1713414780,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Jabil CEO placed on leave pending investigation into corporate policies",
-    "published": 1713414300,
-    "posting_price": 129.70935082,
-    "close_price": 129.26049805,
-    "percent_change": -0.34604504
-  },
-  {
-    "title": "Jabil Declares Quarterly Dividend",
-    "published": 1713384900,
-    "posting_price": 132.45235858,
-    "close_price": 129.32034302,
-    "percent_change": -2.36463555
-  },
-  {
-    "title": "Insider Sell: CEO Kenneth Wilson Sells 15,000 Shares of Jabil Inc (JBL)",
-    "published": 1713330060,
-    "posting_price": 132.45235858,
-    "close_price": 129.32034302,
-    "percent_change": -2.36463555
-  },
-  {
-    "title": "Jabil declares $0.08 dividend",
-    "published": 1713324120,
-    "posting_price": 132.45235858,
-    "close_price": 129.32034302,
-    "percent_change": -2.36463555
-  },
-  {
-    "title": "Sanmina: A Balancing Act",
-    "published": 1713282960,
-    "posting_price": 131.50478097,
-    "close_price": 131.70426941,
-    "percent_change": 0.15169672
-  },
-  {
-    "title": "QTEC: Technology Sector\u00a0Dashboard For April",
-    "published": 1713273286,
-    "posting_price": 131.50478097,
-    "close_price": 131.70426941,
-    "percent_change": 0.15169672
+    "title": "PTF: Technology Dashboard For May 2024",
+    "published": 1715829514,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 115.5,
+      "2024-05-16T14:30:00+00:00": 115.80500030517578,
+      "2024-05-16T15:30:00+00:00": 116.08000183105469,
+      "2024-05-16T16:30:00+00:00": 115.1500015258789,
+      "2024-05-16T17:30:00+00:00": 114.91999816894531,
+      "2024-05-16T18:30:00+00:00": 115.2300033569336,
+      "2024-05-16T19:30:00+00:00": 115.69000244140625
+    },
+    "sentiment": 0.9375588297843933
   }
 ]

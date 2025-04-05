@@ -1,163 +1,160 @@
 [
   {
-    "title": "Alliant Energy Corporation Declares Quarterly Common Stock Dividend",
-    "published": 1713215580,
-    "posting_price": 46.47339639,
-    "close_price": 46.34786987,
-    "percent_change": -0.27010404
+    "title": "Analysts Offer Insights on Utilities Companies: Alliant Energy (LNT) and Brookfield Renewable Partners (BEP)",
+    "published": 1714983780,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 50.959999084472656,
+      "2024-05-06T14:30:00+00:00": 50.529998779296875,
+      "2024-05-06T15:30:00+00:00": 50.345001220703125,
+      "2024-05-06T16:30:00+00:00": 50.36000061035156,
+      "2024-05-06T17:30:00+00:00": 50.45000076293945,
+      "2024-05-06T18:30:00+00:00": 50.45500183105469,
+      "2024-05-06T19:30:00+00:00": 50.47999954223633
+    },
+    "sentiment": 0.9401795268058777
   },
   {
-    "title": "Alliant Energy Corporation Announces First Quarter 2024 Earnings Release and Conference Call",
-    "published": 1713214800,
-    "posting_price": 46.47339639,
-    "close_price": 46.34786987,
-    "percent_change": -0.27010404
+    "title": "Alliant Energy Corporation (NASDAQ:LNT) Q1 2024 Earnings Call Transcript",
+    "published": 1714832685,
+    "day_prices": {},
+    "sentiment": 0.9326393604278564
   },
   {
-    "title": "Alliant Energy price target raised by $2 at BMO Capital, here's why",
-    "published": 1713167760,
-    "posting_price": 46.47339639,
-    "close_price": 46.34786987,
-    "percent_change": -0.27010404
+    "title": "Alliant Energy Corp (LNT) Q1 2024 Earnings Call Transcript Highlights: Navigating Challenges ...",
+    "published": 1714806577,
+    "day_prices": {},
+    "sentiment": 0.8495662808418274
   },
   {
-    "title": "Alliant Energy Corp. stock underperforms Friday when compared to competitors",
-    "published": 1712895660,
-    "posting_price": 46.85962642,
-    "close_price": 46.34786987,
-    "percent_change": -1.09210548
+    "title": "Q1 2024 Alliant Energy Corp Earnings Call",
+    "published": 1714794643,
+    "day_prices": {},
+    "sentiment": 0.7870880961418152
   },
   {
-    "title": "Alliant Energy (LNT) Benefits From Clean Portfolio, Investments",
-    "published": 1712844000,
-    "posting_price": 47.10101757,
-    "close_price": 46.81134415,
-    "percent_change": -0.61500459
+    "title": "Alliant Energy Corporation (LNT) Q1 2024 Earnings Call Transcript",
+    "published": 1714742125,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 50.939998626708984,
+      "2024-05-03T14:30:00+00:00": 50.45000076293945,
+      "2024-05-03T15:30:00+00:00": 50.2599983215332,
+      "2024-05-03T16:30:00+00:00": 50.56999969482422,
+      "2024-05-03T17:30:00+00:00": 50.6349983215332,
+      "2024-05-03T18:30:00+00:00": 50.755001068115234,
+      "2024-05-03T19:30:00+00:00": 50.810001373291016
+    },
+    "sentiment": 0.9236235618591309
   },
   {
-    "title": "Alliant Energy Corporation (NASDAQ:LNT) Has A ROE Of 10%",
-    "published": 1712842338,
-    "posting_price": 47.10101757,
-    "close_price": 46.81134415,
-    "percent_change": -0.61500459
+    "title": "Alliant Energy Corp (LNT) Q1 Earnings: Consistent with Analyst Projections",
+    "published": 1714735940,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 50.939998626708984,
+      "2024-05-03T14:30:00+00:00": 50.45000076293945,
+      "2024-05-03T15:30:00+00:00": 50.2599983215332,
+      "2024-05-03T16:30:00+00:00": 50.56999969482422,
+      "2024-05-03T17:30:00+00:00": 50.6349983215332,
+      "2024-05-03T18:30:00+00:00": 50.755001068115234,
+      "2024-05-03T19:30:00+00:00": 50.810001373291016
+    },
+    "sentiment": 0.9320992231369019
   },
   {
-    "title": "Alliant Energy price target lowered by $1 at BofA, here's why",
-    "published": 1712823960,
-    "posting_price": 47.10101757,
-    "close_price": 46.81134415,
-    "percent_change": -0.61500459
+    "title": "Alliant Energy reports fall in first quarter profit on unfavorable weather",
+    "published": 1714688937,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 50.689998626708984,
+      "2024-05-02T14:30:00+00:00": 50.625,
+      "2024-05-02T15:30:00+00:00": 50.33000183105469,
+      "2024-05-02T16:30:00+00:00": 50.400001525878906,
+      "2024-05-02T17:30:00+00:00": 50.4900016784668,
+      "2024-05-02T18:30:00+00:00": 50.65999984741211,
+      "2024-05-02T19:30:00+00:00": 50.7400016784668
+    },
+    "sentiment": 0.9744775891304016
   },
   {
-    "title": "No Rate Cuts in \u201924? I\u2019m Not Buying It (Here\u2019s Why and How to Profit)",
-    "published": 1712635260,
-    "posting_price": 47.97004733,
-    "close_price": 48.26937866,
-    "percent_change": 0.62399632
+    "title": "Alliant Energy : Q1 2024 Earnings Call Slides",
+    "published": 1714673830,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 50.689998626708984,
+      "2024-05-02T14:30:00+00:00": 50.625,
+      "2024-05-02T15:30:00+00:00": 50.33000183105469,
+      "2024-05-02T16:30:00+00:00": 50.400001525878906,
+      "2024-05-02T17:30:00+00:00": 50.4900016784668,
+      "2024-05-02T18:30:00+00:00": 50.65999984741211,
+      "2024-05-02T19:30:00+00:00": 50.7400016784668
+    },
+    "sentiment": 0.9319955706596375
   },
   {
-    "title": "Alliant Energy: Now Is The Time To Buy This Future Dividend Aristocrat",
-    "published": 1712300400,
-    "posting_price": 47.28448194,
-    "close_price": 47.16860962,
-    "percent_change": -0.24505359
+    "title": "LNT Stock Earnings: Alliant Energy Meets EPS, Misses Revenue for Q1 2024",
+    "published": 1714643940,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 50.689998626708984,
+      "2024-05-02T14:30:00+00:00": 50.625,
+      "2024-05-02T15:30:00+00:00": 50.33000183105469,
+      "2024-05-02T16:30:00+00:00": 50.400001525878906,
+      "2024-05-02T17:30:00+00:00": 50.4900016784668,
+      "2024-05-02T18:30:00+00:00": 50.65999984741211,
+      "2024-05-02T19:30:00+00:00": 50.7400016784668
+    },
+    "sentiment": 0.7214760780334473
   },
   {
-    "title": "Alliant Energy: Continued Growth Expected",
-    "published": 1712179265,
-    "posting_price": 48.18247497,
-    "close_price": 47.74796295,
-    "percent_change": -0.90180511
+    "title": "Alliant Energy backs 2024 EPS view $2.99-$3.13, consensus $3.06",
+    "published": 1714626180,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 50.689998626708984,
+      "2024-05-02T14:30:00+00:00": 50.625,
+      "2024-05-02T15:30:00+00:00": 50.33000183105469,
+      "2024-05-02T16:30:00+00:00": 50.400001525878906,
+      "2024-05-02T17:30:00+00:00": 50.4900016784668,
+      "2024-05-02T18:30:00+00:00": 50.65999984741211,
+      "2024-05-02T19:30:00+00:00": 50.7400016784668
+    },
+    "sentiment": 0.7891432642936707
   },
   {
-    "title": "Alliant Energy Corp. stock underperforms Wednesday when compared to competitors",
-    "published": 1712118120,
-    "posting_price": 48.18247497,
-    "close_price": 47.74796295,
-    "percent_change": -0.90180511
+    "title": "Avangrid (AGR) to be Acquired by Iberdrola in an All-Cash Deal",
+    "published": 1716217740,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 51.97999954223633,
+      "2024-05-20T14:30:00+00:00": 51.900001525878906,
+      "2024-05-20T15:30:00+00:00": 52.0099983215332,
+      "2024-05-20T16:30:00+00:00": 51.970001220703125,
+      "2024-05-20T17:30:00+00:00": 51.93000030517578,
+      "2024-05-20T18:30:00+00:00": 51.8849983215332,
+      "2024-05-20T19:30:00+00:00": 51.7400016784668
+    },
+    "sentiment": 0.8990694284439087
   },
   {
-    "title": "Newsweek Names Alliant Energy one of the Most Trustworthy Companies in America",
-    "published": 1712084400,
-    "posting_price": 47.97004559,
-    "close_price": 48.25006485,
-    "percent_change": 0.58373774
+    "title": "January 2025 Options Now Available For Alliant Energy (LNT)",
+    "published": 1715942280,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 51.93000030517578,
+      "2024-05-17T14:30:00+00:00": 52.0099983215332,
+      "2024-05-17T15:30:00+00:00": 51.97999954223633,
+      "2024-05-17T16:30:00+00:00": 51.93000030517578,
+      "2024-05-17T17:30:00+00:00": 51.91999816894531,
+      "2024-05-17T18:30:00+00:00": 51.880001068115234,
+      "2024-05-17T19:30:00+00:00": 51.90999984741211
+    },
+    "sentiment": 0.954014241695404
   },
   {
-    "title": "Alliant Energy (LNT) to Report Q1 Earnings: What's in Store?",
-    "published": 1714477800,
-    "posting_price": 48.31214984,
-    "close_price": 48.55590439,
-    "percent_change": 0.50454089
-  },
-  {
-    "title": "Alliant Energy price target lowered by 50c at Ladenburg, here's why",
-    "published": 1714372560,
-    "posting_price": 48.07814962,
-    "close_price": 48.5266571,
-    "percent_change": 0.93287176
-  },
-  {
-    "title": "Alliant Energy goes ex dividend Monday",
-    "published": 1714096740,
-    "posting_price": 48.52042746,
-    "close_price": 47.88314438,
-    "percent_change": -1.31343253
-  },
-  {
-    "title": "AZCO Earns National Zero Injury Safety Award for 2023 Solar Projects",
-    "published": 1714037797,
-    "posting_price": 48.53008395,
-    "close_price": 48.50111771,
-    "percent_change": -0.05968718
-  },
-  {
-    "title": "Artisan Mid Cap Value Fund Q1 2024 Commentary",
-    "published": 1713957000,
-    "posting_price": 47.64174845,
-    "close_price": 48.63629532,
-    "percent_change": 2.08755325
-  },
-  {
-    "title": "Alliant Energy price target lowered by $4 at Scotiabank, here's why",
-    "published": 1713774480,
-    "posting_price": 47.8734858,
-    "close_price": 48.17281342,
-    "percent_change": 0.62524718
-  },
-  {
-    "title": "Alliant Energy price target lowered by $1 at Barclays, here's why",
-    "published": 1713766320,
-    "posting_price": 47.8734858,
-    "close_price": 48.17281342,
-    "percent_change": 0.62524718
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 21",
-    "published": 1713606785,
-    "posting_price": 47.87348959,
-    "close_price": 48.17281723,
-    "percent_change": 0.62524717
-  },
-  {
-    "title": "First Week of June 21st Options Trading For Alliant Energy (LNT)",
-    "published": 1713520380,
-    "posting_price": 47.27482471,
-    "close_price": 48.10522461,
-    "percent_change": 1.75653724
-  },
-  {
-    "title": "Alliant Energy a Top Ranked SAFE Dividend Stock With 4.0% Yield (LNT)",
-    "published": 1713248820,
-    "posting_price": 46.30925083,
-    "close_price": 45.76852798,
-    "percent_change": -1.16763463
-  },
-  {
-    "title": "Alliant Energy Named Top Dividend Stock With Insider Buying and 4.00% Yield (LNT)",
-    "published": 1713237600,
-    "posting_price": 46.30925083,
-    "close_price": 45.76852798,
-    "percent_change": -1.16763463
+    "title": "Grant County Solar Project completion marks milestone in Wisconsin clean energy",
+    "published": 1717158120,
+    "day_prices": {
+      "2024-05-31T13:30:00+00:00": 50.33000183105469,
+      "2024-05-31T14:30:00+00:00": 50.619998931884766,
+      "2024-05-31T15:30:00+00:00": 50.915000915527344,
+      "2024-05-31T16:30:00+00:00": 50.845001220703125,
+      "2024-05-31T17:30:00+00:00": 50.935001373291016,
+      "2024-05-31T18:30:00+00:00": 51.064998626708984,
+      "2024-05-31T19:30:00+00:00": 50.970001220703125
+    },
+    "sentiment": 0.8337320685386658
   }
 ]

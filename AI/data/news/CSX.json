@@ -1,779 +1,282 @@
 [
   {
-    "title": "CSX Adds Fourteen Rail Served Properties Across Eight States to Select Site Program",
-    "published": 1713205800,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
+    "title": "June 14th Options Now Available For CSX",
+    "published": 1714732440,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 33.83000183105469,
+      "2024-05-03T14:30:00+00:00": 33.744998931884766,
+      "2024-05-03T15:30:00+00:00": 33.80500030517578,
+      "2024-05-03T16:30:00+00:00": 33.79899978637695,
+      "2024-05-03T17:30:00+00:00": 33.7599983215332,
+      "2024-05-03T18:30:00+00:00": 33.814998626708984,
+      "2024-05-03T19:30:00+00:00": 33.814998626708984
+    },
+    "sentiment": 0.9339123368263245
   },
   {
-    "title": "3 Stocks That Will Be Hit Hardest by the 2024 Baltimore Bridge Disaster",
-    "published": 1713204610,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights Canadian National Railway, Canadian Pacific Kansas City and CSX",
-    "published": 1713188280,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Bernstein Reaffirms Their Hold Rating on CSX (CSX)",
-    "published": 1713185760,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Netflix and United Airlines to report highest move post earnings: BofA",
-    "published": 1713178620,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves This Week, April 15 \u2013 April 19, 2024",
-    "published": 1713160860,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Wall Street Breakfast: The Week Ahead",
-    "published": 1713081061,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Earnings week ahead: BAC, JNJ, TSM, UNH, ABT, SLB, UAL, PG, NFLX and more",
-    "published": 1713078360,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "Boeing weighs on large-cap industrials in turbulent week",
-    "published": 1713067380,
-    "posting_price": 35.19568228,
-    "close_price": 34.63389206,
-    "percent_change": -1.59619074
-  },
-  {
-    "title": "The stock market is testing the bulls to see if they have what it takes",
-    "published": 1713011580,
-    "posting_price": 35.19568615,
-    "close_price": 34.63389587,
-    "percent_change": -1.59619073
-  },
-  {
-    "title": "3 Railroad Stocks to Watch From the Challenging Industry",
-    "published": 1712937600,
-    "posting_price": 34.65360489,
-    "close_price": 34.83101273,
-    "percent_change": 0.51194628
-  },
-  {
-    "title": "Global company events calendar",
-    "published": 1712918340,
-    "posting_price": 34.65360489,
-    "close_price": 34.83101273,
-    "percent_change": 0.51194628
-  },
-  {
-    "title": "Ancora\u2019s Proposed Management Team and Director Candidates to Participate in Fireside Chat with Deutsche Bank on the Value Creation Opportunity at Norfolk Southern",
-    "published": 1712908800,
-    "posting_price": 34.65360489,
-    "close_price": 34.83101273,
-    "percent_change": 0.51194628
-  },
-  {
-    "title": "CSX price target raised by $2 at Stifel, here's why",
-    "published": 1712905380,
-    "posting_price": 34.65360489,
-    "close_price": 34.83101273,
-    "percent_change": 0.51194628
-  },
-  {
-    "title": "Catalyst Watch: Boeing hearing, Bitcoin halving event and new eyes on Reddit",
-    "published": 1712887200,
-    "posting_price": 34.65360489,
-    "close_price": 34.83101273,
-    "percent_change": 0.51194628
-  },
-  {
-    "title": "CSX's Dividend Payouts Boost Prospects Amid Cost Concerns",
-    "published": 1712841300,
-    "posting_price": 34.85072817,
-    "close_price": 34.9197197,
-    "percent_change": 0.19796295
-  },
-  {
-    "title": "Interesting CSX Put And Call Options For May 31st",
-    "published": 1712832780,
-    "posting_price": 34.85072817,
-    "close_price": 34.9197197,
-    "percent_change": 0.19796295
-  },
-  {
-    "title": "CSX (CSX) Gets a Buy from Benchmark Co.",
-    "published": 1712805360,
-    "posting_price": 34.85072817,
-    "close_price": 34.9197197,
-    "percent_change": 0.19796295
-  },
-  {
-    "title": "Norfolk Southern\u2019s revenue will take a Baltimore bridge hit. This is what it means for CSX.",
-    "published": 1712739120,
-    "posting_price": 35.02813023,
-    "close_price": 34.90000153,
-    "percent_change": -0.36578801
-  },
-  {
-    "title": "Coal Exports Estimated to Drop 6% Due to Baltimore Bridge Collapse",
-    "published": 1712685602,
-    "posting_price": 35.48150721,
-    "close_price": 35.43222809,
-    "percent_change": -0.13888677
-  },
-  {
-    "title": "Norfolk Southern reaches agreement to settle East Palestine derailment class action",
-    "published": 1712654400,
-    "posting_price": 35.48150721,
-    "close_price": 35.43222809,
-    "percent_change": -0.13888677
-  },
-  {
-    "title": "CSX price target raised by $1 at BofA, here's why",
-    "published": 1712633580,
-    "posting_price": 35.48150721,
-    "close_price": 35.43222809,
-    "percent_change": -0.13888677
-  },
-  {
-    "title": "CleanSpace Holdings Seeks New ASX Quotation",
-    "published": 1712630280,
-    "posting_price": 35.48150721,
-    "close_price": 35.43222809,
-    "percent_change": -0.13888677
-  },
-  {
-    "title": "Ulta upgraded, Skyworks downgraded: Wall Street's top analyst calls",
-    "published": 1712565900,
-    "posting_price": 35.60963802,
-    "close_price": 35.53078842,
-    "percent_change": -0.22142769
-  },
-  {
-    "title": "Canadian Pacific and Norfolk Southern are the top rail transportation stocks at Jefferies",
-    "published": 1712559120,
-    "posting_price": 35.60963802,
-    "close_price": 35.53078842,
-    "percent_change": -0.22142769
-  },
-  {
-    "title": "CSX initiated with neutral view at Jefferies, here's why",
-    "published": 1712548140,
-    "posting_price": 35.60963802,
-    "close_price": 35.53078842,
-    "percent_change": -0.22142769
-  },
-  {
-    "title": "13 Best Cheap Dividend Stocks To Buy Right Now",
-    "published": 1712444460,
-    "posting_price": 35.6096342,
-    "close_price": 35.53078461,
-    "percent_change": -0.22142769
-  },
-  {
-    "title": "(CSX) - Analyzing CSX's Short Interest",
-    "published": 1712317560,
-    "posting_price": 35.75747495,
-    "close_price": 35.77718735,
-    "percent_change": 0.05512805
-  },
-  {
-    "title": "CleanSpace Holdings Issues New Employee Shares",
-    "published": 1712281680,
-    "posting_price": 35.75747495,
-    "close_price": 35.77718735,
-    "percent_change": 0.05512805
-  },
-  {
-    "title": "CleanSpace Holdings Seeks ASX Quotation",
-    "published": 1712281680,
-    "posting_price": 35.75747495,
-    "close_price": 35.77718735,
-    "percent_change": 0.05512805
-  },
-  {
-    "title": "CSX May 24th Options Begin Trading",
-    "published": 1712223780,
-    "posting_price": 36.09257206,
-    "close_price": 35.59977341,
-    "percent_change": -1.36537415
-  },
-  {
-    "title": "North American rail traffic up 1.8% for the week ending March 30",
-    "published": 1712148240,
-    "posting_price": 35.98416214,
-    "close_price": 35.89545822,
-    "percent_change": -0.24650823
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Industrial Goods Stocks: CSX (CSX), AeroVironment (AVAV) and Cargotec (OtherCYJBF)",
-    "published": 1712134260,
-    "posting_price": 35.98416214,
-    "close_price": 35.89545822,
-    "percent_change": -0.24650823
-  },
-  {
-    "title": "U.S. weekly rail traffic falls 3.2% year-over-year",
-    "published": 1712112480,
-    "posting_price": 35.98416214,
-    "close_price": 35.89545822,
-    "percent_change": -0.24650823
-  },
-  {
-    "title": "This railroad operator is most impacted by the Baltimore bridge collapse",
-    "published": 1712058420,
-    "posting_price": 36.18128162,
-    "close_price": 35.98416138,
-    "percent_change": -0.54481276
-  },
-  {
-    "title": "Norfolk Southern calls on shareholders to reject activist investor\u2019s takeover bid",
-    "published": 1712052360,
-    "posting_price": 36.18128162,
-    "close_price": 35.98416138,
-    "percent_change": -0.54481276
-  },
-  {
-    "title": "Stock Market Crash Alert: 3 Must-Buy Transportation Stocks When Prices Plunge",
-    "published": 1714471200,
-    "posting_price": 33.41174927,
-    "close_price": 32.74154282,
-    "percent_change": -2.00590051
-  },
-  {
-    "title": "North American rail traffic up 1.3% for the week ending April 20",
-    "published": 1713963540,
-    "posting_price": 33.93411853,
-    "close_price": 33.18506241,
-    "percent_change": -2.20738346
-  },
-  {
-    "title": "CSX Corp Becomes Oversold",
-    "published": 1713956700,
-    "posting_price": 33.93411853,
-    "close_price": 33.18506241,
-    "percent_change": -2.20738346
+    "title": "North American rail traffic up 0.5% for the week ending April 27",
+    "published": 1714652220,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 33.310001373291016,
+      "2024-05-02T14:30:00+00:00": 33.209999084472656,
+      "2024-05-02T15:30:00+00:00": 33.21500015258789,
+      "2024-05-02T16:30:00+00:00": 33.32500076293945,
+      "2024-05-02T17:30:00+00:00": 33.4900016784668,
+      "2024-05-02T18:30:00+00:00": 33.584999084472656,
+      "2024-05-02T19:30:00+00:00": 33.654998779296875
+    },
+    "sentiment": 0.9453231692314148
   },
   {
     "title": "CSX call volume above normal and directionally bullish",
-    "published": 1713955560,
-    "posting_price": 33.93411853,
-    "close_price": 33.18506241,
-    "percent_change": -2.20738346
-  },
-  {
-    "title": "Transportation stocks sink, with industry ETF booking biggest drop since October",
-    "published": 1713938220,
-    "posting_price": 33.93411853,
-    "close_price": 33.18506241,
-    "percent_change": -2.20738346
-  },
-  {
-    "title": "U.S. weekly rail traffic rises 0.8% year-over-year",
-    "published": 1713925740,
-    "posting_price": 33.93411853,
-    "close_price": 33.18506241,
-    "percent_change": -2.20738346
-  },
-  {
-    "title": "CSX First Quarter 2024 Earnings: EPS Beats Expectations",
-    "published": 1713868293,
-    "posting_price": 34.121382,
-    "close_price": 34.219944,
-    "percent_change": 0.288857
-  },
-  {
-    "title": "CSX Announces 2024 Customer Environmental  Excellence Award Winners",
-    "published": 1713808800,
-    "posting_price": 34.07210074,
-    "close_price": 34.12137985,
-    "percent_change": 0.14463185
-  },
-  {
-    "title": "CSX Announces 2024 Customer Environmental Excellence Award Winners",
-    "published": 1713794412,
-    "posting_price": 34.07210074,
-    "close_price": 34.12137985,
-    "percent_change": 0.14463185
-  },
-  {
-    "title": "Recent CSX weakness offers buying opportunity, says Argus",
-    "published": 1713773640,
-    "posting_price": 34.07210074,
-    "close_price": 34.12137985,
-    "percent_change": 0.14463185
-  },
-  {
-    "title": "How Is The Market Feeling About CSX?",
-    "published": 1713749580,
-    "posting_price": 34.07210074,
-    "close_price": 34.12137985,
-    "percent_change": 0.14463185
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: CSX (CSX), EasyJet (OtherEJTTF) and Generac Holdings (GNRC)",
-    "published": 1713749460,
-    "posting_price": 34.07210074,
-    "close_price": 34.12137985,
-    "percent_change": 0.14463185
-  },
-  {
-    "title": "This trader\u2019s \u2018core\u2019 bullish position washes out as major S&P 500 supports break down",
-    "published": 1713598260,
-    "posting_price": 34.07210074,
-    "close_price": 34.12137985,
-    "percent_change": 0.14463185
-  },
-  {
-    "title": "CSX Corporation (NASDAQ:CSX) Q1 2024 Earnings Call Transcript",
-    "published": 1713542987,
-    "posting_price": 33.95383335,
-    "close_price": 33.84541702,
-    "percent_change": -0.31930512
-  },
-  {
-    "title": "CSX Corporation (NASDAQ:CSX) First-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year",
-    "published": 1713523034,
-    "posting_price": 33.95383335,
-    "close_price": 33.84541702,
-    "percent_change": -0.31930512
-  },
-  {
-    "title": "Decoding CSX Corp (CSX): A Strategic SWOT Insight",
-    "published": 1713503025,
-    "posting_price": 33.95383335,
-    "close_price": 33.84541702,
-    "percent_change": -0.31930512
-  },
-  {
-    "title": "10% Annual Returns? How CSX Stock Can Supercharge Your Portfolio",
-    "published": 1713499691,
-    "posting_price": 33.95383335,
-    "close_price": 33.84541702,
-    "percent_change": -0.31930512
-  },
-  {
-    "title": "CSX: Volume Trending In The Right Direction",
-    "published": 1713479771,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX Q1 Earnings & Revenues Surpass Estimates, Down Y/Y",
-    "published": 1713454680,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Q1 2024 CSX Corp Earnings Call",
-    "published": 1713446155,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX Earnings: Q1 Beat and Solid Guidance Lift Stock",
-    "published": 1713444720,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Ally Financial, CSX rise; Equifax, Synovus Financial fall, Thursday, 4/18/2024",
-    "published": 1713442620,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX's Guidance Remains Intact Despite Disruptions: Analysts Weigh In On Q1 Results, Outlook",
-    "published": 1713441180,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX Corporation Stock Chugs Along, Great For Trading, Sideways Investment The Last Few Years",
-    "published": 1713438058,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "No green shoots ahead for transportation sector - analyst",
-    "published": 1713429600,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX \u2018solid and steady\u2019 despite Baltimore bridge collapse, say analysts",
-    "published": 1713429480,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX price target lowered by $1 at Raymond James, here's why",
-    "published": 1713427500,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX price target lowered by $1 at RBC Capital, here's why",
-    "published": 1713426960,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX Corp (CSX) Q1 2024 Earnings Call Transcript Highlights: Navigating Market Challenges with ...",
-    "published": 1713423825,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Analysts Are Bullish on Top Industrial Goods Stocks: Transcat (TRNS), Equifax (EFX)",
-    "published": 1713422460,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Buy Rating Reaffirmed for CSX Amid Operational Excellence and Strong Project Pipeline",
-    "published": 1713421020,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: CSX (CSX) and Forward Air (FWRD)",
-    "published": 1713420660,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Analysts Conflicted on These Industrial Goods Names: CSX (CSX) and United Airlines Holdings (UAL)",
-    "published": 1713418920,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX price target lowered by $2 at UBS, here's why",
-    "published": 1713418200,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX price target lowered by $1 at BofA, here's why",
-    "published": 1713418020,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Analysts Offer Insights on Industrial Goods Companies: CSX (CSX) and EasyJet (OtherEJTTF)",
-    "published": 1713416580,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "Barclays Keeps Their Buy Rating on CSX (CSX)",
-    "published": 1713414420,
-    "posting_price": 34.24951096,
-    "close_price": 33.89469528,
-    "percent_change": -1.03597298
-  },
-  {
-    "title": "CSX Corp (CSX) Q1 2024 Earnings: Aligns with EPS Projections Amidst Revenue Challenges",
-    "published": 1713389497,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Corporation (CSX) Q1 2024 Earnings Call Transcript",
-    "published": 1713387924,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Corporation 2024 Q1 - Results - Earnings Call Presentation",
-    "published": 1713387881,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Revenue, Profit Fall Despite Rising Freight Volumes",
-    "published": 1713387300,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX says Baltimore port closures will cost it up to $30 million in monthly sales following bridge collapse",
-    "published": 1713387120,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX profit drops 10% despite railroad delivering 3% more freight in first quarter",
-    "published": 1713386780,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Corp. Announces First Quarter 2024 Results",
-    "published": 1713384060,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Stocks on the move early Thursday",
-    "published": 1713380503,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Sees Robust Export Coal Demand -- Commodity Comment",
-    "published": 1713374003,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "TOP NEWS: CSX first quarter earnings knocked by lower operating margin",
-    "published": 1713371880,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX 1Q Revenue Drops on Lower Fuel Surcharge While Volumes Rise",
-    "published": 1713371664,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX: Q1 Earnings Snapshot",
-    "published": 1713370212,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Will the Baltimore Bridge collapse weigh on CSX\u2019s earnings?",
-    "published": 1713358980,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX options imply 3.5% move in share price post-earnings",
-    "published": 1713358200,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "North American rail traffic up 1.4% for the week ending  April 13",
-    "published": 1713356580,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "5 Giants Likely to Win Big on Earnings Results This Week",
-    "published": 1713353220,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Stock Earnings: CSX Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713347820,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Market Slips Again As Q1 Earnings Roll On",
-    "published": 1713346200,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Corp. Outperforms with Strong Q1 Earnings and Operating Efficiency, Securing Buy Rating Amidst Transportation Sector Fluctuations",
-    "published": 1713339960,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Wall Street Poised To Rebound From Slump As Earnings Optimism Grows: Analyst Eyes This S&P 500 Level As Attractive Entry Point",
-    "published": 1713334260,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves Today, April 17, 2024",
-    "published": 1713333960,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Fly Intel: After-Hours Movers",
-    "published": 1713331740,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Companies reporting earnings on Wednesday",
-    "published": 1713291775,
-    "posting_price": 34.74230967,
-    "close_price": 34.33821487,
-    "percent_change": -1.16312014
-  },
-  {
-    "title": "Tommy Tuberville Trades Raise Eyebrows Again: Senator Sells Put Options, Buys Small Biotech Linked To Ukraine-Russia War",
-    "published": 1713330540,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Earnings Scheduled For April 17, 2024",
-    "published": 1713327300,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX shares climb after Q1 results top expectations",
-    "published": 1713326880,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX shares climb after-hours as Q1 results top expectations",
-    "published": 1713326220,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX first-quarter profit declines but beats expectations",
-    "published": 1713325680,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Corp. stock underperforms Wednesday when compared to competitors",
-    "published": 1713325680,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX GAAP EPS of $0.46 beats by $0.01, revenue of $3.68B beats by $10M",
-    "published": 1713323340,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX reports Q1 EPS 46c, consensus 45c",
-    "published": 1713322980,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "U.S. weekly rail traffic rises 1.5% year-over-year",
-    "published": 1713322320,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "Stocks Fall As Geopolitics, Economic Worries Spook Investors, Chipmakers Sell Off, Bitcoin Tumbles To $60,000: What's Driving Markets Wednesday?",
-    "published": 1713316440,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "GLOBAL BRIEFING: Demand from China, US drives Japan's exports higher",
-    "published": 1713313980,
-    "posting_price": 34.24950951,
-    "close_price": 33.6680069,
-    "percent_change": -1.69784215
-  },
-  {
-    "title": "CSX Unveils Its First Hydrogen-Powered Locomotive in Collaboration with CPKC",
-    "published": 1713291360,
-    "posting_price": 34.74230967,
-    "close_price": 34.33821487,
-    "percent_change": -1.16312014
-  },
-  {
-    "title": "Is a Surprise Coming for CSX This Earnings Season?",
-    "published": 1713271080,
-    "posting_price": 34.74230967,
-    "close_price": 34.33821487,
-    "percent_change": -1.16312014
-  },
-  {
-    "title": "Notable earnings after Wednesday's close",
-    "published": 1713242340,
-    "posting_price": 34.74230967,
-    "close_price": 34.33821487,
-    "percent_change": -1.16312014
-  },
-  {
-    "title": "CSX Q1 2024 Earnings Preview",
-    "published": 1713242340,
-    "posting_price": 34.74230967,
-    "close_price": 34.33821487,
-    "percent_change": -1.16312014
+    "published": 1714557900,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 33.19929885864258,
+      "2024-05-01T14:30:00+00:00": 33.10499954223633,
+      "2024-05-01T15:30:00+00:00": 33.18000030517578,
+      "2024-05-01T16:30:00+00:00": 33.25,
+      "2024-05-01T17:30:00+00:00": 33.349998474121094,
+      "2024-05-01T18:30:00+00:00": 33.349998474121094,
+      "2024-05-01T19:30:00+00:00": 33.459999084472656
+    },
+    "sentiment": 0.9210032224655151
+  },
+  {
+    "title": "Baltimore Coal Shipments Resume, Ahead of Schedule -- OPIS",
+    "published": 1715778378,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 34.16999816894531,
+      "2024-05-15T14:30:00+00:00": 34.125,
+      "2024-05-15T15:30:00+00:00": 34.14500045776367,
+      "2024-05-15T16:30:00+00:00": 33.974998474121094,
+      "2024-05-15T17:30:00+00:00": 34.130001068115234,
+      "2024-05-15T18:30:00+00:00": 33.98500061035156,
+      "2024-05-15T19:30:00+00:00": 33.90999984741211
+    },
+    "sentiment": 0.9040626287460327
+  },
+  {
+    "title": "Baltimore coal shipments set to resume ahead of schedule - report",
+    "published": 1715748120,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 34.16999816894531,
+      "2024-05-15T14:30:00+00:00": 34.125,
+      "2024-05-15T15:30:00+00:00": 34.14500045776367,
+      "2024-05-15T16:30:00+00:00": 33.974998474121094,
+      "2024-05-15T17:30:00+00:00": 34.130001068115234,
+      "2024-05-15T18:30:00+00:00": 33.98500061035156,
+      "2024-05-15T19:30:00+00:00": 33.90999984741211
+    },
+    "sentiment": 0.8931844830513
+  },
+  {
+    "title": "John's March 2024 Income Update: Reducing Bank Exposure",
+    "published": 1715590800,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 34.58000183105469,
+      "2024-05-13T14:30:00+00:00": 34.31999969482422,
+      "2024-05-13T15:30:00+00:00": 34.22999954223633,
+      "2024-05-13T16:30:00+00:00": 34.224998474121094,
+      "2024-05-13T17:30:00+00:00": 34.29499816894531,
+      "2024-05-13T18:30:00+00:00": 34.41999816894531,
+      "2024-05-13T19:30:00+00:00": 34.4900016784668
+    },
+    "sentiment": 0.6969292759895325
+  },
+  {
+    "title": "CSX Shareholders Elect Directors, Ratify Auditor, and Set Compensation",
+    "published": 1715345580,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 34.64500045776367,
+      "2024-05-10T14:30:00+00:00": 34.48500061035156,
+      "2024-05-10T15:30:00+00:00": 34.3650016784668,
+      "2024-05-10T16:30:00+00:00": 34.284000396728516,
+      "2024-05-10T17:30:00+00:00": 34.255001068115234,
+      "2024-05-10T18:30:00+00:00": 34.279998779296875,
+      "2024-05-10T19:30:00+00:00": 34.404998779296875
+    },
+    "sentiment": 0.9444010257720947
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds CSX",
+    "published": 1715253000,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 34.130001068115234,
+      "2024-05-09T14:30:00+00:00": 34.525001525878906,
+      "2024-05-09T15:30:00+00:00": 34.61000061035156,
+      "2024-05-09T16:30:00+00:00": 34.459999084472656,
+      "2024-05-09T17:30:00+00:00": 34.48500061035156,
+      "2024-05-09T18:30:00+00:00": 34.5,
+      "2024-05-09T19:30:00+00:00": 34.459999084472656
+    },
+    "sentiment": 0.9430621862411499
+  },
+  {
+    "title": "Anne Chow Elected to CSX Board of Directors",
+    "published": 1715189400,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 33.88999938964844,
+      "2024-05-08T14:30:00+00:00": 33.9900016784668,
+      "2024-05-08T15:30:00+00:00": 34.01499938964844,
+      "2024-05-08T16:30:00+00:00": 34.08000183105469,
+      "2024-05-08T17:30:00+00:00": 33.974998474121094,
+      "2024-05-08T18:30:00+00:00": 34.10139846801758,
+      "2024-05-08T19:30:00+00:00": 34.125
+    },
+    "sentiment": 0.9140850901603699
+  },
+  {
+    "title": "CSX declares $0.12 dividend",
+    "published": 1715142060,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 33.88999938964844,
+      "2024-05-08T14:30:00+00:00": 33.9900016784668,
+      "2024-05-08T15:30:00+00:00": 34.01499938964844,
+      "2024-05-08T16:30:00+00:00": 34.08000183105469,
+      "2024-05-08T17:30:00+00:00": 33.974998474121094,
+      "2024-05-08T18:30:00+00:00": 34.10139846801758,
+      "2024-05-08T19:30:00+00:00": 34.125
+    },
+    "sentiment": 0.8395150899887085
+  },
+  {
+    "title": "CSX Honors 53 Customers with 30th Annual Chemical Safety Excellence Award",
+    "published": 1716469207,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 34.06999969482422,
+      "2024-05-23T14:30:00+00:00": 33.81999969482422,
+      "2024-05-23T15:30:00+00:00": 33.775001525878906,
+      "2024-05-23T16:30:00+00:00": 33.845001220703125,
+      "2024-05-23T17:30:00+00:00": 33.650001525878906,
+      "2024-05-23T18:30:00+00:00": 33.529998779296875,
+      "2024-05-23T19:30:00+00:00": 33.494998931884766
+    },
+    "sentiment": 0.915345311164856
+  },
+  {
+    "title": "CSX Crosses Above Key Moving Average Level",
+    "published": 1716373440,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 33.11000061035156,
+      "2024-05-22T14:30:00+00:00": 33.47999954223633,
+      "2024-05-22T15:30:00+00:00": 33.650001525878906,
+      "2024-05-22T16:30:00+00:00": 33.73379898071289,
+      "2024-05-22T17:30:00+00:00": 33.744998931884766,
+      "2024-05-22T18:30:00+00:00": 33.685001373291016,
+      "2024-05-22T19:30:00+00:00": 33.95000076293945
+    },
+    "sentiment": 0.9274107217788696
+  },
+  {
+    "title": "North American rail traffic up 1.6% for the week ending May 18",
+    "published": 1716339720,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 33.11000061035156,
+      "2024-05-22T14:30:00+00:00": 33.47999954223633,
+      "2024-05-22T15:30:00+00:00": 33.650001525878906,
+      "2024-05-22T16:30:00+00:00": 33.73379898071289,
+      "2024-05-22T17:30:00+00:00": 33.744998931884766,
+      "2024-05-22T18:30:00+00:00": 33.685001373291016,
+      "2024-05-22T19:30:00+00:00": 33.95000076293945
+    },
+    "sentiment": 0.9472249150276184
+  },
+  {
+    "title": "3 Surging Dividends to Profit From \u201cIndustrial Revolution II\u201d",
+    "published": 1716285600,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 33.349998474121094,
+      "2024-05-21T14:30:00+00:00": 33.0,
+      "2024-05-21T15:30:00+00:00": 33.05500030517578,
+      "2024-05-21T16:30:00+00:00": 33.04499816894531,
+      "2024-05-21T17:30:00+00:00": 33.02000045776367,
+      "2024-05-21T18:30:00+00:00": 33.04499816894531,
+      "2024-05-21T19:30:00+00:00": 33.04499816894531
+    },
+    "sentiment": 0.7683430910110474
+  },
+  {
+    "title": "CSX and Wounded Warrior Project Honored with 2024 Gold Halo Award for Best Employee Engagement Initiative",
+    "published": 1715960700,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 33.91999816894531,
+      "2024-05-17T14:30:00+00:00": 33.744998931884766,
+      "2024-05-17T15:30:00+00:00": 33.6349983215332,
+      "2024-05-17T16:30:00+00:00": 33.584999084472656,
+      "2024-05-17T17:30:00+00:00": 33.665000915527344,
+      "2024-05-17T18:30:00+00:00": 33.625,
+      "2024-05-17T19:30:00+00:00": 33.599998474121094
+    },
+    "sentiment": 0.8832964301109314
+  },
+  {
+    "title": "CSX Named One of America\u2019s 2024 Climate Leaders by USA TODAY",
+    "published": 1717077900,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 33.2400016784668,
+      "2024-05-30T14:30:00+00:00": 33.3849983215332,
+      "2024-05-30T15:30:00+00:00": 33.5,
+      "2024-05-30T16:30:00+00:00": 33.44499969482422,
+      "2024-05-30T17:30:00+00:00": 33.39500045776367,
+      "2024-05-30T18:30:00+00:00": 33.334999084472656,
+      "2024-05-30T19:30:00+00:00": 33.3849983215332
+    },
+    "sentiment": 0.746498703956604
+  },
+  {
+    "title": "See How CSX Ranks Among Analysts' Top Picks With Strong Buyback Activity",
+    "published": 1716985200,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 33.21200180053711,
+      "2024-05-29T14:30:00+00:00": 33.27939987182617,
+      "2024-05-29T15:30:00+00:00": 33.470001220703125,
+      "2024-05-29T16:30:00+00:00": 33.40999984741211,
+      "2024-05-29T17:30:00+00:00": 33.42499923706055,
+      "2024-05-29T18:30:00+00:00": 33.310001373291016,
+      "2024-05-29T19:30:00+00:00": 33.345001220703125
+    },
+    "sentiment": 0.6785916090011597
+  },
+  {
+    "title": "U.S. weekly rail traffic rises 1.2% year-over-year",
+    "published": 1716958920,
+    "day_prices": {
+      "2024-05-29T13:30:00+00:00": 33.21200180053711,
+      "2024-05-29T14:30:00+00:00": 33.27939987182617,
+      "2024-05-29T15:30:00+00:00": 33.470001220703125,
+      "2024-05-29T16:30:00+00:00": 33.40999984741211,
+      "2024-05-29T17:30:00+00:00": 33.42499923706055,
+      "2024-05-29T18:30:00+00:00": 33.310001373291016,
+      "2024-05-29T19:30:00+00:00": 33.345001220703125
+    },
+    "sentiment": 0.938407838344574
+  },
+  {
+    "title": "CleanSpace Director\u2019s Spouse Boosts Shareholding",
+    "published": 1716861840,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 33.7599983215332,
+      "2024-05-28T14:30:00+00:00": 33.66999816894531,
+      "2024-05-28T15:30:00+00:00": 33.720001220703125,
+      "2024-05-28T16:30:00+00:00": 33.7400016784668,
+      "2024-05-28T17:30:00+00:00": 33.625,
+      "2024-05-28T18:30:00+00:00": 33.505001068115234,
+      "2024-05-28T19:30:00+00:00": 33.494998931884766
+    },
+    "sentiment": 0.8144267201423645
+  },
+  {
+    "title": "Stocks are holding their own at these levels",
+    "published": 1716577320,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 33.59000015258789,
+      "2024-05-24T14:30:00+00:00": 33.6349983215332,
+      "2024-05-24T15:30:00+00:00": 33.68000030517578,
+      "2024-05-24T16:30:00+00:00": 33.744998931884766,
+      "2024-05-24T17:30:00+00:00": 33.67499923706055,
+      "2024-05-24T18:30:00+00:00": 33.724998474121094,
+      "2024-05-24T19:30:00+00:00": 33.744998931884766
+    },
+    "sentiment": 0.5134303569793701
   }
 ]

@@ -1,303 +1,238 @@
 [
   {
-    "title": "Kirby-Smith Machinery Becomes First Trimble Technology Outlet in The U.S.",
-    "published": 1742812200,
-    "posting_price": 72.0,
-    "close_price": 72.06999969,
-    "percent_change": 0.09722179
+    "title": "Trimble Announces 2024 B2W Customer Innovation Award Winners",
+    "published": 1715077800,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 56.58000183105469,
+      "2024-05-07T14:30:00+00:00": 57.150001525878906,
+      "2024-05-07T15:30:00+00:00": 58.005001068115234,
+      "2024-05-07T16:30:00+00:00": 57.7599983215332,
+      "2024-05-07T17:30:00+00:00": 57.540000915527344,
+      "2024-05-07T18:30:00+00:00": 57.220001220703125,
+      "2024-05-07T19:30:00+00:00": 57.20000076293945
+    },
+    "sentiment": 0.6618618369102478
   },
   {
-    "title": "Trimble (TRMB) Down 3.5% Since Last Earnings Report: Can It Rebound?",
-    "published": 1742571033,
-    "posting_price": 69.94000244,
-    "close_price": 70.54000092,
-    "percent_change": 0.85787598
+    "title": "Trimble First Quarter 2024 Earnings: Revenues Beat Expectations, EPS Lags",
+    "published": 1714992006,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 56.83000183105469,
+      "2024-05-06T14:30:00+00:00": 55.54999923706055,
+      "2024-05-06T15:30:00+00:00": 55.650001525878906,
+      "2024-05-06T16:30:00+00:00": 55.935001373291016,
+      "2024-05-06T17:30:00+00:00": 56.0099983215332,
+      "2024-05-06T18:30:00+00:00": 56.0,
+      "2024-05-06T19:30:00+00:00": 55.95000076293945
+    },
+    "sentiment": 0.664339542388916
   },
   {
-    "title": "Tekla BIM software updates help streamline design collaboration",
-    "published": 1741866982,
-    "posting_price": 67.04000092,
-    "close_price": 66.38999939,
-    "percent_change": -0.96957267
+    "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Phunware (PHUN), Trimble (TRMB) and Kenvue, Inc. (KVUE)",
+    "published": 1714980660,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 56.83000183105469,
+      "2024-05-06T14:30:00+00:00": 55.54999923706055,
+      "2024-05-06T15:30:00+00:00": 55.650001525878906,
+      "2024-05-06T16:30:00+00:00": 55.935001373291016,
+      "2024-05-06T17:30:00+00:00": 56.0099983215332,
+      "2024-05-06T18:30:00+00:00": 56.0,
+      "2024-05-06T19:30:00+00:00": 55.95000076293945
+    },
+    "sentiment": 0.9112783670425415
   },
   {
-    "title": "Trimble Streamlines Design Collaboration with 2025 Versions of Tekla Structural Design and Analysis Software",
-    "published": 1741775520,
-    "posting_price": 67.41999817,
-    "close_price": 67.36000061,
-    "percent_change": -0.08899075
+    "title": "Trimble Announces First Quarter 2024 Results",
+    "published": 1714978156,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 56.83000183105469,
+      "2024-05-06T14:30:00+00:00": 55.54999923706055,
+      "2024-05-06T15:30:00+00:00": 55.650001525878906,
+      "2024-05-06T16:30:00+00:00": 55.935001373291016,
+      "2024-05-06T17:30:00+00:00": 56.0099983215332,
+      "2024-05-06T18:30:00+00:00": 56.0,
+      "2024-05-06T19:30:00+00:00": 55.95000076293945
+    },
+    "sentiment": 0.940840482711792
   },
   {
-    "title": "Tekla PowerFab 2025 Version Transforms Collaborative Workflows for Steel Detailers and Fabricators",
-    "published": 1741775460,
-    "posting_price": 67.41999817,
-    "close_price": 67.36000061,
-    "percent_change": -0.08899075
+    "title": "Trimble Inc. (NASDAQ:TRMB) Q1 2024 Earnings Call Transcript",
+    "published": 1714829177,
+    "day_prices": {},
+    "sentiment": 0.9306538105010986
   },
   {
-    "title": "Trimble Expands Connected Workflows in Tekla Structures 2025",
-    "published": 1741775400,
-    "posting_price": 67.41999817,
-    "close_price": 67.36000061,
-    "percent_change": -0.08899075
+    "title": "Q1 2024 Trimble Inc Earnings Call",
+    "published": 1714796442,
+    "day_prices": {},
+    "sentiment": 0.8053246736526489
   },
   {
-    "title": "Trimble, Xona Space Systems Collaborate to Provide Improved Satellite, Navigation Services",
-    "published": 1741705030,
-    "posting_price": 66.79000092,
-    "close_price": 66.48999786,
-    "percent_change": -0.44917361
+    "title": "Trimble Inc. (TRMB) Q1 2024 Earnings Call Transcript",
+    "published": 1714740329,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.09000015258789,
+      "2024-05-03T14:30:00+00:00": 56.58000183105469,
+      "2024-05-03T15:30:00+00:00": 56.80500030517578,
+      "2024-05-03T16:30:00+00:00": 56.540000915527344,
+      "2024-05-03T17:30:00+00:00": 56.5099983215332,
+      "2024-05-03T18:30:00+00:00": 56.290000915527344,
+      "2024-05-03T19:30:00+00:00": 55.72999954223633
+    },
+    "sentiment": 0.9234583377838135
   },
   {
-    "title": "Trimble and Daimler Truck North America Modernize Truck Maintenance with New Integration Simplifying Repairs",
-    "published": 1741692660,
-    "posting_price": 66.79000092,
-    "close_price": 66.48999786,
-    "percent_change": -0.44917361
+    "title": "Trimble Navigation (TRMB) Q1 Earnings and Revenues Surpass Estimates",
+    "published": 1714737903,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.09000015258789,
+      "2024-05-03T14:30:00+00:00": 56.58000183105469,
+      "2024-05-03T15:30:00+00:00": 56.80500030517578,
+      "2024-05-03T16:30:00+00:00": 56.540000915527344,
+      "2024-05-03T17:30:00+00:00": 56.5099983215332,
+      "2024-05-03T18:30:00+00:00": 56.290000915527344,
+      "2024-05-03T19:30:00+00:00": 55.72999954223633
+    },
+    "sentiment": 0.8352406024932861
   },
   {
-    "title": "Xona Space Systems Announces Collaboration with Trimble to Deliver Next-Gen Navigation Services",
-    "published": 1741689000,
-    "posting_price": 66.79000092,
-    "close_price": 66.48999786,
-    "percent_change": -0.44917361
+    "title": "Trimble sees FY24 EPS $2.60-$2.80, consensus $2.73",
+    "published": 1714717080,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.09000015258789,
+      "2024-05-03T14:30:00+00:00": 56.58000183105469,
+      "2024-05-03T15:30:00+00:00": 56.80500030517578,
+      "2024-05-03T16:30:00+00:00": 56.540000915527344,
+      "2024-05-03T17:30:00+00:00": 56.5099983215332,
+      "2024-05-03T18:30:00+00:00": 56.290000915527344,
+      "2024-05-03T19:30:00+00:00": 55.72999954223633
+    },
+    "sentiment": 0.4319957196712494
   },
   {
-    "title": "Trimble Announces SMS Equipment As First Trimble Technology Outlet Globally",
-    "published": 1741602600,
-    "posting_price": 68.08000183,
-    "close_price": 66.51000214,
-    "percent_change": -2.30610994
+    "title": "Trimble reports Q1 EPS 64c, consensus 62c",
+    "published": 1714716900,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.09000015258789,
+      "2024-05-03T14:30:00+00:00": 56.58000183105469,
+      "2024-05-03T15:30:00+00:00": 56.80500030517578,
+      "2024-05-03T16:30:00+00:00": 56.540000915527344,
+      "2024-05-03T17:30:00+00:00": 56.5099983215332,
+      "2024-05-03T18:30:00+00:00": 56.290000915527344,
+      "2024-05-03T19:30:00+00:00": 55.72999954223633
+    },
+    "sentiment": 0.873457133769989
   },
   {
-    "title": "Looking for Sneaky Growth? These 2 Stocks Are Low-Key Buys for 2025.",
-    "published": 1741186380,
-    "posting_price": 68.27999878,
-    "close_price": 69.48999786,
-    "percent_change": 1.77211351
+    "title": "Q1 2024 AGCO Corp Earnings Call",
+    "published": 1714712560,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 60.09000015258789,
+      "2024-05-03T14:30:00+00:00": 56.58000183105469,
+      "2024-05-03T15:30:00+00:00": 56.80500030517578,
+      "2024-05-03T16:30:00+00:00": 56.540000915527344,
+      "2024-05-03T17:30:00+00:00": 56.5099983215332,
+      "2024-05-03T18:30:00+00:00": 56.290000915527344,
+      "2024-05-03T19:30:00+00:00": 55.72999954223633
+    },
+    "sentiment": 0.7831416130065918
   },
   {
-    "title": "SmartRent (SMRT) Reports Earnings Tomorrow: What To Expect",
-    "published": 1741093524,
-    "posting_price": 68.98000336,
-    "close_price": 68.44999695,
-    "percent_change": -0.7683479
+    "title": "Trimble acquires construction billing software company Flashtract",
+    "published": 1715241701,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 56.54999923706055,
+      "2024-05-09T14:30:00+00:00": 56.79999923706055,
+      "2024-05-09T15:30:00+00:00": 56.849098205566406,
+      "2024-05-09T16:30:00+00:00": 56.849998474121094,
+      "2024-05-09T17:30:00+00:00": 56.689998626708984,
+      "2024-05-09T18:30:00+00:00": 56.88999938964844,
+      "2024-05-09T19:30:00+00:00": 56.79999923706055
+    },
+    "sentiment": 0.9268795847892761
   },
   {
-    "title": "Trimble (NasdaqGS:TRMB) Partners With STMicroelectronics For High-Precision GNSS Solutions",
-    "published": 1741022524,
-    "posting_price": 72.51000214,
-    "close_price": 69.68000031,
-    "percent_change": -3.90291235
+    "title": "Trimble: On Position Again, Supported By Some Real Green Shoots",
+    "published": 1715188045,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 56.54999923706055,
+      "2024-05-08T14:30:00+00:00": 55.84000015258789,
+      "2024-05-08T15:30:00+00:00": 56.1150016784668,
+      "2024-05-08T16:30:00+00:00": 56.25,
+      "2024-05-08T17:30:00+00:00": 56.040000915527344,
+      "2024-05-08T18:30:00+00:00": 56.150001525878906,
+      "2024-05-08T19:30:00+00:00": 56.31999969482422
+    },
+    "sentiment": 0.9288219213485718
   },
   {
-    "title": "Trimble Works with STMicroelectronics to Deliver Precise Positioning Solution for the Automotive and IoT Industries",
-    "published": 1741001460,
-    "posting_price": 72.51000214,
-    "close_price": 69.68000031,
-    "percent_change": -3.90291235
+    "title": "Trimble Acquires Flashtract, Adding Construction Payment and Subcontractor Compliance Technology to Minimize Risk and Improve Efficiency for Contractors",
+    "published": 1715164200,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 56.54999923706055,
+      "2024-05-08T14:30:00+00:00": 55.84000015258789,
+      "2024-05-08T15:30:00+00:00": 56.1150016784668,
+      "2024-05-08T16:30:00+00:00": 56.25,
+      "2024-05-08T17:30:00+00:00": 56.040000915527344,
+      "2024-05-08T18:30:00+00:00": 56.150001525878906,
+      "2024-05-08T19:30:00+00:00": 56.31999969482422
+    },
+    "sentiment": 0.8937957882881165
   },
   {
-    "title": "Internet of Things Stocks Q4 Highlights: Trimble (NASDAQ:TRMB)",
-    "published": 1740733285,
-    "posting_price": 70.84999847,
-    "close_price": 71.98000336,
-    "percent_change": 1.59492578
+    "title": "Trimble acquires Flashtract, terms undisclosed",
+    "published": 1715148420,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 56.54999923706055,
+      "2024-05-08T14:30:00+00:00": 55.84000015258789,
+      "2024-05-08T15:30:00+00:00": 56.1150016784668,
+      "2024-05-08T16:30:00+00:00": 56.25,
+      "2024-05-08T17:30:00+00:00": 56.040000915527344,
+      "2024-05-08T18:30:00+00:00": 56.150001525878906,
+      "2024-05-08T19:30:00+00:00": 56.31999969482422
+    },
+    "sentiment": 0.9553822875022888
   },
   {
-    "title": "Internet of Things Stocks Q4 Recap: Benchmarking Vontier (NYSE:VNT)",
-    "published": 1740733281,
-    "posting_price": 70.84999847,
-    "close_price": 71.98000336,
-    "percent_change": 1.59492578
+    "title": "Trimble Strives to Rectify Nasdaq Compliance Delay",
+    "published": 1715946180,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 57.68000030517578,
+      "2024-05-17T14:30:00+00:00": 56.880001068115234,
+      "2024-05-17T15:30:00+00:00": 56.73500061035156,
+      "2024-05-17T16:30:00+00:00": 56.75,
+      "2024-05-17T17:30:00+00:00": 56.50019836425781,
+      "2024-05-17T18:30:00+00:00": 56.619998931884766,
+      "2024-05-17T19:30:00+00:00": 56.88199996948242
+    },
+    "sentiment": 0.9080976247787476
   },
   {
-    "title": "Internet of Things Stocks Q4 Results: Benchmarking Emerson Electric (NYSE:EMR)",
-    "published": 1740646963,
-    "posting_price": 71.34999847,
-    "close_price": 70.68000031,
-    "percent_change": -0.93903038
+    "title": "Time to Buy This Cathie Wood Tech Stock on a Dip",
+    "published": 1715934060,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 57.68000030517578,
+      "2024-05-17T14:30:00+00:00": 56.880001068115234,
+      "2024-05-17T15:30:00+00:00": 56.73500061035156,
+      "2024-05-17T16:30:00+00:00": 56.75,
+      "2024-05-17T17:30:00+00:00": 56.50019836425781,
+      "2024-05-17T18:30:00+00:00": 56.619998931884766,
+      "2024-05-17T19:30:00+00:00": 56.88199996948242
+    },
+    "sentiment": 0.7820923328399658
   },
   {
-    "title": "Winners And Losers Of Q4: AMETEK (NYSE:AME) Vs The Rest Of The Internet of Things Stocks",
-    "published": 1740646933,
-    "posting_price": 71.34999847,
-    "close_price": 70.68000031,
-    "percent_change": -0.93903038
-  },
-  {
-    "title": "Trimble Inc.'s (NASDAQ:TRMB) Financials Are Too Obscure To Link With Current Share Price Momentum: What's In Store For the Stock?",
-    "published": 1713175854,
-    "posting_price": 61.13999939,
-    "close_price": 59.40999985,
-    "percent_change": -2.82957075
-  },
-  {
-    "title": "Analysts Are Bullish on Top Technology Stocks: Trimble (TRMB), Bitdeer Technologies (BTDR)",
-    "published": 1713161460,
-    "posting_price": 61.13999939,
-    "close_price": 59.40999985,
-    "percent_change": -2.82957075
-  },
-  {
-    "title": "Trimble Announces New Reporting Segments",
-    "published": 1712946600,
-    "posting_price": 61.36000061,
-    "close_price": 60.54000092,
-    "percent_change": -1.33637497
-  },
-  {
-    "title": "Best Buy, Box And 2 Other Stocks Insiders Are Selling",
-    "published": 1712905740,
-    "posting_price": 61.36000061,
-    "close_price": 60.54000092,
-    "percent_change": -1.33637497
-  },
-  {
-    "title": "Trimble announces new financial reporting segments",
-    "published": 1712885520,
-    "posting_price": 61.36000061,
-    "close_price": 60.54000092,
-    "percent_change": -1.33637497
-  },
-  {
-    "title": "AGCO Announces PTx Launch to Boost Technology Transformation",
-    "published": 1712851620,
-    "posting_price": 61.77999878,
-    "close_price": 62.02999878,
-    "percent_change": 0.40466171
-  },
-  {
-    "title": "Transporeon and MODE Global Announce Collaboration for Autonomous Capacity Management",
-    "published": 1712836800,
-    "posting_price": 61.77999878,
-    "close_price": 62.02999878,
-    "percent_change": 0.40466171
-  },
-  {
-    "title": "How Agco aims to help farmers save money through retrofitting",
-    "published": 1712784292,
-    "posting_price": 61.52999878,
-    "close_price": 61.52000046,
-    "percent_change": -0.0162495
-  },
-  {
-    "title": "TRMB Crosses Above Average Analyst Target",
-    "published": 1712650800,
-    "posting_price": 62.5,
-    "close_price": 62.97000122,
-    "percent_change": 0.75200195
-  },
-  {
-    "title": "Rerouting trucks and ships away from Baltimore: What early data shows",
-    "published": 1712586335,
-    "posting_price": 61.77999878,
-    "close_price": 62.18000031,
-    "percent_change": 0.64746121
-  },
-  {
-    "title": "Procore Technologies: A Promising Founder-Led Company With Large Opportunity",
-    "published": 1712379768,
-    "posting_price": 61.77999878,
-    "close_price": 62.18000031,
-    "percent_change": 0.64746121
-  },
-  {
-    "title": "Trimble Clears $1 Billion Debt, Signaling Strong Fiscal Health",
-    "published": 1712121180,
-    "posting_price": 62.45999908,
-    "close_price": 62.34999847,
-    "percent_change": -0.17611369
-  },
-  {
-    "title": "AGCO Corp (AGCO) & Trimble Close JV to Form PTx Trimble",
-    "published": 1712071200,
-    "posting_price": 62.79000092,
-    "close_price": 62.83000183,
-    "percent_change": 0.06370586
-  },
-  {
-    "title": "What Analysts Are Saying About Trimble Stock",
-    "published": 1712041500,
-    "posting_price": 62.79000092,
-    "close_price": 62.83000183,
-    "percent_change": 0.06370586
-  },
-  {
-    "title": "Stay Ahead of the Game With Trimble (TRMB) Q1 Earnings: Wall Street's Insights on Key Metrics",
-    "published": 1714482922,
-    "posting_price": 60.22999954,
-    "close_price": 60.06999969,
-    "percent_change": -0.2656481
-  },
-  {
-    "title": "15 Fastest Growing Cities in California",
-    "published": 1714418181,
-    "posting_price": 60.13999939,
-    "close_price": 60.66999817,
-    "percent_change": 0.881275
-  },
-  {
-    "title": "Transporeon's Latest Report Reveals Shipper and Carrier Perspectives on the Decarbonization of Road Freight in 2024",
-    "published": 1714386600,
-    "posting_price": 60.13999939,
-    "close_price": 60.66999817,
-    "percent_change": 0.881275
-  },
-  {
-    "title": "10 Cathie Wood Stocks Insiders are Selling",
-    "published": 1714170755,
-    "posting_price": 59.43000031,
-    "close_price": 60.15000153,
-    "percent_change": 1.21151139
-  },
-  {
-    "title": "Michael Kornhauser talks need for commercial vehicle navigation",
-    "published": 1713985868,
-    "posting_price": 59.52999878,
-    "close_price": 59.50999832,
-    "percent_change": -0.03359728
-  },
-  {
-    "title": "TipRanks\u2019 \u2018Perfect 10\u2019 List: Unlocking 2 Top-Scoring Stocks Amidst Market Uncertainty",
-    "published": 1713968340,
-    "posting_price": 59.52999878,
-    "close_price": 59.50999832,
-    "percent_change": -0.03359728
-  },
-  {
-    "title": "Trimble First Quarter 2024 Earnings Call and Webcast",
-    "published": 1713768968,
-    "posting_price": 58.77999878,
-    "close_price": 58.93999863,
-    "percent_change": 0.27220118
-  },
-  {
-    "title": "65 Graham Value Stocks: 54 Fit To Buy For April",
-    "published": 1713699231,
-    "posting_price": 58.77999878,
-    "close_price": 58.93999863,
-    "percent_change": 0.27220118
-  },
-  {
-    "title": "First Week of June 21st Options Trading For Trimble (TRMB)",
-    "published": 1713520440,
-    "posting_price": 58.04000092,
-    "close_price": 57.97000122,
-    "percent_change": -0.12060596
-  },
-  {
-    "title": "Trimble (TRMB) Expands its Footprint Into Forestry With Holmen",
-    "published": 1713366240,
-    "posting_price": 59.43000031,
-    "close_price": 58.49000168,
-    "percent_change": -1.58169043
-  },
-  {
-    "title": "Holmen Selects Trimble's Connected Forest Management System",
-    "published": 1713263400,
-    "posting_price": 59.08000183,
-    "close_price": 58.91999817,
-    "percent_change": -0.27082541
+    "title": "Trimble Infinity Awards Honor 18 Organizations for Excellence in Capital Program and Infrastructure Asset Lifecycle Management",
+    "published": 1715867220,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 57.380001068115234,
+      "2024-05-16T14:30:00+00:00": 57.189998626708984,
+      "2024-05-16T15:30:00+00:00": 57.380001068115234,
+      "2024-05-16T16:30:00+00:00": 57.31999969482422,
+      "2024-05-16T17:30:00+00:00": 57.349998474121094,
+      "2024-05-16T18:30:00+00:00": 57.38999938964844,
+      "2024-05-16T19:30:00+00:00": 57.52000045776367
+    },
+    "sentiment": 0.6992228031158447
   }
 ]

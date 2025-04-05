@@ -1,527 +1,134 @@
 [
   {
-    "title": "Sherwin-Williams to Announce First Quarter 2024 Financial Results on April 23, 2024",
-    "published": 1713169043,
-    "posting_price": 319.38939399,
-    "close_price": 311.37615967,
-    "percent_change": -2.50892311
-  },
-  {
-    "title": "We Like Sherwin-Williams' (NYSE:SHW) Returns And Here's How They're Trending",
-    "published": 1713092435,
-    "posting_price": 319.38939399,
-    "close_price": 311.37615967,
-    "percent_change": -2.50892311
-  },
-  {
-    "title": "Is The Sherwin-Williams Company (NYSE:SHW) Expensive For A Reason? A Look At Its Intrinsic Value",
-    "published": 1712746814,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "SHW Crosses Above Average Analyst Target",
-    "published": 1712742960,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "Bank of America Securities Remains a Sell on Sherwin-Williams Company (SHW)",
-    "published": 1712741880,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "Linde downgraded at Citigroup on valuation",
-    "published": 1712741280,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "RBC Capital Reaffirms Their Buy Rating on Sherwin-Williams Company (SHW)",
-    "published": 1712738940,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "IFF upgraded at Citigroup on rising profit margin",
-    "published": 1712738520,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "Wells Fargo Reaffirms Their Hold Rating on Sherwin-Williams Company (SHW)",
-    "published": 1712737020,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "Sherwin-Williams price target raised by $30 at Citi, here's why",
-    "published": 1712725260,
-    "posting_price": 324.69521413,
-    "close_price": 318.5067749,
-    "percent_change": -1.90592253
-  },
-  {
-    "title": "Sherwin-Williams price target raised by $39 at RBC Capital, here's why",
-    "published": 1712647920,
-    "posting_price": 333.86875919,
-    "close_price": 331.78610229,
-    "percent_change": -0.62379508
-  },
-  {
-    "title": "The Weekly Closeout: Puma plots design space in LA, Bank of America downgrades Figs",
-    "published": 1712313480,
-    "posting_price": 328.33490458,
-    "close_price": 329.10845947,
-    "percent_change": 0.23559935
-  },
-  {
-    "title": "RPM International (RPM) Q3 Earnings and Revenues Surpass Estimates",
-    "published": 1712232003,
-    "posting_price": 334.85064324,
-    "close_price": 327.1348877,
-    "percent_change": -2.30423793
-  },
-  {
-    "title": "Sherwin-Williams subverts color of the year trend by picking \u2018loneliest\u2019 hue",
-    "published": 1712227620,
-    "posting_price": 334.85064324,
-    "close_price": 327.1348877,
-    "percent_change": -2.30423793
-  },
-  {
-    "title": "Why Sherwin-Williams (SHW) is a Top Momentum Stock for the Long-Term",
-    "published": 1712065811,
-    "posting_price": 332.06382704,
-    "close_price": 331.20101929,
-    "percent_change": -0.2598319
-  },
-  {
-    "title": "Here's How Much You Would Have Made Owning Sherwin-Williams Stock In The Last 15 Years",
-    "published": 1714448100,
-    "posting_price": 302.79761441,
-    "close_price": 297.13476562,
-    "percent_change": -1.87017616
-  },
-  {
-    "title": "Investing in Sherwin-Williams (NYSE:SHW) five years ago would have delivered you a 113% gain",
-    "published": 1714395613,
-    "posting_price": 304.96953084,
-    "close_price": 303.56124878,
-    "percent_change": -0.46177795
-  },
-  {
-    "title": "Zacks Value Investor Highlights: Berkshire Hathaway, Alphabet, Sherwin-Williams, Masco and Armstrong World",
-    "published": 1714384560,
-    "posting_price": 304.96953084,
-    "close_price": 303.56124878,
-    "percent_change": -0.46177795
-  },
-  {
-    "title": "Keybanc Upgrades Sherwin-Williams (SHW)",
-    "published": 1714052083,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "The Sherwin-Williams Company Earnings Missed Analyst Estimates: Here's What Analysts Are Forecasting Now",
-    "published": 1714042351,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "Sherwin-Williams upgraded at KeyBanc on valuation, volume growth",
-    "published": 1714040640,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "Sherwin-Williams price target lowered by $10 at RBC Capital, here's why",
-    "published": 1714030380,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "Analysts Are Bullish on Top Materials Stocks: Sherwin-Williams Company (SHW), West Fraser Timber Co (WFG)",
-    "published": 1714025040,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "Sherwin-Williams price target lowered by $20 at Citi, here's why",
-    "published": 1714023960,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "Sherwin-Williams upgraded to Overweight on recent selloff at KeyBanc",
-    "published": 1714019340,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "Analyst Upgrade Gives Sherwin-Williams (NYSE:SHW) a Small Boost",
-    "published": 1714014060,
-    "posting_price": 300.76455368,
-    "close_price": 302.2918396,
-    "percent_change": 0.50780117
-  },
-  {
-    "title": "The Sherwin-Williams Company (NYSE:SHW) Q1 2024 Earnings Call Transcript",
-    "published": 1713970331,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Here's Why Sherwin-Williams (SHW) is Poised for a Turnaround After Losing -11.59% in 4 Weeks",
-    "published": 1713965706,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams First Quarter 2024 Earnings: Misses Expectations",
-    "published": 1713955777,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Analysts Offer Insights on Materials Companies: Sherwin-Williams Company (SHW) and Steel Dynamics (STLD)",
-    "published": 1713947460,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams price target lowered by $8 at BMO Capital, here's why",
-    "published": 1713947160,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams Co (SHW) Q1 2024 Earnings Call Transcript Highlights: Robust Performance ...",
-    "published": 1713942794,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Q1 2024 Sherwin-Williams Co Earnings Call",
-    "published": 1713942056,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams price target lowered by $15 at Loop Capital, here's why",
-    "published": 1713941940,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams Company (SHW) Gets a Buy from Loop Capital Markets",
-    "published": 1713941220,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "KeyBanc gets more bullish on Sherwin-Williams, upgrades shares",
-    "published": 1713939840,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams price target raised by $10 at Baird, here's why",
-    "published": 1713937680,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams price target lowered by $6 at Mizuho, here's why",
-    "published": 1713937560,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sell Rating on Sherwin-Williams Amidst U.S. Housing Slowdown and Weak Architectural Coatings Demand",
-    "published": 1713936420,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Materials Companies: Mineral Resources Limited (OtherMALRF), First Quantum Minerals (OtherFQVLF) and Sherwin-Williams Company (SHW)",
-    "published": 1713930660,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Looking Into Sherwin-Williams's Recent Short Interest",
-    "published": 1713925140,
-    "posting_price": 299.31661281,
-    "close_price": 301.22076416,
-    "percent_change": 0.63616628
-  },
-  {
-    "title": "Sherwin-Williams' (SHW) Q1 Earnings & Sales Lag Estimates",
-    "published": 1713889620,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams\u2019 Earnings Fall Short on \u2018Demand Choppiness\u2019",
-    "published": 1713883920,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "The Sherwin-Williams Company (SHW) Q1 2024 Earnings Call Transcript",
-    "published": 1713883862,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams (SHW) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1713879027,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams Co (SHW) Q1 Earnings: Aligns with EPS Projections Amidst Sales Dip",
-    "published": 1713875525,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams (SHW) Misses Q1 Earnings and Revenue Estimates",
-    "published": 1713874204,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "The Sherwin-Williams Company Reports 2024 First Quarter Financial Results",
-    "published": 1713870000,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "SHW Stock Earnings: Sherwin-Williams Misses EPS, Misses Revenue for Q1 2024",
-    "published": 1713869640,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams Q1 results reflect soft housing market",
-    "published": 1713865020,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams: A Cautious Hold Amid Mixed Segment Performance and Macroeconomic Uncertainties",
-    "published": 1713861360,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams 1Q Earnings Rise, Full-Year Guidance Maintained",
-    "published": 1713858488,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin Williams : First Quarter 2024 1Q 2024 Results & 2024 Outlook",
-    "published": 1713856270,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams: Q1 Earnings Snapshot",
-    "published": 1713856151,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin Williams misses Q1 estimates, affirms FY guidance",
-    "published": 1713852540,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams sees FY24 adjusted EPS $10.85-$11.35, consensus $11.44",
-    "published": 1713852360,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams sees Q2 revenue growth flat to up in low-single digits",
-    "published": 1713852240,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Basic Materials Roundup: Market Talk",
-    "published": 1713852120,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin-Williams reports Q1 adjusted EPS $2.17, consensus $2.21",
-    "published": 1713852120,
-    "posting_price": 295.36948602,
-    "close_price": 299.86206055,
-    "percent_change": 1.52100157
-  },
-  {
-    "title": "Sherwin Williams Q1 2024 Earnings Preview",
-    "published": 1713790260,
-    "posting_price": 303.60093158,
-    "close_price": 306.70507812,
-    "percent_change": 1.02244302
-  },
-  {
-    "title": "Sherwin-Williams: Offering Investors An Opportunity",
-    "published": 1713763982,
-    "posting_price": 303.60093158,
-    "close_price": 306.70507812,
-    "percent_change": 1.02244302
-  },
-  {
-    "title": "Sherwin-Williams Now #112 Largest Company, Surpassing Synopsys",
-    "published": 1713756960,
-    "posting_price": 303.60093158,
-    "close_price": 306.70507812,
-    "percent_change": 1.02244302
-  },
-  {
-    "title": "GM, Seagate among stocks to buy ahead of earnings, Barron's says",
-    "published": 1713680160,
-    "posting_price": 303.60093158,
-    "close_price": 306.70507812,
-    "percent_change": 1.02244302
-  },
-  {
-    "title": "Sherwin-Williams: The Market Price Has Run Ahead Of Its Acquisitions",
-    "published": 1713503963,
-    "posting_price": 308.27200088,
-    "close_price": 303.43231201,
-    "percent_change": -1.56994111
-  },
-  {
-    "title": "Buy Rating for Sherwin-Williams with Raised Price Target Amid Strong Market Position and Growth Prospects",
-    "published": 1713502560,
-    "posting_price": 308.27200088,
-    "close_price": 303.43231201,
-    "percent_change": -1.56994111
-  },
-  {
-    "title": "Ahead of Sherwin-Williams (SHW) Q1 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-    "published": 1713446123,
-    "posting_price": 308.90672309,
-    "close_price": 306.82406616,
-    "percent_change": -0.67420253
-  },
-  {
-    "title": "What's in Store for Sherwin-Williams (SHW) in Q1 Earnings?",
-    "published": 1713442380,
-    "posting_price": 308.90672309,
-    "close_price": 306.82406616,
-    "percent_change": -0.67420253
-  },
-  {
-    "title": "December 20th Options Now Available For Sherwin-Williams (SHW)",
-    "published": 1713433320,
-    "posting_price": 308.90672309,
-    "close_price": 306.82406616,
-    "percent_change": -0.67420253
-  },
-  {
-    "title": "Sherwin-Williams Declares Dividend of $0.715 per Common Share",
-    "published": 1713381300,
-    "posting_price": 308.22245643,
-    "close_price": 307.59765625,
-    "percent_change": -0.20271079
-  },
-  {
-    "title": "Here's Why Sherwin-Williams (SHW) is a Strong Growth Stock",
-    "published": 1713361506,
-    "posting_price": 308.22245643,
-    "close_price": 307.59765625,
-    "percent_change": -0.20271079
-  },
-  {
-    "title": "8 Stocks to Buy Ahead of Earnings",
-    "published": 1713331800,
-    "posting_price": 308.22245643,
-    "close_price": 307.59765625,
-    "percent_change": -0.20271079
-  },
-  {
-    "title": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
-    "published": 1713325680,
-    "posting_price": 308.22245643,
-    "close_price": 307.59765625,
-    "percent_change": -0.20271079
-  },
-  {
-    "title": "Sherwin Williams declares $0.715 dividend",
-    "published": 1713323700,
-    "posting_price": 308.22245643,
-    "close_price": 307.59765625,
-    "percent_change": -0.20271079
-  },
-  {
-    "title": "Sherwin-Williams Becomes Oversold",
-    "published": 1713269400,
-    "posting_price": 308.01414306,
-    "close_price": 305.83233643,
-    "percent_change": -0.70834625
-  },
-  {
-    "title": "Analyst Scoreboard: 11 Ratings For Sherwin-Williams",
-    "published": 1713265560,
-    "posting_price": 308.01414306,
-    "close_price": 305.83233643,
-    "percent_change": -0.70834625
+    "title": "Why Sherwin-Williams (SHW) is a Top Growth Stock for the Long-Term",
+    "published": 1714743905,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 315.45001220703125,
+      "2024-05-03T14:30:00+00:00": 314.5199890136719,
+      "2024-05-03T15:30:00+00:00": 312.5,
+      "2024-05-03T16:30:00+00:00": 312.9800109863281,
+      "2024-05-03T17:30:00+00:00": 311.82000732421875,
+      "2024-05-03T18:30:00+00:00": 311.125,
+      "2024-05-03T19:30:00+00:00": 311.7200012207031
+    },
+    "sentiment": 0.5432435870170593
+  },
+  {
+    "title": "Sherwin-Williams Stock Is Down. It\u2019s One of the Best Names in Housing.",
+    "published": 1714714200,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 315.45001220703125,
+      "2024-05-03T14:30:00+00:00": 314.5199890136719,
+      "2024-05-03T15:30:00+00:00": 312.5,
+      "2024-05-03T16:30:00+00:00": 312.9800109863281,
+      "2024-05-03T17:30:00+00:00": 311.82000732421875,
+      "2024-05-03T18:30:00+00:00": 311.125,
+      "2024-05-03T19:30:00+00:00": 311.7200012207031
+    },
+    "sentiment": 0.9086876511573792
+  },
+  {
+    "title": "See Which Of The Latest 13F Filers Holds Sherwin-Williams",
+    "published": 1715772480,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 316.3500061035156,
+      "2024-05-15T14:30:00+00:00": 317.1499938964844,
+      "2024-05-15T15:30:00+00:00": 317.9700012207031,
+      "2024-05-15T16:30:00+00:00": 317.1499938964844,
+      "2024-05-15T17:30:00+00:00": 317.17999267578125,
+      "2024-05-15T18:30:00+00:00": 316.6499938964844,
+      "2024-05-15T19:30:00+00:00": 316.510009765625
+    },
+    "sentiment": 0.9485110640525818
+  },
+  {
+    "title": "Warner Bros Discovery (NASDAQ:WBD) Pratfalls on Shaky Upfront",
+    "published": 1715740380,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 316.3500061035156,
+      "2024-05-15T14:30:00+00:00": 317.1499938964844,
+      "2024-05-15T15:30:00+00:00": 317.9700012207031,
+      "2024-05-15T16:30:00+00:00": 317.1499938964844,
+      "2024-05-15T17:30:00+00:00": 317.17999267578125,
+      "2024-05-15T18:30:00+00:00": 316.6499938964844,
+      "2024-05-15T19:30:00+00:00": 316.510009765625
+    },
+    "sentiment": 0.9242488145828247
+  },
+  {
+    "title": "Expert Ratings For Sherwin-Williams",
+    "published": 1715673900,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 315.510009765625,
+      "2024-05-14T14:30:00+00:00": 314.260009765625,
+      "2024-05-14T15:30:00+00:00": 313.4100036621094,
+      "2024-05-14T16:30:00+00:00": 312.7200012207031,
+      "2024-05-14T17:30:00+00:00": 312.3349914550781,
+      "2024-05-14T18:30:00+00:00": 313.3299865722656,
+      "2024-05-14T19:30:00+00:00": 313.6400146484375
+    },
+    "sentiment": 0.8794763088226318
+  },
+  {
+    "title": "Here's Why Sherwin-Williams (NYSE:SHW) Has Caught The Eye Of Investors",
+    "published": 1716386417,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 309.1000061035156,
+      "2024-05-22T14:30:00+00:00": 308.7099914550781,
+      "2024-05-22T15:30:00+00:00": 308.68499755859375,
+      "2024-05-22T16:30:00+00:00": 308.9750061035156,
+      "2024-05-22T17:30:00+00:00": 308.6499938964844,
+      "2024-05-22T18:30:00+00:00": 306.989990234375,
+      "2024-05-22T19:30:00+00:00": 306.7300109863281
+    },
+    "sentiment": 0.7995488047599792
+  },
+  {
+    "title": "Sherwin Williams : 2023 Sustainability Report",
+    "published": 1716201128,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 311.75,
+      "2024-05-20T14:30:00+00:00": 310.739990234375,
+      "2024-05-20T15:30:00+00:00": 311.7550048828125,
+      "2024-05-20T16:30:00+00:00": 311.1600036621094,
+      "2024-05-20T17:30:00+00:00": 310.1700134277344,
+      "2024-05-20T18:30:00+00:00": 310.18499755859375,
+      "2024-05-20T19:30:00+00:00": 310.0400085449219
+    },
+    "sentiment": 0.9312354326248169
+  },
+  {
+    "title": "Sherwin Williams : 2023 Investor Sustainability Summary - Metrics at a Glance",
+    "published": 1716201127,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 311.75,
+      "2024-05-20T14:30:00+00:00": 310.739990234375,
+      "2024-05-20T15:30:00+00:00": 311.7550048828125,
+      "2024-05-20T16:30:00+00:00": 311.1600036621094,
+      "2024-05-20T17:30:00+00:00": 310.1700134277344,
+      "2024-05-20T18:30:00+00:00": 310.18499755859375,
+      "2024-05-20T19:30:00+00:00": 310.0400085449219
+    },
+    "sentiment": 0.8914044499397278
+  },
+  {
+    "title": "XLB: Materials Dashboard For May",
+    "published": 1716115396,
+    "day_prices": {},
+    "sentiment": 0.9397121071815491
+  },
+  {
+    "title": "Sherwin-Williams Company (SHW): New Buy Recommendation for This Basic Materials Giant",
+    "published": 1715842620,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 315.9599914550781,
+      "2024-05-16T14:30:00+00:00": 314.6199951171875,
+      "2024-05-16T15:30:00+00:00": 315.7699890136719,
+      "2024-05-16T16:30:00+00:00": 315.1499938964844,
+      "2024-05-16T17:30:00+00:00": 314.375,
+      "2024-05-16T18:30:00+00:00": 313.81201171875,
+      "2024-05-16T19:30:00+00:00": 314.5199890136719
+    },
+    "sentiment": 0.6170887351036072
   }
 ]

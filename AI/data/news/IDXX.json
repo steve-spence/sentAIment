@@ -1,233 +1,344 @@
 [
   {
-    "title": "New AI Bot Predicts These 7 Stocks Will Mint Millionaires",
-    "published": 1712944406,
-    "posting_price": 497.5,
-    "close_price": 497.79000854,
-    "percent_change": 0.05829317
+    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Owens & Minor (OMI), Idexx Laboratories (IDXX) and CytomX Therapeutics (CTMX)",
+    "published": 1714966440,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 483.0,
+      "2024-05-06T14:30:00+00:00": 475.1449890136719,
+      "2024-05-06T15:30:00+00:00": 477.1600036621094,
+      "2024-05-06T16:30:00+00:00": 476.17999267578125,
+      "2024-05-06T17:30:00+00:00": 476.5,
+      "2024-05-06T18:30:00+00:00": 475.80999755859375,
+      "2024-05-06T19:30:00+00:00": 474.95001220703125
+    },
+    "sentiment": 0.7481593489646912
   },
   {
-    "title": "IDXX Crosses Below Key Moving Average Level",
-    "published": 1712749860,
-    "posting_price": 510.3500061,
-    "close_price": 504.14001465,
-    "percent_change": -1.2168103
+    "title": "IDEXX Laboratories, Inc. Just Beat EPS By 5.1%: Here's What Analysts Think Will Happen Next",
+    "published": 1714739348,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 485.82000732421875,
+      "2024-05-03T14:30:00+00:00": 483.95001220703125,
+      "2024-05-03T15:30:00+00:00": 479.5299987792969,
+      "2024-05-03T16:30:00+00:00": 480.1000061035156,
+      "2024-05-03T17:30:00+00:00": 479.0799865722656,
+      "2024-05-03T18:30:00+00:00": 479.3299865722656,
+      "2024-05-03T19:30:00+00:00": 481.8699951171875
+    },
+    "sentiment": 0.8169467449188232
   },
   {
-    "title": "Idexx Laboratories (IDXX) Beats Stock Market Upswing: What Investors Need to Know",
-    "published": 1712700020,
-    "posting_price": 515.64001465,
-    "close_price": 519.80999756,
-    "percent_change": 0.80870041
+    "title": "IDEXX Laboratories, Inc. (NASDAQ:IDXX) Q1 2024 Earnings Call Transcript",
+    "published": 1714674141,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 465.6000061035156,
+      "2024-05-02T14:30:00+00:00": 471.739990234375,
+      "2024-05-02T15:30:00+00:00": 474.3500061035156,
+      "2024-05-02T16:30:00+00:00": 473.3450012207031,
+      "2024-05-02T17:30:00+00:00": 473.4599914550781,
+      "2024-05-02T18:30:00+00:00": 474.8399963378906,
+      "2024-05-02T19:30:00+00:00": 476.25
+    },
+    "sentiment": 0.9211187362670898
   },
   {
-    "title": "All You Need to Know About Idexx (IDXX) Rating Upgrade to Buy",
-    "published": 1712678408,
-    "posting_price": 515.64001465,
-    "close_price": 519.80999756,
-    "percent_change": 0.80870041
+    "title": "Analysts Offer Insights on Healthcare Companies: Idexx Laboratories (IDXX), Atricure (ATRC) and Bio-Techne (TECH)",
+    "published": 1714635120,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 465.6000061035156,
+      "2024-05-02T14:30:00+00:00": 471.739990234375,
+      "2024-05-02T15:30:00+00:00": 474.3500061035156,
+      "2024-05-02T16:30:00+00:00": 473.3450012207031,
+      "2024-05-02T17:30:00+00:00": 473.4599914550781,
+      "2024-05-02T18:30:00+00:00": 474.8399963378906,
+      "2024-05-02T19:30:00+00:00": 476.25
+    },
+    "sentiment": 0.9094059467315674
   },
   {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Healthcare Stocks: Inozyme Pharma (INZY), Zai Lab (ZLAB) and Idexx Laboratories (IDXX)",
-    "published": 1712640060,
-    "posting_price": 515.64001465,
-    "close_price": 519.80999756,
-    "percent_change": 0.80870041
+    "title": "IDEXX Laboratories : Q1 2024 Earnings Snapshot",
+    "published": 1714630271,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 465.6000061035156,
+      "2024-05-02T14:30:00+00:00": 471.739990234375,
+      "2024-05-02T15:30:00+00:00": 474.3500061035156,
+      "2024-05-02T16:30:00+00:00": 473.3450012207031,
+      "2024-05-02T17:30:00+00:00": 473.4599914550781,
+      "2024-05-02T18:30:00+00:00": 474.8399963378906,
+      "2024-05-02T19:30:00+00:00": 476.25
+    },
+    "sentiment": 0.8151726126670837
   },
   {
-    "title": "IDEXX: Strong Recurring Revenues From Consumables, Software But Overvalued (Rating Downgrade)",
-    "published": 1712550570,
-    "posting_price": 519.83001709,
-    "close_price": 514.70001221,
-    "percent_change": -0.986862
+    "title": "IDEXX Laboratories Inc. stock outperforms competitors on strong trading day",
+    "published": 1714622580,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 465.6000061035156,
+      "2024-05-02T14:30:00+00:00": 471.739990234375,
+      "2024-05-02T15:30:00+00:00": 474.3500061035156,
+      "2024-05-02T16:30:00+00:00": 473.3450012207031,
+      "2024-05-02T17:30:00+00:00": 473.4599914550781,
+      "2024-05-02T18:30:00+00:00": 474.8399963378906,
+      "2024-05-02T19:30:00+00:00": 476.25
+    },
+    "sentiment": 0.9367849826812744
   },
   {
-    "title": "Will Idexx (IDXX) Beat Estimates Again in Its Next Earnings Report?",
-    "published": 1712333415,
-    "posting_price": 518.09997559,
-    "close_price": 519.53997803,
-    "percent_change": 0.27793911
+    "title": "Zoetis Stock Climbs on Earnings Beat, but Worries Linger Over Key Medicine",
+    "published": 1714617780,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 465.6000061035156,
+      "2024-05-02T14:30:00+00:00": 471.739990234375,
+      "2024-05-02T15:30:00+00:00": 474.3500061035156,
+      "2024-05-02T16:30:00+00:00": 473.3450012207031,
+      "2024-05-02T17:30:00+00:00": 473.4599914550781,
+      "2024-05-02T18:30:00+00:00": 474.8399963378906,
+      "2024-05-02T19:30:00+00:00": 476.25
+    },
+    "sentiment": 0.4758851230144501
   },
   {
-    "title": "IDEXX Laboratories to Release 2024 First Quarter Financial Results",
-    "published": 1712262600,
-    "posting_price": 530.69000244,
-    "close_price": 518.09997559,
-    "percent_change": -2.37238817
+    "title": "IDEXX (IDXX) Q1 Earnings Surpass Estimates, 2024 View Slashed",
+    "published": 1714574460,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.8833948373794556
   },
   {
-    "title": "Want Better Returns? Don't Ignore These 2 Medical Stocks Set to Beat Earnings",
-    "published": 1712149210,
-    "posting_price": 521.09997559,
-    "close_price": 524.03997803,
-    "percent_change": 0.56419163
+    "title": "IDEXX Laboratories, Inc. (IDXX) Q1 2024 Earnings Call Transcript",
+    "published": 1714566323,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.9251354932785034
   },
   {
-    "title": "Stock winners of Republican policy if Trump wins - GS",
-    "published": 1712111100,
-    "posting_price": 521.09997559,
-    "close_price": 524.03997803,
-    "percent_change": 0.56419163
+    "title": "IDEXX Laboratories Inc (IDXX) Q1 Earnings: Exceeds Revenue Estimates, EPS Surpasses Expectations",
+    "published": 1714564360,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.8450073003768921
   },
   {
-    "title": "Here's Why You Should Invest in IDEXX (IDXX) Stock Right Now",
-    "published": 1712061060,
-    "posting_price": 527.59997559,
-    "close_price": 521.66998291,
-    "percent_change": -1.12395621
+    "title": "IDEXX Laboratories Announces First Quarter Results",
+    "published": 1714559400,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.8626620173454285
   },
   {
-    "title": "IDEXX Laboratories Q1 2024 Earnings Preview",
-    "published": 1714473840,
-    "posting_price": 503.36999512,
-    "close_price": 492.76000977,
-    "percent_change": -2.10779058
+    "title": "IDXX Stock Earnings: IDEXX Laboratories Beats EPS, Misses Revenue for Q1 2024",
+    "published": 1714557480,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.8024455308914185
   },
   {
-    "title": "Notable earnings before Wednesday's open",
-    "published": 1714470660,
-    "posting_price": 503.36999512,
-    "close_price": 492.76000977,
-    "percent_change": -2.10779058
+    "title": "IDEXX Laboratories lowers guidance as bad weather pegs back sales",
+    "published": 1714551840,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.9651474356651306
   },
   {
-    "title": "Analysts Offer Insights on Healthcare Companies: Healthequity (HQY), Cellectis SA (CLLS) and Idexx Laboratories (IDXX)",
-    "published": 1714451760,
-    "posting_price": 503.36999512,
-    "close_price": 492.76000977,
-    "percent_change": -2.10779058
+    "title": "Idexx Laboratories cuts FY24 EPS view to $10.82-$11.20 from $10.84-$11.33",
+    "published": 1714541940,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.9189005494117737
   },
   {
-    "title": "The \u201chighest quality\u201d stocks within each sector - GS",
-    "published": 1714393320,
-    "posting_price": 500.47000122,
-    "close_price": 505.33999634,
-    "percent_change": 0.97308432
+    "title": "Idexx Laboratories reports Q1 EPS $2.81, consensus $2.67",
+    "published": 1714541880,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 473.0,
+      "2024-05-01T14:30:00+00:00": 473.4811096191406,
+      "2024-05-01T15:30:00+00:00": 472.8450012207031,
+      "2024-05-01T16:30:00+00:00": 474.32000732421875,
+      "2024-05-01T17:30:00+00:00": 467.3349914550781,
+      "2024-05-01T18:30:00+00:00": 472.45001220703125,
+      "2024-05-01T19:30:00+00:00": 476.3800048828125
+    },
+    "sentiment": 0.5174624919891357
   },
   {
-    "title": "Global company events calendar",
-    "published": 1714382940,
-    "posting_price": 500.47000122,
-    "close_price": 505.33999634,
-    "percent_change": 0.97308432
+    "title": "IDEXX Laboratories to Present at Stifel Conference and Announces 2024 Investor Day",
+    "published": 1715709600,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 505.760009765625,
+      "2024-05-14T14:30:00+00:00": 513.0,
+      "2024-05-14T15:30:00+00:00": 512.0150146484375,
+      "2024-05-14T16:30:00+00:00": 512.8599853515625,
+      "2024-05-14T17:30:00+00:00": 515.2999877929688,
+      "2024-05-14T18:30:00+00:00": 518.9749755859375,
+      "2024-05-14T19:30:00+00:00": 520.719970703125
+    },
+    "sentiment": 0.9266043901443481
   },
   {
-    "title": "Idexx Laboratories price target lowered by $5 at BofA, here's why",
-    "published": 1714372620,
-    "posting_price": 500.47000122,
-    "close_price": 505.33999634,
-    "percent_change": 0.97308432
+    "title": "Unveiling IDEXX Laboratories (IDXX)'s Value: Is It Really Priced Right? A Comprehensive Guide",
+    "published": 1715670780,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 505.760009765625,
+      "2024-05-14T14:30:00+00:00": 513.0,
+      "2024-05-14T15:30:00+00:00": 512.0150146484375,
+      "2024-05-14T16:30:00+00:00": 512.8599853515625,
+      "2024-05-14T17:30:00+00:00": 515.2999877929688,
+      "2024-05-14T18:30:00+00:00": 518.9749755859375,
+      "2024-05-14T19:30:00+00:00": 520.719970703125
+    },
+    "sentiment": 0.8235918283462524
   },
   {
-    "title": "11 Oversold Growth Stocks to Buy Right Now",
-    "published": 1714343524,
-    "posting_price": 500.47000122,
-    "close_price": 505.33999634,
-    "percent_change": 0.97308432
+    "title": "Why Investors Are Eyeing IDEXX Laboratories Inc (IDXX): The Key Drivers of Market ...",
+    "published": 1715594640,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 513.489990234375,
+      "2024-05-13T14:30:00+00:00": 510.5350036621094,
+      "2024-05-13T15:30:00+00:00": 506.9599914550781,
+      "2024-05-13T16:30:00+00:00": 504.5198974609375,
+      "2024-05-13T17:30:00+00:00": 502.6600036621094,
+      "2024-05-13T18:30:00+00:00": 502.9599914550781,
+      "2024-05-13T19:30:00+00:00": 503.7900085449219
+    },
+    "sentiment": 0.9006611704826355
   },
   {
-    "title": "With rate cuts pushed out, Goldman looks at quality stocks",
-    "published": 1714271220,
-    "posting_price": 500.47000122,
-    "close_price": 505.33999634,
-    "percent_change": 0.97308432
+    "title": "U.S. pledges nearly $200M to prevent bird flu spread on dairy farms",
+    "published": 1715413920,
+    "day_prices": {},
+    "sentiment": 0.8092255592346191
   },
   {
-    "title": "Seeking Clues to Idexx (IDXX) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-    "published": 1714137325,
-    "posting_price": 484.02999878,
-    "close_price": 499.29998779,
-    "percent_change": 3.15476087
+    "title": "Baron Small Cap Fund Q1 2024 Shareholder Letter",
+    "published": 1715312100,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 502.4200134277344,
+      "2024-05-10T14:30:00+00:00": 503.760009765625,
+      "2024-05-10T15:30:00+00:00": 506.1700134277344,
+      "2024-05-10T16:30:00+00:00": 506.9049987792969,
+      "2024-05-10T17:30:00+00:00": 506.5799865722656,
+      "2024-05-10T18:30:00+00:00": 507.42498779296875,
+      "2024-05-10T19:30:00+00:00": 509.42999267578125
+    },
+    "sentiment": 0.9413659572601318
   },
   {
-    "title": "The spread of avian flu to cattle could have implications for some stocks",
-    "published": 1714112520,
-    "posting_price": 484.02999878,
-    "close_price": 499.29998779,
-    "percent_change": 3.15476087
+    "title": "IDEXX Laboratories (NASDAQ:IDXX) Knows How To Allocate Capital",
+    "published": 1715256036,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 488.2799987792969,
+      "2024-05-09T14:30:00+00:00": 491.989990234375,
+      "2024-05-09T15:30:00+00:00": 498.489990234375,
+      "2024-05-09T16:30:00+00:00": 498.19000244140625,
+      "2024-05-09T17:30:00+00:00": 500.8699951171875,
+      "2024-05-09T18:30:00+00:00": 502.30499267578125,
+      "2024-05-09T19:30:00+00:00": 501.94500732421875
+    },
+    "sentiment": 0.9063007235527039
   },
   {
-    "title": "If You Invested $1000 In This Stock 5 Years Ago, You Would Have $2,200 Today",
-    "published": 1714105980,
-    "posting_price": 484.02999878,
-    "close_price": 499.29998779,
-    "percent_change": 3.15476087
+    "title": "Australia reports first human case of bird flu",
+    "published": 1716372480,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 520.5800170898438,
+      "2024-05-22T14:30:00+00:00": 521.155029296875,
+      "2024-05-22T15:30:00+00:00": 517.9199829101562,
+      "2024-05-22T16:30:00+00:00": 520.719970703125,
+      "2024-05-22T17:30:00+00:00": 519.9000244140625,
+      "2024-05-22T18:30:00+00:00": 518.5999755859375,
+      "2024-05-22T19:30:00+00:00": 518.5549926757812
+    },
+    "sentiment": 0.6453529000282288
   },
   {
-    "title": "Veeva's (VEEV) AI Partner Program to Develop GenAI Solutions",
-    "published": 1714063020,
-    "posting_price": 494.82000732,
-    "close_price": 489.23999023,
-    "percent_change": -1.12768623
+    "title": "IDEXX (IDXX) Witnesses Rising Expenses, Currency Issues",
+    "published": 1716218280,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 543.6699829101562,
+      "2024-05-20T14:30:00+00:00": 534.1699829101562,
+      "2024-05-20T15:30:00+00:00": 531.02001953125,
+      "2024-05-20T16:30:00+00:00": 530.8699951171875,
+      "2024-05-20T17:30:00+00:00": 530.5399780273438,
+      "2024-05-20T18:30:00+00:00": 531.219970703125,
+      "2024-05-20T19:30:00+00:00": 529.760009765625
+    },
+    "sentiment": 0.6676523089408875
   },
   {
-    "title": "Integer (ITGR) Q1 Earnings and Revenues Top Estimates",
-    "published": 1714050905,
-    "posting_price": 494.82000732,
-    "close_price": 489.23999023,
-    "percent_change": -1.12768623
+    "title": "$100 Invested In This Stock 15 Years Ago Would Be Worth $2,500 Today",
+    "published": 1716170640,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 543.6699829101562,
+      "2024-05-20T14:30:00+00:00": 534.1699829101562,
+      "2024-05-20T15:30:00+00:00": 531.02001953125,
+      "2024-05-20T16:30:00+00:00": 530.8699951171875,
+      "2024-05-20T17:30:00+00:00": 530.5399780273438,
+      "2024-05-20T18:30:00+00:00": 531.219970703125,
+      "2024-05-20T19:30:00+00:00": 529.760009765625
+    },
+    "sentiment": 0.9514579772949219
   },
   {
-    "title": "Eaton Vance Worldwide Health Sciences Fund Bolsters Position in IDEXX Laboratories",
-    "published": 1713974494,
-    "posting_price": 489.23999023,
-    "close_price": 494.26000977,
-    "percent_change": 1.02608528
-  },
-  {
-    "title": "Penumbra's (PEN) New Launch to Enhance Blood Clot Removal",
-    "published": 1713973380,
-    "posting_price": 489.23999023,
-    "close_price": 494.26000977,
-    "percent_change": 1.02608528
-  },
-  {
-    "title": "Baron Focused Growth Fund Q1 2024 Shareholder Letter",
-    "published": 1713957900,
-    "posting_price": 489.23999023,
-    "close_price": 494.26000977,
-    "percent_change": 1.02608528
-  },
-  {
-    "title": "IDEXX Laboratories Insiders Sell US$4.5m Of Stock, Possibly Signalling Caution",
-    "published": 1713614413,
-    "posting_price": 479.48001099,
-    "close_price": 479.57000732,
-    "percent_change": 0.01876957
-  },
-  {
-    "title": "What Lies Ahead of IDEXX Laboratories (IDXX) in Q1 Earnings?",
-    "published": 1713527760,
-    "posting_price": 482.20001221,
-    "close_price": 476.3500061,
-    "percent_change": -1.21319078
-  },
-  {
-    "title": "Top 10 most oversold S&P 500 stocks",
-    "published": 1713524580,
-    "posting_price": 482.20001221,
-    "close_price": 476.3500061,
-    "percent_change": -1.21319078
-  },
-  {
-    "title": "TMO vs. IDXX: Which Stock Is the Better Value Option?",
-    "published": 1713454806,
-    "posting_price": 478.29000854,
-    "close_price": 477.79000854,
-    "percent_change": -0.10453909
-  },
-  {
-    "title": "Commit To Buy Idexx Laboratories At $320, Earn 1.4% Annualized Using Options",
-    "published": 1713269280,
-    "posting_price": 490.61999512,
-    "close_price": 489.57000732,
-    "percent_change": -0.21401244
-  },
-  {
-    "title": "$1000 Invested In IDEXX Laboratories 10 Years Ago Would Be Worth This Much Today",
-    "published": 1713232980,
-    "posting_price": 490.61999512,
-    "close_price": 489.57000732,
-    "percent_change": -0.21401244
+    "title": "IDEXX Laboratories Inc. stock underperforms Thursday when compared to competitors",
+    "published": 1715832060,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 542.2899780273438,
+      "2024-05-16T14:30:00+00:00": 540.094970703125,
+      "2024-05-16T15:30:00+00:00": 539.4600219726562,
+      "2024-05-16T16:30:00+00:00": 541.4000244140625,
+      "2024-05-16T17:30:00+00:00": 541.97998046875,
+      "2024-05-16T18:30:00+00:00": 540.3099975585938,
+      "2024-05-16T19:30:00+00:00": 542.5499877929688
+    },
+    "sentiment": 0.9374735355377197
   }
 ]

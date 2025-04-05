@@ -1,282 +1,86 @@
 [
   {
-    "title": "DFH vs. NVR: Which Stock Should Value Investors Buy Now?",
-    "published": 1713195611,
-    "posting_price": 7870.0,
-    "close_price": 7761.43994141,
-    "percent_change": -1.37941625
+    "title": "NVR, INC. ANNOUNCES SHARE REPURCHASE AUTHORIZATION",
+    "published": 1715106120,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 7620.0,
+      "2024-05-07T14:30:00+00:00": 7629.05517578125,
+      "2024-05-07T15:30:00+00:00": 7632.9150390625,
+      "2024-05-07T16:30:00+00:00": 7662.60009765625,
+      "2024-05-07T17:30:00+00:00": 7672.64013671875,
+      "2024-05-07T18:30:00+00:00": 7700.0,
+      "2024-05-07T19:30:00+00:00": 7714.0
+    },
+    "sentiment": 0.8199876546859741
   },
   {
-    "title": "Estimating The Fair Value Of NVR, Inc. (NYSE:NVR)",
-    "published": 1713104963,
-    "posting_price": 7870.0,
-    "close_price": 7761.43994141,
-    "percent_change": -1.37941625
+    "title": "Here's How Much $1000 Invested In NVR 5 Years Ago Would Be Worth Today",
+    "published": 1714611840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 7485.02001953125,
+      "2024-05-02T14:30:00+00:00": 7449.66015625,
+      "2024-05-02T15:30:00+00:00": 7443.5498046875,
+      "2024-05-02T16:30:00+00:00": 7425.9501953125,
+      "2024-05-02T17:30:00+00:00": 7484.4501953125,
+      "2024-05-02T18:30:00+00:00": 7510.10986328125,
+      "2024-05-02T19:30:00+00:00": 7475.0400390625
+    },
+    "sentiment": 0.9419535398483276
   },
   {
-    "title": "Ensemble Capital Management Q1 2024 Letter",
-    "published": 1712988600,
-    "posting_price": 7870.0,
-    "close_price": 7761.43994141,
-    "percent_change": -1.37941625
+    "title": "DFH vs. NVR: Which Stock Is the Better Value Option?",
+    "published": 1714578011,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 7451.7900390625,
+      "2024-05-01T14:30:00+00:00": 7441.40478515625,
+      "2024-05-01T15:30:00+00:00": 7459.10498046875,
+      "2024-05-01T16:30:00+00:00": 7464.31982421875,
+      "2024-05-01T17:30:00+00:00": 7484.60009765625,
+      "2024-05-01T18:30:00+00:00": 7483.60009765625,
+      "2024-05-01T19:30:00+00:00": 7506.41015625
+    },
+    "sentiment": 0.9186036586761475
   },
   {
-    "title": "Artisan Mid Cap Fund Added NVR as Homebuilder Orders Accelerate",
-    "published": 1712923951,
-    "posting_price": 7750.0,
-    "close_price": 7817.97998047,
-    "percent_change": 0.87716104
+    "title": "Many Would Be Envious Of NVR's (NYSE:NVR) Excellent Returns On Capital",
+    "published": 1715251701,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 7568.990234375,
+      "2024-05-09T14:30:00+00:00": 7622.5400390625,
+      "2024-05-09T15:30:00+00:00": 7690.419921875,
+      "2024-05-09T16:30:00+00:00": 7676.58984375,
+      "2024-05-09T17:30:00+00:00": 7664.60986328125,
+      "2024-05-09T18:30:00+00:00": 7675.77978515625,
+      "2024-05-09T19:30:00+00:00": 7706.5
+    },
+    "sentiment": 0.9423592686653137
   },
   {
-    "title": "Here's How Much You Would Have Made Owning NVR Stock In The Last 20 Years",
-    "published": 1712885640,
-    "posting_price": 7750.0,
-    "close_price": 7817.97998047,
-    "percent_change": 0.87716104
+    "title": "NVR Inc. stock outperforms competitors despite losses on the day",
+    "published": 1715141520,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 7752.0,
+      "2024-05-08T14:30:00+00:00": 7740.009765625,
+      "2024-05-08T15:30:00+00:00": 7679.56982421875,
+      "2024-05-08T16:30:00+00:00": 7625.0,
+      "2024-05-08T17:30:00+00:00": 7647.7998046875,
+      "2024-05-08T18:30:00+00:00": 7659.22998046875,
+      "2024-05-08T19:30:00+00:00": 7643.0
+    },
+    "sentiment": 0.9392813444137573
   },
   {
-    "title": "Long-term mortgage rates near 7% mark",
-    "published": 1712834460,
-    "posting_price": 7727.0,
-    "close_price": 7757.18017578,
-    "percent_change": 0.39058077
-  },
-  {
-    "title": "NVR (NVR) is an Incredible Growth Stock: 3 Reasons Why",
-    "published": 1712681105,
-    "posting_price": 7933.0,
-    "close_price": 7972.85009766,
-    "percent_change": 0.50233326
-  },
-  {
-    "title": "This Top Construction Stock is a #1 (Strong Buy): Why It Should Be on Your Radar",
-    "published": 1712670006,
-    "posting_price": 7933.0,
-    "close_price": 7972.85009766,
-    "percent_change": 0.50233326
-  },
-  {
-    "title": "Quarterly Update: Analyzing Cavco's Triumph In Affordable Housing",
-    "published": 1712649479,
-    "posting_price": 7933.0,
-    "close_price": 7972.85009766,
-    "percent_change": 0.50233326
-  },
-  {
-    "title": "Mortgage rates show little movement, rates not expected to decrease meaningfully",
-    "published": 1712229600,
-    "posting_price": 8000.0,
-    "close_price": 7790.0,
-    "percent_change": -2.625
-  },
-  {
-    "title": "Why NVR (NVR) is a Top Momentum Stock for the Long-Term",
-    "published": 1712152211,
-    "posting_price": 7840.0,
-    "close_price": 7914.29980469,
-    "percent_change": 0.94770159
-  },
-  {
-    "title": "How Is The Market Feeling About NVR?",
-    "published": 1712106300,
-    "posting_price": 7840.0,
-    "close_price": 7914.29980469,
-    "percent_change": 0.94770159
-  },
-  {
-    "title": "NVR, Inc. (NVR) Hit a 52 Week High, Can the Run Continue?",
-    "published": 1712063705,
-    "posting_price": 7925.33984375,
-    "close_price": 7852.89990234,
-    "percent_change": -0.91402947
-  },
-  {
-    "title": "Lennar, DHI, LGIH, MTH, CCS downgraded as Wedbush gets bearish on homebuilders",
-    "published": 1712050860,
-    "posting_price": 7925.33984375,
-    "close_price": 7852.89990234,
-    "percent_change": -0.91402947
-  },
-  {
-    "title": "NVR (NVR) Gets a Buy from Bank of America Securities",
-    "published": 1712047620,
-    "posting_price": 7925.33984375,
-    "close_price": 7852.89990234,
-    "percent_change": -0.91402947
-  },
-  {
-    "title": "10 out of 14 S&P 500 consumer discretionary stocks post earnings beat - Earnings Scorecard",
-    "published": 1714134540,
-    "posting_price": 7730.0,
-    "close_price": 7647.04003906,
-    "percent_change": -1.07322071
-  },
-  {
-    "title": "Is NVR (NVR) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-    "published": 1714063506,
-    "posting_price": 7726.12011719,
-    "close_price": 7725.0,
-    "percent_change": -0.0144978
-  },
-  {
-    "title": "La Cit\u00e9 Development Signs Agreement with NVR Ryan Homes for Large-Scale Single-Family Home Ownership Development in West Baltimore",
-    "published": 1714050000,
-    "posting_price": 7726.12011719,
-    "close_price": 7725.0,
-    "percent_change": -0.0144978
-  },
-  {
-    "title": "NVR First Quarter 2024 Earnings: Beats Expectations",
-    "published": 1714040692,
-    "posting_price": 7726.12011719,
-    "close_price": 7725.0,
-    "percent_change": -0.0144978
-  },
-  {
-    "title": "NVR Q1 Earnings & Homebuilding Revenues Beat, Orders Up",
-    "published": 1713976680,
-    "posting_price": 7818.0,
-    "close_price": 7798.27978516,
-    "percent_change": -0.25224117
-  },
-  {
-    "title": "Artisan Mid Cap Fund Q1 2024 Commentary",
-    "published": 1713949800,
-    "posting_price": 7818.0,
-    "close_price": 7798.27978516,
-    "percent_change": -0.25224117
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Hibbett Sports (HIBB), NVR (NVR) and Packaging (PKG)",
-    "published": 1713947460,
-    "posting_price": 7818.0,
-    "close_price": 7798.27978516,
-    "percent_change": -0.25224117
-  },
-  {
-    "title": "Buy Rating Reaffirmed for NVR on Strong Financials and Shareholder Returns",
-    "published": 1713933720,
-    "posting_price": 7818.0,
-    "close_price": 7798.27978516,
-    "percent_change": -0.25224117
-  },
-  {
-    "title": "Analysts Offer Insights on Consumer Cyclical Companies: Mattel (MAT), Tesla (TSLA) and NVR (NVR)",
-    "published": 1713933720,
-    "posting_price": 7818.0,
-    "close_price": 7798.27978516,
-    "percent_change": -0.25224117
-  },
-  {
-    "title": "NVR Inc (NVR) Surpasses Analyst Expectations with Strong Q1 Earnings",
-    "published": 1713885097,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "NVR, INC. ANNOUNCES FIRST QUARTER RESULTS",
-    "published": 1713877200,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "NVR Stock Earnings: NVR Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1713876780,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "US homebuilder NVR tops profit estimates as tight housing supply spurs sales",
-    "published": 1713867491,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "NVR GAAP EPS of $99.89, revenue of $2.33B",
-    "published": 1713863640,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "NVR: Q1 Earnings Snapshot",
-    "published": 1713863410,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "NVR reports Q1 EPS $116.41, consensus $103.97",
-    "published": 1713859320,
-    "posting_price": 7833.0,
-    "close_price": 7835.10986328,
-    "percent_change": 0.02693557
-  },
-  {
-    "title": "United Homes Group Announces Board of Directors Update",
-    "published": 1713805200,
-    "posting_price": 7710.0,
-    "close_price": 7806.79003906,
-    "percent_change": 1.25538313
-  },
-  {
-    "title": "A Hawkish Pivot",
-    "published": 1713690000,
-    "posting_price": 7710.0,
-    "close_price": 7806.79003906,
-    "percent_change": 1.25538313
-  },
-  {
-    "title": "Existing Home Sales Dwindles in March: What's Causing It?",
-    "published": 1713538080,
-    "posting_price": 7765.0,
-    "close_price": 7685.0,
-    "percent_change": -1.03026401
-  },
-  {
-    "title": "NVR Gears Up to Report Q1 Earnings: Here's What to Expect",
-    "published": 1713452520,
-    "posting_price": 7742.54980469,
-    "close_price": 7702.25976562,
-    "percent_change": -0.52037171
-  },
-  {
-    "title": "Long-term mortgage rates surpass 7% for 1st time in 2024",
-    "published": 1713438840,
-    "posting_price": 7742.54980469,
-    "close_price": 7702.25976562,
-    "percent_change": -0.52037171
-  },
-  {
-    "title": "Ensemble Fund Q1 2024 Investment Update",
-    "published": 1713431700,
-    "posting_price": 7742.54980469,
-    "close_price": 7702.25976562,
-    "percent_change": -0.52037171
-  },
-  {
-    "title": "Why You Should Watch D.R. Horton",
-    "published": 1713413820,
-    "posting_price": 7742.54980469,
-    "close_price": 7702.25976562,
-    "percent_change": -0.52037171
-  },
-  {
-    "title": "NVR (NVR) Price Target Increased by 5.74% to 8,340.20",
-    "published": 1713399573,
-    "posting_price": 7742.54980469,
-    "close_price": 7702.25976562,
-    "percent_change": -0.52037171
-  },
-  {
-    "title": "NVR Inc (NVR)'s Winning Formula: Financial Metrics and Competitive Strengths",
-    "published": 1713348180,
-    "posting_price": 7726.37011719,
-    "close_price": 7669.93994141,
-    "percent_change": -0.73035817
+    "title": "If You Invested $1000 In This Stock 15 Years Ago, You Would Have $16,000 Today",
+    "published": 1716204780,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 7685.56982421875,
+      "2024-05-20T14:30:00+00:00": 7737.16015625,
+      "2024-05-20T15:30:00+00:00": 7742.39990234375,
+      "2024-05-20T16:30:00+00:00": 7725.2001953125,
+      "2024-05-20T17:30:00+00:00": 7733.3701171875,
+      "2024-05-20T18:30:00+00:00": 7717.22021484375,
+      "2024-05-20T19:30:00+00:00": 7725.0
+    },
+    "sentiment": 0.9416172504425049
   }
 ]

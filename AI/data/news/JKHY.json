@@ -1,121 +1,218 @@
 [
   {
-    "title": "Should You Be Adding Jack Henry & Associates (NASDAQ:JKHY) To Your Watchlist Today?",
-    "published": 1712918319,
-    "posting_price": 166.91131363,
-    "close_price": 165.4304657,
-    "percent_change": -0.88720644
+    "title": "Jack Henry & Associates, Inc. Reports Third Quarter Fiscal 2024 Results",
+    "published": 1715112900,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 165.9499969482422,
+      "2024-05-07T14:30:00+00:00": 165.60000610351562,
+      "2024-05-07T15:30:00+00:00": 166.83999633789062,
+      "2024-05-07T16:30:00+00:00": 166.4199981689453,
+      "2024-05-07T17:30:00+00:00": 165.75,
+      "2024-05-07T18:30:00+00:00": 164.97500610351562,
+      "2024-05-07T19:30:00+00:00": 165.17010498046875
+    },
+    "sentiment": 0.8172703385353088
   },
   {
-    "title": "Jack Henry & Associates Inc. stock outperforms competitors despite losses on the day",
-    "published": 1712895660,
-    "posting_price": 166.91131363,
-    "close_price": 165.4304657,
-    "percent_change": -0.88720644
+    "title": "Jack Henry: Fiscal Q3 Earnings Snapshot",
+    "published": 1715098933,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 165.9499969482422,
+      "2024-05-07T14:30:00+00:00": 165.60000610351562,
+      "2024-05-07T15:30:00+00:00": 166.83999633789062,
+      "2024-05-07T16:30:00+00:00": 166.4199981689453,
+      "2024-05-07T17:30:00+00:00": 165.75,
+      "2024-05-07T18:30:00+00:00": 164.97500610351562,
+      "2024-05-07T19:30:00+00:00": 165.17010498046875
+    },
+    "sentiment": 0.545512855052948
   },
   {
-    "title": "United Bank Modernizes Technology Stack, Drives Growth with Jack Henry",
-    "published": 1712836800,
-    "posting_price": 168.69818845,
-    "close_price": 167.87878418,
-    "percent_change": -0.48572203
+    "title": "JKHY Stock Earnings: Jack Henry & Associates Beats EPS, Misses Revenue for Q3 2024",
+    "published": 1715068500,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 165.9499969482422,
+      "2024-05-07T14:30:00+00:00": 165.60000610351562,
+      "2024-05-07T15:30:00+00:00": 166.83999633789062,
+      "2024-05-07T16:30:00+00:00": 166.4199981689453,
+      "2024-05-07T17:30:00+00:00": 165.75,
+      "2024-05-07T18:30:00+00:00": 164.97500610351562,
+      "2024-05-07T19:30:00+00:00": 165.17010498046875
+    },
+    "sentiment": 0.5070577263832092
   },
   {
-    "title": "How To YieldBoost JKHY From 1.3% To 9.5% Using Options",
-    "published": 1712831460,
-    "posting_price": 168.69818845,
-    "close_price": 167.87878418,
-    "percent_change": -0.48572203
+    "title": "Jack Henry & Associates GAAP EPS of $1.19 beats by $0.02, revenue of $538.56M misses by $2.5M",
+    "published": 1715053680,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 165.9499969482422,
+      "2024-05-07T14:30:00+00:00": 165.60000610351562,
+      "2024-05-07T15:30:00+00:00": 166.83999633789062,
+      "2024-05-07T16:30:00+00:00": 166.4199981689453,
+      "2024-05-07T17:30:00+00:00": 165.75,
+      "2024-05-07T18:30:00+00:00": 164.97500610351562,
+      "2024-05-07T19:30:00+00:00": 165.17010498046875
+    },
+    "sentiment": 0.7213348746299744
   },
   {
-    "title": "Buy 5 S&P 500 Laggards of Q1 Likely to Gather Pace in Q2",
-    "published": 1712577900,
-    "posting_price": 167.829418,
-    "close_price": 169.37937927,
-    "percent_change": 0.92353372
+    "title": "Jack Henry reports Q3 GAAP EPS $1.19, consensus $1.16",
+    "published": 1715052480,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 165.9499969482422,
+      "2024-05-07T14:30:00+00:00": 165.60000610351562,
+      "2024-05-07T15:30:00+00:00": 166.83999633789062,
+      "2024-05-07T16:30:00+00:00": 166.4199981689453,
+      "2024-05-07T17:30:00+00:00": 165.75,
+      "2024-05-07T18:30:00+00:00": 164.97500610351562,
+      "2024-05-07T19:30:00+00:00": 165.17010498046875
+    },
+    "sentiment": 0.5162538886070251
   },
   {
-    "title": "Jack Henry & Associates (JKHY) Gets a Hold from RBC Capital",
-    "published": 1712554680,
-    "posting_price": 167.829418,
-    "close_price": 169.37937927,
-    "percent_change": 0.92353372
+    "title": "Why Earnings Season Could Be Great for Jack Henry & Associates (JKHY)",
+    "published": 1715004240,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 165.0,
+      "2024-05-06T14:30:00+00:00": 165.0749969482422,
+      "2024-05-06T15:30:00+00:00": 163.8800048828125,
+      "2024-05-06T16:30:00+00:00": 163.76499938964844,
+      "2024-05-06T17:30:00+00:00": 164.27999877929688,
+      "2024-05-06T18:30:00+00:00": 164.625,
+      "2024-05-06T19:30:00+00:00": 164.1385955810547
+    },
+    "sentiment": 0.7890074253082275
   },
   {
-    "title": "Jack Henry & Associates: Steady Compounder With A Strong Moat",
-    "published": 1712319694,
-    "posting_price": 167.23706318,
-    "close_price": 167.85902405,
-    "percent_change": 0.37190373
+    "title": "Jack Henry & Associates Q3 2024 Earnings Preview",
+    "published": 1714970340,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 165.0,
+      "2024-05-06T14:30:00+00:00": 165.0749969482422,
+      "2024-05-06T15:30:00+00:00": 163.8800048828125,
+      "2024-05-06T16:30:00+00:00": 163.76499938964844,
+      "2024-05-06T17:30:00+00:00": 164.27999877929688,
+      "2024-05-06T18:30:00+00:00": 164.625,
+      "2024-05-06T19:30:00+00:00": 164.1385955810547
+    },
+    "sentiment": 0.8517212867736816
   },
   {
-    "title": "Jack Henry & Associates Establishes Endowed Scholarship Fund in Memory of Board Member Laura Kelly",
-    "published": 1712235600,
-    "posting_price": 169.07333352,
-    "close_price": 167.2469635,
-    "percent_change": -1.08022358
+    "title": "Analysts Offer Insights on Technology Companies: Amkor (AMKR), Jack Henry & Associates (JKHY) and First Solar (FSLR)",
+    "published": 1714623840,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 163.16000366210938,
+      "2024-05-02T14:30:00+00:00": 162.9199981689453,
+      "2024-05-02T15:30:00+00:00": 163.42999267578125,
+      "2024-05-02T16:30:00+00:00": 163.33999633789062,
+      "2024-05-02T17:30:00+00:00": 163.66000366210938,
+      "2024-05-02T18:30:00+00:00": 163.21499633789062,
+      "2024-05-02T19:30:00+00:00": 163.4550018310547
+    },
+    "sentiment": 0.9155181646347046
   },
   {
-    "title": "First State Bank Selects Jack Henry to Meet Local Needs",
-    "published": 1712149200,
-    "posting_price": 168.05648959,
-    "close_price": 168.08610535,
-    "percent_change": 0.0176225
+    "title": "Jack Henry & Associates (NASDAQ:JKHY) Is Due To Pay A Dividend Of $0.55",
+    "published": 1715518820,
+    "day_prices": {},
+    "sentiment": 0.9513347148895264
   },
   {
-    "title": "Jack Henry & Associates Inc (JKHY)'s Winning Formula: Financial Metrics and Competitive ...",
-    "published": 1712052300,
-    "posting_price": 168.26380122,
-    "close_price": 168.1157074,
-    "percent_change": -0.08801288
+    "title": "Analyst Estimates: Here's What Brokers Think Of Jack Henry & Associates, Inc. (NASDAQ:JKHY) After Its Third-Quarter Report",
+    "published": 1715341527,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 169.1699981689453,
+      "2024-05-10T14:30:00+00:00": 169.3000030517578,
+      "2024-05-10T15:30:00+00:00": 169.67999267578125,
+      "2024-05-10T16:30:00+00:00": 169.25999450683594,
+      "2024-05-10T17:30:00+00:00": 169.38499450683594,
+      "2024-05-10T18:30:00+00:00": 168.7550048828125,
+      "2024-05-10T19:30:00+00:00": 168.9499969482422
+    },
+    "sentiment": 0.912014365196228
   },
   {
-    "title": "D.A. Davidson Sticks to Their Buy Rating for Jack Henry & Associates (JKHY)",
-    "published": 1714463760,
-    "posting_price": 162.92286604,
-    "close_price": 160.61274719,
-    "percent_change": -1.41792181
+    "title": "Analysts\u2019 Opinions Are Mixed on These Technology Stocks: ACM Research (ACMR), Clarivate (CLVT) and Jack Henry & Associates (JKHY)",
+    "published": 1715311920,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 169.1699981689453,
+      "2024-05-10T14:30:00+00:00": 169.3000030517578,
+      "2024-05-10T15:30:00+00:00": 169.67999267578125,
+      "2024-05-10T16:30:00+00:00": 169.25999450683594,
+      "2024-05-10T17:30:00+00:00": 169.38499450683594,
+      "2024-05-10T18:30:00+00:00": 168.7550048828125,
+      "2024-05-10T19:30:00+00:00": 168.9499969482422
+    },
+    "sentiment": 0.8009304404258728
   },
   {
-    "title": "Jack Henry & Associates Announces Third Quarter 2024 Deconversion Revenue Results",
-    "published": 1714421700,
-    "posting_price": 163.05121302,
-    "close_price": 163.99894714,
-    "percent_change": 0.58124935
+    "title": "Jack Henry Enhances Financial Performance Suite with Daily Dashboard",
+    "published": 1715263200,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 166.19000244140625,
+      "2024-05-09T14:30:00+00:00": 166.77999877929688,
+      "2024-05-09T15:30:00+00:00": 167.77000427246094,
+      "2024-05-09T16:30:00+00:00": 167.86000061035156,
+      "2024-05-09T17:30:00+00:00": 167.6699981689453,
+      "2024-05-09T18:30:00+00:00": 167.3800048828125,
+      "2024-05-09T19:30:00+00:00": 168.1199951171875
+    },
+    "sentiment": 0.7069716453552246
   },
   {
-    "title": "Bank and Credit Union CEOs Reveal Top Priorities in Annual Survey",
-    "published": 1714392000,
-    "posting_price": 163.05121302,
-    "close_price": 163.99894714,
-    "percent_change": 0.58124935
+    "title": "Jack Henry & Associates Third Quarter 2024 Earnings: EPS Beats Expectations",
+    "published": 1715254793,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 166.19000244140625,
+      "2024-05-09T14:30:00+00:00": 166.77999877929688,
+      "2024-05-09T15:30:00+00:00": 167.77000427246094,
+      "2024-05-09T16:30:00+00:00": 167.86000061035156,
+      "2024-05-09T17:30:00+00:00": 167.6699981689453,
+      "2024-05-09T18:30:00+00:00": 167.3800048828125,
+      "2024-05-09T19:30:00+00:00": 168.1199951171875
+    },
+    "sentiment": 0.8743352890014648
   },
   {
-    "title": "UniWyo Credit Union Completes Successful Merger with the Help of Jack Henry",
-    "published": 1714046400,
-    "posting_price": 162.55760536,
-    "close_price": 163.77189636,
-    "percent_change": 0.7469912
+    "title": "Jack Henry & Associates Inc (JKHY) Q3 2024 Earnings Call Transcript Highlights: Robust ...",
+    "published": 1715238921,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 166.19000244140625,
+      "2024-05-09T14:30:00+00:00": 166.77999877929688,
+      "2024-05-09T15:30:00+00:00": 167.77000427246094,
+      "2024-05-09T16:30:00+00:00": 167.86000061035156,
+      "2024-05-09T17:30:00+00:00": 167.6699981689453,
+      "2024-05-09T18:30:00+00:00": 167.3800048828125,
+      "2024-05-09T19:30:00+00:00": 168.1199951171875
+    },
+    "sentiment": 0.7886872887611389
   },
   {
-    "title": "Jack Henry & Associates to Provide Webcast of Third Quarter 2024 Earnings Call",
-    "published": 1713960000,
-    "posting_price": 163.57444727,
-    "close_price": 163.09069824,
-    "percent_change": -0.29573631
+    "title": "Q3 2024 Jack Henry & Associates Inc Earnings Call",
+    "published": 1715229082,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 166.19000244140625,
+      "2024-05-09T14:30:00+00:00": 166.77999877929688,
+      "2024-05-09T15:30:00+00:00": 167.77000427246094,
+      "2024-05-09T16:30:00+00:00": 167.86000061035156,
+      "2024-05-09T17:30:00+00:00": 167.6699981689453,
+      "2024-05-09T18:30:00+00:00": 167.3800048828125,
+      "2024-05-09T19:30:00+00:00": 168.1199951171875
+    },
+    "sentiment": 0.8281417489051819
   },
   {
-    "title": "A Closer Look at 4 Analyst Recommendations For Jack Henry & Associates",
-    "published": 1713337500,
-    "posting_price": 162.39964675,
-    "close_price": 162.56747437,
-    "percent_change": 0.10334236
-  },
-  {
-    "title": "Jack Henry price target raised by $6 at Baird, here's why",
-    "published": 1713333720,
-    "posting_price": 162.39964675,
-    "close_price": 162.56747437,
-    "percent_change": 0.10334236
+    "title": "Jack Henry & Associates, Inc. (JKHY) Q3 2024 Earnings Call Transcript",
+    "published": 1715186889,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 166.8699951171875,
+      "2024-05-08T14:30:00+00:00": 167.69700622558594,
+      "2024-05-08T15:30:00+00:00": 165.9600067138672,
+      "2024-05-08T16:30:00+00:00": 166.13499450683594,
+      "2024-05-08T17:30:00+00:00": 166.00999450683594,
+      "2024-05-08T18:30:00+00:00": 166.4600067138672,
+      "2024-05-08T19:30:00+00:00": 165.7550048828125
+    },
+    "sentiment": 0.9246619343757629
   }
 ]

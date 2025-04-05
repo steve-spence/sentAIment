@@ -1,177 +1,184 @@
 [
   {
-    "title": "Solventum Names Shirley Edwards to Board of Directors",
-    "published": 1713177000,
-    "posting_price": 62.09999847,
-    "close_price": 61.68999863,
-    "percent_change": -0.6602252
+    "title": "3M Stock: Dividend Likely Cut In Half",
+    "published": 1714587947,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 64.94999694824219,
+      "2024-05-01T14:30:00+00:00": 64.50499725341797,
+      "2024-05-01T15:30:00+00:00": 64.81999969482422,
+      "2024-05-01T16:30:00+00:00": 65.02999877929688,
+      "2024-05-01T17:30:00+00:00": 64.98500061035156,
+      "2024-05-01T18:30:00+00:00": 66.04499816894531,
+      "2024-05-01T19:30:00+00:00": 66.08000183105469
+    },
+    "sentiment": 0.9196027517318726
   },
   {
-    "title": "Maintaining Hold on Solventum Corp Amidst Conservative Growth Projections and Ongoing Litigation Uncertainty",
-    "published": 1713157620,
-    "posting_price": 62.09999847,
-    "close_price": 61.68999863,
-    "percent_change": -0.6602252
+    "title": "3M\u2019s stock surges to 16-month high after dividend cut was less than feared",
+    "published": 1715772720,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 64.83000183105469,
+      "2024-05-15T14:30:00+00:00": 62.5,
+      "2024-05-15T15:30:00+00:00": 62.970001220703125,
+      "2024-05-15T16:30:00+00:00": 62.86869812011719,
+      "2024-05-15T17:30:00+00:00": 62.65999984741211,
+      "2024-05-15T18:30:00+00:00": 62.45000076293945,
+      "2024-05-15T19:30:00+00:00": 62.529998779296875
+    },
+    "sentiment": 0.8791884779930115
   },
   {
-    "title": "Video: Dow Analyst Moves: SOLV",
-    "published": 1712835600,
-    "posting_price": 63.56999969,
-    "close_price": 63.16999817,
-    "percent_change": -0.62923002
+    "title": "Royalty No More: Time to Pounce or Flee From These 3 Stumbling Dividend Aristocrats?",
+    "published": 1715598960,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 64.0,
+      "2024-05-13T14:30:00+00:00": 63.5099983215332,
+      "2024-05-13T15:30:00+00:00": 63.412498474121094,
+      "2024-05-13T16:30:00+00:00": 63.31999969482422,
+      "2024-05-13T17:30:00+00:00": 63.38999938964844,
+      "2024-05-13T18:30:00+00:00": 63.43000030517578,
+      "2024-05-13T19:30:00+00:00": 63.275001525878906
+    },
+    "sentiment": 0.7580861449241638
   },
   {
-    "title": "See How Solventum Ranks Among Analysts' Top Dow 30 Picks",
-    "published": 1712832660,
-    "posting_price": 63.56999969,
-    "close_price": 63.16999817,
-    "percent_change": -0.62923002
+    "title": "B of A Securities Initiates Coverage of Solventum (SOLV) with Neutral Recommendation",
+    "published": 1715349235,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 63.79999923706055,
+      "2024-05-10T14:30:00+00:00": 63.540000915527344,
+      "2024-05-10T15:30:00+00:00": 63.36000061035156,
+      "2024-05-10T16:30:00+00:00": 63.529998779296875,
+      "2024-05-10T17:30:00+00:00": 64.55500030517578,
+      "2024-05-10T18:30:00+00:00": 63.880001068115234,
+      "2024-05-10T19:30:00+00:00": 64.04989624023438
+    },
+    "sentiment": 0.9321784973144531
   },
   {
-    "title": "3M Could Lose Its Elite Dividend Status After 64 Years. What It Means for the Stock.",
-    "published": 1712709840,
-    "posting_price": 64.68000031,
-    "close_price": 63.88999939,
-    "percent_change": -1.22139907
+    "title": "Decoding Solventum Corp (SOLV): A Strategic SWOT Insight",
+    "published": 1715339040,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 63.79999923706055,
+      "2024-05-10T14:30:00+00:00": 63.540000915527344,
+      "2024-05-10T15:30:00+00:00": 63.36000061035156,
+      "2024-05-10T16:30:00+00:00": 63.529998779296875,
+      "2024-05-10T17:30:00+00:00": 64.55500030517578,
+      "2024-05-10T18:30:00+00:00": 63.880001068115234,
+      "2024-05-10T19:30:00+00:00": 64.04989624023438
+    },
+    "sentiment": 0.9072591662406921
   },
   {
-    "title": "Solventum initiated with neutral view at Morgan Stanley, here's why",
-    "published": 1712637720,
-    "posting_price": 65.48000336,
-    "close_price": 65.51999664,
-    "percent_change": 0.06107709
+    "title": "Solventum initiated with a Neutral at BofA",
+    "published": 1715323320,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 63.79999923706055,
+      "2024-05-10T14:30:00+00:00": 63.540000915527344,
+      "2024-05-10T15:30:00+00:00": 63.36000061035156,
+      "2024-05-10T16:30:00+00:00": 63.529998779296875,
+      "2024-05-10T17:30:00+00:00": 64.55500030517578,
+      "2024-05-10T18:30:00+00:00": 63.880001068115234,
+      "2024-05-10T19:30:00+00:00": 64.04989624023438
+    },
+    "sentiment": 0.9210525751113892
   },
   {
-    "title": "Solventum initiated with neutral view at Morgan Stanley",
-    "published": 1712633940,
-    "posting_price": 65.48000336,
-    "close_price": 65.51999664,
-    "percent_change": 0.06107709
+    "title": "3M Scores Another Upgrade as Street Sentiment Is Rising From Rock Bottom",
+    "published": 1715298300,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 65.5199966430664,
+      "2024-05-09T14:30:00+00:00": 67.20999908447266,
+      "2024-05-09T15:30:00+00:00": 64.66500091552734,
+      "2024-05-09T16:30:00+00:00": 64.65499877929688,
+      "2024-05-09T17:30:00+00:00": 64.41999816894531,
+      "2024-05-09T18:30:00+00:00": 64.33999633789062,
+      "2024-05-09T19:30:00+00:00": 64.7699966430664
+    },
+    "sentiment": 0.947555661201477
   },
   {
-    "title": "Video: Dow Movers: SOLV, MMM",
-    "published": 1712567520,
-    "posting_price": 70.05999756,
-    "close_price": 67.01000214,
-    "percent_change": -4.35340498
+    "title": "Solventum Reports First Quarter 2024 Financial Results and Capital Allocation Update",
+    "published": 1715251800,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 65.5199966430664,
+      "2024-05-09T14:30:00+00:00": 67.20999908447266,
+      "2024-05-09T15:30:00+00:00": 64.66500091552734,
+      "2024-05-09T16:30:00+00:00": 64.65499877929688,
+      "2024-05-09T17:30:00+00:00": 64.41999816894531,
+      "2024-05-09T18:30:00+00:00": 64.33999633789062,
+      "2024-05-09T19:30:00+00:00": 64.7699966430664
+    },
+    "sentiment": 0.9364103078842163
   },
   {
-    "title": "Solventum initiated with neutral view at Wells Fargo, here's why",
-    "published": 1712550780,
-    "posting_price": 70.05999756,
-    "close_price": 67.01000214,
-    "percent_change": -4.35340498
+    "title": "Solventum Corporation Non-GAAP EPS of $2.08 beats by $0.33, revenue of $2.01B beats by $40M",
+    "published": 1715235300,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 65.5199966430664,
+      "2024-05-09T14:30:00+00:00": 67.20999908447266,
+      "2024-05-09T15:30:00+00:00": 64.66500091552734,
+      "2024-05-09T16:30:00+00:00": 64.65499877929688,
+      "2024-05-09T17:30:00+00:00": 64.41999816894531,
+      "2024-05-09T18:30:00+00:00": 64.33999633789062,
+      "2024-05-09T19:30:00+00:00": 64.7699966430664
+    },
+    "sentiment": 0.7396605014801025
   },
   {
-    "title": "'Picking Up The Slack' Stock Market (And Sentiment Results)...",
-    "published": 1712236744,
-    "posting_price": 63.04999924,
-    "close_price": 67.0,
-    "percent_change": 6.26487043
+    "title": "Solventum backs FY24 adjusted EPS view $6.10-$6.40, consensus $6.27",
+    "published": 1715234520,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 65.5199966430664,
+      "2024-05-09T14:30:00+00:00": 67.20999908447266,
+      "2024-05-09T15:30:00+00:00": 64.66500091552734,
+      "2024-05-09T16:30:00+00:00": 64.65499877929688,
+      "2024-05-09T17:30:00+00:00": 64.41999816894531,
+      "2024-05-09T18:30:00+00:00": 64.33999633789062,
+      "2024-05-09T19:30:00+00:00": 64.7699966430664
+    },
+    "sentiment": 0.5930352210998535
   },
   {
-    "title": "One new option listing and five option delistings on April 4th",
-    "published": 1712215860,
-    "posting_price": 63.04999924,
-    "close_price": 67.0,
-    "percent_change": 6.26487043
+    "title": "Solventum Reports Earnings. There Will Be No Dividend.",
+    "published": 1715205660,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 65.2300033569336,
+      "2024-05-08T14:30:00+00:00": 65.58000183105469,
+      "2024-05-08T15:30:00+00:00": 66.12999725341797,
+      "2024-05-08T16:30:00+00:00": 66.17500305175781,
+      "2024-05-08T17:30:00+00:00": 66.06999969482422,
+      "2024-05-08T18:30:00+00:00": 66.34500122070312,
+      "2024-05-08T19:30:00+00:00": 66.125
+    },
+    "sentiment": 0.9284011125564575
   },
   {
-    "title": "3M Says Bye To Solventum - Why I Stick To My Bullish Call",
-    "published": 1712050201,
-    "posting_price": 67.66999817,
-    "close_price": 66.90000153,
-    "percent_change": -1.13787005
+    "title": "Solventum: A Reasonable Start, Still Some Questions To Be Asked",
+    "published": 1715964005,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 61.79999923706055,
+      "2024-05-17T14:30:00+00:00": 61.404998779296875,
+      "2024-05-17T15:30:00+00:00": 61.20500183105469,
+      "2024-05-17T16:30:00+00:00": 61.2400016784668,
+      "2024-05-17T17:30:00+00:00": 61.54999923706055,
+      "2024-05-17T18:30:00+00:00": 61.279998779296875,
+      "2024-05-17T19:30:00+00:00": 62.02000045776367
+    },
+    "sentiment": 0.8817793130874634
   },
   {
-    "title": "Solventum initiated with bullish view at Spin-Off Research",
-    "published": 1712048520,
-    "posting_price": 67.66999817,
-    "close_price": 66.90000153,
-    "percent_change": -1.13787005
-  },
-  {
-    "title": "3M Is Cutting Its Dividend. Its Stock Just Got Upgraded.",
-    "published": 1714516020,
-    "posting_price": 65.20999908,
-    "close_price": 65.01000214,
-    "percent_change": -0.30669674
-  },
-  {
-    "title": "3M (MMM) Reports Strong Quarter as CEO Mike Roman Steps Down",
-    "published": 1714475700,
-    "posting_price": 65.20999908,
-    "close_price": 65.01000214,
-    "percent_change": -0.30669674
-  },
-  {
-    "title": "3M rises on earnings beat; plans post-spin dividend cut",
-    "published": 1714466880,
-    "posting_price": 65.20999908,
-    "close_price": 65.01000214,
-    "percent_change": -0.30669674
-  },
-  {
-    "title": "3M jumps on earnings beat; plans post-spin dividend cut",
-    "published": 1714462980,
-    "posting_price": 65.20999908,
-    "close_price": 65.01000214,
-    "percent_change": -0.30669674
-  },
-  {
-    "title": "3M says first quarter exceeded expectations despite earnings decline",
-    "published": 1714461780,
-    "posting_price": 65.20999908,
-    "close_price": 65.01000214,
-    "percent_change": -0.30669674
-  },
-  {
-    "title": "3M\u2019s stock surges toward a 14-month high after profit, sales beat expectations",
-    "published": 1714437900,
-    "posting_price": 65.20999908,
-    "close_price": 65.01000214,
-    "percent_change": -0.30669674
-  },
-  {
-    "title": "3M Is \u2018Resetting\u2019 Its Dividend. Why Its Stock Is Soaring.",
-    "published": 1714429680,
-    "posting_price": 63.49000168,
-    "close_price": 65.91000366,
-    "percent_change": 3.8116269
-  },
-  {
-    "title": "3M Q1 results preview: Earnings expectations priced, future post lawsuits in focus",
-    "published": 1714388520,
-    "posting_price": 63.49000168,
-    "close_price": 65.91000366,
-    "percent_change": 3.8116269
-  },
-  {
-    "title": "Solventum Corporation: Hold Rating Justified Amid Market Stability and Competitive Challenges",
-    "published": 1714026480,
-    "posting_price": 62.75,
-    "close_price": 61.83000183,
-    "percent_change": -1.46613254
-  },
-  {
-    "title": "Solventum Announces First Quarter 2024 Earnings Release Date and Upcoming Investor Events",
-    "published": 1713905100,
-    "posting_price": 62.02999878,
-    "close_price": 63.5,
-    "percent_change": 2.36982307
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These NA Stocks: Boundless Bio Inc. (BOLD) and Solventum Corporation (SOLV)",
-    "published": 1713764460,
-    "posting_price": 62.25,
-    "close_price": 62.06999969,
-    "percent_change": -0.28915712
-  },
-  {
-    "title": "Top Dividend Aristocrat #1: MMM",
-    "published": 1713490080,
-    "posting_price": 63.58000183,
-    "close_price": 62.20000076,
-    "percent_change": -2.17049549
+    "title": "Divide and Conquer: 3 Stock Spinoffs Set to Trounce the Market",
+    "published": 1715830920,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 62.0,
+      "2024-05-16T14:30:00+00:00": 61.27000045776367,
+      "2024-05-16T15:30:00+00:00": 61.16999816894531,
+      "2024-05-16T16:30:00+00:00": 61.494998931884766,
+      "2024-05-16T17:30:00+00:00": 61.4900016784668,
+      "2024-05-16T18:30:00+00:00": 61.31999969482422,
+      "2024-05-16T19:30:00+00:00": 61.47999954223633
+    },
+    "sentiment": 0.8440085649490356
   }
 ]

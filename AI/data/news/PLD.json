@@ -1,688 +1,302 @@
 [
   {
-    "title": "Top 2 Dividend Compounders To Buy In April (Up To 3.2% Yield)",
-    "published": 1712941391,
-    "posting_price": 116.03226457,
-    "close_price": 115.07492065,
-    "percent_change": -0.825067
-  },
-  {
-    "title": "Ahead of Prologis (PLD) Q1 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-    "published": 1712927721,
-    "posting_price": 116.03226457,
-    "close_price": 115.07492065,
-    "percent_change": -0.825067
-  },
-  {
-    "title": "Prologis: Waiting For Godot And $80",
-    "published": 1712898884,
-    "posting_price": 116.03226457,
-    "close_price": 115.07492065,
-    "percent_change": -0.825067
-  },
-  {
-    "title": "Prologis Enters Oversold Territory",
-    "published": 1712831460,
-    "posting_price": 117.22170594,
-    "close_price": 116.28369904,
-    "percent_change": -0.80019898
-  },
-  {
-    "title": "Prologis (PLD) Shares Cross Below 200 DMA",
-    "published": 1712749980,
-    "posting_price": 117.77290192,
-    "close_price": 116.64149475,
-    "percent_change": -0.9606685
-  },
-  {
-    "title": "2 Dividend Growth Stocks You Can Buy Right Now Before They Surge Even Higher",
-    "published": 1712737860,
-    "posting_price": 117.77290192,
-    "close_price": 116.64149475,
-    "percent_change": -0.9606685
-  },
-  {
-    "title": "4 REITs With Double Digit Total Returns Over The Last 3 And 5 Years",
-    "published": 1712736300,
-    "posting_price": 117.77290192,
-    "close_price": 116.64149475,
-    "percent_change": -0.9606685
-  },
-  {
-    "title": "Platform Science secures $125M to grow OEM partnerships",
-    "published": 1712667600,
-    "posting_price": 122.20183899,
-    "close_price": 122.09546661,
-    "percent_change": -0.08704646
-  },
-  {
-    "title": "LXP Industrial Trust: A Speculative Case For M&A",
-    "published": 1712598157,
-    "posting_price": 121.08976805,
-    "close_price": 122.00843048,
-    "percent_change": 0.75866231
-  },
-  {
-    "title": "March Madness: Elite 8 REITs",
-    "published": 1712473200,
-    "posting_price": 121.08976805,
-    "close_price": 122.00843048,
-    "percent_change": 0.75866231
-  },
-  {
-    "title": "What I Wish I Knew Before Buying REITs",
-    "published": 1712388600,
-    "posting_price": 121.08977563,
-    "close_price": 122.00843811,
-    "percent_change": 0.7586623
-  },
-  {
-    "title": "STAG Industrial: A 4% REIT Gem For A Growing Market",
-    "published": 1712335347,
-    "posting_price": 119.93902208,
-    "close_price": 120.62560272,
-    "percent_change": 0.57244142
-  },
-  {
-    "title": "Prologis Inc. stock rises Friday, still underperforms market",
-    "published": 1712288700,
-    "posting_price": 119.93902208,
-    "close_price": 120.62560272,
-    "percent_change": 0.57244142
-  },
-  {
-    "title": "Prologis (PLD) Stock Moves -1.11%: What You Should Know",
-    "published": 1712268919,
-    "posting_price": 124.01016579,
-    "close_price": 120.57725525,
-    "percent_change": -2.76824929
-  },
-  {
-    "title": "First Week of PLD April 19th Options Trading",
-    "published": 1712137080,
-    "posting_price": 120.94471515,
-    "close_price": 121.93106842,
-    "percent_change": 0.81554061
-  },
-  {
-    "title": "3 REITs to Buy Hand Over Fist in April",
-    "published": 1712060100,
-    "posting_price": 122.69501337,
-    "close_price": 121.43789673,
-    "percent_change": -1.02458658
-  },
-  {
-    "title": "First Week of PLD August 16th Options Trading",
-    "published": 1712051220,
-    "posting_price": 122.69501337,
-    "close_price": 121.43789673,
-    "percent_change": -1.02458658
-  },
-  {
-    "title": "Six-Way Bidding War Will Decide Who Is Mexico\u2019s Nearshoring King",
-    "published": 1714516183,
-    "posting_price": 99.1288323,
-    "close_price": 98.68400574,
-    "percent_change": -0.4487358
-  },
-  {
-    "title": "Here is What to Know Beyond Why Prologis, Inc. (PLD) is a Trending Stock",
-    "published": 1714482010,
-    "posting_price": 99.1288323,
-    "close_price": 98.68400574,
-    "percent_change": -0.4487358
-  },
-  {
-    "title": "Truist Financial Sticks to Their Buy Rating for Prologis (PLD)",
-    "published": 1714469160,
-    "posting_price": 99.1288323,
-    "close_price": 98.68400574,
-    "percent_change": -0.4487358
-  },
-  {
-    "title": "Analysts Offer Insights on Real Estate Companies: Prologis (PLD), Welltower (WELL) and PennyMac Mortgage (PMT)",
-    "published": 1714465920,
-    "posting_price": 99.1288323,
-    "close_price": 98.68400574,
-    "percent_change": -0.4487358
-  },
-  {
-    "title": "Top 3 Real Estate Stocks That Are Set To Fly In April",
-    "published": 1714371480,
-    "posting_price": 101.98152579,
-    "close_price": 101.54637146,
-    "percent_change": -0.42669918
-  },
-  {
-    "title": "Prologis price target lowered by $12 at Barclays, here's why",
-    "published": 1714366500,
-    "posting_price": 101.98152579,
-    "close_price": 101.54637146,
-    "percent_change": -0.42669918
-  },
-  {
-    "title": "Barclays Reaffirms Their Buy Rating on Prologis (PLD)",
-    "published": 1714366080,
-    "posting_price": 101.98152579,
-    "close_price": 101.54637146,
-    "percent_change": -0.42669918
-  },
-  {
-    "title": "Higher For Longer? Focus On The Balance Sheet",
-    "published": 1714201200,
-    "posting_price": 101.98152579,
-    "close_price": 101.54637146,
-    "percent_change": -0.42669918
-  },
-  {
-    "title": "New Industrial Real Estate Offering Is Targeting A 20.7% IRR",
-    "published": 1714165330,
-    "posting_price": 100.01848327,
-    "close_price": 100.62770081,
-    "percent_change": 0.60910496
-  },
-  {
-    "title": "3 REITs That Just Raised 2024 Full-Year Guidance",
-    "published": 1714161748,
-    "posting_price": 100.01848327,
-    "close_price": 100.62770081,
-    "percent_change": 0.60910496
-  },
-  {
-    "title": "2 Dividend Stocks to Double Up On Right Now",
-    "published": 1714124220,
-    "posting_price": 100.01848327,
-    "close_price": 100.62770081,
-    "percent_change": 0.60910496
-  },
-  {
-    "title": "Prologis price target lowered by $17 at Truist, here's why",
-    "published": 1714108260,
-    "posting_price": 100.01848327,
-    "close_price": 100.62770081,
-    "percent_change": 0.60910496
-  },
-  {
-    "title": "Decoding Prologis Inc (PLD): A Strategic SWOT Insight",
-    "published": 1714108007,
-    "posting_price": 100.01848327,
-    "close_price": 100.62770081,
-    "percent_change": 0.60910496
-  },
-  {
-    "title": "Update: Prologis, RE/MAX Shares Rise; Judge Grants Preliminary Approval on Real Estate Commission Settlement",
-    "published": 1713900634,
-    "posting_price": 101.09187886,
-    "close_price": 101.37231445,
-    "percent_change": 0.27740665
-  },
-  {
-    "title": "(PLD) - Analyzing Prologis's Short Interest",
-    "published": 1713872820,
-    "posting_price": 101.09187886,
-    "close_price": 101.37231445,
-    "percent_change": 0.27740665
-  },
-  {
-    "title": "What Just Happened To Prologis?",
-    "published": 1713855600,
-    "posting_price": 101.09187886,
-    "close_price": 101.37231445,
-    "percent_change": 0.27740665
-  },
-  {
-    "title": "BMO Capital Downgrades Prologis (PLD)",
-    "published": 1713835594,
-    "posting_price": 101.09187886,
-    "close_price": 101.37231445,
-    "percent_change": 0.27740665
-  },
-  {
-    "title": "3 Industrial REITs At Bargain Prices",
-    "published": 1713813725,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "4 REITs With Recent Price Target Cuts",
-    "published": 1713810796,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "EastGroup Properties: A Fully Valued Industrial Sunbelt Play",
-    "published": 1713805915,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "12 Analysts Have This To Say About Prologis",
-    "published": 1713787620,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Goldman Sachs Keeps Their Buy Rating on Prologis (PLD)",
-    "published": 1713784560,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Real Estate Companies: Apple Hospitality REIT (APLE) and Prologis (PLD)",
-    "published": 1713777720,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Prologis cut to Market Perform at BMO on 'murky' demand prospects",
-    "published": 1713775800,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Prologis price target lowered by $19 at Argus, here's why",
-    "published": 1713774540,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "That One Important Chart Dividend Investors Need To Watch",
-    "published": 1713769200,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Prologis Stock Hold Rating Justified by Performance and Market Challenges",
-    "published": 1713761220,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Prologis just downgraded at BMO Capital, here's why",
-    "published": 1713760620,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "3 'Must Own' Fortress REITs",
-    "published": 1713682800,
-    "posting_price": 100.37627798,
-    "close_price": 100.64704132,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Here's the Top Stock on My Watch List Right Now \u2013 I Can't Believe How Cheap It Has Become",
-    "published": 1713609180,
-    "posting_price": 100.37628559,
-    "close_price": 100.64704895,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "Benzinga Bulls And Bears: Tesla, DraftKings, Broadcom And Trader Says Buy Dogecoin In High 10 Cents If You Get A Chance",
-    "published": 1713602940,
-    "posting_price": 100.37628559,
-    "close_price": 100.64704895,
-    "percent_change": 0.26974834
-  },
-  {
-    "title": "3 Best Stocks to Buy Now, 4/19/2024, According to Top Analysts",
-    "published": 1713500520,
-    "posting_price": 101.18856999,
-    "close_price": 100.07649994,
-    "percent_change": -1.09900758
-  },
-  {
-    "title": "30 Countries with Carbon Tax in the World",
-    "published": 1713475295,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "The Coal Mine Canary - Don't Ignore J.B. Hunt Earnings",
-    "published": 1713450670,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Prologis, Inc. (NYSE:PLD) Q1 2024 Earnings Call Transcript",
-    "published": 1713444434,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Prologis Unusual Options Activity",
-    "published": 1713440160,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "This Incredible Dividend Stock Hit a Speed Bump. Time to Sell?",
-    "published": 1713431820,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Q1 2024 Prologis Inc Earnings Call",
-    "published": 1713427844,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Prologis price target lowered by $13 at Evercore ISI, here's why",
-    "published": 1713424680,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Prologis Inc (PLD) Q1 2024 Earnings Call Transcript Highlights: Strong Performance Amid ...",
-    "published": 1713423787,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Scotiabank Reaffirms Their Buy Rating on Prologis (PLD)",
-    "published": 1713421080,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "Prologis price target lowered by $13 at UBS, here's why",
-    "published": 1713418140,
-    "posting_price": 102.46503821,
-    "close_price": 101.23693085,
-    "percent_change": -1.19856234
-  },
-  {
-    "title": "How real estate investors should play higher interest rates",
-    "published": 1713388515,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis (PLD) Q1 2024 Earnings Call Transcript",
-    "published": 1713386716,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "U.S. Stocks Slide On Tech Weakness",
-    "published": 1713384360,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Stocks to Watch Wednesday: United Airlines, Alcoa, Adidas, ASML",
-    "published": 1713348354,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis Warns of Slowing Industrial Real-Estate Market",
-    "published": 1713381300,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis sees market tightening again once interest rate cuts begin",
-    "published": 1713380741,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Nasdaq, S&P 500 Fall as More Earnings Roll In",
-    "published": 1713378660,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis reports in-line Q1, slightly trims 2024 outlook",
-    "published": 1713369707,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis (PLD) Meets Q1 FFO Estimates, Trims 2024 Guidance",
-    "published": 1713369540,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis, Inc. (PLD) Q1 2024 Earnings Call Transcript",
-    "published": 1713367628,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis (PLD) Reports Q1 Earnings: What Key Metrics Have to Say",
-    "published": 1713360607,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Warehouse-focused REIT Prologis lowers FFO forecast on slowing freight demand",
-    "published": 1713360271,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis (PLD) Q1 FFO Meet Estimates",
-    "published": 1713359402,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "United Airlines, Eli Lilly rise; JB Hunt, Travelers fall, Wednesday, 4/17/2024",
-    "published": 1713358020,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis Reports First Quarter Results",
-    "published": 1713355200,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "PLD Stock Earnings: Prologis Meets EPS, Misses Revenue for Q1 2024",
-    "published": 1713355020,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis in real estate losers, Ucommune International in gainers",
-    "published": 1713351720,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis (PLD): A Buy Rating Amidst Market Fluctuations and Long-Term Growth Prospects",
-    "published": 1713349560,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Real Estate Stocks Fall As Mortgage Rates Rise To 4-Month Highs: 'Inflation Is Proving Tougher To Bring Down'",
-    "published": 1713349500,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "3 No-Brainer High-Yield Dividend Stocks to Buy Right Now for Less Than $1,000",
-    "published": 1713348840,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "PLD Earnings: Prologis Drops After Slashing Outlook",
-    "published": 1713346260,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis falls -5.6%",
-    "published": 1713344460,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis 1Q Revenue Beats Estimates, Warns of Slower Environment Ahead",
-    "published": 1713343819,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Maintaining Buy Rating: Prologis Shows Resilience and Strong Leasing Amidst Challenging Outlook",
-    "published": 1713342960,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis: Q1 Earnings Snapshot",
-    "published": 1713341347,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "ProLogis : Investor Fact Sheet Q1 2024",
-    "published": 1713341174,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis cuts 2024 guidance for core FFO as interest rates weigh on leasing",
-    "published": 1713338820,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis Q1 2024 Financial Performance Update",
-    "published": 1713338580,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis lowers FY24 core FFO ex-items to $5.45-$5.55 from $5.50-$5.64",
-    "published": 1713337680,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis reports Q1 Core FFO $1.31 ex-items, consensus $1.28",
-    "published": 1713337500,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis FFO of $1.31 beats by $0.02, revenue of $1.96B beats by $130M",
-    "published": 1713337440,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Options Volatility and Implied Earnings Moves Today, April 17, 2024",
-    "published": 1713333960,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis price target lowered by $6 at Barclays, here's why",
-    "published": 1713328020,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Prologis Inc. stock underperforms Wednesday when compared to competitors",
-    "published": 1713325680,
-    "posting_price": 105.11465926,
-    "close_price": 102.97755432,
-    "percent_change": -2.03311789
-  },
-  {
-    "title": "Companies reporting earnings on Wednesday",
-    "published": 1713291775,
-    "posting_price": 111.81608822,
-    "close_price": 110.95544434,
-    "percent_change": -0.76969593
-  },
-  {
-    "title": "Key Factors to Impact Prologis (PLD) This Earnings Season",
-    "published": 1713279120,
-    "posting_price": 111.81608822,
-    "close_price": 110.95544434,
-    "percent_change": -0.76969593
-  },
-  {
-    "title": "Bank of America Securities Reaffirms Their Buy Rating on Prologis (PLD)",
-    "published": 1713269820,
-    "posting_price": 111.81608822,
-    "close_price": 110.95544434,
-    "percent_change": -0.76969593
-  },
-  {
-    "title": "Prologis Q1 2024 Earnings Preview",
-    "published": 1713267540,
-    "posting_price": 111.81608822,
-    "close_price": 110.95544434,
-    "percent_change": -0.76969593
-  },
-  {
-    "title": "Prologis (PLD) Gets a Buy from Wells Fargo",
-    "published": 1713244080,
-    "posting_price": 111.81608822,
-    "close_price": 110.95544434,
-    "percent_change": -0.76969593
+    "title": "Prologis Has Crashed: Buy, Hold, Or Sell?",
+    "published": 1715067000,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 106.4800033569336,
+      "2024-05-07T14:30:00+00:00": 105.86000061035156,
+      "2024-05-07T15:30:00+00:00": 106.55000305175781,
+      "2024-05-07T16:30:00+00:00": 107.20999908447266,
+      "2024-05-07T17:30:00+00:00": 107.69339752197266,
+      "2024-05-07T18:30:00+00:00": 107.37999725341797,
+      "2024-05-07T19:30:00+00:00": 107.75
+    },
+    "sentiment": 0.9066061973571777
+  },
+  {
+    "title": "RBC Capital Sticks to Its Buy Rating for Prologis (PLD)",
+    "published": 1714973760,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 106.37999725341797,
+      "2024-05-06T14:30:00+00:00": 105.19029998779297,
+      "2024-05-06T15:30:00+00:00": 104.56999969482422,
+      "2024-05-06T16:30:00+00:00": 104.33499908447266,
+      "2024-05-06T17:30:00+00:00": 104.33999633789062,
+      "2024-05-06T18:30:00+00:00": 104.69999694824219,
+      "2024-05-06T19:30:00+00:00": 104.31999969482422
+    },
+    "sentiment": 0.7377206087112427
+  },
+  {
+    "title": "Here's My Top Stock to Buy in May",
+    "published": 1714756022,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 106.75,
+      "2024-05-03T14:30:00+00:00": 106.5199966430664,
+      "2024-05-03T15:30:00+00:00": 106.12000274658203,
+      "2024-05-03T16:30:00+00:00": 106.38999938964844,
+      "2024-05-03T17:30:00+00:00": 105.66000366210938,
+      "2024-05-03T18:30:00+00:00": 105.69999694824219,
+      "2024-05-03T19:30:00+00:00": 105.54000091552734
+    },
+    "sentiment": 0.9302476644515991
+  },
+  {
+    "title": "Prologis, Samsara And More On CNBC's 'Final Trades'",
+    "published": 1714730340,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 106.75,
+      "2024-05-03T14:30:00+00:00": 106.5199966430664,
+      "2024-05-03T15:30:00+00:00": 106.12000274658203,
+      "2024-05-03T16:30:00+00:00": 106.38999938964844,
+      "2024-05-03T17:30:00+00:00": 105.66000366210938,
+      "2024-05-03T18:30:00+00:00": 105.69999694824219,
+      "2024-05-03T19:30:00+00:00": 105.54000091552734
+    },
+    "sentiment": 0.9504477381706238
+  },
+  {
+    "title": "JPMorgan Just Cut Its Price Target on These 3 Stocks",
+    "published": 1714645500,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 103.80999755859375,
+      "2024-05-02T14:30:00+00:00": 102.41999816894531,
+      "2024-05-02T15:30:00+00:00": 102.79000091552734,
+      "2024-05-02T16:30:00+00:00": 102.98999786376953,
+      "2024-05-02T17:30:00+00:00": 103.58000183105469,
+      "2024-05-02T18:30:00+00:00": 103.5199966430664,
+      "2024-05-02T19:30:00+00:00": 104.24500274658203
+    },
+    "sentiment": 0.5143909454345703
+  },
+  {
+    "title": "STAG Industrial Q1 Earnings: Powering Through A Softening Industrial Market",
+    "published": 1714569600,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 101.86000061035156,
+      "2024-05-01T14:30:00+00:00": 101.87999725341797,
+      "2024-05-01T15:30:00+00:00": 102.44000244140625,
+      "2024-05-01T16:30:00+00:00": 102.26000213623047,
+      "2024-05-01T17:30:00+00:00": 102.09500122070312,
+      "2024-05-01T18:30:00+00:00": 102.04000091552734,
+      "2024-05-01T19:30:00+00:00": 103.33999633789062
+    },
+    "sentiment": 0.871134340763092
+  },
+  {
+    "title": "REITs cut capital raising activities by more than half in April, says report",
+    "published": 1715740560,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 110.5999984741211,
+      "2024-05-15T14:30:00+00:00": 109.58499908447266,
+      "2024-05-15T15:30:00+00:00": 110.33989715576172,
+      "2024-05-15T16:30:00+00:00": 110.41999816894531,
+      "2024-05-15T17:30:00+00:00": 110.55000305175781,
+      "2024-05-15T18:30:00+00:00": 110.52639770507812,
+      "2024-05-15T19:30:00+00:00": 109.9800033569336
+    },
+    "sentiment": 0.9512887597084045
+  },
+  {
+    "title": "Prologis Declares Quarterly Dividend",
+    "published": 1715286600,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 106.5,
+      "2024-05-09T14:30:00+00:00": 107.16000366210938,
+      "2024-05-09T15:30:00+00:00": 106.98500061035156,
+      "2024-05-09T16:30:00+00:00": 107.19000244140625,
+      "2024-05-09T17:30:00+00:00": 107.13999938964844,
+      "2024-05-09T18:30:00+00:00": 107.78500366210938,
+      "2024-05-09T19:30:00+00:00": 108.11000061035156
+    },
+    "sentiment": 0.5340971946716309
+  },
+  {
+    "title": "Predicting Rain Doesn't Count, Building Arks Does",
+    "published": 1715238000,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 106.5,
+      "2024-05-09T14:30:00+00:00": 107.16000366210938,
+      "2024-05-09T15:30:00+00:00": 106.98500061035156,
+      "2024-05-09T16:30:00+00:00": 107.19000244140625,
+      "2024-05-09T17:30:00+00:00": 107.13999938964844,
+      "2024-05-09T18:30:00+00:00": 107.78500366210938,
+      "2024-05-09T19:30:00+00:00": 108.11000061035156
+    },
+    "sentiment": 0.9247049689292908
+  },
+  {
+    "title": "Prologis Inc. stock outperforms competitors on strong trading day",
+    "published": 1715226240,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 106.5,
+      "2024-05-09T14:30:00+00:00": 107.16000366210938,
+      "2024-05-09T15:30:00+00:00": 106.98500061035156,
+      "2024-05-09T16:30:00+00:00": 107.19000244140625,
+      "2024-05-09T17:30:00+00:00": 107.13999938964844,
+      "2024-05-09T18:30:00+00:00": 107.78500366210938,
+      "2024-05-09T19:30:00+00:00": 108.11000061035156
+    },
+    "sentiment": 0.9436149001121521
+  },
+  {
+    "title": "Is Prologis (PLD) a Buy as Wall Street Analysts Look Optimistic?",
+    "published": 1716471010,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 109.19000244140625,
+      "2024-05-23T14:30:00+00:00": 107.52999877929688,
+      "2024-05-23T15:30:00+00:00": 107.04000091552734,
+      "2024-05-23T16:30:00+00:00": 107.16999816894531,
+      "2024-05-23T17:30:00+00:00": 106.2300033569336,
+      "2024-05-23T18:30:00+00:00": 105.87999725341797,
+      "2024-05-23T19:30:00+00:00": 106.4000015258789
+    },
+    "sentiment": 0.8285088539123535
+  },
+  {
+    "title": "Nvidia, Synopsys rise; Live Nation, V.F. Corp. fall, Thursday, 5/23/2024",
+    "published": 1716468300,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 109.19000244140625,
+      "2024-05-23T14:30:00+00:00": 107.52999877929688,
+      "2024-05-23T15:30:00+00:00": 107.04000091552734,
+      "2024-05-23T16:30:00+00:00": 107.16999816894531,
+      "2024-05-23T17:30:00+00:00": 106.2300033569336,
+      "2024-05-23T18:30:00+00:00": 105.87999725341797,
+      "2024-05-23T19:30:00+00:00": 106.4000015258789
+    },
+    "sentiment": 0.9143591523170471
+  },
+  {
+    "title": "Losers Of REIT Earnings Season",
+    "published": 1716462000,
+    "day_prices": {
+      "2024-05-23T13:30:00+00:00": 109.19000244140625,
+      "2024-05-23T14:30:00+00:00": 107.52999877929688,
+      "2024-05-23T15:30:00+00:00": 107.04000091552734,
+      "2024-05-23T16:30:00+00:00": 107.16999816894531,
+      "2024-05-23T17:30:00+00:00": 106.2300033569336,
+      "2024-05-23T18:30:00+00:00": 105.87999725341797,
+      "2024-05-23T19:30:00+00:00": 106.4000015258789
+    },
+    "sentiment": 0.7944047451019287
+  },
+  {
+    "title": "Prologis (PLD) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "published": 1716415203,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 110.12000274658203,
+      "2024-05-22T14:30:00+00:00": 110.74500274658203,
+      "2024-05-22T15:30:00+00:00": 111.17500305175781,
+      "2024-05-22T16:30:00+00:00": 110.69999694824219,
+      "2024-05-22T17:30:00+00:00": 110.37000274658203,
+      "2024-05-22T18:30:00+00:00": 109.3499984741211,
+      "2024-05-22T19:30:00+00:00": 109.04000091552734
+    },
+    "sentiment": 0.7803270816802979
+  },
+  {
+    "title": "Mizuho Securities Sticks to Its Hold Rating for Prologis (PLD)",
+    "published": 1716382680,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 110.12000274658203,
+      "2024-05-22T14:30:00+00:00": 110.74500274658203,
+      "2024-05-22T15:30:00+00:00": 111.17500305175781,
+      "2024-05-22T16:30:00+00:00": 110.69999694824219,
+      "2024-05-22T17:30:00+00:00": 110.37000274658203,
+      "2024-05-22T18:30:00+00:00": 109.3499984741211,
+      "2024-05-22T19:30:00+00:00": 109.04000091552734
+    },
+    "sentiment": 0.7675256729125977
+  },
+  {
+    "title": "Prologis Inc. stock outperforms competitors despite losses on the day",
+    "published": 1716349620,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 110.12000274658203,
+      "2024-05-22T14:30:00+00:00": 110.74500274658203,
+      "2024-05-22T15:30:00+00:00": 111.17500305175781,
+      "2024-05-22T16:30:00+00:00": 110.69999694824219,
+      "2024-05-22T17:30:00+00:00": 110.37000274658203,
+      "2024-05-22T18:30:00+00:00": 109.3499984741211,
+      "2024-05-22T19:30:00+00:00": 109.04000091552734
+    },
+    "sentiment": 0.9403805136680603
+  },
+  {
+    "title": "Responsible Investing, Rewarding Returns: 3 ESG Stocks to Feel Good About",
+    "published": 1716285600,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 111.52999877929688,
+      "2024-05-21T14:30:00+00:00": 111.19999694824219,
+      "2024-05-21T15:30:00+00:00": 110.7699966430664,
+      "2024-05-21T16:30:00+00:00": 110.36000061035156,
+      "2024-05-21T17:30:00+00:00": 110.1050033569336,
+      "2024-05-21T18:30:00+00:00": 110.08000183105469,
+      "2024-05-21T19:30:00+00:00": 110.16000366210938
+    },
+    "sentiment": 0.8297007083892822
+  },
+  {
+    "title": "Real estate stocks continue to surge as soft inflation reports fuel rate cut hopes",
+    "published": 1716030420,
+    "day_prices": {},
+    "sentiment": 0.8221270442008972
+  },
+  {
+    "title": "Forget VNQ: Build Your Own High-Yielding Real Estate Portfolio",
+    "published": 1715929200,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 111.12999725341797,
+      "2024-05-17T14:30:00+00:00": 111.04000091552734,
+      "2024-05-17T15:30:00+00:00": 110.70999908447266,
+      "2024-05-17T16:30:00+00:00": 110.76000213623047,
+      "2024-05-17T17:30:00+00:00": 110.80999755859375,
+      "2024-05-17T18:30:00+00:00": 110.91000366210938,
+      "2024-05-17T19:30:00+00:00": 111.19000244140625
+    },
+    "sentiment": 0.9190941452980042
+  },
+  {
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 110.55000305175781,
+      "2024-05-16T14:30:00+00:00": 111.09500122070312,
+      "2024-05-16T15:30:00+00:00": 111.5999984741211,
+      "2024-05-16T16:30:00+00:00": 111.62000274658203,
+      "2024-05-16T17:30:00+00:00": 111.58000183105469,
+      "2024-05-16T18:30:00+00:00": 111.66999816894531,
+      "2024-05-16T19:30:00+00:00": 111.44999694824219
+    },
+    "sentiment": 0.8883899450302124
+  },
+  {
+    "title": "Prologis price target lowered by $19 at Scotiabank, here's why",
+    "published": 1715847540,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 110.55000305175781,
+      "2024-05-16T14:30:00+00:00": 111.09500122070312,
+      "2024-05-16T15:30:00+00:00": 111.5999984741211,
+      "2024-05-16T16:30:00+00:00": 111.62000274658203,
+      "2024-05-16T17:30:00+00:00": 111.58000183105469,
+      "2024-05-16T18:30:00+00:00": 111.66999816894531,
+      "2024-05-16T19:30:00+00:00": 111.44999694824219
+    },
+    "sentiment": 0.8497307896614075
+  },
+  {
+    "title": "Let's Do What LVMH Does: Buying High-Quality Real Estate",
+    "published": 1715842800,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 110.55000305175781,
+      "2024-05-16T14:30:00+00:00": 111.09500122070312,
+      "2024-05-16T15:30:00+00:00": 111.5999984741211,
+      "2024-05-16T16:30:00+00:00": 111.62000274658203,
+      "2024-05-16T17:30:00+00:00": 111.58000183105469,
+      "2024-05-16T18:30:00+00:00": 111.66999816894531,
+      "2024-05-16T19:30:00+00:00": 111.44999694824219
+    },
+    "sentiment": 0.8934729695320129
   }
 ]

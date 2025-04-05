@@ -1,366 +1,100 @@
 [
   {
-    "title": "Do Xcel Energy's (NASDAQ:XEL) Earnings Warrant Your Attention?",
-    "published": 1742322175,
-    "posting_price": 69.73999786,
-    "close_price": 70.27999878,
-    "percent_change": 0.7743059
+    "title": "Berntsen Joins Xcel as Executive VP, Chief Legal and Compliance Officer",
+    "published": 1716390000,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 56.439998626708984,
+      "2024-05-22T14:30:00+00:00": 56.060001373291016,
+      "2024-05-22T15:30:00+00:00": 56.2411003112793,
+      "2024-05-22T16:30:00+00:00": 56.01499938964844,
+      "2024-05-22T17:30:00+00:00": 56.025001525878906,
+      "2024-05-22T18:30:00+00:00": 55.63999938964844,
+      "2024-05-22T19:30:00+00:00": 55.54499816894531
+    },
+    "sentiment": 0.9336166381835938
   },
   {
-    "title": "NiSource (NI) Down 2.4% Since Last Earnings Report: Can It Rebound?",
-    "published": 1741966241,
-    "posting_price": 68.09999847,
-    "close_price": 69.75,
-    "percent_change": 2.42290979
+    "title": "Xcel Energy: Buy This Quality Dividend Grower On Sale",
+    "published": 1716363899,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 56.439998626708984,
+      "2024-05-22T14:30:00+00:00": 56.060001373291016,
+      "2024-05-22T15:30:00+00:00": 56.2411003112793,
+      "2024-05-22T16:30:00+00:00": 56.01499938964844,
+      "2024-05-22T17:30:00+00:00": 56.025001525878906,
+      "2024-05-22T18:30:00+00:00": 55.63999938964844,
+      "2024-05-22T19:30:00+00:00": 55.54499816894531
+    },
+    "sentiment": 0.8613400459289551
   },
   {
-    "title": "Alliant Energy Rides on Strategic Investments & Clean Portfolio",
-    "published": 1741962000,
-    "posting_price": 68.09999847,
-    "close_price": 69.75,
-    "percent_change": 2.42290979
+    "title": "GLOBAL BRIEFING: Japan's trade deficit widens as imports, exports rise",
+    "published": 1716337800,
+    "day_prices": {
+      "2024-05-22T13:30:00+00:00": 56.439998626708984,
+      "2024-05-22T14:30:00+00:00": 56.060001373291016,
+      "2024-05-22T15:30:00+00:00": 56.2411003112793,
+      "2024-05-22T16:30:00+00:00": 56.01499938964844,
+      "2024-05-22T17:30:00+00:00": 56.025001525878906,
+      "2024-05-22T18:30:00+00:00": 55.63999938964844,
+      "2024-05-22T19:30:00+00:00": 55.54499816894531
+    },
+    "sentiment": 0.8498458862304688
   },
   {
-    "title": "Xcel execs say Chinese tariffs, Trump uncertainty unlikely to affect renewables plans",
-    "published": 1738918800,
-    "posting_price": 66.85046185,
-    "close_price": 66.04718018,
-    "percent_change": -1.20160975
+    "title": "Global company events calendar",
+    "published": 1716282000,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 56.22999954223633,
+      "2024-05-21T14:30:00+00:00": 56.779998779296875,
+      "2024-05-21T15:30:00+00:00": 56.34130096435547,
+      "2024-05-21T16:30:00+00:00": 56.36000061035156,
+      "2024-05-21T17:30:00+00:00": 56.654998779296875,
+      "2024-05-21T18:30:00+00:00": 56.6150016784668,
+      "2024-05-21T19:30:00+00:00": 56.63999938964844
+    },
+    "sentiment": 0.9391013383865356
   },
   {
-    "title": "Xcel Energy Misses on Q4 Earnings & Sales, Plans to Invest $45B",
-    "published": 1738853280,
-    "posting_price": 66.45378629,
-    "close_price": 66.56287384,
-    "percent_change": 0.16415551
+    "title": "Sector Update: Energy Stocks Decline in Monday Afternoon Trading",
+    "published": 1716227050,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 55.7599983215332,
+      "2024-05-20T14:30:00+00:00": 55.619998931884766,
+      "2024-05-20T15:30:00+00:00": 55.69499969482422,
+      "2024-05-20T16:30:00+00:00": 55.59000015258789,
+      "2024-05-20T17:30:00+00:00": 55.775001525878906,
+      "2024-05-20T18:30:00+00:00": 56.04999923706055,
+      "2024-05-20T19:30:00+00:00": 55.959999084472656
+    },
+    "sentiment": 0.9733086824417114
   },
   {
-    "title": "Compared to Estimates, Xcel (XEL) Q4 Earnings: A Look at Key Metrics",
-    "published": 1738852242,
-    "posting_price": 66.45378629,
-    "close_price": 66.56287384,
-    "percent_change": 0.16415551
+    "title": "Fermata, Xcel Energy announce vehicle-to-everything bidirectional charging pilot",
+    "published": 1716199440,
+    "day_prices": {
+      "2024-05-20T13:30:00+00:00": 55.7599983215332,
+      "2024-05-20T14:30:00+00:00": 55.619998931884766,
+      "2024-05-20T15:30:00+00:00": 55.69499969482422,
+      "2024-05-20T16:30:00+00:00": 55.59000015258789,
+      "2024-05-20T17:30:00+00:00": 55.775001525878906,
+      "2024-05-20T18:30:00+00:00": 56.04999923706055,
+      "2024-05-20T19:30:00+00:00": 55.959999084472656
+    },
+    "sentiment": 0.8795000314712524
   },
   {
-    "title": "Xcel Energy (XEL) Q4 Earnings and Revenues Lag Estimates",
-    "published": 1738844106,
-    "posting_price": 66.45378629,
-    "close_price": 66.56287384,
-    "percent_change": 0.16415551
-  },
-  {
-    "title": "Xcel Energy (XEL) Fell due to a Wildfire in Texas",
-    "published": 1713164695,
-    "posting_price": 51.47842306,
-    "close_price": 51.32397461,
-    "percent_change": -0.3000256
-  },
-  {
-    "title": "(XEL) - Analyzing Xcel Energy's Short Interest",
-    "published": 1713143040,
-    "posting_price": 51.47842306,
-    "close_price": 51.32397461,
-    "percent_change": -0.3000256
-  },
-  {
-    "title": "Why Xcel Energy Could Be A Bargain Despite Wildfire Risks",
-    "published": 1713082245,
-    "posting_price": 51.47842306,
-    "close_price": 51.32397461,
-    "percent_change": -0.3000256
-  },
-  {
-    "title": "Xcel Energy Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
-    "published": 1712635440,
-    "posting_price": 52.55953547,
-    "close_price": 52.48231125,
-    "percent_change": -0.14692714
-  },
-  {
-    "title": "Xcel Energy working to restore power in Colorado after weekend outages",
-    "published": 1712600104,
-    "posting_price": 51.77765906,
-    "close_price": 52.20238495,
-    "percent_change": 0.82028793
-  },
-  {
-    "title": "Hurricane-Force Winds Leave 150,000 Without Power in Colorado",
-    "published": 1712509742,
-    "posting_price": 51.77766284,
-    "close_price": 52.20238876,
-    "percent_change": 0.82028793
-  },
-  {
-    "title": "Tuesday Sector Leaders: Utilities, Energy",
-    "published": 1712024820,
-    "posting_price": 51.43015364,
-    "close_price": 52.20238113,
-    "percent_change": 1.50150726
-  },
-  {
-    "title": "Xcel Energy Inc. (NASDAQ:XEL) Q1 2024 Earnings Call Transcript",
-    "published": 1714492286,
-    "posting_price": 52.07689924,
-    "close_price": 51.86453629,
-    "percent_change": -0.40778724
-  },
-  {
-    "title": "Xcel Energy (XEL) Gets a Hold from RBC Capital",
-    "published": 1714466760,
-    "posting_price": 52.07689924,
-    "close_price": 51.86453629,
-    "percent_change": -0.40778724
-  },
-  {
-    "title": "Analysts Offer Insights on Utilities Companies: New Jersey Resources (NJR), Nextera Energy Partners (NEP) and Xcel Energy (XEL)",
-    "published": 1714451520,
-    "posting_price": 52.07689924,
-    "close_price": 51.86453629,
-    "percent_change": -0.40778724
-  },
-  {
-    "title": "Xcel Energy price target raised by $1 at Barclays, here's why",
-    "published": 1714450560,
-    "posting_price": 52.07689924,
-    "close_price": 51.86453629,
-    "percent_change": -0.40778724
-  },
-  {
-    "title": "Xcel Energy price target raised by $3 at BofA, here's why",
-    "published": 1714375920,
-    "posting_price": 52.38578528,
-    "close_price": 52.58849335,
-    "percent_change": 0.38695243
-  },
-  {
-    "title": "Balancing Growth Prospects with Wildfire Risks: A Hold Rating for Xcel Energy",
-    "published": 1714372260,
-    "posting_price": 52.38578528,
-    "close_price": 52.58849335,
-    "percent_change": 0.38695243
-  },
-  {
-    "title": "Xcel Energy Outperforms in Q1 2024 with Strong Growth Prospects: Analyst Upgrades Price Target to $66",
-    "published": 1714370700,
-    "posting_price": 52.38578528,
-    "close_price": 52.58849335,
-    "percent_change": 0.38695243
-  },
-  {
-    "title": "Profit From The Growing Demands Of The Power Grid",
-    "published": 1714216800,
-    "posting_price": 52.38578908,
-    "close_price": 52.58849716,
-    "percent_change": 0.38695242
-  },
-  {
-    "title": "Evercore ISI Keeps Their Buy Rating on Xcel Energy (XEL)",
-    "published": 1714130760,
-    "posting_price": 52.68502842,
-    "close_price": 52.08655167,
-    "percent_change": -1.13595222
-  },
-  {
-    "title": "Xcel Energy price target lowered by $7 at Wells Fargo, here's why",
-    "published": 1714115100,
-    "posting_price": 52.68502842,
-    "close_price": 52.08655167,
-    "percent_change": -1.13595222
-  },
-  {
-    "title": "Decoding Xcel Energy Inc (XEL): A Strategic SWOT Insight",
-    "published": 1714108097,
-    "posting_price": 52.68502842,
-    "close_price": 52.08655167,
-    "percent_change": -1.13595222
-  },
-  {
-    "title": "Balancing Act: Xcel Energy\u2019s Solid Performance Clouded by Wildfire Risk Uncertainties",
-    "published": 1714106280,
-    "posting_price": 52.68502842,
-    "close_price": 52.08655167,
-    "percent_change": -1.13595222
-  },
-  {
-    "title": "Xcel Energy named in 15 lawsuits over Texas wildfire",
-    "published": 1714104420,
-    "posting_price": 52.68502842,
-    "close_price": 52.08655167,
-    "percent_change": -1.13595222
-  },
-  {
-    "title": "Xcel Energy named in 15 lawsuits over 2024 Texas panhandle fires",
-    "published": 1714093148,
-    "posting_price": 52.68502842,
-    "close_price": 52.08655167,
-    "percent_change": -1.13595222
-  },
-  {
-    "title": "UPDATE 1-Xcel Energy posts Q1 profit beat despite mounting wildfire liabilities",
-    "published": 1714056033,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy Inc. (XEL) Q1 2024 Earnings Call Transcript",
-    "published": 1714054161,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Compared to Estimates, Xcel (XEL) Q1 Earnings: A Look at Key Metrics",
-    "published": 1714051836,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy posts Q1 profit beat as cost-cutting measures bear fruit",
-    "published": 1714044948,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy Inc. (XEL) Q1 2024 Earnings: Surpasses Analyst EPS Estimates",
-    "published": 1714044725,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Buy Rating Affirmed for Xcel Energy Amid Q1 Earnings Beat and Strong Growth Prospects",
-    "published": 1714042680,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy First Quarter 2024 Earnings Report",
-    "published": 1714039500,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "XEL Stock Earnings: Xcel Energy Beats EPS, Misses Revenue for Q1 2024",
-    "published": 1714039140,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel: Q1 Earnings Snapshot",
-    "published": 1714025590,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy reports mixed Q1 results; reaffirms FY24 ongoing earnings outlook",
-    "published": 1714022460,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy backs FY24 EPS view $3.50-$3.60, consensus $3.57",
-    "published": 1714021620,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy reports Q1 ongoing EPS 88c, consensus 78c",
-    "published": 1714021560,
-    "posting_price": 53.58273423,
-    "close_price": 53.10009384,
-    "percent_change": -0.90073864
-  },
-  {
-    "title": "Xcel Energy Q1 2024 Earnings Preview",
-    "published": 1713959040,
-    "posting_price": 52.42440209,
-    "close_price": 53.40898895,
-    "percent_change": 1.87810794
-  },
-  {
-    "title": "Xcel Energy Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713931560,
-    "posting_price": 52.42440209,
-    "close_price": 53.40898895,
-    "percent_change": 1.87810794
-  },
-  {
-    "title": "CenterPoint Energy (CNP) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713880872,
-    "posting_price": 52.78155081,
-    "close_price": 53.35106659,
-    "percent_change": 1.07900539
-  },
-  {
-    "title": "Here's How to Play Xcel Energy (XEL) Ahead of Q1 Earnings",
-    "published": 1713811800,
-    "posting_price": 52.93599763,
-    "close_price": 53.05183029,
-    "percent_change": 0.21881643
-  },
-  {
-    "title": "Ahead of Xcel (XEL) Q1 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-    "published": 1713791768,
-    "posting_price": 52.93599763,
-    "close_price": 53.05183029,
-    "percent_change": 0.21881643
-  },
-  {
-    "title": "RBC Capital Sticks to Its Hold Rating for Xcel Energy (XEL)",
-    "published": 1713775740,
-    "posting_price": 52.93599763,
-    "close_price": 53.05183029,
-    "percent_change": 0.21881643
-  },
-  {
-    "title": "Xcel Energy price target raised by $2 at Barclays, here's why",
-    "published": 1713766440,
-    "posting_price": 52.93599763,
-    "close_price": 53.05183029,
-    "percent_change": 0.21881643
-  },
-  {
-    "title": "Interesting XEL Put And Call Options For December 20th",
-    "published": 1713520380,
-    "posting_price": 51.99967664,
-    "close_price": 52.82016754,
-    "percent_change": 1.57787693
-  },
-  {
-    "title": "Xcel Energy (XEL) Receives a Buy from Bank of America Securities",
-    "published": 1713516960,
-    "posting_price": 51.99967664,
-    "close_price": 52.82016754,
-    "percent_change": 1.57787693
-  },
-  {
-    "title": "Xcel Energy price target lowered by $3 at KeyBanc, here's why",
-    "published": 1713504420,
-    "posting_price": 51.99967664,
-    "close_price": 52.82016754,
-    "percent_change": 1.57787693
-  },
-  {
-    "title": "Xcel Energy files for a mixed shelf offering",
-    "published": 1713412500,
-    "posting_price": 51.79697085,
-    "close_price": 51.89349747,
-    "percent_change": 0.18635572
-  },
-  {
-    "title": "Xcel Energy files automatic mixed securities shelf",
-    "published": 1713410880,
-    "posting_price": 51.79697085,
-    "close_price": 51.89349747,
-    "percent_change": 0.18635572
+    "title": "Let's Build A Bond Portfolio Together April 2024 - Rates Moving Up, Lock In Longer",
+    "published": 1715932800,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 55.7599983215332,
+      "2024-05-17T14:30:00+00:00": 55.630001068115234,
+      "2024-05-17T15:30:00+00:00": 55.755001068115234,
+      "2024-05-17T16:30:00+00:00": 55.625,
+      "2024-05-17T17:30:00+00:00": 55.55500030517578,
+      "2024-05-17T18:30:00+00:00": 55.404998779296875,
+      "2024-05-17T19:30:00+00:00": 55.404998779296875
+    },
+    "sentiment": 0.8542293310165405
   }
 ]

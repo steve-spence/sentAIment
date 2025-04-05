@@ -1,478 +1,224 @@
 [
   {
-    "title": "Short interest on S&P 500 real estate stocks advance in March",
-    "published": 1713177900,
-    "posting_price": 180.76039343,
-    "close_price": 176.50215149,
-    "percent_change": -2.35573837
-  },
-  {
-    "title": "Real estate stocks continue to dip as earnings season kicks off",
-    "published": 1713006060,
-    "posting_price": 180.76040905,
-    "close_price": 176.50216675,
-    "percent_change": -2.35573836
-  },
-  {
-    "title": "Analyst Drops Price Targets On 8 Residential REITs In One Day",
-    "published": 1712856600,
-    "posting_price": 182.88951556,
-    "close_price": 181.61009216,
-    "percent_change": -0.69956082
-  },
-  {
-    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
-    "published": 1712838960,
-    "posting_price": 182.88951556,
-    "close_price": 181.61009216,
-    "percent_change": -0.69956082
-  },
-  {
-    "title": "AvalonBay Communities: The Sunbelt Region Has A New Player In Town",
-    "published": 1712760889,
-    "posting_price": 179.96930064,
-    "close_price": 181.7565918,
-    "percent_change": 0.99310891
-  },
-  {
-    "title": "RBC Capital Sticks to Its Hold Rating for AvalonBay (AVB)",
-    "published": 1712739000,
-    "posting_price": 179.96930064,
-    "close_price": 181.7565918,
-    "percent_change": 0.99310891
-  },
-  {
-    "title": "UDR upgraded to Neutral at Piper on strength of Northeast presence",
-    "published": 1712733660,
-    "posting_price": 179.96930064,
-    "close_price": 181.7565918,
-    "percent_change": 0.99310891
-  },
-  {
-    "title": "Analysts Offer Insights on Real Estate Companies: Greentown Service Group Co. Ltd. (HK:2869) and AvalonBay (AVB)",
-    "published": 1712722080,
-    "posting_price": 179.96930064,
-    "close_price": 181.7565918,
-    "percent_change": 0.99310891
-  },
-  {
-    "title": "AvalonBay price target lowered by $4 at Truist, here's why",
-    "published": 1712644320,
-    "posting_price": 182.4890959,
-    "close_price": 184.45217896,
-    "percent_change": 1.07572622
-  },
-  {
-    "title": "What 9 Analyst Ratings Have To Say About AvalonBay Communities",
-    "published": 1712624640,
-    "posting_price": 182.4890959,
-    "close_price": 184.45217896,
-    "percent_change": 1.07572622
-  },
-  {
-    "title": "Nontraded REITs: What Are They, And Should You Invest?",
-    "published": 1712566860,
-    "posting_price": 178.42619481,
-    "close_price": 181.83473206,
-    "percent_change": 1.91033455
-  },
-  {
-    "title": "Apartment Income Stock Is Soaring on the Blackstone Buyout",
-    "published": 1712537940,
-    "posting_price": 178.42619481,
-    "close_price": 181.83473206,
-    "percent_change": 1.91033455
-  },
-  {
-    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
-    "published": 1712401620,
-    "posting_price": 178.42619481,
-    "close_price": 181.83473206,
-    "percent_change": 1.91033455
-  },
-  {
-    "title": "AvalonBay Communities, Inc. Announces First Quarter 2024 Earnings Release Date",
-    "published": 1712261700,
-    "posting_price": 177.80112364,
-    "close_price": 175.96499634,
-    "percent_change": -1.03268599
-  },
-  {
-    "title": "Notable Two Hundred Day Moving Average Cross - AVB",
-    "published": 1712052300,
-    "posting_price": 175.88687017,
-    "close_price": 175.65248108,
-    "percent_change": -0.13326128
-  },
-  {
-    "title": "The Time Is REIT Now",
-    "published": 1712036801,
-    "posting_price": 175.88687017,
-    "close_price": 175.65248108,
-    "percent_change": -0.13326128
-  },
-  {
-    "title": "AvalonBay Communities, Inc. (NYSE:AVB) Q1 2024 Earnings Call Transcript",
-    "published": 1714501042,
-    "posting_price": 185.00886779,
-    "close_price": 185.14561462,
-    "percent_change": 0.07391366
-  },
-  {
-    "title": "4 REITs With New Price Target Increases",
-    "published": 1714500299,
-    "posting_price": 185.00886779,
-    "close_price": 185.14561462,
-    "percent_change": 0.07391366
-  },
-  {
-    "title": "AvalonBay price target raised by $24 at Argus, here's why",
-    "published": 1714465620,
-    "posting_price": 185.00886779,
-    "close_price": 185.14561462,
-    "percent_change": 0.07391366
-  },
-  {
-    "title": "Analysts\u2019 Opinions Are Mixed on These Real Estate Stocks: Boston Properties (BXP), Brixmor Property (BRX) and AvalonBay (AVB)",
-    "published": 1714451700,
-    "posting_price": 185.00886779,
-    "close_price": 185.14561462,
-    "percent_change": 0.07391366
-  },
-  {
-    "title": "The Analyst Landscape: 10 Takes On AvalonBay Communities",
-    "published": 1714384980,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "AvalonBay price target raised by $5 at RBC Capital, here's why",
-    "published": 1714380060,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "Analysts Have Conflicting Sentiments on These Real Estate Companies: AvalonBay (AVB), Weyerhaeuser (WY) and Equity Residential (EQR)",
-    "published": 1714371120,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "AvalonBay price target raised by $23 at Piper Sandler, here's why",
-    "published": 1714370340,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "AvalonBay price target raised by $14 at Barclays, here's why",
-    "published": 1714366440,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "Real estate is the worst performing S&P sector in 2024. Here are 10 names bucking the trend",
-    "published": 1714294980,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "Stagflation Is Back",
-    "published": 1714294800,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "Real estate stocks finish in green as analysts turn positive, earnings surprise to upside",
-    "published": 1714215840,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "Q1 2024 Avalonbay Communities Inc Earnings Call",
-    "published": 1714207540,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "AvalonBay Communities Inc (AVB) Q1 2024 Earnings Call Transcript Highlights: Surpassing ...",
-    "published": 1714180500,
-    "posting_price": 188.5248506,
-    "close_price": 186.56176758,
-    "percent_change": -1.04128608
-  },
-  {
-    "title": "Avalonbay Communities, Inc. (AVB) Q1 2024 Earnings Call Transcript",
-    "published": 1714150808,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "AvalonBay (AVB) Q1 FFO & Revenues Beat Estimates, View Raised",
-    "published": 1714139700,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "AvalonBay Communities Inc. Reports Strong Q1 2024 Earnings, Surpassing Analyst Expectations",
-    "published": 1714132373,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "Analysts Offer Insights on Real Estate Companies: AvalonBay (AVB) and Annaly Capital (NLY)",
-    "published": 1714116060,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "Piper Sandler Sticks to Their Buy Rating for AvalonBay (AVB)",
-    "published": 1714114140,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "Truist Financial Keeps Their Hold Rating on AvalonBay (AVB)",
-    "published": 1714113180,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "Wall Street Analysts Are Neutral on Top Real Estate Picks",
-    "published": 1714113180,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "AvalonBay\u2019s Strong Performance and Positive Outlook Justify Buy Rating",
-    "published": 1714106160,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "Analysts Offer Insights on Real Estate Companies: First Industrial Realty (FR), Cubesmart (CUBE) and AvalonBay (AVB)",
-    "published": 1714105560,
-    "posting_price": 189.27689441,
-    "close_price": 186.98173523,
-    "percent_change": -1.21259343
-  },
-  {
-    "title": "AvalonBay (AVB) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "published": 1714082409,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay Communities (AVB) Q1 FFO and Revenues Top Estimates",
-    "published": 1714080606,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay: Q1 Earnings Snapshot",
-    "published": 1714076760,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay Communities, Inc. Announces First Quarter 2024 Operating Results and Second Quarter and Full Year 2024 Financial Outlook",
-    "published": 1714076100,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay FFO forecast feels the squeeze as some rental markets remain tepid",
-    "published": 1714070838,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "5 Bigwigs Likely to Gain on Earnings After Closing Bell Today",
-    "published": 1714042860,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AVB Stock Earnings: AvalonBay Communities Beats EPS, Beats Revenue for Q1 2024",
-    "published": 1714035540,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "Analysts Offer Insights on Real Estate Companies: AvalonBay (AVB) and Cubesmart (CUBE)",
-    "published": 1714024320,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay Communities lifts 2024 FFO guidance after Q1 results beat",
-    "published": 1714017060,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay sees Q2 core FFO $2.63-$2.73",
-    "published": 1714015380,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay sees FY24 core FFO $10.71-$11.11, consensus $10.80",
-    "published": 1714015380,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay reports Q1 core FFO $2.70, consensus $2.64",
-    "published": 1714015320,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "AvalonBay Communities FFO of $2.70 beats by $0.05",
-    "published": 1714015200,
-    "posting_price": 185.84879243,
-    "close_price": 186.85476685,
-    "percent_change": 0.5412865
-  },
-  {
-    "title": "Equity Residential (EQR) Q1 FFO Tops on Solid Demand, Cost Focus",
-    "published": 1713965220,
-    "posting_price": 182.64533958,
-    "close_price": 186.87428284,
-    "percent_change": 2.31538525
-  },
-  {
-    "title": "Why AvalonBay Communities (AVB) Might Surprise This Earnings Season.",
-    "published": 1713958020,
-    "posting_price": 182.64533958,
-    "close_price": 186.87428284,
-    "percent_change": 2.31538525
-  },
-  {
-    "title": "Avalonbay Communities Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
-    "published": 1713931560,
-    "posting_price": 182.64533958,
-    "close_price": 186.87428284,
-    "percent_change": 2.31538525
-  },
-  {
-    "title": "7 REITs to Buy Now: Q2 Edition",
-    "published": 1713904200,
-    "posting_price": 182.71371004,
-    "close_price": 184.25683594,
-    "percent_change": 0.84455945
-  },
-  {
-    "title": "These Residential REITs Have Yields Up to 4.2% and Track Records of Dividend Growth",
-    "published": 1713890438,
-    "posting_price": 182.71371004,
-    "close_price": 184.25683594,
-    "percent_change": 0.84455945
-  },
-  {
-    "title": "AvalonBay Communities : 2024 Operating Results",
-    "published": 1713870321,
-    "posting_price": 182.71371004,
-    "close_price": 184.25683594,
-    "percent_change": 0.84455945
-  },
-  {
-    "title": "AvalonBay Communities : 2024 Investor Teleconference Presentation",
-    "published": 1713868867,
-    "posting_price": 182.71371004,
-    "close_price": 184.25683594,
-    "percent_change": 0.84455945
-  },
-  {
-    "title": "A Hawkish Pivot",
-    "published": 1713690000,
-    "posting_price": 180.28183551,
-    "close_price": 182.50862122,
-    "percent_change": 1.2351692
-  },
-  {
-    "title": "3 'Must Own' Fortress REITs",
-    "published": 1713682800,
-    "posting_price": 180.28183551,
-    "close_price": 182.50862122,
-    "percent_change": 1.2351692
-  },
-  {
-    "title": "Real estate stocks continue on downward trajectory as market's April pullback intensifies",
-    "published": 1713610980,
-    "posting_price": 180.28185058,
-    "close_price": 182.50863647,
-    "percent_change": 1.2351692
-  },
-  {
-    "title": "What to Expect From AvalonBay (AVB) This Earnings Season?",
-    "published": 1713538620,
-    "posting_price": 178.79732237,
-    "close_price": 179.83258057,
-    "percent_change": 0.57901214
-  },
-  {
-    "title": "What's in Store for Equity Residential (EQR) in Q1 Earnings?",
-    "published": 1713537180,
-    "posting_price": 178.79732237,
-    "close_price": 179.83258057,
-    "percent_change": 0.57901214
-  },
-  {
-    "title": "REIT Earnings Preview: Delay And Pray",
-    "published": 1713517200,
-    "posting_price": 178.79732237,
-    "close_price": 179.83258057,
-    "percent_change": 0.57901214
-  },
-  {
-    "title": "21 Largest Real Estate Companies in the World",
-    "published": 1713476545,
-    "posting_price": 177.2346536,
-    "close_price": 177.77182007,
-    "percent_change": 0.30308208
-  },
-  {
-    "title": "June 21st Options Now Available For AvalonBay Communities (AVB)",
-    "published": 1713433980,
-    "posting_price": 177.2346536,
-    "close_price": 177.77182007,
-    "percent_change": 0.30308208
-  },
-  {
-    "title": "3 Reasons To Hunt For Value In REITs Today",
-    "published": 1713252600,
-    "posting_price": 175.75012716,
-    "close_price": 174.80276489,
-    "percent_change": -0.53903931
+    "title": "14 Best Housing Stocks To Buy According to Hedge Funds",
+    "published": 1715096040,
+    "day_prices": {
+      "2024-05-07T13:30:00+00:00": 196.5399932861328,
+      "2024-05-07T14:30:00+00:00": 195.17999267578125,
+      "2024-05-07T15:30:00+00:00": 195.92999267578125,
+      "2024-05-07T16:30:00+00:00": 195.85000610351562,
+      "2024-05-07T17:30:00+00:00": 196.1999969482422,
+      "2024-05-07T18:30:00+00:00": 195.65499877929688,
+      "2024-05-07T19:30:00+00:00": 195.82000732421875
+    },
+    "sentiment": 0.8907418847084045
+  },
+  {
+    "title": "Mid-America Apartment (MAA) Q1 FFO Lags Estimates, Revenues Beat",
+    "published": 1714664100,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 189.13999938964844,
+      "2024-05-02T14:30:00+00:00": 189.75,
+      "2024-05-02T15:30:00+00:00": 189.97999572753906,
+      "2024-05-02T16:30:00+00:00": 191.17999267578125,
+      "2024-05-02T17:30:00+00:00": 192.22000122070312,
+      "2024-05-02T18:30:00+00:00": 193.1999969482422,
+      "2024-05-02T19:30:00+00:00": 192.4550018310547
+    },
+    "sentiment": 0.8141552805900574
+  },
+  {
+    "title": "How Is The Market Feeling About AvalonBay Communities?",
+    "published": 1714615500,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 189.13999938964844,
+      "2024-05-02T14:30:00+00:00": 189.75,
+      "2024-05-02T15:30:00+00:00": 189.97999572753906,
+      "2024-05-02T16:30:00+00:00": 191.17999267578125,
+      "2024-05-02T17:30:00+00:00": 192.22000122070312,
+      "2024-05-02T18:30:00+00:00": 193.1999969482422,
+      "2024-05-02T19:30:00+00:00": 192.4550018310547
+    },
+    "sentiment": 0.9055172801017761
+  },
+  {
+    "title": "UDR Meets Q1 FFOA Estimates, Beats Revenues, Ups 2024 Guidance",
+    "published": 1714578240,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 188.66000366210938,
+      "2024-05-01T14:30:00+00:00": 189.10499572753906,
+      "2024-05-01T15:30:00+00:00": 190.27999877929688,
+      "2024-05-01T16:30:00+00:00": 189.0399932861328,
+      "2024-05-01T17:30:00+00:00": 188.67999267578125,
+      "2024-05-01T18:30:00+00:00": 188.05999755859375,
+      "2024-05-01T19:30:00+00:00": 189.4199981689453
+    },
+    "sentiment": 0.8828576803207397
+  },
+  {
+    "title": "Apartment REITs Are Best Performing Subsector, Morgan Stanley Says",
+    "published": 1715704434,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 198.35000610351562,
+      "2024-05-14T14:30:00+00:00": 197.9499969482422,
+      "2024-05-14T15:30:00+00:00": 197.61000061035156,
+      "2024-05-14T16:30:00+00:00": 197.2899932861328,
+      "2024-05-14T17:30:00+00:00": 197.11000061035156,
+      "2024-05-14T18:30:00+00:00": 197.6699981689453,
+      "2024-05-14T19:30:00+00:00": 197.61000061035156
+    },
+    "sentiment": 0.9431310892105103
+  },
+  {
+    "title": "AvalonBay price target raised by $6 at Morgan Stanley, here's why",
+    "published": 1715671380,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 198.35000610351562,
+      "2024-05-14T14:30:00+00:00": 197.9499969482422,
+      "2024-05-14T15:30:00+00:00": 197.61000061035156,
+      "2024-05-14T16:30:00+00:00": 197.2899932861328,
+      "2024-05-14T17:30:00+00:00": 197.11000061035156,
+      "2024-05-14T18:30:00+00:00": 197.6699981689453,
+      "2024-05-14T19:30:00+00:00": 197.61000061035156
+    },
+    "sentiment": 0.7281306982040405
+  },
+  {
+    "title": "AvalonBay, Equity Residential cut to In Line at Evercore ISI after post-Q1 rally",
+    "published": 1715595060,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 196.33999633789062,
+      "2024-05-13T14:30:00+00:00": 197.31500244140625,
+      "2024-05-13T15:30:00+00:00": 196.82000732421875,
+      "2024-05-13T16:30:00+00:00": 196.67999267578125,
+      "2024-05-13T17:30:00+00:00": 197.0,
+      "2024-05-13T18:30:00+00:00": 196.57000732421875,
+      "2024-05-13T19:30:00+00:00": 196.7050018310547
+    },
+    "sentiment": 0.5934529900550842
+  },
+  {
+    "title": "Evercore ISI gets more bearish on AvalonBay, downgrades shares",
+    "published": 1715574360,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 196.33999633789062,
+      "2024-05-13T14:30:00+00:00": 197.31500244140625,
+      "2024-05-13T15:30:00+00:00": 196.82000732421875,
+      "2024-05-13T16:30:00+00:00": 196.67999267578125,
+      "2024-05-13T17:30:00+00:00": 197.0,
+      "2024-05-13T18:30:00+00:00": 196.57000732421875,
+      "2024-05-13T19:30:00+00:00": 196.7050018310547
+    },
+    "sentiment": 0.9454448819160461
+  },
+  {
+    "title": "Pipeline of office-to-apartment conversions is growing, RentCafe says",
+    "published": 1715516940,
+    "day_prices": {},
+    "sentiment": 0.8282198309898376
+  },
+  {
+    "title": "AvalonBay Communities prices $400 million senior notes offering",
+    "published": 1715141040,
+    "day_prices": {
+      "2024-05-08T13:30:00+00:00": 195.80999755859375,
+      "2024-05-08T14:30:00+00:00": 195.52999877929688,
+      "2024-05-08T15:30:00+00:00": 195.85000610351562,
+      "2024-05-08T16:30:00+00:00": 195.2899932861328,
+      "2024-05-08T17:30:00+00:00": 195.0449981689453,
+      "2024-05-08T18:30:00+00:00": 195.41000366210938,
+      "2024-05-08T19:30:00+00:00": 195.35000610351562
+    },
+    "sentiment": 0.9340804219245911
+  },
+  {
+    "title": "Surprise Spring Slowdown",
+    "published": 1716109200,
+    "day_prices": {},
+    "sentiment": 0.8884537816047668
+  },
+  {
+    "title": "Video: Daily Dividend Report: AVB,CB,APD,HD,CRI",
+    "published": 1715943720,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 198.97000122070312,
+      "2024-05-17T14:30:00+00:00": 197.91000366210938,
+      "2024-05-17T15:30:00+00:00": 197.74850463867188,
+      "2024-05-17T16:30:00+00:00": 198.0968017578125,
+      "2024-05-17T17:30:00+00:00": 198.47999572753906,
+      "2024-05-17T18:30:00+00:00": 198.3699951171875,
+      "2024-05-17T19:30:00+00:00": 198.8699951171875
+    },
+    "sentiment": 0.9476404190063477
+  },
+  {
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 198.27999877929688,
+      "2024-05-16T14:30:00+00:00": 198.38999938964844,
+      "2024-05-16T15:30:00+00:00": 199.10000610351562,
+      "2024-05-16T16:30:00+00:00": 199.11000061035156,
+      "2024-05-16T17:30:00+00:00": 199.45989990234375,
+      "2024-05-16T18:30:00+00:00": 199.4199981689453,
+      "2024-05-16T19:30:00+00:00": 198.75
+    },
+    "sentiment": 0.8883899450302124
+  },
+  {
+    "title": "AvalonBay price target raised by $9 at Mizuho, here's why",
+    "published": 1717050780,
+    "day_prices": {
+      "2024-05-30T13:30:00+00:00": 189.7899932861328,
+      "2024-05-30T14:30:00+00:00": 189.80999755859375,
+      "2024-05-30T15:30:00+00:00": 190.13999938964844,
+      "2024-05-30T16:30:00+00:00": 189.3300018310547,
+      "2024-05-30T17:30:00+00:00": 189.56500244140625,
+      "2024-05-30T18:30:00+00:00": 189.7100067138672,
+      "2024-05-30T19:30:00+00:00": 189.7050018310547
+    },
+    "sentiment": 0.5775216817855835
+  },
+  {
+    "title": "Analysts Conflicted on These Real Estate Names: Brixmor Property (BRX) and AvalonBay (AVB)",
+    "published": 1716874920,
+    "day_prices": {
+      "2024-05-28T13:30:00+00:00": 196.41000366210938,
+      "2024-05-28T14:30:00+00:00": 194.83999633789062,
+      "2024-05-28T15:30:00+00:00": 194.2100067138672,
+      "2024-05-28T16:30:00+00:00": 194.2899932861328,
+      "2024-05-28T17:30:00+00:00": 193.2899932861328,
+      "2024-05-28T18:30:00+00:00": 192.55999755859375,
+      "2024-05-28T19:30:00+00:00": 192.4600067138672
+    },
+    "sentiment": 0.5803598165512085
+  },
+  {
+    "title": "AvalonBay price target raised by $10 at Truist, here's why",
+    "published": 1716535920,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 195.0500030517578,
+      "2024-05-24T14:30:00+00:00": 195.5399932861328,
+      "2024-05-24T15:30:00+00:00": 195.3300018310547,
+      "2024-05-24T16:30:00+00:00": 195.33999633789062,
+      "2024-05-24T17:30:00+00:00": 195.11000061035156,
+      "2024-05-24T18:30:00+00:00": 194.6199951171875,
+      "2024-05-24T19:30:00+00:00": 194.9199981689453
+    },
+    "sentiment": 0.7546138167381287
+  },
+  {
+    "title": "Truist Financial downgrades AvalonBay (AVB) to a Hold",
+    "published": 1716531420,
+    "day_prices": {
+      "2024-05-24T13:30:00+00:00": 195.0500030517578,
+      "2024-05-24T14:30:00+00:00": 195.5399932861328,
+      "2024-05-24T15:30:00+00:00": 195.3300018310547,
+      "2024-05-24T16:30:00+00:00": 195.33999633789062,
+      "2024-05-24T17:30:00+00:00": 195.11000061035156,
+      "2024-05-24T18:30:00+00:00": 194.6199951171875,
+      "2024-05-24T19:30:00+00:00": 194.9199981689453
+    },
+    "sentiment": 0.8285670280456543
   }
 ]

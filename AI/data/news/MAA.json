@@ -1,387 +1,400 @@
 [
   {
-    "title": "Short interest on S&P 500 real estate stocks advance in March",
-    "published": 1713177900,
-    "posting_price": 125.21218053,
-    "close_price": 122.86414337,
-    "percent_change": -1.8752466
+    "title": "Stock Market Crash Alert: 3 Must-Buy REITs When Prices Plunge",
+    "published": 1714989600,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 134.5800018310547,
+      "2024-05-06T14:30:00+00:00": 135.8000030517578,
+      "2024-05-06T15:30:00+00:00": 135.94000244140625,
+      "2024-05-06T16:30:00+00:00": 135.83999633789062,
+      "2024-05-06T17:30:00+00:00": 136.07000732421875,
+      "2024-05-06T18:30:00+00:00": 135.83999633789062,
+      "2024-05-06T19:30:00+00:00": 136.30999755859375
+    },
+    "sentiment": 0.4939218759536743
   },
   {
-    "title": "2 A-Rated Sun Belt REITs So You Can Sleep Well At Night",
-    "published": 1713164400,
-    "posting_price": 125.21218053,
-    "close_price": 122.86414337,
-    "percent_change": -1.8752466
+    "title": "Analysts Offer Insights on Real Estate Companies: Arbor Realty (ABR) and Mid-America Apartment (MAA)",
+    "published": 1714980120,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 134.5800018310547,
+      "2024-05-06T14:30:00+00:00": 135.8000030517578,
+      "2024-05-06T15:30:00+00:00": 135.94000244140625,
+      "2024-05-06T16:30:00+00:00": 135.83999633789062,
+      "2024-05-06T17:30:00+00:00": 136.07000732421875,
+      "2024-05-06T18:30:00+00:00": 135.83999633789062,
+      "2024-05-06T19:30:00+00:00": 136.30999755859375
+    },
+    "sentiment": 0.9271329641342163
   },
   {
-    "title": "Real estate stocks continue to dip as earnings season kicks off",
-    "published": 1713006060,
-    "posting_price": 125.21218831,
-    "close_price": 122.864151,
-    "percent_change": -1.8752466
+    "title": "Wedbush more bullish on MAA, upgrades to Outperform",
+    "published": 1714978620,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 134.5800018310547,
+      "2024-05-06T14:30:00+00:00": 135.8000030517578,
+      "2024-05-06T15:30:00+00:00": 135.94000244140625,
+      "2024-05-06T16:30:00+00:00": 135.83999633789062,
+      "2024-05-06T17:30:00+00:00": 136.07000732421875,
+      "2024-05-06T18:30:00+00:00": 135.83999633789062,
+      "2024-05-06T19:30:00+00:00": 136.30999755859375
+    },
+    "sentiment": 0.9270961284637451
   },
   {
-    "title": "Mid-America Apartment Communities Inc. stock underperforms Friday when compared to competitors",
-    "published": 1712895660,
-    "posting_price": 125.85255603,
-    "close_price": 124.31954193,
-    "percent_change": -1.21810327
+    "title": "Mid-America Apartment Communities: Still A Buy Despite Short-Term Headwinds",
+    "published": 1714964759,
+    "day_prices": {
+      "2024-05-06T13:30:00+00:00": 134.5800018310547,
+      "2024-05-06T14:30:00+00:00": 135.8000030517578,
+      "2024-05-06T15:30:00+00:00": 135.94000244140625,
+      "2024-05-06T16:30:00+00:00": 135.83999633789062,
+      "2024-05-06T17:30:00+00:00": 136.07000732421875,
+      "2024-05-06T18:30:00+00:00": 135.83999633789062,
+      "2024-05-06T19:30:00+00:00": 136.30999755859375
+    },
+    "sentiment": 0.9463749527931213
   },
   {
-    "title": "Analyst Drops Price Targets On 8 Residential REITs In One Day",
-    "published": 1712856600,
-    "posting_price": 128.52860107,
-    "close_price": 126.63847351,
-    "percent_change": -1.47058907
+    "title": "Compared to Estimates, Mid-America Apartment Communities (MAA) Q1 Earnings: A Look at Key Metrics",
+    "published": 1714743022,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 133.11000061035156,
+      "2024-05-03T14:30:00+00:00": 133.30999755859375,
+      "2024-05-03T15:30:00+00:00": 133.6649932861328,
+      "2024-05-03T16:30:00+00:00": 133.8350067138672,
+      "2024-05-03T17:30:00+00:00": 133.67999267578125,
+      "2024-05-03T18:30:00+00:00": 133.75,
+      "2024-05-03T19:30:00+00:00": 132.89999389648438
+    },
+    "sentiment": 0.8655184507369995
   },
   {
-    "title": "Real estate gets neutral health score by Seeking Alpha's Quant Rating ahead of Q1 earnings",
-    "published": 1712838960,
-    "posting_price": 128.52860107,
-    "close_price": 126.63847351,
-    "percent_change": -1.47058907
+    "title": "Mid-America Apartment Communities Inc (MAA) (Q1 2024) Earnings Call Transcript Highlights: ...",
+    "published": 1714722026,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 133.11000061035156,
+      "2024-05-03T14:30:00+00:00": 133.30999755859375,
+      "2024-05-03T15:30:00+00:00": 133.6649932861328,
+      "2024-05-03T16:30:00+00:00": 133.8350067138672,
+      "2024-05-03T17:30:00+00:00": 133.67999267578125,
+      "2024-05-03T18:30:00+00:00": 133.75,
+      "2024-05-03T19:30:00+00:00": 132.89999389648438
+    },
+    "sentiment": 0.9161710739135742
   },
   {
-    "title": "Mid-America Apartment Communities Inc's Dividend Analysis",
-    "published": 1712833630,
-    "posting_price": 128.52860107,
-    "close_price": 126.63847351,
-    "percent_change": -1.47058907
+    "title": "Decoding Mid-America Apartment Communities Inc (MAA): A Strategic SWOT Insight",
+    "published": 1714713169,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 133.11000061035156,
+      "2024-05-03T14:30:00+00:00": 133.30999755859375,
+      "2024-05-03T15:30:00+00:00": 133.6649932861328,
+      "2024-05-03T16:30:00+00:00": 133.8350067138672,
+      "2024-05-03T17:30:00+00:00": 133.67999267578125,
+      "2024-05-03T18:30:00+00:00": 133.75,
+      "2024-05-03T19:30:00+00:00": 132.89999389648438
+    },
+    "sentiment": 0.8724474310874939
   },
   {
-    "title": "Wall Street Favorites: 3 REITs With Strong Buy Ratings for April 2024",
-    "published": 1712745900,
-    "posting_price": 127.54995052,
-    "close_price": 127.55953979,
-    "percent_change": 0.00751805
+    "title": "Mid-America Apartment Communities, Inc. (MAA) Q1 2024 Earnings Call Transcript",
+    "published": 1714658286,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 129.9199981689453,
+      "2024-05-02T14:30:00+00:00": 129.1999969482422,
+      "2024-05-02T15:30:00+00:00": 129.22999572753906,
+      "2024-05-02T16:30:00+00:00": 130.5,
+      "2024-05-02T17:30:00+00:00": 130.88999938964844,
+      "2024-05-02T18:30:00+00:00": 131.19000244140625,
+      "2024-05-02T19:30:00+00:00": 131.17999267578125
+    },
+    "sentiment": 0.8977919816970825
   },
   {
-    "title": "RBC Capital Remains a Hold on Mid-America Apartment (MAA)",
-    "published": 1712739000,
-    "posting_price": 127.54995052,
-    "close_price": 127.55953979,
-    "percent_change": 0.00751805
+    "title": "Analysts Offer Insights on Real Estate Companies: Whitestone REIT (WSR), Mid-America Apartment (MAA) and RLJ Lodging (RLJ)",
+    "published": 1714633320,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 129.9199981689453,
+      "2024-05-02T14:30:00+00:00": 129.1999969482422,
+      "2024-05-02T15:30:00+00:00": 129.22999572753906,
+      "2024-05-02T16:30:00+00:00": 130.5,
+      "2024-05-02T17:30:00+00:00": 130.88999938964844,
+      "2024-05-02T18:30:00+00:00": 131.19000244140625,
+      "2024-05-02T19:30:00+00:00": 131.17999267578125
+    },
+    "sentiment": 0.927388072013855
   },
   {
-    "title": "Blackstone's Big Move Sparks REIT Rally: Mid-America Or Camden Properties, Who Wins?",
-    "published": 1712732400,
-    "posting_price": 127.54995052,
-    "close_price": 127.55953979,
-    "percent_change": 0.00751805
+    "title": "Mid-America Apartment Communities files automatic mixed securities shelf",
+    "published": 1714625100,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 129.9199981689453,
+      "2024-05-02T14:30:00+00:00": 129.1999969482422,
+      "2024-05-02T15:30:00+00:00": 129.22999572753906,
+      "2024-05-02T16:30:00+00:00": 130.5,
+      "2024-05-02T17:30:00+00:00": 130.88999938964844,
+      "2024-05-02T18:30:00+00:00": 131.19000244140625,
+      "2024-05-02T19:30:00+00:00": 131.17999267578125
+    },
+    "sentiment": 0.9533423185348511
   },
   {
-    "title": "Heard on the Street: Blackstone Bets on Wealthy Renters",
-    "published": 1712660130,
-    "posting_price": 128.00090926,
-    "close_price": 129.89103699,
-    "percent_change": 1.4766518
+    "title": "Mid-America Apartment (MAA) Gets a Buy from Barclays",
+    "published": 1714618200,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 129.9199981689453,
+      "2024-05-02T14:30:00+00:00": 129.1999969482422,
+      "2024-05-02T15:30:00+00:00": 129.22999572753906,
+      "2024-05-02T16:30:00+00:00": 130.5,
+      "2024-05-02T17:30:00+00:00": 130.88999938964844,
+      "2024-05-02T18:30:00+00:00": 131.19000244140625,
+      "2024-05-02T19:30:00+00:00": 131.17999267578125
+    },
+    "sentiment": 0.804378092288971
   },
   {
-    "title": "Camden Property, Mid-America best readthroughs from AIR Communities deal - analyst",
-    "published": 1712665800,
-    "posting_price": 128.00090926,
-    "close_price": 129.89103699,
-    "percent_change": 1.4766518
+    "title": "Mid-America Apartment Communities Inc (MAA) Surpasses Analyst EPS Estimates in Q1 2024",
+    "published": 1714601264,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.9488484859466553
   },
   {
-    "title": "Mid-America Apartment Communities Breaks Above 200-Day Moving Average - Bullish for MAA",
-    "published": 1712656740,
-    "posting_price": 128.00090926,
-    "close_price": 129.89103699,
-    "percent_change": 1.4766518
+    "title": "MAA REPORTS FIRST QUARTER 2024 RESULTS",
+    "published": 1714594800,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.9083737134933472
   },
   {
-    "title": "MAA price target lowered by $4 at Truist, here's why",
-    "published": 1712644380,
-    "posting_price": 128.00090926,
-    "close_price": 129.89103699,
-    "percent_change": 1.4766518
+    "title": "Mid-America Apartment Communities: Q1 Earnings Snapshot",
+    "published": 1714580950,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.595695436000824
   },
   {
-    "title": "MAA Announces Date of First Quarter 2024 Earnings Release, Conference Call",
-    "published": 1712608140,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "MAA Stock Earnings: Mid-America Apartment Meets EPS, Beats Revenue for Q1 2024",
+    "published": 1714550160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.7198213338851929
   },
   {
-    "title": "AIR Communities REIT Climbs on Blackstone Deal News; Other REITs Rise",
-    "published": 1712584800,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "MAA sees Q2 core FFO $2.11-$2.27, consensus $2.23",
+    "published": 1714535160,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.637948215007782
   },
   {
-    "title": "AIR Communities REIT on Blackstone Deal News; Other REITs Rise",
-    "published": 1712584800,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "MAA reports Q1 core FFO $2.22, consensus $2.23",
+    "published": 1714534980,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.5572884678840637
   },
   {
-    "title": "Early notable gainers among liquid option names on April 8th",
-    "published": 1712566560,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "Mid America Apartment Communities FFO of $2.22 in-line, revenue of $543.62M beats by $3.16M",
+    "published": 1714534020,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 129.80999755859375,
+      "2024-05-01T14:30:00+00:00": 129.82000732421875,
+      "2024-05-01T15:30:00+00:00": 130.32000732421875,
+      "2024-05-01T16:30:00+00:00": 130.0399932861328,
+      "2024-05-01T17:30:00+00:00": 130.24000549316406,
+      "2024-05-01T18:30:00+00:00": 129.89500427246094,
+      "2024-05-01T19:30:00+00:00": 131.25999450683594
+    },
+    "sentiment": 0.6506129503250122
   },
   {
-    "title": "Tesla, Two Huge Spinoffs Among Big S&P 500 Stock Movers Monday",
-    "published": 1712553552,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "12 Analysts Assess Mid-America Apartment: What You Need To Know",
+    "published": 1715771040,
+    "day_prices": {
+      "2024-05-15T13:30:00+00:00": 138.6999969482422,
+      "2024-05-15T14:30:00+00:00": 137.92999267578125,
+      "2024-05-15T15:30:00+00:00": 137.2100067138672,
+      "2024-05-15T16:30:00+00:00": 137.52999877929688,
+      "2024-05-15T17:30:00+00:00": 137.28089904785156,
+      "2024-05-15T18:30:00+00:00": 137.9250030517578,
+      "2024-05-15T19:30:00+00:00": 137.22999572753906
+    },
+    "sentiment": 0.9332780241966248
   },
   {
-    "title": "Mid-America Apartment Communities Inc. stock outperforms competitors on strong trading day",
-    "published": 1712549940,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "The Smartest Dividend Stocks to Buy With $1,000 Right Now",
+    "published": 1715678160,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 137.0,
+      "2024-05-14T14:30:00+00:00": 136.5,
+      "2024-05-14T15:30:00+00:00": 136.38999938964844,
+      "2024-05-14T16:30:00+00:00": 136.13999938964844,
+      "2024-05-14T17:30:00+00:00": 136.13499450683594,
+      "2024-05-14T18:30:00+00:00": 136.72999572753906,
+      "2024-05-14T19:30:00+00:00": 136.67999267578125
+    },
+    "sentiment": 0.8975492119789124
   },
   {
-    "title": "Apartment Income Stock Is Soaring on the Blackstone Buyout",
-    "published": 1712537940,
-    "posting_price": 123.63537776,
-    "close_price": 127.33887482,
-    "percent_change": 2.99549945
+    "title": "MAA price target raised by $9 at Morgan Stanley, here's why",
+    "published": 1715671500,
+    "day_prices": {
+      "2024-05-14T13:30:00+00:00": 137.0,
+      "2024-05-14T14:30:00+00:00": 136.5,
+      "2024-05-14T15:30:00+00:00": 136.38999938964844,
+      "2024-05-14T16:30:00+00:00": 136.13999938964844,
+      "2024-05-14T17:30:00+00:00": 136.13499450683594,
+      "2024-05-14T18:30:00+00:00": 136.72999572753906,
+      "2024-05-14T19:30:00+00:00": 136.67999267578125
+    },
+    "sentiment": 0.5514136552810669
   },
   {
-    "title": "March Madness: Elite 8 REITs",
-    "published": 1712473200,
-    "posting_price": 123.63537035,
-    "close_price": 127.33886719,
-    "percent_change": 2.99549945
+    "title": "MAA Announces Pricing of Senior Unsecured Notes Offering",
+    "published": 1715631300,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 135.89999389648438,
+      "2024-05-13T14:30:00+00:00": 135.72000122070312,
+      "2024-05-13T15:30:00+00:00": 135.63999938964844,
+      "2024-05-13T16:30:00+00:00": 135.5749969482422,
+      "2024-05-13T17:30:00+00:00": 135.86000061035156,
+      "2024-05-13T18:30:00+00:00": 135.4600067138672,
+      "2024-05-13T19:30:00+00:00": 135.33999633789062
+    },
+    "sentiment": 0.9088857173919678
   },
   {
-    "title": "Ex-Dividend Date Nearing for These 10 Stocks \u2013 Week of April 8, 2024",
-    "published": 1712460660,
-    "posting_price": 123.63537035,
-    "close_price": 127.33886719,
-    "percent_change": 2.99549945
+    "title": "Mid-America Apartment announces pricing of senior unsecured notes offering",
+    "published": 1715572740,
+    "day_prices": {
+      "2024-05-13T13:30:00+00:00": 135.89999389648438,
+      "2024-05-13T14:30:00+00:00": 135.72000122070312,
+      "2024-05-13T15:30:00+00:00": 135.63999938964844,
+      "2024-05-13T16:30:00+00:00": 135.5749969482422,
+      "2024-05-13T17:30:00+00:00": 135.86000061035156,
+      "2024-05-13T18:30:00+00:00": 135.4600067138672,
+      "2024-05-13T19:30:00+00:00": 135.33999633789062
+    },
+    "sentiment": 0.8775882720947266
   },
   {
-    "title": "Real estate stocks decline as markets price in reduced hopes of near-term rate cut",
-    "published": 1712401620,
-    "posting_price": 123.63537035,
-    "close_price": 127.33886719,
-    "percent_change": 2.99549945
+    "title": "Forget The Fed, These Big Dividends May Win No Matter What",
+    "published": 1715238900,
+    "day_prices": {
+      "2024-05-09T13:30:00+00:00": 133.58999633789062,
+      "2024-05-09T14:30:00+00:00": 133.88499450683594,
+      "2024-05-09T15:30:00+00:00": 133.60000610351562,
+      "2024-05-09T16:30:00+00:00": 133.7050018310547,
+      "2024-05-09T17:30:00+00:00": 134.73500061035156,
+      "2024-05-09T18:30:00+00:00": 135.1199951171875,
+      "2024-05-09T19:30:00+00:00": 135.57000732421875
+    },
+    "sentiment": 0.7975368499755859
   },
   {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 7",
-    "published": 1712394285,
-    "posting_price": 123.63537035,
-    "close_price": 127.33886719,
-    "percent_change": 2.99549945
+    "title": "MAA Announces Quarterly Common Dividend",
+    "published": 1716322500,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 136.8800048828125,
+      "2024-05-21T14:30:00+00:00": 136.84500122070312,
+      "2024-05-21T15:30:00+00:00": 136.86000061035156,
+      "2024-05-21T16:30:00+00:00": 136.72999572753906,
+      "2024-05-21T17:30:00+00:00": 137.0800018310547,
+      "2024-05-21T18:30:00+00:00": 136.92999267578125,
+      "2024-05-21T19:30:00+00:00": 136.6300048828125
+    },
+    "sentiment": 0.7106893658638
   },
   {
-    "title": "8 Stocks I'm Buying The Second Week Of April",
-    "published": 1712392200,
-    "posting_price": 123.63537035,
-    "close_price": 127.33886719,
-    "percent_change": 2.99549945
+    "title": "Apartment REITs see marginal increase in Q1 occupancy rates",
+    "published": 1716254700,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 136.8800048828125,
+      "2024-05-21T14:30:00+00:00": 136.84500122070312,
+      "2024-05-21T15:30:00+00:00": 136.86000061035156,
+      "2024-05-21T16:30:00+00:00": 136.72999572753906,
+      "2024-05-21T17:30:00+00:00": 137.0800018310547,
+      "2024-05-21T18:30:00+00:00": 136.92999267578125,
+      "2024-05-21T19:30:00+00:00": 136.6300048828125
+    },
+    "sentiment": 0.7623062133789062
   },
   {
-    "title": "3 High-Yield Dividend Stocks That Are Screaming Buys in April",
-    "published": 1712387580,
-    "posting_price": 123.63537035,
-    "close_price": 127.33886719,
-    "percent_change": 2.99549945
+    "title": "3 Magnificent Dividend Stocks You Won't Regret Buying Right Now",
+    "published": 1716046140,
+    "day_prices": {},
+    "sentiment": 0.9244087338447571
   },
   {
-    "title": "Peering Into Mid-America Apartment's Recent Short Interest",
-    "published": 1712307960,
-    "posting_price": 121.20795442,
-    "close_price": 121.94673157,
-    "percent_change": 0.6095121
+    "title": "2 High Yielding REIT Picks That Can Be Bought And Potentially Held Forever",
+    "published": 1715860102,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 137.61000061035156,
+      "2024-05-16T14:30:00+00:00": 137.4149932861328,
+      "2024-05-16T15:30:00+00:00": 137.75999450683594,
+      "2024-05-16T16:30:00+00:00": 137.83999633789062,
+      "2024-05-16T17:30:00+00:00": 137.5449981689453,
+      "2024-05-16T18:30:00+00:00": 137.72500610351562,
+      "2024-05-16T19:30:00+00:00": 137.33999633789062
+    },
+    "sentiment": 0.8720601201057434
   },
   {
-    "title": "Better Buy For Retiring With Dividends In April 2024: BDCs Or REITs",
-    "published": 1712128500,
-    "posting_price": 121.71645923,
-    "close_price": 123.24198914,
-    "percent_change": 1.25334726
-  },
-  {
-    "title": "First Financial Corp. (THFF) Q1 Earnings and Revenues Miss Estimates",
-    "published": 1714490102,
-    "posting_price": 125.80404121,
-    "close_price": 126.13392639,
-    "percent_change": 0.26222145
-  },
-  {
-    "title": "Exploring Analyst Estimates for Mid-America Apartment Communities (MAA) Q1 Earnings, Beyond Revenue and EPS",
-    "published": 1714482923,
-    "posting_price": 125.80404121,
-    "close_price": 126.13392639,
-    "percent_change": 0.26222145
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Essex Property, UDR and Mid-America Apartment",
-    "published": 1714470300,
-    "posting_price": 125.80404121,
-    "close_price": 126.13392639,
-    "percent_change": 0.26222145
-  },
-  {
-    "title": "Watch These 3 Residential REITs for Q1 Earnings: Beat or Miss?",
-    "published": 1714411740,
-    "posting_price": 126.19213746,
-    "close_price": 127.23032379,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "What Awaits Mid-America Apartment (MAA) This Earnings Season?",
-    "published": 1714406340,
-    "posting_price": 126.19213746,
-    "close_price": 127.23032379,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "Evaluating Mid-America Apartment: Insights From 9 Financial Analysts",
-    "published": 1714388880,
-    "posting_price": 126.19213746,
-    "close_price": 127.23032379,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "Real estate stocks finish in green as analysts turn positive, earnings surprise to upside",
-    "published": 1714215840,
-    "posting_price": 126.19214503,
-    "close_price": 127.23033142,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "2 Big Dividend Stocks To Add: 7% Income Retirement Series - Part 3",
-    "published": 1714210200,
-    "posting_price": 126.19214503,
-    "close_price": 127.23033142,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 28",
-    "published": 1714210198,
-    "posting_price": 126.19214503,
-    "close_price": 127.23033142,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "7 Stocks I'm Buying The First Week Of May",
-    "published": 1714206600,
-    "posting_price": 126.19214503,
-    "close_price": 127.23033142,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "Benchmark Your Portfolio:\u00a0The VNQ Challenge",
-    "published": 1714204800,
-    "posting_price": 126.19214503,
-    "close_price": 127.23033142,
-    "percent_change": 0.82270286
-  },
-  {
-    "title": "These Apartment REITs Yield Up to 4.6% and Have Long Track Records of Dividend Growth",
-    "published": 1714146626,
-    "posting_price": 123.71798285,
-    "close_price": 125.38682556,
-    "percent_change": 1.34890876
-  },
-  {
-    "title": "Wake Up REIT Investors, It's Time To Drink The 'Kool-Aid'",
-    "published": 1714114800,
-    "posting_price": 123.71798285,
-    "close_price": 125.38682556,
-    "percent_change": 1.34890876
-  },
-  {
-    "title": "Looking Into Mid-America Apartment's Recent Short Interest",
-    "published": 1714006920,
-    "posting_price": 123.77618977,
-    "close_price": 123.41719055,
-    "percent_change": -0.290039
-  },
-  {
-    "title": "Mid-America Apartment (MAA) Receives a Hold from Piper Sandler",
-    "published": 1713770820,
-    "posting_price": 122.49544912,
-    "close_price": 123.6791687,
-    "percent_change": 0.9663376
-  },
-  {
-    "title": "A Hawkish Pivot",
-    "published": 1713690000,
-    "posting_price": 122.49544912,
-    "close_price": 123.6791687,
-    "percent_change": 0.9663376
-  },
-  {
-    "title": "8 Stocks I'm Buying Amid The Dividend Stock Selloff",
-    "published": 1713612600,
-    "posting_price": 122.49544912,
-    "close_price": 123.6791687,
-    "percent_change": 0.9663376
-  },
-  {
-    "title": "Real estate stocks continue on downward trajectory as market's April pullback intensifies",
-    "published": 1713610980,
-    "posting_price": 122.49544912,
-    "close_price": 123.6791687,
-    "percent_change": 0.9663376
-  },
-  {
-    "title": "Buy The Dip: 2 Dividend Stocks Getting Way Too Cheap",
-    "published": 1713598200,
-    "posting_price": 122.49544912,
-    "close_price": 123.6791687,
-    "percent_change": 0.9663376
-  },
-  {
-    "title": "REIT Rally 2.0: Opportunity Awaits For Investment In High-Quality Gems",
-    "published": 1713596400,
-    "posting_price": 122.49544912,
-    "close_price": 123.6791687,
-    "percent_change": 0.9663376
-  },
-  {
-    "title": "BSR REIT: The Next Multifamily M&A Target?",
-    "published": 1713532431,
-    "posting_price": 121.44756433,
-    "close_price": 122.33050537,
-    "percent_change": 0.7270142
-  },
-  {
-    "title": "REIT Earnings Preview: Delay And Pray",
-    "published": 1713517200,
-    "posting_price": 121.44756433,
-    "close_price": 122.33050537,
-    "percent_change": 0.7270142
-  },
-  {
-    "title": "A $1.5 Million Inflation-Resistant Portfolio For Retiring With Dividends",
-    "published": 1713507300,
-    "posting_price": 121.44756433,
-    "close_price": 122.33050537,
-    "percent_change": 0.7270142
-  },
-  {
-    "title": "Mid-America Apartment Communities: The True Inflation Story",
-    "published": 1713461317,
-    "posting_price": 121.22440839,
-    "close_price": 120.91392517,
-    "percent_change": -0.25612269
-  },
-  {
-    "title": "Lesson Learned: Don't Bet The Farm, Always Diversify",
-    "published": 1713337200,
-    "posting_price": 120.15711261,
-    "close_price": 121.08856964,
-    "percent_change": 0.77519925
-  },
-  {
-    "title": "Mid-America Apartment Communities Moves Up In Market Cap Rank, Passing Trimble",
-    "published": 1713325200,
-    "posting_price": 120.15711261,
-    "close_price": 121.08856964,
-    "percent_change": 0.77519925
+    "title": "Winners Of REIT Earnings Season",
+    "published": 1715853600,
+    "day_prices": {
+      "2024-05-16T13:30:00+00:00": 137.61000061035156,
+      "2024-05-16T14:30:00+00:00": 137.4149932861328,
+      "2024-05-16T15:30:00+00:00": 137.75999450683594,
+      "2024-05-16T16:30:00+00:00": 137.83999633789062,
+      "2024-05-16T17:30:00+00:00": 137.5449981689453,
+      "2024-05-16T18:30:00+00:00": 137.72500610351562,
+      "2024-05-16T19:30:00+00:00": 137.33999633789062
+    },
+    "sentiment": 0.8883899450302124
   }
 ]

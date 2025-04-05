@@ -1,212 +1,246 @@
 [
   {
-    "title": "PTC: Valuations Look Stretched",
-    "published": 1713209111,
-    "posting_price": 182.19999695,
-    "close_price": 177.8500061,
-    "percent_change": -2.3874813
+    "title": "Insider Sale at PTC Inc (PTC): EVP, General Counsel and Secretary Aaron C. ...",
+    "published": 1714825800,
+    "day_prices": {},
+    "sentiment": 0.9434115290641785
   },
   {
-    "title": "PTC & Trax to Transform Aircraft MRO Maintenance Activities",
-    "published": 1712926320,
-    "posting_price": 180.21000671,
-    "close_price": 180.05999756,
-    "percent_change": -0.0832413
+    "title": "PTC Inc. (NASDAQ:PTC) Q2 2024 Earnings Call Transcript",
+    "published": 1714765684,
+    "day_prices": {
+      "2024-05-03T13:30:00+00:00": 172.0399932861328,
+      "2024-05-03T14:30:00+00:00": 174.7050018310547,
+      "2024-05-03T15:30:00+00:00": 174.6999969482422,
+      "2024-05-03T16:30:00+00:00": 175.2550048828125,
+      "2024-05-03T17:30:00+00:00": 176.13999938964844,
+      "2024-05-03T18:30:00+00:00": 175.99000549316406,
+      "2024-05-03T19:30:00+00:00": 175.66000366210938
+    },
+    "sentiment": 0.9291580319404602
   },
   {
-    "title": "Ansys (ANSS) Teams Up With BAE Systems to Boost MBSE Adoption",
-    "published": 1712842800,
-    "posting_price": 182.63000488,
-    "close_price": 182.27000427,
-    "percent_change": -0.19712019
+    "title": "PTC's Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
+    "published": 1714655280,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.952288031578064
   },
   {
-    "title": "AAR - Trax and PTC partner to enhance aviation maintenance operations through innovative joint solutions",
-    "published": 1712827957,
-    "posting_price": 182.63000488,
-    "close_price": 182.27000427,
-    "percent_change": -0.19712019
+    "title": "PTC Inc (PTC) Q2 2024 Earnings Call Transcript Highlights: Strong ARR Growth Amidst Market ...",
+    "published": 1714635923,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.9411618113517761
   },
   {
-    "title": "PTC price target raised by $17 at Barclays, here's why",
-    "published": 1712810040,
-    "posting_price": 182.63000488,
-    "close_price": 182.27000427,
-    "percent_change": -0.19712019
+    "title": "Analysts Offer Insights on Technology Companies: Littelfuse (LFUS), PTC (PTC) and Paycom (PAYC)",
+    "published": 1714634040,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.9213424921035767
+  },
+  {
+    "title": "PTC\u2019s Strong FY2Q24 Performance and Growth Outlook Affirm Buy Rating",
+    "published": 1714631340,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.9533747434616089
+  },
+  {
+    "title": "PTC Inc. (PTC) Q2 2024 Earnings Call Transcript",
+    "published": 1714629664,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.9274919033050537
+  },
+  {
+    "title": "PTC (PTC) Gets a Buy from RBC Capital",
+    "published": 1714628220,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.6170724630355835
+  },
+  {
+    "title": "PTC price target lowered by $8 at Citi, here's why",
+    "published": 1714626420,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.7655211091041565
+  },
+  {
+    "title": "Analysts Offer Insights on Technology Companies: NXP Semiconductors (NXPI), CSG Systems International (CSGS) and PTC (PTC)",
+    "published": 1714616520,
+    "day_prices": {
+      "2024-05-02T13:30:00+00:00": 166.61000061035156,
+      "2024-05-02T14:30:00+00:00": 174.17999267578125,
+      "2024-05-02T15:30:00+00:00": 175.44000244140625,
+      "2024-05-02T16:30:00+00:00": 174.7100067138672,
+      "2024-05-02T17:30:00+00:00": 174.61000061035156,
+      "2024-05-02T18:30:00+00:00": 173.97999572753906,
+      "2024-05-02T19:30:00+00:00": 171.4550018310547
+    },
+    "sentiment": 0.9182279109954834
+  },
+  {
+    "title": "PTC Inc (PTC) Q2 Fiscal 2024 Earnings: Surpasses Analyst Revenue Forecasts",
+    "published": 1714599926,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 177.19000244140625,
+      "2024-05-01T14:30:00+00:00": 175.84500122070312,
+      "2024-05-01T15:30:00+00:00": 175.1199951171875,
+      "2024-05-01T16:30:00+00:00": 175.60000610351562,
+      "2024-05-01T17:30:00+00:00": 174.65750122070312,
+      "2024-05-01T18:30:00+00:00": 176.4550018310547,
+      "2024-05-01T19:30:00+00:00": 177.3699951171875
+    },
+    "sentiment": 0.9077950119972229
+  },
+  {
+    "title": "PTC (NASDAQ:PTC) Exceeds Q1 Expectations But Full-Year Guidance Underwhelms",
+    "published": 1714594293,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 177.19000244140625,
+      "2024-05-01T14:30:00+00:00": 175.84500122070312,
+      "2024-05-01T15:30:00+00:00": 175.1199951171875,
+      "2024-05-01T16:30:00+00:00": 175.60000610351562,
+      "2024-05-01T17:30:00+00:00": 174.65750122070312,
+      "2024-05-01T18:30:00+00:00": 176.4550018310547,
+      "2024-05-01T19:30:00+00:00": 177.3699951171875
+    },
+    "sentiment": 0.6588425636291504
+  },
+  {
+    "title": "PTC Inc.: Fiscal Q2 Earnings Snapshot",
+    "published": 1714579818,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 177.19000244140625,
+      "2024-05-01T14:30:00+00:00": 175.84500122070312,
+      "2024-05-01T15:30:00+00:00": 175.1199951171875,
+      "2024-05-01T16:30:00+00:00": 175.60000610351562,
+      "2024-05-01T17:30:00+00:00": 174.65750122070312,
+      "2024-05-01T18:30:00+00:00": 176.4550018310547,
+      "2024-05-01T19:30:00+00:00": 177.3699951171875
+    },
+    "sentiment": 0.94798743724823
+  },
+  {
+    "title": "PTC Stock Earnings: PTC Beats EPS, Beats Revenue for Q2 2024",
+    "published": 1714550460,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 177.19000244140625,
+      "2024-05-01T14:30:00+00:00": 175.84500122070312,
+      "2024-05-01T15:30:00+00:00": 175.1199951171875,
+      "2024-05-01T16:30:00+00:00": 175.60000610351562,
+      "2024-05-01T17:30:00+00:00": 174.65750122070312,
+      "2024-05-01T18:30:00+00:00": 176.4550018310547,
+      "2024-05-01T19:30:00+00:00": 177.3699951171875
+    },
+    "sentiment": 0.7031016945838928
+  },
+  {
+    "title": "PTC narrows FY24 non-GAAP EPS view to $4.60-$5.10 from $4.50-$5.20",
+    "published": 1714532940,
+    "day_prices": {
+      "2024-05-01T13:30:00+00:00": 177.19000244140625,
+      "2024-05-01T14:30:00+00:00": 175.84500122070312,
+      "2024-05-01T15:30:00+00:00": 175.1199951171875,
+      "2024-05-01T16:30:00+00:00": 175.60000610351562,
+      "2024-05-01T17:30:00+00:00": 174.65750122070312,
+      "2024-05-01T18:30:00+00:00": 176.4550018310547,
+      "2024-05-01T19:30:00+00:00": 177.3699951171875
+    },
+    "sentiment": 0.8002705574035645
+  },
+  {
+    "title": "PTC Moves Up In Market Cap Rank, Passing Ball",
+    "published": 1715316420,
+    "day_prices": {
+      "2024-05-10T13:30:00+00:00": 180.6199951171875,
+      "2024-05-10T14:30:00+00:00": 180.97999572753906,
+      "2024-05-10T15:30:00+00:00": 180.0500030517578,
+      "2024-05-10T16:30:00+00:00": 179.97000122070312,
+      "2024-05-10T17:30:00+00:00": 179.4600067138672,
+      "2024-05-10T18:30:00+00:00": 180.19000244140625,
+      "2024-05-10T19:30:00+00:00": 180.13900756835938
+    },
+    "sentiment": 0.9319341778755188
   },
   {
     "title": "PTC (PTC): New Buy Recommendation for This Technology Giant",
-    "published": 1712801220,
-    "posting_price": 182.63000488,
-    "close_price": 182.27000427,
-    "percent_change": -0.19712019
+    "published": 1716279360,
+    "day_prices": {
+      "2024-05-21T13:30:00+00:00": 183.60000610351562,
+      "2024-05-21T14:30:00+00:00": 183.14999389648438,
+      "2024-05-21T15:30:00+00:00": 183.66000366210938,
+      "2024-05-21T16:30:00+00:00": 183.3249969482422,
+      "2024-05-21T17:30:00+00:00": 183.2902069091797,
+      "2024-05-21T18:30:00+00:00": 182.90499877929688,
+      "2024-05-21T19:30:00+00:00": 182.8300018310547
+    },
+    "sentiment": 0.49995625019073486
   },
   {
-    "title": "PTC to Announce Fiscal Q2'24 Results on Wednesday, May 1st, 2024",
-    "published": 1712787360,
-    "posting_price": 185.33999634,
-    "close_price": 181.91999817,
-    "percent_change": -1.84525641
-  },
-  {
-    "title": "Trax and PTC partner to enhance aviation maintenance operations through innovative joint solutions",
-    "published": 1712779500,
-    "posting_price": 185.33999634,
-    "close_price": 181.91999817,
-    "percent_change": -1.84525641
-  },
-  {
-    "title": "Commit To Purchase PTC At $175, Earn 7.9% Annualized Using Options",
-    "published": 1712750280,
-    "posting_price": 185.33999634,
-    "close_price": 181.91999817,
-    "percent_change": -1.84525641
-  },
-  {
-    "title": "$1000 Invested In This Stock 10 Years Ago Would Be Worth $5,500 Today",
-    "published": 1712748780,
-    "posting_price": 185.33999634,
-    "close_price": 181.91999817,
-    "percent_change": -1.84525641
-  },
-  {
-    "title": "Trax and PTC partner to enhance aviation maintenance operations",
-    "published": 1712719560,
-    "posting_price": 185.33999634,
-    "close_price": 181.91999817,
-    "percent_change": -1.84525641
-  },
-  {
-    "title": "PTC, Trax announce partnership",
-    "published": 1712718420,
-    "posting_price": 185.33999634,
-    "close_price": 181.91999817,
-    "percent_change": -1.84525641
-  },
-  {
-    "title": "PTC should benefit from rising PMI readings, Baird says",
-    "published": 1712060580,
-    "posting_price": 186.38000488,
-    "close_price": 186.61000061,
-    "percent_change": 0.1234015
-  },
-  {
-    "title": "Assessing PTC: Insights From 12 Financial Analysts",
-    "published": 1712041500,
-    "posting_price": 186.38000488,
-    "close_price": 186.61000061,
-    "percent_change": 0.1234015
-  },
-  {
-    "title": "PTC usually sees positive sentiment when manufacturing gains, says Baird",
-    "published": 1712037060,
-    "posting_price": 186.38000488,
-    "close_price": 186.61000061,
-    "percent_change": 0.1234015
-  },
-  {
-    "title": "3 3D Printing Stocks With the Potential to Make You an Overnight Millionaire",
-    "published": 1714475220,
-    "posting_price": 179.6499939,
-    "close_price": 177.44000244,
-    "percent_change": -1.23016506
-  },
-  {
-    "title": "$100 Invested In PTC 10 Years Ago Would Be Worth This Much Today",
-    "published": 1714471320,
-    "posting_price": 179.6499939,
-    "close_price": 177.44000244,
-    "percent_change": -1.23016506
-  },
-  {
-    "title": "PTC Earnings: What To Look For From PTC",
-    "published": 1714460850,
-    "posting_price": 179.6499939,
-    "close_price": 177.44000244,
-    "percent_change": -1.23016506
-  },
-  {
-    "title": "Unveiling PTC Inc. (PTC) Q2 Outlook: Wall Street Estimates for Key Metrics",
-    "published": 1714396562,
-    "posting_price": 180.8500061,
-    "close_price": 180.67999268,
-    "percent_change": -0.09400797
-  },
-  {
-    "title": "PTC Set to Report Q2 Earnings: Here's What You Should Know",
-    "published": 1714150440,
-    "posting_price": 180.3999939,
-    "close_price": 180.99000549,
-    "percent_change": 0.32705743
-  },
-  {
-    "title": "Returns On Capital Are Showing Encouraging Signs At PTC (NASDAQ:PTC)",
-    "published": 1714056549,
-    "posting_price": 179.05000305,
-    "close_price": 179.88000488,
-    "percent_change": 0.46355868
-  },
-  {
-    "title": "Open Text (OTEX) Reports Next Week: Wall Street Expects Earnings Growth",
-    "published": 1714053725,
-    "posting_price": 179.05000305,
-    "close_price": 179.88000488,
-    "percent_change": 0.46355868
-  },
-  {
-    "title": "PTC named as the Outright Leader in 2024 SPARK Matrix for Retail Product Lifecycle Management (RPLM) by Quadrant Knowledge Solutions",
-    "published": 1714040460,
-    "posting_price": 179.05000305,
-    "close_price": 179.88000488,
-    "percent_change": 0.46355868
-  },
-  {
-    "title": "PTC Inc. (PTC) Earnings Expected to Grow: Should You Buy?",
-    "published": 1713967306,
-    "posting_price": 181.38000488,
-    "close_price": 180.5,
-    "percent_change": -0.48517194
-  },
-  {
-    "title": "Robust ARR and Positive Market Position Justify Outperform Rating for PTC",
-    "published": 1713922020,
-    "posting_price": 181.38000488,
-    "close_price": 180.5,
-    "percent_change": -0.48517194
-  },
-  {
-    "title": "3 Robotics Stocks to Buy Now: Q2 Edition",
-    "published": 1713891420,
-    "posting_price": 179.38999939,
-    "close_price": 180.44000244,
-    "percent_change": 0.58531861
-  },
-  {
-    "title": "PTC rises as Baird maintains Outperform rating following 'favorable' reseller feedback",
-    "published": 1713835200,
-    "posting_price": 179.38999939,
-    "close_price": 180.44000244,
-    "percent_change": 0.58531861
-  },
-  {
-    "title": "Madison Small Cap Fund Sold PTC in Q1",
-    "published": 1713444059,
-    "posting_price": 178.30999756,
-    "close_price": 175.69999695,
-    "percent_change": -1.46374328
-  },
-  {
-    "title": "Buy Rating Affirmed for PTC with Positive ARR Growth and Strong FY2Q24 Outlook",
-    "published": 1713420960,
-    "posting_price": 178.30999756,
-    "close_price": 175.69999695,
-    "percent_change": -1.46374328
-  },
-  {
-    "title": "New Buy Rating for PTC (PTC), the Technology Giant",
-    "published": 1713322680,
-    "posting_price": 179.27999878,
-    "close_price": 177.47999573,
-    "percent_change": -1.00401777
+    "title": "Interesting PTC Put And Call Options For January 2025",
+    "published": 1715941920,
+    "day_prices": {
+      "2024-05-17T13:30:00+00:00": 185.0,
+      "2024-05-17T14:30:00+00:00": 183.17999267578125,
+      "2024-05-17T15:30:00+00:00": 183.48500061035156,
+      "2024-05-17T16:30:00+00:00": 183.5399932861328,
+      "2024-05-17T17:30:00+00:00": 183.17999267578125,
+      "2024-05-17T18:30:00+00:00": 183.35000610351562,
+      "2024-05-17T19:30:00+00:00": 183.72999572753906
+    },
+    "sentiment": 0.9400283694267273
   }
 ]
