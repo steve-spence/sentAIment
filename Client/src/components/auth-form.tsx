@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useAuth } from "../lib/auth.js";
+import { useAuth } from "@/components/auth-Provider";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -115,23 +115,49 @@ export function AuthForm() {
   // Handle signup form submission
   const onSignupSubmit = async (data: SignupFormValues) => {
     console.log("Signup form submitted with data:", data);
-    console.log("Username:", data.username);
-    console.log("Email:", data.email);
-    console.log("Password:", data.password ? "[REDACTED]" : "missing");
     
     setSuccess(null);
     try {
-      console.log("Calling signup with:", {
-        username: data.username,
-        email: data.email,
-        passwordLength: data.password ? data.password.length : 0
+      // Validate data before submission
+      if (!data.username || !data.email || !data.password) {
+        throw new Error('All fields are required');
+      }
+
+      // Clean the data before sending
+      const cleanData = {
+        username: data.username.trim(),
+        email: data.email.trim(),
+        password: data.password
+      };
+
+      console.log("Calling signup with cleaned data:", {
+        username: cleanData.username,
+        email: cleanData.email,
+        passwordLength: cleanData.password.length
       });
-      await signup(data.username, data.email, data.password);
+
+      await signup(cleanData.username, cleanData.email, cleanData.password);
       console.log("Signup successful!");
       setSuccess("Account created successfully! Redirecting to dashboard...");
-      router.push("/dashboard");
+      
+      // Add a small delay before redirecting
+      setTimeout(() => {
+        router.push("/dashboard");
+      }, 1000);
     } catch (err) {
       console.error("Signup error:", err);
+      // Handle specific error cases
+      if (err instanceof Error) {
+        if (err.message.includes('JSON.parse')) {
+          console.error('JSON parsing error:', err);
+          setSuccess(null);
+          // Update the auth error state if available
+          // You might need to add a setError function from your auth context
+        } else {
+          setSuccess(null);
+          // Handle other types of errors
+        }
+      }
     }
   };
 

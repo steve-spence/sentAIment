@@ -97,50 +97,7 @@ export const stocks: Stock[] = [
 ];
 
 // Sample watchlist data
-export const watchlistItems: WatchlistItem[] = [
-  {
-    id: "1",
-    name: "Amazon.com, Inc.",
-    symbol: "AMZN",
-    price: 102.24,
-    change: 0.02
-  },
-  {
-    id: "2",
-    name: "Coca-Cola Co",
-    symbol: "KO",
-    price: 60.49,
-    change: -0.32
-  },
-  {
-    id: "3",
-    name: "Bayerische Motoren Werke AG",
-    symbol: "BMW",
-    price: 92.94,
-    change: 0.08
-  },
-  {
-    id: "4",
-    name: "Microsoft Corp",
-    symbol: "MSFT",
-    price: 248.16,
-    change: 0.16
-  },
-  {
-    id: "5",
-    name: "United Parcel Service, Inc.",
-    symbol: "UPS",
-    price: 182.09,
-    change: 2.39
-  },
-  {
-    id: "6",
-    name: "Mastercard Inc",
-    symbol: "MA",
-    price: 364.78,
-    change: 1.21
-  }
-];
+
 
 // Portfolio data
 export const portfolioData = {
