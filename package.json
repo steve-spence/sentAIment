@@ -6,20 +6,20 @@
     "Client",
     "Server"
   ],
-  "scripts": {
-    "dev:server": "yarn workspace server dev",
-    "dev:client": "yarn workspace client dev",
+"scripts": {
+    "dev:server": "cd Server && nodemon --exec ts-node main.ts",
+    "dev:client": "cd Client && next dev --turbo",
     "dev": "cd Server/Database && supabase start && concurrently \"yarn dev:server\" \"yarn dev:client\"",
-    "server": "yarn workspace server dev",
-    "client": "yarn workspace client dev",
-    "build": "yarn workspace client build",
-    "start:client": "yarn workspace client start",
-    "start:server": "yarn workspace server start",
+    "server": "cd Server && nodemon --exec ts-node main.ts",
+    "client": "cd Client && next dev",
+    "build": "cd Client && next build",
+    "start:client": "cd Client && next start",
+    "start:server": "cd Server && ts-node main.ts",
     "start": "concurrently \"yarn start:server\" \"yarn start:client\"",
-    "lint": "yarn workspace client lint",
-    "db:generate": "yarn workspace server generate",
-    "db:migrate": "yarn workspace server migrate",
-    "db:studio": "yarn workspace server studio"
+    "lint": "cd Client && next lint",
+    "db:generate": "cd Server && drizzle-kit generate:pg",
+    "db:migrate": "cd Server && ts-node Database/db/migrate.ts",
+    "db:studio": "cd Server && drizzle-kit studio"
   },
   "dependencies": {
     "@hookform/resolvers": "^4.1.3",

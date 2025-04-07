@@ -8,7 +8,7 @@ install-state.gz
 .pnp.cjs
 .pnp.loader.mjs
 
-# Yarn v4 files
+# Yarn files
 .yarn/*
 !.yarn/releases
 !.yarn/plugins
