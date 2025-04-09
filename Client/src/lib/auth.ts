@@ -45,9 +45,7 @@ export const signup = async (username: string, email: string, password: string) 
       const response = await fetch(`${API_URL}/users/${authData.user.id}`, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Allow-Methods': 'POST, GET, OPTIONS',
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify({
           username,
