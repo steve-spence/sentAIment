@@ -22,7 +22,7 @@ export const login = async (email: string, password: string) => {
 
 export const signup = async (username: string, email: string, password: string) => {
   let authData = null;
-  
+
   try {
     // First, create the user in Supabase Auth
     const { data, error: authError } = await supabase.auth.signUp({
@@ -46,6 +46,8 @@ export const signup = async (username: string, email: string, password: string) 
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'POST, GET, OPTIONS',
         },
         body: JSON.stringify({
           username,
