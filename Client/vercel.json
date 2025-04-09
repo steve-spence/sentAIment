@@ -1,29 +1,27 @@
-[
-    {
-        "version": 2,
-        "$schema": "https://openapi.vercel.sh/vercel.json",
-        "buildCommand": "yarn build",
-        "installCommand": "yarn install",
-        "framework": "nextjs",
-        "builds":[
-            {
-                "src": "Client/next.config.js",
-                "use": "@vercel/next"
-            },
-            {
-                "src": "Server/main.ts",
-                "use": "@vercel/node"
-            }
-        ],
-        "routes": [
-            {
-                "src": "/api/(.*)",
-                "dest": "../Server/main.ts"
-            },
-            {
-                "src": "/(.*)",
-                "dest": "Client/$1"
-            }
-        ]
-    }
-]
+{
+    "version": 2,
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "buildCommand": "yarn build",
+    "installCommand": "yarn install",
+    "framework": "nextjs",
+    "builds": [
+        {
+            "src": "Client/next.config.js",
+            "use": "@vercel/next"
+        },
+        {
+            "src": "Server/main.ts",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/api/(.*)",
+            "dest": "../Server/main.ts"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "Client/$1"
+        }
+    ]
+}
