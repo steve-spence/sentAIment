@@ -2,7 +2,7 @@
 
 import { supabase } from "./supabase";
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001/api';
+const API_URL = process.env.NEXT_PUBLIC_SUPABASE_URL || 'http://localhost:3001/api';
 
 export const login = async (email: string, password: string) => {
   try {
@@ -22,7 +22,7 @@ export const login = async (email: string, password: string) => {
 
 export const signup = async (username: string, email: string, password: string) => {
   let authData = null;
-  
+
   try {
     // First, create the user in Supabase Auth
     const { data, error: authError } = await supabase.auth.signUp({
