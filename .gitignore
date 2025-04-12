@@ -14,4 +14,7 @@ install-state.gz
 !.yarn/plugins
 !.yarn/versions
 
+# Python stuff
+.venv
+
 .vscode/

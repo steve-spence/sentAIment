@@ -3,6 +3,7 @@ import cors from "cors";
 import { json } from "body-parser";
 import { router } from "./Controller/routes";
 import dotenv from "dotenv";
+import { VercelRequest, VercelResponse } from '@vercel/node'
 
 // Load environment variables
 dotenv.config({ path: __dirname + "/../.env" });
@@ -26,6 +27,11 @@ app.get('/api/health', (req: Request, res: Response) => {
   res.json({ status: 'ok', message: 'Server is running' });
 });
 
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
-});
+// app.listen(port, () => {
+//   console.log(`Server is running on port ${port}`);
+// });
+
+// Vercel handles the networking layer
+export default (req: VercelRequest, res: VercelResponse) => {
+  return app(req as any, res as any);
+}
